@@ -2,8 +2,12 @@ import os
 import json
 import time
 import re
+import tempfile
+import mimetypes
 import requests
+
 from bs4 import BeautifulSoup
+from urllib.parse import urlparse
 
 
 # =========================================================
@@ -11,14 +15,8 @@ from bs4 import BeautifulSoup
 # =========================================================
 
 BOT_TOKEN = os.environ["BOT_TOKEN"].strip()
-
-# CHAT_ID دیگر اجباری نیست.
-# اگر اشتباه باشد، می‌توانیم از /setdestination استفاده کنیم.
-CHAT_ID = os.environ.get("CHAT_ID", "").strip()
-
-OWNER_ID = int(
-    os.environ["OWNER_ID"].strip()
-)
+CHAT_ID = os.environ["CHAT_ID"].strip()
+OWNER_ID = int(os.environ["OWNER_ID"])
 
 CHANNELS_FILE = "channels.json"
 STATE_FILE = "state.json"
@@ -42,7 +40,6 @@ HELP_TEXT = (
     "/remove username - حذف کانال\n"
     "/list - لیست کانال‌ها\n"
     "/id - نمایش شناسه چت فعلی\n"
-    "/setdestination - تعیین همین چت به عنوان مقصد\n"
     "/help - راهنما"
 )
 
@@ -127,89 +124,35 @@ def telegram_call(method, **params):
 
     if not result.get("ok"):
 
-        description = result.get(
-            "description",
-            "Unknown Telegram error"
-        )
-
-        error_code = result.get(
-            "error_code",
-            response.status_code
-        )
-
         raise Exception(
             f"Telegram API error "
-            f"{error_code}: {description}"
+            f"{result.get('error_code', response.status_code)}: "
+            f"{result.get('description', 'Unknown error')}"
         )
 
     return result
 
 
 # =========================================================
-# DESTINATION
+# TEST DESTINATION
 # =========================================================
 
-def get_destination_id(bot_state):
-
-    # اولویت با مقصدی است که با /setdestination ذخیره شده
-    saved_destination = (
-        bot_state.get(
-            "destination_chat_id"
-        )
-    )
-
-    if saved_destination:
-
-        return str(saved_destination).strip()
-
-    # در غیر این صورت از GitHub Secret استفاده می‌کنیم
-    if CHAT_ID:
-
-        return CHAT_ID
-
-    return ""
-
-
-def test_destination(bot_state):
-
-    destination_id = get_destination_id(
-        bot_state
-    )
+def test_destination():
 
     print("")
     print("=" * 60)
     print("TESTING DESTINATION CHAT")
     print("=" * 60)
 
-    if not destination_id:
-
-        print(
-            "[ERROR] هیچ مقصدی تنظیم نشده."
-        )
-
-        print("")
-        print(
-            "داخل گروه مقصد دستور زیر را بفرست:"
-        )
-
-        print(
-            "/setdestination"
-        )
-
-        print("=" * 60)
-
-        return False
-
     print(
-        f"[INFO] DESTINATION_ID = "
-        f"{destination_id}"
+        f"[INFO] DESTINATION_ID = {CHAT_ID}"
     )
 
     try:
 
         result = telegram_call(
             "getChat",
-            chat_id=destination_id
+            chat_id=CHAT_ID
         )
 
         chat = result.get(
@@ -221,18 +164,15 @@ def test_destination(bot_state):
         print("[OK] مقصد پیدا شد.")
 
         print(
-            f"[CHAT ID] "
-            f"{chat.get('id')}"
+            f"[CHAT ID] {chat.get('id')}"
         )
 
         print(
-            f"[CHAT TYPE] "
-            f"{chat.get('type')}"
+            f"[CHAT TYPE] {chat.get('type')}"
         )
 
         print(
-            f"[CHAT TITLE] "
-            f"{chat.get('title')}"
+            f"[CHAT TITLE] {chat.get('title')}"
         )
 
         if chat.get("username"):
@@ -249,19 +189,13 @@ def test_destination(bot_state):
     except Exception as e:
 
         print("")
-        print(
-            "[ERROR] مقصد Telegram معتبر نیست."
-        )
-
-        print(
-            f"[DETAIL] {e}"
-        )
+        print("[FATAL] مقصد Telegram مشکل دارد.")
+        print(f"[DETAIL] {e}")
 
         print("")
         print(
-            "اگر CHAT_ID اشتباه است، "
-            "داخل گروه مقصد /setdestination "
-            "را بفرست."
+            "CHAT_ID باید شناسه واقعی گروه باشد، "
+            "مثلاً -1001234567890"
         )
 
         print("=" * 60)
@@ -270,8 +204,18 @@ def test_destination(bot_state):
 
 
 # =========================================================
-# SEND MESSAGE TO ANY CHAT
+# SEND TEXT
 # =========================================================
+
+def send_message(text):
+
+    return telegram_call(
+        "sendMessage",
+        chat_id=CHAT_ID,
+        text=text[:4096],
+        disable_web_page_preview=False
+    )
+
 
 def send_message_to_chat(
     chat_id,
@@ -281,162 +225,226 @@ def send_message_to_chat(
     return telegram_call(
         "sendMessage",
         chat_id=chat_id,
-        text=text[:4096],
-        disable_web_page_preview=False
+        text=text[:4096]
     )
 
 
 # =========================================================
-# SEND MESSAGE TO DESTINATION
+# MEDIA URL CLEANUP
 # =========================================================
 
-def send_message(text, bot_state):
+def clean_media_url(url):
 
-    destination_id = get_destination_id(
-        bot_state
+    if not url:
+        return None
+
+    url = url.strip()
+
+    # حذف کوتیشن‌های احتمالی
+    url = url.strip("\"'")
+
+    # تبدیل HTML entities احتمالی
+    url = (
+        url.replace("&amp;", "&")
+           .replace("&quot;", "\"")
+           .replace("&#39;", "'")
     )
 
-    if not destination_id:
-
-        raise Exception(
-            "Destination chat ID is not configured."
-        )
-
-    return telegram_call(
-        "sendMessage",
-        chat_id=destination_id,
-        text=text[:4096],
-        disable_web_page_preview=False
-    )
-
-
-# =========================================================
-# SEND PHOTO
-# =========================================================
-
-def send_photo(
-    photo_url,
-    caption,
-    bot_state
-):
-
-    destination_id = get_destination_id(
-        bot_state
-    )
-
-    if not destination_id:
-
-        raise Exception(
-            "Destination chat ID is not configured."
-        )
-
-    return telegram_call(
-        "sendPhoto",
-        chat_id=destination_id,
-        photo=photo_url,
-        caption=caption[:1024]
-    )
-
-
-# =========================================================
-# SEND VIDEO
-# =========================================================
-
-def send_video(
-    video_url,
-    caption,
-    bot_state
-):
-
-    destination_id = get_destination_id(
-        bot_state
-    )
-
-    if not destination_id:
-
-        raise Exception(
-            "Destination chat ID is not configured."
-        )
-
-    return telegram_call(
-        "sendVideo",
-        chat_id=destination_id,
-        video=video_url,
-        caption=caption[:1024],
-        supports_streaming=True
-    )
+    return url
 
 
 # =========================================================
 # DOWNLOAD MEDIA
 # =========================================================
 
-def download_file(url):
+def download_media(url):
+
+    url = clean_media_url(url)
+
+    if not url:
+        raise Exception("Media URL خالی است.")
 
     print(
-        f"[DOWNLOAD] {url}"
+        f"[DOWNLOAD] {url[:250]}"
     )
 
-    response = requests.get(
-        url,
-        headers=HEADERS,
-        timeout=180
-    )
+    try:
 
-    response.raise_for_status()
-
-    filename = (
-        url.split("?")[0]
-        .rstrip("/")
-        .split("/")[-1]
-    )
-
-    if not filename:
-
-        filename = "telegram_media"
-
-    # حذف کاراکترهای خطرناک از اسم فایل
-    filename = re.sub(
-        r"[^A-Za-z0-9._-]",
-        "_",
-        filename
-    )
-
-    path = (
-        f"/tmp/{filename}"
-    )
-
-    with open(
-        path,
-        "wb"
-    ) as f:
-
-        f.write(
-            response.content
+        response = requests.get(
+            url,
+            headers=HEADERS,
+            timeout=180,
+            stream=True
         )
 
-    return path
+        response.raise_for_status()
 
-
-# =========================================================
-# SEND LOCAL DOCUMENT
-# =========================================================
-
-def send_document_file(
-    file_path,
-    caption,
-    bot_state
-):
-
-    destination_id = get_destination_id(
-        bot_state
-    )
-
-    if not destination_id:
+    except requests.RequestException as e:
 
         raise Exception(
-            "Destination chat ID is not configured."
+            f"دانلود مدیا ناموفق بود: {e}"
         )
+
+    # -----------------------------------------------------
+    # Content-Type
+    # -----------------------------------------------------
+
+    content_type = (
+        response.headers
+        .get("Content-Type", "")
+        .lower()
+        .split(";")[0]
+        .strip()
+    )
+
+    # -----------------------------------------------------
+    # Extension
+    # -----------------------------------------------------
+
+    extension = ""
+
+    guessed = mimetypes.guess_extension(
+        content_type
+    )
+
+    if guessed:
+        extension = guessed
+
+    # اگر از Content-Type تشخیص داده نشد
+    if not extension:
+
+        path = urlparse(url).path
+
+        match = re.search(
+            r"(\.(jpg|jpeg|png|webp|gif|mp4|mov|m4v|webm))$",
+            path,
+            re.IGNORECASE
+        )
+
+        if match:
+
+            extension = (
+                "." +
+                match.group(1)
+                .lstrip(".")
+                .lower()
+            )
+
+    # -----------------------------------------------------
+    # Fallback
+    # -----------------------------------------------------
+
+    if not extension:
+
+        extension = ".bin"
+
+    # -----------------------------------------------------
+    # Safe short filename
+    #
+    # بسیار مهم:
+    # دیگر URL را اسم فایل نمی‌کنیم.
+    # -----------------------------------------------------
+
+    suffix = extension[:10]
+
+    temp = tempfile.NamedTemporaryFile(
+        prefix="tg_media_",
+        suffix=suffix,
+        delete=False
+    )
+
+    file_path = temp.name
+
+    total_size = 0
+
+    try:
+
+        with temp:
+
+            for chunk in response.iter_content(
+                chunk_size=1024 * 1024
+            ):
+
+                if not chunk:
+                    continue
+
+                temp.write(chunk)
+
+                total_size += len(chunk)
+
+        print(
+            f"[DOWNLOAD OK] "
+            f"{total_size / 1024 / 1024:.2f} MB "
+            f"-> {file_path}"
+        )
+
+        if total_size == 0:
+
+            raise Exception(
+                "فایل دانلود شد ولی حجم آن صفر است."
+            )
+
+        return file_path, content_type, total_size
+
+    except Exception:
+
+        try:
+            os.remove(file_path)
+        except Exception:
+            pass
+
+        raise
+
+
+# =========================================================
+# REMOVE TEMP FILE
+# =========================================================
+
+def remove_temp_file(path):
+
+    if not path:
+        return
+
+    try:
+
+        if os.path.exists(path):
+
+            os.remove(path)
+
+    except Exception:
+
+        pass
+
+
+# =========================================================
+# SEND PHOTO BY URL
+# =========================================================
+
+def send_photo_url(
+    photo_url,
+    caption=""
+):
+
+    return telegram_call(
+        "sendPhoto",
+        chat_id=CHAT_ID,
+        photo=photo_url,
+        caption=caption[:1024]
+    )
+
+
+# =========================================================
+# SEND PHOTO BY LOCAL FILE
+# =========================================================
+
+def send_photo_file(
+    file_path,
+    caption=""
+):
+
+    print(
+        f"[UPLOAD PHOTO] {file_path}"
+    )
 
     with open(
         file_path,
@@ -444,13 +452,13 @@ def send_document_file(
     ) as file:
 
         response = requests.post(
-            f"{API}/sendDocument",
+            f"{API}/sendPhoto",
             data={
-                "chat_id": destination_id,
+                "chat_id": CHAT_ID,
                 "caption": caption[:1024]
             },
             files={
-                "document": file
+                "photo": file
             },
             timeout=180
         )
@@ -479,24 +487,35 @@ def send_document_file(
 
 
 # =========================================================
-# SEND LOCAL PHOTO
+# SEND VIDEO BY URL
 # =========================================================
 
-def send_photo_file(
-    file_path,
-    caption,
-    bot_state
+def send_video_url(
+    video_url,
+    caption=""
 ):
 
-    destination_id = get_destination_id(
-        bot_state
+    return telegram_call(
+        "sendVideo",
+        chat_id=CHAT_ID,
+        video=video_url,
+        caption=caption[:1024],
+        supports_streaming=True
     )
 
-    if not destination_id:
 
-        raise Exception(
-            "Destination chat ID is not configured."
-        )
+# =========================================================
+# SEND VIDEO BY LOCAL FILE
+# =========================================================
+
+def send_video_file(
+    file_path,
+    caption=""
+):
+
+    print(
+        f"[UPLOAD VIDEO] {file_path}"
+    )
 
     with open(
         file_path,
@@ -504,15 +523,16 @@ def send_photo_file(
     ) as file:
 
         response = requests.post(
-            f"{API}/sendPhoto",
+            f"{API}/sendVideo",
             data={
-                "chat_id": destination_id,
-                "caption": caption[:1024]
+                "chat_id": CHAT_ID,
+                "caption": caption[:1024],
+                "supports_streaming": "true"
             },
             files={
-                "photo": file
+                "video": file
             },
-            timeout=180
+            timeout=300
         )
 
     try:
@@ -598,9 +618,9 @@ def fetch_channel_posts(username):
 
             continue
 
-        # =================================================
+        # -------------------------------------------------
         # TEXT
-        # =================================================
+        # -------------------------------------------------
 
         text_div = wrap.select_one(
             ".tgme_widget_message_text"
@@ -615,9 +635,9 @@ def fetch_channel_posts(username):
                 strip=True
             )
 
-        # =================================================
+        # -------------------------------------------------
         # LINK
-        # =================================================
+        # -------------------------------------------------
 
         link = (
             f"https://t.me/"
@@ -625,9 +645,9 @@ def fetch_channel_posts(username):
             f"{post_id}"
         )
 
-        # =================================================
-        # PHOTO
-        # =================================================
+        # -------------------------------------------------
+        # PHOTOS
+        # -------------------------------------------------
 
         photos = []
 
@@ -640,6 +660,7 @@ def fetch_channel_posts(username):
                 ""
             )
 
+            # حالت عادی
             match = re.search(
                 r"url\(['\"]?([^'\")]+)",
                 style
@@ -647,13 +668,24 @@ def fetch_channel_posts(username):
 
             if match:
 
-                photos.append(
+                media_url = clean_media_url(
                     match.group(1)
                 )
 
-        # =================================================
+                if media_url:
+
+                    photos.append(
+                        media_url
+                    )
+
+        # حذف موارد تکراری
+        photos = list(
+            dict.fromkeys(photos)
+        )
+
+        # -------------------------------------------------
         # VIDEO
-        # =================================================
+        # -------------------------------------------------
 
         video_url = None
 
@@ -679,6 +711,14 @@ def fetch_channel_posts(username):
                     "src"
                 )
 
+            video_url = clean_media_url(
+                video_url
+            )
+
+        # -------------------------------------------------
+        # SAVE
+        # -------------------------------------------------
+
         posts.append(
             {
                 "id": post_id,
@@ -697,13 +737,43 @@ def fetch_channel_posts(username):
 
 
 # =========================================================
+# SEND TEXT FALLBACK
+# =========================================================
+
+def send_media_fallback_message(
+    username,
+    text,
+    link,
+    media_type
+):
+
+    if media_type == "video":
+
+        prefix = "🎬"
+
+    else:
+
+        prefix = "🖼"
+
+    message = (
+        f"{prefix} پست جدید از @{username}\n\n"
+        f"{text}\n\n"
+        f"🔗 {link}\n\n"
+        f"⚠️ ارسال فایل مدیا ناموفق بود."
+    )
+
+    send_message(
+        message
+    )
+
+
+# =========================================================
 # SEND POST
 # =========================================================
 
 def send_post(
     post,
-    username,
-    bot_state
+    username
 ):
 
     post_id = post["id"]
@@ -731,11 +801,6 @@ def send_post(
         f"video={bool(video)}"
     )
 
-    # اگر متن خالی بود
-    if not text:
-
-        text = "پست جدید"
-
     caption = (
         f"📢 @{username}\n\n"
         f"{text}\n\n"
@@ -751,8 +816,7 @@ def send_post(
         try:
 
             send_message(
-                caption,
-                bot_state
+                caption
             )
 
             print(
@@ -772,12 +836,139 @@ def send_post(
             return False
 
     # =====================================================
+    # VIDEO
+    # =====================================================
+
+    if video:
+
+        temp_file = None
+
+        # -----------------------------------------------
+        # تلاش اول:
+        # ارسال مستقیم URL
+        # -----------------------------------------------
+
+        try:
+
+            print(
+                "[VIDEO] تلاش ارسال مستقیم..."
+            )
+
+            send_video_url(
+                video,
+                caption
+            )
+
+            print(
+                f"[OK] ویدیو پست "
+                f"{post_id} ارسال شد."
+            )
+
+            return True
+
+        except Exception as e:
+
+            print(
+                f"[WARN] ارسال مستقیم ویدیو "
+                f"ناموفق بود: {e}"
+            )
+
+        # -----------------------------------------------
+        # تلاش دوم:
+        # دانلود و آپلود فایل
+        # -----------------------------------------------
+
+        try:
+
+            print(
+                "[VIDEO] دانلود و آپلود فایل..."
+            )
+
+            temp_file, content_type, size = (
+                download_media(video)
+            )
+
+            # Telegram Bot API محدودیت حجم دارد.
+            # اگر فایل خیلی بزرگ بود، حداقل لینک را می‌فرستیم.
+
+            if size > 49 * 1024 * 1024:
+
+                print(
+                    f"[WARN] ویدیو بزرگ است: "
+                    f"{size / 1024 / 1024:.2f} MB"
+                )
+
+                remove_temp_file(
+                    temp_file
+                )
+
+                send_media_fallback_message(
+                    username,
+                    text,
+                    link,
+                    "video"
+                )
+
+                return True
+
+            send_video_file(
+                temp_file,
+                caption
+            )
+
+            print(
+                f"[OK] ویدیو پست "
+                f"{post_id} با آپلود فایل ارسال شد."
+            )
+
+            remove_temp_file(
+                temp_file
+            )
+
+            return True
+
+        except Exception as e:
+
+            print(
+                f"[ERROR] آپلود ویدیو "
+                f"ناموفق بود: {e}"
+            )
+
+            remove_temp_file(
+                temp_file
+            )
+
+            try:
+
+                send_media_fallback_message(
+                    username,
+                    text,
+                    link,
+                    "video"
+                )
+
+                print(
+                    "[OK] لینک ویدیو ارسال شد."
+                )
+
+                return True
+
+            except Exception as e2:
+
+                print(
+                    f"[ERROR] ارسال fallback "
+                    f"ناموفق بود: {e2}"
+                )
+
+                return False
+
+    # =====================================================
     # PHOTO
     # =====================================================
 
     if photos:
 
-        success_count = 0
+        success = True
 
         for index, photo_url in enumerate(
             photos
@@ -789,187 +980,128 @@ def send_post(
                 else ""
             )
 
+            temp_file = None
+
+            print(
+                f"[PHOTO] "
+                f"{index + 1}/{len(photos)}"
+            )
+
+            # -------------------------------------------
+            # تلاش اول:
+            # ارسال مستقیم URL
+            # -------------------------------------------
+
             try:
 
                 print(
-                    f"[PHOTO] "
-                    f"{index + 1}/{len(photos)}"
+                    "[PHOTO] تلاش ارسال مستقیم..."
                 )
 
-                send_photo(
+                send_photo_url(
                     photo_url,
-                    photo_caption,
-                    bot_state
+                    photo_caption
                 )
-
-                success_count += 1
 
                 print(
-                    "[OK] عکس مستقیم ارسال شد."
+                    "[OK] عکس با URL ارسال شد."
+                )
+
+                continue
+
+            except Exception as e:
+
+                print(
+                    f"[WARN] ارسال مستقیم عکس "
+                    f"ناموفق بود: {e}"
+                )
+
+            # -------------------------------------------
+            # تلاش دوم:
+            # دانلود و آپلود فایل
+            # -------------------------------------------
+
+            try:
+
+                print(
+                    "[PHOTO] دانلود عکس..."
+                )
+
+                temp_file, content_type, size = (
+                    download_media(photo_url)
+                )
+
+                # محدودیت تقریبی Telegram
+                if size > 9 * 1024 * 1024:
+
+                    print(
+                        f"[WARN] عکس بزرگ است: "
+                        f"{size / 1024 / 1024:.2f} MB"
+                    )
+
+                    # اگر خیلی بزرگ بود، به صورت document
+                    # تلاش می‌کنیم.
+
+                    with open(
+                        temp_file,
+                        "rb"
+                    ) as file:
+
+                        response = requests.post(
+                            f"{API}/sendDocument",
+                            data={
+                                "chat_id": CHAT_ID,
+                                "caption": photo_caption[:1024]
+                            },
+                            files={
+                                "document": file
+                            },
+                            timeout=180
+                        )
+
+                    result = response.json()
+
+                    if not result.get("ok"):
+
+                        raise Exception(
+                            f"Telegram API error "
+                            f"{result.get('error_code')}: "
+                            f"{result.get('description')}"
+                        )
+
+                else:
+
+                    send_photo_file(
+                        temp_file,
+                        photo_caption
+                    )
+
+                print(
+                    "[OK] عکس با آپلود فایل ارسال شد."
                 )
 
             except Exception as e:
 
                 print(
-                    "[WARN] ارسال مستقیم عکس "
-                    f"ناموفق بود: {e}"
+                    f"[ERROR] ارسال عکس "
+                    f"{index + 1} ناموفق بود: {e}"
                 )
 
-                # -----------------------------------------
-                # DOWNLOAD + UPLOAD PHOTO
-                # -----------------------------------------
+                success = False
 
-                try:
+            finally:
 
-                    local_file = download_file(
-                        photo_url
-                    )
-
-                    try:
-
-                        send_photo_file(
-                            local_file,
-                            photo_caption,
-                            bot_state
-                        )
-
-                        success_count += 1
-
-                        print(
-                            "[OK] عکس با آپلود مستقیم "
-                            "ارسال شد."
-                        )
-
-                    finally:
-
-                        try:
-
-                            os.remove(
-                                local_file
-                            )
-
-                        except Exception:
-                            pass
-
-                except Exception as e2:
-
-                    print(
-                        "[ERROR] آپلود عکس شکست خورد: "
-                        f"{e2}"
-                    )
-
-        return success_count == len(
-            photos
-        )
-
-    # =====================================================
-    # VIDEO
-    # =====================================================
-
-    if video:
-
-        try:
-
-            send_video(
-                video,
-                caption,
-                bot_state
-            )
-
-            print(
-                "[OK] ویدیو ارسال شد."
-            )
-
-            return True
-
-        except Exception as e:
-
-            print(
-                "[WARN] ارسال مستقیم ویدیو "
-                f"ناموفق بود: {e}"
-            )
-
-            # -----------------------------------------
-            # DOWNLOAD + UPLOAD VIDEO
-            # -----------------------------------------
-
-            try:
-
-                local_file = download_file(
-                    video
+                remove_temp_file(
+                    temp_file
                 )
 
-                try:
-
-                    # ابتدا تلاش می‌کنیم فایل را
-                    # به عنوان document بفرستیم.
-                    send_document_file(
-                        local_file,
-                        caption,
-                        bot_state
-                    )
-
-                    print(
-                        "[OK] ویدیو به صورت فایل "
-                        "ارسال شد."
-                    )
-
-                    return True
-
-                finally:
-
-                    try:
-
-                        os.remove(
-                            local_file
-                        )
-
-                    except Exception:
-                        pass
-
-            except Exception as e2:
-
-                print(
-                    "[WARN] آپلود ویدیو هم شکست خورد: "
-                    f"{e2}"
-                )
-
-            # -----------------------------------------
-            # FALLBACK LINK
-            # -----------------------------------------
-
-            try:
-
-                send_message(
-                    f"🎬 پست جدید از @{username}\n\n"
-                    f"{text}\n\n"
-                    f"🔗 {link}\n\n"
-                    f"⚠️ ارسال فایل ویدیو "
-                    f"به دلیل محدودیت Telegram "
-                    f"ناموفق بود.",
-                    bot_state
-                )
-
-                print(
-                    "[OK] لینک ویدیو ارسال شد."
-                )
-
-                return True
-
-            except Exception as e3:
-
-                print(
-                    "[ERROR] ارسال لینک ویدیو "
-                    f"هم شکست خورد: {e3}"
-                )
-
-                return False
+        return success
 
     return False
 
 
 # =========================================================
-# COMMANDS / UPDATES
+# COMMANDS
 # =========================================================
 
 def handle_updates(
@@ -1022,34 +1154,18 @@ def handle_updates(
         )
 
         if not message:
-
             continue
 
-        chat = message.get(
-            "chat",
-            {}
+        user_id = (
+            message
+            .get("from", {})
+            .get("id")
         )
 
-        chat_id = chat.get(
-            "id"
-        )
-
-        chat_type = chat.get(
-            "type"
-        )
-
-        chat_title = chat.get(
-            "title",
-            ""
-        )
-
-        user = message.get(
-            "from",
-            {}
-        )
-
-        user_id = user.get(
-            "id"
+        chat_id = (
+            message
+            .get("chat", {})
+            .get("id")
         )
 
         text = (
@@ -1057,28 +1173,11 @@ def handle_updates(
             or ""
         ).strip()
 
-        # =================================================
-        # DEBUG CHAT
-        # =================================================
-
-        print(
-            f"[UPDATE] "
-            f"chat_id={chat_id} "
-            f"type={chat_type} "
-            f"title={chat_title} "
-            f"user_id={user_id}"
-        )
-
-        # =================================================
-        # فقط OWNER
-        # =================================================
-
-        if user_id != OWNER_ID:
-
+        if not text:
             continue
 
-        if not text:
-
+        # فقط OWNER
+        if user_id != OWNER_ID:
             continue
 
         parts = text.split(
@@ -1087,8 +1186,8 @@ def handle_updates(
 
         command = (
             parts[0]
-            .split("@")[0]
             .lower()
+            .split("@")[0]
         )
 
         argument = (
@@ -1097,152 +1196,37 @@ def handle_updates(
             else ""
         )
 
-        # =================================================
-        # /id
-        # =================================================
+        # -----------------------------------------
+        # ID
+        # -----------------------------------------
 
         if command == "/id":
 
-            response_text = (
-                "🆔 اطلاعات چت\n\n"
-                f"Chat ID: `{chat_id}`\n"
-                f"Type: {chat_type}\n"
-                f"Title: {chat_title or '-'}"
+            send_message_to_chat(
+                chat_id,
+                f"🆔 Chat ID:\n{chat_id}"
             )
 
-            # چون parse_mode استفاده نکرده‌ایم،
-            # بک‌تیک را حذف می‌کنیم.
-            response_text = (
-                "🆔 اطلاعات چت\n\n"
-                f"Chat ID: {chat_id}\n"
-                f"Type: {chat_type}\n"
-                f"Title: {chat_title or '-'}"
-            )
-
-            try:
-
-                send_message_to_chat(
-                    chat_id,
-                    response_text
-                )
-
-            except Exception as e:
-
-                print(
-                    f"[ERROR] ارسال /id: {e}"
-                )
-
-            continue
-
-        # =================================================
-        # /setdestination
-        # =================================================
-
-        if command == "/setdestination":
-
-            # فقط گروه یا سوپرگروه
-            if chat_type not in (
-                "group",
-                "supergroup"
-            ):
-
-                try:
-
-                    send_message_to_chat(
-                        chat_id,
-                        "❌ این دستور را داخل "
-                        "گروه مقصد اجرا کن."
-                    )
-
-                except Exception as e:
-
-                    print(
-                        f"[ERROR] {e}"
-                    )
-
-                continue
-
-            # ذخیره مقصد
-            bot_state[
-                "destination_chat_id"
-            ] = str(chat_id)
-
-            bot_state[
-                "destination_chat_type"
-            ] = chat_type
-
-            bot_state[
-                "destination_chat_title"
-            ] = chat_title
-
-            try:
-
-                send_message_to_chat(
-                    chat_id,
-                    "✅ این گروه به عنوان مقصد "
-                    "ارسال پست ذخیره شد.\n\n"
-                    f"🆔 Chat ID: {chat_id}\n"
-                    f"📌 نام: {chat_title or '-'}"
-                )
-
-            except Exception as e:
-
-                print(
-                    f"[ERROR] پاسخ /setdestination: {e}"
-                )
-
-            print("")
-            print(
-                "=" * 60
-            )
-            print(
-                "[DESTINATION SET]"
-            )
-            print(
-                f"ID: {chat_id}"
-            )
-            print(
-                f"TYPE: {chat_type}"
-            )
-            print(
-                f"TITLE: {chat_title}"
-            )
-            print(
-                "=" * 60
-            )
-
-            continue
-
-        # =================================================
+        # -----------------------------------------
         # HELP
-        # =================================================
+        # -----------------------------------------
 
-        if command in (
+        elif command in (
             "/start",
             "/help",
             "/manage"
         ):
 
-            try:
+            send_message_to_chat(
+                chat_id,
+                HELP_TEXT
+            )
 
-                send_message_to_chat(
-                    chat_id,
-                    HELP_TEXT
-                )
-
-            except Exception as e:
-
-                print(
-                    f"[ERROR] ارسال help: {e}"
-                )
-
-            continue
-
-        # =================================================
+        # -----------------------------------------
         # ADD
-        # =================================================
+        # -----------------------------------------
 
-        if command == "/add":
+        elif command == "/add":
 
             username = (
                 argument
@@ -1253,42 +1237,24 @@ def handle_updates(
 
             if not username:
 
-                try:
-
-                    send_message_to_chat(
-                        chat_id,
-                        "مثال:\n"
-                        "/add akhbarfars"
-                    )
-
-                except Exception as e:
-
-                    print(
-                        f"[ERROR] {e}"
-                    )
+                send_message_to_chat(
+                    chat_id,
+                    "مثال:\n/add akhbarfars"
+                )
 
                 continue
 
-            normalized_channels = [
+            existing = [
                 c.lower().lstrip("@")
                 for c in channels
             ]
 
-            if username in normalized_channels:
+            if username in existing:
 
-                try:
-
-                    send_message_to_chat(
-                        chat_id,
-                        f"⚠️ @{username} "
-                        "قبلاً اضافه شده."
-                    )
-
-                except Exception as e:
-
-                    print(
-                        f"[ERROR] {e}"
-                    )
+                send_message_to_chat(
+                    chat_id,
+                    f"⚠️ @{username} قبلاً اضافه شده."
+                )
 
                 continue
 
@@ -1296,26 +1262,16 @@ def handle_updates(
                 username
             )
 
-            try:
+            send_message_to_chat(
+                chat_id,
+                f"✅ @{username} اضافه شد."
+            )
 
-                send_message_to_chat(
-                    chat_id,
-                    f"✅ @{username} اضافه شد."
-                )
-
-            except Exception as e:
-
-                print(
-                    f"[ERROR] {e}"
-                )
-
-            continue
-
-        # =================================================
+        # -----------------------------------------
         # REMOVE
-        # =================================================
+        # -----------------------------------------
 
-        if command == "/remove":
+        elif command == "/remove":
 
             username = (
                 argument
@@ -1329,53 +1285,43 @@ def handle_updates(
             )
 
             channels = [
-                c for c in channels
+                c
+                for c in channels
                 if c.lower().lstrip("@")
                 != username
             ]
 
             if len(channels) < old_length:
 
-                response = (
+                send_message_to_chat(
+                    chat_id,
                     f"🗑 @{username} حذف شد."
                 )
 
             else:
 
-                response = (
+                send_message_to_chat(
+                    chat_id,
                     f"❌ @{username} پیدا نشد."
                 )
 
-            try:
-
-                send_message_to_chat(
-                    chat_id,
-                    response
-                )
-
-            except Exception as e:
-
-                print(
-                    f"[ERROR] {e}"
-                )
-
-            continue
-
-        # =================================================
+        # -----------------------------------------
         # LIST
-        # =================================================
+        # -----------------------------------------
 
-        if command == "/list":
+        elif command == "/list":
 
             if not channels:
 
-                response = (
+                send_message_to_chat(
+                    chat_id,
                     "📋 لیست کانال‌ها خالی است."
                 )
 
             else:
 
-                response = (
+                send_message_to_chat(
+                    chat_id,
                     "📋 کانال‌های فعال:\n\n"
                     +
                     "\n".join(
@@ -1384,37 +1330,16 @@ def handle_updates(
                     )
                 )
 
-            try:
-
-                send_message_to_chat(
-                    chat_id,
-                    response
-                )
-
-            except Exception as e:
-
-                print(
-                    f"[ERROR] {e}"
-                )
-
-            continue
-
-        # =================================================
+        # -----------------------------------------
         # UNKNOWN
-        # =================================================
+        # -----------------------------------------
 
-        try:
+        else:
 
             send_message_to_chat(
                 chat_id,
                 "❌ دستور ناشناخته است.\n\n"
                 + HELP_TEXT
-            )
-
-        except Exception as e:
-
-            print(
-                f"[ERROR] {e}"
             )
 
     return channels, bot_state
@@ -1426,8 +1351,7 @@ def handle_updates(
 
 def check_channels(
     channels,
-    state,
-    bot_state
+    state
 ):
 
     for username in channels:
@@ -1438,14 +1362,14 @@ def check_channels(
             .lstrip("@")
         )
 
-        if not username:
-
-            continue
-
         print("")
         print(
             f"[CHECK] @{username}"
         )
+
+        # -------------------------------------------------
+        # FETCH
+        # -------------------------------------------------
 
         try:
 
@@ -1456,28 +1380,30 @@ def check_channels(
         except Exception as e:
 
             print(
-                f"[ERROR] دریافت "
-                f"@{username}: {e}"
+                f"[ERROR] دریافت @{username}: {e}"
             )
 
             continue
 
         print(
-            f"[FOUND] {len(posts)} پست "
-            "در صفحه"
+            f"[FOUND] {len(posts)} پست در صفحه"
         )
 
         if not posts:
 
             continue
 
+        # -------------------------------------------------
+        # LAST STATE
+        # -------------------------------------------------
+
         last_id = state.get(
             username
         )
 
-        # =================================================
+        # -------------------------------------------------
         # FIRST RUN
-        # =================================================
+        # -------------------------------------------------
 
         if last_id is None:
 
@@ -1492,12 +1418,13 @@ def check_channels(
 
             continue
 
-        # =================================================
+        # -------------------------------------------------
         # NEW POSTS
-        # =================================================
+        # -------------------------------------------------
 
         new_posts = [
-            p for p in posts
+            p
+            for p in posts
             if p["id"] > last_id
         ]
 
@@ -1510,19 +1437,32 @@ def check_channels(
             continue
 
         print(
-            f"[NEW] {len(new_posts)} "
-            "پست جدید"
+            f"[NEW] {len(new_posts)} پست جدید"
         )
 
         all_success = True
 
+        # -------------------------------------------------
+        # SEND
+        # -------------------------------------------------
+
         for post in new_posts:
 
-            success = send_post(
-                post,
-                username,
-                bot_state
-            )
+            try:
+
+                success = send_post(
+                    post,
+                    username
+                )
+
+            except Exception as e:
+
+                print(
+                    f"[ERROR] خطای کلی ارسال "
+                    f"post={post['id']}: {e}"
+                )
+
+                success = False
 
             if success:
 
@@ -1540,13 +1480,14 @@ def check_channels(
 
                 all_success = False
 
+                # state جلو نمی‌رود
                 break
 
             time.sleep(2)
 
-        # =================================================
+        # -------------------------------------------------
         # UPDATE STATE
-        # =================================================
+        # -------------------------------------------------
 
         if all_success:
 
@@ -1567,8 +1508,8 @@ def check_channels(
 
             print(
                 f"[STATE] @{username} "
-                "NOT updated because "
-                "sending failed."
+                f"NOT updated because "
+                f"sending failed."
             )
 
     return state
@@ -1582,10 +1523,12 @@ def main():
 
     print("")
     print("=" * 60)
-    print(
-        "TELEGRAM PUBLIC CHANNEL FORWARDER"
-    )
+    print("TELEGRAM PUBLIC CHANNEL FORWARDER")
     print("=" * 60)
+
+    # -----------------------------------------------------
+    # LOAD
+    # -----------------------------------------------------
 
     channels = load_json(
         CHANNELS_FILE,
@@ -1609,78 +1552,39 @@ def main():
         f"{len(channels)}"
     )
 
-    # =====================================================
-    # IMPORTANT:
-    # اول Update ها را می‌خوانیم.
-    #
-    # بنابراین حتی اگر CHAT_ID اشتباه باشد،
-    # /id و /setdestination کار می‌کنند.
-    # =====================================================
+    # -----------------------------------------------------
+    # TEST DESTINATION
+    # -----------------------------------------------------
+
+    if not test_destination():
+
+        print(
+            "[STOP] مقصد معتبر نیست."
+        )
+
+        return
+
+    # -----------------------------------------------------
+    # COMMANDS
+    # -----------------------------------------------------
 
     channels, bot_state = handle_updates(
         channels,
         bot_state
     )
 
-    # =====================================================
-    # SAVE COMMAND CHANGES
-    # =====================================================
-
-    save_json(
-        CHANNELS_FILE,
-        channels
-    )
-
-    save_json(
-        BOT_STATE_FILE,
-        bot_state
-    )
-
-    # =====================================================
-    # TEST DESTINATION
-    # =====================================================
-
-    if not test_destination(
-        bot_state
-    ):
-
-        print("")
-        print(
-            "[STOP] مقصد معتبر نیست."
-        )
-
-        print(
-            "[INFO] برای تعیین مقصد، "
-            "داخل گروه دستور زیر را بفرست:"
-        )
-
-        print(
-            "/setdestination"
-        )
-
-        print("")
-
-        # state فعلی هم ذخیره شود
-        save_json(
-            STATE_FILE,
-            state
-        )
-
-        return
-
-    # =====================================================
+    # -----------------------------------------------------
     # CHECK CHANNELS
-    # =====================================================
+    # -----------------------------------------------------
 
     state = check_channels(
         channels,
-        state,
-        bot_state
+        state
     )
 
-    # =====================================================
+    # -----------------------------------------------------
     # SAVE
-    # =====================================================
+    # -----------------------------------------------------
 
     save_json(
         CHANNELS_FILE,
@@ -1699,14 +1603,12 @@ def main():
 
     print("")
     print("=" * 60)
-    print(
-        "[DONE] اجرای برنامه تمام شد."
-    )
+    print("[DONE] اجرای برنامه تمام شد.")
     print("=" * 60)
 
 
 # =========================================================
-# START
+# RUN
 # =========================================================
 
 if __name__ == "__main__":
