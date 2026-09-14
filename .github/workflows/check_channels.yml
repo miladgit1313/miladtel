@@ -1,4 +1,4 @@
-name: Telegram Channel Forwarder
+name: Check Telegram Channels
 
 on:
   workflow_dispatch:
@@ -7,14 +7,16 @@ on:
     - cron: "*/10 * * * *"
 
 jobs:
-  run-bot:
+  check-channels:
+
     runs-on: ubuntu-latest
 
     permissions:
       contents: write
 
     steps:
-      - name: Checkout
+
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -27,21 +29,21 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4
 
-      - name: Run bot
+      - name: Run channel checker
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
           OWNER_ID: ${{ secrets.OWNER_ID }}
         run: |
-          python bot.py
+          python check_channels.py
 
-      - name: Save state
+      - name: Save state files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add channels.json state.json bot_state.json
 
-          git diff --cached --quiet || git commit -m "Update bot state"
+          git diff --cached --quiet || git commit -m "Update channel state"
 
           git push
