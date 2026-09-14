@@ -42,8 +42,62 @@ def tg_call(method, **params):
 
 
 def send_message(chat_id, text):
-    return tg_call("sendMessage", chat_id=chat_id, text=text)
-  def fetch_channel_posts(username):
+    return tg_call("sendMessage", chat_id=chat_id, text=text)def handle_updates(channels, bot_state):
+    offset = bot_state.get("last_update_id", 0) + 1
+    updates = tg_call("getUpdates", offset=offset, timeout=0)["result"]
+
+    for update in updates:
+        bot_state["last_update_id"] = update["update_id"]
+
+        msg = update.get("message")
+        if not msg:
+            continue
+
+        user_id = msg["from"]["id"]
+        chat_id = msg["chat"]["id"]
+
+        if user_id != OWNER_ID:
+            continue
+
+        text = (msg.get("text") or "").strip()
+        if not text:
+            continue
+
+        parts = text.split(maxsplit=1)
+        command = parts[0].lower()
+        arg = parts[1].strip() if len(parts) > 1 else ""
+
+        if command in ("/start", "/help", "/manage"):
+            send_message(chat_id, HELP_TEXT)
+
+        elif command == "/add":
+            username = arg.lstrip("@").strip()
+            if not username:
+                send_message(chat_id, "یوزرنیم رو هم بنویس، مثلاً:\n/add shiraz")
+            elif username in channels:
+                send_message(chat_id, "این کانال از قبل توی لیست هست.")
+            else:
+                channels.append(username)
+                send_message(chat_id, f"✅ کانال «{username}» اضافه شد.")
+
+        elif command == "/remove":
+            username = arg.lstrip("@").strip()
+            if username in channels:
+                channels.remove(username)
+                send_message(chat_id, f"🗑 کانال «{username}» حذف شد.")
+            else:
+                send_message(chat_id, "همچین کانالی توی لیست نیست.")
+
+        elif command == "/list":
+            if channels:
+                send_message(chat_id, "📋 کانال‌های فعلی:\n" + "\n".join(f"• {c}" for c in channels))
+            else:
+                send_message(chat_id, "لیست کانال‌ها خالیه.")
+
+        else:
+            send_message(chat_id, "دستور شناخته‌نشد.\n\n" + HELP_TEXT)
+
+    return channels, bot_statedef fetch_channel_posts(username):
     url = f"https://t.me/s/{username}"
     resp = requests.get(url, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
     resp.raise_for_status()
@@ -63,29 +117,7 @@ def send_message(chat_id, text):
         posts.append({"id": post_id, "text": text, "link": f"https://t.me/{username}/{post_id}"})
 
     posts.sort(key=lambda p: p["id"])
-    return posts
-    def fetch_channel_posts(username):
-    url = f"https://t.me/s/{username}"
-    resp = requests.get(url, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
-    resp.raise_for_status()
-    soup = BeautifulSoup(resp.text, "html.parser")
-
-    posts = []
-    for wrap in soup.select("div.tgme_widget_message"):
-        data_post = wrap.get("data-post")
-        if not data_post:
-            continue
-        try:
-            post_id = int(data_post.split("/")[-1])
-        except ValueError:
-            continue
-        text_div = wrap.select_one(".tgme_widget_message_text")
-        text = text_div.get_text("\n", strip=True) if text_div else ""
-        posts.append({"id": post_id, "text": text, "link": f"https://t.me/{username}/{post_id}"})
-
-    posts.sort(key=lambda p: p["id"])
-    return posts
-    def check_channels(channels, state):
+    return postsdef check_channels(channels, state):
     for username in channels:
         try:
             posts = fetch_channel_posts(username)
@@ -117,8 +149,7 @@ def send_message(chat_id, text):
 
         state[username] = max(p["id"] for p in posts)
 
-    return state
-    def main():
+    return statedef main():
     channels = load_json(CHANNELS_FILE, [])
     state = load_json(STATE_FILE, {})
     bot_state = load_json(BOT_STATE_FILE, {"last_update_id": 0})
