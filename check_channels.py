@@ -1,1 +1,135 @@
-import os import json import time import requests from bs4 import BeautifulSoup BOT_TOKEN = os.environ["BOT_TOKEN"] CHAT_ID = os.environ["CHAT_ID"] OWNER_ID = int(os.environ["OWNER_ID"]) CHANNELS_FILE = "channels.json" STATE_FILE = "state.json" BOT_STATE_FILE = "bot_state.json" API = f"https://api.telegram.org/bot{BOT_TOKEN}" HELP_TEXT = ( "ط¯ط³طھظˆط±ط§طھ:\n" "/add username â€” ط§ظپط²ظˆط¯ظ† ع©ط§ظ†ط§ظ„ (ط¨ط¯ظˆظ† @)\n" "/remove username â€” ط­ط°ظپ ع©ط§ظ†ط§ظ„\n" "/list â€” ظ†ظ…ط§غŒط´ ظ„غŒط³طھ ع©ط§ظ†ط§ظ„â€Œظ‡ط§\n" "/help â€” ظ†ظ…ط§غŒط´ ظ‡ظ…غŒظ† ط±ط§ظ‡ظ†ظ…ط§" ) def load_json(path, default): if os.path.exists(path): with open(path, "r", encoding="utf-8") as f: return json.load(f) return default def save_json(path, data): with open(path, "w", encoding="utf-8") as f: json.dump(data, f, ensure_ascii=False, indent=2) def tg_call(method, **params): resp = requests.post(f"{API}/{method}", data=params, timeout=15) resp.raise_for_status() return resp.json() def send_message(chat_id, text): return tg_call("sendMessage", chat_id=chat_id, text=text) def handle_updates(channels, bot_state): offset = bot_state.get("last_update_id", 0) + 1 updates = tg_call("getUpdates", offset=offset, timeout=0)["result"] for update in updates: bot_state["last_update_id"] = update["update_id"] msg = update.get("message") if not msg: continue user_id = msg["from"]["id"] chat_id = msg["chat"]["id"] if user_id != OWNER_ID: continue text = (msg.get("text") or "").strip() if not text: continue parts = text.split(maxsplit=1) command = parts[0].lower() arg = parts[1].strip() if len(parts) > 1 else "" if command in ("/start", "/help", "/manage"): send_message(chat_id, HELP_TEXT) elif command == "/add": username = arg.lstrip("@").strip() if not username: send_message(chat_id, "غŒظˆط²ط±ظ†غŒظ… ط±ظˆ ظ‡ظ… ط¨ظ†ظˆغŒط³طŒ ظ…ط«ظ„ط§ظ‹:\n/add shiraz") elif username in channels: send_message(chat_id, "ط§غŒظ† ع©ط§ظ†ط§ظ„ ط§ط² ظ‚ط¨ظ„ طھظˆغŒ ظ„غŒط³طھ ظ‡ط³طھ.") else: channels.append(username) send_message(chat_id, f"âœ… ع©ط§ظ†ط§ظ„ آ«{username}آ» ط§ط¶ط§ظپظ‡ ط´ط¯.") elif command == "/remove": username = arg.lstrip("@").strip() if username in channels: channels.remove(username) send_message(chat_id, f"ًں—‘ ع©ط§ظ†ط§ظ„ آ«{username}آ» ط­ط°ظپ ط´ط¯.") else: send_message(chat_id, "ظ‡ظ…ع†غŒظ† ع©ط§ظ†ط§ظ„غŒ طھظˆغŒ ظ„غŒط³طھ ظ†غŒط³طھ.") elif command == "/list": if channels: send_message(chat_id, "ًں“‹ ع©ط§ظ†ط§ظ„â€Œظ‡ط§غŒ ظپط¹ظ„غŒ:\n" + "\n".join(f"â€¢ {c}" for c in channels)) else: send_message(chat_id, "ظ„غŒط³طھ ع©ط§ظ†ط§ظ„â€Œظ‡ط§ ط®ط§ظ„غŒظ‡.") else: send_message(chat_id, "ط¯ط³طھظˆط± ط´ظ†ط§ط®طھظ‡â€Œظ†ط´ط¯.\n\n" + HELP_TEXT) return channels, bot_state def fetch_channel_posts(username): url = f"https://t.me/s/{username}" resp = requests.get(url, timeout=15, headers={"User-Agent": "Mozilla/5.0"}) resp.raise_for_status() soup = BeautifulSoup(resp.text, "html.parser") posts = [] for wrap in soup.select("div.tgme_widget_message"): data_post = wrap.get("data-post") if not data_post: continue try: post_id = int(data_post.split("/")[-1]) except ValueError: continue text_div = wrap.select_one(".tgme_widget_message_text") text = text_div.get_text("\n", strip=True) if text_div else "" posts.append({"id": post_id, "text": text, "link": f"https://t.me/{username}/{post_id}"}) posts.sort(key=lambda p: p["id"]) return posts def check_channels(channels, state): for username in channels: try: posts = fetch_channel_posts(username) except Exception as e: print(f"[warn] ط®ط·ط§ ط¯ط± ع¯ط±ظپطھظ† ع©ط§ظ†ط§ظ„ {username}: {e}") continue if not posts: continue last_id = state.get(username) if last_id is None: state[username] = posts[-1]["id"] print(f"[init] ع©ط§ظ†ط§ظ„ {username} ط«ط¨طھ ط´ط¯ (baseline: {posts[-1]['id']})") continue new_posts = [p for p in posts if p["id"] > last_id] for post in new_posts: snippet = post["text"][:500] if post["text"] else "(ظ¾ط³طھ ط¨ط¯ظˆظ† ظ…طھظ† â€” ط¹ع©ط³/ظˆغŒط¯غŒظˆ/ظپط§غŒظ„)" message = f"ًں“¢ {username}\n\n{snippet}\n\n{post['link']}" try: send_message(CHAT_ID, message) print(f"[sent] ظ¾ط³طھ ط¬ط¯غŒط¯ ط§ط² {username}: {post['id']}") time.sleep(1) except Exception as e: print(f"[warn] ط®ط·ط§ ط¯ط± ط§ط±ط³ط§ظ„ ظ¾ط³طھ {post['id']} ط§ط² {username}: {e}") state[username] = max(p["id"] for p in posts) return state def main(): channels = load_json(CHANNELS_FILE, []) state = load_json(STATE_FILE, {}) bot_state = load_json(BOT_STATE_FILE, {"last_update_id": 0}) channels, bot_state = handle_updates(channels, bot_state) state = check_channels(channels, state) save_json(CHANNELS_FILE, channels) save_json(STATE_FILE, state) save_json(BOT_STATE_FILE, bot_state) if __name__ == "__main__": main()
+import os
+import json
+import time
+import requests
+from bs4 import BeautifulSoup
+
+BOT_TOKEN = os.environ["BOT_TOKEN"]
+CHAT_ID = os.environ["CHAT_ID"]
+OWNER_ID = int(os.environ["OWNER_ID"])
+
+CHANNELS_FILE = "channels.json"
+STATE_FILE = "state.json"
+BOT_STATE_FILE = "bot_state.json"
+
+API = f"https://api.telegram.org/bot{BOT_TOKEN}"
+
+HELP_TEXT = (
+    "دستورات:\n"
+    "/add username — افزودن کانال (بدون @)\n"
+    "/remove username — حذف کانال\n"
+    "/list — نمایش لیست کانال‌ها\n"
+    "/help — نمایش همین راهنما"
+)
+
+
+def load_json(path, default):
+    if os.path.exists(path):
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return default
+
+
+def save_json(path, data):
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+
+def tg_call(method, **params):
+    resp = requests.post(f"{API}/{method}", data=params, timeout=15)
+    resp.raise_for_status()
+    return resp.json()
+
+
+def send_message(chat_id, text):
+    return tg_call("sendMessage", chat_id=chat_id, text=text)
+  def fetch_channel_posts(username):
+    url = f"https://t.me/s/{username}"
+    resp = requests.get(url, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, "html.parser")
+
+    posts = []
+    for wrap in soup.select("div.tgme_widget_message"):
+        data_post = wrap.get("data-post")
+        if not data_post:
+            continue
+        try:
+            post_id = int(data_post.split("/")[-1])
+        except ValueError:
+            continue
+        text_div = wrap.select_one(".tgme_widget_message_text")
+        text = text_div.get_text("\n", strip=True) if text_div else ""
+        posts.append({"id": post_id, "text": text, "link": f"https://t.me/{username}/{post_id}"})
+
+    posts.sort(key=lambda p: p["id"])
+    return posts
+    def fetch_channel_posts(username):
+    url = f"https://t.me/s/{username}"
+    resp = requests.get(url, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, "html.parser")
+
+    posts = []
+    for wrap in soup.select("div.tgme_widget_message"):
+        data_post = wrap.get("data-post")
+        if not data_post:
+            continue
+        try:
+            post_id = int(data_post.split("/")[-1])
+        except ValueError:
+            continue
+        text_div = wrap.select_one(".tgme_widget_message_text")
+        text = text_div.get_text("\n", strip=True) if text_div else ""
+        posts.append({"id": post_id, "text": text, "link": f"https://t.me/{username}/{post_id}"})
+
+    posts.sort(key=lambda p: p["id"])
+    return posts
+    def check_channels(channels, state):
+    for username in channels:
+        try:
+            posts = fetch_channel_posts(username)
+        except Exception as e:
+            print(f"[warn] خطا در گرفتن کانال {username}: {e}")
+            continue
+
+        if not posts:
+            continue
+
+        last_id = state.get(username)
+
+        if last_id is None:
+            state[username] = posts[-1]["id"]
+            print(f"[init] کانال {username} ثبت شد (baseline: {posts[-1]['id']})")
+            continue
+
+        new_posts = [p for p in posts if p["id"] > last_id]
+
+        for post in new_posts:
+            snippet = post["text"][:500] if post["text"] else "(پست بدون متن — عکس/ویدیو/فایل)"
+            message = f"📢 {username}\n\n{snippet}\n\n{post['link']}"
+            try:
+                send_message(CHAT_ID, message)
+                print(f"[sent] پست جدید از {username}: {post['id']}")
+                time.sleep(1)
+            except Exception as e:
+                print(f"[warn] خطا در ارسال پست {post['id']} از {username}: {e}")
+
+        state[username] = max(p["id"] for p in posts)
+
+    return state
+    def main():
+    channels = load_json(CHANNELS_FILE, [])
+    state = load_json(STATE_FILE, {})
+    bot_state = load_json(BOT_STATE_FILE, {"last_update_id": 0})
+
+    channels, bot_state = handle_updates(channels, bot_state)
+    state = check_channels(channels, state)
+
+    save_json(CHANNELS_FILE, channels)
+    save_json(STATE_FILE, state)
+    save_json(BOT_STATE_FILE, bot_state)
+
+
+if __name__ == "__main__":
+    main()
