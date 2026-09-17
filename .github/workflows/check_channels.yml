@@ -8,7 +8,6 @@ on:
 permissions:
   contents: write
 
-# جلوگیری از اجرای همزمان دو نسخه ربات
 concurrency:
   group: telegram-channel-checker
   cancel-in-progress: false
@@ -35,8 +34,12 @@ jobs:
 
       - name: Check Python syntax
         run: |
+          echo "=========================================="
+          echo "CHECK PYTHON SYNTAX"
+          echo "=========================================="
           python --version
           python -m py_compile check_channels.py
+          echo "[OK] Python syntax is valid."
 
       - name: Run channel checker
         shell: bash
@@ -53,18 +56,72 @@ jobs:
 
           python -u check_channels.py 2>&1 | tee channel_checker.log
 
+          EXIT_CODE=${PIPESTATUS[0]}
+
+          echo "=========================================="
+          echo "CHANNEL CHECKER EXIT CODE: ${EXIT_CODE}"
+          echo "=========================================="
+
+          exit ${EXIT_CODE}
+
       - name: Save state files
         if: always()
         shell: bash
         run: |
+          set -e
+
+          echo "=========================================="
+          echo "SAVE STATE FILES"
+          echo "=========================================="
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add channels.json state.json bot_state.json channel_checker.log 2>/dev/null || true
+          echo "[INFO] Current branch:"
+          git branch --show-current
+
+          echo "[INFO] Git status before add:"
+          git status --short
+
+          echo "[INFO] Adding state files..."
+
+          git add channels.json state.json bot_state.json channel_checker.log
+
+          echo "[INFO] Git status after add:"
+          git status --short
 
           if git diff --cached --quiet; then
-            echo "No state changes to commit."
+            echo "[INFO] No state changes to commit."
+            exit 0
+          fi
+
+          echo "[INFO] Creating commit..."
+          git commit -m "Update bot state"
+
+          echo "[INFO] Pushing changes..."
+
+          if git push; then
+            echo "[OK] State files pushed successfully."
           else
-            git commit -m "Update bot state"
+            echo "[ERROR] git push failed."
+            echo "[INFO] Fetching latest repository state..."
+
+            git fetch origin
+
+            BRANCH="$(git branch --show-current)"
+
+            if [ -z "${BRANCH}" ]; then
+              echo "[ERROR] Could not determine current branch."
+              exit 1
+            fi
+
+            echo "[INFO] Current branch: ${BRANCH}"
+            echo "[INFO] Attempting rebase..."
+
+            git rebase "origin/${BRANCH}"
+
+            echo "[INFO] Retrying push..."
             git push
+
+            echo "[OK] State files pushed after rebase."
           fi
