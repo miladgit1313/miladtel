@@ -1,29 +1,185 @@
 {
-  "akhbarfars": 141878,
-  "total_fut": 236173,
-  "footballvision2": 168546,
-  "tg_ir": 2302,
-  "it_pishkhan": 9555,
-  "fars_today": 131970,
-  "behzistikomitenews": 13937,
-  "drtel": 66546,
-  "techtube": 18259,
-  "dafaterepishkhandpd": 16055,
-  "digiai": 2481,
-  "my_hame_chiz": 434,
-  "pc_it_mob": 11808,
-  "thezoomit": 101929,
-  "amozesh_cafenet": 3087,
-  "sabtnamkh0dro": 14157,
-  "coffeenetmanager": 51524,
-  "roidbest": 21608,
-  "akhbar_cafenet": 22419,
-  "comentiat": 25832,
-  "boost/fndoni": 6,
-  "majalepezeshki": 38429,
-  "gizmiztel": 161857,
-  "dr_salamatx": 55267,
-  "jaleb": 52250,
-  "ajayebe_jahann": 158943,
-  "etelaate_omoomi": 43093
+  "akhbarfars": {
+    "last_id": 141878,
+    "processed_ids": [],
+    "fingerprints": []
+  },
+  "total_fut": {
+    "last_id": 236173,
+    "processed_ids": [],
+    "fingerprints": []
+  },
+  "footballvision2": {
+    "last_id": 168546,
+    "processed_ids": [],
+    "fingerprints": []
+  },
+  "tg_ir": {
+    "last_id": 2302,
+    "processed_ids": [],
+    "fingerprints": []
+  },
+  "it_pishkhan": {
+    "last_id": 9555,
+    "processed_ids": [],
+    "fingerprints": []
+  },
+  "fars_today": {
+    "last_id": 131972,
+    "processed_ids": [
+      131971,
+      131972
+    ],
+    "fingerprints": [
+      "e52f7cf4499c068a5b4117db29eba00bb1d47bf729911699821e0f7e3624f0f0",
+      "8158af681c33c38641ea44d4597d4cb598be91b800ca56edc49ec28e4eba3953"
+    ]
+  },
+  "behzistikomitenews": {
+    "last_id": 13937,
+    "processed_ids": [],
+    "fingerprints": []
+  },
+  "drtel": {
+    "last_id": 66547,
+    "processed_ids": [
+      66547
+    ],
+    "fingerprints": [
+      "a8734854848bc9c9c6673e1b8174bf5754e6139a423bd55f95d91a7b0f5d2c41"
+    ]
+  },
+  "techtube": {
+    "last_id": 18259,
+    "processed_ids": [],
+    "fingerprints": []
+  },
+  "dafaterepishkhandpd": {
+    "last_id": 16055,
+    "processed_ids": [],
+    "fingerprints": []
+  },
+  "digiai": {
+    "last_id": 2481,
+    "processed_ids": [],
+    "fingerprints": []
+  },
+  "my_hame_chiz": {
+    "last_id": 434,
+    "processed_ids": [],
+    "fingerprints": []
+  },
+  "pc_it_mob": {
+    "last_id": 11809,
+    "processed_ids": [
+      11809
+    ],
+    "fingerprints": [
+      "565d240f5343e625ae579a4d45a770f1f02c6368b5ed4d06da4fbe6f47c28866"
+    ]
+  },
+  "thezoomit": {
+    "last_id": 101929,
+    "processed_ids": [],
+    "fingerprints": []
+  },
+  "amozesh_cafenet": {
+    "last_id": 3087,
+    "processed_ids": [],
+    "fingerprints": []
+  },
+  "sabtnamkh0dro": {
+    "last_id": 14157,
+    "processed_ids": [],
+    "fingerprints": []
+  },
+  "coffeenetmanager": {
+    "last_id": 51529,
+    "processed_ids": [
+      51525,
+      51526,
+      51527,
+      51528,
+      51529
+    ],
+    "fingerprints": [
+      "6e9b8f1b78c6dcf647416805f4b98b1248a3c454809db9e411c5e605710fe9bf",
+      "d4c921df85c73cd98e1f84b18287f6b9f167eab13cbaef7e0848ffc772d37bcf",
+      "0dc3c8da1484a63e15cadf52797b5997faed7c4a79bf447519f9d5c549fe4113",
+      "43609cadb00e0e52ab85cc03d4b9002bd99f88f9e68d5e46f0ceb071b900d44f",
+      "8e343d5076f072fd23739dd3b9aa9a2102baefa21128c0cf5c92125b5725dad9"
+    ]
+  },
+  "roidbest": {
+    "last_id": 21608,
+    "processed_ids": [],
+    "fingerprints": []
+  },
+  "akhbar_cafenet": {
+    "last_id": 22419,
+    "processed_ids": [],
+    "fingerprints": []
+  },
+  "comentiat": {
+    "last_id": 25833,
+    "processed_ids": [
+      25833
+    ],
+    "fingerprints": [
+      "1dbd1ab19c448a528cfbf5d4eaaa80a246dbd7bcc7a92c7b91e9c0e5e4f1f716"
+    ]
+  },
+  "boost/fndoni": {
+    "last_id": 6,
+    "processed_ids": [],
+    "fingerprints": []
+  },
+  "majalepezeshki": {
+    "last_id": 38429,
+    "processed_ids": [],
+    "fingerprints": []
+  },
+  "gizmiztel": {
+    "last_id": 161857,
+    "processed_ids": [],
+    "fingerprints": []
+  },
+  "dr_salamatx": {
+    "last_id": 55267,
+    "processed_ids": [],
+    "fingerprints": []
+  },
+  "jaleb": {
+    "last_id": 52254,
+    "processed_ids": [
+      52252,
+      52254
+    ],
+    "fingerprints": [
+      "3a82fc687dc60ee2483316c322e3d6f5ee100157ac3db0de992586db836b4db9",
+      "a43841ed064d7d6cca1757680eaa80faf7c4665cd5050de450643d2008da47c0"
+    ]
+  },
+  "ajayebe_jahann": {
+    "last_id": 158948,
+    "processed_ids": [
+      158944,
+      158945,
+      158946,
+      158947,
+      158948
+    ],
+    "fingerprints": [
+      "8ee32aca5669c8e9f415080d6af3f97b5c5c587036f1c0189cee339d12251b91",
+      "d2f2f493c74c70d6ccbc0816762ce40cc1189603c886759f3c1bf0924bdd4bdb",
+      "391d229e27d928a2d2f37ed7506c49599959e1277874c40f3b3df6fa4bbb2615",
+      "ea3dea8dc0ff095d8ede858c26e841f6c7865589981e47612996e0c9cf4db850",
+      "28fa5de43f6e1b4e0d6e3b4b3bf9202bd6184d4aabaa13216bba5cf458f8795c"
+    ]
+  },
+  "etelaate_omoomi": {
+    "last_id": 43093,
+    "processed_ids": [],
+    "fingerprints": []
+  }
 }
