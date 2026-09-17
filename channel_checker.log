@@ -69,7 +69,7 @@ TESTING DESTINATION
 
 [CHECK] @coffeenetmanager
 [FETCH] https://t.me/s/coffeenetmanager
-[FOUND] @coffeenetmanager: 19 posts
+[FOUND] @coffeenetmanager: 18 posts
 
 [CHECK] @roidbest
 [FETCH] https://t.me/s/roidbest
@@ -118,20 +118,26 @@ TESTING DESTINATION
 [CHECK] @etelaate_omoomi
 [FETCH] https://t.me/s/etelaate_omoomi
 [FOUND] @etelaate_omoomi: 20 posts
-[GLOBAL] new candidates=2
+[GLOBAL] new candidates=3
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[ERROR] ارسال عکس: [Errno 36] File name too long: '/tmp/tg_1789648897879_FIo94eh4alBurSLN2EZUUyb5ibGYFuGVHnX8w2R0x6wjSFOCbgh3MG8JvZ4nQTafQzP0lTxuEIisFumfgBYZjKpeNHUwQRs6Z8tV-CErQ1j5xR8gQguVaUM3Z2BwanuhzfbMYFfbugL0ikutsM-uPnp8vQYHooWS1VTvCZk6hNUczBv1i-NXMWuqYuH_HbtgZydm6B10yI3jNNQibRxtrX73K7yqIFjTRr4Cp934eWdxs-io5yKNN2fBl9SZy4WwOwkaBG_10s9qrw-iNTgA6FKa_GDYeNNWbpFaDVBkggJgJ3puB2taeeC-6VO-CoEJ9Ud4w_AHVb_QxbVoO4lN7w.jpg'
+[ERROR] ارسال عکس: [Errno 36] File name too long: '/tmp/tg_1789649059626_FIo94eh4alBurSLN2EZUUyb5ibGYFuGVHnX8w2R0x6wjSFOCbgh3MG8JvZ4nQTafQzP0lTxuEIisFumfgBYZjKpeNHUwQRs6Z8tV-CErQ1j5xR8gQguVaUM3Z2BwanuhzfbMYFfbugL0ikutsM-uPnp8vQYHooWS1VTvCZk6hNUczBv1i-NXMWuqYuH_HbtgZydm6B10yI3jNNQibRxtrX73K7yqIFjTRr4Cp934eWdxs-io5yKNN2fBl9SZy4WwOwkaBG_10s9qrw-iNTgA6FKa_GDYeNNWbpFaDVBkggJgJ3puB2taeeC-6VO-CoEJ9Ud4w_AHVb_QxbVoO4lN7w.jpg'
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[ERROR] ارسال عکس: [Errno 36] File name too long: '/tmp/tg_1789648898785_M-JOuhAFOmN5zdA4WxHL9luD_wWPI4htEgXA5VhvYbQYEOlOV_Q36CCp_3zf32YFmmsPCfXWm5MGglU6xW97N6qFqVQjfyuPIj6vlOhOBydWOgQugI-wai-p-p9709f0fg2ylmBZ_LLDPbC25Bev8qjjJhCck9zKnf8aLHhN30E6wJhWjdDcGme5gFEYRnVDbsu_tMK6ZjmZwHLiTVFGpiSBGyf3DXkXQLekZY-t9FftJHMyOAbH1_vdo9BFfQD2CO99jPwv87Iw4d4uT6OCCx36xDzT-MkNcH7RQe7SI-9ZobdBJnqpcu1sdrAEQLV3AgtQGZkYk0sdwQMJryNTiw.jpg'
+[ERROR] ارسال عکس: [Errno 36] File name too long: '/tmp/tg_1789649060749_M-JOuhAFOmN5zdA4WxHL9luD_wWPI4htEgXA5VhvYbQYEOlOV_Q36CCp_3zf32YFmmsPCfXWm5MGglU6xW97N6qFqVQjfyuPIj6vlOhOBydWOgQugI-wai-p-p9709f0fg2ylmBZ_LLDPbC25Bev8qjjJhCck9zKnf8aLHhN30E6wJhWjdDcGme5gFEYRnVDbsu_tMK6ZjmZwHLiTVFGpiSBGyf3DXkXQLekZY-t9FftJHMyOAbH1_vdo9BFfQD2CO99jPwv87Iw4d4uT6OCCx36xDzT-MkNcH7RQe7SI-9ZobdBJnqpcu1sdrAEQLV3AgtQGZkYk0sdwQMJryNTiw.jpg'
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[ERROR] ارسال عکس: [Errno 36] File name too long: '/tmp/tg_1789648899888_DTJbUn4iMYSEvX90qjgUNRlDVJdQaOIofZScACZr1YkEKu5GFCgRCzSZhRhk_GrOc5ghG1l_Z6Vohz4UdKBv7Q1GDG8yRv_Z_JJjXbjMThvamXS1byc2fodY8_BdKG8DqOF-1WWPk78k3hqZ8Fe2Z6prM1haMSy-usMlZIQtFvoiKK_lEKIFdZjfunwC5w7pZU-oQg0C9cJqhPROsylRxEUqvxJOqNCgRBeYUGE10K8gLjd__AjlMNg6AtxvJ_wuutnc55qhq6r6Td1eEStXeY7V64PWqHv7dXVxtABXDmPwUJb9alCjcBUnll1edxTaS-IoGVcYTQgKiC2EE_kLbA.jpg'
+[ERROR] ارسال عکس: [Errno 36] File name too long: '/tmp/tg_1789649061673_DTJbUn4iMYSEvX90qjgUNRlDVJdQaOIofZScACZr1YkEKu5GFCgRCzSZhRhk_GrOc5ghG1l_Z6Vohz4UdKBv7Q1GDG8yRv_Z_JJjXbjMThvamXS1byc2fodY8_BdKG8DqOF-1WWPk78k3hqZ8Fe2Z6prM1haMSy-usMlZIQtFvoiKK_lEKIFdZjfunwC5w7pZU-oQg0C9cJqhPROsylRxEUqvxJOqNCgRBeYUGE10K8gLjd__AjlMNg6AtxvJ_wuutnc55qhq6r6Td1eEStXeY7V64PWqHv7dXVxtABXDmPwUJb9alCjcBUnll1edxTaS-IoGVcYTQgKiC2EE_kLbA.jpg'
 [FAILED] @digiai post=2502
 [STATE] این پست عمداً پردازش‌شده ثبت نشد تا اجرای بعدی دوباره تلاش کند.
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[ERROR] ارسال عکس: [Errno 36] File name too long: '/tmp/tg_1789648900967_iNcCLi8NfWavDfnVn0k6HjG3-q_z1AVnZ5bNIyWcPiQEB3ds7E8akj9McETkjeJhBQ0PhWxrM_M2XqYcuUIjQzoTP3-s1fLfONv7ZbcUAOgxuCX8zcf-BxT5blrz53i7-CHhHos4DeeIXcgquCKwp-2HMN6BlROMdo80QYxkbKUp0_y0ucLTnskgCvzqawvm2JipfLBs845h5VHiVwxXtoBvw3E3EglE0cFss5EaVCOGSyujlnUjhTeUDmo3UQ_EuL65ytsLb6J9VoMITvgZzv2QPUHPGxDQFza28I9NhbW8_meDwEgkE1UVRcCpUimbajarwg8Tl7wGH0p6Dv1kvw.jpg'
+[ERROR] ارسال عکس: [Errno 36] File name too long: '/tmp/tg_1789649062554_iNcCLi8NfWavDfnVn0k6HjG3-q_z1AVnZ5bNIyWcPiQEB3ds7E8akj9McETkjeJhBQ0PhWxrM_M2XqYcuUIjQzoTP3-s1fLfONv7ZbcUAOgxuCX8zcf-BxT5blrz53i7-CHhHos4DeeIXcgquCKwp-2HMN6BlROMdo80QYxkbKUp0_y0ucLTnskgCvzqawvm2JipfLBs845h5VHiVwxXtoBvw3E3EglE0cFss5EaVCOGSyujlnUjhTeUDmo3UQ_EuL65ytsLb6J9VoMITvgZzv2QPUHPGxDQFza28I9NhbW8_meDwEgkE1UVRcCpUimbajarwg8Tl7wGH0p6Dv1kvw.jpg'
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[ERROR] ارسال عکس: [Errno 36] File name too long: '/tmp/tg_1789648902007_H-Ko2UHnux2iswDIKa7-7Ppkn3wk7Xb5QKkgfFYbjq4p0-YNPLvwBVzzWg--6XtZspw0DuDGa9K43-Lhexpi2oWb6m-HLEnBPEfblIWarwrCPCgWs2OVjvbW-cNdudZn56ZHKMrSx3HHIqQi0ZMsFf_HkW6ou8BJlb_TOyrznrjoU9vp6DO1_ebwcuwLjO9HSUkTxAhyFHtQo8aR3v2YCxwhcloO2eSa1ubPJT_klOrCqZDje5ITA5bCzv051bDBOhDP9wqCGNhZfwy3KGxvqCf8TkDdfUbJJqZ3eixTZ7H9WrBU8-_rGwoHY8o0Oixzpzq9Mb5xIB-QDgU-Wpz9tw.jpg'
+[ERROR] ارسال عکس: [Errno 36] File name too long: '/tmp/tg_1789649063707_H-Ko2UHnux2iswDIKa7-7Ppkn3wk7Xb5QKkgfFYbjq4p0-YNPLvwBVzzWg--6XtZspw0DuDGa9K43-Lhexpi2oWb6m-HLEnBPEfblIWarwrCPCgWs2OVjvbW-cNdudZn56ZHKMrSx3HHIqQi0ZMsFf_HkW6ou8BJlb_TOyrznrjoU9vp6DO1_ebwcuwLjO9HSUkTxAhyFHtQo8aR3v2YCxwhcloO2eSa1ubPJT_klOrCqZDje5ITA5bCzv051bDBOhDP9wqCGNhZfwy3KGxvqCf8TkDdfUbJJqZ3eixTZ7H9WrBU8-_rGwoHY8o0Oixzpzq9Mb5xIB-QDgU-Wpz9tw.jpg'
 [FAILED] @gizmiztel post=161879
+[STATE] این پست عمداً پردازش‌شده ثبت نشد تا اجرای بعدی دوباره تلاش کند.
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[ERROR] ارسال عکس: [Errno 36] File name too long: '/tmp/tg_1789649064417_PypWcxmce97g1mmsD_4iGyxsN97pOQGPEKEpUuADcZGWwkQ_9IhBNnI60Y0GFjiRabnfvgZSj7uppz4IBSv45LNZ74HJFx9Zekc492eYEYRCthXYYfBmeBW275VbyIVmyiGV-jjSO5G27vF47_3VKXRuX11xAA_zeS-gGXAmK0GxEdMFEY3V-SfoBXPbJkK7_xLs5iRudZgOnj24ULkZRUSv-QcRgLv2zTDZAsws9zrxQvRgwAqbZj6w2orXgqiczmV6DszYNqZRzQV65ard0Ck-l4Ducy1KVc2zQpUK81NCMHEqEcl41-jNwZ5eCZmrnyiAeNo_12FIKKyJPFfWSQ.jpg'
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[ERROR] ارسال عکس: [Errno 36] File name too long: '/tmp/tg_1789649065367_vuHr5h-aeXcd3_tEsjkjVKPihOr_LT_WQopqwyEsiOo4Ss88kEmN4OAvEQjO1ZUlupXCylB2FAIx4xudOJLkGkGys3VZEB_3BJ_aAWbpeBtPI7m6bihSnRjMEO7mFSaF0xH3YKJag5esEBiwk5JB30Gyum81ArHTIVXXi2v272DDRxQfFRkrFK7iPkttKP7ORYtkSy2jOdHqs0eAF01raNVAyHbnYqsQtSBFZYpUuASfl_GIiG6PU53CHO2OxwlzFN73m4elv26n_3sYKlUNVPMrO7savgY-ARkszPMTO1x5S0wTFLINfm6YKWVHS11WGXK91ARoGmnTSrNIUM53LQ.jpg'
+[FAILED] @coffeenetmanager post=51540
 [STATE] این پست عمداً پردازش‌شده ثبت نشد تا اجرای بعدی دوباره تلاش کند.
 
 ============================================================
