@@ -69,7 +69,7 @@ TESTING DESTINATION
 
 [CHECK] @coffeenetmanager
 [FETCH] https://t.me/s/coffeenetmanager
-[FOUND] @coffeenetmanager: 20 posts
+[FOUND] @coffeenetmanager: 19 posts
 
 [CHECK] @roidbest
 [FETCH] https://t.me/s/roidbest
@@ -101,7 +101,7 @@ TESTING DESTINATION
 
 [CHECK] @gizmiztel
 [FETCH] https://t.me/s/gizmiztel
-[FOUND] @gizmiztel: 17 posts
+[FOUND] @gizmiztel: 16 posts
 
 [CHECK] @dr_salamatx
 [FETCH] https://t.me/s/dr_salamatx
@@ -118,14 +118,27 @@ TESTING DESTINATION
 [CHECK] @etelaate_omoomi
 [FETCH] https://t.me/s/etelaate_omoomi
 [FOUND] @etelaate_omoomi: 20 posts
-[GLOBAL] new candidates=1
+[GLOBAL] new candidates=7
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[ERROR] ارسال عکس: [Errno 36] File name too long: '/tmp/tg_1789648176998_FIo94eh4alBurSLN2EZUUyb5ibGYFuGVHnX8w2R0x6wjSFOCbgh3MG8JvZ4nQTafQzP0lTxuEIisFumfgBYZjKpeNHUwQRs6Z8tV-CErQ1j5xR8gQguVaUM3Z2BwanuhzfbMYFfbugL0ikutsM-uPnp8vQYHooWS1VTvCZk6hNUczBv1i-NXMWuqYuH_HbtgZydm6B10yI3jNNQibRxtrX73K7yqIFjTRr4Cp934eWdxs-io5yKNN2fBl9SZy4WwOwkaBG_10s9qrw-iNTgA6FKa_GDYeNNWbpFaDVBkggJgJ3puB2taeeC-6VO-CoEJ9Ud4w_AHVb_QxbVoO4lN7w.jpg'
+[ERROR] ارسال عکس: [Errno 36] File name too long: '/tmp/tg_1789648470412_FIo94eh4alBurSLN2EZUUyb5ibGYFuGVHnX8w2R0x6wjSFOCbgh3MG8JvZ4nQTafQzP0lTxuEIisFumfgBYZjKpeNHUwQRs6Z8tV-CErQ1j5xR8gQguVaUM3Z2BwanuhzfbMYFfbugL0ikutsM-uPnp8vQYHooWS1VTvCZk6hNUczBv1i-NXMWuqYuH_HbtgZydm6B10yI3jNNQibRxtrX73K7yqIFjTRr4Cp934eWdxs-io5yKNN2fBl9SZy4WwOwkaBG_10s9qrw-iNTgA6FKa_GDYeNNWbpFaDVBkggJgJ3puB2taeeC-6VO-CoEJ9Ud4w_AHVb_QxbVoO4lN7w.jpg'
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[ERROR] ارسال عکس: [Errno 36] File name too long: '/tmp/tg_1789648178599_M-JOuhAFOmN5zdA4WxHL9luD_wWPI4htEgXA5VhvYbQYEOlOV_Q36CCp_3zf32YFmmsPCfXWm5MGglU6xW97N6qFqVQjfyuPIj6vlOhOBydWOgQugI-wai-p-p9709f0fg2ylmBZ_LLDPbC25Bev8qjjJhCck9zKnf8aLHhN30E6wJhWjdDcGme5gFEYRnVDbsu_tMK6ZjmZwHLiTVFGpiSBGyf3DXkXQLekZY-t9FftJHMyOAbH1_vdo9BFfQD2CO99jPwv87Iw4d4uT6OCCx36xDzT-MkNcH7RQe7SI-9ZobdBJnqpcu1sdrAEQLV3AgtQGZkYk0sdwQMJryNTiw.jpg'
+[ERROR] ارسال عکس: [Errno 36] File name too long: '/tmp/tg_1789648471758_M-JOuhAFOmN5zdA4WxHL9luD_wWPI4htEgXA5VhvYbQYEOlOV_Q36CCp_3zf32YFmmsPCfXWm5MGglU6xW97N6qFqVQjfyuPIj6vlOhOBydWOgQugI-wai-p-p9709f0fg2ylmBZ_LLDPbC25Bev8qjjJhCck9zKnf8aLHhN30E6wJhWjdDcGme5gFEYRnVDbsu_tMK6ZjmZwHLiTVFGpiSBGyf3DXkXQLekZY-t9FftJHMyOAbH1_vdo9BFfQD2CO99jPwv87Iw4d4uT6OCCx36xDzT-MkNcH7RQe7SI-9ZobdBJnqpcu1sdrAEQLV3AgtQGZkYk0sdwQMJryNTiw.jpg'
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[ERROR] ارسال عکس: [Errno 36] File name too long: '/tmp/tg_1789648180089_DTJbUn4iMYSEvX90qjgUNRlDVJdQaOIofZScACZr1YkEKu5GFCgRCzSZhRhk_GrOc5ghG1l_Z6Vohz4UdKBv7Q1GDG8yRv_Z_JJjXbjMThvamXS1byc2fodY8_BdKG8DqOF-1WWPk78k3hqZ8Fe2Z6prM1haMSy-usMlZIQtFvoiKK_lEKIFdZjfunwC5w7pZU-oQg0C9cJqhPROsylRxEUqvxJOqNCgRBeYUGE10K8gLjd__AjlMNg6AtxvJ_wuutnc55qhq6r6Td1eEStXeY7V64PWqHv7dXVxtABXDmPwUJb9alCjcBUnll1edxTaS-IoGVcYTQgKiC2EE_kLbA.jpg'
+[ERROR] ارسال عکس: [Errno 36] File name too long: '/tmp/tg_1789648473343_DTJbUn4iMYSEvX90qjgUNRlDVJdQaOIofZScACZr1YkEKu5GFCgRCzSZhRhk_GrOc5ghG1l_Z6Vohz4UdKBv7Q1GDG8yRv_Z_JJjXbjMThvamXS1byc2fodY8_BdKG8DqOF-1WWPk78k3hqZ8Fe2Z6prM1haMSy-usMlZIQtFvoiKK_lEKIFdZjfunwC5w7pZU-oQg0C9cJqhPROsylRxEUqvxJOqNCgRBeYUGE10K8gLjd__AjlMNg6AtxvJ_wuutnc55qhq6r6Td1eEStXeY7V64PWqHv7dXVxtABXDmPwUJb9alCjcBUnll1edxTaS-IoGVcYTQgKiC2EE_kLbA.jpg'
 [FAILED] @digiai post=2502
+[STATE] این پست عمداً پردازش‌شده ثبت نشد تا اجرای بعدی دوباره تلاش کند.
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[ERROR] ارسال عکس: [Errno 36] File name too long: '/tmp/tg_1789648477542_B-4whwsoq2bTovnc65vqekzF7BcxlhRSs6wOO4D5_QGYVh4gOOGjF7fpLEoMtEGMgyPSWxbPTBOMJjSiYWMGrGKlJUrV0V_Tfec5tUBcKfObVy0fceSuqmX6SZsvewdEZ1uI91Hg9xEKohLhekBKxMqmakO13euuXMEErusWBgXb-EU-Vwg4-rgshkDF1mxInxqxt_DjQwjQtpOZV3nmvJBexmimIUOLtYg9DwX8RGicpGzMlfmD7exeA21WRWkV9SIx-CxTn24rfY97ckBGyQNOgQKx0Dl7XzLFvn2qBsWQ8TNrerRX5yCcmsTPTAniXouew_zJwBkw6o8kd83fgQ.jpg'
+[FAILED] @gizmiztel post=161876
+[STATE] این پست عمداً پردازش‌شده ثبت نشد تا اجرای بعدی دوباره تلاش کند.
+[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_1789648483215_da0ba3dbc1.mp4
+[OK] ویدیو به صورت فایل ارسال شد.
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[ERROR] ارسال عکس: [Errno 36] File name too long: '/tmp/tg_1789648489170_iNcCLi8NfWavDfnVn0k6HjG3-q_z1AVnZ5bNIyWcPiQEB3ds7E8akj9McETkjeJhBQ0PhWxrM_M2XqYcuUIjQzoTP3-s1fLfONv7ZbcUAOgxuCX8zcf-BxT5blrz53i7-CHhHos4DeeIXcgquCKwp-2HMN6BlROMdo80QYxkbKUp0_y0ucLTnskgCvzqawvm2JipfLBs845h5VHiVwxXtoBvw3E3EglE0cFss5EaVCOGSyujlnUjhTeUDmo3UQ_EuL65ytsLb6J9VoMITvgZzv2QPUHPGxDQFza28I9NhbW8_meDwEgkE1UVRcCpUimbajarwg8Tl7wGH0p6Dv1kvw.jpg'
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[ERROR] ارسال عکس: [Errno 36] File name too long: '/tmp/tg_1789648490609_H-Ko2UHnux2iswDIKa7-7Ppkn3wk7Xb5QKkgfFYbjq4p0-YNPLvwBVzzWg--6XtZspw0DuDGa9K43-Lhexpi2oWb6m-HLEnBPEfblIWarwrCPCgWs2OVjvbW-cNdudZn56ZHKMrSx3HHIqQi0ZMsFf_HkW6ou8BJlb_TOyrznrjoU9vp6DO1_ebwcuwLjO9HSUkTxAhyFHtQo8aR3v2YCxwhcloO2eSa1ubPJT_klOrCqZDje5ITA5bCzv051bDBOhDP9wqCGNhZfwy3KGxvqCf8TkDdfUbJJqZ3eixTZ7H9WrBU8-_rGwoHY8o0Oixzpzq9Mb5xIB-QDgU-Wpz9tw.jpg'
+[FAILED] @gizmiztel post=161879
 [STATE] این پست عمداً پردازش‌شده ثبت نشد تا اجرای بعدی دوباره تلاش کند.
 
 ============================================================
