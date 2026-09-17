@@ -24,8 +24,6 @@ SEND_DELAY = 2
 MAX_PROCESSED_IDS = 1000
 MAX_GLOBAL_HISTORY = 1000
 
-# اگر دو پست علمی از دو کانال حداقل این مقدار شباهت متنی داشته باشند،
-# پست دوم به عنوان کپی در نظر گرفته می‌شود.
 SIMILARITY_THRESHOLD = 0.88
 MIN_SIMILARITY_LENGTH = 60
 
@@ -188,9 +186,17 @@ def telegram_call(method, destination=False, retry_migration=True, **params):
 
 def multipart_call(method, data, files, retry_migration=True):
     data = dict(data)
-    data["chat_id"] = CURRENT_CHAT_ID
 
     try:
+        data["chat_id"] = CURRENT_CHAT_ID
+
+        # Reset file positions before every multipart request.
+        for file_obj in files.values():
+            try:
+                file_obj.seek(0)
+            except Exception:
+                pass
+
         response = requests.post(
             f"{API}/{method}",
             data=data,
@@ -217,7 +223,6 @@ def multipart_call(method, data, files, retry_migration=True):
     if migrate_to and retry_migration:
         update_chat_id(migrate_to)
 
-        # فایل باز است؛ همان درخواست دوباره با شناسه جدید ارسال می‌شود.
         return multipart_call(
             method,
             data,
@@ -286,6 +291,15 @@ def send_photo(photo_url, caption=""):
     )
 
 
+def send_photo_file(file_path, caption=""):
+    with open(file_path, "rb") as file:
+        return multipart_call(
+            "sendPhoto",
+            {"caption": caption[:1024]},
+            {"photo": file}
+        )
+
+
 def send_video(video_url, caption=""):
     return telegram_call(
         "sendVideo",
@@ -296,42 +310,16 @@ def send_video(video_url, caption=""):
     )
 
 
-def send_message_to_chat(chat_id, text):
-    return telegram_call(
-        "sendMessage",
-        chat_id=chat_id,
-        text=text[:4096]
-    )
-
-
-def download_file(url):
-    response = requests.get(
-        url,
-        headers=HEADERS,
-        timeout=180
-    )
-
-    response.raise_for_status()
-
-    filename = (
-        url.split("?")[0]
-        .rstrip("/")
-        .split("/")[-1]
-    )
-
-    filename = re.sub(
-        r"[^a-zA-Z0-9._-]",
-        "_",
-        filename
-    ) or "media"
-
-    path = f"/tmp/tg_{int(time.time() * 1000)}_{filename}"
-
-    with open(path, "wb") as f:
-        f.write(response.content)
-
-    print(f"[DOWNLOAD OK] {path}")
-    return path
+def send_video_file(file_path, caption=""):
+    with open(file_path, "rb") as file:
+        return multipart_call(
+            "sendVideo",
+            {
+                "caption": caption[:1024],
+                "supports_streaming": "true"
+            },
+            {"video": file}
+        )
 
 
 def send_document_file(file_path, caption=""):
@@ -341,6 +329,39 @@ def send_document_file(file_path, caption=""):
             {"caption": caption[:1024]},
             {"document": file}
         )
+
+
+def download_file(url, extension="bin"):
+    response = requests.get(
+        url,
+        headers=HEADERS,
+        timeout=180
+    )
+
+    response.raise_for_status()
+
+    # Never use the Telegram CDN URL as the filename.
+    # Those URLs can contain hundreds of characters.
+    extension = re.sub(
+        r"[^a-zA-Z0-9]",
+        "",
+        extension.lower()
+    )
+
+    if not extension:
+        extension = "bin"
+
+    path = (
+        f"/tmp/tg_media_"
+        f"{int(time.time() * 1000)}."
+        f"{extension}"
+    )
+
+    with open(path, "wb") as f:
+        f.write(response.content)
+
+    print(f"[DOWNLOAD OK] {path}")
+    return path
 
 
 def fetch_channel_posts(username):
@@ -522,12 +543,10 @@ def find_duplicate(post, history):
     fingerprint = content_fingerprint(post)
     media_fp = media_fingerprint(post)
 
-    # 1) محتوای دقیقاً یکسان
     for item in reversed(history):
         if item.get("fingerprint") == fingerprint:
             return item, "exact content"
 
-    # 2) عکس/ویدیوی یکسان + متن مشابه
     if media_fp:
         for item in reversed(history):
             if item.get("media_fingerprint") != media_fp:
@@ -549,7 +568,6 @@ def find_duplicate(post, history):
                     f"same media + similar text {score:.2f}"
                 )
 
-    # 3) متن خیلی مشابه حتی اگر رسانه فرق کند
     for item in reversed(history):
         old_text = item.get("text", "")
 
@@ -601,18 +619,21 @@ def add_source_to_original(item, username):
     if username in sources:
         return
 
-    sources.append(username)
-
     message_id = item.get("message_id")
 
     if not message_id:
+        # Keep the source in history even when there is no editable
+        # destination message available.
+        sources.append(username)
         return
+
+    new_sources = list(sources) + [username]
 
     caption = build_caption(
         item.get("original_username", ""),
         item.get("original_text", ""),
         item.get("original_link", ""),
-        sources
+        new_sources
     )
 
     try:
@@ -630,6 +651,8 @@ def add_source_to_original(item, username):
                 message_id=message_id,
                 caption=caption[:1024]
             )
+
+        sources.append(username)
 
         print(
             f"[SOURCE UPDATED] +@{username}"
@@ -722,12 +745,37 @@ def send_post(post, username):
                     f"[WARN] ارسال مستقیم عکس: {e}"
                 )
 
+                local_file = None
+
                 try:
                     local_file = download_file(
-                        photo_url
+                        photo_url,
+                        "jpg"
                     )
 
                     try:
+                        result = send_photo_file(
+                            local_file,
+                            photo_caption
+                        )
+
+                        if index == 0:
+                            first_result = result
+
+                        sent_count += 1
+
+                        print(
+                            f"[OK] عکس "
+                            f"{index + 1}/{len(photos)} "
+                            f"به صورت فایل تصویری ارسال شد."
+                        )
+
+                    except Exception as e2:
+                        print(
+                            f"[WARN] آپلود عکس به صورت photo: {e2}"
+                        )
+
+                        # Last fallback: send as document.
                         result = send_document_file(
                             local_file,
                             photo_caption
@@ -738,14 +786,20 @@ def send_post(post, username):
 
                         sent_count += 1
 
-                    finally:
-                        if os.path.exists(local_file):
-                            os.remove(local_file)
+                        print(
+                            f"[OK] عکس "
+                            f"{index + 1}/{len(photos)} "
+                            f"به صورت فایل ارسال شد."
+                        )
 
                 except Exception as e2:
                     print(
                         f"[ERROR] ارسال عکس: {e2}"
                     )
+
+                finally:
+                    if local_file and os.path.exists(local_file):
+                        os.remove(local_file)
 
         return {
             "success": sent_count > 0,
@@ -775,12 +829,36 @@ def send_post(post, username):
                 f"[WARN] ارسال مستقیم ویدیو: {e}"
             )
 
+        local_file = None
+
         try:
             local_file = download_file(
-                video
+                video,
+                "mp4"
             )
 
             try:
+                result = send_video_file(
+                    local_file,
+                    caption
+                )
+
+                print(
+                    "[OK] ویدیو به صورت ویدیو آپلود شد."
+                )
+
+                return {
+                    "success": True,
+                    "type": "sent",
+                    "result": result,
+                    "message_kind": "caption"
+                }
+
+            except Exception as e2:
+                print(
+                    f"[WARN] آپلود ویدیو به صورت video: {e2}"
+                )
+
                 result = send_document_file(
                     local_file,
                     caption
@@ -797,14 +875,14 @@ def send_post(post, username):
                     "message_kind": "caption"
                 }
 
-            finally:
-                if os.path.exists(local_file):
-                    os.remove(local_file)
-
         except Exception as e:
             print(
                 f"[WARN] آپلود ویدیو: {e}"
             )
+
+        finally:
+            if local_file and os.path.exists(local_file):
+                os.remove(local_file)
 
         try:
             result = send_message(
@@ -1015,8 +1093,15 @@ def handle_updates(channels, bot_state):
     return channels, bot_state
 
 
+def send_message_to_chat(chat_id, text):
+    return telegram_call(
+        "sendMessage",
+        chat_id=chat_id,
+        text=text[:4096]
+    )
+
+
 def normalize_state(raw):
-    # فرمت جدید
     if (
         isinstance(raw, dict)
         and isinstance(
@@ -1091,7 +1176,6 @@ def normalize_state(raw):
             }
         }
 
-    # تبدیل خودکار state.json قدیمی
     channels = {}
 
     if isinstance(raw, dict):
@@ -1220,7 +1304,6 @@ def check_channels(channels, state):
 
     candidates = []
 
-    # همه کانال‌ها ابتدا خوانده می‌شوند.
     for channel_index, username in enumerate(channels):
         username = (
             username
@@ -1258,8 +1341,6 @@ def check_channels(channels, state):
             channel_states[username]
         )
 
-        # اولین اجرای یک کانال:
-        # فقط آخرین پست baseline می‌شود.
         if int(
             channel_state.get(
                 "last_id",
@@ -1307,7 +1388,6 @@ def check_channels(channels, state):
                 "post": post
             })
 
-    # ترتیب زمانی واقعی پست‌ها
     candidates.sort(
         key=lambda item: (
             published_timestamp(
@@ -1332,7 +1412,6 @@ def check_channels(channels, state):
             channel_states[username]
         )
 
-        # فیلتر تبلیغات شرط‌بندی
         filtered, pattern = is_filtered(
             post.get("text", "")
         )
@@ -1356,7 +1435,6 @@ def check_channels(channels, state):
 
             continue
 
-        # بررسی کپی بودن با کانال‌های دیگر
         duplicate, reason = find_duplicate(
             post,
             history
@@ -1374,7 +1452,6 @@ def check_channels(channels, state):
                 username
             )
 
-            # کپی است، پس باید به عنوان پردازش‌شده ثبت شود
             mark_processed(
                 channel_state,
                 post_id
@@ -1403,10 +1480,8 @@ def check_channels(channels, state):
                 "پردازش‌شده ثبت نشد تا اجرای بعدی دوباره تلاش کند."
             )
 
-            # کانال را جلو نمی‌بریم تا پست در اجرای بعدی دوباره تلاش شود.
             continue
 
-        # فقط بعد از فیلتر/کپی/ارسال موفق state جلو می‌رود.
         mark_processed(
             channel_state,
             post_id
@@ -1459,8 +1534,6 @@ def main():
             "last_update_id": 0
         }
 
-    # اگر مقصد قبلاً به سوپرگروه تبدیل شده باشد،
-    # شناسه جدید از bot_state استفاده می‌شود.
     CURRENT_CHAT_ID = str(
         bot_state.get(
             "destination_chat_id",
@@ -1495,7 +1568,6 @@ def main():
         state
     )
 
-    # شناسه مقصد فعلی را برای اجرای بعدی ذخیره می‌کنیم.
     bot_state["destination_chat_id"] = (
         CURRENT_CHAT_ID
     )
