@@ -1,23 +1,27 @@
 name: Check Telegram Channels
 
 on:
-  workflow_dispatch:
-
   schedule:
     - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# جلوگیری از اجرای همزمان دو نسخه ربات
+concurrency:
+  group: telegram-channel-checker
+  cancel-in-progress: false
 
 jobs:
   check-channels:
-
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
-
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -29,21 +33,38 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4
 
+      - name: Check Python syntax
+        run: |
+          python --version
+          python -m py_compile check_channels.py
+
       - name: Run channel checker
+        shell: bash
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
           OWNER_ID: ${{ secrets.OWNER_ID }}
         run: |
-          python check_channels.py
+          set -o pipefail
+
+          echo "=========================================="
+          echo "START CHANNEL CHECKER"
+          echo "=========================================="
+
+          python -u check_channels.py 2>&1 | tee channel_checker.log
 
       - name: Save state files
+        if: always()
+        shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add channels.json state.json bot_state.json
+          git add channels.json state.json bot_state.json channel_checker.log 2>/dev/null || true
 
-          git diff --cached --quiet || git commit -m "Update channel state"
-
-          git push
+          if git diff --cached --quiet; then
+            echo "No state changes to commit."
+          else
+            git commit -m "Update bot state"
+            git push
+          fi
