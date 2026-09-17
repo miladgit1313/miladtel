@@ -3,6 +3,9 @@ import json
 import time
 import re
 import hashlib
+from difflib import SequenceMatcher
+from datetime import datetime, timezone
+
 import requests
 from bs4 import BeautifulSoup
 
@@ -21,17 +24,29 @@ BOT_STATE_FILE = "bot_state.json"
 
 API = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
-MAX_PROCESSED_IDS = 1000
-MAX_FINGERPRINTS = 500
-
 REQUEST_TIMEOUT = 60
 DOWNLOAD_TIMEOUT = 180
 
 SEND_DELAY = 2
 
+# حداکثر تعداد پست‌های قبلی که برای ضدتکرار نگه می‌داریم
+MAX_PROCESSED_IDS = 1000
+
+# تاریخچه ضدتکرار بین کانال‌ها
+MAX_GLOBAL_HISTORY = 1000
+
+# حداقل طول متن برای تشخیص شباهت تقریبی
+MIN_FUZZY_TEXT_LENGTH = 60
+
+# آستانه شباهت متنی
+FUZZY_SIMILARITY_THRESHOLD = 0.88
+
+# آستانه شباهت کلمات
+TOKEN_SIMILARITY_THRESHOLD = 0.80
+
 
 # =========================================================
-# HTTP HEADERS
+# HEADERS
 # =========================================================
 
 HEADERS = {
@@ -48,45 +63,15 @@ HEADERS = {
 # FILTER
 # =========================================================
 
-# فیلتر سخت‌گیرانه تبلیغات شرط‌بندی
-#
-# این الگوها شکل‌های مختلف زیر را می‌گیرند:
-#
-# شرط بندی
-# شرط‌بندی
-# شرط‌بندی
-# شرطبندی
-#
-# وینتوبت
-# وین تو بت
-#
-# وان ایکس
-# وان‌ایکس
-#
-# 1xbet
-# 1x bet
-# 1-x-bet
-# 1x.bet
-#
-
 FILTER_PATTERNS = [
     r"شرط[\s\u200c\u200d_ـ\-]*بندی",
-    r"وین[\s\u200c\u200d_ـ\-]*کو[\s\u200c\u200d_ـ\-]*بت",
+    r"وین[\s\u200c\u200d_ـ\-]*تو[\s\u200c\u200d_ـ\-]*بت",
     r"وان[\s\u200c\u200d_ـ\-]*ایکس",
     r"1[\s\u200c\u200d_ـ\-._]*x[\s\u200c\u200d_ـ\-._]*bet",
 ]
 
 
 def normalize_text(text):
-    """
-    نرمال‌سازی متن فارسی برای:
-    - یکسان کردن ی / ي
-    - یکسان کردن ک / ك
-    - حذف نیم‌فاصله‌های اضافی
-    - حذف فاصله‌های تکراری
-    - lowercase برای متن انگلیسی
-    """
-
     if not text:
         return ""
 
@@ -96,39 +81,83 @@ def normalize_text(text):
     text = text.replace("ى", "ی")
     text = text.replace("ك", "ک")
 
-    # حذف انواع ZWNJ / ZWJ
     text = text.replace("\u200c", " ")
     text = text.replace("\u200d", " ")
-
-    # حذف کاراکترهای نامرئی
     text = text.replace("\ufeff", "")
     text = text.replace("\u2060", "")
 
-    # یکسان‌سازی فاصله
     text = re.sub(r"\s+", " ", text)
 
     return text.strip().lower()
 
 
-def contains_filtered_content(text):
+def normalize_for_similarity(text):
     """
-    بررسی متن پست برای کلمات ممنوع.
+    نرمال‌سازی مخصوص تشخیص پست‌های مشابه.
+
+    لینک‌ها و usernameها حذف می‌شوند تا مثلاً:
+
+    @channelA
+    https://t.me/...
+    
+    باعث شوند دو پست مشابه، متفاوت تشخیص داده نشوند.
     """
 
+    text = normalize_text(text)
+
+    # حذف URL
+    text = re.sub(
+        r"https?://\S+|www\.\S+",
+        " ",
+        text
+    )
+
+    # حذف @username
+    text = re.sub(
+        r"@\w+",
+        " ",
+        text
+    )
+
+    # حذف هشتگ از نظر علامت # ولی متن هشتگ باقی می‌ماند
+    text = text.replace("#", " ")
+
+    # حذف کاراکترهای تزئینی
+    text = re.sub(
+        r"[^\w\s\u0600-\u06FF]",
+        " ",
+        text,
+        flags=re.UNICODE
+    )
+
+    text = re.sub(
+        r"\s+",
+        " ",
+        text
+    )
+
+    return text.strip()
+
+
+def contains_filtered_content(text):
     normalized = normalize_text(text)
 
     if not normalized:
         return False, None
 
     for pattern in FILTER_PATTERNS:
-        if re.search(pattern, normalized, flags=re.IGNORECASE):
+        if re.search(
+            pattern,
+            normalized,
+            flags=re.IGNORECASE
+        ):
             return True, pattern
 
     return False, None
 
 
 # =========================================================
-# FILE / JSON
+# JSON
 # =========================================================
 
 def load_json(path, default):
@@ -136,11 +165,17 @@ def load_json(path, default):
         return default
 
     try:
-        with open(path, "r", encoding="utf-8") as f:
+        with open(
+            path,
+            "r",
+            encoding="utf-8"
+        ) as f:
             return json.load(f)
 
     except Exception as e:
-        print(f"[ERROR] خواندن {path}: {e}")
+        print(
+            f"[ERROR] خواندن {path}: {e}"
+        )
         return default
 
 
@@ -148,7 +183,11 @@ def save_json(path, data):
     temp_path = f"{path}.tmp"
 
     try:
-        with open(temp_path, "w", encoding="utf-8") as f:
+        with open(
+            temp_path,
+            "w",
+            encoding="utf-8"
+        ) as f:
             json.dump(
                 data,
                 f,
@@ -156,151 +195,254 @@ def save_json(path, data):
                 indent=2
             )
 
-        os.replace(temp_path, path)
+        os.replace(
+            temp_path,
+            path
+        )
 
     except Exception as e:
-        print(f"[ERROR] ذخیره {path}: {e}")
+        print(
+            f"[ERROR] ذخیره {path}: {e}"
+        )
 
 
 # =========================================================
-# STATE NORMALIZATION
+# STATE
 # =========================================================
 
-def normalize_channel_state(raw_value):
-    """
-    state.json قدیمی ممکن است به شکل:
-
-    {
-        "channel": 123
+def empty_channel_state():
+    return {
+        "last_id": 0,
+        "processed_ids": []
     }
 
-    باشد.
 
-    نسخه جدید:
-
-    {
-        "channel": {
-            "last_id": 123,
-            "processed_ids": [],
-            "fingerprints": []
-        }
+def empty_global_state():
+    return {
+        "history": []
     }
 
-    این تابع هر دو حالت را پشتیبانی می‌کند.
-    """
 
-    if isinstance(raw_value, dict):
-        last_id = raw_value.get("last_id", 0)
+def normalize_channel_state(value):
+    if isinstance(value, dict):
 
         try:
-            last_id = int(last_id)
+            last_id = int(
+                value.get(
+                    "last_id",
+                    0
+                )
+            )
         except Exception:
             last_id = 0
 
-        processed_ids = raw_value.get(
+        processed_ids = value.get(
             "processed_ids",
             []
         )
 
-        fingerprints = raw_value.get(
-            "fingerprints",
-            []
-        )
-
-        if not isinstance(processed_ids, list):
+        if not isinstance(
+            processed_ids,
+            list
+        ):
             processed_ids = []
-
-        if not isinstance(fingerprints, list):
-            fingerprints = []
 
         clean_ids = []
 
         for item in processed_ids:
             try:
-                clean_ids.append(int(item))
+                clean_ids.append(
+                    int(item)
+                )
             except Exception:
                 pass
 
-        fingerprints = [
-            str(x)
-            for x in fingerprints
-            if x
-        ]
-
         return {
             "last_id": last_id,
-            "processed_ids": clean_ids[-MAX_PROCESSED_IDS:],
-            "fingerprints": fingerprints[-MAX_FINGERPRINTS:]
+            "processed_ids": clean_ids[
+                -MAX_PROCESSED_IDS:
+            ]
         }
 
-    # سازگاری با state قدیمی
+    # پشتیبانی از state قدیمی:
+    # "channel": 123
     try:
-        old_last_id = int(raw_value)
+        old_id = int(value)
     except Exception:
-        old_last_id = 0
+        old_id = 0
 
     return {
-        "last_id": old_last_id,
-        "processed_ids": [],
-        "fingerprints": []
+        "last_id": old_id,
+        "processed_ids": []
     }
 
 
-def normalize_full_state(state):
-    if not isinstance(state, dict):
-        state = {}
+def normalize_state(raw_state):
+    """
+    تبدیل stateهای قدیمی و جدید به ساختار جدید.
 
-    normalized = {}
+    ساختار جدید:
 
-    for username, value in state.items():
-        normalized[username] = normalize_channel_state(value)
+    {
+        "channels": {
+            "channel1": {
+                "last_id": 123,
+                "processed_ids": []
+            }
+        },
+        "global": {
+            "history": []
+        }
+    }
+    """
 
-    return normalized
+    # اگر قبلاً نسخه جدید است
+    if (
+        isinstance(raw_state, dict)
+        and "channels" in raw_state
+    ):
+
+        channels_raw = raw_state.get(
+            "channels",
+            {}
+        )
+
+        global_raw = raw_state.get(
+            "global",
+            {}
+        )
+
+        channels = {}
+
+        if isinstance(
+            channels_raw,
+            dict
+        ):
+            for username, value in channels_raw.items():
+                channels[
+                    username
+                ] = normalize_channel_state(
+                    value
+                )
+
+        history = []
+
+        if isinstance(
+            global_raw,
+            dict
+        ):
+            history = global_raw.get(
+                "history",
+                []
+            )
+
+        if not isinstance(
+            history,
+            list
+        ):
+            history = []
+
+        return {
+            "channels": channels,
+            "global": {
+                "history": history[
+                    -MAX_GLOBAL_HISTORY:
+                ]
+            }
+        }
+
+    # -----------------------------------------------------
+    # مهاجرت State قدیمی
+    # -----------------------------------------------------
+
+    channels = {}
+
+    if isinstance(
+        raw_state,
+        dict
+    ):
+
+        for username, value in raw_state.items():
+
+            if username in (
+                "global",
+                "channels"
+            ):
+                continue
+
+            channels[
+                username
+            ] = normalize_channel_state(
+                value
+            )
+
+    return {
+        "channels": channels,
+        "global": {
+            "history": []
+        }
+    }
 
 
 # =========================================================
-# DESTINATION CHAT ID
+# DESTINATION CHAT
 # =========================================================
-
-def get_current_chat_id(bot_state):
-    """
-    اولویت:
-    1. شناسه‌ای که قبلاً به دلیل migration ذخیره شده
-    2. CHAT_ID موجود در GitHub Secrets
-    """
-
-    saved_id = bot_state.get("destination_chat_id")
-
-    if saved_id:
-        return str(saved_id).strip()
-
-    return ENV_CHAT_ID
-
 
 CURRENT_CHAT_ID = ENV_CHAT_ID
 
 
-def update_destination_chat_id(new_chat_id):
-    """
-    شناسه فعلی مقصد را در حافظه تغییر می‌دهد.
-    ذخیره دائمی در main انجام می‌شود.
-    """
+def get_current_chat_id(bot_state):
+    saved_id = bot_state.get(
+        "destination_chat_id"
+    )
 
+    if saved_id:
+        return str(
+            saved_id
+        ).strip()
+
+    return ENV_CHAT_ID
+
+
+def update_destination_chat_id(
+    new_chat_id
+):
     global CURRENT_CHAT_ID
 
-    new_chat_id = str(new_chat_id).strip()
+    new_chat_id = str(
+        new_chat_id
+    ).strip()
 
     if not new_chat_id:
         return
 
-    if CURRENT_CHAT_ID != new_chat_id:
+    if (
+        CURRENT_CHAT_ID
+        != new_chat_id
+    ):
+
         print("")
-        print("=" * 60)
-        print("[MIGRATION DETECTED]")
-        print(f"[OLD CHAT ID] {CURRENT_CHAT_ID}")
-        print(f"[NEW CHAT ID] {new_chat_id}")
-        print("[INFO] مقصد به Supergroup منتقل شده است.")
-        print("=" * 60)
+        print(
+            "=" * 60
+        )
+        print(
+            "[MIGRATION DETECTED]"
+        )
+        print(
+            f"[OLD CHAT ID] "
+            f"{CURRENT_CHAT_ID}"
+        )
+        print(
+            f"[NEW CHAT ID] "
+            f"{new_chat_id}"
+        )
+        print(
+            "[INFO] گروه به Supergroup "
+            "منتقل شده است."
+        )
+        print(
+            "=" * 60
+        )
 
     CURRENT_CHAT_ID = new_chat_id
 
@@ -317,44 +459,36 @@ class TelegramAPIError(Exception):
         description,
         parameters=None
     ):
+
         self.error_code = error_code
         self.description = description
         self.parameters = parameters or {}
 
-        message = (
+        super().__init__(
             f"Telegram API error "
-            f"{error_code}: {description}"
+            f"{error_code}: "
+            f"{description}"
         )
-
-        super().__init__(message)
 
 
 # =========================================================
 # TELEGRAM API
 # =========================================================
 
-def telegram_call(method, retry_migration=True, **params):
-    """
-    درخواست معمولی به Telegram Bot API.
+def telegram_call(
+    method,
+    destination=False,
+    retry_migration=True,
+    **params
+):
 
-    اگر Telegram بگوید گروه به Supergroup منتقل شده:
-    migrate_to_chat_id را می‌گیرد،
-    CHAT_ID را عوض می‌کند،
-    و همان درخواست را دوباره اجرا می‌کند.
-    """
-
-    if "chat_id" not in params:
+    if destination:
         params["chat_id"] = CURRENT_CHAT_ID
-
-    else:
-        # هر جا chat_id مقصد خود ربات است
-        # از شناسه فعلی استفاده شود.
-        if params["chat_id"] == ENV_CHAT_ID:
-            params["chat_id"] = CURRENT_CHAT_ID
 
     url = f"{API}/{method}"
 
     try:
+
         response = requests.post(
             url,
             data=params,
@@ -362,15 +496,18 @@ def telegram_call(method, retry_migration=True, **params):
         )
 
     except requests.RequestException as e:
+
         raise TelegramAPIError(
             0,
             f"Network error: {e}"
         )
 
     try:
+
         result = response.json()
 
     except Exception:
+
         raise TelegramAPIError(
             response.status_code,
             (
@@ -403,33 +540,28 @@ def telegram_call(method, retry_migration=True, **params):
     )
 
     # -----------------------------------------------------
-    # AUTO MIGRATION
+    # AUTO SUPERGROUP MIGRATION
     # -----------------------------------------------------
 
-    if migrate_to and retry_migration:
-
-        print("")
-        print(
-            "[TELEGRAM] Telegram اعلام کرد "
-            "گروه به Supergroup تبدیل شده."
-        )
-
-        print(
-            f"[TELEGRAM] migrate_to_chat_id = "
-            f"{migrate_to}"
-        )
+    if (
+        destination
+        and migrate_to
+        and retry_migration
+    ):
 
         update_destination_chat_id(
             migrate_to
         )
 
-        # دوباره همان درخواست
-        params["chat_id"] = CURRENT_CHAT_ID
-
         return telegram_call(
             method,
+            destination=True,
             retry_migration=False,
-            **params
+            **{
+                k: v
+                for k, v in params.items()
+                if k != "chat_id"
+            }
         )
 
     raise TelegramAPIError(
@@ -440,7 +572,7 @@ def telegram_call(method, retry_migration=True, **params):
 
 
 # =========================================================
-# MULTIPART TELEGRAM API
+# MULTIPART
 # =========================================================
 
 def telegram_multipart_call(
@@ -449,12 +581,6 @@ def telegram_multipart_call(
     files=None,
     retry_migration=True
 ):
-    """
-    برای ارسال فایل‌هایی مثل sendDocument.
-
-    چون requests multipart استفاده می‌کنیم،
-    telegram_call معمولی مناسب این بخش نیست.
-    """
 
     if data is None:
         data = {}
@@ -466,6 +592,7 @@ def telegram_multipart_call(
     url = f"{API}/{method}"
 
     try:
+
         response = requests.post(
             url,
             data=data,
@@ -474,15 +601,18 @@ def telegram_multipart_call(
         )
 
     except requests.RequestException as e:
+
         raise TelegramAPIError(
             0,
             f"Network error: {e}"
         )
 
     try:
+
         result = response.json()
 
     except Exception:
+
         raise TelegramAPIError(
             response.status_code,
             (
@@ -514,11 +644,10 @@ def telegram_multipart_call(
         "migrate_to_chat_id"
     )
 
-    if migrate_to and retry_migration:
-
-        print(
-            "[TELEGRAM] Multipart migration detected."
-        )
+    if (
+        migrate_to
+        and retry_migration
+    ):
 
         update_destination_chat_id(
             migrate_to
@@ -541,14 +670,21 @@ def telegram_multipart_call(
 
 
 # =========================================================
-# TEST DESTINATION
+# DESTINATION TEST
 # =========================================================
 
 def test_destination():
+
     print("")
-    print("=" * 60)
-    print("TESTING DESTINATION CHAT")
-    print("=" * 60)
+    print(
+        "=" * 60
+    )
+    print(
+        "TESTING DESTINATION CHAT"
+    )
+    print(
+        "=" * 60
+    )
 
     print(
         f"[INFO] CHAT_ID = "
@@ -559,8 +695,7 @@ def test_destination():
 
         result = telegram_call(
             "getChat",
-            chat_id=CURRENT_CHAT_ID,
-            retry_migration=True
+            destination=True
         )
 
         chat = result.get(
@@ -568,7 +703,9 @@ def test_destination():
             {}
         )
 
-        actual_id = chat.get("id")
+        actual_id = chat.get(
+            "id"
+        )
 
         if actual_id:
             update_destination_chat_id(
@@ -576,27 +713,36 @@ def test_destination():
             )
 
         print("")
-        print("[OK] مقصد پیدا شد.")
+        print(
+            "[OK] مقصد پیدا شد."
+        )
+
         print(
             f"[CHAT ID] "
             f"{chat.get('id')}"
         )
+
         print(
             f"[CHAT TYPE] "
             f"{chat.get('type')}"
         )
+
         print(
             f"[CHAT TITLE] "
             f"{chat.get('title')}"
         )
 
-        if chat.get("username"):
+        if chat.get(
+            "username"
+        ):
             print(
                 f"[CHAT USERNAME] "
                 f"@{chat.get('username')}"
             )
 
-        print("=" * 60)
+        print(
+            "=" * 60
+        )
 
         return True
 
@@ -611,34 +757,22 @@ def test_destination():
             f"[DETAIL] {e}"
         )
 
-        print("")
         print(
-            "CHAT_ID باید شناسه واقعی گروه "
-            "یا Supergroup باشد."
+            "=" * 60
         )
-
-        print("=" * 60)
 
         return False
 
 
 # =========================================================
-# SEND MESSAGE
+# SEND FUNCTIONS
 # =========================================================
 
-def send_message(
-    text,
-    chat_id=None
-):
-    target = (
-        chat_id
-        if chat_id is not None
-        else CURRENT_CHAT_ID
-    )
+def send_message(text):
 
     return telegram_call(
         "sendMessage",
-        chat_id=target,
+        destination=True,
         text=text[:4096],
         disable_web_page_preview=False
     )
@@ -648,9 +782,10 @@ def send_photo(
     photo_url,
     caption=""
 ):
+
     return telegram_call(
         "sendPhoto",
-        chat_id=CURRENT_CHAT_ID,
+        destination=True,
         photo=photo_url,
         caption=caption[:1024]
     )
@@ -660,20 +795,34 @@ def send_video(
     video_url,
     caption=""
 ):
+
     return telegram_call(
         "sendVideo",
-        chat_id=CURRENT_CHAT_ID,
+        destination=True,
         video=video_url,
         caption=caption[:1024],
         supports_streaming=True
     )
 
 
+def send_message_to_chat(
+    chat_id,
+    text
+):
+
+    return telegram_call(
+        "sendMessage",
+        chat_id=chat_id,
+        text=text[:4096]
+    )
+
+
 # =========================================================
-# DOWNLOAD MEDIA
+# DOWNLOAD
 # =========================================================
 
 def download_file(url):
+
     response = requests.get(
         url,
         headers=HEADERS,
@@ -691,7 +840,6 @@ def download_file(url):
     if not filename:
         filename = "telegram_media"
 
-    # جلوگیری از نام فایل خراب
     filename = re.sub(
         r"[^a-zA-Z0-9._-]",
         "_",
@@ -700,35 +848,43 @@ def download_file(url):
 
     path = (
         f"/tmp/"
-        f"tg_media_{int(time.time() * 1000)}_"
+        f"tg_media_"
+        f"{int(time.time() * 1000)}_"
         f"{filename}"
     )
 
-    with open(path, "wb") as f:
-        f.write(response.content)
+    with open(
+        path,
+        "wb"
+    ) as f:
+        f.write(
+            response.content
+        )
 
     print(
-        f"[DOWNLOAD OK] "
-        f"{url[:100]} -> {path}"
+        f"[DOWNLOAD OK] -> {path}"
     )
 
     return path
 
 
 # =========================================================
-# SEND DOCUMENT
+# DOCUMENT
 # =========================================================
 
 def send_document_file(
     file_path,
     caption=""
 ):
-    with open(file_path, "rb") as file:
+
+    with open(
+        file_path,
+        "rb"
+    ) as file:
 
         return telegram_multipart_call(
             "sendDocument",
             data={
-                "chat_id": CURRENT_CHAT_ID,
                 "caption": caption[:1024]
             },
             files={
@@ -738,10 +894,12 @@ def send_document_file(
 
 
 # =========================================================
-# FETCH CHANNEL POSTS
+# FETCH POSTS
 # =========================================================
 
-def fetch_channel_posts(username):
+def fetch_channel_posts(
+    username
+):
 
     username = (
         username
@@ -797,7 +955,7 @@ def fetch_channel_posts(username):
             continue
 
         # -------------------------------------------------
-        # TEXT / CAPTION
+        # TEXT
         # -------------------------------------------------
 
         text_div = wrap.select_one(
@@ -807,9 +965,29 @@ def fetch_channel_posts(username):
         text = ""
 
         if text_div:
+
             text = text_div.get_text(
                 "\n",
                 strip=True
+            )
+
+        # -------------------------------------------------
+        # PUBLISHED TIME
+        # -------------------------------------------------
+
+        published_at = ""
+
+        time_tag = wrap.select_one(
+            ".tgme_widget_message_date time"
+        )
+
+        if time_tag:
+
+            published_at = (
+                time_tag.get(
+                    "datetime",
+                    ""
+                )
             )
 
         # -------------------------------------------------
@@ -843,6 +1021,7 @@ def fetch_channel_posts(username):
             )
 
             if match:
+
                 photos.append(
                     match.group(1)
                 )
@@ -864,11 +1043,13 @@ def fetch_channel_posts(username):
             )
 
             if source:
+
                 video_url = source.get(
                     "src"
                 )
 
             if not video_url:
+
                 video_url = video.get(
                     "src"
                 )
@@ -879,7 +1060,8 @@ def fetch_channel_posts(username):
                 "text": text,
                 "link": link,
                 "photos": photos,
-                "video": video_url
+                "video": video_url,
+                "published_at": published_at
             }
         )
 
@@ -891,182 +1073,520 @@ def fetch_channel_posts(username):
 
 
 # =========================================================
-# CONTENT FINGERPRINT
+# MEDIA FINGERPRINT
 # =========================================================
 
-def create_content_fingerprint(post):
-    """
-    برای ضد تکرار سخت‌گیرانه.
+def media_fingerprint(post):
 
-    post_id در fingerprint استفاده نمی‌شود،
-    چون اگر همان محتوا با ID دیگری منتشر شود
-    باز هم قابل تشخیص باشد.
-    """
+    parts = []
 
-    text = normalize_text(
-        post.get("text", "")
-    )
-
-    photos = post.get(
+    for photo in post.get(
         "photos",
         []
-    )
+    ):
+
+        parts.append(
+            "photo:"
+            + str(photo).strip()
+        )
 
     video = post.get(
         "video"
     )
 
-    media_parts = []
-
-    for photo in photos:
-        media_parts.append(
-            "photo:" +
-            str(photo).strip()
-        )
-
     if video:
-        media_parts.append(
-            "video:" +
-            str(video).strip()
+
+        parts.append(
+            "video:"
+            + str(video).strip()
         )
 
-    raw = (
-        text
-        + "||"
-        + "|".join(media_parts)
+    if not parts:
+        return ""
+
+    raw = "|".join(
+        sorted(parts)
     )
 
-    # اگر پست کاملاً خالی باشد
-    if not raw.strip():
-        raw = str(
-            post.get("id", "")
-        )
-
-    fingerprint = hashlib.sha256(
+    return hashlib.sha256(
         raw.encode(
             "utf-8",
             errors="ignore"
         )
     ).hexdigest()
 
-    return fingerprint
-
 
 # =========================================================
-# DUPLICATE CHECK
+# CONTENT FINGERPRINT
 # =========================================================
 
-def is_duplicate_post(
-    post,
-    channel_state
-):
-    post_id = int(
-        post["id"]
-    )
-
-    last_id = int(
-        channel_state.get(
-            "last_id",
-            0
-        )
-    )
-
-    processed_ids = channel_state.get(
-        "processed_ids",
-        []
-    )
-
-    fingerprints = channel_state.get(
-        "fingerprints",
-        []
-    )
-
-    # -----------------------------------------------------
-    # روش اول: ID
-    # -----------------------------------------------------
-
-    if post_id <= last_id:
-        return True, "post_id <= last_id"
-
-    if post_id in processed_ids:
-        return True, "post_id already processed"
-
-    # -----------------------------------------------------
-    # روش دوم: Fingerprint
-    # -----------------------------------------------------
-
-    fingerprint = create_content_fingerprint(
-        post
-    )
-
-    if fingerprint in fingerprints:
-        return True, "content fingerprint already processed"
-
-    return False, None
-
-
-# =========================================================
-# MARK POST AS PROCESSED
-# =========================================================
-
-def mark_post_processed(
-    channel_state,
+def content_fingerprint(
     post
 ):
-    post_id = int(
-        post["id"]
+
+    text = normalize_for_similarity(
+        post.get(
+            "text",
+            ""
+        )
     )
 
-    fingerprint = create_content_fingerprint(
+    media_fp = media_fingerprint(
         post
     )
 
-    processed_ids = channel_state.setdefault(
-        "processed_ids",
+    raw = (
+        text
+        + "||"
+        + media_fp
+    )
+
+    if not raw.strip():
+
+        raw = str(
+            post.get(
+                "id",
+                ""
+            )
+        )
+
+    return hashlib.sha256(
+        raw.encode(
+            "utf-8",
+            errors="ignore"
+        ).hexdigest().encode()
+    ).hexdigest()
+
+
+# =========================================================
+# TEXT SIMILARITY
+# =========================================================
+
+def token_similarity(
+    text1,
+    text2
+):
+
+    words1 = set(
+        normalize_for_similarity(
+            text1
+        ).split()
+    )
+
+    words2 = set(
+        normalize_for_similarity(
+            text2
+        ).split()
+    )
+
+    if not words1 or not words2:
+        return 0.0
+
+    intersection = len(
+        words1 & words2
+    )
+
+    union = len(
+        words1 | words2
+    )
+
+    if union == 0:
+        return 0.0
+
+    return intersection / union
+
+
+def text_similarity(
+    text1,
+    text2
+):
+
+    a = normalize_for_similarity(
+        text1
+    )
+
+    b = normalize_for_similarity(
+        text2
+    )
+
+    if not a or not b:
+        return 0.0
+
+    if a == b:
+        return 1.0
+
+    if (
+        len(a) < MIN_FUZZY_TEXT_LENGTH
+        or
+        len(b) < MIN_FUZZY_TEXT_LENGTH
+    ):
+        return 0.0
+
+    sequence_score = (
+        SequenceMatcher(
+            None,
+            a,
+            b
+        ).ratio()
+    )
+
+    token_score = token_similarity(
+        a,
+        b
+    )
+
+    # برای متن‌های طولانی،
+    # هر دو معیار را در نظر می‌گیریم.
+    return max(
+        sequence_score,
+        token_score
+    )
+
+
+# =========================================================
+# GLOBAL DUPLICATE DETECTION
+# =========================================================
+
+def find_global_duplicate(
+    post,
+    global_state
+):
+
+    history = global_state.get(
+        "history",
         []
     )
 
-    fingerprints = channel_state.setdefault(
-        "fingerprints",
+    current_text = post.get(
+        "text",
+        ""
+    )
+
+    current_fp = content_fingerprint(
+        post
+    )
+
+    current_media_fp = media_fingerprint(
+        post
+    )
+
+    # -----------------------------------------------------
+    # Exact fingerprint
+    # -----------------------------------------------------
+
+    for item in reversed(history):
+
+        if item.get(
+            "fingerprint"
+        ) == current_fp:
+
+            return item, "exact fingerprint"
+
+        # -------------------------------------------------
+        # Media exact match
+        # -------------------------------------------------
+
+        if (
+            current_media_fp
+            and
+            item.get(
+                "media_fingerprint"
+            )
+            == current_media_fp
+        ):
+
+            old_text = item.get(
+                "text",
+                ""
+            )
+
+            # اگر رسانه یکی باشد و متن خالی باشد
+            # یا متن‌ها هم شباهت داشته باشند.
+            if (
+                not current_text.strip()
+                or
+                not old_text.strip()
+                or
+                text_similarity(
+                    current_text,
+                    old_text
+                ) >= 0.70
+            ):
+
+                return item, "same media"
+
+    # -----------------------------------------------------
+    # Fuzzy text match
+    # -----------------------------------------------------
+
+    if current_text.strip():
+
+        for item in reversed(history):
+
+            old_text = item.get(
+                "text",
+                ""
+            )
+
+            if not old_text.strip():
+                continue
+
+            score = text_similarity(
+                current_text,
+                old_text
+            )
+
+            if (
+                score
+                >= FUZZY_SIMILARITY_THRESHOLD
+            ):
+
+                return item, (
+                    f"similar text "
+                    f"{score:.2f}"
+                )
+
+    return None, None
+
+
+# =========================================================
+# MESSAGE CAPTION
+# =========================================================
+
+def build_message_text(
+    username,
+    text,
+    link,
+    sources=None
+):
+
+    sources = sources or []
+
+    if text:
+
+        result = (
+            f"📢 @{username}\n\n"
+            f"{text}\n\n"
+            f"🔗 {link}"
+        )
+
+    else:
+
+        result = (
+            f"📢 @{username}\n\n"
+            f"🔗 {link}"
+        )
+
+    if sources:
+
+        unique_sources = []
+
+        for source in sources:
+
+            if source not in unique_sources:
+
+                unique_sources.append(
+                    source
+                )
+
+        result += (
+            "\n\n"
+            "📚 منابع مشابه:\n"
+            +
+            "\n".join(
+                f"• @{source}"
+                for source in unique_sources
+            )
+        )
+
+    return result
+
+
+# =========================================================
+# EDIT ORIGINAL MESSAGE WITH NEW SOURCE
+# =========================================================
+
+def add_duplicate_source(
+    history_item,
+    duplicate_username
+):
+
+    sources = history_item.setdefault(
+        "sources",
         []
     )
 
-    if post_id not in processed_ids:
-        processed_ids.append(
-            post_id
+    if (
+        duplicate_username
+        not in sources
+    ):
+
+        sources.append(
+            duplicate_username
         )
 
-    if fingerprint not in fingerprints:
-        fingerprints.append(
-            fingerprint
-        )
+    message_id = history_item.get(
+        "message_id"
+    )
 
-    # -----------------------------------------------------
-    # آخرین ID
-    # -----------------------------------------------------
+    message_kind = history_item.get(
+        "message_kind"
+    )
 
-    current_last_id = int(
-        channel_state.get(
-            "last_id",
-            0
+    original_username = (
+        history_item.get(
+            "original_username",
+            ""
         )
     )
 
-    if post_id > current_last_id:
-        channel_state["last_id"] = post_id
+    original_text = (
+        history_item.get(
+            "original_text",
+            ""
+        )
+    )
 
-    # -----------------------------------------------------
-    # محدود کردن State
-    # -----------------------------------------------------
+    original_link = (
+        history_item.get(
+            "original_link",
+            ""
+        )
+    )
 
-    if len(processed_ids) > MAX_PROCESSED_IDS:
-        del processed_ids[
-            :-MAX_PROCESSED_IDS
-        ]
+    if not message_id:
+        return False
 
-    if len(fingerprints) > MAX_FINGERPRINTS:
-        del fingerprints[
-            :-MAX_FINGERPRINTS
+    new_text = build_message_text(
+        original_username,
+        original_text,
+        original_link,
+        sources
+    )
+
+    try:
+
+        if message_kind == "text":
+
+            telegram_call(
+                "editMessageText",
+                destination=True,
+                message_id=message_id,
+                text=new_text[:4096],
+                disable_web_page_preview=False
+            )
+
+        else:
+
+            telegram_call(
+                "editMessageCaption",
+                destination=True,
+                message_id=message_id,
+                caption=new_text[:1024]
+            )
+
+        print(
+            f"[SOURCE UPDATED] "
+            f"+@{duplicate_username}"
+        )
+
+        return True
+
+    except Exception as e:
+
+        print(
+            "[WARN] اضافه کردن منبع "
+            f"@{duplicate_username} "
+            f"ناموفق بود: {e}"
+        )
+
+        return False
+
+
+# =========================================================
+# MARK GLOBAL SENT
+# =========================================================
+
+def add_global_history(
+    global_state,
+    post,
+    username,
+    message_result,
+    message_kind
+):
+
+    history = global_state.setdefault(
+        "history",
+        []
+    )
+
+    message = {}
+
+    if isinstance(
+        message_result,
+        dict
+    ):
+
+        message = message_result.get(
+            "result",
+            {}
+        )
+
+    message_id = message.get(
+        "message_id"
+    )
+
+    item = {
+        "fingerprint": content_fingerprint(
+            post
+        ),
+        "media_fingerprint": media_fingerprint(
+            post
+        ),
+        "text": post.get(
+            "text",
+            ""
+        ),
+        "normalized_text": normalize_for_similarity(
+            post.get(
+                "text",
+                ""
+            )
+        ),
+        "original_username": username,
+        "original_text": post.get(
+            "text",
+            ""
+        ),
+        "original_link": post.get(
+            "link",
+            ""
+        ),
+        "post_id": post.get(
+            "id"
+        ),
+        "published_at": post.get(
+            "published_at",
+            ""
+        ),
+        "message_id": message_id,
+        "message_kind": message_kind,
+        "sources": [
+            username
+        ],
+        "created_at": datetime.now(
+            timezone.utc
+        ).isoformat()
+    }
+
+    history.append(
+        item
+    )
+
+    if len(history) > MAX_GLOBAL_HISTORY:
+
+        del history[
+            :-MAX_GLOBAL_HISTORY
         ]
 
 
@@ -1078,10 +1598,13 @@ def send_post(
     post,
     username
 ):
+
     post_id = post["id"]
 
     text = (
-        post.get("text") or ""
+        post.get(
+            "text"
+        ) or ""
     ).strip()
 
     link = post["link"]
@@ -1096,7 +1619,7 @@ def send_post(
     )
 
     # -----------------------------------------------------
-    # FILTER
+    # FILTER FIRST
     # -----------------------------------------------------
 
     filtered, matched_pattern = (
@@ -1114,23 +1637,26 @@ def send_post(
         )
 
         print(
-            "[FILTERED] "
-            "پست به دلیل وجود عبارت ممنوع "
-            "ارسال نشد."
+            f"[FILTERED] pattern="
+            f"{matched_pattern}"
         )
 
-        print(
-            f"[FILTERED] pattern={matched_pattern}"
-        )
-
-        # نکته مهم:
-        # اینجا True برمی‌گردانیم تا پست
-        # به عنوان handled ثبت شود.
-        return True, "filtered"
+        return {
+            "success": True,
+            "type": "filtered",
+            "result": None,
+            "message_kind": None
+        }
 
     # -----------------------------------------------------
-    # LOG
+    # CAPTION
     # -----------------------------------------------------
+
+    caption = build_message_text(
+        username,
+        text,
+        link
+    )
 
     print(
         f"[SEND] @{username} "
@@ -1139,52 +1665,45 @@ def send_post(
         f"video={bool(video)}"
     )
 
-    # -----------------------------------------------------
-    # CAPTION
-    # -----------------------------------------------------
-
-    if text:
-
-        caption = (
-            f"📢 @{username}\n\n"
-            f"{text}\n\n"
-            f"🔗 {link}"
-        )
-
-    else:
-
-        caption = (
-            f"📢 @{username}\n\n"
-            f"🔗 {link}"
-        )
-
     # =====================================================
-    # TEXT ONLY
+    # TEXT
     # =====================================================
 
-    if not photos and not video:
+    if (
+        not photos
+        and
+        not video
+    ):
 
         try:
 
-            send_message(
+            result = send_message(
                 caption
             )
 
             print(
-                f"[OK] متن پست "
-                f"{post_id} ارسال شد."
+                "[OK] متن پست ارسال شد."
             )
 
-            return True, "sent"
+            return {
+                "success": True,
+                "type": "sent",
+                "result": result,
+                "message_kind": "text"
+            }
 
-        except TelegramAPIError as e:
+        except Exception as e:
 
             print(
-                f"[ERROR] ارسال متن "
-                f"پست {post_id}: {e}"
+                f"[ERROR] متن: {e}"
             )
 
-            return False, "failed"
+            return {
+                "success": False,
+                "type": "failed",
+                "result": None,
+                "message_kind": None
+            }
 
     # =====================================================
     # PHOTO
@@ -1192,7 +1711,8 @@ def send_post(
 
     if photos:
 
-        success = False
+        first_result = None
+        success_count = 0
 
         for index, photo_url in enumerate(
             photos
@@ -1206,55 +1726,53 @@ def send_post(
 
             try:
 
-                print(
-                    f"[PHOTO] "
-                    f"{index + 1}/"
-                    f"{len(photos)}"
-                )
-
-                send_photo(
+                result = send_photo(
                     photo_url,
                     photo_caption
                 )
 
-                success = True
+                if index == 0:
+
+                    first_result = result
+
+                success_count += 1
 
                 print(
-                    "[OK] عکس ارسال شد."
+                    f"[OK] عکس "
+                    f"{index + 1}/"
+                    f"{len(photos)} ارسال شد."
                 )
 
-            except TelegramAPIError as e:
+            except Exception as e:
 
                 print(
-                    "[WARN] ارسال مستقیم "
-                    f"عکس ناموفق بود: {e}"
+                    f"[WARN] عکس "
+                    f"{index + 1} "
+                    f"ارسال مستقیم نشد: {e}"
                 )
-
-                # -----------------------------------------
-                # FALLBACK DOWNLOAD
-                # -----------------------------------------
 
                 try:
 
-                    local_file = (
-                        download_file(
-                            photo_url
-                        )
+                    local_file = download_file(
+                        photo_url
                     )
 
                     try:
 
-                        send_document_file(
+                        result = send_document_file(
                             local_file,
                             photo_caption
                         )
 
-                        success = True
+                        if index == 0:
+
+                            first_result = result
+
+                        success_count += 1
 
                         print(
                             "[OK] عکس با "
-                            "آپلود مستقیم "
-                            "ارسال شد."
+                            "آپلود مستقیم ارسال شد."
                         )
 
                     finally:
@@ -1269,14 +1787,26 @@ def send_post(
                 except Exception as e2:
 
                     print(
-                        "[ERROR] تلاش دوم "
-                        f"عکس ناموفق بود: {e2}"
+                        f"[ERROR] عکس "
+                        f"{index + 1}: "
+                        f"{e2}"
                     )
 
-        if success:
-            return True, "sent"
+        if success_count > 0:
 
-        return False, "failed"
+            return {
+                "success": True,
+                "type": "sent",
+                "result": first_result,
+                "message_kind": "caption"
+            }
+
+        return {
+            "success": False,
+            "type": "failed",
+            "result": None,
+            "message_kind": None
+        }
 
     # =====================================================
     # VIDEO
@@ -1286,7 +1816,7 @@ def send_post(
 
         try:
 
-            send_video(
+            result = send_video(
                 video,
                 caption
             )
@@ -1295,93 +1825,118 @@ def send_post(
                 "[OK] ویدیو ارسال شد."
             )
 
-            return True, "sent"
+            return {
+                "success": True,
+                "type": "sent",
+                "result": result,
+                "message_kind": "caption"
+            }
 
-        except TelegramAPIError as e:
+        except Exception as e:
 
             print(
-                "[WARN] ارسال ویدیو "
-                f"ناموفق بود: {e}"
+                f"[WARN] ویدیو مستقیم "
+                f"ارسال نشد: {e}"
             )
 
-            # ------------------------------------------------
-            # دانلود و آپلود به عنوان Document
-            # ------------------------------------------------
+        # -------------------------------------------------
+        # VIDEO DOWNLOAD
+        # -------------------------------------------------
+
+        try:
+
+            local_file = download_file(
+                video
+            )
 
             try:
 
-                local_file = download_file(
-                    video
+                result = send_document_file(
+                    local_file,
+                    caption
                 )
-
-                try:
-
-                    send_document_file(
-                        local_file,
-                        caption
-                    )
-
-                    print(
-                        "[OK] ویدیو با "
-                        "آپلود مستقیم "
-                        "ارسال شد."
-                    )
-
-                    return True, "sent"
-
-                finally:
-
-                    try:
-                        os.remove(
-                            local_file
-                        )
-                    except Exception:
-                        pass
-
-            except Exception as e2:
 
                 print(
-                    "[WARN] آپلود مستقیم "
-                    f"ویدیو هم ناموفق بود: {e2}"
+                    "[OK] ویدیو به صورت "
+                    "Document ارسال شد."
                 )
 
-                # ------------------------------------------------
-                # آخرین fallback: ارسال لینک
-                # ------------------------------------------------
+                return {
+                    "success": True,
+                    "type": "sent",
+                    "result": result,
+                    "message_kind": "caption"
+                }
+
+            finally:
 
                 try:
-
-                    send_message(
-                        f"🎬 پست جدید از "
-                        f"@{username}\n\n"
-                        f"{text}\n\n"
-                        f"🔗 {link}\n\n"
-                        f"⚠️ ارسال مستقیم ویدیو "
-                        f"به دلیل محدودیت Telegram "
-                        f"ناموفق بود."
+                    os.remove(
+                        local_file
                     )
+                except Exception:
+                    pass
 
-                    print(
-                        "[OK] لینک ویدیو "
-                        "ارسال شد."
-                    )
+        except Exception as e2:
 
-                    return True, "link_fallback"
+            print(
+                f"[WARN] آپلود ویدیو "
+                f"ناموفق بود: {e2}"
+            )
 
-                except Exception as e3:
+        # -------------------------------------------------
+        # FINAL LINK FALLBACK
+        # -------------------------------------------------
 
-                    print(
-                        "[ERROR] ارسال لینک "
-                        f"هم شکست خورد: {e3}"
-                    )
+        try:
 
-                    return False, "failed"
+            result = send_message(
+                (
+                    f"🎬 پست جدید از "
+                    f"@{username}\n\n"
+                    f"{text}\n\n"
+                    f"🔗 {link}\n\n"
+                    f"⚠️ ارسال مستقیم ویدیو "
+                    f"به دلیل محدودیت حجم "
+                    f"ناموفق بود."
+                )
+            )
 
-    return False, "failed"
+            print(
+                "[OK] لینک ویدیو ارسال شد."
+            )
+
+            return {
+                "success": True,
+                "type": "link_fallback",
+                "result": result,
+                "message_kind": "text"
+            }
+
+        except Exception as e3:
+
+            print(
+                f"[ERROR] لینک ویدیو: "
+                f"{e3}"
+            )
+
+            return {
+                "success": False,
+                "type": "failed",
+                "result": None,
+                "message_kind": None
+            }
+
+    return {
+        "success": False,
+        "type": "failed",
+        "result": None,
+        "message_kind": None
+    }
 
 
 # =========================================================
-# BOT COMMANDS
+# COMMANDS
 # =========================================================
 
 HELP_TEXT = (
@@ -1393,21 +1948,6 @@ HELP_TEXT = (
     "/help - راهنما"
 )
 
-
-def send_message_to_chat(
-    chat_id,
-    text
-):
-    return telegram_call(
-        "sendMessage",
-        chat_id=chat_id,
-        text=text[:4096]
-    )
-
-
-# =========================================================
-# HANDLE UPDATES
-# =========================================================
 
 def handle_updates(
     channels,
@@ -1447,9 +1987,11 @@ def handle_updates(
 
     for update in updates:
 
-        bot_state["last_update_id"] = (
-            update["update_id"]
-        )
+        bot_state[
+            "last_update_id"
+        ] = update[
+            "update_id"
+        ]
 
         message = update.get(
             "message"
@@ -1471,13 +2013,14 @@ def handle_updates(
         )
 
         text = (
-            message.get("text") or ""
+            message.get(
+                "text"
+            ) or ""
         ).strip()
 
         if not text:
             continue
 
-        # فقط مالک
         if user_id != OWNER_ID:
             continue
 
@@ -1511,7 +2054,7 @@ def handle_updates(
             )
 
         # -------------------------------------------------
-        # /start /help /manage
+        # HELP
         # -------------------------------------------------
 
         elif command in (
@@ -1526,7 +2069,7 @@ def handle_updates(
             )
 
         # -------------------------------------------------
-        # /add
+        # ADD
         # -------------------------------------------------
 
         elif command == "/add":
@@ -1580,7 +2123,7 @@ def handle_updates(
             )
 
         # -------------------------------------------------
-        # /remove
+        # REMOVE
         # -------------------------------------------------
 
         elif command == "/remove":
@@ -1624,7 +2167,7 @@ def handle_updates(
                 )
 
         # -------------------------------------------------
-        # /list
+        # LIST
         # -------------------------------------------------
 
         elif command == "/list":
@@ -1671,7 +2214,47 @@ def handle_updates(
 
 
 # =========================================================
-# CHECK CHANNELS
+# PUBLISHED TIME SORT
+# =========================================================
+
+def published_timestamp(
+    post
+):
+
+    value = post.get(
+        "published_at",
+        ""
+    )
+
+    if not value:
+        return 0.0
+
+    try:
+
+        text = value
+
+        if text.endswith("Z"):
+            text = text[:-1] + "+00:00"
+
+        dt = datetime.fromisoformat(
+            text
+        )
+
+        if dt.tzinfo is None:
+
+            dt = dt.replace(
+                tzinfo=timezone.utc
+            )
+
+        return dt.timestamp()
+
+    except Exception:
+
+        return 0.0
+
+
+# =========================================================
+# CHECK ALL CHANNELS
 # =========================================================
 
 def check_channels(
@@ -1679,7 +2262,30 @@ def check_channels(
     state
 ):
 
-    for username in channels:
+    channel_states = state.setdefault(
+        "channels",
+        {}
+    )
+
+    global_state = state.setdefault(
+        "global",
+        {}
+    )
+
+    global_state.setdefault(
+        "history",
+        []
+    )
+
+    candidates = []
+
+    # =====================================================
+    # FIRST: FETCH ALL CHANNELS
+    # =====================================================
+
+    for channel_index, username in enumerate(
+        channels
+    ):
 
         username = (
             username
@@ -1692,10 +2298,6 @@ def check_channels(
         print(
             f"[CHECK] @{username}"
         )
-
-        # -------------------------------------------------
-        # FETCH
-        # -------------------------------------------------
 
         try:
 
@@ -1720,25 +2322,21 @@ def check_channels(
         if not posts:
             continue
 
-        # -------------------------------------------------
-        # CHANNEL STATE
-        # -------------------------------------------------
+        if username not in channel_states:
 
-        if username not in state:
+            channel_states[
+                username
+            ] = empty_channel_state()
 
-            state[username] = (
-                normalize_channel_state(
-                    {}
-                )
-            )
-
-        channel_state = (
-            normalize_channel_state(
-                state[username]
-            )
+        channel_state = normalize_channel_state(
+            channel_states[
+                username
+            ]
         )
 
-        state[username] = channel_state
+        channel_states[
+            username
+        ] = channel_state
 
         # -------------------------------------------------
         # FIRST RUN
@@ -1746,198 +2344,390 @@ def check_channels(
 
         if channel_state["last_id"] == 0:
 
-            latest_post = posts[-1]
+            latest = posts[-1]
 
-            channel_state["last_id"] = (
-                latest_post["id"]
-            )
+            channel_state[
+                "last_id"
+            ] = latest["id"]
 
-            # آخرین پست را فقط به عنوان baseline
-            # ثبت می‌کنیم و ارسال نمی‌کنیم.
             channel_state.setdefault(
                 "processed_ids",
                 []
             )
 
-            channel_state.setdefault(
-                "fingerprints",
-                []
+            channel_state[
+                "processed_ids"
+            ].append(
+                latest["id"]
             )
-
-            if latest_post["id"] not in (
-                channel_state[
-                    "processed_ids"
-                ]
-            ):
-                channel_state[
-                    "processed_ids"
-                ].append(
-                    latest_post["id"]
-                )
-
-            fingerprint = (
-                create_content_fingerprint(
-                    latest_post
-                )
-            )
-
-            if fingerprint not in (
-                channel_state[
-                    "fingerprints"
-                ]
-            ):
-                channel_state[
-                    "fingerprints"
-                ].append(
-                    fingerprint
-                )
 
             print(
                 f"[INIT] @{username} "
-                f"baseline="
-                f"{latest_post['id']}"
+                f"baseline={latest['id']}"
             )
 
             continue
 
         # -------------------------------------------------
-        # NEW POSTS
+        # FIND NEW POSTS
         # -------------------------------------------------
-
-        new_posts = []
 
         for post in posts:
 
-            duplicate, reason = (
-                is_duplicate_post(
-                    post,
-                    channel_state
-                )
+            post_id = int(
+                post["id"]
             )
 
-            if duplicate:
+            last_id = int(
+                channel_state[
+                    "last_id"
+                ]
+            )
 
-                print(
-                    f"[DUPLICATE] "
-                    f"@{username} "
-                    f"post={post['id']} "
-                    f"reason={reason}"
-                )
+            processed_ids = (
+                channel_state[
+                    "processed_ids"
+                ]
+            )
 
+            if post_id <= last_id:
                 continue
 
-            new_posts.append(
-                post
+            if post_id in processed_ids:
+                continue
+
+            candidates.append(
+                {
+                    "username": username,
+                    "channel_index": channel_index,
+                    "post": post
+                }
             )
 
-        if not new_posts:
+    # =====================================================
+    # SORT ALL NEW POSTS BY PUBLICATION TIME
+    # =====================================================
+
+    candidates.sort(
+        key=lambda item: (
+            published_timestamp(
+                item["post"]
+            ),
+            item["channel_index"],
+            item["post"]["id"]
+        )
+    )
+
+    print("")
+    print(
+        "=" * 60
+    )
+
+    print(
+        f"[GLOBAL] تعداد پست‌های جدید: "
+        f"{len(candidates)}"
+    )
+
+    print(
+        "=" * 60
+    )
+
+    # =====================================================
+    # PROCESS
+    # =====================================================
+
+    for item in candidates:
+
+        username = item[
+            "username"
+        ]
+
+        post = item[
+            "post"
+        ]
+
+        post_id = post[
+            "id"
+        ]
+
+        channel_state = channel_states[
+            username
+        ]
+
+        print("")
+        print(
+            "=" * 60
+        )
+
+        print(
+            f"[PROCESS] @{username} "
+            f"post={post_id}"
+        )
+
+        # -------------------------------------------------
+        # FILTER
+        # -------------------------------------------------
+
+        filtered, matched = (
+            contains_filtered_content(
+                post.get(
+                    "text",
+                    ""
+                )
+            )
+        )
+
+        if filtered:
 
             print(
-                "[INFO] پست جدیدی "
-                "نیست."
+                f"[FILTERED] @{username} "
+                f"post={post_id}"
+            )
+
+            print(
+                f"[FILTERED] pattern={matched}"
+            )
+
+            # پست فیلتر شده را processed می‌کنیم
+            # ولی وارد global history نمی‌کنیم.
+            channel_state[
+                "processed_ids"
+            ].append(
+                post_id
+            )
+
+            channel_state[
+                "last_id"
+            ] = max(
+                int(
+                    channel_state[
+                        "last_id"
+                    ]
+                ),
+                post_id
+            )
+
+            if len(
+                channel_state[
+                    "processed_ids"
+                ]
+            ) > MAX_PROCESSED_IDS:
+
+                channel_state[
+                    "processed_ids"
+                ] = channel_state[
+                    "processed_ids"
+                ][
+                    -MAX_PROCESSED_IDS:
+                ]
+
+            save_json(
+                STATE_FILE,
+                state
             )
 
             continue
 
-        print(
-            f"[NEW] {len(new_posts)} "
-            f"پست جدید"
+        # -------------------------------------------------
+        # GLOBAL DUPLICATE
+        # -------------------------------------------------
+
+        duplicate_item, reason = (
+            find_global_duplicate(
+                post,
+                global_state
+            )
         )
 
-        # -------------------------------------------------
-        # PROCESS EACH POST
-        # -------------------------------------------------
+        if duplicate_item:
 
-        for post in new_posts:
-
-            post_id = post["id"]
-
-            print("")
             print(
-                f"[PROCESS] @{username} "
+                f"[GLOBAL DUPLICATE] "
+                f"@{username} "
                 f"post={post_id}"
             )
 
-            try:
+            print(
+                f"[GLOBAL DUPLICATE] "
+                f"reason={reason}"
+            )
 
-                success, result_type = (
-                    send_post(
-                        post,
-                        username
+            original_source = (
+                duplicate_item.get(
+                    "original_username",
+                    "unknown"
+                )
+            )
+
+            print(
+                f"[GLOBAL DUPLICATE] "
+                f"نسخه اصلی: "
+                f"@{original_source}"
+            )
+
+            # -------------------------------------------------
+            # اضافه کردن منبع جدید
+            # -------------------------------------------------
+
+            add_duplicate_source(
+                duplicate_item,
+                username
+            )
+
+            # -------------------------------------------------
+            # ثبت processed در کانال فعلی
+            # -------------------------------------------------
+
+            channel_state[
+                "processed_ids"
+            ].append(
+                post_id
+            )
+
+            channel_state[
+                "last_id"
+            ] = max(
+                int(
+                    channel_state[
+                        "last_id"
+                    ]
+                ),
+                post_id
+            )
+
+            if len(
+                channel_state[
+                    "processed_ids"
+                ]
+            ) > MAX_PROCESSED_IDS:
+
+                channel_state[
+                    "processed_ids"
+                ] = channel_state[
+                    "processed_ids"
+                ][
+                    -MAX_PROCESSED_IDS:
+                ]
+
+            # -------------------------------------------------
+            # ذخیره فوری
+            # -------------------------------------------------
+
+            save_json(
+                STATE_FILE,
+                state
+            )
+
+            continue
+
+        # =================================================
+        # NOT DUPLICATE -> SEND
+        # =================================================
+
+        result = send_post(
+            post,
+            username
+        )
+
+        if result.get(
+            "success"
+        ):
+
+            result_type = result.get(
+                "type"
+            )
+
+            print(
+                f"[SUCCESS] @{username} "
+                f"post={post_id} "
+                f"type={result_type}"
+            )
+
+            # -------------------------------------------------
+            # CHANNEL STATE
+            # -------------------------------------------------
+
+            channel_state[
+                "processed_ids"
+            ].append(
+                post_id
+            )
+
+            channel_state[
+                "last_id"
+            ] = max(
+                int(
+                    channel_state[
+                        "last_id"
+                    ]
+                ),
+                post_id
+            )
+
+            if len(
+                channel_state[
+                    "processed_ids"
+                ]
+            ) > MAX_PROCESSED_IDS:
+
+                channel_state[
+                    "processed_ids"
+                ] = channel_state[
+                    "processed_ids"
+                ][
+                    -MAX_PROCESSED_IDS:
+                ]
+
+            # -------------------------------------------------
+            # GLOBAL HISTORY
+            # -------------------------------------------------
+
+            if result_type != "filtered":
+
+                add_global_history(
+                    global_state,
+                    post,
+                    username,
+                    result.get(
+                        "result"
+                    ),
+                    result.get(
+                        "message_kind"
                     )
                 )
 
-            except Exception as e:
-
-                print(
-                    f"[ERROR] پردازش "
-                    f"@{username} "
-                    f"post={post_id}: {e}"
-                )
-
-                success = False
-                result_type = "failed"
-
             # -------------------------------------------------
-            # SUCCESS / FILTERED
+            # SAVE IMMEDIATELY
             # -------------------------------------------------
 
-            if success:
+            save_json(
+                STATE_FILE,
+                state
+            )
 
-                mark_post_processed(
-                    channel_state,
-                    post
-                )
+            time.sleep(
+                SEND_DELAY
+            )
 
-                print(
-                    f"[STATE] @{username} "
-                    f"post={post_id} "
-                    f"handled={result_type}"
-                )
+        else:
 
-                # مهم:
-                # بعد از هر پست State را ذخیره می‌کنیم
-                # تا اگر اجرای GitHub وسط کار قطع شد،
-                # پست‌های قبلی دوباره ارسال نشوند.
-                #
-                # توجه:
-                # save_json در main هم دوباره اجرا می‌شود.
-                #
-                # اینجا state مستقیماً روی دیسک ذخیره می‌شود.
-                #
-                # چون check_channels فقط state را دارد،
-                # ذخیره در همین مرحله ضروری است.
+            print(
+                f"[FAILED] @{username} "
+                f"post={post_id}"
+            )
 
-                save_json(
-                    STATE_FILE,
-                    state
-                )
-
-                time.sleep(
-                    SEND_DELAY
-                )
+            print(
+                "[STATE] این پست ثبت نشد؛ "
+                "اجرای بعدی دوباره تلاش می‌کند."
+            )
 
             # -------------------------------------------------
-            # FAILED
+            # مهم:
+            # در صورت خطا، پردازش کانال را متوقف می‌کنیم
+            # تا ترتیب حفظ شود.
             # -------------------------------------------------
 
-            else:
-
-                print(
-                    f"[FAILED] @{username} "
-                    f"post={post_id}"
-                )
-
-                print(
-                    "[STATE] این پست "
-                    "ثبت نشد و اجرای بعدی "
-                    "دوباره تلاش می‌کند."
-                )
-
-                # اگر یک پست fail شد،
-                # پست‌های بعدی را فعلاً نمی‌فرستیم
-                # تا ترتیب حفظ شود.
-                break
+            break
 
     return state
 
@@ -1951,15 +2741,19 @@ def main():
     global CURRENT_CHAT_ID
 
     print("")
-    print("=" * 60)
+    print(
+        "=" * 60
+    )
     print(
         "TELEGRAM PUBLIC CHANNEL "
         "FORWARDER"
     )
-    print("=" * 60)
+    print(
+        "=" * 60
+    )
 
     # -----------------------------------------------------
-    # LOAD FILES
+    # LOAD
     # -----------------------------------------------------
 
     channels = load_json(
@@ -1967,7 +2761,7 @@ def main():
         []
     )
 
-    state = load_json(
+    raw_state = load_json(
         STATE_FILE,
         {}
     )
@@ -1983,14 +2777,15 @@ def main():
     # NORMALIZE
     # -----------------------------------------------------
 
-    state = normalize_full_state(
-        state
+    state = normalize_state(
+        raw_state
     )
 
     if not isinstance(
         bot_state,
         dict
     ):
+
         bot_state = {
             "last_update_id": 0
         }
@@ -2016,7 +2811,7 @@ def main():
     )
 
     # -----------------------------------------------------
-    # TEST DESTINATION
+    # TEST
     # -----------------------------------------------------
 
     if not test_destination():
@@ -2026,14 +2821,6 @@ def main():
         )
 
         return
-
-    # -----------------------------------------------------
-    # SAVE POSSIBLY UPDATED CHAT ID
-    # -----------------------------------------------------
-
-    bot_state[
-        "destination_chat_id"
-    ] = CURRENT_CHAT_ID
 
     # -----------------------------------------------------
     # HANDLE COMMANDS
@@ -2047,7 +2834,7 @@ def main():
     )
 
     # -----------------------------------------------------
-    # CHECK CHANNELS
+    # CHECK
     # -----------------------------------------------------
 
     state = check_channels(
@@ -2056,7 +2843,7 @@ def main():
     )
 
     # -----------------------------------------------------
-    # SAVE EVERYTHING
+    # SAVE
     # -----------------------------------------------------
 
     bot_state[
@@ -2078,24 +2865,32 @@ def main():
         bot_state
     )
 
-    # -----------------------------------------------------
-    # FINISH
-    # -----------------------------------------------------
-
     print("")
-    print("=" * 60)
+    print(
+        "=" * 60
+    )
+
     print(
         f"[FINAL CHAT ID] "
         f"{CURRENT_CHAT_ID}"
     )
+
+    print(
+        f"[GLOBAL HISTORY] "
+        f"{len(state['global']['history'])}"
+    )
+
     print(
         "[DONE] اجرای برنامه تمام شد."
     )
-    print("=" * 60)
+
+    print(
+        "=" * 60
+    )
 
 
 # =========================================================
-# ENTRY POINT
+# START
 # =========================================================
 
 if __name__ == "__main__":
