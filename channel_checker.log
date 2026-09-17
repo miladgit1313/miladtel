@@ -17,7 +17,7 @@ TESTING DESTINATION
 
 [CHECK] @akhbarfars
 [FETCH] https://t.me/s/akhbarfars
-[FOUND] @akhbarfars: 20 posts
+[FOUND] @akhbarfars: 17 posts
 
 [CHECK] @tg_ir
 [FETCH] https://t.me/s/tg_ir
@@ -37,7 +37,7 @@ TESTING DESTINATION
 
 [CHECK] @drtel
 [FETCH] https://t.me/s/drtel
-[FOUND] @drtel: 14 posts
+[FOUND] @drtel: 15 posts
 
 [CHECK] @techtube
 [FETCH] https://t.me/s/techtube
@@ -101,7 +101,7 @@ TESTING DESTINATION
 
 [CHECK] @gizmiztel
 [FETCH] https://t.me/s/gizmiztel
-[FOUND] @gizmiztel: 16 posts
+[FOUND] @gizmiztel: 15 posts
 
 [CHECK] @dr_salamatx
 [FETCH] https://t.me/s/dr_salamatx
@@ -118,21 +118,34 @@ TESTING DESTINATION
 [CHECK] @etelaate_omoomi
 [FETCH] https://t.me/s/etelaate_omoomi
 [FOUND] @etelaate_omoomi: 20 posts
-[GLOBAL] new candidates=5
-[GLOBAL DUPLICATE] @techtube post=18264 reason=exact content
-[SOURCE UPDATED] +@techtube
+[GLOBAL] new candidates=8
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789663026407.jpg
-[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
+[DOWNLOAD OK] /tmp/tg_media_1789663686521.jpg
+[OK] عکس 1/4 به صورت فایل تصویری ارسال شد.
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789663030437.jpg
-[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
+[DOWNLOAD OK] /tmp/tg_media_1789663688904.jpg
+[OK] عکس 2/4 به صورت فایل تصویری ارسال شد.
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789663034822.jpg
-[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
+[DOWNLOAD OK] /tmp/tg_media_1789663691319.jpg
+[OK] عکس 3/4 به صورت فایل تصویری ارسال شد.
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789663039127.jpg
+[DOWNLOAD OK] /tmp/tg_media_1789663693725.jpg
+[OK] عکس 4/4 به صورت فایل تصویری ارسال شد.
+[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789663701030.mp4
+[OK] ویدیو به صورت ویدیو آپلود شد.
+[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789663706753.mp4
+[OK] ویدیو به صورت ویدیو آپلود شد.
+[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789663712951.mp4
+[OK] ویدیو به صورت ویدیو آپلود شد.
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789663718663.jpg
 [OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
+[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789663724997.mp4
+[OK] ویدیو به صورت ویدیو آپلود شد.
 
 ============================================================
 [FINAL CHAT ID] -1004464275722
