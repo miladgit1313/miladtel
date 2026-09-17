@@ -73,7 +73,7 @@
       ]
     },
     "drtel": {
-      "last_id": 66588,
+      "last_id": 66589,
       "processed_ids": [
         66561,
         66565,
@@ -93,7 +93,8 @@
         66583,
         66585,
         66587,
-        66588
+        66588,
+        66589
       ]
     },
     "techtube": {
@@ -115,7 +116,7 @@
       ]
     },
     "digiai": {
-      "last_id": 2520,
+      "last_id": 2521,
       "processed_ids": [
         2501,
         2502,
@@ -126,7 +127,8 @@
         2515,
         2516,
         2517,
-        2520
+        2520,
+        2521
       ]
     },
     "my_hame_chiz": {
@@ -2603,6 +2605,36 @@
           "gizmiztel"
         ],
         "created_at": "2026-09-17T22:37:21.009750+00:00"
+      },
+      {
+        "fingerprint": "9873777132fd0a86b1cdce8246b2cc7125d805fcf4c80f9369490e987e2b06da",
+        "media_fingerprint": "8419cd78d58fab2848e77062a5dea268dc31d69a67b7444e7e32d865e4762105",
+        "text": "این پرامپت دوازده زاویه از عکست میسازه:\nTASK: Create ONE single image: a 3-column x 4-row contact-sheet grid of 12 photographs of the SAME person, in the SAME location, at the SAME moment, from 12 different camera angles. Fixed layout. Follow it exactly.\nIDENTITY (highest priority): The person is the person in the attached reference photos, which are the ONLY source of identity. Reproduce the face exactly (structure, proportions, skin tone and texture, eyes, brows, nose, lips, hairline, hair, facial hair, apparent age), identical in all 12 panels. No beautifying, no de-aging, no blending with other faces. Ignore the references' clothing, background, lighting, makeup and pose.\nCANVAS: whole image vertical 3:4. Solid black background, 12 equal near-square panels, thin black gutters, slightly rounded corners. Bottom center of each panel: small white rounded label, black Courier-style monospace text, written exactly as given (with slash and colon). No other text, no logo, no watermark.\nCONSTANT IN ALL PANELS: plain black long-sleeve crew-neck top, straight black trousers, black leather shoes, no accessories. Standing, arms crossed, calm confident neutral expression. Vast empty brutalist hall of raw board-formed concrete, tall floor-to-ceiling windows on one side, straight concrete staircase with thin black metal railing on the back wall, polished grey concrete floor. Soft diffused overcast daylight. Real full-frame photograph, natural skin pores, muted cool-grey grade, no AI gloss.\nROW 1\n1 \"/closeup:\" - head-and-shoulders, eye level, 85mm, face fills 60% of panel.\n2 \"/extremecloseup:\" - macro crop from mid-forehead to nose tip, both eyes razor sharp.\n3 \"/eyelevel:\" - head to hips, camera at eye height, 50mm, straight-on, staircase behind.\nROW 2\n4 \"/profile:\" - head and shoulders in exact 90-degree side profile, eye level, 85mm, windows behind.\n5 \"/highangle:\" - full body from 2.5 m above, tilted down 45 degrees, subject looking up into the lens.\n6 \"/lowangle:\" - knees to head from 0.8 m high, tilted up 30 degrees, subject looking down into the lens, ceiling visible.\nROW 3\n7 \"/crane:\" - full body from 5 m high and 8 m away, tilted down 35 degrees, subject small (20% of height), lots of floor.\n8 \"/topdown:\" - camera directly overhead, pointing straight down (90 degrees), 35mm; top of head, shoulders, crossed arms and shoes visible on the concrete floor; subject looking up.\n9 \"/wormseye:\" - camera on the floor 20 cm from the feet, 16mm, pointing steeply up, legs huge, face small at the top.\nROW 4\n10 \"/droneview:\" - aerial-style shot from 10 m high in a corner, tiny subject (8% of height) in the middle of the hall, whole space visible.\n11 \"/widefull:\" - eye level from 10 m away, 28mm, symmetrical, subject centered and small (30% of height).\n12 \"/overshoulder:\" - over-the-shoulder shot from behind the subject's right shoulder; back of the head and shoulder large and soft in the right foreground; the empty hall and staircase sharp in the background; face turned slightly, showing only the side of the cheek.\nOUTPUT: one clean 3x4 grid exactly as specified. Same person, outfit, place and light in all 12 panels. Only the camera angle changes.\n🎨\nMake your photo",
+        "original_username": "digiai",
+        "original_text": "این پرامپت دوازده زاویه از عکست میسازه:\nTASK: Create ONE single image: a 3-column x 4-row contact-sheet grid of 12 photographs of the SAME person, in the SAME location, at the SAME moment, from 12 different camera angles. Fixed layout. Follow it exactly.\nIDENTITY (highest priority): The person is the person in the attached reference photos, which are the ONLY source of identity. Reproduce the face exactly (structure, proportions, skin tone and texture, eyes, brows, nose, lips, hairline, hair, facial hair, apparent age), identical in all 12 panels. No beautifying, no de-aging, no blending with other faces. Ignore the references' clothing, background, lighting, makeup and pose.\nCANVAS: whole image vertical 3:4. Solid black background, 12 equal near-square panels, thin black gutters, slightly rounded corners. Bottom center of each panel: small white rounded label, black Courier-style monospace text, written exactly as given (with slash and colon). No other text, no logo, no watermark.\nCONSTANT IN ALL PANELS: plain black long-sleeve crew-neck top, straight black trousers, black leather shoes, no accessories. Standing, arms crossed, calm confident neutral expression. Vast empty brutalist hall of raw board-formed concrete, tall floor-to-ceiling windows on one side, straight concrete staircase with thin black metal railing on the back wall, polished grey concrete floor. Soft diffused overcast daylight. Real full-frame photograph, natural skin pores, muted cool-grey grade, no AI gloss.\nROW 1\n1 \"/closeup:\" - head-and-shoulders, eye level, 85mm, face fills 60% of panel.\n2 \"/extremecloseup:\" - macro crop from mid-forehead to nose tip, both eyes razor sharp.\n3 \"/eyelevel:\" - head to hips, camera at eye height, 50mm, straight-on, staircase behind.\nROW 2\n4 \"/profile:\" - head and shoulders in exact 90-degree side profile, eye level, 85mm, windows behind.\n5 \"/highangle:\" - full body from 2.5 m above, tilted down 45 degrees, subject looking up into the lens.\n6 \"/lowangle:\" - knees to head from 0.8 m high, tilted up 30 degrees, subject looking down into the lens, ceiling visible.\nROW 3\n7 \"/crane:\" - full body from 5 m high and 8 m away, tilted down 35 degrees, subject small (20% of height), lots of floor.\n8 \"/topdown:\" - camera directly overhead, pointing straight down (90 degrees), 35mm; top of head, shoulders, crossed arms and shoes visible on the concrete floor; subject looking up.\n9 \"/wormseye:\" - camera on the floor 20 cm from the feet, 16mm, pointing steeply up, legs huge, face small at the top.\nROW 4\n10 \"/droneview:\" - aerial-style shot from 10 m high in a corner, tiny subject (8% of height) in the middle of the hall, whole space visible.\n11 \"/widefull:\" - eye level from 10 m away, 28mm, symmetrical, subject centered and small (30% of height).\n12 \"/overshoulder:\" - over-the-shoulder shot from behind the subject's right shoulder; back of the head and shoulder large and soft in the right foreground; the empty hall and staircase sharp in the background; face turned slightly, showing only the side of the cheek.\nOUTPUT: one clean 3x4 grid exactly as specified. Same person, outfit, place and light in all 12 panels. Only the camera angle changes.\n🎨\nMake your photo",
+        "original_link": "https://t.me/digiai/2521",
+        "post_id": 2521,
+        "message_id": 200,
+        "message_kind": "caption",
+        "sources": [
+          "digiai"
+        ],
+        "created_at": "2026-09-17T22:52:40.578429+00:00"
+      },
+      {
+        "fingerprint": "546f92fbca0363ee3c245b223a4220024c6b81b8a485367d7069cfd7a48fddb3",
+        "media_fingerprint": "a8cac39a8ca031227efc40376f593d14ad6aa9c968e863e8316dede90220176a",
+        "text": "🔴\nسلامی گرم به تمامی دانش‌آموزان عزیز، این پست فقط جهت یادآوری می‌باشد.\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nسلامی گرم به تمامی دانش‌آموزان عزیز، این پست فقط جهت یادآوری می‌باشد.\n@DrTeL",
+        "original_link": "https://t.me/drtel/66589",
+        "post_id": 66589,
+        "message_id": 201,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-09-17T22:52:44.493953+00:00"
       }
     ]
   }
