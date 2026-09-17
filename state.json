@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 141929,
+      "last_id": 141932,
       "processed_ids": [
         141903,
         141904,
@@ -26,7 +26,10 @@
         141926,
         141927,
         141928,
-        141929
+        141929,
+        141930,
+        141931,
+        141932
       ]
     },
     "total_fut": {
@@ -115,13 +118,14 @@
       ]
     },
     "pc_it_mob": {
-      "last_id": 11820,
+      "last_id": 11821,
       "processed_ids": [
         11816,
         11817,
         11818,
         11819,
-        11820
+        11820,
+        11821
       ]
     },
     "thezoomit": {
@@ -1544,7 +1548,8 @@
         "message_id": 124,
         "message_kind": "caption",
         "sources": [
-          "fars_today"
+          "fars_today",
+          "akhbarfars"
         ],
         "created_at": "2026-09-17T17:53:42.286432+00:00"
       },
@@ -1892,6 +1897,51 @@
           "roidbest"
         ],
         "created_at": "2026-09-17T19:03:54.943777+00:00"
+      },
+      {
+        "fingerprint": "ee688f239592530179ea6e07e1629afe180e801367f730f26f444a454596bdbe",
+        "media_fingerprint": "e095e9104a20d7f203af462685171738e2bf2861dd41024e5f28179afaeb4bda",
+        "text": "♦️\nپیش‌بینی وضع آب و هوای سه روز آینده مرکز استان\n‌\n🔹\n۲۴ ساعت اول (۱۴۰۵/۰۶/۲۷)\n🔹\n۲۴ ساعت دوم (۱۴۰۵/۰۶/۲۸)\n🔹\n۲۴ ساعت سوم (۱۴۰۵/۰۶/۲۹)\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nپیش‌بینی وضع آب و هوای سه روز آینده مرکز استان\n‌\n🔹\n۲۴ ساعت اول (۱۴۰۵/۰۶/۲۷)\n🔹\n۲۴ ساعت دوم (۱۴۰۵/۰۶/۲۸)\n🔹\n۲۴ ساعت سوم (۱۴۰۵/۰۶/۲۹)\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/141931",
+        "post_id": 141931,
+        "message_id": 154,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-09-17T19:18:58.668660+00:00"
+      },
+      {
+        "fingerprint": "7bcd5d4652cf7896ca9b09f3f79405e0346c092b6cfd5e2a206e9b60ccd08bd8",
+        "media_fingerprint": "1fdcf629faaee59532f932987a2d859b5dc81880813760521a21aaaaa12d4a2d",
+        "text": "♦️\nنمایی از ۲۰۱ اُمین شب مقاومت در شیراز\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nنمایی از ۲۰۱ اُمین شب مقاومت در شیراز\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/141932",
+        "post_id": 141932,
+        "message_id": 155,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-09-17T19:19:06.480666+00:00"
+      },
+      {
+        "fingerprint": "bda2989b454e5586d91f7b8f8b6fc3871754caeefb61473bc3fb2f9c094bc4f4",
+        "media_fingerprint": "",
+        "text": "به مناسبت ۲ ساله شدن عمر چنلمون چنل VIP که قیمت یک میلیون هست به 100 نفر اول رایگان میدیم و بعد از 100 نفر به طور خودکار لینک باطل میشه جوین بدین\n👇🏻",
+        "original_username": "pc_it_mob",
+        "original_text": "به مناسبت ۲ ساله شدن عمر چنلمون چنل VIP که قیمت یک میلیون هست به 100 نفر اول رایگان میدیم و بعد از 100 نفر به طور خودکار لینک باطل میشه جوین بدین\n👇🏻",
+        "original_link": "https://t.me/Pc_IT_Mob/11821",
+        "post_id": 11821,
+        "message_id": 156,
+        "message_kind": "text",
+        "sources": [
+          "pc_it_mob"
+        ],
+        "created_at": "2026-09-17T19:19:09.098535+00:00"
       }
     ]
   }
