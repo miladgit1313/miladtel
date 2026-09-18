@@ -118,25 +118,10 @@ TESTING DESTINATION
 [CHECK] @noor_agahi9775
 [FETCH] https://t.me/s/noor_agahi9775
 [FOUND] @noor_agahi9775: 20 posts
-[GLOBAL] new candidates=8
-[GLOBAL DUPLICATE] @akhbarfars post=141988 reason=exact content
-[SOURCE UPDATED] +@akhbarfars
-[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789759117415.jpg
-[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
-[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789759124265.mp4
-[OK] ویدیو به صورت ویدیو آپلود شد.
-[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789759130116.jpg
-[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
-[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789759134849.mp4
-[OK] ویدیو به صورت ویدیو آپلود شد.
-[GLOBAL DUPLICATE] @akhbar_cafenet post=22448 reason=similar text 0.90
-[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789759142923.jpg
-[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
+[GLOBAL] new candidates=4
+[GLOBAL DUPLICATE] @akhbarfars post=141989 reason=similar text 1.00
+[FILTERED] @ajayebe_jahann post=158993 pattern=شرط[\s\u200c\u200d_ـ\-]*بندی
+[GLOBAL DUPLICATE] @ajayebe_jahann post=158994 reason=exact content
 
 ============================================================
 [FINAL CHAT ID] -1004464275722
