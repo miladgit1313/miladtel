@@ -118,25 +118,14 @@ TESTING DESTINATION
 [CHECK] @noor_agahi9775
 [FETCH] https://t.me/s/noor_agahi9775
 [FOUND] @noor_agahi9775: 20 posts
-[GLOBAL] new candidates=5
+[GLOBAL] new candidates=2
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789762781075.jpg
-[OK] عکس 1/2 به صورت فایل تصویری ارسال شد.
-[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789762782753.jpg
-[OK] عکس 2/2 به صورت فایل تصویری ارسال شد.
-[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789762787945.mp4
-[OK] ویدیو به صورت ویدیو آپلود شد.
-[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789762793697.mp4
-[OK] ویدیو به صورت ویدیو آپلود شد.
-[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789762798832.mp4
-[OK] ویدیو به صورت ویدیو آپلود شد.
-[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789762803221.jpg
+[DOWNLOAD OK] /tmp/tg_media_1789763477024.jpg
 [OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[ERROR] ارسال عکس: 500 Server Error: Internal Server Error for url: https://cdn4.telesco.pe/file/BXMPScL-ebs_LYHu1XxQn7HNBp6n133Az6eEiZGZtUrlBfxntz-jHj-mpsmiEIC2hhts30z8dP2ETteNL0QDQJDTcd0CHEztv97PRVn3NfwnkO0rukJJZysm5jfPRGn_YwZkpGiN1HB_jcNovtsfV2wyehE6u4Kz3jHTyQO1yojgCkp9f_sTkoHJ-Y0raq_huouoD1tgELna1ykmquFwfmDUZxpPNSPP_OQKtPgfi9lpDwUaom9XT2qkSMmhvgECopJOMkQtnwQsJSJ9CULIQSadG_M2g_ZRlrhCo5CvqYdI6S3P02wKoPZsb3TJG8EO1sZ-wdi5xgb6GLv2Vxam-w.jpg
+[FAILED] @techtube post=18280
+[STATE] این پست عمداً پردازش‌شده ثبت نشد تا اجرای بعدی دوباره تلاش کند.
 
 ============================================================
 [FINAL CHAT ID] -1004464275722
