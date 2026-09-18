@@ -114,8 +114,9 @@ TESTING DESTINATION
 [CHECK] @etelaate_omoomi
 [FETCH] https://t.me/s/etelaate_omoomi
 [FOUND] @etelaate_omoomi: 20 posts
-[GLOBAL] new candidates=2
-[GLOBAL DUPLICATE] @pc_it_mob post=11827 reason=exact content
+[GLOBAL] new candidates=1
+[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[WARN] آپلود ویدیو: 500 Server Error: Internal Server Error for url: https://cdn4.telesco.pe/file/6bf2f834fa.mp4?token=WH4Tma6GgtgN6r0NhSY7KcIWhyfa-O3sCPdzi2OAVeDxbeAPFaSraSIaflp1WOVnKJ7kaiiC3KA1APG7XAIBYxyAPeudLLVvI5vnYyKuq7KlBqaiLl9hRAHRKBxt2zaUAoyMsdNjGTzeihLXfIThdnY4pwCCZ7JpFKcIGVkTAL6Etm3KCxby27NgdxT0R1HTc9gvcrX8oJUi-3AqglTYABVt_ibuxYfl9kIFVk6t4CeYdalxKNB7vrkylppt42_yGV1npgi3JduqKYVd7DmRX3XRbhmdoCzIYNd-RlmQyWoMT9QCvflG8qHCjUb24zePOyyynlM0SNNitPp2E2CcLA
 
 ============================================================
 [FINAL CHAT ID] -1004464275722
