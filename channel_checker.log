@@ -118,9 +118,12 @@ TESTING DESTINATION
 [CHECK] @etelaate_omoomi
 [FETCH] https://t.me/s/etelaate_omoomi
 [FOUND] @etelaate_omoomi: 20 posts
-[GLOBAL] new candidates=1
+[GLOBAL] new candidates=3
 [WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789725253956.mp4
+[DOWNLOAD OK] /tmp/tg_media_1789725870349.mp4
+[OK] ویدیو به صورت ویدیو آپلود شد.
+[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789725876330.mp4
 [OK] ویدیو به صورت ویدیو آپلود شد.
 
 ============================================================
