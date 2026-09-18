@@ -2,7 +2,7 @@
 ============================================================
 TELEGRAM PUBLIC CHANNEL FORWARDER
 ============================================================
-[INFO] تعداد کانال‌ها: 26
+[INFO] تعداد کانال‌ها: 27
 [INFO] مقصد فعلی: -1004464275722
 
 ============================================================
@@ -122,11 +122,7 @@ TESTING DESTINATION
 [CHECK] @scienticnews
 [FETCH] https://t.me/s/scienticnews
 [FOUND] @scienticnews: 14 posts
-[INIT] @scienticnews baseline=22458
-[GLOBAL] new candidates=1
-[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789769953073.jpg
-[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
+[GLOBAL] new candidates=0
 
 ============================================================
 [FINAL CHAT ID] -1004464275722
