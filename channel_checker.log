@@ -118,25 +118,15 @@ TESTING DESTINATION
 [CHECK] @noor_agahi9775
 [FETCH] https://t.me/s/noor_agahi9775
 [FOUND] @noor_agahi9775: 20 posts
-[GLOBAL] new candidates=7
+
+[CHECK] @scienticnews
+[FETCH] https://t.me/s/scienticnews
+[FOUND] @scienticnews: 14 posts
+[INIT] @scienticnews baseline=22458
+[GLOBAL] new candidates=1
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789769049710.jpg
+[DOWNLOAD OK] /tmp/tg_media_1789769953073.jpg
 [OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
-[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789769055099.mp4
-[OK] ویدیو به صورت ویدیو آپلود شد.
-[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789769061322.mp4
-[OK] ویدیو به صورت ویدیو آپلود شد.
-[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[WARN] آپلود ویدیو: 500 Server Error: Internal Server Error for url: https://cdn4.telesco.pe/file/f63f229c24.mp4?token=Xn3aH3IrUXpuf5O8urhiE2Ubw5VCnEQyGB_ZwVqzZhIpt2Zdc-uTxyxoMV1mbXuQ_SiohDv6Ygapk8MocKNEswb3u8eYq9JzF6ikVE-hnglNDjpkdOOj5cDftqUKtIK7rCHyw9YYFLZniuJEwtkYc5gaV9TmwjMR-FNzUH-9ym2SJZ5LhImuZb_85vLauNdEA1H5OMVo__9VGK8j5uFL6KhdxSH30Hw-mLCpXPRwlft776t9eeAZYt_VyD27IqSn1E41DiYaJWMubePNR1ANyraABef0QtENlcIYx5kle7S_dQi6H4TvGlkUyNSrbFpfuq7zms2DEKk4Dw8jSHGDNA
-[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789769071508.mp4
-[OK] ویدیو به صورت ویدیو آپلود شد.
-[GLOBAL DUPLICATE] @gizmiztel post=161953 reason=similar text 1.00
-[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789769078222.mp4
-[OK] ویدیو به صورت ویدیو آپلود شد.
 
 ============================================================
 [FINAL CHAT ID] -1004464275722
