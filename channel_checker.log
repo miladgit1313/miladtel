@@ -37,7 +37,7 @@ TESTING DESTINATION
 
 [CHECK] @drtel
 [FETCH] https://t.me/s/drtel
-[FOUND] @drtel: 11 posts
+[FOUND] @drtel: 12 posts
 
 [CHECK] @techtube
 [FETCH] https://t.me/s/techtube
@@ -115,20 +115,17 @@ TESTING DESTINATION
 [FETCH] https://t.me/s/etelaate_omoomi
 [FOUND] @etelaate_omoomi: 20 posts
 [GLOBAL] new candidates=5
-[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789741955990.jpg
-[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
-[GLOBAL DUPLICATE] @gizmiztel post=161931 reason=similar text 0.99
-[SOURCE UPDATED] +@gizmiztel
 [WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789741962773.mp4
+[DOWNLOAD OK] /tmp/tg_media_1789742825467.mp4
 [OK] ویدیو به صورت ویدیو آپلود شد.
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789741968339.jpg
+[DOWNLOAD OK] /tmp/tg_media_1789742830042.jpg
 [OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789741972572.jpg
+[DOWNLOAD OK] /tmp/tg_media_1789742833857.jpg
 [OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
+[FILTERED] @ajayebe_jahann post=158986 pattern=شرط[\s\u200c\u200d_ـ\-]*بندی
+[GLOBAL DUPLICATE] @ajayebe_jahann post=158987 reason=exact content
 
 ============================================================
 [FINAL CHAT ID] -1004464275722
