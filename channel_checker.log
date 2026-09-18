@@ -114,25 +114,7 @@ TESTING DESTINATION
 [CHECK] @etelaate_omoomi
 [FETCH] https://t.me/s/etelaate_omoomi
 [FOUND] @etelaate_omoomi: 20 posts
-[GLOBAL] new candidates=11
-[FILTERED] @comentiat post=25871 pattern=شرط[\s\u200c\u200d_ـ\-]*بندی
-[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789751042970.jpg
-[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
-[GLOBAL DUPLICATE] @pc_it_mob post=11834 reason=exact content
-[SOURCE UPDATED] +@pc_it_mob
-[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789751047621.jpg
-[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
-[GLOBAL DUPLICATE] @pc_it_mob post=11836 reason=similar text 1.00
-[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789751051864.jpg
-[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
-[GLOBAL DUPLICATE] @pc_it_mob post=11837 reason=similar text 1.00
-[GLOBAL DUPLICATE] @techtube post=18273 reason=exact content
-[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789751055900.jpg
-[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
+[GLOBAL] new candidates=0
 
 ============================================================
 [FINAL CHAT ID] -1004464275722
