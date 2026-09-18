@@ -114,18 +114,13 @@ TESTING DESTINATION
 [CHECK] @etelaate_omoomi
 [FETCH] https://t.me/s/etelaate_omoomi
 [FOUND] @etelaate_omoomi: 20 posts
-[GLOBAL] new candidates=5
+[GLOBAL] new candidates=2
 [WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789742825467.mp4
+[DOWNLOAD OK] /tmp/tg_media_1789743350946.mp4
 [OK] ویدیو به صورت ویدیو آپلود شد.
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789742830042.jpg
+[DOWNLOAD OK] /tmp/tg_media_1789743356160.jpg
 [OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
-[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789742833857.jpg
-[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
-[FILTERED] @ajayebe_jahann post=158986 pattern=شرط[\s\u200c\u200d_ـ\-]*بندی
-[GLOBAL DUPLICATE] @ajayebe_jahann post=158987 reason=exact content
 
 ============================================================
 [FINAL CHAT ID] -1004464275722
