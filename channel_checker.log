@@ -47,10 +47,6 @@ TESTING DESTINATION
 [FETCH] https://t.me/s/dafaterepishkhandpd
 [FOUND] @dafaterepishkhandpd: 19 posts
 
-[CHECK] @digiai
-[FETCH] https://t.me/s/digiai
-[FOUND] @digiai: 14 posts
-
 [CHECK] @my_hame_chiz
 [FETCH] https://t.me/s/my_hame_chiz
 [FOUND] @my_hame_chiz: 4 posts
@@ -119,12 +115,13 @@ TESTING DESTINATION
 [FETCH] https://t.me/s/etelaate_omoomi
 [FOUND] @etelaate_omoomi: 20 posts
 [GLOBAL] new candidates=3
-[GLOBAL DUPLICATE] @akhbar_cafenet post=22444 reason=exact content
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789731890043.jpg
-[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
-[GLOBAL DUPLICATE] @coffeenetmanager post=51547 reason=similar text 0.90
-[SOURCE UPDATED] +@coffeenetmanager
+[ERROR] ارسال عکس: 500 Server Error: Internal Server Error for url: https://cdn4.telesco.pe/file/rAzjRsC-yKLH7NXENKa3HqlovZj69lVPtVfhGLhHOvyb94lGzfV_GuRUEgIpZ4sJCwQxFWfZFC8Ym0GNds6RpqzKlJN_7ESBy8w5dgLc7dOXMBhQ1pp3q7Zg4WowKSlr04eQEd4DbjudB0ofMKOch1glHNH0BNV4JjpbVg9UTkLeEtYvucMzPqaQcXODD3WOYZRDCJ2ETt9tOJZlsj2hrMFpch_mij_Rlr6TjEx5H6xiKz8-DpvYREob3RQuIT15kwhQWZDtYLmzI3P_yG3oQvz7_ohWbENo6hA_z5osqeUHQNBWOxNSgyPwO2vM8RC7jIJ8qRJcZFcHVHu_uA2apg.jpg
+[FAILED] @drtel post=66608
+[STATE] این پست عمداً پردازش‌شده ثبت نشد تا اجرای بعدی دوباره تلاش کند.
+[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789732367923.mp4
+[OK] ویدیو به صورت ویدیو آپلود شد.
 
 ============================================================
 [FINAL CHAT ID] -1004464275722
