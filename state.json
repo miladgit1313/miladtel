@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 141956,
+      "last_id": 141957,
       "processed_ids": [
         141903,
         141904,
@@ -53,7 +53,8 @@
         141953,
         141954,
         141955,
-        141956
+        141956,
+        141957
       ]
     },
     "total_fut": {
@@ -96,7 +97,7 @@
       ]
     },
     "drtel": {
-      "last_id": 66606,
+      "last_id": 66607,
       "processed_ids": [
         66561,
         66565,
@@ -123,7 +124,8 @@
         66595,
         66596,
         66605,
-        66606
+        66606,
+        66607
       ]
     },
     "techtube": {
@@ -289,7 +291,7 @@
       ]
     },
     "gizmiztel": {
-      "last_id": 161921,
+      "last_id": 161923,
       "processed_ids": [
         161872,
         161875,
@@ -334,7 +336,8 @@
         161918,
         161919,
         161920,
-        161921
+        161921,
+        161923
       ]
     },
     "dr_salamatx": {
@@ -2901,7 +2904,8 @@
         "message_id": 215,
         "message_kind": "text",
         "sources": [
-          "akhbarfars"
+          "akhbarfars",
+          "gizmiztel"
         ],
         "created_at": "2026-09-18T04:47:13.437164+00:00"
       },
@@ -3910,6 +3914,36 @@
           "akhbarfars"
         ],
         "created_at": "2026-09-18T10:20:56.006077+00:00"
+      },
+      {
+        "fingerprint": "7e62a0d90c717e10b70ca97f5a30ca1e8b5b1606b9ba237a0b1dd2506eb9c8cb",
+        "media_fingerprint": "",
+        "text": "♦️\nاز حافظ تا شهریار؛ روایت ماندگار زبان فارسی\n🔹\nهمزمان با روز هنر و زبان و ادب پارسی و بزرگداشت استاد شهریار، نگاهی انداخته‌ایم به میراثی که قرن‌هاست با شعر، هنر و زبان فارسی، بخشی از هویت ایران را روایت می‌کند.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nاز حافظ تا شهریار؛ روایت ماندگار زبان فارسی\n🔹\nهمزمان با روز هنر و زبان و ادب پارسی و بزرگداشت استاد شهریار، نگاهی انداخته‌ایم به میراثی که قرن‌هاست با شعر، هنر و زبان فارسی، بخشی از هویت ایران را روایت می‌کند.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/141957",
+        "post_id": 141957,
+        "message_id": 290,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-09-18T10:32:22.232675+00:00"
+      },
+      {
+        "fingerprint": "f5e2cc232fc29f1f0ae9f031e95cb530185bea196cd5a6537a57801cc15aac96",
+        "media_fingerprint": "3568712db8f198942ca1e06393088d92a4bcbbf905c0b61806fc7d2a72625d3d",
+        "text": "🔴\nنشست مجمع عمومی سازمان ملل، 31 شهریور یعنی درست یک روز قبل بازگشایی مدارسه.  @DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nنشست مجمع عمومی سازمان ملل، 31 شهریور یعنی درست یک روز قبل بازگشایی مدارسه.  @DrTeL",
+        "original_link": "https://t.me/drtel/66607",
+        "post_id": 66607,
+        "message_id": 291,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-09-18T10:32:26.332993+00:00"
       }
     ]
   }
