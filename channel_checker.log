@@ -49,7 +49,7 @@ TESTING DESTINATION
 
 [CHECK] @digiai
 [FETCH] https://t.me/s/digiai
-[FOUND] @digiai: 13 posts
+[FOUND] @digiai: 12 posts
 
 [CHECK] @my_hame_chiz
 [FETCH] https://t.me/s/my_hame_chiz
@@ -118,10 +118,20 @@ TESTING DESTINATION
 [CHECK] @etelaate_omoomi
 [FETCH] https://t.me/s/etelaate_omoomi
 [FOUND] @etelaate_omoomi: 20 posts
-[GLOBAL] new candidates=1
+[GLOBAL] new candidates=2
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789705248925.jpg
-[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
+[ERROR] ارسال عکس: 500 Server Error: Internal Server Error for url: https://cdn4.telesco.pe/file/XIn3gTY9ZjtLPusQKqr4GULgAHzt4-bA293O3oKWcmR_us4lXJilyeRWpMhitZz2I_T0pnjSHEDi83ju9Sz-0wWFSRb1OErkxnSCvxBDjKFLPCWM9xg9xHVYKVgg0N_HO2FXMJe-jRoVt9s7qrFgMGH1d812GtkFR6oLEN73GMLQvg4BMgR30zYe90I0lctgCAKOIlmjKKIWEIloqWiQAGTp_iLesexW4GzY8f1wWW4B1ZMh-EWYInxIqpX0UujEXZn5LaA9jlJWe7l8BAluMOXHfa192b_BJUOZ-TQzqNSCfU8JSDaTPn9lSsDFx-t1UwR9CE1CLr2kIRozRIH1qg.jpg
+[FAILED] @akhbarfars post=141937
+[STATE] این پست عمداً پردازش‌شده ثبت نشد تا اجرای بعدی دوباره تلاش کند.
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789706204456.jpg
+[OK] عکس 1/3 به صورت فایل تصویری ارسال شد.
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789706206407.jpg
+[OK] عکس 2/3 به صورت فایل تصویری ارسال شد.
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789706211382.jpg
+[OK] عکس 3/3 به صورت فایل تصویری ارسال شد.
 
 ============================================================
 [FINAL CHAT ID] -1004464275722
