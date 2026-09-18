@@ -37,7 +37,7 @@ TESTING DESTINATION
 
 [CHECK] @drtel
 [FETCH] https://t.me/s/drtel
-[FOUND] @drtel: 9 posts
+[FOUND] @drtel: 10 posts
 
 [CHECK] @techtube
 [FETCH] https://t.me/s/techtube
@@ -114,21 +114,18 @@ TESTING DESTINATION
 [CHECK] @etelaate_omoomi
 [FETCH] https://t.me/s/etelaate_omoomi
 [FOUND] @etelaate_omoomi: 20 posts
-[GLOBAL] new candidates=7
-[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789735966436.jpg
-[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
+[GLOBAL] new candidates=5
+[FILTERED] @comentiat post=25862 pattern=شرط[\s\u200c\u200d_ـ\-]*بندی
 [WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789735974486.mp4
-[OK] ویدیو به صورت ویدیو آپلود شد.
+[WARN] آپلود ویدیو: 500 Server Error: Internal Server Error for url: https://cdn4.telesco.pe/file/a3b97e0523.mp4?token=T1Gci8ziduHdyLIusf0NqPCBGkiLHt_zVLxqai7DTooIgFUTa8kUyA9nw297KQExDgnr3fN8v5XjM1Eer5cli-E0g0DYsK6rZ_QoLOgVl2ux2W6gcgX-1mynwcB_T75jVg_xMqabwypnVF3Hs48atFJL1LbUYb-r-XVV7EpzCop1GhdwWChb6snR6m0d7Kl3plMuGPAHrxYunFgbxfQZ7Od_91nttSEJEmNVCTaHPZGLFfnCuazq2htlCdjj4Jw-hxuxhGz2vbkXfqeEcqM8lGCBFpOCknUrnsds5LpLF6XigxOMhTuYnqJ_h3jI3Il9hHgnWvQrxCqI0WbI6r7HSw
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789735979435.jpg
+[DOWNLOAD OK] /tmp/tg_media_1789736643737.jpg
 [OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
-[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789735987128.mp4
-[OK] ویدیو به صورت ویدیو آپلود شد.
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789735992308.jpg
+[DOWNLOAD OK] /tmp/tg_media_1789736648293.jpg
+[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789736652838.jpg
 [OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
 
 ============================================================
