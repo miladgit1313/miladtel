@@ -270,7 +270,7 @@
       ]
     },
     "comentiat": {
-      "last_id": 25859,
+      "last_id": 25861,
       "processed_ids": [
         25844,
         25845,
@@ -287,7 +287,8 @@
         25856,
         25857,
         25858,
-        25859
+        25859,
+        25861
       ]
     },
     "boost/fndoni": {
@@ -372,7 +373,7 @@
       ]
     },
     "jaleb": {
-      "last_id": 52288,
+      "last_id": 52292,
       "processed_ids": [
         52261,
         52262,
@@ -398,7 +399,10 @@
         52284,
         52286,
         52287,
-        52288
+        52288,
+        52290,
+        52291,
+        52292
       ]
     },
     "ajayebe_jahann": {
@@ -2333,7 +2337,8 @@
         "message_id": 171,
         "message_kind": "caption",
         "sources": [
-          "gizmiztel"
+          "gizmiztel",
+          "jaleb"
         ],
         "created_at": "2026-09-17T20:36:21.975822+00:00"
       },
@@ -3716,7 +3721,8 @@
         "message_id": 274,
         "message_kind": "caption",
         "sources": [
-          "comentiat"
+          "comentiat",
+          "jaleb"
         ],
         "created_at": "2026-09-18T09:36:24.251393+00:00"
       },
@@ -4351,6 +4357,36 @@
           "pc_it_mob"
         ],
         "created_at": "2026-09-18T12:24:51.412907+00:00"
+      },
+      {
+        "fingerprint": "017d4a6501fa9b661257ad826b2986170bf3627ac14b6ea8905f730a178ab376",
+        "media_fingerprint": "2f54af292772a7e8950f9d6336fa6cf2f36f3141f835f28c13fd6492c1be9820",
+        "text": "🔴\nگویا امروز همزمان با رزمایش جانفداها، یه دوی ماراتن ۱۰ کیلومتری مخصوص دخترا تو بوستان ولایت تهران برگزار شده.\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "🔴\nگویا امروز همزمان با رزمایش جانفداها، یه دوی ماراتن ۱۰ کیلومتری مخصوص دخترا تو بوستان ولایت تهران برگزار شده.\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52292",
+        "post_id": 52292,
+        "message_id": 318,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-09-18T12:39:55.809889+00:00"
+      },
+      {
+        "fingerprint": "e0262d8c903b0b3fdda5387ae9c803a05a4e1c9f472d412276b5bb756cf643aa",
+        "media_fingerprint": "748ed660012ba9d672e84931f0d21a1dae107c1ce694d43488943148f9207115",
+        "text": "جواب کمر شکن فقط خودت\n😂\n😂\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "جواب کمر شکن فقط خودت\n😂\n😂\n@comentiat",
+        "original_link": "https://t.me/Comentiat/25861",
+        "post_id": 25861,
+        "message_id": 319,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-09-18T12:40:00.122019+00:00"
       }
     ]
   }
