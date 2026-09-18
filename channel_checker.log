@@ -37,7 +37,7 @@ TESTING DESTINATION
 
 [CHECK] @drtel
 [FETCH] https://t.me/s/drtel
-[FOUND] @drtel: 10 posts
+[FOUND] @drtel: 12 posts
 
 [CHECK] @techtube
 [FETCH] https://t.me/s/techtube
@@ -114,7 +114,14 @@ TESTING DESTINATION
 [CHECK] @etelaate_omoomi
 [FETCH] https://t.me/s/etelaate_omoomi
 [FOUND] @etelaate_omoomi: 20 posts
-[GLOBAL] new candidates=2
+[GLOBAL] new candidates=5
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789739178295.jpg
+[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
+[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789739183693.mp4
+[OK] ویدیو به صورت ویدیو آپلود شد.
+[GLOBAL DUPLICATE] @drtel post=66614 reason=similar text 1.00
 
 ============================================================
 [FINAL CHAT ID] -1004464275722
