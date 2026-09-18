@@ -37,7 +37,7 @@ TESTING DESTINATION
 
 [CHECK] @drtel
 [FETCH] https://t.me/s/drtel
-[FOUND] @drtel: 17 posts
+[FOUND] @drtel: 14 posts
 
 [CHECK] @techtube
 [FETCH] https://t.me/s/techtube
@@ -118,15 +118,25 @@ TESTING DESTINATION
 [CHECK] @noor_agahi9775
 [FETCH] https://t.me/s/noor_agahi9775
 [FOUND] @noor_agahi9775: 20 posts
-[GLOBAL] new candidates=4
+[GLOBAL] new candidates=5
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789761861190.jpg
-[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
+[DOWNLOAD OK] /tmp/tg_media_1789762781075.jpg
+[OK] عکس 1/2 به صورت فایل تصویری ارسال شد.
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789761865575.jpg
+[DOWNLOAD OK] /tmp/tg_media_1789762782753.jpg
+[OK] عکس 2/2 به صورت فایل تصویری ارسال شد.
+[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789762787945.mp4
+[OK] ویدیو به صورت ویدیو آپلود شد.
+[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789762793697.mp4
+[OK] ویدیو به صورت ویدیو آپلود شد.
+[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789762798832.mp4
+[OK] ویدیو به صورت ویدیو آپلود شد.
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789762803221.jpg
 [OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
-[FILTERED] @ajayebe_jahann post=158996 pattern=شرط[\s\u200c\u200d_ـ\-]*بندی
-[GLOBAL DUPLICATE] @ajayebe_jahann post=158997 reason=exact content
 
 ============================================================
 [FINAL CHAT ID] -1004464275722
