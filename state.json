@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 141938,
+      "last_id": 141939,
       "processed_ids": [
         141903,
         141904,
@@ -35,7 +35,8 @@
         141935,
         141936,
         141937,
-        141938
+        141938,
+        141939
       ]
     },
     "total_fut": {
@@ -189,11 +190,12 @@
       ]
     },
     "roidbest": {
-      "last_id": 21616,
+      "last_id": 21617,
       "processed_ids": [
         21613,
         21614,
-        21616
+        21616,
+        21617
       ]
     },
     "akhbar_cafenet": {
@@ -289,7 +291,7 @@
       ]
     },
     "jaleb": {
-      "last_id": 52279,
+      "last_id": 52281,
       "processed_ids": [
         52261,
         52262,
@@ -307,7 +309,9 @@
         52276,
         52277,
         52278,
-        52279
+        52279,
+        52280,
+        52281
       ]
     },
     "ajayebe_jahann": {
@@ -2453,7 +2457,8 @@
         "message_id": 186,
         "message_kind": "caption",
         "sources": [
-          "gizmiztel"
+          "gizmiztel",
+          "jaleb"
         ],
         "created_at": "2026-09-17T21:30:45.268555+00:00"
       },
@@ -2876,6 +2881,51 @@
           "ajayebe_jahann"
         ],
         "created_at": "2026-09-18T05:03:45.875668+00:00"
+      },
+      {
+        "fingerprint": "cb863f4302fb5956ce41c967354e09f61656a3bbbd45ee2649fe229a3d29d878",
+        "media_fingerprint": "902be77df53d4fc09f84cff1edfb18d9ecbac6d861f49d534a8849f779aed76a",
+        "text": "🎮\nشطرنج، ولی این بار مهره ها واقعا وارد نبرد میشن!\n📰\nیه بازی مستقل جالب به اسم Pawned Souls ایده عجیبی داره: قوانین و حرکت مهره ها همچنان بر پایه شطرنجه، اما بازی رو به یک تجربه اکشن شبیه Souls تبدیل کرده.\n👀\n📰\nمثلا هر مهره حرکت مخصوص خودش رو حفظ میکنه و حتی در مبارزه هم باید حرکاتش رو مثل یک مهره شطرنج پیش بینی کنی. در کنار اون، دفاع، جاخالی و Parry هم وارد گیم پلی شدن.\n+ حتی سیستم ارتقا و Pawn Promotion هم از قوانین شطرنج الهام گرفته.\n@RoidBest",
+        "original_username": "roidbest",
+        "original_text": "🎮\nشطرنج، ولی این بار مهره ها واقعا وارد نبرد میشن!\n📰\nیه بازی مستقل جالب به اسم Pawned Souls ایده عجیبی داره: قوانین و حرکت مهره ها همچنان بر پایه شطرنجه، اما بازی رو به یک تجربه اکشن شبیه Souls تبدیل کرده.\n👀\n📰\nمثلا هر مهره حرکت مخصوص خودش رو حفظ میکنه و حتی در مبارزه هم باید حرکاتش رو مثل یک مهره شطرنج پیش بینی کنی. در کنار اون، دفاع، جاخالی و Parry هم وارد گیم پلی شدن.\n+ حتی سیستم ارتقا و Pawn Promotion هم از قوانین شطرنج الهام گرفته.\n@RoidBest",
+        "original_link": "https://t.me/RoidBest/21617",
+        "post_id": 21617,
+        "message_id": 219,
+        "message_kind": "caption",
+        "sources": [
+          "roidbest"
+        ],
+        "created_at": "2026-09-18T05:18:47.919079+00:00"
+      },
+      {
+        "fingerprint": "1a614a185d60654d3959aea2407ac13b2b2b198c1788047f608b045c4a646fe6",
+        "media_fingerprint": "e87ed91b9bf7ef9248abfb611fc2be161fb4d95ba04a4031e924517f8d6fdb5d",
+        "text": "♦️\nبرای داشتن شانه‌های هم‌سطح، فقط تمرین کافی نیست؛ باید تمرین درست انجام بدهی\n#ورزش_صبحگاهی\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nبرای داشتن شانه‌های هم‌سطح، فقط تمرین کافی نیست؛ باید تمرین درست انجام بدهی\n#ورزش_صبحگاهی\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/141939",
+        "post_id": 141939,
+        "message_id": 220,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-09-18T05:18:53.166324+00:00"
+      },
+      {
+        "fingerprint": "9b00d435e24cde94e73daddd2a9d4226e3eee7adb81f4077d7f8f19a412ed76b",
+        "media_fingerprint": "77e27aace1d9b8d14be2170839a9836e12d32653855db590469dafc82882fdec",
+        "text": "ادم حسابی به روایت تصویر\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "ادم حسابی به روایت تصویر\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52280",
+        "post_id": 52280,
+        "message_id": 221,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-09-18T05:18:59.944061+00:00"
       }
     ]
   }
