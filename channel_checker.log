@@ -53,7 +53,7 @@ TESTING DESTINATION
 
 [CHECK] @pc_it_mob
 [FETCH] https://t.me/s/pc_it_mob
-[FOUND] @pc_it_mob: 17 posts
+[FOUND] @pc_it_mob: 12 posts
 
 [CHECK] @amozesh_cafenet
 [FETCH] https://t.me/s/amozesh_cafenet
@@ -114,16 +114,28 @@ TESTING DESTINATION
 [CHECK] @etelaate_omoomi
 [FETCH] https://t.me/s/etelaate_omoomi
 [FOUND] @etelaate_omoomi: 20 posts
-[GLOBAL] new candidates=4
+[GLOBAL] new candidates=2
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789749896317.jpg
+[DOWNLOAD OK] /tmp/tg_media_1789750360021.jpg
 [OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789749900524.jpg
-[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
+[DOWNLOAD OK] /tmp/tg_media_1789750364080.jpg
+[OK] عکس 1/6 به صورت فایل تصویری ارسال شد.
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789749904556.jpg
-[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
+[DOWNLOAD OK] /tmp/tg_media_1789750366084.jpg
+[OK] عکس 2/6 به صورت فایل تصویری ارسال شد.
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789750368197.jpg
+[OK] عکس 3/6 به صورت فایل تصویری ارسال شد.
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789750372933.jpg
+[OK] عکس 4/6 به صورت فایل تصویری ارسال شد.
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789750374551.jpg
+[OK] عکس 5/6 به صورت فایل تصویری ارسال شد.
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789750376169.jpg
+[OK] عکس 6/6 به صورت فایل تصویری ارسال شد.
 
 ============================================================
 [FINAL CHAT ID] -1004464275722
