@@ -101,7 +101,7 @@ TESTING DESTINATION
 
 [CHECK] @gizmiztel
 [FETCH] https://t.me/s/gizmiztel
-[FOUND] @gizmiztel: 20 posts
+[FOUND] @gizmiztel: 19 posts
 
 [CHECK] @dr_salamatx
 [FETCH] https://t.me/s/dr_salamatx
@@ -118,13 +118,20 @@ TESTING DESTINATION
 [CHECK] @etelaate_omoomi
 [FETCH] https://t.me/s/etelaate_omoomi
 [FOUND] @etelaate_omoomi: 20 posts
-[GLOBAL] new candidates=3
+[GLOBAL] new candidates=8
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789726831682.jpg
+[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
 [WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789725870349.mp4
+[DOWNLOAD OK] /tmp/tg_media_1789726838403.mp4
 [OK] ویدیو به صورت ویدیو آپلود شد.
 [WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789725876330.mp4
+[DOWNLOAD OK] /tmp/tg_media_1789726845170.mp4
 [OK] ویدیو به صورت ویدیو آپلود شد.
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789726850240.jpg
+[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
+[GLOBAL DUPLICATE] @drtel post=66605 reason=similar text 1.00
 
 ============================================================
 [FINAL CHAT ID] -1004464275722
