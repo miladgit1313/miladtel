@@ -81,7 +81,7 @@ TESTING DESTINATION
 
 [CHECK] @comentiat
 [FETCH] https://t.me/s/comentiat
-[FOUND] @comentiat: 20 posts
+[FOUND] @comentiat: 19 posts
 
 [CHECK] @surina_academy
 [FETCH] https://t.me/s/surina_academy
@@ -118,16 +118,16 @@ TESTING DESTINATION
 [CHECK] @etelaate_omoomi
 [FETCH] https://t.me/s/etelaate_omoomi
 [FOUND] @etelaate_omoomi: 20 posts
-[GLOBAL] new candidates=3
-[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789729440232.mp4
-[OK] ویدیو به صورت ویدیو آپلود شد.
-[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789729447622.mp4
-[OK] ویدیو به صورت ویدیو آپلود شد.
+[GLOBAL] new candidates=6
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789729452758.jpg
+[DOWNLOAD OK] /tmp/tg_media_1789730371968.jpg
 [OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789730378902.jpg
+[OK] عکس 1/2 به صورت فایل تصویری ارسال شد.
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789730381205.jpg
+[OK] عکس 2/2 به صورت فایل تصویری ارسال شد.
 
 ============================================================
 [FINAL CHAT ID] -1004464275722
