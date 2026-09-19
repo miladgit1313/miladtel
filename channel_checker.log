@@ -53,7 +53,7 @@ TESTING DESTINATION
 
 [CHECK] @pc_it_mob
 [FETCH] https://t.me/s/pc_it_mob
-[FOUND] @pc_it_mob: 15 posts
+[FOUND] @pc_it_mob: 12 posts
 
 [CHECK] @amozesh_cafenet
 [FETCH] https://t.me/s/amozesh_cafenet
@@ -122,10 +122,18 @@ TESTING DESTINATION
 [CHECK] @scienticnews
 [FETCH] https://t.me/s/scienticnews
 [FOUND] @scienticnews: 15 posts
-[GLOBAL] new candidates=1
-[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789798211414.jpg
-[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
+
+[CHECK] @footballvision2
+[FETCH] https://t.me/s/footballvision2
+[FOUND] @footballvision2: 19 posts
+[INIT] @footballvision2 baseline=168857
+
+[CHECK] @total_fut
+[FETCH] https://t.me/s/total_fut
+[FOUND] @total_fut: 19 posts
+[INIT] @total_fut baseline=236405
+[GLOBAL] new candidates=2
+[GLOBAL DUPLICATE] @sabtnamkh0dro post=14168 reason=similar text 1.00
 
 ============================================================
 [FINAL CHAT ID] -1004464275722
