@@ -122,13 +122,7 @@ TESTING DESTINATION
 [CHECK] @scienticnews
 [FETCH] https://t.me/s/scienticnews
 [FOUND] @scienticnews: 14 posts
-[GLOBAL] new candidates=2
-[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789775601613.mp4
-[OK] ویدیو به صورت ویدیو آپلود شد.
-[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789775611012.mp4
-[OK] ویدیو به صورت ویدیو آپلود شد.
+[GLOBAL] new candidates=0
 
 ============================================================
 [FINAL CHAT ID] -1004464275722
