@@ -2,7 +2,7 @@
 ============================================================
 TELEGRAM PUBLIC CHANNEL FORWARDER
 ============================================================
-[INFO] تعداد کانال‌ها: 30
+[INFO] تعداد کانال‌ها: 31
 [INFO] مقصد فعلی: -1004464275722
 
 ============================================================
@@ -138,10 +138,15 @@ TESTING DESTINATION
 [CHECK] @varzesh3
 [FETCH] https://t.me/s/varzesh3
 [FOUND] @varzesh3: 19 posts
-[INIT] @varzesh3 baseline=302363
-[GLOBAL] new candidates=3
+[GLOBAL] new candidates=4
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789799805837.jpg
+[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789799810395.jpg
+[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
 [WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789799336681.mp4
+[DOWNLOAD OK] /tmp/tg_media_1789799816483.mp4
 [OK] ویدیو به صورت ویدیو آپلود شد.
 
 ============================================================
