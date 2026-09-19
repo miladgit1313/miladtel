@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 141990,
+      "last_id": 141991,
       "processed_ids": [
         141903,
         141904,
@@ -87,7 +87,8 @@
         141987,
         141988,
         141989,
-        141990
+        141990,
+        141991
       ]
     },
     "total_fut": {
@@ -612,9 +613,10 @@
       ]
     },
     "scienticnews": {
-      "last_id": 22458,
+      "last_id": 22459,
       "processed_ids": [
-        22458
+        22458,
+        22459
       ]
     }
   },
@@ -6473,6 +6475,21 @@
           "roidbest"
         ],
         "created_at": "2026-09-19T04:19:37.351493+00:00"
+      },
+      {
+        "fingerprint": "ccec3d9217b493156584046e19cfaf044da623a60ffc574f0f766a985304faed",
+        "media_fingerprint": "",
+        "text": "⭕️\nفقط زود جوین بشید چون تا 2 ساعت دیگه حذف میشه لینکش.",
+        "original_username": "scienticnews",
+        "original_text": "⭕️\nفقط زود جوین بشید چون تا 2 ساعت دیگه حذف میشه لینکش.",
+        "original_link": "https://t.me/ScienticNews/22459",
+        "post_id": 22459,
+        "message_id": 465,
+        "message_kind": "text",
+        "sources": [
+          "scienticnews"
+        ],
+        "created_at": "2026-09-19T04:31:28.181363+00:00"
       }
     ]
   }
