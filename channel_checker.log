@@ -124,9 +124,11 @@ TESTING DESTINATION
 [FOUND] @scienticnews: 15 posts
 [GLOBAL] new candidates=2
 [WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[ERROR] ارسال عکس: 500 Server Error: Internal Server Error for url: https://cdn4.telesco.pe/file/X6xhRLi4UI5fnwDLDQF92ZvkFuacrso4G8uOp31YrstkSxR17BpQgRRzGKX2ZdQWl4QXc4pId9KTU2MmJPetiAIx3NqgXkPXvy2oMqBm5GWS7LcoXnzsZx7Y4wOPiCTn51UAc1QBWzYC9P3F0FYFcvl9JnSC46SyKvmpNdXLYuDVtm_KVjvIHsI6Cm9lFOuRn70jVjm-Bezbc7VeER9oB_gBKQjDCwQUt5-HSDdDXwcNm4RgHPobACaSIV-96Fc72dQxC2GeX3OEFKRVKk8o8ziSeN96-lcg42DVMf-ZfcynOdeWHdL0mmmRz13RA9t9POW0PxJqBwo6PBmGIWBO4g.jpg
-[FAILED] @coffeenetmanager post=51550
-[STATE] این پست عمداً پردازش‌شده ثبت نشد تا اجرای بعدی دوباره تلاش کند.
+[DOWNLOAD OK] /tmp/tg_media_1789795109546.jpg
+[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
+[WARN] ارسال مستقیم ویدیو: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789795114763.mp4
+[OK] ویدیو به صورت ویدیو آپلود شد.
 
 ============================================================
 [FINAL CHAT ID] -1004464275722
