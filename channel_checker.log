@@ -53,7 +53,7 @@ TESTING DESTINATION
 
 [CHECK] @pc_it_mob
 [FETCH] https://t.me/s/pc_it_mob
-[FOUND] @pc_it_mob: 14 posts
+[FOUND] @pc_it_mob: 15 posts
 
 [CHECK] @amozesh_cafenet
 [FETCH] https://t.me/s/amozesh_cafenet
@@ -122,8 +122,18 @@ TESTING DESTINATION
 [CHECK] @scienticnews
 [FETCH] https://t.me/s/scienticnews
 [FOUND] @scienticnews: 15 posts
-[GLOBAL] new candidates=2
-[GLOBAL DUPLICATE] @akhbarfars post=141991 reason=similar text 0.92
+[GLOBAL] new candidates=6
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789793101785.jpg
+[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
+[GLOBAL DUPLICATE] @pc_it_mob post=11846 reason=exact content
+[SOURCE UPDATED] +@pc_it_mob
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789793108532.jpg
+[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
+[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
+[DOWNLOAD OK] /tmp/tg_media_1789793112668.jpg
+[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
 
 ============================================================
 [FINAL CHAT ID] -1004464275722
