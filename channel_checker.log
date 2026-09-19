@@ -2,7 +2,7 @@
 ============================================================
 TELEGRAM PUBLIC CHANNEL FORWARDER
 ============================================================
-[INFO] تعداد کانال‌ها: 27
+[INFO] تعداد کانال‌ها: 29
 [INFO] مقصد فعلی: -1004464275722
 
 ============================================================
@@ -126,14 +126,16 @@ TESTING DESTINATION
 [CHECK] @footballvision2
 [FETCH] https://t.me/s/footballvision2
 [FOUND] @footballvision2: 19 posts
-[INIT] @footballvision2 baseline=168857
 
 [CHECK] @total_fut
 [FETCH] https://t.me/s/total_fut
 [FOUND] @total_fut: 19 posts
-[INIT] @total_fut baseline=236405
+
+[CHECK] @ft360_ir
+[FETCH] https://t.me/s/ft360_ir
+[FOUND] @ft360_ir: 18 posts
+[INIT] @ft360_ir baseline=107883
 [GLOBAL] new candidates=2
-[GLOBAL DUPLICATE] @sabtnamkh0dro post=14168 reason=similar text 1.00
 
 ============================================================
 [FINAL CHAT ID] -1004464275722
