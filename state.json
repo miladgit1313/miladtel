@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 141999,
+      "last_id": 142000,
       "processed_ids": [
         141903,
         141904,
@@ -96,7 +96,8 @@
         141996,
         141997,
         141998,
-        141999
+        141999,
+        142000
       ]
     },
     "total_fut": {
@@ -106,7 +107,7 @@
       ]
     },
     "footballvision2": {
-      "last_id": 168863,
+      "last_id": 168866,
       "processed_ids": [
         168857,
         168858,
@@ -114,7 +115,10 @@
         168860,
         168861,
         168862,
-        168863
+        168863,
+        168864,
+        168865,
+        168866
       ]
     },
     "tg_ir": {
@@ -587,7 +591,7 @@
       ]
     },
     "ajayebe_jahann": {
-      "last_id": 159001,
+      "last_id": 159002,
       "processed_ids": [
         158956,
         158957,
@@ -634,7 +638,8 @@
         158998,
         158999,
         159000,
-        159001
+        159001,
+        159002
       ]
     },
     "etelaate_omoomi": {
@@ -677,10 +682,17 @@
       ]
     },
     "varzesh3": {
-      "last_id": 302364,
+      "last_id": 302365,
       "processed_ids": [
         302363,
-        302364
+        302364,
+        302365
+      ]
+    },
+    "totalfut_plus": {
+      "last_id": 25870,
+      "processed_ids": [
+        25870
       ]
     }
   },
@@ -7156,6 +7168,36 @@
           "akhbar_cafenet"
         ],
         "created_at": "2026-09-19T06:59:04.945548+00:00"
+      },
+      {
+        "fingerprint": "ad2ebfdebd7058adad2c334b70a1bf4ca354586061e1f907fa1a2892f3e1feda",
+        "media_fingerprint": "34a2cdbd417dac685c636b953feb3d1ba7b989c03907df3fce3ea3bd8a9e7f82",
+        "text": "🔻\nنصب دوربین روی لاک‌پشت، سفری دیدنی به اعماق آب\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "🔻\nنصب دوربین روی لاک‌پشت، سفری دیدنی به اعماق آب\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/159002",
+        "post_id": 159002,
+        "message_id": 508,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-09-19T07:10:05.534503+00:00"
+      },
+      {
+        "fingerprint": "a66a5bdf995b0ffb0b6f8f0a11e261211ef8c8b812573a944eda2a718530cba3",
+        "media_fingerprint": "",
+        "text": "♦️\nپدر شهید هلما سادات احمدی زاده: از همه دوستان سینمایی می‌خواهم خبر فاجعه لامرد را هم به گوش دنیا برسانند این خبر کمتر از فاجعه مدرسه میناب نبود\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nپدر شهید هلما سادات احمدی زاده: از همه دوستان سینمایی می‌خواهم خبر فاجعه لامرد را هم به گوش دنیا برسانند این خبر کمتر از فاجعه مدرسه میناب نبود\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142000",
+        "post_id": 142000,
+        "message_id": 509,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-09-19T07:10:08.191956+00:00"
       }
     ]
   }
