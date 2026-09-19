@@ -122,14 +122,7 @@ TESTING DESTINATION
 [CHECK] @scienticnews
 [FETCH] https://t.me/s/scienticnews
 [FOUND] @scienticnews: 14 posts
-[GLOBAL] new candidates=3
-[FILTERED] @comentiat post=25884 pattern=شرط[\s\u200c\u200d_ـ\-]*بندی
-[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789780732655.jpg
-[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
-[WARN] ارسال مستقیم عکس: Telegram API error 400: Bad Request: failed to get HTTP URL content
-[DOWNLOAD OK] /tmp/tg_media_1789780737075.jpg
-[OK] عکس 1/1 به صورت فایل تصویری ارسال شد.
+[GLOBAL] new candidates=0
 
 ============================================================
 [FINAL CHAT ID] -1004464275722
