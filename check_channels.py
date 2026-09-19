@@ -15,6 +15,7 @@ ENV_CHAT_ID = os.environ["CHAT_ID"].strip()
 OWNER_ID = int(os.environ["OWNER_ID"])
 
 CHANNELS_FILE = "channels.json"
+CHANNEL_KEYWORDS_FILE = "channel_keywords.json"
 STATE_FILE = "state.json"
 BOT_STATE_FILE = "bot_state.json"
 
@@ -118,6 +119,26 @@ def is_filtered(text):
             return True, pattern
 
     return False, None
+
+
+def channel_keyword_ok(username, text, channel_keywords):
+    """
+    اگر این کانال هیچ کلمه‌ی فیلتری نداشته باشد، همه‌چیز مجاز است.
+    اگر داشته باشد، فقط وقتی مجاز است که حداقل یکی از کلمه‌ها
+    توی متن پست باشد.
+    """
+    required_words = channel_keywords.get(username, [])
+
+    if not required_words:
+        return True
+
+    normalized = normalize_text(text)
+
+    for word in required_words:
+        if normalize_text(word) in normalized:
+            return True
+
+    return False
 
 
 def update_chat_id(new_id):
@@ -913,11 +934,18 @@ HELP_TEXT = (
     "/remove username - حذف کانال\n"
     "/list - لیست کانال‌ها\n"
     "/id - نمایش شناسه چت فعلی\n"
+    "\n"
+    "فیلتر کلمه (فقط روی یک کانال خاص):\n"
+    "/addword username کلمه - این کانال فقط پست‌های حاوی این کلمه رو بفرسته\n"
+    "/removeword username کلمه - حذف یک کلمه از فیلتر این کانال\n"
+    "/clearword username - حذف کامل فیلتر این کانال (دوباره همه‌چیز بیاد)\n"
+    "/words - نمایش همه‌ی فیلترهای فعال\n"
+    "\n"
     "/help - راهنما"
 )
 
 
-def handle_updates(channels, bot_state):
+def handle_updates(channels, channel_keywords, bot_state):
     offset = int(
         bot_state.get(
             "last_update_id",
@@ -941,7 +969,7 @@ def handle_updates(channels, bot_state):
         print(
             f"[WARN] getUpdates: {e}"
         )
-        return channels, bot_state
+        return channels, channel_keywords, bot_state
 
     for update in updates:
         bot_state["last_update_id"] = (
@@ -1083,6 +1111,144 @@ def handle_updates(channels, bot_state):
                 message_text
             )
 
+        elif command == "/addword":
+            sub_parts = argument.split(maxsplit=1)
+
+            if len(sub_parts) < 2:
+                send_message_to_chat(
+                    chat_id,
+                    "مثال:\n/addword varzesh3 پرسپولیس"
+                )
+                continue
+
+            word_username = (
+                sub_parts[0]
+                .lstrip("@")
+                .strip()
+                .lower()
+            )
+            word = sub_parts[1].strip()
+
+            words = channel_keywords.setdefault(
+                word_username,
+                []
+            )
+
+            if word in words:
+                send_message_to_chat(
+                    chat_id,
+                    f"⚠️ «{word}» از قبل روی @{word_username} فعاله."
+                )
+                continue
+
+            words.append(word)
+
+            tracked = [
+                c.lower().lstrip("@")
+                for c in channels
+            ]
+
+            note = (
+                ""
+                if word_username in tracked
+                else (
+                    "\n⚠️ توجه: این کانال هنوز با /add "
+                    "اضافه نشده، اول اضافه‌اش کن."
+                )
+            )
+
+            send_message_to_chat(
+                chat_id,
+                f"✅ فیلتر «{word}» روی @{word_username} فعال شد.{note}"
+            )
+
+        elif command == "/removeword":
+            sub_parts = argument.split(maxsplit=1)
+
+            if len(sub_parts) < 2:
+                send_message_to_chat(
+                    chat_id,
+                    "مثال:\n/removeword varzesh3 پرسپولیس"
+                )
+                continue
+
+            word_username = (
+                sub_parts[0]
+                .lstrip("@")
+                .strip()
+                .lower()
+            )
+            word = sub_parts[1].strip()
+
+            words = channel_keywords.get(
+                word_username,
+                []
+            )
+
+            if word in words:
+                words.remove(word)
+
+                if not words:
+                    channel_keywords.pop(
+                        word_username,
+                        None
+                    )
+
+                send_message_to_chat(
+                    chat_id,
+                    f"🗑 «{word}» از فیلتر @{word_username} حذف شد."
+                )
+            else:
+                send_message_to_chat(
+                    chat_id,
+                    "همچین کلمه‌ای روی این کانال فعال نیست."
+                )
+
+        elif command == "/clearword":
+            word_username = (
+                argument
+                .lstrip("@")
+                .strip()
+                .lower()
+            )
+
+            if word_username in channel_keywords:
+                channel_keywords.pop(
+                    word_username,
+                    None
+                )
+                send_message_to_chat(
+                    chat_id,
+                    f"🗑 فیلتر @{word_username} کامل حذف شد "
+                    "(الان همه‌چیزش میاد)."
+                )
+            else:
+                send_message_to_chat(
+                    chat_id,
+                    "این کانال فیلتری نداشت."
+                )
+
+        elif command == "/words":
+            if channel_keywords:
+                lines = [
+                    f"• @{uname}: " + "، ".join(words)
+                    for uname, words in channel_keywords.items()
+                    if words
+                ]
+
+                message_text = (
+                    "🏷 فیلترهای فعال:\n\n" + "\n".join(lines)
+                    if lines
+                    else "هیچ فیلتری فعال نیست."
+                )
+            else:
+                message_text = "هیچ فیلتری فعال نیست."
+
+            send_message_to_chat(
+                chat_id,
+                message_text
+            )
+
         else:
             send_message_to_chat(
                 chat_id,
@@ -1090,7 +1256,7 @@ def handle_updates(channels, bot_state):
                 + HELP_TEXT
             )
 
-    return channels, bot_state
+    return channels, channel_keywords, bot_state
 
 
 def send_message_to_chat(chat_id, text):
@@ -1298,7 +1464,7 @@ def add_history(
     del history[:-MAX_GLOBAL_HISTORY]
 
 
-def check_channels(channels, state):
+def check_channels(channels, channel_keywords, state):
     channel_states = state["channels"]
     history = state["global"]["history"]
 
@@ -1435,6 +1601,28 @@ def check_channels(channels, state):
 
             continue
 
+        if not channel_keyword_ok(
+            username,
+            post.get("text", ""),
+            channel_keywords
+        ):
+            print(
+                f"[KEYWORD SKIP] @{username} "
+                f"post={post_id}"
+            )
+
+            mark_processed(
+                channel_state,
+                post_id
+            )
+
+            save_json(
+                STATE_FILE,
+                state
+            )
+
+            continue
+
         duplicate, reason = find_duplicate(
             post,
             history
@@ -1514,6 +1702,11 @@ def main():
         []
     )
 
+    channel_keywords = load_json(
+        CHANNEL_KEYWORDS_FILE,
+        {}
+    )
+
     state = normalize_state(
         load_json(
             STATE_FILE,
@@ -1558,13 +1751,15 @@ def main():
         )
         return
 
-    channels, bot_state = handle_updates(
+    channels, channel_keywords, bot_state = handle_updates(
         channels,
+        channel_keywords,
         bot_state
     )
 
     state = check_channels(
         channels,
+        channel_keywords,
         state
     )
 
@@ -1575,6 +1770,11 @@ def main():
     save_json(
         CHANNELS_FILE,
         channels
+    )
+
+    save_json(
+        CHANNEL_KEYWORDS_FILE,
+        channel_keywords
     )
 
     save_json(
