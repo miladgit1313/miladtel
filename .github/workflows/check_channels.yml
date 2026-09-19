@@ -1,109 +1,43 @@
-name: Check Telegram Channels
+name: Telegram Channel Watcher Bot
 
 on:
   schedule:
     - cron: "*/10 * * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-concurrency:
-  group: telegram-channel-checker
-  cancel-in-progress: false
+  workflow_dispatch: {}
 
 jobs:
-  check-channels:
+  run:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          ref: ${{ github.ref_name }}
+      - uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests beautifulsoup4
+        run: pip install requests beautifulsoup4
 
-      - name: Check Python syntax
-        run: |
-          echo "=========================================="
-          echo "CHECK PYTHON SYNTAX"
-          echo "=========================================="
-          python --version
-          python -m py_compile check_channels.py
-          echo "[OK] Python syntax is valid."
-
-      - name: Run channel checker
-        shell: bash
+      - name: Run bot
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
           OWNER_ID: ${{ secrets.OWNER_ID }}
-        run: |
-          set -o pipefail
+        run: python check_channels.py 2>&1 | tee run_log.txt
 
-          echo "=========================================="
-          echo "START CHANNEL CHECKER"
-          echo "=========================================="
-
-          python -u check_channels.py 2>&1 | tee channel_checker.log
-
-          EXIT_CODE=${PIPESTATUS[0]}
-
-          echo "=========================================="
-          echo "CHANNEL CHECKER EXIT CODE: ${EXIT_CODE}"
-          echo "=========================================="
-
-          exit ${EXIT_CODE}
-
-      - name: Save state files
+      - name: Upload log
         if: always()
-        shell: bash
+        uses: actions/upload-artifact@v4
+        with:
+          name: run-log
+          path: run_log.txt
+
+      - name: Commit updated state
         run: |
-          set -e
-
-          echo "=========================================="
-          echo "SAVE STATE FILES"
-          echo "=========================================="
-
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          echo "[INFO] Branch: ${GITHUB_REF_NAME}"
-          echo "[INFO] Commit before changes:"
-          git rev-parse HEAD
-
-          echo "[INFO] Git status before add:"
-          git status --short
-
-          echo "[INFO] Adding state files..."
-          git add channels.json state.json bot_state.json channel_checker.log
-
-          echo "[INFO] Git status after add:"
-          git status --short
-
-          if git diff --cached --quiet; then
-            echo "[INFO] No state changes to commit."
-            exit 0
-          fi
-
-          echo "[INFO] Creating commit..."
-          git commit -m "Update bot state"
-
-          echo "[INFO] Commit created:"
-          git rev-parse HEAD
-
-          echo "[INFO] Pushing to branch: ${GITHUB_REF_NAME}"
-
-          git push origin "HEAD:${GITHUB_REF_NAME}"
-
-          echo "[OK] State files pushed successfully."
+          git config user.name "channel-watcher-bot"
+          git config user.email "actions@github.com"
+          git add channels.json channel_keywords.json state.json bot_state.json
+          git diff --staged --quiet || git commit -m "update state"
+          git push
