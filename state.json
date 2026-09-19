@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142037,
+      "last_id": 142038,
       "processed_ids": [
         141903,
         141904,
@@ -133,11 +133,12 @@
         142034,
         142035,
         142036,
-        142037
+        142037,
+        142038
       ]
     },
     "total_fut": {
-      "last_id": 236454,
+      "last_id": 236458,
       "processed_ids": [
         236405,
         236407,
@@ -183,7 +184,9 @@
         236451,
         236452,
         236453,
-        236454
+        236454,
+        236456,
+        236458
       ]
     },
     "footballvision2": {
@@ -416,7 +419,7 @@
       ]
     },
     "pc_it_mob": {
-      "last_id": 11854,
+      "last_id": 11856,
       "processed_ids": [
         11816,
         11817,
@@ -446,7 +449,9 @@
         11851,
         11852,
         11853,
-        11854
+        11854,
+        11855,
+        11856
       ]
     },
     "thezoomit": {
@@ -944,7 +949,7 @@
       ]
     },
     "ft360_ir": {
-      "last_id": 107939,
+      "last_id": 107940,
       "processed_ids": [
         107883,
         107884,
@@ -1000,11 +1005,12 @@
         107936,
         107937,
         107938,
-        107939
+        107939,
+        107940
       ]
     },
     "varzesh3": {
-      "last_id": 302412,
+      "last_id": 302414,
       "processed_ids": [
         302363,
         302364,
@@ -1047,7 +1053,9 @@
         302408,
         302410,
         302411,
-        302412
+        302412,
+        302413,
+        302414
       ]
     },
     "totalfut_plus": {
@@ -1077,7 +1085,7 @@
       ]
     },
     "adak_ir_official": {
-      "last_id": 233857,
+      "last_id": 233858,
       "processed_ids": [
         233831,
         233833,
@@ -1104,7 +1112,8 @@
         233854,
         233855,
         233856,
-        233857
+        233857,
+        233858
       ]
     },
     "futball180tv": {
@@ -1150,6 +1159,18 @@
         106886,
         106887,
         106888
+      ]
+    },
+    "hattric_official": {
+      "last_id": 83433,
+      "processed_ids": [
+        83433
+      ]
+    },
+    "mazdak_hattrick": {
+      "last_id": 181991,
+      "processed_ids": [
+        181991
       ]
     }
   },
@@ -8992,7 +9013,8 @@
         "message_id": 598,
         "message_kind": "caption",
         "sources": [
-          "roidbest"
+          "roidbest",
+          "pc_it_mob"
         ],
         "created_at": "2026-09-19T11:29:02.040672+00:00"
       },
@@ -10423,6 +10445,21 @@
           "total_fut"
         ],
         "created_at": "2026-09-19T16:44:43.551782+00:00"
+      },
+      {
+        "fingerprint": "c2e52667c6bea0971c9ec4e75f2e12c6b02751b866b1829894c0c745e96645dd",
+        "media_fingerprint": "10d3a58b2437c53554bab87af64801c21f5a9e45f0e3fb4d1b844ed6f0f1d3f5",
+        "text": "♦️\nهم اکنون وضعیت ترافیک در شیراز\n#ترافیک\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nهم اکنون وضعیت ترافیک در شیراز\n#ترافیک\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142038",
+        "post_id": 142038,
+        "message_id": 695,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-09-19T16:53:25.743278+00:00"
       }
     ]
   }
