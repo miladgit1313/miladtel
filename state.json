@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142085,
+      "last_id": 142086,
       "processed_ids": [
         141903,
         141904,
@@ -176,12 +176,13 @@
         142082,
         142083,
         142084,
-        142085
+        142085,
+        142086
       ],
-      "sent_count": 18
+      "sent_count": 19
     },
     "total_fut": {
-      "last_id": 236486,
+      "last_id": 236488,
       "processed_ids": [
         236405,
         236407,
@@ -257,7 +258,9 @@
         236483,
         236484,
         236485,
-        236486
+        236486,
+        236487,
+        236488
       ],
       "sent_count": 0
     },
@@ -811,7 +814,7 @@
       "sent_count": 11
     },
     "comentiat": {
-      "last_id": 25913,
+      "last_id": 25917,
       "processed_ids": [
         25844,
         25845,
@@ -872,9 +875,12 @@
         25909,
         25911,
         25912,
-        25913
+        25913,
+        25915,
+        25916,
+        25917
       ],
-      "sent_count": 3
+      "sent_count": 5
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -1254,7 +1260,7 @@
       "sent_count": 0
     },
     "noor_agahi9775": {
-      "last_id": 7317,
+      "last_id": 7318,
       "processed_ids": [
         7294,
         7295,
@@ -1279,7 +1285,8 @@
         7314,
         7315,
         7316,
-        7317
+        7317,
+        7318
       ],
       "sent_count": 4
     },
@@ -1298,7 +1305,7 @@
       "sent_count": 3
     },
     "ft360_ir": {
-      "last_id": 107993,
+      "last_id": 107995,
       "processed_ids": [
         107883,
         107884,
@@ -1406,12 +1413,13 @@
         107989,
         107991,
         107992,
-        107993
+        107993,
+        107995
       ],
       "sent_count": 3
     },
     "varzesh3": {
-      "last_id": 302460,
+      "last_id": 302461,
       "processed_ids": [
         302363,
         302364,
@@ -1496,7 +1504,8 @@
         302455,
         302456,
         302457,
-        302460
+        302460,
+        302461
       ],
       "sent_count": 1
     },
@@ -1703,7 +1712,7 @@
       "sent_count": 0
     },
     "hattric_official": {
-      "last_id": 83465,
+      "last_id": 83467,
       "processed_ids": [
         83433,
         83434,
@@ -1733,7 +1742,8 @@
         83462,
         83463,
         83464,
-        83465
+        83465,
+        83467
       ],
       "sent_count": 0
     },
@@ -14299,6 +14309,51 @@
           "akhbarfars"
         ],
         "created_at": "2026-09-20T11:04:24.082923+00:00"
+      },
+      {
+        "fingerprint": "e26699a07bc92ca734786c52997cd17267bf2028608eaf9c9486912c28a8b887",
+        "media_fingerprint": "9ba50bafc21da837c9d935b36116f38556bd797dc05765ef6d43ed305e97a32e",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/25916",
+        "post_id": 25916,
+        "message_id": 951,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-09-20T11:18:35.634857+00:00"
+      },
+      {
+        "fingerprint": "6a958d5f962af5662dd2b22f9c61ff920bcbba7a784430268997d931d92ffa63",
+        "media_fingerprint": "702ea6d8a265a0303c53d6ee06a50db30057ac07b077785720b2eaf3aadcae67",
+        "text": "بعد هی بگین دخترا پر توقع آن!!!!\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "بعد هی بگین دخترا پر توقع آن!!!!\n@comentiat",
+        "original_link": "https://t.me/Comentiat/25917",
+        "post_id": 25917,
+        "message_id": 952,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-09-20T11:18:39.353081+00:00"
+      },
+      {
+        "fingerprint": "248f6999e3149b60cfa4d48146ffdcf1fe633a5a10b9949b43595ed8b31e5bb7",
+        "media_fingerprint": "",
+        "text": "♦️\nهشدار قرارگاه مرکزی حضرت خاتم‌الانبیا (ص) به آمریکا و کشورهای منطقه: خطا کنید هدف حملات دردناک قرار خواهید گرفت\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nهشدار قرارگاه مرکزی حضرت خاتم‌الانبیا (ص) به آمریکا و کشورهای منطقه: خطا کنید هدف حملات دردناک قرار خواهید گرفت\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142086",
+        "post_id": 142086,
+        "message_id": 953,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-09-20T11:18:42.067742+00:00"
       }
     ]
   }
