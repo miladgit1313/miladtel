@@ -209,7 +209,7 @@
       "sent_count": 45
     },
     "total_fut": {
-      "last_id": 236509,
+      "last_id": 236511,
       "processed_ids": [
         236405,
         236407,
@@ -308,7 +308,9 @@
         236506,
         236507,
         236508,
-        236509
+        236509,
+        236510,
+        236511
       ],
       "sent_count": 0
     },
@@ -568,7 +570,7 @@
       "sent_count": 2
     },
     "drtel": {
-      "last_id": 66717,
+      "last_id": 66719,
       "processed_ids": [
         66561,
         66565,
@@ -672,9 +674,11 @@
         66714,
         66715,
         66716,
-        66717
+        66717,
+        66718,
+        66719
       ],
-      "sent_count": 21
+      "sent_count": 23
     },
     "techtube": {
       "last_id": 18295,
@@ -1123,7 +1127,7 @@
       "sent_count": 6
     },
     "gizmiztel": {
-      "last_id": 162026,
+      "last_id": 162032,
       "processed_ids": [
         161872,
         161875,
@@ -1267,9 +1271,15 @@
         162022,
         162023,
         162024,
-        162026
+        162026,
+        162027,
+        162028,
+        162029,
+        162030,
+        162031,
+        162032
       ],
-      "sent_count": 24
+      "sent_count": 29
     },
     "dr_salamatx": {
       "last_id": 55283,
@@ -1537,7 +1547,7 @@
       "sent_count": 10
     },
     "scienticnews": {
-      "last_id": 22466,
+      "last_id": 22468,
       "processed_ids": [
         22458,
         22459,
@@ -1547,9 +1557,11 @@
         22463,
         22464,
         22465,
-        22466
+        22466,
+        22467,
+        22468
       ],
-      "sent_count": 4
+      "sent_count": 5
     },
     "ft360_ir": {
       "last_id": 108063,
@@ -16766,6 +16778,126 @@
           "techtube"
         ],
         "created_at": "2026-09-20T18:37:53.937198+00:00"
+      },
+      {
+        "fingerprint": "f6e266c976917e2fe13b036a5091925a5f2f8ecec274eed8a71b38ae7f5a2420",
+        "media_fingerprint": "",
+        "text": "امکان داره زمانی که مقامات توی نیویورک هستن آمریکا حمله کنه؟ و اونارو به اسارت بگیره؟",
+        "original_username": "drtel",
+        "original_text": "امکان داره زمانی که مقامات توی نیویورک هستن آمریکا حمله کنه؟ و اونارو به اسارت بگیره؟",
+        "original_link": "https://t.me/drtel/66718",
+        "post_id": 66718,
+        "message_id": 1083,
+        "message_kind": "text",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-09-20T18:46:20.134811+00:00"
+      },
+      {
+        "fingerprint": "1b6113018692290d10a93b9359c0b3f7bcd6793ed23ba884fb8df74eda65f1aa",
+        "media_fingerprint": "ad452b0f3f5a2d0375db71220470d77feb805f20b736782224cfcd9ace599574",
+        "text": "این بار ساده‌تر و اصولی‌تر با لینگانو ادامه بده!\n📕\n📍\nدسترسی نامحدود به دوره‌ها\n📍\nپنل اختصاصی در سایت و اپلیکیشن\n📍\nتعیین سطح و مشاوره اختصاصی\nدوره جامع لینگانو با ۷۵٪ تخفیف و پرداخت ۴ قسطه اسنپ‌پی؛ برای مشاوره تخصصی و ثبت نام دوره، همین حالا به مشاور پیام بده.\n👇🏻\n👇🏻\n👇🏻\n👇🏻\n👇🏻\n👇🏻\n@Linganosupport\n@Linganosupport",
+        "original_username": "scienticnews",
+        "original_text": "این بار ساده‌تر و اصولی‌تر با لینگانو ادامه بده!\n📕\n📍\nدسترسی نامحدود به دوره‌ها\n📍\nپنل اختصاصی در سایت و اپلیکیشن\n📍\nتعیین سطح و مشاوره اختصاصی\nدوره جامع لینگانو با ۷۵٪ تخفیف و پرداخت ۴ قسطه اسنپ‌پی؛ برای مشاوره تخصصی و ثبت نام دوره، همین حالا به مشاور پیام بده.\n👇🏻\n👇🏻\n👇🏻\n👇🏻\n👇🏻\n👇🏻\n@Linganosupport\n@Linganosupport",
+        "original_link": "https://t.me/ScienticNews/22468",
+        "post_id": 22468,
+        "message_id": 1084,
+        "message_kind": "caption",
+        "sources": [
+          "scienticnews"
+        ],
+        "created_at": "2026-09-20T18:46:24.581387+00:00"
+      },
+      {
+        "fingerprint": "f769442bd65e0555c709e110f8563edd7b6f388321c380941b62a8e885e7b92e",
+        "media_fingerprint": "",
+        "text": "نیما جان اگه حرف نزنی نمیگیم لالی",
+        "original_username": "drtel",
+        "original_text": "نیما جان اگه حرف نزنی نمیگیم لالی",
+        "original_link": "https://t.me/drtel/66719",
+        "post_id": 66719,
+        "message_id": 1085,
+        "message_kind": "text",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-09-20T18:46:27.058475+00:00"
+      },
+      {
+        "fingerprint": "c41c53b20950494606b046d1a32f24722d53ac42e529d87af70506d4a0860b9c",
+        "media_fingerprint": "19c5bf9322f4f829f534247dffa778221487fece755923dad392640fdbc147d1",
+        "text": "نمایشگاه بین المللی شکلات و شیرینی سوربن\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "نمایشگاه بین المللی شکلات و شیرینی سوربن\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162027",
+        "post_id": 162027,
+        "message_id": 1086,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-09-20T18:46:32.811252+00:00"
+      },
+      {
+        "fingerprint": "e4fb3b311dba9fa69d312749aa8f00238c6d9efc7d3441644ea8877857d12204",
+        "media_fingerprint": "b8d37aa66bb9f49d6bb598bf43dbcf0907aeb3877d371d892ab1849cad180477",
+        "text": "تصاویری از تولید ادویه تقلبی با ضایعات و نان خشک\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "تصاویری از تولید ادویه تقلبی با ضایعات و نان خشک\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162028",
+        "post_id": 162028,
+        "message_id": 1087,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-09-20T18:46:38.042882+00:00"
+      },
+      {
+        "fingerprint": "046ab1f6d4e75b72e591a0b2254fd73bf8893dd4643dd83efedb274685c5e5dd",
+        "media_fingerprint": "67c17c3dafadc645c7edbd5f137f0fa78f9105f28d75d6f5a85c15d36e93fe8a",
+        "text": "وضعیت خاورمیانه، اروپا و امریکا در ۳۶ ثانیه\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "وضعیت خاورمیانه، اروپا و امریکا در ۳۶ ثانیه\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162030",
+        "post_id": 162030,
+        "message_id": 1088,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-09-20T18:46:43.260014+00:00"
+      },
+      {
+        "fingerprint": "e99b4fc818b7fb4b1b005c1e451cd4ca7e980d6342f66283f2e67a640a7bdb7c",
+        "media_fingerprint": "9f0739d0ec63305ef24a857f644d5daf713585c59be1a62e8857cbf18066d544",
+        "text": "انگشتر ۶۳ کیلویی طلا که ساخت کشور عربستان سعودی است!\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "انگشتر ۶۳ کیلویی طلا که ساخت کشور عربستان سعودی است!\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162031",
+        "post_id": 162031,
+        "message_id": 1089,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-09-20T18:46:48.197557+00:00"
+      },
+      {
+        "fingerprint": "76ff81ec0cdd13890578fa850aa5b14fa09a927b6af1f561eb19ab566247a651",
+        "media_fingerprint": "186556221f00eac9bdee962dc91d74e8a1d0449ce4beaebbb8cb56d5a8bf9a33",
+        "text": "🦍\nکیوماسا، گوریل نر ۱۳ ساله در باغ‌وحش ناگویا، پس از یک درگیری لفظی با ماده‌ها، به مدت طولانی در حالت سکوت و بی‌حرکتی نشست.\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "🦍\nکیوماسا، گوریل نر ۱۳ ساله در باغ‌وحش ناگویا، پس از یک درگیری لفظی با ماده‌ها، به مدت طولانی در حالت سکوت و بی‌حرکتی نشست.\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162032",
+        "post_id": 162032,
+        "message_id": 1090,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-09-20T18:46:53.754686+00:00"
       }
     ]
   }
