@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142097,
+      "last_id": 142098,
       "processed_ids": [
         141903,
         141904,
@@ -188,7 +188,8 @@
         142094,
         142095,
         142096,
-        142097
+        142097,
+        142098
       ],
       "sent_count": 30
     },
@@ -283,7 +284,7 @@
       "sent_count": 0
     },
     "footballvision2": {
-      "last_id": 168992,
+      "last_id": 168994,
       "processed_ids": [
         168857,
         168858,
@@ -414,7 +415,9 @@
         168989,
         168990,
         168991,
-        168992
+        168992,
+        168993,
+        168994
       ],
       "sent_count": 4
     },
@@ -470,7 +473,7 @@
       "sent_count": 0
     },
     "drtel": {
-      "last_id": 66699,
+      "last_id": 66701,
       "processed_ids": [
         66561,
         66565,
@@ -562,9 +565,10 @@
         66693,
         66694,
         66695,
-        66699
+        66699,
+        66701
       ],
-      "sent_count": 10
+      "sent_count": 11
     },
     "techtube": {
       "last_id": 18291,
@@ -1211,7 +1215,7 @@
       "sent_count": 6
     },
     "ajayebe_jahann": {
-      "last_id": 159044,
+      "last_id": 159046,
       "processed_ids": [
         158956,
         158957,
@@ -1300,9 +1304,11 @@
         159041,
         159042,
         159043,
-        159044
+        159044,
+        159045,
+        159046
       ],
-      "sent_count": 8
+      "sent_count": 9
     },
     "etelaate_omoomi": {
       "last_id": 43093,
@@ -1371,7 +1377,7 @@
       "sent_count": 4
     },
     "ft360_ir": {
-      "last_id": 108018,
+      "last_id": 108020,
       "processed_ids": [
         107883,
         107884,
@@ -1502,7 +1508,9 @@
         108015,
         108016,
         108017,
-        108018
+        108018,
+        108019,
+        108020
       ],
       "sent_count": 5
     },
@@ -1833,7 +1841,7 @@
       "sent_count": 0
     },
     "hattric_official": {
-      "last_id": 83475,
+      "last_id": 83476,
       "processed_ids": [
         83433,
         83434,
@@ -1870,7 +1878,8 @@
         83471,
         83472,
         83473,
-        83475
+        83475,
+        83476
       ],
       "sent_count": 0
     },
@@ -15011,6 +15020,36 @@
           "akhbarfars"
         ],
         "created_at": "2026-09-20T13:55:27.908621+00:00"
+      },
+      {
+        "fingerprint": "1c4676a23adf45670e3c9df2b6e7b57c60a97867c6c2a8d85d1dd7caac031cdf",
+        "media_fingerprint": "2548a7a37fd7bee391447439f25f3c250d97ddfd135eb29ca2fd017f8ddda6c6",
+        "text": "‌\n🇺🇸\nترامپ :\nمن تمایل دارم تو حاشیه\nنشست سازمان ملل\nبا رئیس‌جمهور ایران دیدار کنم!\n@DrTeL\n| Al Arabiya",
+        "original_username": "drtel",
+        "original_text": "‌\n🇺🇸\nترامپ :\nمن تمایل دارم تو حاشیه\nنشست سازمان ملل\nبا رئیس‌جمهور ایران دیدار کنم!\n@DrTeL\n| Al Arabiya",
+        "original_link": "https://t.me/drtel/66701",
+        "post_id": 66701,
+        "message_id": 989,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-09-20T14:04:01.754957+00:00"
+      },
+      {
+        "fingerprint": "4273e68f96e892c6db3e988aa8a2c064f9a85bc0977d1dd0f61969dee71ee409",
+        "media_fingerprint": "",
+        "text": "یکبار امتحان کافیست\n👆\n👾\n🙂‍↔️",
+        "original_username": "ajayebe_jahann",
+        "original_text": "یکبار امتحان کافیست\n👆\n👾\n🙂‍↔️",
+        "original_link": "https://t.me/Ajayebe_jahann/159046",
+        "post_id": 159046,
+        "message_id": 990,
+        "message_kind": "text",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-09-20T14:04:04.338296+00:00"
       }
     ]
   }
