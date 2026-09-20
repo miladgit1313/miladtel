@@ -329,7 +329,7 @@
       "sent_count": 0
     },
     "footballvision2": {
-      "last_id": 169063,
+      "last_id": 169064,
       "processed_ids": [
         168857,
         168858,
@@ -530,7 +530,8 @@
         169060,
         169061,
         169062,
-        169063
+        169063,
+        169064
       ],
       "sent_count": 4
     },
@@ -595,7 +596,7 @@
       "sent_count": 2
     },
     "drtel": {
-      "last_id": 66722,
+      "last_id": 66723,
       "processed_ids": [
         66561,
         66565,
@@ -704,9 +705,10 @@
         66719,
         66720,
         66721,
-        66722
+        66722,
+        66723
       ],
-      "sent_count": 26
+      "sent_count": 27
     },
     "techtube": {
       "last_id": 18298,
@@ -786,7 +788,7 @@
       "sent_count": 0
     },
     "pc_it_mob": {
-      "last_id": 11873,
+      "last_id": 11874,
       "processed_ids": [
         11816,
         11817,
@@ -835,9 +837,10 @@
         11870,
         11871,
         11872,
-        11873
+        11873,
+        11874
       ],
-      "sent_count": 5
+      "sent_count": 6
     },
     "thezoomit": {
       "last_id": 0,
@@ -1613,7 +1616,7 @@
       "sent_count": 5
     },
     "ft360_ir": {
-      "last_id": 108071,
+      "last_id": 108075,
       "processed_ids": [
         107883,
         107884,
@@ -1797,12 +1800,16 @@
         108068,
         108069,
         108070,
-        108071
+        108071,
+        108072,
+        108073,
+        108074,
+        108075
       ],
       "sent_count": 8
     },
     "varzesh3": {
-      "last_id": 302512,
+      "last_id": 302515,
       "processed_ids": [
         302363,
         302364,
@@ -1938,7 +1945,10 @@
         302509,
         302510,
         302511,
-        302512
+        302512,
+        302513,
+        302514,
+        302515
       ],
       "sent_count": 1
     },
@@ -2112,7 +2122,7 @@
       "sent_count": 0
     },
     "futball180tv": {
-      "last_id": 106973,
+      "last_id": 106975,
       "processed_ids": [
         106848,
         106849,
@@ -2237,12 +2247,14 @@
         106970,
         106971,
         106972,
-        106973
+        106973,
+        106974,
+        106975
       ],
       "sent_count": 0
     },
     "hattric_official": {
-      "last_id": 83495,
+      "last_id": 83496,
       "processed_ids": [
         83433,
         83434,
@@ -2299,7 +2311,8 @@
         83492,
         83493,
         83494,
-        83495
+        83495,
+        83496
       ],
       "sent_count": 0
     },
@@ -17271,6 +17284,36 @@
           "drtel"
         ],
         "created_at": "2026-09-20T20:19:11.546982+00:00"
+      },
+      {
+        "fingerprint": "16a6488e4b9107827f89c17c249937c6ed2f17c20fdacc0fa9df6fce5db4d941",
+        "media_fingerprint": "",
+        "text": "اینم کانال VIPپولی ما رایگان خدمت شما\n😍",
+        "original_username": "pc_it_mob",
+        "original_text": "اینم کانال VIPپولی ما رایگان خدمت شما\n😍",
+        "original_link": "https://t.me/Pc_IT_Mob/11874",
+        "post_id": 11874,
+        "message_id": 1111,
+        "message_kind": "text",
+        "sources": [
+          "pc_it_mob"
+        ],
+        "created_at": "2026-09-20T20:30:11.357189+00:00"
+      },
+      {
+        "fingerprint": "60d7debcb7b868b4228b45f024a4aee5074657ec29fcafe1d74f3e6dff0965b8",
+        "media_fingerprint": "ebd99b04b177f4cf30c3fab34a0cbd5557f8e24617b437d33d875b3522c1e3ae",
+        "text": "🇺🇸\nسفارتِ مجازیِ آمریکا تو ایران هم به تمام شهروندان آمریکایی هشدار داد که ممکنه هرلحظه حریم هوایی بسته بشه، پس هرچی سریعتر ایران رو ترک کنن و اصلا به اینجا سفر نکنن.\n@DrTeL\n| U.S. Virtual Embassy Iran",
+        "original_username": "drtel",
+        "original_text": "🇺🇸\nسفارتِ مجازیِ آمریکا تو ایران هم به تمام شهروندان آمریکایی هشدار داد که ممکنه هرلحظه حریم هوایی بسته بشه، پس هرچی سریعتر ایران رو ترک کنن و اصلا به اینجا سفر نکنن.\n@DrTeL\n| U.S. Virtual Embassy Iran",
+        "original_link": "https://t.me/drtel/66723",
+        "post_id": 66723,
+        "message_id": 1112,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-09-20T20:30:16.448451+00:00"
       }
     ]
   }
