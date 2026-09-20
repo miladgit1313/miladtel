@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142078,
+      "last_id": 142079,
       "processed_ids": [
         141903,
         141904,
@@ -169,7 +169,8 @@
         142075,
         142076,
         142077,
-        142078
+        142078,
+        142079
       ],
       "sent_count": 13
     },
@@ -253,7 +254,7 @@
       "sent_count": 0
     },
     "footballvision2": {
-      "last_id": 168965,
+      "last_id": 168967,
       "processed_ids": [
         168857,
         168858,
@@ -359,7 +360,9 @@
         168962,
         168963,
         168964,
-        168965
+        168965,
+        168966,
+        168967
       ],
       "sent_count": 3
     },
@@ -574,7 +577,7 @@
       "sent_count": 0
     },
     "pc_it_mob": {
-      "last_id": 11865,
+      "last_id": 11866,
       "processed_ids": [
         11816,
         11817,
@@ -615,7 +618,8 @@
         11862,
         11863,
         11864,
-        11865
+        11865,
+        11866
       ],
       "sent_count": 1
     },
@@ -1494,7 +1498,7 @@
       "sent_count": 0
     },
     "adak_ir_official": {
-      "last_id": 233890,
+      "last_id": 233891,
       "processed_ids": [
         233831,
         233833,
@@ -1554,7 +1558,8 @@
         233887,
         233888,
         233889,
-        233890
+        233890,
+        233891
       ],
       "sent_count": 0
     },
@@ -1645,7 +1650,7 @@
       "sent_count": 0
     },
     "hattric_official": {
-      "last_id": 83462,
+      "last_id": 83463,
       "processed_ids": [
         83433,
         83434,
@@ -1672,7 +1677,8 @@
         83459,
         83460,
         83461,
-        83462
+        83462,
+        83463
       ],
       "sent_count": 0
     },
@@ -13676,7 +13682,8 @@
         "message_id": 913,
         "message_kind": "text",
         "sources": [
-          "akhbar_cafenet"
+          "akhbar_cafenet",
+          "akhbarfars"
         ],
         "created_at": "2026-09-20T09:30:06.519927+00:00"
       },
