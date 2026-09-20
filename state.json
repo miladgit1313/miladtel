@@ -602,7 +602,7 @@
       "sent_count": 2
     },
     "drtel": {
-      "last_id": 66742,
+      "last_id": 66743,
       "processed_ids": [
         66561,
         66565,
@@ -730,9 +730,10 @@
         66738,
         66739,
         66740,
-        66742
+        66742,
+        66743
       ],
-      "sent_count": 42
+      "sent_count": 43
     },
     "techtube": {
       "last_id": 18298,
@@ -2428,21 +2429,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "3d8d35867c6872e8a4f72f922956ea35b9c37c7d892ed1e0a03c47bc42769ea6",
-        "media_fingerprint": "",
-        "text": "♦️\nرهبر یمن: دشمن سعودی تجاوزات خود علیه یمن را با پشتیبانی آمریکا و نظارت اسرائیل انجام می‌دهد\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nرهبر یمن: دشمن سعودی تجاوزات خود علیه یمن را با پشتیبانی آمریکا و نظارت اسرائیل انجام می‌دهد\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/141909",
-        "post_id": 141909,
-        "message_id": 63,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-17T14:22:47.401343+00:00"
-      },
       {
         "fingerprint": "895ab8bf397dfe595ad4e54c2fdbc5f2799a63218dc8f4c7657a8c16dbb7bc1b",
         "media_fingerprint": "9a77e4852e2fde4be801d6acacc7b70464e6c721d0743d00fa398500eae80980",
@@ -17475,6 +17461,21 @@
           "drtel"
         ],
         "created_at": "2026-09-20T22:29:48.746371+00:00"
+      },
+      {
+        "fingerprint": "d27ebf47e0301d1e93bc254729fc8624d756fd84f5687fc311852f2e659c0040",
+        "media_fingerprint": "",
+        "text": "خدایا، خودت ایران رو درست کن\nاگه نمی‌کنی، حداقل ایرانی رو عاقل کن\nایرانی عاقل بشه، ایران خودش خودبه‌خود درست میشه.",
+        "original_username": "drtel",
+        "original_text": "خدایا، خودت ایران رو درست کن\nاگه نمی‌کنی، حداقل ایرانی رو عاقل کن\nایرانی عاقل بشه، ایران خودش خودبه‌خود درست میشه.",
+        "original_link": "https://t.me/drtel/66743",
+        "post_id": 66743,
+        "message_id": 1152,
+        "message_kind": "text",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-09-20T22:47:44.795126+00:00"
       }
     ]
   }
