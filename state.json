@@ -214,7 +214,7 @@
       "sent_count": 47
     },
     "total_fut": {
-      "last_id": 236522,
+      "last_id": 236523,
       "processed_ids": [
         236405,
         236407,
@@ -326,7 +326,8 @@
         236519,
         236520,
         236521,
-        236522
+        236522,
+        236523
       ],
       "sent_count": 0
     },
@@ -601,7 +602,7 @@
       "sent_count": 2
     },
     "drtel": {
-      "last_id": 66725,
+      "last_id": 66726,
       "processed_ids": [
         66561,
         66565,
@@ -713,9 +714,10 @@
         66722,
         66723,
         66724,
-        66725
+        66725,
+        66726
       ],
-      "sent_count": 29
+      "sent_count": 30
     },
     "techtube": {
       "last_id": 18298,
@@ -1982,7 +1984,7 @@
       "sent_count": 1
     },
     "totalfut_plus": {
-      "last_id": 25932,
+      "last_id": 25933,
       "processed_ids": [
         25870,
         25871,
@@ -2044,7 +2046,8 @@
         25929,
         25930,
         25931,
-        25932
+        25932,
+        25933
       ],
       "sent_count": 0
     },
@@ -2393,21 +2396,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "afb53e0abad02798e9e28b09c7fa5c1ec707eaaace4faf46ea8b00c99a7d85a7",
-        "media_fingerprint": "8b707f97dc5e16884a3395902b879a559ffa52885daa671ad97807b875dc3759",
-        "text": "♦️\nکشورهای جهان که اکنون درگیر جنگ هستند/ هرچه پر رنگ تر نشان دهنده نبرد سخت تر\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nکشورهای جهان که اکنون درگیر جنگ هستند/ هرچه پر رنگ تر نشان دهنده نبرد سخت تر\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/141904",
-        "post_id": 141904,
-        "message_id": 42,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-17T12:58:08.281631+00:00"
-      },
       {
         "fingerprint": "2b359f2cc32ceb899b8191f467aecaeeb2cf7c9eed308bc710b50d88c456f21e",
         "media_fingerprint": "e9dadf4f9a00caf3b9942fade323990214815e15ab0443831e29db3a0ba4958d",
@@ -17444,6 +17432,21 @@
           "gizmiztel"
         ],
         "created_at": "2026-09-20T21:19:23.722209+00:00"
+      },
+      {
+        "fingerprint": "67a814db5482e505b6d3019077caf9aac5ddb62af3623b36880a887ff026196a",
+        "media_fingerprint": "4282c130ea4671fc19459d54eaeb4c555d3411bb985c1e69532d71b6dbd36885",
+        "text": "🔴\nحدادعادل :\nقراره تو تبریز \" بنیاد زبان و ادبیات تُرکی \" راه‌اندازی کنیم، چون حمایت و تقویت زبانِ ترکی یه کار ضروریه.\n@DrTeL\n| Isna",
+        "original_username": "drtel",
+        "original_text": "🔴\nحدادعادل :\nقراره تو تبریز \" بنیاد زبان و ادبیات تُرکی \" راه‌اندازی کنیم، چون حمایت و تقویت زبانِ ترکی یه کار ضروریه.\n@DrTeL\n| Isna",
+        "original_link": "https://t.me/drtel/66726",
+        "post_id": 66726,
+        "message_id": 1128,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-09-20T21:29:11.891617+00:00"
       }
     ]
   }
