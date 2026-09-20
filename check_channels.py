@@ -16,6 +16,7 @@ OWNER_ID = int(os.environ["OWNER_ID"])
 
 CHANNELS_FILE = "channels.json"
 CHANNEL_KEYWORDS_FILE = "channel_keywords.json"
+BANNED_WORDS_FILE = "banned_words.json"
 STATE_FILE = "state.json"
 BOT_STATE_FILE = "bot_state.json"
 
@@ -135,6 +136,24 @@ def channel_keyword_ok(username, text, channel_keywords):
     normalized = normalize_text(text)
 
     for word in required_words:
+        if normalize_text(word) in normalized:
+            return True
+
+    return False
+
+
+def contains_banned_word(text, banned_words):
+    """
+    این یک فیلتر سراسری است: اگر متن یکی از کلمات ممنوعه را
+    داشته باشد، روی همه‌ی کانال‌ها اعمال می‌شود و پست ارسال
+    نمی‌شود، حتی اگر شرط فیلتر مخصوص همان کانال را هم داشته باشد.
+    """
+    if not banned_words:
+        return False
+
+    normalized = normalize_text(text)
+
+    for word in banned_words:
         if normalize_text(word) in normalized:
             return True
 
@@ -941,11 +960,19 @@ HELP_TEXT = (
     "/clearword username - حذف کامل فیلتر این کانال (دوباره همه‌چیز بیاد)\n"
     "/words - نمایش همه‌ی فیلترهای فعال\n"
     "\n"
+    "کلمات ممنوعه (روی همه‌ی کانال‌ها، بدون استثنا):\n"
+    "/addban کلمه - افزودن کلمه به لیست ممنوعه‌ی سراسری\n"
+    "/removeban کلمه - حذف کلمه از لیست ممنوعه\n"
+    "/bans - نمایش لیست کلمات ممنوعه\n"
+    "\n"
+    "گزارش:\n"
+    "/report - تعداد پست‌های ارسالی هر کانال\n"
+    "\n"
     "/help - راهنما"
 )
 
 
-def handle_updates(channels, channel_keywords, bot_state):
+def handle_updates(channels, channel_keywords, banned_words, state, bot_state):
     offset = int(
         bot_state.get(
             "last_update_id",
@@ -969,7 +996,7 @@ def handle_updates(channels, channel_keywords, bot_state):
         print(
             f"[WARN] getUpdates: {e}"
         )
-        return channels, channel_keywords, bot_state
+        return channels, channel_keywords, banned_words, bot_state
 
     for update in updates:
         bot_state["last_update_id"] = (
@@ -1249,6 +1276,105 @@ def handle_updates(channels, channel_keywords, bot_state):
                 message_text
             )
 
+        elif command == "/addban":
+            word = argument.strip()
+
+            if not word:
+                send_message_to_chat(
+                    chat_id,
+                    "کلمه رو هم بنویس، مثلاً:\n/addban شرط‌بندی"
+                )
+                continue
+
+            if word in banned_words:
+                send_message_to_chat(
+                    chat_id,
+                    f"⚠️ «{word}» از قبل توی لیست ممنوعه هست."
+                )
+                continue
+
+            banned_words.append(word)
+
+            send_message_to_chat(
+                chat_id,
+                f"🚫 «{word}» به لیست ممنوعه‌ی سراسری اضافه شد "
+                "(روی همه‌ی کانال‌ها اعمال می‌شه)."
+            )
+
+        elif command == "/removeban":
+            word = argument.strip()
+
+            if word in banned_words:
+                banned_words.remove(word)
+
+                send_message_to_chat(
+                    chat_id,
+                    f"🗑 «{word}» از لیست ممنوعه حذف شد."
+                )
+            else:
+                send_message_to_chat(
+                    chat_id,
+                    "همچین کلمه‌ای توی لیست ممنوعه نیست."
+                )
+
+        elif command == "/bans":
+            if banned_words:
+                message_text = (
+                    "🚫 کلمات ممنوعه‌ی فعلی:\n\n"
+                    + "\n".join(
+                        f"• {word}"
+                        for word in banned_words
+                    )
+                )
+            else:
+                message_text = "هیچ کلمه‌ی ممنوعه‌ای تنظیم نشده."
+
+            send_message_to_chat(
+                chat_id,
+                message_text
+            )
+
+        elif command == "/report":
+            channel_states = state.get(
+                "channels",
+                {}
+            )
+
+            report_lines = []
+
+            for raw_username in channels:
+                clean_username = (
+                    raw_username
+                    .strip()
+                    .lstrip("@")
+                    .lower()
+                )
+
+                count = channel_states.get(
+                    clean_username,
+                    {}
+                ).get(
+                    "sent_count",
+                    0
+                )
+
+                report_lines.append(
+                    f"• @{clean_username}: {count} پست"
+                )
+
+            if report_lines:
+                message_text = (
+                    "📊 گزارش تعداد پست‌های ارسالی:\n\n"
+                    + "\n".join(report_lines)
+                )
+            else:
+                message_text = "هنوز هیچ کانالی اضافه نشده."
+
+            send_message_to_chat(
+                chat_id,
+                message_text
+            )
+
         else:
             send_message_to_chat(
                 chat_id,
@@ -1256,7 +1382,7 @@ def handle_updates(channels, channel_keywords, bot_state):
                 + HELP_TEXT
             )
 
-    return channels, channel_keywords, bot_state
+    return channels, channel_keywords, banned_words, bot_state
 
 
 def send_message_to_chat(chat_id, text):
@@ -1304,11 +1430,22 @@ def normalize_state(raw):
             except Exception:
                 last_id = 0
 
+            try:
+                sent_count = int(
+                    value.get(
+                        "sent_count",
+                        0
+                    )
+                )
+            except Exception:
+                sent_count = 0
+
             result_channels[name] = {
                 "last_id": last_id,
                 "processed_ids": processed_ids[
                     -MAX_PROCESSED_IDS:
-                ]
+                ],
+                "sent_count": sent_count
             }
 
         global_data = raw.get(
@@ -1353,7 +1490,8 @@ def normalize_state(raw):
 
             channels[name] = {
                 "last_id": last_id,
-                "processed_ids": []
+                "processed_ids": [],
+                "sent_count": 0
             }
 
     return {
@@ -1464,7 +1602,7 @@ def add_history(
     del history[:-MAX_GLOBAL_HISTORY]
 
 
-def check_channels(channels, channel_keywords, state):
+def check_channels(channels, channel_keywords, banned_words, state):
     channel_states = state["channels"]
     history = state["global"]["history"]
 
@@ -1500,7 +1638,8 @@ def check_channels(channels, channel_keywords, state):
         if username not in channel_states:
             channel_states[username] = {
                 "last_id": 0,
-                "processed_ids": []
+                "processed_ids": [],
+                "sent_count": 0
             }
 
         channel_state = (
@@ -1601,6 +1740,27 @@ def check_channels(channels, channel_keywords, state):
 
             continue
 
+        if contains_banned_word(
+            post.get("text", ""),
+            banned_words
+        ):
+            print(
+                f"[BANNED] @{username} "
+                f"post={post_id}"
+            )
+
+            mark_processed(
+                channel_state,
+                post_id
+            )
+
+            save_json(
+                STATE_FILE,
+                state
+            )
+
+            continue
+
         if not channel_keyword_ok(
             username,
             post.get("text", ""),
@@ -1675,6 +1835,16 @@ def check_channels(channels, channel_keywords, state):
             post_id
         )
 
+        channel_state["sent_count"] = (
+            int(
+                channel_state.get(
+                    "sent_count",
+                    0
+                )
+            )
+            + 1
+        )
+
         if result.get("type") != "filtered":
             add_history(
                 history,
@@ -1705,6 +1875,11 @@ def main():
     channel_keywords = load_json(
         CHANNEL_KEYWORDS_FILE,
         {}
+    )
+
+    banned_words = load_json(
+        BANNED_WORDS_FILE,
+        []
     )
 
     state = normalize_state(
@@ -1751,15 +1926,18 @@ def main():
         )
         return
 
-    channels, channel_keywords, bot_state = handle_updates(
+    channels, channel_keywords, banned_words, bot_state = handle_updates(
         channels,
         channel_keywords,
+        banned_words,
+        state,
         bot_state
     )
 
     state = check_channels(
         channels,
         channel_keywords,
+        banned_words,
         state
     )
 
@@ -1775,6 +1953,11 @@ def main():
     save_json(
         CHANNEL_KEYWORDS_FILE,
         channel_keywords
+    )
+
+    save_json(
+        BANNED_WORDS_FILE,
+        banned_words
     )
 
     save_json(
