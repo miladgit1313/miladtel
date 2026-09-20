@@ -183,7 +183,7 @@
       "sent_count": 20
     },
     "total_fut": {
-      "last_id": 236489,
+      "last_id": 236490,
       "processed_ids": [
         236405,
         236407,
@@ -262,12 +262,13 @@
         236486,
         236487,
         236488,
-        236489
+        236489,
+        236490
       ],
       "sent_count": 0
     },
     "footballvision2": {
-      "last_id": 168971,
+      "last_id": 168976,
       "processed_ids": [
         168857,
         168858,
@@ -378,9 +379,14 @@
         168967,
         168969,
         168970,
-        168971
+        168971,
+        168972,
+        168973,
+        168974,
+        168975,
+        168976
       ],
-      "sent_count": 3
+      "sent_count": 4
     },
     "tg_ir": {
       "last_id": 2302,
@@ -1570,7 +1576,7 @@
       "sent_count": 0
     },
     "adak_ir_official": {
-      "last_id": 233894,
+      "last_id": 233895,
       "processed_ids": [
         233831,
         233833,
@@ -1634,7 +1640,8 @@
         233891,
         233892,
         233893,
-        233894
+        233894,
+        233895
       ],
       "sent_count": 0
     },
@@ -14446,6 +14453,21 @@
           "akhbarfars"
         ],
         "created_at": "2026-09-20T11:39:15.956453+00:00"
+      },
+      {
+        "fingerprint": "c5fbe2def2a5f05fd7a9a20ea2740f53658201afee6fd249bb59f7380234b5e2",
+        "media_fingerprint": "",
+        "text": "#اختصاصی\nقلعه نویی به دنبال تیم برای محمد ربیعی\nگویا گلگهر سیرجان و صنعت نفت آبادان فعلا گزینه های دلخواه مافیا فوتبال ایران برای محمد ربیعی هستند\n🆔\n@footballvision2",
+        "original_username": "footballvision2",
+        "original_text": "#اختصاصی\nقلعه نویی به دنبال تیم برای محمد ربیعی\nگویا گلگهر سیرجان و صنعت نفت آبادان فعلا گزینه های دلخواه مافیا فوتبال ایران برای محمد ربیعی هستند\n🆔\n@footballvision2",
+        "original_link": "https://t.me/footballvision2/168973",
+        "post_id": 168973,
+        "message_id": 959,
+        "message_kind": "text",
+        "sources": [
+          "footballvision2"
+        ],
+        "created_at": "2026-09-20T11:45:55.622896+00:00"
       }
     ]
   }
