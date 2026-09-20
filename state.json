@@ -682,7 +682,7 @@
       ]
     },
     "comentiat": {
-      "last_id": 25905,
+      "last_id": 25908,
       "processed_ids": [
         25844,
         25845,
@@ -736,7 +736,10 @@
         25902,
         25903,
         25904,
-        25905
+        25905,
+        25906,
+        25907,
+        25908
       ]
     },
     "boost/fndoni": {
@@ -12249,6 +12252,36 @@
           "drtel"
         ],
         "created_at": "2026-09-19T23:53:05.727750+00:00"
+      },
+      {
+        "fingerprint": "4fe06c8e51e43b0681358deeed9852a57ac8ea190067bb2cfb5468cef1b1c332",
+        "media_fingerprint": "fcf1092ebd1c311ffeaf5ddc30c8d51cf5357282717a731ae9eb3920502cd220",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/25907",
+        "post_id": 25907,
+        "message_id": 805,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-09-20T01:48:19.720503+00:00"
+      },
+      {
+        "fingerprint": "125e9227bc7d37e46a25546c0004f31fc38710446f3d77cc0e46caabc9a13c0f",
+        "media_fingerprint": "d89e3da98402e201584d7976f2d8d4eab046dc68a3a0359346d22b19a6dd2356",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/25908",
+        "post_id": 25908,
+        "message_id": 806,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-09-20T01:48:23.716705+00:00"
       }
     ]
   }
