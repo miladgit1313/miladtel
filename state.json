@@ -296,7 +296,7 @@
       "sent_count": 0
     },
     "footballvision2": {
-      "last_id": 169032,
+      "last_id": 169038,
       "processed_ids": [
         168857,
         168858,
@@ -466,7 +466,13 @@
         169029,
         169030,
         169031,
-        169032
+        169032,
+        169033,
+        169034,
+        169035,
+        169036,
+        169037,
+        169038
       ],
       "sent_count": 4
     },
@@ -526,7 +532,7 @@
       "sent_count": 0
     },
     "drtel": {
-      "last_id": 66707,
+      "last_id": 66710,
       "processed_ids": [
         66561,
         66565,
@@ -622,9 +628,12 @@
         66701,
         66705,
         66706,
-        66707
+        66707,
+        66708,
+        66709,
+        66710
       ],
-      "sent_count": 14
+      "sent_count": 16
     },
     "techtube": {
       "last_id": 18293,
@@ -1463,7 +1472,7 @@
       "sent_count": 4
     },
     "ft360_ir": {
-      "last_id": 108036,
+      "last_id": 108038,
       "processed_ids": [
         107883,
         107884,
@@ -1612,12 +1621,14 @@
         108033,
         108034,
         108035,
-        108036
+        108036,
+        108037,
+        108038
       ],
       "sent_count": 6
     },
     "varzesh3": {
-      "last_id": 302489,
+      "last_id": 302491,
       "processed_ids": [
         302363,
         302364,
@@ -1730,12 +1741,14 @@
         302486,
         302487,
         302488,
-        302489
+        302489,
+        302490,
+        302491
       ],
       "sent_count": 1
     },
     "totalfut_plus": {
-      "last_id": 25917,
+      "last_id": 25918,
       "processed_ids": [
         25870,
         25871,
@@ -1783,7 +1796,8 @@
         25914,
         25915,
         25916,
-        25917
+        25917,
+        25918
       ],
       "sent_count": 0
     },
@@ -15807,6 +15821,36 @@
           "fars_today"
         ],
         "created_at": "2026-09-20T15:55:02.696203+00:00"
+      },
+      {
+        "fingerprint": "43b76516c3ee92819594e402936f09500d45e3ea6e7cc59b4406741b703ea8d6",
+        "media_fingerprint": "c4e8a992a8b09ecb634ed9c68e8d1f1c599da22e00867c3937a026007fe4d4d2",
+        "text": "🔴\nحالا که بحث جنگ دوباره داغ شده؛\nاگه تو آسمون یه جنگنده دیدید، سعی نکنید بهش شلیک کنید یا سمتش سنگ پرت کنید، فقط این فن استاد رو بزنید تا خود به خود به آشیانه‌ش برگرده :\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nحالا که بحث جنگ دوباره داغ شده؛\nاگه تو آسمون یه جنگنده دیدید، سعی نکنید بهش شلیک کنید یا سمتش سنگ پرت کنید، فقط این فن استاد رو بزنید تا خود به خود به آشیانه‌ش برگرده :\n@DrTeL",
+        "original_link": "https://t.me/drtel/66709",
+        "post_id": 66709,
+        "message_id": 1031,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-09-20T16:04:26.231715+00:00"
+      },
+      {
+        "fingerprint": "90f1fdadcf96e83d570683fb5233230e85b2f91ce68c3635690ac906951e2ed4",
+        "media_fingerprint": "86e53f67b435d9989b3de55690788e863f8f06e0bd7ad8ca4c6f31ffb088bff2",
+        "text": "",
+        "original_username": "drtel",
+        "original_text": "",
+        "original_link": "https://t.me/drtel/66710",
+        "post_id": 66710,
+        "message_id": 1032,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-09-20T16:04:31.325551+00:00"
       }
     ]
   }
