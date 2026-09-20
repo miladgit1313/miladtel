@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142104,
+      "last_id": 142105,
       "processed_ids": [
         141903,
         141904,
@@ -195,12 +195,13 @@
         142101,
         142102,
         142103,
-        142104
+        142104,
+        142105
       ],
-      "sent_count": 36
+      "sent_count": 37
     },
     "total_fut": {
-      "last_id": 236501,
+      "last_id": 236503,
       "processed_ids": [
         236405,
         236407,
@@ -291,12 +292,14 @@
         236498,
         236499,
         236500,
-        236501
+        236501,
+        236502,
+        236503
       ],
       "sent_count": 0
     },
     "footballvision2": {
-      "last_id": 169038,
+      "last_id": 169044,
       "processed_ids": [
         168857,
         168858,
@@ -472,7 +475,13 @@
         169035,
         169036,
         169037,
-        169038
+        169038,
+        169039,
+        169040,
+        169041,
+        169042,
+        169043,
+        169044
       ],
       "sent_count": 4
     },
@@ -532,7 +541,7 @@
       "sent_count": 0
     },
     "drtel": {
-      "last_id": 66710,
+      "last_id": 66713,
       "processed_ids": [
         66561,
         66565,
@@ -631,9 +640,10 @@
         66707,
         66708,
         66709,
-        66710
+        66710,
+        66713
       ],
-      "sent_count": 16
+      "sent_count": 17
     },
     "techtube": {
       "last_id": 18293,
@@ -1304,7 +1314,7 @@
       "sent_count": 9
     },
     "ajayebe_jahann": {
-      "last_id": 159050,
+      "last_id": 159051,
       "processed_ids": [
         158956,
         158957,
@@ -1399,9 +1409,10 @@
         159047,
         159048,
         159049,
-        159050
+        159050,
+        159051
       ],
-      "sent_count": 12
+      "sent_count": 13
     },
     "etelaate_omoomi": {
       "last_id": 43093,
@@ -1472,7 +1483,7 @@
       "sent_count": 4
     },
     "ft360_ir": {
-      "last_id": 108038,
+      "last_id": 108040,
       "processed_ids": [
         107883,
         107884,
@@ -1623,12 +1634,14 @@
         108035,
         108036,
         108037,
-        108038
+        108038,
+        108039,
+        108040
       ],
       "sent_count": 6
     },
     "varzesh3": {
-      "last_id": 302491,
+      "last_id": 302494,
       "processed_ids": [
         302363,
         302364,
@@ -1743,12 +1756,15 @@
         302488,
         302489,
         302490,
-        302491
+        302491,
+        302492,
+        302493,
+        302494
       ],
       "sent_count": 1
     },
     "totalfut_plus": {
-      "last_id": 25918,
+      "last_id": 25919,
       "processed_ids": [
         25870,
         25871,
@@ -1797,12 +1813,13 @@
         25915,
         25916,
         25917,
-        25918
+        25918,
+        25919
       ],
       "sent_count": 0
     },
     "adak_ir_official": {
-      "last_id": 233911,
+      "last_id": 233912,
       "processed_ids": [
         233831,
         233833,
@@ -1883,12 +1900,13 @@
         233908,
         233909,
         233910,
-        233911
+        233911,
+        233912
       ],
       "sent_count": 0
     },
     "futball180tv": {
-      "last_id": 106953,
+      "last_id": 106960,
       "processed_ids": [
         106848,
         106849,
@@ -1993,7 +2011,14 @@
         106950,
         106951,
         106952,
-        106953
+        106953,
+        106954,
+        106955,
+        106956,
+        106957,
+        106958,
+        106959,
+        106960
       ],
       "sent_count": 0
     },
@@ -15851,6 +15876,51 @@
           "drtel"
         ],
         "created_at": "2026-09-20T16:04:31.325551+00:00"
+      },
+      {
+        "fingerprint": "7cf999e26f45950a1ffb09fd00acf48a59a5342660447df008e379884c56f021",
+        "media_fingerprint": "",
+        "text": "🔻\nمیدونی قاره آسیا شامل چند کشوره !؟\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "🔻\nمیدونی قاره آسیا شامل چند کشوره !؟\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/159051",
+        "post_id": 159051,
+        "message_id": 1033,
+        "message_kind": "text",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-09-20T16:20:02.508925+00:00"
+      },
+      {
+        "fingerprint": "1689614205f796ebf8dfdba05efba911908a662232bed47fcd6b98f094b8b64f",
+        "media_fingerprint": "e1c65b6b81f78fcc63fa31fe4eba570408f86370ae51c563f1b9e447d5adaddb",
+        "text": "🚗\nقیمت روز خودرو در بازار\n۲۹ شهریور ۱۴۰۵\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "🚗\nقیمت روز خودرو در بازار\n۲۹ شهریور ۱۴۰۵\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142105",
+        "post_id": 142105,
+        "message_id": 1034,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-09-20T16:20:06.842685+00:00"
+      },
+      {
+        "fingerprint": "af40cd7d909d5397279b5e64703745340911f5da690cea68c1e6b6341365ef4a",
+        "media_fingerprint": "4575de7a99ff75b8d1b976a54485d6c0a80bbcec8594daae96fca3a50287d051",
+        "text": "🔴\nمحسن نامجو کلا یکی از عجیب‌ترین موزیسین‌های تاریخ ایرانه که به گفته خودش، به دلیل خلاقیت تو آهنگسازی، از کلاس دانشگاه پرتش کردن بیرون؛  حالا شاید باورتون نشه ولی کنسرت میذاره و کلی هم طرفدار داره!  + نامجو سال 1388 به اتهام توهین به مقدسات و هتک حرمت قرآن،…",
+        "original_username": "drtel",
+        "original_text": "🔴\nمحسن نامجو کلا یکی از عجیب‌ترین موزیسین‌های تاریخ ایرانه که به گفته خودش، به دلیل خلاقیت تو آهنگسازی، از کلاس دانشگاه پرتش کردن بیرون؛  حالا شاید باورتون نشه ولی کنسرت میذاره و کلی هم طرفدار داره!  + نامجو سال 1388 به اتهام توهین به مقدسات و هتک حرمت قرآن،…",
+        "original_link": "https://t.me/drtel/66713",
+        "post_id": 66713,
+        "message_id": 1035,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-09-20T16:20:14.312912+00:00"
       }
     ]
   }
