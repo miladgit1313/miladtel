@@ -38,6 +38,6 @@ jobs:
         run: |
           git config user.name "channel-watcher-bot"
           git config user.email "actions@github.com"
-          git add channels.json channel_keywords.json state.json bot_state.json
+          git add channels.json channel_keywords.json banned_words.json state.json bot_state.json
           git diff --staged --quiet || git commit -m "update state"
           git push
