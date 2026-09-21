@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142118,
+      "last_id": 142120,
       "processed_ids": [
         141903,
         141904,
@@ -209,9 +209,11 @@
         142115,
         142116,
         142117,
-        142118
+        142118,
+        142119,
+        142120
       ],
-      "sent_count": 47
+      "sent_count": 48
     },
     "total_fut": {
       "last_id": 236523,
@@ -1482,7 +1484,7 @@
       "sent_count": 16
     },
     "ajayebe_jahann": {
-      "last_id": 159064,
+      "last_id": 159065,
       "processed_ids": [
         158956,
         158957,
@@ -1591,9 +1593,10 @@
         159061,
         159062,
         159063,
-        159064
+        159064,
+        159065
       ],
-      "sent_count": 19
+      "sent_count": 20
     },
     "etelaate_omoomi": {
       "last_id": 43093,
@@ -1870,7 +1873,7 @@
       "sent_count": 8
     },
     "varzesh3": {
-      "last_id": 302522,
+      "last_id": 302527,
       "processed_ids": [
         302363,
         302364,
@@ -2016,7 +2019,8 @@
         302519,
         302520,
         302521,
-        302522
+        302522,
+        302527
       ],
       "sent_count": 1
     },
@@ -2195,7 +2199,7 @@
       "sent_count": 0
     },
     "futball180tv": {
-      "last_id": 106981,
+      "last_id": 106982,
       "processed_ids": [
         106848,
         106849,
@@ -2328,7 +2332,8 @@
         106978,
         106979,
         106980,
-        106981
+        106981,
+        106982
       ],
       "sent_count": 0
     },
@@ -2436,36 +2441,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "a227569647c949efed02ec4579decf833d2f515f3a6238dc63b2624b1ee71d3c",
-        "media_fingerprint": "d387bd58817a0dbbe9dd4b767e9a73dfa78c35c6e1ddd81c579d6bfb245a407d",
-        "text": "آقای حلزون در حال خوردن ناهار\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "آقای حلزون در حال خوردن ناهار\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52266",
-        "post_id": 52266,
-        "message_id": 69,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-09-17T14:48:31.392537+00:00"
-      },
-      {
-        "fingerprint": "efe5d869d73e7658d632e00649713323c982fde5ea55ba3484669044a60794df",
-        "media_fingerprint": "6daae889816c8e7deefa2550bd8458366491d70bf2142ba719fb8cb38942489a",
-        "text": "🔴\nبهداد اقبالی، میلیاردر ایرانی، کنترل کامل باشگاه چلسی رو به دست گرفت!\nشرکت سرمایه‌گذاری «Clearlake Capital» که بهداد بنیان‌گذارشه، با خرید سهام تاد بولی و مارک والتر، کنترل کامل چلسی رو در اختیار گرفت.\nالبته ایشون از سال ۲۰۲۲ یکی از مالکان چلسی بود؛ اتفاق جدید،\nخرید سهام سایر مالکان و به‌دست‌گرفتن کنترل کامل باشگاهه.\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "🔴\nبهداد اقبالی، میلیاردر ایرانی، کنترل کامل باشگاه چلسی رو به دست گرفت!\nشرکت سرمایه‌گذاری «Clearlake Capital» که بهداد بنیان‌گذارشه، با خرید سهام تاد بولی و مارک والتر، کنترل کامل چلسی رو در اختیار گرفت.\nالبته ایشون از سال ۲۰۲۲ یکی از مالکان چلسی بود؛ اتفاق جدید،\nخرید سهام سایر مالکان و به‌دست‌گرفتن کنترل کامل باشگاهه.\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52267",
-        "post_id": 52267,
-        "message_id": 70,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-09-17T14:48:40.358781+00:00"
-      },
       {
         "fingerprint": "0f2bf626f19e73e318af024dc0c4383d2817b42ee4fc3b001612fc1dd310c3f1",
         "media_fingerprint": "9e548e7751775a2da22aef4fb80bec5ef315ef537981a84dccc39fd2abd98b6d",
@@ -17482,6 +17457,36 @@
           "roidbest"
         ],
         "created_at": "2026-09-21T03:38:50.258420+00:00"
+      },
+      {
+        "fingerprint": "495c5a6249a2cf11bf624134ff1d5ce86161550d3c392803f71bfe16f0ad8e70",
+        "media_fingerprint": "cc7c0dcd0333e7052534ad6730639cfa880640ac31d2b505b7621c92db8670e8",
+        "text": "🔻\nاسکله بندرگز\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "🔻\nاسکله بندرگز\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/159065",
+        "post_id": 159065,
+        "message_id": 1158,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-09-21T04:43:16.530479+00:00"
+      },
+      {
+        "fingerprint": "694a4aff6a93671a2b5d638e7e6c80eca135031ef4ef889eebbb2180371542bb",
+        "media_fingerprint": "",
+        "text": "♦️\nانتقال سهمیه بنزین به کارت بانکی از مهرماه\n🔹\nسخنگوی کمیسیون انرژی مجلس از اجرای آزمایشی طرح انتقال سهمیه بنزین به کارت بانکی در پنج استان از ابتدای مهرماه خبر داد و گفت این طرح تا پایان سال به‌تدریج در سراسر کشور اجرا می‌شود.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nانتقال سهمیه بنزین به کارت بانکی از مهرماه\n🔹\nسخنگوی کمیسیون انرژی مجلس از اجرای آزمایشی طرح انتقال سهمیه بنزین به کارت بانکی در پنج استان از ابتدای مهرماه خبر داد و گفت این طرح تا پایان سال به‌تدریج در سراسر کشور اجرا می‌شود.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142120",
+        "post_id": 142120,
+        "message_id": 1159,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-09-21T04:43:19.405926+00:00"
       }
     ]
   }
