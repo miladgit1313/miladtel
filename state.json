@@ -1378,7 +1378,7 @@
       "sent_count": 56
     },
     "comentiat": {
-      "last_id": 25954,
+      "last_id": 25955,
       "processed_ids": [
         25844,
         25845,
@@ -1478,9 +1478,10 @@
         25951,
         25952,
         25953,
-        25954
+        25954,
+        25955
       ],
-      "sent_count": 38
+      "sent_count": 39
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -3223,21 +3224,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "b54c924841a79f2b2a5fa33167ac9e2fb9e97d56849358203a78205eaceb38e7",
-        "media_fingerprint": "1d435beacf71e7eb4b52d096165587efde143a5a72247e353b1f6af50ef37b55",
-        "text": "🔴\nاکانت تلگرام تو ایکس برداشته عکس ایلان ماسک با سینه‌های سایز 90 رو پست کرده، بالاش هم نوشته :\nثروت واقعی پول و ماشین نیست، بلکه سینه‌های بزرگه.\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nاکانت تلگرام تو ایکس برداشته عکس ایلان ماسک با سینه‌های سایز 90 رو پست کرده، بالاش هم نوشته :\nثروت واقعی پول و ماشین نیست، بلکه سینه‌های بزرگه.\n@DrTeL",
-        "original_link": "https://t.me/drtel/66620",
-        "post_id": 66620,
-        "message_id": 371,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-09-18T16:19:40.743608+00:00"
-      },
       {
         "fingerprint": "4ce2e9b61fcc6031dba2d201baa07b1f4f729ecbd6213beb7b70d18ad083db4e",
         "media_fingerprint": "",
@@ -18267,6 +18253,21 @@
           "drtel"
         ],
         "created_at": "2026-09-21T22:31:58.490206+00:00"
+      },
+      {
+        "fingerprint": "54b69e36c562e57265546cd8a2b30fdbcd6eadd0d3268fab1779b119057fc697",
+        "media_fingerprint": "8437883429d500d6d79803ec99b0dc41a68a41a4438298aa786f5f34dfb95147",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/25955",
+        "post_id": 25955,
+        "message_id": 1441,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-09-21T23:19:16.665827+00:00"
       }
     ]
   }
