@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142136,
+      "last_id": 142138,
       "processed_ids": [
         141903,
         141904,
@@ -227,9 +227,10 @@
         142133,
         142134,
         142135,
-        142136
+        142136,
+        142138
       ],
-      "sent_count": 61
+      "sent_count": 62
     },
     "total_fut": {
       "last_id": 236537,
@@ -1051,7 +1052,7 @@
       "sent_count": 11
     },
     "akhbar_cafenet": {
-      "last_id": 22519,
+      "last_id": 22521,
       "processed_ids": [
         22432,
         22433,
@@ -1137,9 +1138,11 @@
         22516,
         22517,
         22518,
-        22519
+        22519,
+        22520,
+        22521
       ],
-      "sent_count": 32
+      "sent_count": 34
     },
     "comentiat": {
       "last_id": 25933,
@@ -2216,7 +2219,7 @@
       "sent_count": 0
     },
     "adak_ir_official": {
-      "last_id": 233945,
+      "last_id": 233946,
       "processed_ids": [
         233831,
         233833,
@@ -2331,7 +2334,8 @@
         233942,
         233943,
         233944,
-        233945
+        233945,
+        233946
       ],
       "sent_count": 0
     },
@@ -2610,51 +2614,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "b443963aadd9f66105be224527d60e746d553dac0f9473888a63a65500dfff87",
-        "media_fingerprint": "b3c87ed495256a6aa3c0b46d5b07b4082279903659d654861b7cdfed0415b889",
-        "text": "♦️\nتو نیویورک محلی تاسیس شده برای زنایی که تنهان یا خیلی مشغولیات کاری دارن تا با پرداخت مبلغی یک ساعت تو بغل یک مرد باشن و بغل درمانی کنن\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "♦️\nتو نیویورک محلی تاسیس شده برای زنایی که تنهان یا خیلی مشغولیات کاری دارن تا با پرداخت مبلغی یک ساعت تو بغل یک مرد باشن و بغل درمانی کنن\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/158969",
-        "post_id": 158969,
-        "message_id": 145,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-09-17T18:53:10.176583+00:00"
-      },
-      {
-        "fingerprint": "5023590d3c1675413cc595fb8ce26f8c7526194f4b0179402925c25159b140e6",
-        "media_fingerprint": "",
-        "text": "♦️\nرفاهیات کارمندان در کیف پول واریز می‌شود/ استفاده از کیف پول اجباری نیست\n🔹\nطبق تصویب‌نامه هیئت وزیران، دستگاه‌ها باید بخشی از رفاهیات کارکنان را با رضایت خودشان به کیف پول ایران واریز کنند؛ حداقل ماهانه یک میلیون تومان.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nرفاهیات کارمندان در کیف پول واریز می‌شود/ استفاده از کیف پول اجباری نیست\n🔹\nطبق تصویب‌نامه هیئت وزیران، دستگاه‌ها باید بخشی از رفاهیات کارکنان را با رضایت خودشان به کیف پول ایران واریز کنند؛ حداقل ماهانه یک میلیون تومان.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/141929",
-        "post_id": 141929,
-        "message_id": 146,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-17T18:53:12.797793+00:00"
-      },
-      {
-        "fingerprint": "c569d1941684fe1efdb44e473b4a12c254c769b47f796d521f86591462956dbe",
-        "media_fingerprint": "4525dbcf986854b70d63a609b2d2a5a8fcf9800d2f88a672369e627b3da08d35",
-        "text": "تکنولوژی عربستان صد سال از ما جلوتره!\nتکنولوژی عربستان :\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "تکنولوژی عربستان صد سال از ما جلوتره!\nتکنولوژی عربستان :\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/161890",
-        "post_id": 161890,
-        "message_id": 147,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-17T18:53:21.108870+00:00"
-      },
       {
         "fingerprint": "e32da8418b2e9229a80ca88bf78ef409f2e5d106bed11f47579e0e04c98080ff",
         "media_fingerprint": "82d08981b5125cde56c62b34261211980ba3b38476e5e6f44f87cfa85e208f90",
@@ -17651,6 +17610,51 @@
           "akhbar_cafenet"
         ],
         "created_at": "2026-09-21T09:37:29.349657+00:00"
+      },
+      {
+        "fingerprint": "67a17c526158bf4d0bc69483f5c6719e2c23f6c5f0ebfa7009df7b536e5cfb64",
+        "media_fingerprint": "",
+        "text": "📱\nفعالیت فیس‌بوک و اینستاگرام در آمریکا از سر گرفته شد\n🔵\nبر اساس داده‌های وب‌سایت رصد قطعی خدمات «داون دتکتور»، فعالیت پلتفرم‌های شبکه اجتماعی فیس‌بوک و اینستاگرام شرکت متا، پس از یک قطعی کوتاه‌مدت که روز یکشنبه باعث اختلال در خدمات برای هزاران کاربر در آمریکا شده بود، به حالت عادی بازگشت.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "📱\nفعالیت فیس‌بوک و اینستاگرام در آمریکا از سر گرفته شد\n🔵\nبر اساس داده‌های وب‌سایت رصد قطعی خدمات «داون دتکتور»، فعالیت پلتفرم‌های شبکه اجتماعی فیس‌بوک و اینستاگرام شرکت متا، پس از یک قطعی کوتاه‌مدت که روز یکشنبه باعث اختلال در خدمات برای هزاران کاربر در آمریکا شده بود، به حالت عادی بازگشت.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/22520",
+        "post_id": 22520,
+        "message_id": 1224,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-09-21T09:48:00.478075+00:00"
+      },
+      {
+        "fingerprint": "f06e7580a05388aa36e81f1b77b69aab965bce7b2aaba59d3b84722555a11dbe",
+        "media_fingerprint": "bea0b6d512a4e8604cb6be3ebc881803626eb3c618bcd68e4db8db1e9d770dcc",
+        "text": "⚖️\nقوه قضائیه برای «صدور مجوزهای کسب‌وکار» شعبه‌های تحصصی تشکیل می‌دهد\n🔵\nمحضرنیا رئیس مرکز ملی پایش و بهبود محیط کسب‌وکار: این شعبه‌های تخصصی در دادسراهای کیفری و همچنین عمومی و انقلاب مستقر خواهند شد.\n🟠\nتعداد مجوزهای متصل نشده قوه قضائیه به سامانه صدور مجوزها، فقط به ۱۰ مجوز کاهش پیدا کرده است.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "⚖️\nقوه قضائیه برای «صدور مجوزهای کسب‌وکار» شعبه‌های تحصصی تشکیل می‌دهد\n🔵\nمحضرنیا رئیس مرکز ملی پایش و بهبود محیط کسب‌وکار: این شعبه‌های تخصصی در دادسراهای کیفری و همچنین عمومی و انقلاب مستقر خواهند شد.\n🟠\nتعداد مجوزهای متصل نشده قوه قضائیه به سامانه صدور مجوزها، فقط به ۱۰ مجوز کاهش پیدا کرده است.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/22521",
+        "post_id": 22521,
+        "message_id": 1225,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-09-21T09:48:08.833859+00:00"
+      },
+      {
+        "fingerprint": "4ba0e809dc31ae7f28a8d8d9f78c6ae4c54c5ff3cc33cc74cc27ae35b6c8e9be",
+        "media_fingerprint": "",
+        "text": "♦️\nدعوت از ۸ لژیونر به اردوی تیم ملی\n🔹\nقایدی، سامان قدوس و جهانبخش، غایبان بزرگ این لیست هستند.\n🔹\nبازگشت مجدد سردار و خط خوردن مهدی قایدی و علیرضا جهانبخش جز نکات مهم لیست اعلام شده است.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nدعوت از ۸ لژیونر به اردوی تیم ملی\n🔹\nقایدی، سامان قدوس و جهانبخش، غایبان بزرگ این لیست هستند.\n🔹\nبازگشت مجدد سردار و خط خوردن مهدی قایدی و علیرضا جهانبخش جز نکات مهم لیست اعلام شده است.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142138",
+        "post_id": 142138,
+        "message_id": 1226,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-09-21T09:48:11.821258+00:00"
       }
     ]
   }
