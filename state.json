@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142156,
+      "last_id": 142157,
       "processed_ids": [
         141903,
         141904,
@@ -245,9 +245,10 @@
         142153,
         142154,
         142155,
-        142156
+        142156,
+        142157
       ],
-      "sent_count": 75
+      "sent_count": 76
     },
     "total_fut": {
       "last_id": 236556,
@@ -2705,7 +2706,7 @@
       "sent_count": 0
     },
     "hattric_official": {
-      "last_id": 83528,
+      "last_id": 83530,
       "processed_ids": [
         83433,
         83434,
@@ -2792,7 +2793,9 @@
         83525,
         83526,
         83527,
-        83528
+        83528,
+        83529,
+        83530
       ],
       "sent_count": 0
     },
@@ -2844,21 +2847,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "ca16bcd3e699c678400f6369bc38a34735c95daa7d077b37faba7014864acead",
-        "media_fingerprint": "2f3727644f80f389f962635d4ab3ca93c5ebde209592324e386596fda477678f",
-        "text": "🔻\nبنز G580 پلاک ملی ... قیمت ۳۲۰ میلیارد تومان !!!\n۳۲۰ میلیارد خودش به تنهایی رقم کلانه اونم برای یک ماشین  ...\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "🔻\nبنز G580 پلاک ملی ... قیمت ۳۲۰ میلیارد تومان !!!\n۳۲۰ میلیارد خودش به تنهایی رقم کلانه اونم برای یک ماشین  ...\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/158975",
-        "post_id": 158975,
-        "message_id": 237,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-09-18T07:22:05.501167+00:00"
-      },
       {
         "fingerprint": "cbcd25c6399017004d2805d92d54ecd694efd43de2fd7ac406bc6148617af0c2",
         "media_fingerprint": "2d646f548c6d5c4a5d36e8c810d979da7d94a73526ca3483da2c28a18e638253",
@@ -17884,6 +17872,21 @@
           "drtel"
         ],
         "created_at": "2026-09-21T14:55:38.415784+00:00"
+      },
+      {
+        "fingerprint": "4fe7fce680dae7f6bd7d0456c11e52df0461260a67d33829e1f647de1a9fc362",
+        "media_fingerprint": "e9112d552111575e5817c05819896832e24ff931b79e9d464502b605d5397d52",
+        "text": "♦️\nاولین روز مدرسه یک شیرازی\n😂\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nاولین روز مدرسه یک شیرازی\n😂\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142157",
+        "post_id": 142157,
+        "message_id": 1313,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-09-21T15:04:02.016017+00:00"
       }
     ]
   }
