@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142151,
+      "last_id": 142152,
       "processed_ids": [
         141903,
         141904,
@@ -240,12 +240,13 @@
         142148,
         142149,
         142150,
-        142151
+        142151,
+        142152
       ],
       "sent_count": 71
     },
     "total_fut": {
-      "last_id": 236549,
+      "last_id": 236550,
       "processed_ids": [
         236405,
         236407,
@@ -384,7 +385,8 @@
         236546,
         236547,
         236548,
-        236549
+        236549,
+        236550
       ],
       "sent_count": 0
     },
@@ -1214,7 +1216,7 @@
       "sent_count": 45
     },
     "comentiat": {
-      "last_id": 25939,
+      "last_id": 25940,
       "processed_ids": [
         25844,
         25845,
@@ -1299,9 +1301,10 @@
         25936,
         25937,
         25938,
-        25939
+        25939,
+        25940
       ],
-      "sent_count": 24
+      "sent_count": 25
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -2644,7 +2647,7 @@
       "sent_count": 0
     },
     "hattric_official": {
-      "last_id": 83525,
+      "last_id": 83526,
       "processed_ids": [
         83433,
         83434,
@@ -2728,7 +2731,8 @@
         83522,
         83523,
         83524,
-        83525
+        83525,
+        83526
       ],
       "sent_count": 0
     },
@@ -2779,21 +2783,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "ef7aed50964ecc8395fb5a4c01cfa7719307ea6157f46dc313a0086c2b94d820",
-        "media_fingerprint": "384a93ad79b67395fe1ae8626c1501eef14e04e467c7bea227f832de07d2cf69",
-        "text": "پرامپتش:\nA GRAPHIC ADVERTISEMENT FEATURING A BEAUTIFUL WOMAN OBSCURED BY A VERTICAL\nCORRUGATED GLASS PARTITION. THE RIBBED GLASS DISTORTS THE SUBJECT'S FACE, SUNGLASSES\nAND SHOULDERS INTO THIN, PARALLEL VERTICAL BANDS. IN THE CENTER OF THE IMAGE, THE\nLIGHTING IS SOFT AND DIFFUSED, CREATING A WARM, MINIMALIST AESTHETIC. THE EFFECTS\nCALLED FRACTAL HAZE, THE LINES SHOULD BE DISTORTING\n🎨\nMake your photo",
-        "original_username": "digiai",
-        "original_text": "پرامپتش:\nA GRAPHIC ADVERTISEMENT FEATURING A BEAUTIFUL WOMAN OBSCURED BY A VERTICAL\nCORRUGATED GLASS PARTITION. THE RIBBED GLASS DISTORTS THE SUBJECT'S FACE, SUNGLASSES\nAND SHOULDERS INTO THIN, PARALLEL VERTICAL BANDS. IN THE CENTER OF THE IMAGE, THE\nLIGHTING IS SOFT AND DIFFUSED, CREATING A WARM, MINIMALIST AESTHETIC. THE EFFECTS\nCALLED FRACTAL HAZE, THE LINES SHOULD BE DISTORTING\n🎨\nMake your photo",
-        "original_link": "https://t.me/digiai/2526",
-        "post_id": 2526,
-        "message_id": 211,
-        "message_kind": "caption",
-        "sources": [
-          "digiai"
-        ],
-        "created_at": "2026-09-18T04:36:52.074239+00:00"
-      },
       {
         "fingerprint": "f1348d7347104e0a208b404ba459b5b397dc56896e9b861e07521d3ee4c7937b",
         "media_fingerprint": "20e0b63a0a4506229613b5914c59bb0898f2bc7d09aeede441daacdade1d2472",
@@ -17820,6 +17809,21 @@
           "fars_today"
         ],
         "created_at": "2026-09-21T13:28:25.472349+00:00"
+      },
+      {
+        "fingerprint": "89aa134007f2f81a657c9b04f7ba087a6f44529518c98bcc1b29efadffc675ba",
+        "media_fingerprint": "5f0f0d57ef57a3e3959f72b4bc5c6bdf089595f3158739c859f2709e75af1040",
+        "text": "مردان طنز پرداز:|\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "مردان طنز پرداز:|\n@comentiat",
+        "original_link": "https://t.me/Comentiat/25940",
+        "post_id": 25940,
+        "message_id": 1289,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-09-21T13:39:55.448069+00:00"
       }
     ]
   }
