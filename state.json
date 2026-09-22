@@ -294,7 +294,7 @@
       "sent_count": 115
     },
     "total_fut": {
-      "last_id": 236614,
+      "last_id": 236615,
       "processed_ids": [
         236405,
         236407,
@@ -495,7 +495,8 @@
         236611,
         236612,
         236613,
-        236614
+        236614,
+        236615
       ],
       "sent_count": 0
     },
@@ -808,7 +809,7 @@
       "sent_count": 1
     },
     "fars_today": {
-      "last_id": 132012,
+      "last_id": 132013,
       "processed_ids": [
         131975,
         131976,
@@ -847,7 +848,8 @@
         132009,
         132010,
         132011,
-        132012
+        132012,
+        132013
       ],
       "sent_count": 18
     },
@@ -1121,7 +1123,7 @@
       "sent_count": 0
     },
     "pc_it_mob": {
-      "last_id": 11891,
+      "last_id": 11892,
       "processed_ids": [
         11816,
         11817,
@@ -1186,7 +1188,8 @@
         11888,
         11889,
         11890,
-        11891
+        11891,
+        11892
       ],
       "sent_count": 18
     },
@@ -2037,7 +2040,7 @@
       "sent_count": 42
     },
     "ajayebe_jahann": {
-      "last_id": 159117,
+      "last_id": 159118,
       "processed_ids": [
         158956,
         158957,
@@ -2199,9 +2202,10 @@
         159114,
         159115,
         159116,
-        159117
+        159117,
+        159118
       ],
-      "sent_count": 49
+      "sent_count": 50
     },
     "etelaate_omoomi": {
       "last_id": 43093,
@@ -2773,7 +2777,7 @@
       "sent_count": 8
     },
     "totalfut_plus": {
-      "last_id": 25990,
+      "last_id": 25991,
       "processed_ids": [
         25870,
         25871,
@@ -2893,7 +2897,8 @@
         25987,
         25988,
         25989,
-        25990
+        25990,
+        25991
       ],
       "sent_count": 0
     },
@@ -3292,7 +3297,7 @@
       "sent_count": 0
     },
     "hattric_official": {
-      "last_id": 83572,
+      "last_id": 83574,
       "processed_ids": [
         83433,
         83434,
@@ -3421,7 +3426,9 @@
         83569,
         83570,
         83571,
-        83572
+        83572,
+        83573,
+        83574
       ],
       "sent_count": 0
     },
@@ -3492,21 +3499,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "a66a5bdf995b0ffb0b6f8f0a11e261211ef8c8b812573a944eda2a718530cba3",
-        "media_fingerprint": "",
-        "text": "♦️\nپدر شهید هلما سادات احمدی زاده: از همه دوستان سینمایی می‌خواهم خبر فاجعه لامرد را هم به گوش دنیا برسانند این خبر کمتر از فاجعه مدرسه میناب نبود\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nپدر شهید هلما سادات احمدی زاده: از همه دوستان سینمایی می‌خواهم خبر فاجعه لامرد را هم به گوش دنیا برسانند این خبر کمتر از فاجعه مدرسه میناب نبود\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142000",
-        "post_id": 142000,
-        "message_id": 509,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-19T07:10:08.191956+00:00"
-      },
       {
         "fingerprint": "fb6230e10adcb411c8397cc5f885161ee978445214fb9c9ffffab05f554f8491",
         "media_fingerprint": "ececacdc347a07f86a42e99edc31511e30b9ed3d1e9b0318cde2f4f735b506da",
@@ -18173,7 +18165,8 @@
         "message_kind": "text",
         "sources": [
           "akhbar_cafenet",
-          "akhbarfars"
+          "akhbarfars",
+          "fars_today"
         ],
         "created_at": "2026-09-22T10:05:44.292820+00:00"
       },
@@ -18536,6 +18529,21 @@
           "majalepezeshki"
         ],
         "created_at": "2026-09-22T10:56:36.504190+00:00"
+      },
+      {
+        "fingerprint": "6bf5bf17dbf986ca5f5aeb3d22ba7833f27c1841b1cd29f278ce95d57da95016",
+        "media_fingerprint": "6d4292e01dba71a5460abd8af709a160c3a82738c4fb76d5250c2e2276ef0d1d",
+        "text": "🔻\nشکار لحظه‌ای نادر از خورشید در عکس روز ناسا\n🔸\nناسا در عکس روز خود سیلوئت یا سایه‌نمایی غیرمنتظره از خورشید را به نمایش گذاشته است.\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "🔻\nشکار لحظه‌ای نادر از خورشید در عکس روز ناسا\n🔸\nناسا در عکس روز خود سیلوئت یا سایه‌نمایی غیرمنتظره از خورشید را به نمایش گذاشته است.\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/159118",
+        "post_id": 159118,
+        "message_id": 1567,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-09-22T11:06:13.047617+00:00"
       }
     ]
   }
