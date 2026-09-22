@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142224,
+      "last_id": 142225,
       "processed_ids": [
         141903,
         141904,
@@ -309,12 +309,13 @@
         142221,
         142222,
         142223,
-        142224
+        142224,
+        142225
       ],
-      "sent_count": 129
+      "sent_count": 130
     },
     "total_fut": {
-      "last_id": 236634,
+      "last_id": 236635,
       "processed_ids": [
         236405,
         236407,
@@ -535,7 +536,8 @@
         236631,
         236632,
         236633,
-        236634
+        236634,
+        236635
       ],
       "sent_count": 1
     },
@@ -2732,7 +2734,7 @@
       "sent_count": 18
     },
     "varzesh3": {
-      "last_id": 302616,
+      "last_id": 302617,
       "processed_ids": [
         302363,
         302364,
@@ -2951,7 +2953,8 @@
         302606,
         302607,
         302608,
-        302616
+        302616,
+        302617
       ],
       "sent_count": 8
     },
@@ -3098,7 +3101,7 @@
       "sent_count": 0
     },
     "adak_ir_official": {
-      "last_id": 234019,
+      "last_id": 234021,
       "processed_ids": [
         233831,
         233833,
@@ -3287,7 +3290,9 @@
         234016,
         234017,
         234018,
-        234019
+        234019,
+        234020,
+        234021
       ],
       "sent_count": 0
     },
@@ -3532,7 +3537,7 @@
       "sent_count": 0
     },
     "hattric_official": {
-      "last_id": 83600,
+      "last_id": 83602,
       "processed_ids": [
         83433,
         83434,
@@ -3683,7 +3688,8 @@
         83592,
         83595,
         83598,
-        83600
+        83600,
+        83602
       ],
       "sent_count": 0
     },
@@ -3765,21 +3771,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "8c4f02b94f4a95eb3968cb68d2651a6237b4b4099f97eeba751a8b872aa64926",
-        "media_fingerprint": "f7daabc25625183758c13a4b6309e5e0ea29bb1d5bc02aefa6fc1377efa98c6e",
-        "text": "💰\nقیمت طلا، سکه و ارز\n۲۸ شهریور ۱۴۰۵\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "💰\nقیمت طلا، سکه و ارز\n۲۸ شهریور ۱۴۰۵\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142016",
-        "post_id": 142016,
-        "message_id": 606,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-19T11:52:36.250107+00:00"
-      },
       {
         "fingerprint": "69cfc950f37abaec5ca4008fb1d757f493a83f455fce7088d0ef2a97bdd86526",
         "media_fingerprint": "",
@@ -18816,6 +18807,21 @@
           "akhbarfars"
         ],
         "created_at": "2026-09-22T17:40:43.860077+00:00"
+      },
+      {
+        "fingerprint": "e35a9512e58bcb3b17403c54beee0a148e8bf926cdeea89ece7545c96c32fec7",
+        "media_fingerprint": "",
+        "text": "♦️\nاستیضاح میدری، وزیر کار تصویب شد\n🔹\nدر پی یک جلسه پرتنش چهار ساعته، نمایندگان استیضاح‌کننده احمد میدری، وزیر تعاون، کار و رفاه اجتماعی، از توضیحات وزیر قانع نشدند؛ به این ترتیب، طرح استیضاح میدری تصویب شد و برای بررسی در صحن علنی مجلس ارجاع خواهد شد.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nاستیضاح میدری، وزیر کار تصویب شد\n🔹\nدر پی یک جلسه پرتنش چهار ساعته، نمایندگان استیضاح‌کننده احمد میدری، وزیر تعاون، کار و رفاه اجتماعی، از توضیحات وزیر قانع نشدند؛ به این ترتیب، طرح استیضاح میدری تصویب شد و برای بررسی در صحن علنی مجلس ارجاع خواهد شد.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142225",
+        "post_id": 142225,
+        "message_id": 1667,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-09-22T17:52:44.444877+00:00"
       }
     ]
   }
