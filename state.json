@@ -723,11 +723,12 @@
       "sent_count": 7
     },
     "tg_ir": {
-      "last_id": 2302,
+      "last_id": 2303,
       "processed_ids": [
-        2302
+        2302,
+        2303
       ],
-      "sent_count": 0
+      "sent_count": 1
     },
     "it_pishkhan": {
       "last_id": 9555,
@@ -3229,21 +3230,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "23749335f32499a3e35baf34111f7327ddacc2b791629d7d91bfa0250318e338",
-        "media_fingerprint": "b4ba25cbfb1b83e21d06317b10d20a82092dbeaaeebab3f90bccc595a506e59f",
-        "text": "♦️\nاسم گل‌های مشهور دنیا رو می‌دونستی؟\n👀\n🌺\n#دانستنی\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nاسم گل‌های مشهور دنیا رو می‌دونستی؟\n👀\n🌺\n#دانستنی\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/141980",
-        "post_id": 141980,
-        "message_id": 376,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-18T16:45:05.233890+00:00"
-      },
       {
         "fingerprint": "83a7e2f8c32e93d6eed02b9571e9c0ec82ffd9f07744ea7c97a979546169c72e",
         "media_fingerprint": "e78d2ff4f635ec427eca6c2a073fcfb30d2713eeb4a8a5fd8265918ed598a98a",
@@ -18273,6 +18259,21 @@
           "drtel"
         ],
         "created_at": "2026-09-22T00:26:52.286743+00:00"
+      },
+      {
+        "fingerprint": "863e23bc262b5504a0eac933107d48c5a8cd339ac0f6b468869e145785688552",
+        "media_fingerprint": "",
+        "text": "🎤\nThanks to @Telegram (𝕏) for accepting the interview, Telegram X account admin and streamer.\n➖\n➖\n➖\n➖\n1⃣\nAlright, intern, let’s start from the beginning. How did you discover and get the job as the administrator of Telegram’s X account, and how did you feel…",
+        "original_username": "tg_ir",
+        "original_text": "🎤\nThanks to @Telegram (𝕏) for accepting the interview, Telegram X account admin and streamer.\n➖\n➖\n➖\n➖\n1⃣\nAlright, intern, let’s start from the beginning. How did you discover and get the job as the administrator of Telegram’s X account, and how did you feel…",
+        "original_link": "https://t.me/tg_ir/2303",
+        "post_id": 2303,
+        "message_id": 1446,
+        "message_kind": "text",
+        "sources": [
+          "tg_ir"
+        ],
+        "created_at": "2026-09-22T02:32:40.042209+00:00"
       }
     ]
   }
