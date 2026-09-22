@@ -301,7 +301,7 @@
       "sent_count": 120
     },
     "total_fut": {
-      "last_id": 236620,
+      "last_id": 236622,
       "processed_ids": [
         236405,
         236407,
@@ -508,12 +508,14 @@
         236617,
         236618,
         236619,
-        236620
+        236620,
+        236621,
+        236622
       ],
       "sent_count": 0
     },
     "footballvision2": {
-      "last_id": 169160,
+      "last_id": 169161,
       "processed_ids": [
         168857,
         168858,
@@ -803,7 +805,8 @@
         169157,
         169158,
         169159,
-        169160
+        169160,
+        169161
       ],
       "sent_count": 11
     },
@@ -882,7 +885,7 @@
       "sent_count": 2
     },
     "drtel": {
-      "last_id": 66788,
+      "last_id": 66789,
       "processed_ids": [
         66561,
         66565,
@@ -1054,7 +1057,8 @@
         66785,
         66786,
         66787,
-        66788
+        66788,
+        66789
       ],
       "sent_count": 76
     },
@@ -1328,7 +1332,7 @@
       "sent_count": 18
     },
     "roidbest": {
-      "last_id": 21660,
+      "last_id": 21661,
       "processed_ids": [
         21613,
         21614,
@@ -1376,9 +1380,10 @@
         21657,
         21658,
         21659,
-        21660
+        21660,
+        21661
       ],
-      "sent_count": 22
+      "sent_count": 23
     },
     "akhbar_cafenet": {
       "last_id": 22571,
@@ -2614,7 +2619,7 @@
       "sent_count": 17
     },
     "varzesh3": {
-      "last_id": 302600,
+      "last_id": 302601,
       "processed_ids": [
         302363,
         302364,
@@ -2824,7 +2829,8 @@
         302597,
         302598,
         302599,
-        302600
+        302600,
+        302601
       ],
       "sent_count": 8
     },
@@ -3148,7 +3154,7 @@
       "sent_count": 0
     },
     "futball180tv": {
-      "last_id": 107070,
+      "last_id": 107072,
       "processed_ids": [
         106848,
         106849,
@@ -3368,12 +3374,14 @@
         107066,
         107067,
         107068,
-        107070
+        107070,
+        107071,
+        107072
       ],
       "sent_count": 0
     },
     "hattric_official": {
-      "last_id": 83583,
+      "last_id": 83584,
       "processed_ids": [
         83433,
         83434,
@@ -3512,7 +3520,8 @@
         83580,
         83581,
         83582,
-        83583
+        83583,
+        83584
       ],
       "sent_count": 0
     },
@@ -3586,22 +3595,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "8307c12559d5440c511b9c8cba656887a130af6bb66f87556cc52331bab4c31f",
-        "media_fingerprint": "",
-        "text": "♦️\nآغاز واریز حقوق شهریور بازنشستگان لشکری بدون معوقه\nفعال صنفی بازنشستگان لشکری:\n🔹\nمعوقه ۴ ماهه فوق العاده بازنشستگان از طرف سازمان برنامه و بودجه تامین اعتبار نشد و ظاهراً پرداخت آن به ماه‌های بعد موکول شد/ ایلنا\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nآغاز واریز حقوق شهریور بازنشستگان لشکری بدون معوقه\nفعال صنفی بازنشستگان لشکری:\n🔹\nمعوقه ۴ ماهه فوق العاده بازنشستگان از طرف سازمان برنامه و بودجه تامین اعتبار نشد و ظاهراً پرداخت آن به ماه‌های بعد موکول شد/ ایلنا\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142007",
-        "post_id": 142007,
-        "message_id": 539,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars",
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-09-19T08:46:24.686523+00:00"
-      },
       {
         "fingerprint": "97ac91010e78a7843242b77ef01ca68a5a708db400880e2ed27651efd951d80b",
         "media_fingerprint": "2674ec650233b48f23d1d55cbba7fa6f049fc4f2884e2499edcc1201702a855e",
@@ -18633,6 +18626,21 @@
           "akhbar_cafenet"
         ],
         "created_at": "2026-09-22T13:24:03.705483+00:00"
+      },
+      {
+        "fingerprint": "a5e81d20a1f48b6e2ab751c2978780cf5225a8fc2b925eae6718d06f1e151228",
+        "media_fingerprint": "015f4fc72b7abe9d55922f76aa6f4e359988dd02b9443f8ec87f2e145d85746a",
+        "text": "+ به نظرتون اگه به استادم بگم این موجود نذاشت پایان نامه رو تکمیل کنم ، ازم قبول میکنه؟ :))\n@RoidBest",
+        "original_username": "roidbest",
+        "original_text": "+ به نظرتون اگه به استادم بگم این موجود نذاشت پایان نامه رو تکمیل کنم ، ازم قبول میکنه؟ :))\n@RoidBest",
+        "original_link": "https://t.me/RoidBest/21661",
+        "post_id": 21661,
+        "message_id": 1597,
+        "message_kind": "caption",
+        "sources": [
+          "roidbest"
+        ],
+        "created_at": "2026-09-22T13:37:59.870571+00:00"
       }
     ]
   }
