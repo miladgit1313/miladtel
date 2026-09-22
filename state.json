@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142237,
+      "last_id": 142239,
       "processed_ids": [
         141903,
         141904,
@@ -321,7 +321,9 @@
         142234,
         142235,
         142236,
-        142237
+        142237,
+        142238,
+        142239
       ],
       "sent_count": 140
     },
@@ -561,7 +563,7 @@
       "sent_count": 1
     },
     "footballvision2": {
-      "last_id": 169173,
+      "last_id": 169174,
       "processed_ids": [
         168857,
         168858,
@@ -864,9 +866,10 @@
         169170,
         169171,
         169172,
-        169173
+        169173,
+        169174
       ],
-      "sent_count": 12
+      "sent_count": 13
     },
     "tg_ir": {
       "last_id": 2303,
@@ -3860,21 +3863,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "98e9381d1fb24fe64091a6be65d2520f122c0e086b8080e89ae255b61d69af6b",
-        "media_fingerprint": "19dc90db9be2f787e42fe40fd2bc05fa5dad9e551e1a5ab87ad489a44767fbb8",
-        "text": "ثبت نام سایپا\n▪️\nشرکت سایپا شرایط فروش دو خودروی کوییک GX-L و سهند S را با قیمت قطعی و موعد تحویل 90 روزه ویژه طرح جایگزینی خودروهای فرسوده اعلام کرد.\n▪️\nاز ساعت 10 روز دوشنبه 30 شهریورماه تا زمان تکمیل ظرفیت\nhttps://saipa.iranecar.com/auth/signin",
-        "original_username": "amozesh_cafenet",
-        "original_text": "ثبت نام سایپا\n▪️\nشرکت سایپا شرایط فروش دو خودروی کوییک GX-L و سهند S را با قیمت قطعی و موعد تحویل 90 روزه ویژه طرح جایگزینی خودروهای فرسوده اعلام کرد.\n▪️\nاز ساعت 10 روز دوشنبه 30 شهریورماه تا زمان تکمیل ظرفیت\nhttps://saipa.iranecar.com/auth/signin",
-        "original_link": "https://t.me/amozesh_cafenet/3088",
-        "post_id": 3088,
-        "message_id": 642,
-        "message_kind": "caption",
-        "sources": [
-          "amozesh_cafenet"
-        ],
-        "created_at": "2026-09-19T14:04:28.318066+00:00"
-      },
       {
         "fingerprint": "be844696f0ec706379683dec90c42fa3aae9c1994a6061d6bd19733d0fe97955",
         "media_fingerprint": "860e06121a5e988744eeb0fd09df2e358980bb62ca15c96132d1478a867c0997",
@@ -18911,6 +18899,21 @@
           "akhbar_cafenet"
         ],
         "created_at": "2026-09-22T19:21:41.680638+00:00"
+      },
+      {
+        "fingerprint": "bf57b490f157bf0a7d4b9055fb46a7867409eace57b802aeac0f4c176f8383a9",
+        "media_fingerprint": "16b2b10420027683e6951836e1a7fa8012d6d3189c0135538d8837c83160b4e7",
+        "text": "👀\nکنعانی که در دربی فلاح را تهدید کرده بود، حالا خودش به تیم ملی دعوت نشده است؛\n❌\n«نمی‌ذارم پاتو بذاری تیم ملی!»\n🔘\n@Navadne\nwstelegram",
+        "original_username": "footballvision2",
+        "original_text": "👀\nکنعانی که در دربی فلاح را تهدید کرده بود، حالا خودش به تیم ملی دعوت نشده است؛\n❌\n«نمی‌ذارم پاتو بذاری تیم ملی!»\n🔘\n@Navadne\nwstelegram",
+        "original_link": "https://t.me/footballvision2/169174",
+        "post_id": 169174,
+        "message_id": 1706,
+        "message_kind": "caption",
+        "sources": [
+          "footballvision2"
+        ],
+        "created_at": "2026-09-22T19:34:34.211460+00:00"
       }
     ]
   }
