@@ -1181,7 +1181,7 @@
       "sent_count": 4
     },
     "drtel": {
-      "last_id": 66875,
+      "last_id": 66876,
       "processed_ids": [
         66561,
         66565,
@@ -1426,9 +1426,10 @@
         66872,
         66873,
         66874,
-        66875
+        66875,
+        66876
       ],
-      "sent_count": 135
+      "sent_count": 136
     },
     "techtube": {
       "last_id": 18322,
@@ -1999,7 +2000,7 @@
       "sent_count": 118
     },
     "comentiat": {
-      "last_id": 26009,
+      "last_id": 26010,
       "processed_ids": [
         25844,
         25845,
@@ -2148,9 +2149,10 @@
         26005,
         26006,
         26008,
-        26009
+        26009,
+        26010
       ],
-      "sent_count": 80
+      "sent_count": 81
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -4749,36 +4751,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "b75638445a3accbe460900bc5c569ada6e37f0461eb87578e3f76b7fa3475ba2",
-        "media_fingerprint": "",
-        "text": "♦️\nپایگاه خبری اماراتی العین مدعی شد ایران کمتر از ۱۰ روز پس از کنترل سواحل غربی یمن توسط حوثی‌ها، برای گسترش نفوذ خود در این منطقه راهبردی وارد عمل شده است\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nپایگاه خبری اماراتی العین مدعی شد ایران کمتر از ۱۰ روز پس از کنترل سواحل غربی یمن توسط حوثی‌ها، برای گسترش نفوذ خود در این منطقه راهبردی وارد عمل شده است\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142100",
-        "post_id": 142100,
-        "message_id": 1007,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-20T14:54:51.633633+00:00"
-      },
-      {
-        "fingerprint": "f5275d2a387a963b30c856de59cbf36b299f7ea5a3b7ec7de955653dcedf59ab",
-        "media_fingerprint": "",
-        "text": "تو ژاپن حتی گوگل مَپ هم فرق دارره\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "تو ژاپن حتی گوگل مَپ هم فرق دارره\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52336",
-        "post_id": 52336,
-        "message_id": 1008,
-        "message_kind": "text",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-09-20T15:03:59.720477+00:00"
-      },
       {
         "fingerprint": "0900167fbf1b744ab05456ecce86b9d373dac7bef9c6ca988172c50116ffd443",
         "media_fingerprint": "2c2933bc931358f7864f2435d1c56a8684be75d2776a2f2b865db34136c903f7",
@@ -19797,6 +19769,36 @@
           "drtel"
         ],
         "created_at": "2026-09-23T22:23:29.537274+00:00"
+      },
+      {
+        "fingerprint": "8f06863cc8d0ee2fee6abd5a8c13048eaac6a326cb46e06102a5f3bb7e1eb934",
+        "media_fingerprint": "929be141d69ca1234d3673547b51abc9f6c18e33be62977fa102616c9590905a",
+        "text": "🔴\nتانکر ترکرز :\nنزدیک به شش میلیون بشکه نفت خام توقیف‌شده‌ی ایران، بی‌سروصدا داره به آمریکا منتقل میشه.\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nتانکر ترکرز :\nنزدیک به شش میلیون بشکه نفت خام توقیف‌شده‌ی ایران، بی‌سروصدا داره به آمریکا منتقل میشه.\n@DrTeL",
+        "original_link": "https://t.me/drtel/66876",
+        "post_id": 66876,
+        "message_id": 2046,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-09-23T22:58:22.543030+00:00"
+      },
+      {
+        "fingerprint": "c186de123aa7490c2ca0494fdf0f0c15934634de0a6f3dab7ecd97914cbb5d11",
+        "media_fingerprint": "c1cb41c228f7fb53218bc66982665b199692c1eb6230cf60747e1a6771be56c2",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26010",
+        "post_id": 26010,
+        "message_id": 2047,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-09-23T22:58:26.671943+00:00"
       }
     ]
   }
