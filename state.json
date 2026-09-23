@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142272,
+      "last_id": 142273,
       "processed_ids": [
         141903,
         141904,
@@ -354,12 +354,13 @@
         142269,
         142270,
         142271,
-        142272
+        142272,
+        142273
       ],
-      "sent_count": 167
+      "sent_count": 168
     },
     "total_fut": {
-      "last_id": 236675,
+      "last_id": 236677,
       "processed_ids": [
         236405,
         236407,
@@ -617,12 +618,14 @@
         236672,
         236673,
         236674,
-        236675
+        236675,
+        236676,
+        236677
       ],
       "sent_count": 1
     },
     "footballvision2": {
-      "last_id": 169227,
+      "last_id": 169228,
       "processed_ids": [
         168857,
         168858,
@@ -979,7 +982,8 @@
         169224,
         169225,
         169226,
-        169227
+        169227,
+        169228
       ],
       "sent_count": 17
     },
@@ -2752,7 +2756,7 @@
       "sent_count": 9
     },
     "ft360_ir": {
-      "last_id": 108205,
+      "last_id": 108206,
       "processed_ids": [
         107883,
         107884,
@@ -3066,12 +3070,13 @@
         108202,
         108203,
         108204,
-        108205
+        108205,
+        108206
       ],
       "sent_count": 19
     },
     "varzesh3": {
-      "last_id": 302654,
+      "last_id": 302655,
       "processed_ids": [
         302363,
         302364,
@@ -3323,7 +3328,8 @@
         302651,
         302652,
         302653,
-        302654
+        302654,
+        302655
       ],
       "sent_count": 9
     },
@@ -3496,7 +3502,7 @@
       "sent_count": 0
     },
     "adak_ir_official": {
-      "last_id": 234059,
+      "last_id": 234060,
       "processed_ids": [
         233831,
         233833,
@@ -3725,12 +3731,13 @@
         234056,
         234057,
         234058,
-        234059
+        234059,
+        234060
       ],
       "sent_count": 0
     },
     "futball180tv": {
-      "last_id": 107121,
+      "last_id": 107122,
       "processed_ids": [
         106848,
         106849,
@@ -3999,7 +4006,8 @@
         107118,
         107119,
         107120,
-        107121
+        107121,
+        107122
       ],
       "sent_count": 0
     },
@@ -4282,21 +4290,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "203b860c7ff3edf78c655c78d9a0eb64987543027f954449e10a70e7552df9ab",
-        "media_fingerprint": "d7368493279e384b4553d9212e54ec7808e32e0ebab47f8d598a48232f81922f",
-        "text": "@Comentiat",
-        "original_username": "comentiat",
-        "original_text": "@Comentiat",
-        "original_link": "https://t.me/Comentiat/25905",
-        "post_id": 25905,
-        "message_id": 799,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-09-19T22:28:48.780874+00:00"
-      },
       {
         "fingerprint": "7de15f21a5258b0f4003f41075d62ea7d9ce07b0cd673f56f5ee557b885890e1",
         "media_fingerprint": "db73f15af10965127cf32f4063e39dec23ebaed33a479df3948291f434a5c67f",
@@ -19333,6 +19326,21 @@
           "akhbar_cafenet"
         ],
         "created_at": "2026-09-23T11:06:52.600317+00:00"
+      },
+      {
+        "fingerprint": "53cb1f5b0d24265292c51ebd30b79c9a6c3be53086cd0987b288d43517ea0d96",
+        "media_fingerprint": "aa97d3d9c0571ce1acb71aeaf8caee906398a4bedd15e70f58a6f04632f46cfd",
+        "text": "💰\nقیمت طلا، سکه و ارز\n۱ مهر ۱۴۰۵\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "💰\nقیمت طلا، سکه و ارز\n۱ مهر ۱۴۰۵\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142273",
+        "post_id": 142273,
+        "message_id": 1867,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-09-23T11:21:27.359505+00:00"
       }
     ]
   }
