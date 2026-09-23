@@ -1181,7 +1181,7 @@
       "sent_count": 4
     },
     "drtel": {
-      "last_id": 66873,
+      "last_id": 66874,
       "processed_ids": [
         66561,
         66565,
@@ -1424,9 +1424,10 @@
         66869,
         66870,
         66872,
-        66873
+        66873,
+        66874
       ],
-      "sent_count": 133
+      "sent_count": 134
     },
     "techtube": {
       "last_id": 18322,
@@ -4408,7 +4409,7 @@
       "sent_count": 0
     },
     "hattric_official": {
-      "last_id": 83666,
+      "last_id": 83667,
       "processed_ids": [
         83433,
         83434,
@@ -4623,7 +4624,8 @@
         83663,
         83664,
         83665,
-        83666
+        83666,
+        83667
       ],
       "sent_count": 0
     },
@@ -4736,21 +4738,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "f4c085246b6a2a39f92abf983895fc38291c20160f4b29522d301249a3bb123d",
-        "media_fingerprint": "73ee44af711c01c56a335ed9b20d9cca215c75c4091fad226fe570b0e9bbabc5",
-        "text": "یبار دیگه بگو چی شد که عاشقم شدی؟\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "یبار دیگه بگو چی شد که عاشقم شدی؟\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162017",
-        "post_id": 162017,
-        "message_id": 1001,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-20T14:40:36.168145+00:00"
-      },
       {
         "fingerprint": "6d755978286fadc0de52764f2dbb7c400729265d166f7ed7ab31283fe36b3f5d",
         "media_fingerprint": "d1fbe7074751bef7553b9ee8821ba7c8cac3d2a027f0b9d8fd9dcfc1627c0551",
@@ -19784,6 +19771,21 @@
           "drtel"
         ],
         "created_at": "2026-09-23T21:16:54.567368+00:00"
+      },
+      {
+        "fingerprint": "f6c4074cc3b80978c158946732a2486b8ae716a91b313f1d0ab6a4579a82bc87",
+        "media_fingerprint": "78de790d9782fd149957d0260a914e82f107402ee9457fc1a835005a76fbf56e",
+        "text": "🔴\nرسانه‌ی حال‌وش :\nدقایقی پیش تو محدوده‌ی جهادآبادِ سراوان تو سیستان و بلوچستان، درگیری مسلحانه‌ی سنگینی شکل گرفته به طوری که\nآرپی‌جی هم شلیک شده\n!\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nرسانه‌ی حال‌وش :\nدقایقی پیش تو محدوده‌ی جهادآبادِ سراوان تو سیستان و بلوچستان، درگیری مسلحانه‌ی سنگینی شکل گرفته به طوری که\nآرپی‌جی هم شلیک شده\n!\n@DrTeL",
+        "original_link": "https://t.me/drtel/66874",
+        "post_id": 66874,
+        "message_id": 2040,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-09-23T21:48:57.773686+00:00"
       }
     ]
   }
