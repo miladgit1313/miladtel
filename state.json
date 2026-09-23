@@ -349,7 +349,7 @@
       "sent_count": 159
     },
     "total_fut": {
-      "last_id": 236668,
+      "last_id": 236669,
       "processed_ids": [
         236405,
         236407,
@@ -600,12 +600,13 @@
         236665,
         236666,
         236667,
-        236668
+        236668,
+        236669
       ],
       "sent_count": 1
     },
     "footballvision2": {
-      "last_id": 169222,
+      "last_id": 169223,
       "processed_ids": [
         168857,
         168858,
@@ -957,7 +958,8 @@
         169219,
         169220,
         169221,
-        169222
+        169222,
+        169223
       ],
       "sent_count": 17
     },
@@ -1783,7 +1785,7 @@
       "sent_count": 102
     },
     "comentiat": {
-      "last_id": 25988,
+      "last_id": 25989,
       "processed_ids": [
         25844,
         25845,
@@ -1914,9 +1916,10 @@
         25985,
         25986,
         25987,
-        25988
+        25988,
+        25989
       ],
-      "sent_count": 64
+      "sent_count": 65
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -2701,7 +2704,7 @@
       "sent_count": 9
     },
     "ft360_ir": {
-      "last_id": 108199,
+      "last_id": 108200,
       "processed_ids": [
         107883,
         107884,
@@ -3009,12 +3012,13 @@
         108196,
         108197,
         108198,
-        108199
+        108199,
+        108200
       ],
       "sent_count": 19
     },
     "varzesh3": {
-      "last_id": 302644,
+      "last_id": 302646,
       "processed_ids": [
         302363,
         302364,
@@ -3257,7 +3261,9 @@
         302641,
         302642,
         302643,
-        302644
+        302644,
+        302645,
+        302646
       ],
       "sent_count": 9
     },
@@ -3653,7 +3659,7 @@
       "sent_count": 0
     },
     "futball180tv": {
-      "last_id": 107114,
+      "last_id": 107115,
       "processed_ids": [
         106848,
         106849,
@@ -3915,12 +3921,13 @@
         107111,
         107112,
         107113,
-        107114
+        107114,
+        107115
       ],
       "sent_count": 0
     },
     "hattric_official": {
-      "last_id": 83625,
+      "last_id": 83626,
       "processed_ids": [
         83433,
         83434,
@@ -4095,12 +4102,13 @@
         83622,
         83623,
         83624,
-        83625
+        83625,
+        83626
       ],
       "sent_count": 0
     },
     "mazdak_hattrick": {
-      "last_id": 182072,
+      "last_id": 182073,
       "processed_ids": [
         181991,
         181992,
@@ -4179,28 +4187,14 @@
         182068,
         182070,
         182071,
-        182072
+        182072,
+        182073
       ],
       "sent_count": 0
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "2afe82078f9583c4b37290a57a839b0d5f5d83f8d662041fe76bd9f8c97cf8b6",
-        "media_fingerprint": "",
-        "text": "🔻\nخودروی عتیقه ۷متری با۵٠سال قدمت\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "🔻\nخودروی عتیقه ۷متری با۵٠سال قدمت\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159026",
-        "post_id": 159026,
-        "message_id": 763,
-        "message_kind": "text",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-09-19T19:42:57.074308+00:00"
-      },
       {
         "fingerprint": "198465487b59b059d21b80f7c4f41d421043199c3b0b5eea6f7eb077bae42808",
         "media_fingerprint": "8915f23520934d63d6f3ad2735a510f4af4d6320776d7388e7c11d783178f797",
@@ -19235,6 +19229,21 @@
           "akhbarfars"
         ],
         "created_at": "2026-09-23T08:38:30.618622+00:00"
+      },
+      {
+        "fingerprint": "bdbbc6a1b296b5b86d52c867ab0c4ab23b26f2a85f581865d171811e62a290b3",
+        "media_fingerprint": "3d6707d7046433ea4297cf301d95b6ffcdbdfb6657376b8b39e5474f30b05503",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/25989",
+        "post_id": 25989,
+        "message_id": 1829,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-09-23T08:49:22.196950+00:00"
       }
     ]
   }
