@@ -622,7 +622,7 @@
       "sent_count": 1
     },
     "footballvision2": {
-      "last_id": 169226,
+      "last_id": 169227,
       "processed_ids": [
         168857,
         168858,
@@ -978,7 +978,8 @@
         169223,
         169224,
         169225,
-        169226
+        169226,
+        169227
       ],
       "sent_count": 17
     },
@@ -1645,7 +1646,7 @@
       "sent_count": 30
     },
     "akhbar_cafenet": {
-      "last_id": 22602,
+      "last_id": 22603,
       "processed_ids": [
         22432,
         22433,
@@ -1814,12 +1815,13 @@
         22599,
         22600,
         22601,
-        22602
+        22602,
+        22603
       ],
-      "sent_count": 108
+      "sent_count": 109
     },
     "comentiat": {
-      "last_id": 25990,
+      "last_id": 25992,
       "processed_ids": [
         25844,
         25845,
@@ -1952,9 +1954,10 @@
         25987,
         25988,
         25989,
-        25990
+        25990,
+        25992
       ],
-      "sent_count": 66
+      "sent_count": 67
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -2749,7 +2752,7 @@
       "sent_count": 9
     },
     "ft360_ir": {
-      "last_id": 108204,
+      "last_id": 108205,
       "processed_ids": [
         107883,
         107884,
@@ -3062,7 +3065,8 @@
         108201,
         108202,
         108203,
-        108204
+        108204,
+        108205
       ],
       "sent_count": 19
     },
@@ -4000,7 +4004,7 @@
       "sent_count": 0
     },
     "hattric_official": {
-      "last_id": 83631,
+      "last_id": 83632,
       "processed_ids": [
         83433,
         83434,
@@ -4181,12 +4185,13 @@
         83628,
         83629,
         83630,
-        83631
+        83631,
+        83632
       ],
       "sent_count": 0
     },
     "mazdak_hattrick": {
-      "last_id": 182076,
+      "last_id": 182077,
       "processed_ids": [
         181991,
         181992,
@@ -4269,43 +4274,14 @@
         182073,
         182074,
         182075,
-        182076
+        182076,
+        182077
       ],
       "sent_count": 0
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "8293bc556c0d07d1d26aa951f06c72d00fbafb0a36230e8007f8223fd65a5850",
-        "media_fingerprint": "5fd5e03f298888a0d3d42a75e29111bd83744c4d91eda44cb1b4960f558fc75a",
-        "text": "آخه چرا میاین میگین اثرات.\n@comentiat",
-        "original_username": "comentiat",
-        "original_text": "آخه چرا میاین میگین اثرات.\n@comentiat",
-        "original_link": "https://t.me/Comentiat/25904",
-        "post_id": 25904,
-        "message_id": 797,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-09-19T22:04:05.013124+00:00"
-      },
-      {
-        "fingerprint": "2af8432dad479ec5310390b7d936339f7f8922dbaad658bf6f014ca18c02e25c",
-        "media_fingerprint": "a6ecefbe37bf05dc245bbe4094bfd2e6dff0ad3c83d17893df3ae65afe839594",
-        "text": "🇮🇷\nمحسن رضایی، دبیر شعام :\nما از طریق قطر\n🇶🇦\nشروط خودمون واسه پایان جنگ رو به آمریکا\n🇺🇸\nفرستاديم و الان دیگه منتظر جواب ترامپ هستیم!\nپایان جنگ در همه جبهه ها\nآزادسازی دارایی‌های بلوکه شده ایران\nپایان محاصره دریایی\n@DrTeL\n| الجزيره",
-        "original_username": "drtel",
-        "original_text": "🇮🇷\nمحسن رضایی، دبیر شعام :\nما از طریق قطر\n🇶🇦\nشروط خودمون واسه پایان جنگ رو به آمریکا\n🇺🇸\nفرستاديم و الان دیگه منتظر جواب ترامپ هستیم!\nپایان جنگ در همه جبهه ها\nآزادسازی دارایی‌های بلوکه شده ایران\nپایان محاصره دریایی\n@DrTeL\n| الجزيره",
-        "original_link": "https://t.me/drtel/66676",
-        "post_id": 66676,
-        "message_id": 798,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-09-19T22:18:49.522967+00:00"
-      },
       {
         "fingerprint": "203b860c7ff3edf78c655c78d9a0eb64987543027f954449e10a70e7552df9ab",
         "media_fingerprint": "d7368493279e384b4553d9212e54ec7808e32e0ebab47f8d598a48232f81922f",
@@ -19327,6 +19303,36 @@
           "drtel"
         ],
         "created_at": "2026-09-23T10:57:01.323315+00:00"
+      },
+      {
+        "fingerprint": "2771a55aea6509b8a05bcb98e5feb83985a1b9fe0aa8ff7ce9e82f0661edb395",
+        "media_fingerprint": "b52be19187bf1a451dad1b8abef14eb1618776e4dfa4de47db8ae8f1e1b36988",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/25992",
+        "post_id": 25992,
+        "message_id": 1864,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-09-23T11:06:45.970049+00:00"
+      },
+      {
+        "fingerprint": "af710a4fe6dc788428c9209646a46d1b901e907baf791438b2536a63ad45acb9",
+        "media_fingerprint": "381f669939edf6030e608c29a8ee1f594482df31efde61178de3b4fc6573af51",
+        "text": "🗂\nشوخی WinRAR با کاربران: کیف ۱۵۰ دلاری بخرید!\n🔵\nشرکت سازنده WinRAR با بازگشت کیف دستی رسمی ۱۵۰ دلاری به فروشگاه، به شوخی از کاربرانی که لایسنس نرم‌افزار را نخریده‌اند خواست حداقل این کیف را بخرند؛ جالب اینکه قیمت کیف تقریباً پنج برابر قیمت لایسنس WinRAR است.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🗂\nشوخی WinRAR با کاربران: کیف ۱۵۰ دلاری بخرید!\n🔵\nشرکت سازنده WinRAR با بازگشت کیف دستی رسمی ۱۵۰ دلاری به فروشگاه، به شوخی از کاربرانی که لایسنس نرم‌افزار را نخریده‌اند خواست حداقل این کیف را بخرند؛ جالب اینکه قیمت کیف تقریباً پنج برابر قیمت لایسنس WinRAR است.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/22603",
+        "post_id": 22603,
+        "message_id": 1865,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-09-23T11:06:52.600317+00:00"
       }
     ]
   }
