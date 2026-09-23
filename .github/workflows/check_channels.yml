@@ -2,7 +2,7 @@ name: Telegram Channel Watcher Bot
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/35 * * * *"
   workflow_dispatch: {}
 
 jobs:
