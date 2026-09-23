@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142249,
+      "last_id": 142251,
       "processed_ids": [
         141903,
         141904,
@@ -333,12 +333,14 @@
         142246,
         142247,
         142248,
-        142249
+        142249,
+        142250,
+        142251
       ],
-      "sent_count": 149
+      "sent_count": 151
     },
     "total_fut": {
-      "last_id": 236658,
+      "last_id": 236661,
       "processed_ids": [
         236405,
         236407,
@@ -580,12 +582,14 @@
         236655,
         236656,
         236657,
-        236658
+        236658,
+        236660,
+        236661
       ],
       "sent_count": 1
     },
     "footballvision2": {
-      "last_id": 169204,
+      "last_id": 169213,
       "processed_ids": [
         168857,
         168858,
@@ -919,9 +923,18 @@
         169201,
         169202,
         169203,
-        169204
+        169204,
+        169205,
+        169206,
+        169207,
+        169208,
+        169209,
+        169210,
+        169211,
+        169212,
+        169213
       ],
-      "sent_count": 16
+      "sent_count": 17
     },
     "tg_ir": {
       "last_id": 2303,
@@ -932,12 +945,13 @@
       "sent_count": 1
     },
     "it_pishkhan": {
-      "last_id": 9556,
+      "last_id": 9557,
       "processed_ids": [
         9555,
-        9556
+        9556,
+        9557
       ],
-      "sent_count": 1
+      "sent_count": 2
     },
     "fars_today": {
       "last_id": 132021,
@@ -1570,7 +1584,7 @@
       "sent_count": 29
     },
     "akhbar_cafenet": {
-      "last_id": 22589,
+      "last_id": 22590,
       "processed_ids": [
         22432,
         22433,
@@ -1726,12 +1740,13 @@
         22586,
         22587,
         22588,
-        22589
+        22589,
+        22590
       ],
-      "sent_count": 96
+      "sent_count": 97
     },
     "comentiat": {
-      "last_id": 25987,
+      "last_id": 25988,
       "processed_ids": [
         25844,
         25845,
@@ -1861,9 +1876,10 @@
         25984,
         25985,
         25986,
-        25987
+        25987,
+        25988
       ],
-      "sent_count": 63
+      "sent_count": 64
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -2353,7 +2369,7 @@
       "sent_count": 55
     },
     "ajayebe_jahann": {
-      "last_id": 159137,
+      "last_id": 159138,
       "processed_ids": [
         158956,
         158957,
@@ -2535,9 +2551,10 @@
         159134,
         159135,
         159136,
-        159137
+        159137,
+        159138
       ],
-      "sent_count": 58
+      "sent_count": 59
     },
     "etelaate_omoomi": {
       "last_id": 43097,
@@ -2632,7 +2649,7 @@
       "sent_count": 8
     },
     "ft360_ir": {
-      "last_id": 108193,
+      "last_id": 108194,
       "processed_ids": [
         107883,
         107884,
@@ -2934,12 +2951,13 @@
         108190,
         108191,
         108192,
-        108193
+        108193,
+        108194
       ],
       "sent_count": 19
     },
     "varzesh3": {
-      "last_id": 302640,
+      "last_id": 302641,
       "processed_ids": [
         302363,
         302364,
@@ -3178,12 +3196,13 @@
         302637,
         302638,
         302639,
-        302640
+        302640,
+        302641
       ],
       "sent_count": 9
     },
     "totalfut_plus": {
-      "last_id": 26022,
+      "last_id": 26025,
       "processed_ids": [
         25870,
         25871,
@@ -3335,12 +3354,15 @@
         26019,
         26020,
         26021,
-        26022
+        26022,
+        26023,
+        26024,
+        26025
       ],
       "sent_count": 0
     },
     "adak_ir_official": {
-      "last_id": 234045,
+      "last_id": 234046,
       "processed_ids": [
         233831,
         233833,
@@ -3555,12 +3577,13 @@
         234042,
         234043,
         234044,
-        234045
+        234045,
+        234046
       ],
       "sent_count": 0
     },
     "futball180tv": {
-      "last_id": 107102,
+      "last_id": 107104,
       "processed_ids": [
         106848,
         106849,
@@ -3811,12 +3834,14 @@
         107098,
         107100,
         107101,
-        107102
+        107102,
+        107103,
+        107104
       ],
       "sent_count": 0
     },
     "hattric_official": {
-      "last_id": 83620,
+      "last_id": 83622,
       "processed_ids": [
         83433,
         83434,
@@ -3986,12 +4011,14 @@
         83617,
         83618,
         83619,
-        83620
+        83620,
+        83621,
+        83622
       ],
       "sent_count": 0
     },
     "mazdak_hattrick": {
-      "last_id": 182065,
+      "last_id": 182066,
       "processed_ids": [
         181991,
         181992,
@@ -4064,118 +4091,14 @@
         182062,
         182063,
         182064,
-        182065
+        182065,
+        182066
       ],
       "sent_count": 0
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "bb1424960ba40e007c3624cdb805b567739d69732c621b2d8970ff5f2b096b9a",
-        "media_fingerprint": "1c28a4de9ee015c9a2b767602b46658d4f40019afa5c88cc3385926a1a8deb08",
-        "text": "منم تو زندگی قبلیم الکل بودم، هرکی میاد سمت من زود میپره\n🤝\n😔\n@comentiat",
-        "original_username": "comentiat",
-        "original_text": "منم تو زندگی قبلیم الکل بودم، هرکی میاد سمت من زود میپره\n🤝\n😔\n@comentiat",
-        "original_link": "https://t.me/Comentiat/25900",
-        "post_id": 25900,
-        "message_id": 726,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-09-19T18:36:44.978630+00:00"
-      },
-      {
-        "fingerprint": "956321041e2524c4f3061ec3887550bb8c03aa3b12a556f1d2cc310fcd23d653",
-        "media_fingerprint": "e7e8f5192d7b0b21ce0d02a7d0f6455e1685f15126bb0ac8426a145e72181c9e",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/25901",
-        "post_id": 25901,
-        "message_id": 727,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-09-19T18:36:49.251669+00:00"
-      },
-      {
-        "fingerprint": "15aaf6791517d3b5e2f74efa6026881b43d366bff9ed888bc5f1339f1e74a97e",
-        "media_fingerprint": "42e7eaa1d687e64dc2da8c7d3ac71c2623d5b27956ec6659e8be4717e3883b66",
-        "text": "🎥\nماجرای نابسامانی در بازار لاستیک چیست؟\n🔵\nمشاهدات میدانی خبرنگار صداوسیما نشان می‌دهد کاهش عرضه لاستیک در بازار باعث شده برخی واسطه‌ها لاستیک‌های موجود در بازار را تا دو برابر نرخ مصوب به فروش برسانند.\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🎥\nماجرای نابسامانی در بازار لاستیک چیست؟\n🔵\nمشاهدات میدانی خبرنگار صداوسیما نشان می‌دهد کاهش عرضه لاستیک در بازار باعث شده برخی واسطه‌ها لاستیک‌های موجود در بازار را تا دو برابر نرخ مصوب به فروش برسانند.\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22480",
-        "post_id": 22480,
-        "message_id": 728,
-        "message_kind": "caption",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-09-19T18:36:56.594482+00:00"
-      },
-      {
-        "fingerprint": "c2985276eec280f57b62a52d743ed2465e28d079c63ca928dbf7ed868d673def",
-        "media_fingerprint": "",
-        "text": "♦️\nسرپرست اداره‌کل زندان‌های استان فارس منصوب شد\n🔹️\nمحسن انصاری‌منش با حکم رئیس سازمان زندان‌های کشور به‌عنوان سرپرست اداره‌کل زندان‌های استان فارس منصوب شد.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nسرپرست اداره‌کل زندان‌های استان فارس منصوب شد\n🔹️\nمحسن انصاری‌منش با حکم رئیس سازمان زندان‌های کشور به‌عنوان سرپرست اداره‌کل زندان‌های استان فارس منصوب شد.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142048",
-        "post_id": 142048,
-        "message_id": 729,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-19T18:46:28.054067+00:00"
-      },
-      {
-        "fingerprint": "df41d32e5db3117a8f1a3b882a98f0275da61824740876e86b6a11d8fcabe7ef",
-        "media_fingerprint": "7de30e956fcf4369d898cd9a2643801f6ae31de432010955a55201edff16e1d8",
-        "text": "🔴\nاقدام آموزنده سازمان اورژانس کشور؛\nاورژانس تهران واسه آموزشِ احیا اومده تو یکی از ایستگاه‌های متروی تهران یه دستگاه هوشمند \" احیای قلبی ( CPR ) \" گذاشته؛\nبه این صورت که مردم میرن روبه‌روی دستگاه وایمیستن و روی آدمکی که اونجا قرار دادن عملیات احیا رو انجام میدن.\nدستگاه هم روش اصولی رو بر اساس فشاری که میارن بهشون میگه که باید فشار و سرعت رو بیشتر یا کمتر کنن.\nآخرش هم اگه درست انجام بدن بهشون یه گواهی قبولی میدن که باید با گوشی اسکن کنن.\n﻿\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nاقدام آموزنده سازمان اورژانس کشور؛\nاورژانس تهران واسه آموزشِ احیا اومده تو یکی از ایستگاه‌های متروی تهران یه دستگاه هوشمند \" احیای قلبی ( CPR ) \" گذاشته؛\nبه این صورت که مردم میرن روبه‌روی دستگاه وایمیستن و روی آدمکی که اونجا قرار دادن عملیات احیا رو انجام میدن.\nدستگاه هم روش اصولی رو بر اساس فشاری که میارن بهشون میگه که باید فشار و سرعت رو بیشتر یا کمتر کنن.\nآخرش هم اگه درست انجام بدن بهشون یه گواهی قبولی میدن که باید با گوشی اسکن کنن.\n﻿\n@DrTeL",
-        "original_link": "https://t.me/drtel/66665",
-        "post_id": 66665,
-        "message_id": 730,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-09-19T18:46:34.977087+00:00"
-      },
-      {
-        "fingerprint": "a1818b4c60311ca148b4f10e445a2b7f6608a07e0bd7268872dbae901f7a9a71",
-        "media_fingerprint": "f0351168a5c8fc37ce7c48805c08cf3a7dfe857bec413c980ac6ca50303f34d2",
-        "text": "اسامی ضدآفتاب‌های غیرمجاز اعلام شد\n◽️\nسازمان غذا و دارو اسامی تعدادی از ضدآفتاب‌ها و محصولات غیرمجاز مرتبط با مراقبت از پوست را که بدون مجوزهای قانونی در بازار عرضه شده‌اند، اعلام کرد.\nاسامی این محصولات به شرح زیر است:\n👇\n◽️\nضدآفتاب BIODERMA، ضدآفتاب NEW WELL، اسپری ضدآفتاب SADOER، اسپری ضدآفتاب FRUIT OF THE WOKALI، ضدآفتاب ESTELIN، اسکراب سفیدکننده صورت و بدن SADOER – WHITENING SCRUB FOR BODY & FACE.\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_username": "majalepezeshki",
-        "original_text": "اسامی ضدآفتاب‌های غیرمجاز اعلام شد\n◽️\nسازمان غذا و دارو اسامی تعدادی از ضدآفتاب‌ها و محصولات غیرمجاز مرتبط با مراقبت از پوست را که بدون مجوزهای قانونی در بازار عرضه شده‌اند، اعلام کرد.\nاسامی این محصولات به شرح زیر است:\n👇\n◽️\nضدآفتاب BIODERMA، ضدآفتاب NEW WELL، اسپری ضدآفتاب SADOER، اسپری ضدآفتاب FRUIT OF THE WOKALI، ضدآفتاب ESTELIN، اسکراب سفیدکننده صورت و بدن SADOER – WHITENING SCRUB FOR BODY & FACE.\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_link": "https://t.me/MajalePezeshki/38454",
-        "post_id": 38454,
-        "message_id": 731,
-        "message_kind": "caption",
-        "sources": [
-          "majalepezeshki"
-        ],
-        "created_at": "2026-09-19T18:46:39.659717+00:00"
-      },
-      {
-        "fingerprint": "ba175057fe69f36090a9fd177d34f22edf08d290b373c702522c4718277fff83",
-        "media_fingerprint": "f427ff0b80b1be39e9a938036707770b997cb629dd400c7f1614dc3ce45c2264",
-        "text": "🔸\nترکیب بارسلونا مقابل سویا\n🔸\nهفته ۷ لالیگا\n🕥\nساعت ۲۲:۳۰\n🔴\nپخش زنده در فوتبال ۳۶۰  @Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "🔸\nترکیب بارسلونا مقابل سویا\n🔸\nهفته ۷ لالیگا\n🕥\nساعت ۲۲:۳۰\n🔴\nپخش زنده در فوتبال ۳۶۰  @Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/107953",
-        "post_id": 107953,
-        "message_id": 732,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-09-19T18:53:54.646787+00:00"
-      },
       {
         "fingerprint": "26adb3bb643444c43e0e892569aa342d489c2310e4a629b67ca5a72b4582bf08",
         "media_fingerprint": "fa7fd9d5f7b1a50cc5b54196b5e7ac19c14f056eaa3a50af91bdfcd4c1d7266e",
@@ -19118,6 +19041,111 @@
           "akhbar_cafenet"
         ],
         "created_at": "2026-09-23T06:58:15.232446+00:00"
+      },
+      {
+        "fingerprint": "46944a31b630f642c7bda40d4dd00a05fdfebb46e0f9cb2783dc2bcc9b48fde2",
+        "media_fingerprint": "",
+        "text": "#حق\nساین و عضویت\nبه اطلاع کاربران دفاتر پیشخوان دولت میرساند، پرداخت ماهانه حق عضویت و ساین تا زمان رفع اختلال موقتا لغو شده است .\nلطفاً یک‌بار از صفحه پیشخوان خارج شوید، مجدداً وارد شوید و صفحه را رفرش (Refresh) کنید.\nبا تشکر از صبوری و همراهی شما\n🙏\n✅\n1405/07/01",
+        "original_username": "it_pishkhan",
+        "original_text": "#حق\nساین و عضویت\nبه اطلاع کاربران دفاتر پیشخوان دولت میرساند، پرداخت ماهانه حق عضویت و ساین تا زمان رفع اختلال موقتا لغو شده است .\nلطفاً یک‌بار از صفحه پیشخوان خارج شوید، مجدداً وارد شوید و صفحه را رفرش (Refresh) کنید.\nبا تشکر از صبوری و همراهی شما\n🙏\n✅\n1405/07/01",
+        "original_link": "https://t.me/it_pishkhan/9557",
+        "post_id": 9557,
+        "message_id": 1791,
+        "message_kind": "text",
+        "sources": [
+          "it_pishkhan"
+        ],
+        "created_at": "2026-09-23T07:09:42.942112+00:00"
+      },
+      {
+        "fingerprint": "0db0bb9ec270ff1b4448069018fd556cb222298d3c7057fea6be98011ea4346e",
+        "media_fingerprint": "",
+        "text": "♦️\nعناوین و ضرایب دروس سوابق تحصیلی در آزمون سراسری سال ۱۴۰۶ اعلام شد\n⠀\n🔹️\nسازمان سنجش آموزش کشور عناوین و ضرایب دروس سوابق تحصیلی در آزمون سراسری سال ۱۴۰۶ را اعلام کرد.\n🔹️\nسابقه تحصیلی پایه های یازدهم و دوازدهم با تاثیر قطعی محاسبه می شود.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nعناوین و ضرایب دروس سوابق تحصیلی در آزمون سراسری سال ۱۴۰۶ اعلام شد\n⠀\n🔹️\nسازمان سنجش آموزش کشور عناوین و ضرایب دروس سوابق تحصیلی در آزمون سراسری سال ۱۴۰۶ را اعلام کرد.\n🔹️\nسابقه تحصیلی پایه های یازدهم و دوازدهم با تاثیر قطعی محاسبه می شود.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142250",
+        "post_id": 142250,
+        "message_id": 1792,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-09-23T07:09:45.715212+00:00"
+      },
+      {
+        "fingerprint": "4cfda19fc1da807773962d3712acc2b320af33108f2a80a0cc5540e150c1fc47",
+        "media_fingerprint": "",
+        "text": "🌐\nروند دریافت تسهیلات طرح حامی، غیرحضوری شد\n❤️\nعضو هیئت مدیره بانک مسکن اعلام کرد که امکان دریافت تسهیلات طرح حامی و وام ازدواج و فرزندآوری در این بانک به صورت غیرحضوری فراهم شده است. بنابراین متقاضیان دریافت هریک از تسهیلات طرح حامی یا ازدواج و فرزند آوری، می توانند فرآیند دریافت وام را به صورت غیرحضوری در بانک مسکن طی کنند.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🌐\nروند دریافت تسهیلات طرح حامی، غیرحضوری شد\n❤️\nعضو هیئت مدیره بانک مسکن اعلام کرد که امکان دریافت تسهیلات طرح حامی و وام ازدواج و فرزندآوری در این بانک به صورت غیرحضوری فراهم شده است. بنابراین متقاضیان دریافت هریک از تسهیلات طرح حامی یا ازدواج و فرزند آوری، می توانند فرآیند دریافت وام را به صورت غیرحضوری در بانک مسکن طی کنند.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/22590",
+        "post_id": 22590,
+        "message_id": 1793,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-09-23T07:09:48.586794+00:00"
+      },
+      {
+        "fingerprint": "9ba9d536dc56a5cc86691542ee3102b602634190755ea5fb7e02e79d1ccec921",
+        "media_fingerprint": "",
+        "text": "♦️\nهیئت دولت امروز را عزای عمومی اعلام کرد\n🔹\nدر پی رحلت آیت‌الله شبیری زنجانی هیئت دولت امروز را در سراسر کشور عزای عمومی اعلام کرد.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nهیئت دولت امروز را عزای عمومی اعلام کرد\n🔹\nدر پی رحلت آیت‌الله شبیری زنجانی هیئت دولت امروز را در سراسر کشور عزای عمومی اعلام کرد.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142251",
+        "post_id": 142251,
+        "message_id": 1794,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-09-23T07:09:51.259380+00:00"
+      },
+      {
+        "fingerprint": "13d47e2ea0a08e873f2ef586b5bf1aaea1ec88b51cf02daadb013384668d5207",
+        "media_fingerprint": "307c13ff5fc0da031ad400c5c00af10c048d1db0dbb7ec1554d193e66b02a7c2",
+        "text": "🔻\nپهپاد ۲ میلیون دلاری فوق مینیاتوری چین هم اندازه با یک پشه است ..\nهیچ کس قادر به شناسایی آن نیست.\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "🔻\nپهپاد ۲ میلیون دلاری فوق مینیاتوری چین هم اندازه با یک پشه است ..\nهیچ کس قادر به شناسایی آن نیست.\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/159138",
+        "post_id": 159138,
+        "message_id": 1795,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-09-23T07:09:56.024372+00:00"
+      },
+      {
+        "fingerprint": "eaa0d0110839e2ca7e760810f171876b3f0294c4852e73ad3d393b78c3900d26",
+        "media_fingerprint": "67a4cb2c6be4b62280d565d19b3551f7326dcb7a784bc7d4923af17d9ab425cb",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/25988",
+        "post_id": 25988,
+        "message_id": 1796,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-09-23T07:09:59.803408+00:00"
+      },
+      {
+        "fingerprint": "8ddd248f8af3f02bef1d9b5682bdee28b429c59a4118d19b1adc4d5d02171fee",
+        "media_fingerprint": "",
+        "text": "نیمه پر لیوان رو ببینید\nحسین عبدی دیگه گزینه پرسپولیس نمیشه",
+        "original_username": "footballvision2",
+        "original_text": "نیمه پر لیوان رو ببینید\nحسین عبدی دیگه گزینه پرسپولیس نمیشه",
+        "original_link": "https://t.me/footballvision2/169211",
+        "post_id": 169211,
+        "message_id": 1797,
+        "message_kind": "text",
+        "sources": [
+          "footballvision2"
+        ],
+        "created_at": "2026-09-23T07:10:02.227353+00:00"
       }
     ]
   }
