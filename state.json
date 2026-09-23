@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142275,
+      "last_id": 142276,
       "processed_ids": [
         141903,
         141904,
@@ -357,9 +357,10 @@
         142272,
         142273,
         142274,
-        142275
+        142275,
+        142276
       ],
-      "sent_count": 170
+      "sent_count": 171
     },
     "total_fut": {
       "last_id": 236677,
@@ -3084,7 +3085,7 @@
       "sent_count": 19
     },
     "varzesh3": {
-      "last_id": 302655,
+      "last_id": 302656,
       "processed_ids": [
         302363,
         302364,
@@ -3337,7 +3338,8 @@
         302652,
         302653,
         302654,
-        302655
+        302655,
+        302656
       ],
       "sent_count": 9
     },
@@ -3746,7 +3748,7 @@
       "sent_count": 0
     },
     "futball180tv": {
-      "last_id": 107122,
+      "last_id": 107123,
       "processed_ids": [
         106848,
         106849,
@@ -4016,7 +4018,8 @@
         107119,
         107120,
         107121,
-        107122
+        107122,
+        107123
       ],
       "sent_count": 0
     },
@@ -4209,7 +4212,7 @@
       "sent_count": 0
     },
     "mazdak_hattrick": {
-      "last_id": 182077,
+      "last_id": 182078,
       "processed_ids": [
         181991,
         181992,
@@ -4293,28 +4296,14 @@
         182074,
         182075,
         182076,
-        182077
+        182077,
+        182078
       ],
       "sent_count": 0
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "125e9227bc7d37e46a25546c0004f31fc38710446f3d77cc0e46caabc9a13c0f",
-        "media_fingerprint": "d89e3da98402e201584d7976f2d8d4eab046dc68a3a0359346d22b19a6dd2356",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/25908",
-        "post_id": 25908,
-        "message_id": 806,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-09-20T01:48:23.716705+00:00"
-      },
       {
         "fingerprint": "fd95505f9d1b6f0a1255386befad01dacc6a8708b7d833fc03a579986c2771f5",
         "media_fingerprint": "df9b017e778784b7e2bd8d052155bb41e5be7e9e2959b3261f375d7cd91c6dfa",
@@ -19353,6 +19342,21 @@
           "akhbarfars"
         ],
         "created_at": "2026-09-23T11:37:15.410986+00:00"
+      },
+      {
+        "fingerprint": "558518f826f4742b4f17fdc2922744d93de3cfc1b478f22c7a5ba5d36cfb828c",
+        "media_fingerprint": "",
+        "text": "♦️\nتوزیع ۷۰۰ هزار دوز واکسن آنفلوآنزا از امروز\nرئیس سازمان غذا و دارو:\n🔹\n۷۰۰ هزار دوز واکسن آنفلوآنزا از امروز توزیع می‌شود؛ ۳۵۰ هزار دوز در اختیار معاونت‌های بهداشتی و ۳۵۰ هزار دوز در بازار قرار می‌گیرد.\n🔹\nهمچنین ۴۰۰ تا ۵۰۰ هزار دوز دیگر هفته آینده وارد کشور خواهد شد.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nتوزیع ۷۰۰ هزار دوز واکسن آنفلوآنزا از امروز\nرئیس سازمان غذا و دارو:\n🔹\n۷۰۰ هزار دوز واکسن آنفلوآنزا از امروز توزیع می‌شود؛ ۳۵۰ هزار دوز در اختیار معاونت‌های بهداشتی و ۳۵۰ هزار دوز در بازار قرار می‌گیرد.\n🔹\nهمچنین ۴۰۰ تا ۵۰۰ هزار دوز دیگر هفته آینده وارد کشور خواهد شد.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142276",
+        "post_id": 142276,
+        "message_id": 1873,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-09-23T11:47:32.943898+00:00"
       }
     ]
   }
