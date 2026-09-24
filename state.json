@@ -2023,7 +2023,7 @@
       "sent_count": 39
     },
     "coffeenetmanager": {
-      "last_id": 51606,
+      "last_id": 51607,
       "processed_ids": [
         51537,
         51538,
@@ -2090,7 +2090,8 @@
         51603,
         51604,
         51605,
-        51606
+        51606,
+        51607
       ],
       "sent_count": 35
     },
@@ -2648,7 +2649,7 @@
       "sent_count": 43
     },
     "gizmiztel": {
-      "last_id": 162245,
+      "last_id": 162248,
       "processed_ids": [
         161872,
         161875,
@@ -2986,9 +2987,12 @@
         162242,
         162243,
         162244,
-        162245
+        162245,
+        162246,
+        162247,
+        162248
       ],
-      "sent_count": 201
+      "sent_count": 203
     },
     "dr_salamatx": {
       "last_id": 55301,
@@ -3553,7 +3557,7 @@
       "sent_count": 16
     },
     "ft360_ir": {
-      "last_id": 108310,
+      "last_id": 108311,
       "processed_ids": [
         107883,
         107884,
@@ -3970,7 +3974,8 @@
         108307,
         108308,
         108309,
-        108310
+        108310,
+        108311
       ],
       "sent_count": 25
     },
@@ -5702,36 +5707,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "4bb8f36274e993c503b5f77fa65ec4223153cc7b6248fbecc7e690e5aa17b7b1",
-        "media_fingerprint": "",
-        "text": "🔹\nتسنیم، خبر تعطیلی و غیر حضوری شدن ‌۲ ماهه مدارس هرمزگان را تکذیب کرد.",
-        "original_username": "fars_today",
-        "original_text": "🔹\nتسنیم، خبر تعطیلی و غیر حضوری شدن ‌۲ ماهه مدارس هرمزگان را تکذیب کرد.",
-        "original_link": "https://t.me/Fars_today/132006",
-        "post_id": 132006,
-        "message_id": 1288,
-        "message_kind": "text",
-        "sources": [
-          "fars_today"
-        ],
-        "created_at": "2026-09-21T13:28:25.472349+00:00"
-      },
-      {
-        "fingerprint": "89aa134007f2f81a657c9b04f7ba087a6f44529518c98bcc1b29efadffc675ba",
-        "media_fingerprint": "5f0f0d57ef57a3e3959f72b4bc5c6bdf089595f3158739c859f2709e75af1040",
-        "text": "مردان طنز پرداز:|\n@comentiat",
-        "original_username": "comentiat",
-        "original_text": "مردان طنز پرداز:|\n@comentiat",
-        "original_link": "https://t.me/Comentiat/25940",
-        "post_id": 25940,
-        "message_id": 1289,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-09-21T13:39:55.448069+00:00"
-      },
       {
         "fingerprint": "b4f839d678777eb428cf0d1aad4e25066fc1a8990fc3d091a7dbde5efd703c65",
         "media_fingerprint": "7d5c5a3b36a4d4ad7bb6e5c75f1e9bf852329d40920b3359ade3ac2452fa276d",
@@ -19840,7 +19815,8 @@
         "message_id": 2270,
         "message_kind": "text",
         "sources": [
-          "akhbarfars"
+          "akhbarfars",
+          "coffeenetmanager"
         ],
         "created_at": "2026-09-24T18:28:26.619834+00:00"
       },
@@ -20743,6 +20719,36 @@
           "gizmiztel"
         ],
         "created_at": "2026-09-24T22:02:22.346418+00:00"
+      },
+      {
+        "fingerprint": "ba1f997cb0ecd740f6757e2b37e2b393381887565588e9d627f66b0e0d7f71a0",
+        "media_fingerprint": "f9e32a6503445415b1d5571acb85f16da51f7d949fbd906fa02611d8169451e1",
+        "text": "یه ایرانی حرکتی زد ، خارجیا خودشونو کشتن تا اونو تکرار کنن\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "یه ایرانی حرکتی زد ، خارجیا خودشونو کشتن تا اونو تکرار کنن\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162247",
+        "post_id": 162247,
+        "message_id": 2334,
+        "message_kind": "text",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-09-24T22:24:36.992842+00:00"
+      },
+      {
+        "fingerprint": "630eb02a5c75a24095b64e78be7706348e653b0bf16c123b0881f46b9e552b2a",
+        "media_fingerprint": "142e404cff0715420de109326466d2d46402e4c0b259d9498564aa16dc68266a",
+        "text": "دخترا میخواین بخندین، یواش، قشنگ، فکر نکنن درد و مرض گرفتین\n😂\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "دخترا میخواین بخندین، یواش، قشنگ، فکر نکنن درد و مرض گرفتین\n😂\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162248",
+        "post_id": 162248,
+        "message_id": 2335,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-09-24T22:24:42.409534+00:00"
       }
     ]
   }
