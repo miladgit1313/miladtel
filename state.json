@@ -429,7 +429,7 @@
       "sent_count": 226
     },
     "total_fut": {
-      "last_id": 236717,
+      "last_id": 236718,
       "processed_ids": [
         236405,
         236407,
@@ -727,7 +727,8 @@
         236714,
         236715,
         236716,
-        236717
+        236717,
+        236718
       ],
       "sent_count": 2
     },
@@ -1884,7 +1885,7 @@
       "sent_count": 35
     },
     "akhbar_cafenet": {
-      "last_id": 22629,
+      "last_id": 22630,
       "processed_ids": [
         22432,
         22433,
@@ -2079,12 +2080,13 @@
         22626,
         22627,
         22628,
-        22629
+        22629,
+        22630
       ],
-      "sent_count": 129
+      "sent_count": 130
     },
     "comentiat": {
-      "last_id": 26015,
+      "last_id": 26016,
       "processed_ids": [
         25844,
         25845,
@@ -2239,9 +2241,10 @@
         26012,
         26013,
         26014,
-        26015
+        26015,
+        26016
       ],
-      "sent_count": 86
+      "sent_count": 87
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -3139,7 +3142,7 @@
       "sent_count": 11
     },
     "ft360_ir": {
-      "last_id": 108240,
+      "last_id": 108242,
       "processed_ids": [
         107883,
         107884,
@@ -3487,12 +3490,13 @@
         108237,
         108238,
         108239,
-        108240
+        108240,
+        108242
       ],
       "sent_count": 21
     },
     "varzesh3": {
-      "last_id": 302701,
+      "last_id": 302702,
       "processed_ids": [
         302363,
         302364,
@@ -3784,12 +3788,13 @@
         302698,
         302699,
         302700,
-        302701
+        302701,
+        302702
       ],
       "sent_count": 12
     },
     "totalfut_plus": {
-      "last_id": 26062,
+      "last_id": 26064,
       "processed_ids": [
         25870,
         25871,
@@ -3978,12 +3983,14 @@
         26059,
         26060,
         26061,
-        26062
+        26062,
+        26063,
+        26064
       ],
       "sent_count": 0
     },
     "adak_ir_official": {
-      "last_id": 234118,
+      "last_id": 234120,
       "processed_ids": [
         233831,
         233833,
@@ -4270,12 +4277,14 @@
         234115,
         234116,
         234117,
-        234118
+        234118,
+        234119,
+        234120
       ],
       "sent_count": 0
     },
     "futball180tv": {
-      "last_id": 107170,
+      "last_id": 107172,
       "processed_ids": [
         106848,
         106849,
@@ -4593,12 +4602,14 @@
         107167,
         107168,
         107169,
-        107170
+        107170,
+        107171,
+        107172
       ],
       "sent_count": 0
     },
     "hattric_official": {
-      "last_id": 83677,
+      "last_id": 83679,
       "processed_ids": [
         83433,
         83434,
@@ -4824,12 +4835,13 @@
         83674,
         83675,
         83676,
-        83677
+        83677,
+        83679
       ],
       "sent_count": 0
     },
     "mazdak_hattrick": {
-      "last_id": 182100,
+      "last_id": 182103,
       "processed_ids": [
         181991,
         181992,
@@ -4936,43 +4948,16 @@
         182097,
         182098,
         182099,
-        182100
+        182100,
+        182101,
+        182102,
+        182103
       ],
       "sent_count": 0
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "f769442bd65e0555c709e110f8563edd7b6f388321c380941b62a8e885e7b92e",
-        "media_fingerprint": "",
-        "text": "نیما جان اگه حرف نزنی نمیگیم لالی",
-        "original_username": "drtel",
-        "original_text": "نیما جان اگه حرف نزنی نمیگیم لالی",
-        "original_link": "https://t.me/drtel/66719",
-        "post_id": 66719,
-        "message_id": 1085,
-        "message_kind": "text",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-09-20T18:46:27.058475+00:00"
-      },
-      {
-        "fingerprint": "c41c53b20950494606b046d1a32f24722d53ac42e529d87af70506d4a0860b9c",
-        "media_fingerprint": "19c5bf9322f4f829f534247dffa778221487fece755923dad392640fdbc147d1",
-        "text": "نمایشگاه بین المللی شکلات و شیرینی سوربن\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "نمایشگاه بین المللی شکلات و شیرینی سوربن\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162027",
-        "post_id": 162027,
-        "message_id": 1086,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-20T18:46:32.811252+00:00"
-      },
       {
         "fingerprint": "e4fb3b311dba9fa69d312749aa8f00238c6d9efc7d3441644ea8877857d12204",
         "media_fingerprint": "b8d37aa66bb9f49d6bb598bf43dbcf0907aeb3877d371d892ab1849cad180477",
@@ -19991,6 +19976,36 @@
           "akhbarfars"
         ],
         "created_at": "2026-09-24T09:22:30.203122+00:00"
+      },
+      {
+        "fingerprint": "335f24966840dafeea8bb8c499d7174ead4af743253dccdc7bfcdd0443ef168b",
+        "media_fingerprint": "",
+        "text": "🚙\nاعلام زمان قرعه کشی محصولات بهمن موتور\n🔵\nمراسم قرعه کشی فروش فوری خودروهای اینووی و فیدلیتی الیت تیپ ۲ شنبه ۴ مهرماه برگزار می‌شود\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🚙\nاعلام زمان قرعه کشی محصولات بهمن موتور\n🔵\nمراسم قرعه کشی فروش فوری خودروهای اینووی و فیدلیتی الیت تیپ ۲ شنبه ۴ مهرماه برگزار می‌شود\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/22630",
+        "post_id": 22630,
+        "message_id": 2128,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-09-24T09:44:02.964142+00:00"
+      },
+      {
+        "fingerprint": "739d3fa459e36e3d1492caaa2797043fbc7a4fecb849d35b79430f554129cb3a",
+        "media_fingerprint": "94f3216f3472cc0a143303913e7257425ce5c9ceda2c691560de7a8e70b936f3",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26016",
+        "post_id": 26016,
+        "message_id": 2129,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-09-24T09:44:07.057070+00:00"
       }
     ]
   }
