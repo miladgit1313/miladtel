@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142412,
+      "last_id": 142413,
       "processed_ids": [
         141903,
         141904,
@@ -484,12 +484,13 @@
         142409,
         142410,
         142411,
-        142412
+        142412,
+        142413
       ],
       "sent_count": 274
     },
     "total_fut": {
-      "last_id": 236768,
+      "last_id": 236769,
       "processed_ids": [
         236405,
         236407,
@@ -838,7 +839,8 @@
         236765,
         236766,
         236767,
-        236768
+        236768,
+        236769
       ],
       "sent_count": 5
     },
@@ -1506,7 +1508,7 @@
       "sent_count": 4
     },
     "drtel": {
-      "last_id": 66924,
+      "last_id": 66925,
       "processed_ids": [
         66561,
         66565,
@@ -1791,9 +1793,10 @@
         66921,
         66922,
         66923,
-        66924
+        66924,
+        66925
       ],
-      "sent_count": 165
+      "sent_count": 166
     },
     "techtube": {
       "last_id": 18332,
@@ -3629,7 +3632,7 @@
       "sent_count": 16
     },
     "ft360_ir": {
-      "last_id": 108321,
+      "last_id": 108322,
       "processed_ids": [
         107883,
         107884,
@@ -4057,7 +4060,8 @@
         108318,
         108319,
         108320,
-        108321
+        108321,
+        108322
       ],
       "sent_count": 25
     },
@@ -4671,7 +4675,7 @@
       "sent_count": 0
     },
     "adak_ir_official": {
-      "last_id": 234171,
+      "last_id": 234172,
       "processed_ids": [
         233831,
         233833,
@@ -5011,7 +5015,8 @@
         234168,
         234169,
         234170,
-        234171
+        234171,
+        234172
       ],
       "sent_count": 0
     },
@@ -5685,7 +5690,7 @@
       "sent_count": 0
     },
     "mazdak_hattrick": {
-      "last_id": 182129,
+      "last_id": 182130,
       "processed_ids": [
         181991,
         181992,
@@ -5821,28 +5826,14 @@
         182126,
         182127,
         182128,
-        182129
+        182129,
+        182130
       ],
       "sent_count": 0
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "a674138e04c8dd555ebbfba70eb5e57d9b7758101d85a9d274008d95c70b0953",
-        "media_fingerprint": "12355f80a2bdbe9dd1a1ad8ffa301c006076d6f198d839d3202eb42bef4ac75b",
-        "text": "♦️\nویدیویی فوق‌العاده از حرکت فلامینگوها در دریاچه صورتی مهارلو\n💗\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nویدیویی فوق‌العاده از حرکت فلامینگوها در دریاچه صورتی مهارلو\n💗\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142162",
-        "post_id": 142162,
-        "message_id": 1334,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-21T16:37:27.581871+00:00"
-      },
       {
         "fingerprint": "1d2670be3d58978580a494f8deb2091e509e0615e2a1d8c4efe43c45191bc19b",
         "media_fingerprint": "",
@@ -20869,6 +20860,21 @@
           "akhbar_cafenet"
         ],
         "created_at": "2026-09-25T07:45:31.249020+00:00"
+      },
+      {
+        "fingerprint": "959c7eae073d0f07627e6c509993bc8cf194fc6ae05df336315a49333035be17",
+        "media_fingerprint": "58e6f34ade9737b4b08746098b93687507d0ffdd870eb2cb2cb17b7ff63b7eed",
+        "text": "🔴\nامروز 25 September، روزِ فرزند دختره.\n+این روز رو به دختر کوچولوی زندگیت تبریک بگو\n@DrTeL\n| NT National Today",
+        "original_username": "drtel",
+        "original_text": "🔴\nامروز 25 September، روزِ فرزند دختره.\n+این روز رو به دختر کوچولوی زندگیت تبریک بگو\n@DrTeL\n| NT National Today",
+        "original_link": "https://t.me/drtel/66925",
+        "post_id": 66925,
+        "message_id": 2384,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-09-25T07:59:17.815043+00:00"
       }
     ]
   }
