@@ -548,7 +548,7 @@
       "sent_count": 318
     },
     "total_fut": {
-      "last_id": 236809,
+      "last_id": 236810,
       "processed_ids": [
         236405,
         236407,
@@ -938,12 +938,13 @@
         236806,
         236807,
         236808,
-        236809
+        236809,
+        236810
       ],
       "sent_count": 16
     },
     "footballvision2": {
-      "last_id": 169505,
+      "last_id": 169509,
       "processed_ids": [
         168857,
         168858,
@@ -1569,7 +1570,11 @@
         169502,
         169503,
         169504,
-        169505
+        169505,
+        169506,
+        169507,
+        169508,
+        169509
       ],
       "sent_count": 27
     },
@@ -2464,7 +2469,7 @@
       "sent_count": 44
     },
     "akhbar_cafenet": {
-      "last_id": 22676,
+      "last_id": 22677,
       "processed_ids": [
         22432,
         22433,
@@ -2706,12 +2711,13 @@
         22673,
         22674,
         22675,
-        22676
+        22676,
+        22677
       ],
-      "sent_count": 166
+      "sent_count": 167
     },
     "comentiat": {
-      "last_id": 26084,
+      "last_id": 26085,
       "processed_ids": [
         25844,
         25845,
@@ -2909,9 +2915,10 @@
         26079,
         26082,
         26083,
-        26084
+        26084,
+        26085
       ],
-      "sent_count": 123
+      "sent_count": 124
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -4049,7 +4056,7 @@
       "sent_count": 19
     },
     "ft360_ir": {
-      "last_id": 108396,
+      "last_id": 108397,
       "processed_ids": [
         107883,
         107884,
@@ -4546,7 +4553,8 @@
         108393,
         108394,
         108395,
-        108396
+        108396,
+        108397
       ],
       "sent_count": 29
     },
@@ -5660,7 +5668,7 @@
       "sent_count": 11
     },
     "futball180tv": {
-      "last_id": 107292,
+      "last_id": 107296,
       "processed_ids": [
         106848,
         106849,
@@ -6098,7 +6106,11 @@
         107289,
         107290,
         107291,
-        107292
+        107292,
+        107293,
+        107294,
+        107295,
+        107296
       ],
       "sent_count": 3
     },
@@ -6613,36 +6625,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "6d52287de8fc5aad65178d9ba7766f203927cb6d99b121418c18350449aadb41",
-        "media_fingerprint": "7a4f55e23dd562374ee1f13b0f26b8963d013dcc6cf322097dd558088f563f50",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/25968",
-        "post_id": 25968,
-        "message_id": 1626,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-09-22T14:51:39.334833+00:00"
-      },
-      {
-        "fingerprint": "78e0872400f8100b4da1424bba44efb35b82d75163478f1eea941101e247ea7b",
-        "media_fingerprint": "",
-        "text": "♦️\nمرزهای دانش را بشکنید و قلّه‌های پیشرفت را فتح کنید\n🔹\nمسئولیّت امروز دانش‌آموزان و دانشجویان، سعی در مجهّز شدن به علم و تقوا، امید و اخلاق، و دانایی و توانایی و زدودن پرده‌های جهل و تاریکی است تا آنگاه که با شکستن مرزهای دانش و فتح قلّه‌های پیشرفت‌سازِ آن، مأموریت تاریخی خود در جهت اعتلاء ایران اسلامی را به انجام برسانند.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nمرزهای دانش را بشکنید و قلّه‌های پیشرفت را فتح کنید\n🔹\nمسئولیّت امروز دانش‌آموزان و دانشجویان، سعی در مجهّز شدن به علم و تقوا، امید و اخلاق، و دانایی و توانایی و زدودن پرده‌های جهل و تاریکی است تا آنگاه که با شکستن مرزهای دانش و فتح قلّه‌های پیشرفت‌سازِ آن، مأموریت تاریخی خود در جهت اعتلاء ایران اسلامی را به انجام برسانند.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142216",
-        "post_id": 142216,
-        "message_id": 1627,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-22T15:04:35.762648+00:00"
-      },
       {
         "fingerprint": "7d5ee3bf3a6cc0132e692076c12d4f0c0a17fbc9bd38337a27914773a171a839",
         "media_fingerprint": "9c82d9256cddbf920c3096f50b521a74c76285e0a651d1142f87512aee339ac7",
@@ -21656,6 +21638,36 @@
           "akhbarfars"
         ],
         "created_at": "2026-09-26T09:34:39.813286+00:00"
+      },
+      {
+        "fingerprint": "64784361a534fac4fb2f971f5292c0b2b335a621d9145db9d48e22a0c58957b0",
+        "media_fingerprint": "999b88cd73439048944e7ecae3fac100d471f0c9335aa6a0008a87fab6d5f0f4",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26085",
+        "post_id": 26085,
+        "message_id": 2682,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-09-26T09:49:36.176241+00:00"
+      },
+      {
+        "fingerprint": "5d063cc8d9dfc1cbdd2075d599e3a4cbe449ecbfdc13e6054264e1e96f8df9c1",
+        "media_fingerprint": "",
+        "text": "🌐\nآزمون جذب تصدی منصب قضا در سال ۱۴۰۵/ویژه سازمان قضایی نیروهای مسلح\n🔵\nمعاونت منابع انسانی و امور فرهنگی قوه قضائیه با همکاری سازمان قضایی نیروهای مسلح جمهوری اسلامی ایران در نظر دارد، به منظور تامین نیروی قضایی مورد نیاز سازمان قضایی نیروهای مسلح، تعدادی از افسران…",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🌐\nآزمون جذب تصدی منصب قضا در سال ۱۴۰۵/ویژه سازمان قضایی نیروهای مسلح\n🔵\nمعاونت منابع انسانی و امور فرهنگی قوه قضائیه با همکاری سازمان قضایی نیروهای مسلح جمهوری اسلامی ایران در نظر دارد، به منظور تامین نیروی قضایی مورد نیاز سازمان قضایی نیروهای مسلح، تعدادی از افسران…",
+        "original_link": "https://t.me/akhbar_cafenet/22677",
+        "post_id": 22677,
+        "message_id": 2683,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-09-26T09:49:39.317067+00:00"
       }
     ]
   }
