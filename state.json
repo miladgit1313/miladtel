@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142504,
+      "last_id": 142505,
       "processed_ids": [
         141903,
         141904,
@@ -575,12 +575,13 @@
         142501,
         142502,
         142503,
-        142504
+        142504,
+        142505
       ],
       "sent_count": 341
     },
     "total_fut": {
-      "last_id": 236828,
+      "last_id": 236829,
       "processed_ids": [
         236405,
         236407,
@@ -988,7 +989,8 @@
         236825,
         236826,
         236827,
-        236828
+        236828,
+        236829
       ],
       "sent_count": 21
     },
@@ -3148,7 +3150,7 @@
       "sent_count": 56
     },
     "gizmiztel": {
-      "last_id": 162318,
+      "last_id": 162327,
       "processed_ids": [
         161872,
         161875,
@@ -3554,9 +3556,17 @@
         162315,
         162316,
         162317,
-        162318
+        162318,
+        162319,
+        162320,
+        162321,
+        162322,
+        162323,
+        162324,
+        162325,
+        162327
       ],
-      "sent_count": 259
+      "sent_count": 267
     },
     "dr_salamatx": {
       "last_id": 55308,
@@ -4223,7 +4233,7 @@
       "sent_count": 19
     },
     "ft360_ir": {
-      "last_id": 108409,
+      "last_id": 108411,
       "processed_ids": [
         107883,
         107884,
@@ -4733,12 +4743,14 @@
         108406,
         108407,
         108408,
-        108409
+        108409,
+        108410,
+        108411
       ],
       "sent_count": 29
     },
     "varzesh3": {
-      "last_id": 302864,
+      "last_id": 302867,
       "processed_ids": [
         302363,
         302364,
@@ -5178,12 +5190,15 @@
         302861,
         302862,
         302863,
-        302864
+        302864,
+        302865,
+        302866,
+        302867
       ],
-      "sent_count": 17
+      "sent_count": 18
     },
     "totalfut_plus": {
-      "last_id": 26155,
+      "last_id": 26156,
       "processed_ids": [
         25870,
         25871,
@@ -5464,7 +5479,8 @@
         26152,
         26153,
         26154,
-        26155
+        26155,
+        26156
       ],
       "sent_count": 6
     },
@@ -5902,7 +5918,7 @@
       "sent_count": 18
     },
     "futball180tv": {
-      "last_id": 107318,
+      "last_id": 107320,
       "processed_ids": [
         106848,
         106849,
@@ -6366,12 +6382,14 @@
         107315,
         107316,
         107317,
-        107318
+        107318,
+        107319,
+        107320
       ],
       "sent_count": 6
     },
     "hattric_official": {
-      "last_id": 83817,
+      "last_id": 83818,
       "processed_ids": [
         83433,
         83434,
@@ -6725,12 +6743,13 @@
         83814,
         83815,
         83816,
-        83817
+        83817,
+        83818
       ],
       "sent_count": 9
     },
     "mazdak_hattrick": {
-      "last_id": 182165,
+      "last_id": 182166,
       "processed_ids": [
         181991,
         181992,
@@ -6901,148 +6920,14 @@
         182162,
         182163,
         182164,
-        182165
+        182165,
+        182166
       ],
       "sent_count": 8
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "1b486a5567a2d61ba4de0cc4c3aaf0b36e0578a9fd54e4bc6efc66f525944eb9",
-        "media_fingerprint": "2ed57a80f0d49dd6b31033533a6a5f97cd0b2302e4aeb53dfae854c209a22a2a",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/25983",
-        "post_id": 25983,
-        "message_id": 1739,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-09-22T22:06:08.364792+00:00"
-      },
-      {
-        "fingerprint": "87be3545d333f187aca45092d239674d2109de8daa2b3d6e1afe72f9d8a7ba50",
-        "media_fingerprint": "",
-        "text": "فرودگاه های بغداد، مسقط و باکو اعلام کردند از امشب دیگر هواپیماهای ایرانی را پذیرش نمیکنند\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "فرودگاه های بغداد، مسقط و باکو اعلام کردند از امشب دیگر هواپیماهای ایرانی را پذیرش نمیکنند\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162144",
-        "post_id": 162144,
-        "message_id": 1740,
-        "message_kind": "text",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-22T22:06:11.323549+00:00"
-      },
-      {
-        "fingerprint": "5352e91184603b37b71eb0c2897c825017ecb58eda14ac8222831fd2852a4d42",
-        "media_fingerprint": "",
-        "text": "پیام ویدئویی محسن نامجو، خواننده‌ای که یک ماه پیش به ایران مهاجرت کرد\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "پیام ویدئویی محسن نامجو، خواننده‌ای که یک ماه پیش به ایران مهاجرت کرد\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162145",
-        "post_id": 162145,
-        "message_id": 1741,
-        "message_kind": "text",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-22T22:06:14.246927+00:00"
-      },
-      {
-        "fingerprint": "03acd2d63aa32f5f5ded51d234ccd37f84fecfb5e84a8190989e2b8a9f6f11cc",
-        "media_fingerprint": "9068c8ac9c12f03db63ab81f5386213a67d1e13620527254cd579e78f3498393",
-        "text": "🍂\nمهرماهی‌های جان! فرزندان ارشد پاییز!\n🍁\n🤩\nتولدتون هزاران بار مبارک\n🥳\n🤗\nبراتون قشنگ‌ترین‌ها رو آرزو می‌کنم\n🥰\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "🍂\nمهرماهی‌های جان! فرزندان ارشد پاییز!\n🍁\n🤩\nتولدتون هزاران بار مبارک\n🥳\n🤗\nبراتون قشنگ‌ترین‌ها رو آرزو می‌کنم\n🥰\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162146",
-        "post_id": 162146,
-        "message_id": 1742,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-22T22:06:23.680062+00:00"
-      },
-      {
-        "fingerprint": "9ab627403bf9eed47405266396ec62cbf57de8dc947938ec49aa65eace07d2f8",
-        "media_fingerprint": "ded8a3132ea27eb844b6630c53374b06b22cf2a9f00d5bc94f6bbd536d3e4621",
-        "text": "اگه کسی آدرس این هیئت‌ها رو داره به ما هم بده.\nهیئت ها قبلا یه شکل دیگه نبودن؟!\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "اگه کسی آدرس این هیئت‌ها رو داره به ما هم بده.\nهیئت ها قبلا یه شکل دیگه نبودن؟!\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162148",
-        "post_id": 162148,
-        "message_id": 1743,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-22T22:06:33.685678+00:00"
-      },
-      {
-        "fingerprint": "28a24cbf9d4aa57533265cfb088f3a921f2cf9af7707d0950f7b027a53af7367",
-        "media_fingerprint": "ebd22acc46edebc265a9ef562ee48b45f03348227ee7b1ed967646b4b12fa2c1",
-        "text": "سلام به پاییز\n🍁\n🍃\n🍂\n‏امیدوارم با هر یدونه برگی که از درختا رو زمین میفته، یدونه از غمای تو دلتون کم بشه..\nپاییزتون مبارک..\n🧡\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "سلام به پاییز\n🍁\n🍃\n🍂\n‏امیدوارم با هر یدونه برگی که از درختا رو زمین میفته، یدونه از غمای تو دلتون کم بشه..\nپاییزتون مبارک..\n🧡\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162150",
-        "post_id": 162150,
-        "message_id": 1744,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-22T22:06:41.200731+00:00"
-      },
-      {
-        "fingerprint": "cc08b90aaa94fc45fa743f0c7f4fc10a545f4a2213c4faf0afe0f5eb75ed9bca",
-        "media_fingerprint": "",
-        "text": "🔴\nدقایقی پیش صدای انفجار در اطراف جزیره قشم شنیده شده؛\nطبق گزارشات ، ظاهراً صدا از سمت دریا اومده و تاالان هیچ اصابتی داخل خاک جزیره قشم گزارش نشده.\n@DrTeL\n| Mehrnews",
-        "original_username": "drtel",
-        "original_text": "🔴\nدقایقی پیش صدای انفجار در اطراف جزیره قشم شنیده شده؛\nطبق گزارشات ، ظاهراً صدا از سمت دریا اومده و تاالان هیچ اصابتی داخل خاک جزیره قشم گزارش نشده.\n@DrTeL\n| Mehrnews",
-        "original_link": "https://t.me/drtel/66812",
-        "post_id": 66812,
-        "message_id": 1745,
-        "message_kind": "text",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-09-22T22:06:44.149847+00:00"
-      },
-      {
-        "fingerprint": "08cba1e58749f665203eaf845ab6ce1702bcd9a30808460fb0c106982fa77607",
-        "media_fingerprint": "26468fa4c8afd655e2a454a410dfc9149391870f1acefc2d95286c3267024f7b",
-        "text": "🔴\nهواپیماهای آمریکایی\n🇺🇸\nانگار قصد دارن یه خبر مهم و بزرگ رو از طریق نقشه فلایت‌رادار بهمون برسونن :\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nهواپیماهای آمریکایی\n🇺🇸\nانگار قصد دارن یه خبر مهم و بزرگ رو از طریق نقشه فلایت‌رادار بهمون برسونن :\n@DrTeL",
-        "original_link": "https://t.me/drtel/66813",
-        "post_id": 66813,
-        "message_id": 1746,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-09-22T22:30:26.322744+00:00"
-      },
-      {
-        "fingerprint": "0d6e74baf31abfd81db8bd6c8d8db51602850a67cf3f72f090279bb381046444",
-        "media_fingerprint": "",
-        "text": "یعنی تا خود صبحم پست بزنیم این ری‌اکت فیک زن میاد فیک میزنه رو پستا تا ثابت کنه که بچه مدرسه‌ای نیست",
-        "original_username": "drtel",
-        "original_text": "یعنی تا خود صبحم پست بزنیم این ری‌اکت فیک زن میاد فیک میزنه رو پستا تا ثابت کنه که بچه مدرسه‌ای نیست",
-        "original_link": "https://t.me/drtel/66815",
-        "post_id": 66815,
-        "message_id": 1747,
-        "message_kind": "text",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-09-22T22:40:43.299821+00:00"
-      },
       {
         "fingerprint": "18429131e31714f360986dbd8c4cea02967816e5ddd43b392a12f0ae26a82608",
         "media_fingerprint": "2740a4dc8df06ff4c908a4c068f8558eb48eef17e6cac6ee83fa62f66ea60bc5",
@@ -21952,6 +21837,141 @@
           "drtel"
         ],
         "created_at": "2026-09-26T15:58:14.746864+00:00"
+      },
+      {
+        "fingerprint": "300950bc0aa64f50ae2d04da55122551c816e6109328af786b6659eb7a6d00a9",
+        "media_fingerprint": "ecc386fef65d09fc715b295574629ec97687210b78ecdeb45797a309e1a7506c",
+        "text": "🔻\nواردات سامسونگ و ال‌جی آزاد شد\nنامه سازمان توسعه تجارت به گمرک:\n🔹\nواردات لوازم خانگی محصول کره جنوبی، دیگر با هیچ محدودیتی مواجه نیست\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "🔻\nواردات سامسونگ و ال‌جی آزاد شد\nنامه سازمان توسعه تجارت به گمرک:\n🔹\nواردات لوازم خانگی محصول کره جنوبی، دیگر با هیچ محدودیتی مواجه نیست\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162319",
+        "post_id": 162319,
+        "message_id": 2790,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-09-26T16:18:57.322782+00:00"
+      },
+      {
+        "fingerprint": "cbcda432ff8b967134433f1b19fc0738f588d383d26658a11d4623cbcc860524",
+        "media_fingerprint": "f450d6845ce7ebc58f8ec77c3fb7dde260cf9a3f5e4e30d6c00d5572a7dad888",
+        "text": "امشب قراره بریم سراغ مهم ترین دیدار لیگ ملت های اروپا\n🔥\n👌🏻\nرویارویی سه شیرها و لاروخا در قلب انگیس\n🧡\n🤍\n⚠️\nپخش دیدارهای فوتبال لیگ ملت‌های اروپا - سطح A  فوتبال انگلیس - اسپانیا\n🔥\n⏰\nساعت ۲۲:۱۵\n📡\nلینک پخش برنامه\n🎤\nبا گزارش اختصاصی حسین علیرضایی\n👈\nکانال جــدیــد…",
+        "original_username": "varzesh3",
+        "original_text": "امشب قراره بریم سراغ مهم ترین دیدار لیگ ملت های اروپا\n🔥\n👌🏻\nرویارویی سه شیرها و لاروخا در قلب انگیس\n🧡\n🤍\n⚠️\nپخش دیدارهای فوتبال لیگ ملت‌های اروپا - سطح A  فوتبال انگلیس - اسپانیا\n🔥\n⏰\nساعت ۲۲:۱۵\n📡\nلینک پخش برنامه\n🎤\nبا گزارش اختصاصی حسین علیرضایی\n👈\nکانال جــدیــد…",
+        "original_link": "https://t.me/varzesh3/302865",
+        "post_id": 302865,
+        "message_id": 2791,
+        "message_kind": "caption",
+        "sources": [
+          "varzesh3"
+        ],
+        "created_at": "2026-09-26T16:19:01.859261+00:00"
+      },
+      {
+        "fingerprint": "620c37e87b9739d629c75908a08b8c13e5fb3624ff9760db8027ad84ab38f688",
+        "media_fingerprint": "",
+        "text": "دو هفته اس مادرم نیستش و کارای خونه پیر منو درآورد.\nغذا میپزم، ظرفاش سرویس میکنه.\nلباس میندازم ماشین، پهن کردنش میکشه منو.\nتا میام بشینم میبینم عه الان باید شام بذارم.\nتا شامو میخوریم میبینیم عه چقدر ظرف؟ عه چقدر آشغال؟ حالا طی بکش حالا جارو بکش.\nدوباره فردا و پسفردا...\nواقعا در تعجبم چطور زنی که تو خونه کار میکنه رو جز خانومای مستقل حساب نمیکنید؟؟؟؟؟\nمستقل‌تر از زن خانه‌دار نداریم بقرآن\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "دو هفته اس مادرم نیستش و کارای خونه پیر منو درآورد.\nغذا میپزم، ظرفاش سرویس میکنه.\nلباس میندازم ماشین، پهن کردنش میکشه منو.\nتا میام بشینم میبینم عه الان باید شام بذارم.\nتا شامو میخوریم میبینیم عه چقدر ظرف؟ عه چقدر آشغال؟ حالا طی بکش حالا جارو بکش.\nدوباره فردا و پسفردا...\nواقعا در تعجبم چطور زنی که تو خونه کار میکنه رو جز خانومای مستقل حساب نمیکنید؟؟؟؟؟\nمستقل‌تر از زن خانه‌دار نداریم بقرآن\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162320",
+        "post_id": 162320,
+        "message_id": 2792,
+        "message_kind": "text",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-09-26T16:19:05.258203+00:00"
+      },
+      {
+        "fingerprint": "194c724ff052b7458fa1c58a8b08abfde07c9895a3bdf54b2cbdf199edb20494",
+        "media_fingerprint": "7f673f7c778af98a33308accb62d6eda8866e24920a0b0bbc798269c69b602bb",
+        "text": "چرا باید یک بچه تاوان یک شب هوس شما رو پس بده؟ به کدامین گناه؟\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "چرا باید یک بچه تاوان یک شب هوس شما رو پس بده؟ به کدامین گناه؟\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162321",
+        "post_id": 162321,
+        "message_id": 2793,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-09-26T16:19:10.293661+00:00"
+      },
+      {
+        "fingerprint": "4eb219df76acbfc005650f567a15049f95e5a08edfff0db74fa71997f1b0efd2",
+        "media_fingerprint": "88ae201a3ed61396a75c2c6f81ab1b279c352d8d67e74cbf95b844c34384292c",
+        "text": "بلاگر تراز برای من اینجوریه:\nنه برجستگی های بدنش رو تو حلقمون میکنه\nنه گوشی آیفونش رو نمایش میده\nنه صداشو عشوه دار میکنه\nومهمتر از همه نه \" دروغ \" میگه.\nاو یک آدم حسابی است.\nاو یک کار مفید درجهت فرهنگ سازی انجام میده.\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "بلاگر تراز برای من اینجوریه:\nنه برجستگی های بدنش رو تو حلقمون میکنه\nنه گوشی آیفونش رو نمایش میده\nنه صداشو عشوه دار میکنه\nومهمتر از همه نه \" دروغ \" میگه.\nاو یک آدم حسابی است.\nاو یک کار مفید درجهت فرهنگ سازی انجام میده.\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162322",
+        "post_id": 162322,
+        "message_id": 2794,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-09-26T16:19:15.959989+00:00"
+      },
+      {
+        "fingerprint": "701d99dbe0d3afbe6111ed4db33fa421aa24b816840ebad75d20d5de911dbe3f",
+        "media_fingerprint": "757b7dd2018dba3d8e05065fcf13835bb06dd5a64f4de303e2644c45ab1be2a4",
+        "text": "فکر کردی بهت سکه میدن\n😂\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "فکر کردی بهت سکه میدن\n😂\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162323",
+        "post_id": 162323,
+        "message_id": 2795,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-09-26T16:19:21.552683+00:00"
+      },
+      {
+        "fingerprint": "bf27f6a2a6d1ae5f3250f9c3229e7a3d1118545e9d552b1f5504094e12e4670c",
+        "media_fingerprint": "692a3a1886d9dbeeceb2a27283aa72d0a005be61eb8f8456ef58a8f04d22925a",
+        "text": "🏡\nکلبه\nمیخوای یا\nویلا\n⁉️\n⛰\nتو دل کوهستان سرسبز  \"سولقون\"\n🌙\nشبی رویایی و به یادموندنی\n💫\n🚘\nبا\nیک ساعت رانندگی\nاز وسط تهران\nدر کانال \" اطلاعات گردشگری کن سولقان \"\nاقامتگاه مورد نظرتون رو پیدا کنید\n💢\nکانال تلگرام اطلاعات گردشگری کن و سولقان\n🆔\nhttps://t.me/sulukantourguide\n💢\nکانال بله اطلاعات گردشگری کن و سولقان\n🆔\nhttps://ble.ir/sulukantourismguide",
+        "original_username": "gizmiztel",
+        "original_text": "🏡\nکلبه\nمیخوای یا\nویلا\n⁉️\n⛰\nتو دل کوهستان سرسبز  \"سولقون\"\n🌙\nشبی رویایی و به یادموندنی\n💫\n🚘\nبا\nیک ساعت رانندگی\nاز وسط تهران\nدر کانال \" اطلاعات گردشگری کن سولقان \"\nاقامتگاه مورد نظرتون رو پیدا کنید\n💢\nکانال تلگرام اطلاعات گردشگری کن و سولقان\n🆔\nhttps://t.me/sulukantourguide\n💢\nکانال بله اطلاعات گردشگری کن و سولقان\n🆔\nhttps://ble.ir/sulukantourismguide",
+        "original_link": "https://t.me/gizmiztel/162324",
+        "post_id": 162324,
+        "message_id": 2796,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-09-26T16:19:26.238671+00:00"
+      },
+      {
+        "fingerprint": "54efc3ce9448ec93d5618347320f953a0098bf8d45f4bbd870f212b980f5e551",
+        "media_fingerprint": "80632472d45ef3c77e010dae6ed540e430da4b164cd39aea59f26e1d6f31b10b",
+        "text": "وقتی میگن تشخیص جـنسیت توی این زمان سخت شده؛ منظورشون یه همچین چیزیه.\nشما صد بار هم این فیلما رو نگاه می کنی بازم نمیتونی با قطعیت بگی جـنسیت طرف چیه.\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "وقتی میگن تشخیص جـنسیت توی این زمان سخت شده؛ منظورشون یه همچین چیزیه.\nشما صد بار هم این فیلما رو نگاه می کنی بازم نمیتونی با قطعیت بگی جـنسیت طرف چیه.\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162325",
+        "post_id": 162325,
+        "message_id": 2797,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-09-26T16:19:31.691926+00:00"
+      },
+      {
+        "fingerprint": "a68cf6d8e4a583debd6d5fa19e82e59cfae51a18d0a8a455887c52e0b56a9734",
+        "media_fingerprint": "c4f014befad4ade5829cfec5049717558bed912fccbd2efa79a26ac012bcb11a",
+        "text": "اینجا دانشگاه آزاد تهران\nوقتی منو رفیقام تصمیم میگیریم بریم دانشگاه:))))\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "اینجا دانشگاه آزاد تهران\nوقتی منو رفیقام تصمیم میگیریم بریم دانشگاه:))))\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162327",
+        "post_id": 162327,
+        "message_id": 2798,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-09-26T16:19:38.115148+00:00"
       }
     ]
   }
