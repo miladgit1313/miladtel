@@ -539,7 +539,7 @@
       "sent_count": 312
     },
     "total_fut": {
-      "last_id": 236803,
+      "last_id": 236805,
       "processed_ids": [
         236405,
         236407,
@@ -923,12 +923,14 @@
         236800,
         236801,
         236802,
-        236803
+        236803,
+        236804,
+        236805
       ],
       "sent_count": 16
     },
     "footballvision2": {
-      "last_id": 169488,
+      "last_id": 169490,
       "processed_ids": [
         168857,
         168858,
@@ -1537,7 +1539,9 @@
         169484,
         169485,
         169486,
-        169488
+        169488,
+        169489,
+        169490
       ],
       "sent_count": 27
     },
@@ -1560,7 +1564,7 @@
       "sent_count": 3
     },
     "fars_today": {
-      "last_id": 132048,
+      "last_id": 132049,
       "processed_ids": [
         131975,
         131976,
@@ -1634,9 +1638,10 @@
         132044,
         132045,
         132046,
-        132048
+        132048,
+        132049
       ],
-      "sent_count": 46
+      "sent_count": 47
     },
     "behzistikomitenews": {
       "last_id": 13946,
@@ -1653,7 +1658,7 @@
       "sent_count": 4
     },
     "drtel": {
-      "last_id": 66963,
+      "last_id": 66964,
       "processed_ids": [
         66561,
         66565,
@@ -1974,9 +1979,10 @@
         66960,
         66961,
         66962,
-        66963
+        66963,
+        66964
       ],
-      "sent_count": 190
+      "sent_count": 191
     },
     "techtube": {
       "last_id": 18342,
@@ -2256,7 +2262,7 @@
       "sent_count": 41
     },
     "coffeenetmanager": {
-      "last_id": 51613,
+      "last_id": 51617,
       "processed_ids": [
         51537,
         51538,
@@ -2330,9 +2336,11 @@
         51610,
         51611,
         51612,
-        51613
+        51613,
+        51616,
+        51617
       ],
-      "sent_count": 40
+      "sent_count": 41
     },
     "roidbest": {
       "last_id": 21687,
@@ -2413,7 +2421,7 @@
       "sent_count": 43
     },
     "akhbar_cafenet": {
-      "last_id": 22668,
+      "last_id": 22671,
       "processed_ids": [
         22432,
         22433,
@@ -2647,9 +2655,12 @@
         22665,
         22666,
         22667,
-        22668
+        22668,
+        22669,
+        22670,
+        22671
       ],
-      "sent_count": 163
+      "sent_count": 164
     },
     "comentiat": {
       "last_id": 26082,
@@ -2949,7 +2960,7 @@
       "sent_count": 52
     },
     "gizmiztel": {
-      "last_id": 162294,
+      "last_id": 162297,
       "processed_ids": [
         161872,
         161875,
@@ -3331,9 +3342,12 @@
         162291,
         162292,
         162293,
-        162294
+        162294,
+        162295,
+        162296,
+        162297
       ],
-      "sent_count": 239
+      "sent_count": 240
     },
     "dr_salamatx": {
       "last_id": 55306,
@@ -3379,7 +3393,7 @@
       "sent_count": 24
     },
     "jaleb": {
-      "last_id": 52462,
+      "last_id": 52465,
       "processed_ids": [
         52261,
         52262,
@@ -3561,12 +3575,14 @@
         52459,
         52460,
         52461,
-        52462
+        52462,
+        52464,
+        52465
       ],
-      "sent_count": 101
+      "sent_count": 103
     },
     "ajayebe_jahann": {
-      "last_id": 159233,
+      "last_id": 159236,
       "processed_ids": [
         158956,
         158957,
@@ -3844,9 +3860,12 @@
         159230,
         159231,
         159232,
-        159233
+        159233,
+        159234,
+        159235,
+        159236
       ],
-      "sent_count": 116
+      "sent_count": 117
     },
     "etelaate_omoomi": {
       "last_id": 43105,
@@ -4879,7 +4898,7 @@
       "sent_count": 17
     },
     "totalfut_plus": {
-      "last_id": 26129,
+      "last_id": 26130,
       "processed_ids": [
         25870,
         25871,
@@ -5135,12 +5154,13 @@
         26126,
         26127,
         26128,
-        26129
+        26129,
+        26130
       ],
       "sent_count": 5
     },
     "adak_ir_official": {
-      "last_id": 234228,
+      "last_id": 234229,
       "processed_ids": [
         233831,
         233833,
@@ -5537,12 +5557,13 @@
         234225,
         234226,
         234227,
-        234228
+        234228,
+        234229
       ],
       "sent_count": 9
     },
     "futball180tv": {
-      "last_id": 107284,
+      "last_id": 107285,
       "processed_ids": [
         106848,
         106849,
@@ -5972,12 +5993,13 @@
         107281,
         107282,
         107283,
-        107284
+        107284,
+        107285
       ],
-      "sent_count": 1
+      "sent_count": 2
     },
     "hattric_official": {
-      "last_id": 83790,
+      "last_id": 83792,
       "processed_ids": [
         83433,
         83434,
@@ -6305,9 +6327,11 @@
         83787,
         83788,
         83789,
-        83790
+        83790,
+        83791,
+        83792
       ],
-      "sent_count": 5
+      "sent_count": 6
     },
     "mazdak_hattrick": {
       "last_id": 182147,
@@ -6471,158 +6495,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "d3ba1d8e51c7019c8be9e6323d1ae1bcc7799dd033a0ac7526bc7bcb9c4f75da",
-        "media_fingerprint": "79add458c19e2f8855544e9f846a62d7f1e0dabf5fccd0c66f733bf83833d873",
-        "text": "💵\nاشخاص حقوقی و صاحبان درآمد املاک اجاری تا پایان امروز، سه شنبه، ۳۱ شهریورماه فرصت دارند نسبت به ارایه اظهارنامه و پرداخت مالیات متعلق برای عملکرد سال ۱۴۰۴ اقدام کنند.\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "💵\nاشخاص حقوقی و صاحبان درآمد املاک اجاری تا پایان امروز، سه شنبه، ۳۱ شهریورماه فرصت دارند نسبت به ارایه اظهارنامه و پرداخت مالیات متعلق برای عملکرد سال ۱۴۰۴ اقدام کنند.\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22565",
-        "post_id": 22565,
-        "message_id": 1577,
-        "message_kind": "caption",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-09-22T12:04:51.450097+00:00"
-      },
-      {
-        "fingerprint": "6bd8f189a998564194de3e2e538f781676f56007efdc24e5a16c8d7d1ab5231c",
-        "media_fingerprint": "",
-        "text": "⭕️\nسخنگوی وزارت آموزش‌وپرورش: تمام دانش‌آموزان اتباع امکان ثبت‌نام در مدارس دولتی را دارند\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "⭕️\nسخنگوی وزارت آموزش‌وپرورش: تمام دانش‌آموزان اتباع امکان ثبت‌نام در مدارس دولتی را دارند\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22566",
-        "post_id": 22566,
-        "message_id": 1578,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet",
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-22T12:04:54.361996+00:00"
-      },
-      {
-        "fingerprint": "77b09edf7d5c5cf755ffc266b7e0bd6d119dd14adbce4becf70ce0a14130ee29",
-        "media_fingerprint": "515f39558b07323b3873116579c0d777eccad36680b2fc120958f98c62d57147",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/25966",
-        "post_id": 25966,
-        "message_id": 1579,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-09-22T12:25:23.511715+00:00"
-      },
-      {
-        "fingerprint": "a211a6cc7e5fb5e2435325fb23cb9b48e643d70194a231b93c0c3a7becfbcbf2",
-        "media_fingerprint": "",
-        "text": "آغاز فعالیت ادارات فارس از ساعت ۸ صبح\n🔹\nمعاونت توسعه مدیریت و منابع استانداری فارس طی بخشنامه‌ای، ساعت آغاز و خاتمه کار تمامی دستگاه‌های اجرایی استان را از روز یکم مهرماه اعلام کرد که بر اساس آن، فعالیت ادارات از ساعت ۸ صبح آغاز می‌شود. این تصمیم با هدف بهبود روند خدمت‌رسانی و ساماندهی ساعات اداری اتخاذ شده است.",
-        "original_username": "fars_today",
-        "original_text": "آغاز فعالیت ادارات فارس از ساعت ۸ صبح\n🔹\nمعاونت توسعه مدیریت و منابع استانداری فارس طی بخشنامه‌ای، ساعت آغاز و خاتمه کار تمامی دستگاه‌های اجرایی استان را از روز یکم مهرماه اعلام کرد که بر اساس آن، فعالیت ادارات از ساعت ۸ صبح آغاز می‌شود. این تصمیم با هدف بهبود روند خدمت‌رسانی و ساماندهی ساعات اداری اتخاذ شده است.",
-        "original_link": "https://t.me/Fars_today/132014",
-        "post_id": 132014,
-        "message_id": 1580,
-        "message_kind": "text",
-        "sources": [
-          "fars_today"
-        ],
-        "created_at": "2026-09-22T12:25:26.682836+00:00"
-      },
-      {
-        "fingerprint": "d2a2c69c7d30f872f50c11aa416b697c5d2c495aacf9792659f4dcdf9270a72f",
-        "media_fingerprint": "",
-        "text": "🌐\nنتایج نهایی آزمون دستیاری پزشکی در قالب نتایج اولیه آزمون در سایت سنجش منتشر شد\n🔗\nلینک مشاهده نتایج\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🌐\nنتایج نهایی آزمون دستیاری پزشکی در قالب نتایج اولیه آزمون در سایت سنجش منتشر شد\n🔗\nلینک مشاهده نتایج\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22567",
-        "post_id": 22567,
-        "message_id": 1581,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet",
-          "coffeenetmanager"
-        ],
-        "created_at": "2026-09-22T12:25:29.654871+00:00"
-      },
-      {
-        "fingerprint": "c1bde390d610ada7422ecc2be83ef58f26b1e00b24f14ccda8a10c8cc9357479",
-        "media_fingerprint": "",
-        "text": "♦️\nتاج: به دنبال برگزاری بازی دوستانه سوم در قطر هستیم\nرئیس فدراسیون فوتبال:\n🔹\nشیطنت‌هایی برای تعلیق فوتبال شده که فیفا از ما در این زمینه سوال کرده است؛ نباید به دشمنان آتو بدهیم و خلاف قوانین فیفا عمل کنیم\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nتاج: به دنبال برگزاری بازی دوستانه سوم در قطر هستیم\nرئیس فدراسیون فوتبال:\n🔹\nشیطنت‌هایی برای تعلیق فوتبال شده که فیفا از ما در این زمینه سوال کرده است؛ نباید به دشمنان آتو بدهیم و خلاف قوانین فیفا عمل کنیم\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142209",
-        "post_id": 142209,
-        "message_id": 1582,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-22T12:41:11.310707+00:00"
-      },
-      {
-        "fingerprint": "f05ec85f975373a3b6f981f2dd8a731fead5bc30f88f85ec55747ac243cf927b",
-        "media_fingerprint": "36955a1d104bedfd390f95a4443724d4893d46c4748a4a15a44a6b36a4da5be1",
-        "text": "🔴\nمرادویسی، تحلیلگر اینترنشنال :\nاینکه ترامپ، پزشکیان و عراقچی رو تو خاک آمریکا دستیگر کنه و مثل مادورو بندازه زندان، احتمالش خیلی کمه اما صفر هم نیست.\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nمرادویسی، تحلیلگر اینترنشنال :\nاینکه ترامپ، پزشکیان و عراقچی رو تو خاک آمریکا دستیگر کنه و مثل مادورو بندازه زندان، احتمالش خیلی کمه اما صفر هم نیست.\n@DrTeL",
-        "original_link": "https://t.me/drtel/66787",
-        "post_id": 66787,
-        "message_id": 1583,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-09-22T12:41:18.775523+00:00"
-      },
-      {
-        "fingerprint": "f36ddcb764a612b2b04c1fd558e4b5d7c9d11686d43042fe9b1c4edfd1d25017",
-        "media_fingerprint": "30027829dc439c1a3e870247e2cb7e2a4236effe37b2c9f4f4e5cc289f081db7",
-        "text": "📱\nجزئیات بروز اختلال در چت جی‌بی‌تی\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "📱\nجزئیات بروز اختلال در چت جی‌بی‌تی\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22568",
-        "post_id": 22568,
-        "message_id": 1584,
-        "message_kind": "caption",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-09-22T12:41:25.657195+00:00"
-      },
-      {
-        "fingerprint": "f2cceb67fcbeca566da7b50318ee7937afb7715d4d79705d5cd2a1585cc08b69",
-        "media_fingerprint": "eb1c57942885fdb0bc09fccb732f7146e4b3da40214187be91e0d0ecc904e141",
-        "text": "از دست رفتن کروموزوم Y در مردان می‌تواند اولین نشانه آغاز سرطان باشد\n◽️\nمطالعه جدیدی با بررسی بیش از هزار نمونه بافت نشان داده که ناپدید شدن کروموزوم Y در سلول‌ها با تشکیل تومورهای سرطانی ارتباط دارد. به گفته محققان، این پدیده با ایجاد التهاب موضعی، سلول‌های اطراف را برای بدخیم شدن مستعد می‌کند.\n◽️\nمیزان از دست رفتن این کروموزوم با افزایش سن بیشتر می‌شود و به حدود ۶۰ درصد در مردان بالای ۹۰ سال می‌رسد. دانشمندان می‌گویند این الگو می‌تواند به عنوان یک نشانه جدید، به پزشکان در تشخیص زودهنگام سرطان در نمونه‌برداری‌های مشکوک کمک کند.\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_username": "majalepezeshki",
-        "original_text": "از دست رفتن کروموزوم Y در مردان می‌تواند اولین نشانه آغاز سرطان باشد\n◽️\nمطالعه جدیدی با بررسی بیش از هزار نمونه بافت نشان داده که ناپدید شدن کروموزوم Y در سلول‌ها با تشکیل تومورهای سرطانی ارتباط دارد. به گفته محققان، این پدیده با ایجاد التهاب موضعی، سلول‌های اطراف را برای بدخیم شدن مستعد می‌کند.\n◽️\nمیزان از دست رفتن این کروموزوم با افزایش سن بیشتر می‌شود و به حدود ۶۰ درصد در مردان بالای ۹۰ سال می‌رسد. دانشمندان می‌گویند این الگو می‌تواند به عنوان یک نشانه جدید، به پزشکان در تشخیص زودهنگام سرطان در نمونه‌برداری‌های مشکوک کمک کند.\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_link": "https://t.me/MajalePezeshki/38479",
-        "post_id": 38479,
-        "message_id": 1585,
-        "message_kind": "caption",
-        "sources": [
-          "majalepezeshki"
-        ],
-        "created_at": "2026-09-22T12:57:42.933868+00:00"
-      },
-      {
-        "fingerprint": "5810da83e8c756e7f414822be8ecace4ca543cd5f04baa9c20229d5924be569a",
-        "media_fingerprint": "",
-        "text": "حیف شد اگه ندیدیش...\n👆",
-        "original_username": "pc_it_mob",
-        "original_text": "حیف شد اگه ندیدیش...\n👆",
-        "original_link": "https://t.me/Pc_IT_Mob/11893",
-        "post_id": 11893,
-        "message_id": 1586,
-        "message_kind": "text",
-        "sources": [
-          "pc_it_mob"
-        ],
-        "created_at": "2026-09-22T12:57:45.400645+00:00"
-      },
       {
         "fingerprint": "8140dcd22a6c8a1a775a12f34003aebb45aaa6b59ff3715508f921ebcfcc998f",
         "media_fingerprint": "96e03d1d06a2261c19d0045ee81e4dc7eea9fdc880399a88e7b515a583cf373e",
@@ -21513,6 +21385,156 @@
           "akhbar_cafenet"
         ],
         "created_at": "2026-09-26T06:29:36.289554+00:00"
+      },
+      {
+        "fingerprint": "90d41b1af94aa4caf5cca1f32720a8e6da467be4e83862345eaae7a06a379180",
+        "media_fingerprint": "f8466fba7047f0fe769b2ddea0072606f0c140146d5997d88d18b559e1cee4d2",
+        "text": "تور های ایرانی وارد فضای عجیب وغریبی شده اند!\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "تور های ایرانی وارد فضای عجیب وغریبی شده اند!\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162296",
+        "post_id": 162296,
+        "message_id": 2635,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-09-26T06:49:25.775908+00:00"
+      },
+      {
+        "fingerprint": "f03db7a7efd8d2c2dcbf42cbbc614105c507e1e86b8e55076366aa021ec39578",
+        "media_fingerprint": "",
+        "text": "✅\nآغاز حذف و اضافه و درخواست مهمانی دانشگاه علمی کاربردی ۱۴۰۵ - ۱۴۰۶\nبراساس جدول زمانی سایت هم آوا علمی کاربردی، مهلت حذف و اضافه دانشگاه علمی کاربردی برای نیمسال اول ۱۴۰۵، از امروز مورخ ۴ مهر ماه آغاز شده و تا ۱۰ مهر ماه ادامه خواهد داشت. متقاضیان می بایست بر اساس سال ورودی خود در موعد مقرر به سایت مذکور مراجعه نمایند.\nلینک سامانه هم آوا",
+        "original_username": "coffeenetmanager",
+        "original_text": "✅\nآغاز حذف و اضافه و درخواست مهمانی دانشگاه علمی کاربردی ۱۴۰۵ - ۱۴۰۶\nبراساس جدول زمانی سایت هم آوا علمی کاربردی، مهلت حذف و اضافه دانشگاه علمی کاربردی برای نیمسال اول ۱۴۰۵، از امروز مورخ ۴ مهر ماه آغاز شده و تا ۱۰ مهر ماه ادامه خواهد داشت. متقاضیان می بایست بر اساس سال ورودی خود در موعد مقرر به سایت مذکور مراجعه نمایند.\nلینک سامانه هم آوا",
+        "original_link": "https://t.me/CoffeenetManager/51617",
+        "post_id": 51617,
+        "message_id": 2636,
+        "message_kind": "text",
+        "sources": [
+          "coffeenetmanager"
+        ],
+        "created_at": "2026-09-26T06:49:28.825764+00:00"
+      },
+      {
+        "fingerprint": "473b2da8c4884e6ad20124f5a0d9b163a823c04b0c595ba367df995721348253",
+        "media_fingerprint": "b7ebc6468e66e33274b8a16e2fbe6938f3a12facdc97c9c077bd76eb8c34c4be",
+        "text": "🔻\nچرا حمل جیوه در هواپیما ممنوع است!؟\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "🔻\nچرا حمل جیوه در هواپیما ممنوع است!؟\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/159236",
+        "post_id": 159236,
+        "message_id": 2637,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-09-26T06:49:35.813967+00:00"
+      },
+      {
+        "fingerprint": "12ebfcc7ea8ded2e73326088c529472e545c7cb575ace2998523f3df3af7d953",
+        "media_fingerprint": "598b9a00f859b4713a7d130646ecb29ec01c05300f9eb541384297661d77d23f",
+        "text": "آپارتمان در شهرک خانه دریا با سن بنا ۵۳ سال، طبقه سوم‌بدون اسانسور، شروع قیمت از ۳۰ میلیارد تومن به بالا\nوضعیت مسکن مملکت\n😐\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "آپارتمان در شهرک خانه دریا با سن بنا ۵۳ سال، طبقه سوم‌بدون اسانسور، شروع قیمت از ۳۰ میلیارد تومن به بالا\nوضعیت مسکن مملکت\n😐\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52464",
+        "post_id": 52464,
+        "message_id": 2638,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-09-26T06:49:42.414066+00:00"
+      },
+      {
+        "fingerprint": "37da833b4c6184e976831a440dcc7a8a3de190e36fdae4370edea63be3a6f9cd",
+        "media_fingerprint": "39ebf517f109feda460ee4f835c9c58e48261cfe9946d00ea8fe967a9d852e27",
+        "text": "تصویری پربازدید از صندلی فرسوده مجمع عمومی سازمان ملل\n▪️\nاین تصویر را معاون اول دفتر رئیس‌جمهوری اوکراین منتشر کرده و آن را نمادی از وضع کنونی این سازمان می‌داند.\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "تصویری پربازدید از صندلی فرسوده مجمع عمومی سازمان ملل\n▪️\nاین تصویر را معاون اول دفتر رئیس‌جمهوری اوکراین منتشر کرده و آن را نمادی از وضع کنونی این سازمان می‌داند.\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52465",
+        "post_id": 52465,
+        "message_id": 2639,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-09-26T06:49:46.699170+00:00"
+      },
+      {
+        "fingerprint": "dddb83b50cad7e0147a7b63cbf2319b5dbf973b84868c26ee18a3006902b3df1",
+        "media_fingerprint": "41ebc07ccdabe1514a73d53e02a209dddee962f714f28cfadd9b710560dad16e",
+        "text": "🔴\nامروز 26 September، روزِ پیام عاشقانه‌ست.\n+تو این روز باید به عشق زندگیت یه حرف عاشقانه بزنی، یا اگه نمی‌دونی چی بگی، همین پست رو براش بفرست\n@DrTeL\n| Time and Date",
+        "original_username": "drtel",
+        "original_text": "🔴\nامروز 26 September، روزِ پیام عاشقانه‌ست.\n+تو این روز باید به عشق زندگیت یه حرف عاشقانه بزنی، یا اگه نمی‌دونی چی بگی، همین پست رو براش بفرست\n@DrTeL\n| Time and Date",
+        "original_link": "https://t.me/drtel/66964",
+        "post_id": 66964,
+        "message_id": 2640,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-09-26T06:49:53.754231+00:00"
+      },
+      {
+        "fingerprint": "c3810bc135ed55345365f8de4ffaf55a9be64bb5871073912ae345491ff018b3",
+        "media_fingerprint": "",
+        "text": "ورود پلیس به ماجرای پیش فروش آیفون های ۱۸\nرئیس پلیس فضای تولید و تبادل اطلاعات پایتخت:\n🔹\nیک کلاهبردار اینستاگرامی که تحت عنوان پیش فروش ویژه آیفون های سری ۱۸ اقدام به کلاهبرداری از شهروندان می کرد شناسایی و دستگیر شد.\n🔹\nاین شیاد مجازی با این ترفند از بیش از ۲۰ نفر از شهروندان کلاهبرداری کرده بود./تسنیم",
+        "original_username": "fars_today",
+        "original_text": "ورود پلیس به ماجرای پیش فروش آیفون های ۱۸\nرئیس پلیس فضای تولید و تبادل اطلاعات پایتخت:\n🔹\nیک کلاهبردار اینستاگرامی که تحت عنوان پیش فروش ویژه آیفون های سری ۱۸ اقدام به کلاهبرداری از شهروندان می کرد شناسایی و دستگیر شد.\n🔹\nاین شیاد مجازی با این ترفند از بیش از ۲۰ نفر از شهروندان کلاهبرداری کرده بود./تسنیم",
+        "original_link": "https://t.me/Fars_today/132049",
+        "post_id": 132049,
+        "message_id": 2641,
+        "message_kind": "text",
+        "sources": [
+          "fars_today"
+        ],
+        "created_at": "2026-09-26T06:49:57.819825+00:00"
+      },
+      {
+        "fingerprint": "42d3ecb04e440a057956f608315db65eec4808d98e6ed5c2a3bd407811524488",
+        "media_fingerprint": "",
+        "text": "📱\nایجنت‌های OpenAI خودمختار ۵۳ تصویر کاربران را در اینترنت منتشر کردند\n🔵\nشرکت OpenAI اعلام کرده ۵۳ تصویر متعلق به کاربران، بدون اطلاع شرکت توسط عامل‌های هوش مصنوعی در سایت‌های عمومی میزبانی تصاویر منتشر شده‌اند.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "📱\nایجنت‌های OpenAI خودمختار ۵۳ تصویر کاربران را در اینترنت منتشر کردند\n🔵\nشرکت OpenAI اعلام کرده ۵۳ تصویر متعلق به کاربران، بدون اطلاع شرکت توسط عامل‌های هوش مصنوعی در سایت‌های عمومی میزبانی تصاویر منتشر شده‌اند.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/22671",
+        "post_id": 22671,
+        "message_id": 2642,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-09-26T06:50:00.714032+00:00"
+      },
+      {
+        "fingerprint": "b4dcdd16fa3e4c24a6bf62ae74fcbe1cdd3230f11b5c3dda3decb3a7d4d38c52",
+        "media_fingerprint": "8559e1b24bf79e343a0bf5d88410ae769c090c7ad72cc834226593748b331543",
+        "text": "‼️\n🇮🇷\n🇮🇷\nکنایه گودرزی به ابوالفضل‌جلالی مدافع فعلی پرسپولیس: زمان مشخص میکنه کی استقلالیه!\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "‼️\n🇮🇷\n🇮🇷\nکنایه گودرزی به ابوالفضل‌جلالی مدافع فعلی پرسپولیس: زمان مشخص میکنه کی استقلالیه!\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/107285",
+        "post_id": 107285,
+        "message_id": 2643,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-09-26T06:50:06.626211+00:00"
+      },
+      {
+        "fingerprint": "0d29cbfde188f637adec0f97c4e4bb7155ad491086fbc8e40793dbd8622d2ab8",
+        "media_fingerprint": "92f4ffb7579230d07c51e10278b11d048763f3fc7a552b58d2a43bd1b9b4b0b7",
+        "text": "🏴󠁧󠁢󠁥󠁮󠁧󠁿\n⚽️\nاگه تمام هشت قهرمانی لیگ برتر منچسترسیتی از فصل ۲۰۱۱/۱۲ به بعد پس گرفته بشه و به تیم‌های نایب‌قهرمان داده بشه این شکلی میشه.\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "🏴󠁧󠁢󠁥󠁮󠁧󠁿\n⚽️\nاگه تمام هشت قهرمانی لیگ برتر منچسترسیتی از فصل ۲۰۱۱/۱۲ به بعد پس گرفته بشه و به تیم‌های نایب‌قهرمان داده بشه این شکلی میشه.\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/83792",
+        "post_id": 83792,
+        "message_id": 2644,
+        "message_kind": "caption",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-09-26T06:50:10.998150+00:00"
       }
     ]
   }
