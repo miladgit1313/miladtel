@@ -2925,7 +2925,7 @@
       "sent_count": 174
     },
     "comentiat": {
-      "last_id": 26102,
+      "last_id": 26108,
       "processed_ids": [
         25844,
         25845,
@@ -3137,9 +3137,12 @@
         26099,
         26100,
         26101,
-        26102
+        26102,
+        26103,
+        26104,
+        26108
       ],
-      "sent_count": 135
+      "sent_count": 137
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -7203,36 +7206,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "72f982368d7ac6128c7b6705a1a4ac8a15c3d68ee4b9697ddf5187da8221217f",
-        "media_fingerprint": "",
-        "text": "عراقچی اگه اومد گفت مذاکرات خوب بوده و هردو طرف نشون دادن که جدیت داشتن\nتن ماهی رو بخرید و باک ها رو پر کنید\n😄\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "عراقچی اگه اومد گفت مذاکرات خوب بوده و هردو طرف نشون دادن که جدیت داشتن\nتن ماهی رو بخرید و باک ها رو پر کنید\n😄\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162158",
-        "post_id": 162158,
-        "message_id": 1813,
-        "message_kind": "text",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-23T08:07:48.785300+00:00"
-      },
-      {
-        "fingerprint": "b9ff38f7786285a08f71bc582291cd7cb146c0bbd89f2f462553ae279780d920",
-        "media_fingerprint": "d91e900ba57e2bddd57524257be9cdb485007352e438170299e640e7f42a6f31",
-        "text": "سیستم‌ آموزشی چین رو ملاحظه بفرمایید\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "سیستم‌ آموزشی چین رو ملاحظه بفرمایید\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162159",
-        "post_id": 162159,
-        "message_id": 1814,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-23T08:07:53.973286+00:00"
-      },
       {
         "fingerprint": "0557c049ec4f8c4b1bb610b9841d6567b273a2efd33b62deb056dc051337e13c",
         "media_fingerprint": "29fa36e8135ff9e4042bcb47fae2a066db3d24fc07964d09305ede53337d995d",
@@ -22246,6 +22219,36 @@
           "comentiat"
         ],
         "created_at": "2026-09-26T22:42:34.784591+00:00"
+      },
+      {
+        "fingerprint": "85c8cc0b25bdfb5773a5472aa87edb96b1447e1fb3e39ba976035ea9babf8cd4",
+        "media_fingerprint": "65e5cda1ac1537b9d98808143bfafa5d1ba3efba83e521f9ae37c5305f8ad692",
+        "text": "چجوری یه شهر میتونه انقد شیک و خفن باشه\n📍\nمیامی\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "چجوری یه شهر میتونه انقد شیک و خفن باشه\n📍\nمیامی\n@comentiat",
+        "original_link": "https://t.me/Comentiat/26104",
+        "post_id": 26104,
+        "message_id": 2870,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-09-26T23:49:26.297253+00:00"
+      },
+      {
+        "fingerprint": "a97fba119d861df9461d4a9927df3e4ba6f53bd989af269a1aff1090aebf0a3b",
+        "media_fingerprint": "821164a5b629d124a4e7c5dc2e5cfa1156def50d91006489e6525242d2994774",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26108",
+        "post_id": 26108,
+        "message_id": 2874,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-09-26T23:49:33.354935+00:00"
       }
     ]
   }
