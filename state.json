@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142502,
+      "last_id": 142504,
       "processed_ids": [
         141903,
         141904,
@@ -573,7 +573,9 @@
         142499,
         142500,
         142501,
-        142502
+        142502,
+        142503,
+        142504
       ],
       "sent_count": 341
     },
@@ -1764,7 +1766,7 @@
       "sent_count": 4
     },
     "drtel": {
-      "last_id": 66979,
+      "last_id": 66981,
       "processed_ids": [
         66561,
         66565,
@@ -2100,9 +2102,11 @@
         66975,
         66976,
         66977,
-        66979
+        66979,
+        66980,
+        66981
       ],
-      "sent_count": 199
+      "sent_count": 200
     },
     "techtube": {
       "last_id": 18349,
@@ -2568,7 +2572,7 @@
       "sent_count": 45
     },
     "akhbar_cafenet": {
-      "last_id": 22697,
+      "last_id": 22698,
       "processed_ids": [
         22432,
         22433,
@@ -2828,7 +2832,8 @@
         22694,
         22695,
         22696,
-        22697
+        22697,
+        22698
       ],
       "sent_count": 171
     },
@@ -5178,7 +5183,7 @@
       "sent_count": 17
     },
     "totalfut_plus": {
-      "last_id": 26154,
+      "last_id": 26155,
       "processed_ids": [
         25870,
         25871,
@@ -5458,12 +5463,13 @@
         26151,
         26152,
         26153,
-        26154
+        26154,
+        26155
       ],
       "sent_count": 6
     },
     "adak_ir_official": {
-      "last_id": 234258,
+      "last_id": 234259,
       "processed_ids": [
         233831,
         233833,
@@ -5890,12 +5896,13 @@
         234255,
         234256,
         234257,
-        234258
+        234258,
+        234259
       ],
       "sent_count": 18
     },
     "futball180tv": {
-      "last_id": 107317,
+      "last_id": 107318,
       "processed_ids": [
         106848,
         106849,
@@ -6358,12 +6365,13 @@
         107314,
         107315,
         107316,
-        107317
+        107317,
+        107318
       ],
       "sent_count": 6
     },
     "hattric_official": {
-      "last_id": 83816,
+      "last_id": 83817,
       "processed_ids": [
         83433,
         83434,
@@ -6716,7 +6724,8 @@
         83813,
         83814,
         83815,
-        83816
+        83816,
+        83817
       ],
       "sent_count": 9
     },
@@ -6899,21 +6908,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "ed70b3809cbcab32ce2ab86b3d7cd42c85b44b2e80d6e695419304655692c26a",
-        "media_fingerprint": "ab81cc3474bc544e7479e09ac4e105ddbb27e3e3910aa494c3ab939d6ec508ab",
-        "text": "عه\n@comentiat",
-        "original_username": "comentiat",
-        "original_text": "عه\n@comentiat",
-        "original_link": "https://t.me/Comentiat/25982",
-        "post_id": 25982,
-        "message_id": 1738,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-09-22T22:06:04.107084+00:00"
-      },
       {
         "fingerprint": "1b486a5567a2d61ba4de0cc4c3aaf0b36e0578a9fd54e4bc6efc66f525944eb9",
         "media_fingerprint": "2ed57a80f0d49dd6b31033533a6a5f97cd0b2302e4aeb53dfae854c209a22a2a",
@@ -21879,7 +21873,8 @@
         "message_id": 2784,
         "message_kind": "caption",
         "sources": [
-          "akhbarfars"
+          "akhbarfars",
+          "akhbar_cafenet"
         ],
         "created_at": "2026-09-26T15:43:28.598460+00:00"
       },
@@ -21942,6 +21937,21 @@
           "fars_today"
         ],
         "created_at": "2026-09-26T15:43:43.328402+00:00"
+      },
+      {
+        "fingerprint": "e8ab8d93515a61c9c3592698d81c0dadae914e96b67f584b6afa7189bb95605a",
+        "media_fingerprint": "b9287897b75f5eca4eac53f95b07266eb4bd5d451265ae34257a1ce32a9159b2",
+        "text": "🔴\nایران و ایرانی دیگه درست نمیشه؛\nاگه حرفمو باور نمیکنی، بیا اینام مدرکش :\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nایران و ایرانی دیگه درست نمیشه؛\nاگه حرفمو باور نمیکنی، بیا اینام مدرکش :\n@DrTeL",
+        "original_link": "https://t.me/drtel/66981",
+        "post_id": 66981,
+        "message_id": 2789,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-09-26T15:58:14.746864+00:00"
       }
     ]
   }
