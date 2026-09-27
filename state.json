@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142541,
+      "last_id": 142542,
       "processed_ids": [
         141903,
         141904,
@@ -609,12 +609,13 @@
         142538,
         142539,
         142540,
-        142541
+        142541,
+        142542
       ],
-      "sent_count": 365
+      "sent_count": 366
     },
     "total_fut": {
-      "last_id": 236864,
+      "last_id": 236866,
       "processed_ids": [
         236405,
         236407,
@@ -1058,12 +1059,14 @@
         236861,
         236862,
         236863,
-        236864
+        236864,
+        236865,
+        236866
       ],
       "sent_count": 23
     },
     "footballvision2": {
-      "last_id": 169576,
+      "last_id": 169578,
       "processed_ids": [
         168857,
         168858,
@@ -1753,7 +1756,9 @@
         169573,
         169574,
         169575,
-        169576
+        169576,
+        169577,
+        169578
       ],
       "sent_count": 30
     },
@@ -1880,7 +1885,7 @@
       "sent_count": 4
     },
     "drtel": {
-      "last_id": 66999,
+      "last_id": 67000,
       "processed_ids": [
         66561,
         66565,
@@ -2232,9 +2237,10 @@
         66996,
         66997,
         66998,
-        66999
+        66999,
+        67000
       ],
-      "sent_count": 208
+      "sent_count": 209
     },
     "techtube": {
       "last_id": 18353,
@@ -2724,7 +2730,7 @@
       "sent_count": 49
     },
     "akhbar_cafenet": {
-      "last_id": 22718,
+      "last_id": 22720,
       "processed_ids": [
         22432,
         22433,
@@ -3005,9 +3011,11 @@
         22715,
         22716,
         22717,
-        22718
+        22718,
+        22719,
+        22720
       ],
-      "sent_count": 179
+      "sent_count": 180
     },
     "comentiat": {
       "last_id": 26113,
@@ -4494,7 +4502,7 @@
       "sent_count": 20
     },
     "ft360_ir": {
-      "last_id": 108457,
+      "last_id": 108458,
       "processed_ids": [
         107883,
         107884,
@@ -5049,12 +5057,13 @@
         108453,
         108454,
         108456,
-        108457
+        108457,
+        108458
       ],
-      "sent_count": 30
+      "sent_count": 31
     },
     "varzesh3": {
-      "last_id": 302905,
+      "last_id": 302907,
       "processed_ids": [
         302363,
         302364,
@@ -5532,7 +5541,9 @@
         302902,
         302903,
         302904,
-        302905
+        302905,
+        302906,
+        302907
       ],
       "sent_count": 18
     },
@@ -6316,7 +6327,7 @@
       "sent_count": 25
     },
     "futball180tv": {
-      "last_id": 107366,
+      "last_id": 107368,
       "processed_ids": [
         106848,
         106849,
@@ -6828,12 +6839,14 @@
         107363,
         107364,
         107365,
-        107366
+        107366,
+        107367,
+        107368
       ],
-      "sent_count": 6
+      "sent_count": 7
     },
     "hattric_official": {
-      "last_id": 83848,
+      "last_id": 83849,
       "processed_ids": [
         83433,
         83434,
@@ -7215,7 +7228,8 @@
         83845,
         83846,
         83847,
-        83848
+        83848,
+        83849
       ],
       "sent_count": 12
     },
@@ -7458,15 +7472,16 @@
       "sent_count": 0
     },
     "irwonders": {
-      "last_id": 58034,
+      "last_id": 58037,
       "processed_ids": [
         58030,
         58031,
         58032,
         58033,
-        58034
+        58034,
+        58037
       ],
-      "sent_count": 3
+      "sent_count": 4
     },
     "razcom": {
       "last_id": 70448,
@@ -7484,7 +7499,7 @@
       "sent_count": 0
     },
     "gilin_gilin": {
-      "last_id": 283750,
+      "last_id": 283752,
       "processed_ids": [
         283735,
         283736,
@@ -7500,9 +7515,11 @@
         283747,
         283748,
         283749,
-        283750
+        283750,
+        283751,
+        283752
       ],
-      "sent_count": 10
+      "sent_count": 11
     },
     "tvnavad": {
       "last_id": 0,
@@ -7510,7 +7527,7 @@
       "sent_count": 0
     },
     "kafiha": {
-      "last_id": 460674,
+      "last_id": 460678,
       "processed_ids": [
         460646,
         460647,
@@ -7532,9 +7549,12 @@
         460671,
         460672,
         460673,
-        460674
+        460674,
+        460675,
+        460676,
+        460678
       ],
-      "sent_count": 16
+      "sent_count": 18
     },
     "asrare_movafaghiyat": {
       "last_id": 3,
@@ -7577,14 +7597,17 @@
       "sent_count": 11
     },
     "khandehabadd": {
-      "last_id": 306566,
+      "last_id": 306569,
       "processed_ids": [
         306563,
         306564,
         306565,
-        306566
+        306566,
+        306567,
+        306568,
+        306569
       ],
-      "sent_count": 1
+      "sent_count": 3
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -7641,171 +7664,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "65a26e8ae31104576f8108339f306a8f44ad35387b984f62879e1b2f1c61dac3",
-        "media_fingerprint": "",
-        "text": "وضعیت بارش کشور نسبت به بلند مدت تا 1397/05/03  اپ ویژه مخاطبان خبرفوری(با یک کلیک نصب کنید)\n👇\nyon.ir/fSNQi",
-        "original_username": "akhbarfars",
-        "original_text": "وضعیت بارش کشور نسبت به بلند مدت تا 1397/05/03  اپ ویژه مخاطبان خبرفوری(با یک کلیک نصب کنید)\n👇\nyon.ir/fSNQi",
-        "original_link": "https://t.me/akhbarfars/142292",
-        "post_id": 142292,
-        "message_id": 1935,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-23T17:02:00.898396+00:00"
-      },
-      {
-        "fingerprint": "305fa258ee627769cf1787cfc5af4ec4999badb6169cc0860bc90cf2d9af1450",
-        "media_fingerprint": "0be1db9f097af08277e51bced2f8ef97e96edd9974922ba58c819b62e031a7cb",
-        "text": "♦️\nپزشکیان: ترامپ باید بداند که مقاومت مردم ایران در برابر تحریم‌ها، فشارهای بیشتر و رفتارهای زورگویانه، تنها افزایش خواهد یافت\n🔹\nما هرگز سر خم نخواهیم کرد و تسلیم نخواهیم شد.\n🔹\nایران باید توسط آقای ترامپ و کسانی که به دنبال تحمیل خواسته‌های خود به ما هستند،…",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nپزشکیان: ترامپ باید بداند که مقاومت مردم ایران در برابر تحریم‌ها، فشارهای بیشتر و رفتارهای زورگویانه، تنها افزایش خواهد یافت\n🔹\nما هرگز سر خم نخواهیم کرد و تسلیم نخواهیم شد.\n🔹\nایران باید توسط آقای ترامپ و کسانی که به دنبال تحمیل خواسته‌های خود به ما هستند،…",
-        "original_link": "https://t.me/akhbarfars/142293",
-        "post_id": 142293,
-        "message_id": 1936,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-23T17:02:07.840200+00:00"
-      },
-      {
-        "fingerprint": "4d69092e12a52ba21b7c99c7eee7f81a8282f01ea9e45b7017bcc353b27656cb",
-        "media_fingerprint": "fb0f626ccc53ebff2839b9c6a5f57dabcc3a88883defaa6f2537a560071b46e7",
-        "text": "خداداد عزیزی، مدرس ریاضی (فوق تخصص مبحث پرانتز) و اسطوره ادب‌ و معرفت، زنگ آغاز سال تحصیلی یه مدرسه تو مشهد رو به صدا درآورد:\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "خداداد عزیزی، مدرس ریاضی (فوق تخصص مبحث پرانتز) و اسطوره ادب‌ و معرفت، زنگ آغاز سال تحصیلی یه مدرسه تو مشهد رو به صدا درآورد:\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162171",
-        "post_id": 162171,
-        "message_id": 1937,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-23T17:02:13.973459+00:00"
-      },
-      {
-        "fingerprint": "3e4ab920b97b9dca8e97be6d7f36a9a2f5394b07ff0df69ac02cd6c701fcc6cf",
-        "media_fingerprint": "877f2cd924f5db82f34d81fb5a0ec0caa6d375ea35684779c5a99d6d478d7e4b",
-        "text": "آیفون ۱۸ تنها دقایقی بعد از موجود شدن در دو سایت بزرگ تکنولایف و دیجی کالا، ناموجود شد\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "آیفون ۱۸ تنها دقایقی بعد از موجود شدن در دو سایت بزرگ تکنولایف و دیجی کالا، ناموجود شد\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162172",
-        "post_id": 162172,
-        "message_id": 1938,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-23T17:02:18.098199+00:00"
-      },
-      {
-        "fingerprint": "56919f6e50065f98596e8d9967f77360683d0d06fa03f7d33930d653300bc305",
-        "media_fingerprint": "b02643a0c11928e3a05e8a8b68c8d5d1031d981d95d94566794b3df0a225763e",
-        "text": "ازدواج یعنی این....\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "ازدواج یعنی این....\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162174",
-        "post_id": 162174,
-        "message_id": 1939,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-23T17:02:27.118741+00:00"
-      },
-      {
-        "fingerprint": "b424761c1f41997341ef4a033f2ea73b50795465f3da720eabf65b8f19d88446",
-        "media_fingerprint": "aeb6d46a2e3b45a14465d65d1d8e48c30fdab470be7a01b12773435c6f3c07b1",
-        "text": "🔵\nیک شروع جذاب، با شانس یک جایزه نقدی!\n🎁\n🟫\nهمین حالا با ثبت‌نام در سامانه «کیان تریدر»، شانس برنده شدن از\n۱ تا ۱۰۰ میلیون ریال\nجایزه نقدی رو به دست بیارید.\n🟫\nثبت‌نام کمتر از ۳۰ ثانیه و مسیر ورود شما به یک تجربه معاملاتی سریع و هوشمنده.\n🔸\nثبت‌نام سریع و کاملاً آنلاین\n🔸\nبرد آنی تا ۱۰ میلیون تومان\n🟢\nهمین حالا ثبت نام کنید\n🔷\nکیان تریدر، همه مسیر در یک نگاه\n☎️\n۰۲۱-۴۷۱۸۱\n🔗\nدستـرســـی ها\n📲\n@kianbrokerage",
-        "original_username": "gizmiztel",
-        "original_text": "🔵\nیک شروع جذاب، با شانس یک جایزه نقدی!\n🎁\n🟫\nهمین حالا با ثبت‌نام در سامانه «کیان تریدر»، شانس برنده شدن از\n۱ تا ۱۰۰ میلیون ریال\nجایزه نقدی رو به دست بیارید.\n🟫\nثبت‌نام کمتر از ۳۰ ثانیه و مسیر ورود شما به یک تجربه معاملاتی سریع و هوشمنده.\n🔸\nثبت‌نام سریع و کاملاً آنلاین\n🔸\nبرد آنی تا ۱۰ میلیون تومان\n🟢\nهمین حالا ثبت نام کنید\n🔷\nکیان تریدر، همه مسیر در یک نگاه\n☎️\n۰۲۱-۴۷۱۸۱\n🔗\nدستـرســـی ها\n📲\n@kianbrokerage",
-        "original_link": "https://t.me/gizmiztel/162175",
-        "post_id": 162175,
-        "message_id": 1940,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-23T17:02:32.327992+00:00"
-      },
-      {
-        "fingerprint": "3d8c89f7c57d26f14d950789023d1cbb3fa325282b0b1174476dcdc1c82bbbf4",
-        "media_fingerprint": "2f2bbeabfbaaf74358dcc0ea0da97286a5fdc409ac87efcd4fecda790028afb1",
-        "text": "۱۲ سال بعد همین جمع ، همین حال ، دم در پادگان\n😂\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "۱۲ سال بعد همین جمع ، همین حال ، دم در پادگان\n😂\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162176",
-        "post_id": 162176,
-        "message_id": 1941,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-23T17:02:39.005642+00:00"
-      },
-      {
-        "fingerprint": "9d873a89100d7bae570bdc23d282c52bd865fcd0b8defd8fdd4ddf482c4f876e",
-        "media_fingerprint": "c4e04f1a9366482cbf198f284fa6e8817d9ed9ec500fe292b45dd433c41353a9",
-        "text": "جشن شروع سال تحصیلی در یکی از مدارس شمال تهران\n+زمان ما روز اول مدرسه فقط تهدید بود و تنبیه! شبیه اردوگاه اشرف مجاهدین خلق بود\n😒\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "جشن شروع سال تحصیلی در یکی از مدارس شمال تهران\n+زمان ما روز اول مدرسه فقط تهدید بود و تنبیه! شبیه اردوگاه اشرف مجاهدین خلق بود\n😒\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162177",
-        "post_id": 162177,
-        "message_id": 1942,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-23T17:02:49.909261+00:00"
-      },
-      {
-        "fingerprint": "45ec7da96eccfc2d040efe24b7d34f4d58e020c0a7a1903c5d70ce8fdce5fe33",
-        "media_fingerprint": "",
-        "text": "🔺\n🔻\nادعای وزیر خارجه آمریکا: ایران امروز به سمت چند فروند کشتی تجاری (متخلف) شلیک کرده است\n---------------------‐------\n♦️\nآخرین خبر فارس و شیراز\n●  تلگرام:\nt.me/Fars_today\n●  بله:\nble.ir/fars_online",
-        "original_username": "fars_today",
-        "original_text": "🔺\n🔻\nادعای وزیر خارجه آمریکا: ایران امروز به سمت چند فروند کشتی تجاری (متخلف) شلیک کرده است\n---------------------‐------\n♦️\nآخرین خبر فارس و شیراز\n●  تلگرام:\nt.me/Fars_today\n●  بله:\nble.ir/fars_online",
-        "original_link": "https://t.me/Fars_today/132024",
-        "post_id": 132024,
-        "message_id": 1943,
-        "message_kind": "text",
-        "sources": [
-          "fars_today"
-        ],
-        "created_at": "2026-09-23T17:02:52.740365+00:00"
-      },
-      {
-        "fingerprint": "e7ea4ecf964d4a5c11c811345c538f1727b73b0c46cfb8d73e96312d36720c25",
-        "media_fingerprint": "",
-        "text": "🔺\n🔻\nپزشکیان خطاب به ترامپ: تهدید، مقاومت ایرانیان را بیشتر می‌کند ایرانیان در برابر زور سر خم نخواهند کرد\n🔹\nرئیس جمهور: صحبت های آمریکا نشان دهنده بارز خوی قلدری و مقابل منشور حقوق بشر است. تهدید ملت ما را منسجم تر می کند مقاومت ایرانیان را بیشتر می کند\n🔴\nپزشکیان: ترامپ و دیگر قلدرها بدانند ما آماده گفتگو هستیم اما زبان زور را نخواهیم پذیرفت\n---------------------‐------\n♦️\nآخرین خبر فارس و شیراز\n●  تلگرام:\nt.me/Fars_today\n●  بله:\nble.ir/fars_online",
-        "original_username": "fars_today",
-        "original_text": "🔺\n🔻\nپزشکیان خطاب به ترامپ: تهدید، مقاومت ایرانیان را بیشتر می‌کند ایرانیان در برابر زور سر خم نخواهند کرد\n🔹\nرئیس جمهور: صحبت های آمریکا نشان دهنده بارز خوی قلدری و مقابل منشور حقوق بشر است. تهدید ملت ما را منسجم تر می کند مقاومت ایرانیان را بیشتر می کند\n🔴\nپزشکیان: ترامپ و دیگر قلدرها بدانند ما آماده گفتگو هستیم اما زبان زور را نخواهیم پذیرفت\n---------------------‐------\n♦️\nآخرین خبر فارس و شیراز\n●  تلگرام:\nt.me/Fars_today\n●  بله:\nble.ir/fars_online",
-        "original_link": "https://t.me/Fars_today/132025",
-        "post_id": 132025,
-        "message_id": 1944,
-        "message_kind": "text",
-        "sources": [
-          "fars_today"
-        ],
-        "created_at": "2026-09-23T17:02:55.861837+00:00"
-      },
-      {
-        "fingerprint": "95727997f47e85c638bd3252214d9b4dd5ceb23ca7804c99a2c8ee239fccf6bc",
-        "media_fingerprint": "3c9b5290782946f32a320b8074a1bcfacf125d0cc8f4b18ba64cbd7bcf055347",
-        "text": "♦️\nاولین بارش پاییزی جاده لار فارس اول مهر ١۴٠۵\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nاولین بارش پاییزی جاده لار فارس اول مهر ١۴٠۵\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142294",
-        "post_id": 142294,
-        "message_id": 1945,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-23T17:03:01.996473+00:00"
-      },
       {
         "fingerprint": "3e3417c1988e7059e9b56e7059e8a34599d951673cf4fb9a4cfbf467597aaf29",
         "media_fingerprint": "d12751d236bdfd649182bc763320e9af0687560f73032a9e080f1c5f9ae8da9d",
@@ -22028,7 +21886,8 @@
         "message_id": 2951,
         "message_kind": "caption",
         "sources": [
-          "kafiha"
+          "kafiha",
+          "gilin_gilin"
         ],
         "created_at": "2026-09-27T08:38:19.138730+00:00"
       },
@@ -22209,7 +22068,8 @@
         "message_id": 2967,
         "message_kind": "caption",
         "sources": [
-          "ajayebe_jahann"
+          "ajayebe_jahann",
+          "khandehabadd"
         ],
         "created_at": "2026-09-27T09:16:05.388937+00:00"
       },
@@ -22692,6 +22552,171 @@
           "gilin_gilin"
         ],
         "created_at": "2026-09-27T09:52:03.157450+00:00"
+      },
+      {
+        "fingerprint": "8330ccaae7315c89ec9b3aca6cbc410380c53abe65607e2a7c89d2932f2d5b94",
+        "media_fingerprint": "14813855689c9b9277aeeefc2efbe266403f3ce2e296d9da659df08c2019e4e4",
+        "text": "چجوریه که بعضی گربه ها انقدر آروم و همراهن؟\nگربه من چرا منو جرواجر میکنه؟\n1991\n@kafiha",
+        "original_username": "kafiha",
+        "original_text": "چجوریه که بعضی گربه ها انقدر آروم و همراهن؟\nگربه من چرا منو جرواجر میکنه؟\n1991\n@kafiha",
+        "original_link": "https://t.me/kafiha/460675",
+        "post_id": 460675,
+        "message_id": 3002,
+        "message_kind": "caption",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-09-27T10:16:12.397584+00:00"
+      },
+      {
+        "fingerprint": "5827d1cdc7fd1053b4df3302bb8e2d87c12ca76a0f2af865cab0f5aa5d615b9c",
+        "media_fingerprint": "5a161a369607b48025cd765eeb033c6168dd5514c13deaeee9b639503bcf451e",
+        "text": "امشب ماه، زیادی قشنگه\n😍\n@Gilin",
+        "original_username": "gilin_gilin",
+        "original_text": "امشب ماه، زیادی قشنگه\n😍\n@Gilin",
+        "original_link": "https://t.me/Gilin_Gilin/283751",
+        "post_id": 283751,
+        "message_id": 3003,
+        "message_kind": "caption",
+        "sources": [
+          "gilin_gilin"
+        ],
+        "created_at": "2026-09-27T10:16:18.101098+00:00"
+      },
+      {
+        "fingerprint": "8f6495c34c3f5bc72a511b8c9da829574fe09d4650f44bf6491ff581c9a50e56",
+        "media_fingerprint": "871c228c99667fc36593d30be2c60057aa0571d503e27cfda3c79a3fe23ba204",
+        "text": "🔴\nدو سال پیش تو چنین روزی، اسرائیل\n🇮🇱\nطی حمله هوایی به مقر فرماندهی زیرزمینی حزب‌الله\n🇱🇧\nتو ضاحیه جنوبی بیروت\n🇱🇧\n،\nسید حسن نصرالله\n، دبیرکل حزب‌الله + تعدادی از فرماندهان ارشد حزب‌الله + برخی اعضای سپاه پاسداران رو ترور کرد؛\nطبق گزارش‌ها، اسرائیل واسه نابود کردن این مقر از 83 بمب سنگرشکن استفاده کرد که وزن هرکدوم حدود 900 کیلوگرم بود.\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nدو سال پیش تو چنین روزی، اسرائیل\n🇮🇱\nطی حمله هوایی به مقر فرماندهی زیرزمینی حزب‌الله\n🇱🇧\nتو ضاحیه جنوبی بیروت\n🇱🇧\n،\nسید حسن نصرالله\n، دبیرکل حزب‌الله + تعدادی از فرماندهان ارشد حزب‌الله + برخی اعضای سپاه پاسداران رو ترور کرد؛\nطبق گزارش‌ها، اسرائیل واسه نابود کردن این مقر از 83 بمب سنگرشکن استفاده کرد که وزن هرکدوم حدود 900 کیلوگرم بود.\n@DrTeL",
+        "original_link": "https://t.me/drtel/67000",
+        "post_id": 67000,
+        "message_id": 3004,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-09-27T10:16:22.110186+00:00"
+      },
+      {
+        "fingerprint": "4ed6bf83d544ca07975ddd17d95d34d644f5134dfdd525c53bd270de53872fad",
+        "media_fingerprint": "154eff1da894111a25e8d687c26de1312cbe1928d09a7f8e74891f96ec15491b",
+        "text": "📲\nواکنش عضو هیات‌مدیره پرسپولیس به اخبار اهدای جام قهرمانی لیگ ۲۵ به استقلال\n💬\n«امیدوارم فدراسیون فوتبال به صورت رسمی و قاطعانه به مصاحبه انجام‌شده در مورد گرفتن قول برای دریافت جام لیگ ناتمام واکنش نشان دهد.»  @Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "📲\nواکنش عضو هیات‌مدیره پرسپولیس به اخبار اهدای جام قهرمانی لیگ ۲۵ به استقلال\n💬\n«امیدوارم فدراسیون فوتبال به صورت رسمی و قاطعانه به مصاحبه انجام‌شده در مورد گرفتن قول برای دریافت جام لیگ ناتمام واکنش نشان دهد.»  @Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/108458",
+        "post_id": 108458,
+        "message_id": 3005,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-09-27T10:16:26.230851+00:00"
+      },
+      {
+        "fingerprint": "19c4f456e123f24b145e573e08a5cea1c8776c998a8c06e07f86dacd1e7a6905",
+        "media_fingerprint": "",
+        "text": "♦️\nبورس به بالای ۷.۲ میلیون برگشت\n🔹\nشاخص کل بورس در پایان معاملات امروز با جهش ۱۲۱ هزار واحدی به ۷ میلیون و ۲۷۴ هزار واحد رسید.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nبورس به بالای ۷.۲ میلیون برگشت\n🔹\nشاخص کل بورس در پایان معاملات امروز با جهش ۱۲۱ هزار واحدی به ۷ میلیون و ۲۷۴ هزار واحد رسید.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142542",
+        "post_id": 142542,
+        "message_id": 3006,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-09-27T10:16:28.985142+00:00"
+      },
+      {
+        "fingerprint": "273b296e687286a34bd201ce33dd3085ada137b4cc4544dca9173bc22cb75145",
+        "media_fingerprint": "f705c2c12dc3063b9901376b409f6cf2d0e60279e9bf849aa7a2460479c768e9",
+        "text": "🚨\n🇮🇷\n‼️\nاعتراض تند عضو هیئت مدیره پرسپولیس به شایعه قهرمانی فصل‌گذشته استقلال\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "🚨\n🇮🇷\n‼️\nاعتراض تند عضو هیئت مدیره پرسپولیس به شایعه قهرمانی فصل‌گذشته استقلال\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/107367",
+        "post_id": 107367,
+        "message_id": 3007,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-09-27T10:16:32.876240+00:00"
+      },
+      {
+        "fingerprint": "9685daad4f27ce29a2c579b82e1790bf74edc01534b35f8ed9d7239599839641",
+        "media_fingerprint": "",
+        "text": "💵\n‌\nساماندهی سهام عدالت در پیچ نهایی/ حقوق سهامداران حفظ می‌شود\n🔵\nوزیر امور اقتصادی و دارایی از نهایی شدن دستورالعمل اجرایی دولت برای ساماندهی سهام عدالت خبر داد و گفت: در تدوین این دستورالعمل تلاش شده حقوق و سهم همه ذی‌نفعان، اعم از سهامداران مستقیم و غیرمستقیم، حفظ شود.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "💵\n‌\nساماندهی سهام عدالت در پیچ نهایی/ حقوق سهامداران حفظ می‌شود\n🔵\nوزیر امور اقتصادی و دارایی از نهایی شدن دستورالعمل اجرایی دولت برای ساماندهی سهام عدالت خبر داد و گفت: در تدوین این دستورالعمل تلاش شده حقوق و سهم همه ذی‌نفعان، اعم از سهامداران مستقیم و غیرمستقیم، حفظ شود.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/22719",
+        "post_id": 22719,
+        "message_id": 3008,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-09-27T10:16:35.813394+00:00"
+      },
+      {
+        "fingerprint": "bfd1e6e767ae6bc22a188562f99b6165279ac8c2aee29bffd85d7765761f0096",
+        "media_fingerprint": "90966da05418f12284212c740a853d932a2b34549353246f54cbbe9ad5d24914",
+        "text": "اولین لحظه رنگی شدن تلویزیون\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "اولین لحظه رنگی شدن تلویزیون\n@irWonders",
+        "original_link": "https://t.me/irwonders/58037",
+        "post_id": 58037,
+        "message_id": 3009,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-09-27T10:16:41.986922+00:00"
+      },
+      {
+        "fingerprint": "8281468423ddfabd82ff59019750f99fae3d52b6f979b897089eee0d5e7bf19f",
+        "media_fingerprint": "fe42b6338e030c1a837712e1d9a94e256de48d759f80d8cc82fa17a09b3fe9a5",
+        "text": "برادر یعنی حامی حمایتگر.\n❤️\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "برادر یعنی حامی حمایتگر.\n❤️\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306567",
+        "post_id": 306567,
+        "message_id": 3010,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-09-27T10:16:48.813424+00:00"
+      },
+      {
+        "fingerprint": "5c6812b43d34ece4c3809b19c3372c4d85ffb5af4c44fdb2e90d7f044a77adaf",
+        "media_fingerprint": "",
+        "text": "سقراط با گفتنِ «می‌دانم که نمی‌دانم»، نادانی را ستایش نمی‌کرد؛\nاو می‌خواست نشان دهد نخستین قدمِ دانایی، کنارگذاشتنِ توهمِ دانایی‌ست.\nذهنی که از ندانستن خجالت نمی‌کشد، هنوز امکانِ رشد دارد...\n1991\n@kafiha",
+        "original_username": "kafiha",
+        "original_text": "سقراط با گفتنِ «می‌دانم که نمی‌دانم»، نادانی را ستایش نمی‌کرد؛\nاو می‌خواست نشان دهد نخستین قدمِ دانایی، کنارگذاشتنِ توهمِ دانایی‌ست.\nذهنی که از ندانستن خجالت نمی‌کشد، هنوز امکانِ رشد دارد...\n1991\n@kafiha",
+        "original_link": "https://t.me/kafiha/460678",
+        "post_id": 460678,
+        "message_id": 3011,
+        "message_kind": "text",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-09-27T10:16:52.158409+00:00"
+      },
+      {
+        "fingerprint": "f2409c906b959435c495af64cfc5cb9cdf41b60abae7d4c34fe4f5cfe3125454",
+        "media_fingerprint": "",
+        "text": "رفته بودم اموزش پرورش وام بگیرم، بهم‌ گفتن پدرتون فرهنگیه یا مادرتون؟ گفتم هیچ کدوم توالتمون فرهنگیه.\nتا اموزش پرورش منطقه ۱۵ دنبالم میدوییدن.\nخب بگید وام نمیدیم دیگه چتونه؟\n😂\n😂\n﻿﻿﻿﻿﻿﻿﻿ ‌\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "رفته بودم اموزش پرورش وام بگیرم، بهم‌ گفتن پدرتون فرهنگیه یا مادرتون؟ گفتم هیچ کدوم توالتمون فرهنگیه.\nتا اموزش پرورش منطقه ۱۵ دنبالم میدوییدن.\nخب بگید وام نمیدیم دیگه چتونه؟\n😂\n😂\n﻿﻿﻿﻿﻿﻿﻿ ‌\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306569",
+        "post_id": 306569,
+        "message_id": 3012,
+        "message_kind": "text",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-09-27T10:16:55.011557+00:00"
       }
     ]
   }
