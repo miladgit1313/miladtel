@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142596,
+      "last_id": 142598,
       "processed_ids": [
         141903,
         141904,
@@ -662,9 +662,11 @@
         142593,
         142594,
         142595,
-        142596
+        142596,
+        142597,
+        142598
       ],
-      "sent_count": 400
+      "sent_count": 401
     },
     "total_fut": {
       "last_id": 236906,
@@ -1156,7 +1158,7 @@
       "sent_count": 28
     },
     "footballvision2": {
-      "last_id": 169654,
+      "last_id": 169655,
       "processed_ids": [
         168857,
         168858,
@@ -1921,7 +1923,8 @@
         169651,
         169652,
         169653,
-        169654
+        169654,
+        169655
       ],
       "sent_count": 39
     },
@@ -2765,7 +2768,7 @@
       "sent_count": 58
     },
     "coffeenetmanager": {
-      "last_id": 51631,
+      "last_id": 51632,
       "processed_ids": [
         51537,
         51538,
@@ -2855,9 +2858,10 @@
         51628,
         51629,
         51630,
-        51631
+        51631,
+        51632
       ],
-      "sent_count": 45
+      "sent_count": 46
     },
     "roidbest": {
       "last_id": 21711,
@@ -4409,7 +4413,7 @@
       "sent_count": 138
     },
     "ajayebe_jahann": {
-      "last_id": 159300,
+      "last_id": 159302,
       "processed_ids": [
         158956,
         158957,
@@ -4754,9 +4758,11 @@
         159297,
         159298,
         159299,
-        159300
+        159300,
+        159301,
+        159302
       ],
-      "sent_count": 150
+      "sent_count": 151
     },
     "etelaate_omoomi": {
       "last_id": 43105,
@@ -4882,7 +4888,7 @@
       "sent_count": 24
     },
     "ft360_ir": {
-      "last_id": 108518,
+      "last_id": 108519,
       "processed_ids": [
         107883,
         107884,
@@ -5494,12 +5500,13 @@
         108515,
         108516,
         108517,
-        108518
+        108518,
+        108519
       ],
       "sent_count": 34
     },
     "varzesh3": {
-      "last_id": 302955,
+      "last_id": 302956,
       "processed_ids": [
         302363,
         302364,
@@ -6025,7 +6032,8 @@
         302952,
         302953,
         302954,
-        302955
+        302955,
+        302956
       ],
       "sent_count": 20
     },
@@ -6375,7 +6383,7 @@
       "sent_count": 12
     },
     "adak_ir_official": {
-      "last_id": 234334,
+      "last_id": 234335,
       "processed_ids": [
         233831,
         233833,
@@ -6878,7 +6886,8 @@
         234331,
         234332,
         234333,
-        234334
+        234334,
+        234335
       ],
       "sent_count": 39
     },
@@ -7441,7 +7450,7 @@
       "sent_count": 10
     },
     "hattric_official": {
-      "last_id": 83878,
+      "last_id": 83881,
       "processed_ids": [
         83433,
         83434,
@@ -7853,7 +7862,9 @@
         83875,
         83876,
         83877,
-        83878
+        83878,
+        83879,
+        83881
       ],
       "sent_count": 17
     },
@@ -8092,12 +8103,15 @@
       "sent_count": 0
     },
     "niazcom_ir": {
-      "last_id": 61581,
+      "last_id": 61584,
       "processed_ids": [
         61580,
-        61581
+        61581,
+        61582,
+        61583,
+        61584
       ],
-      "sent_count": 1
+      "sent_count": 4
     },
     "tgacademy": {
       "last_id": 22402,
@@ -8162,15 +8176,16 @@
       "sent_count": 0
     },
     "midanesti": {
-      "last_id": 73197,
+      "last_id": 73198,
       "processed_ids": [
         73193,
         73194,
         73195,
         73196,
-        73197
+        73197,
+        73198
       ],
-      "sent_count": 2
+      "sent_count": 3
     },
     "gilin_gilin": {
       "last_id": 283810,
@@ -8255,7 +8270,7 @@
       "sent_count": 0
     },
     "kafiha": {
-      "last_id": 460808,
+      "last_id": 460811,
       "processed_ids": [
         460646,
         460647,
@@ -8399,9 +8414,12 @@
         460805,
         460806,
         460807,
-        460808
+        460808,
+        460809,
+        460810,
+        460811
       ],
-      "sent_count": 119
+      "sent_count": 122
     },
     "asrare_movafaghiyat": {
       "last_id": 3,
@@ -8421,7 +8439,7 @@
       "sent_count": 0
     },
     "serfan_jahate_ettela": {
-      "last_id": 569166,
+      "last_id": 569168,
       "processed_ids": [
         569057,
         569058,
@@ -8516,9 +8534,11 @@
         569163,
         569164,
         569165,
-        569166
+        569166,
+        569167,
+        569168
       ],
-      "sent_count": 58
+      "sent_count": 59
     },
     "khandehabadd": {
       "last_id": 306595,
@@ -8638,172 +8658,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "b7d9979af2c29e51374bcf873a46311c7b7d0bc4c9f0e93b9bde6a0fa635fd01",
-        "media_fingerprint": "4ff0d10f653188b73cf4ba9d63a412c4747f551e4068b4365e09e8414da9b17c",
-        "text": "🔴\nموج جدید افغان‌هایی که از راه‌های سخت در حال ورود به خاک ایران هستن :\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nموج جدید افغان‌هایی که از راه‌های سخت در حال ورود به خاک ایران هستن :\n@DrTeL",
-        "original_link": "https://t.me/drtel/66928",
-        "post_id": 66928,
-        "message_id": 2412,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-09-25T10:21:10.601195+00:00"
-      },
-      {
-        "fingerprint": "26e4c5e8c611a321a53989357e815d896d69581190eb2feb37acbd4195118e6b",
-        "media_fingerprint": "a53aa3a1b9413fbd8db4b7dc985ab0851b9af6b3bbd9800dfeda6443b81f5593",
-        "text": "🚨\n‼️\n🟥\nمحمد احمدزاده، سرمربی اسبق ملوان: یه مقام استقلال‌ به من زنگ زد و رشوه ۵۰ میلیونی به من دادن که به استقلال امتیاز بدم تا پرسپولیس قهرمان نشه!\n🔘\n@Navadnewstelegram",
-        "original_username": "footballvision2",
-        "original_text": "🚨\n‼️\n🟥\nمحمد احمدزاده، سرمربی اسبق ملوان: یه مقام استقلال‌ به من زنگ زد و رشوه ۵۰ میلیونی به من دادن که به استقلال امتیاز بدم تا پرسپولیس قهرمان نشه!\n🔘\n@Navadnewstelegram",
-        "original_link": "https://t.me/footballvision2/169437",
-        "post_id": 169437,
-        "message_id": 2413,
-        "message_kind": "caption",
-        "sources": [
-          "footballvision2",
-          "adak_ir_official"
-        ],
-        "created_at": "2026-09-25T10:21:17.740993+00:00"
-      },
-      {
-        "fingerprint": "aab7c2a316a621454dada8fdb406d9b1580c2e7dc9d260fcf729db0ea8f248eb",
-        "media_fingerprint": "c98f22d8d51d96083d295c9a61b64a583b86d71f2e36ecaf90e79f6ec5d4bd98",
-        "text": "بعداز سخنرانی نتانیاهو، یکی از اعضای هیئت اسرائیلی نام کشورهایی را که نمایندگانشان سالن را ترک کرده بودند یا حضور داشتند روی کاغذی یادداشت می‌کرد و در پایان این فهرست را به یکی دیگر از اعضای هیئت تحویل داد.\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "بعداز سخنرانی نتانیاهو، یکی از اعضای هیئت اسرائیلی نام کشورهایی را که نمایندگانشان سالن را ترک کرده بودند یا حضور داشتند روی کاغذی یادداشت می‌کرد و در پایان این فهرست را به یکی دیگر از اعضای هیئت تحویل داد.\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162257",
-        "post_id": 162257,
-        "message_id": 2414,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-25T10:59:14.512327+00:00"
-      },
-      {
-        "fingerprint": "73ca7635d81a82f9bed2f5f5d756cabd150abe8f1b1a4ca73a6ec19bb31f0a32",
-        "media_fingerprint": "10c706cea57919747e960501cd52d83e31a558ac80717c42dab711310e098348",
-        "text": "اصفهانیا فقط از مورمور درآمدزایی نکرده بودن که اونم تیک خورد\n✔️\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "اصفهانیا فقط از مورمور درآمدزایی نکرده بودن که اونم تیک خورد\n✔️\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162258",
-        "post_id": 162258,
-        "message_id": 2415,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-25T10:59:20.134049+00:00"
-      },
-      {
-        "fingerprint": "7da97c3de13084679b8f40f44596d4fe28ccc05a5db74c6043df3a31d7429652",
-        "media_fingerprint": "073ed86839be535e6bd89781d389bb6855f4d10a68e424d4947860356fd1ad02",
-        "text": "تئاتر منو یادت میاد ؟تمدید شد\nبعد از اجراهای تیر ، مرداد و شهریور\nبرای\n#مهرماه\nتمدید شد\nآغاز پیش‌فروش در سایت تیوال\n🔺\nسجادافشاریان ، مرتضی درویش زاده ، احمدمرادی پور\n🔻\n#اجرای_محدود\nلینک مستقیم تهیه بلیت :\nhttps://www.tiwall.com/s/yaad",
-        "original_username": "gizmiztel",
-        "original_text": "تئاتر منو یادت میاد ؟تمدید شد\nبعد از اجراهای تیر ، مرداد و شهریور\nبرای\n#مهرماه\nتمدید شد\nآغاز پیش‌فروش در سایت تیوال\n🔺\nسجادافشاریان ، مرتضی درویش زاده ، احمدمرادی پور\n🔻\n#اجرای_محدود\nلینک مستقیم تهیه بلیت :\nhttps://www.tiwall.com/s/yaad",
-        "original_link": "https://t.me/gizmiztel/162259",
-        "post_id": 162259,
-        "message_id": 2416,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-25T10:59:27.020806+00:00"
-      },
-      {
-        "fingerprint": "2c567900f0d6d0c53e06963ee22deafe35c5c375ba2a3953f64aa852b3c7260c",
-        "media_fingerprint": "e66198cf4b5d0ed1c30ef2c18eaae6633899031d9457eafa7c92391355ea90ce",
-        "text": "🔴\n‏بخشایش‌اردستانی، نماینده مجلس:\nشنیدم که ایران از کره‌شمالی\n🇰🇵\nسلاح هسته‌ای خریده !\n@DrTeL\n| Rokna",
-        "original_username": "drtel",
-        "original_text": "🔴\n‏بخشایش‌اردستانی، نماینده مجلس:\nشنیدم که ایران از کره‌شمالی\n🇰🇵\nسلاح هسته‌ای خریده !\n@DrTeL\n| Rokna",
-        "original_link": "https://t.me/drtel/66930",
-        "post_id": 66930,
-        "message_id": 2417,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-09-25T10:59:30.841868+00:00"
-      },
-      {
-        "fingerprint": "57500af894175df3d5ad196feb552c16c3963e4b974d7dfac6e5971f1a3477bf",
-        "media_fingerprint": "481cea97c91c8597e88e589cad9873dfeac379616c03eb7991986cd3e027a790",
-        "text": "یوسف و زلیخا فردای ازدواج\n😂\nهوش مصنوعی هم از گلزار بهتر نقششو بازی کرد\n😄\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "یوسف و زلیخا فردای ازدواج\n😂\nهوش مصنوعی هم از گلزار بهتر نقششو بازی کرد\n😄\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162260",
-        "post_id": 162260,
-        "message_id": 2418,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-25T10:59:36.291389+00:00"
-      },
-      {
-        "fingerprint": "5d2ddc765398ca6b877da53205c890cd63ee3bbfa199f5321dce2f4462f60e21",
-        "media_fingerprint": "3b052c61f66e9f0ac85e07d41869bcd955d8d0dba7e0fa9dd122fa5de169d666",
-        "text": "تو که نیستی گره‌ های هندزفریم وا نمیشه\nتو که نیستی سر چسب نواری پیدا نمیکشه\nتو نباشی من از اعماق غرورم دورم\nزیر بی رحم ترین زاویه ی ساطورم\n+ولی خیلیامون همون بچه ای هستیم که توی یارکشی تنها موند... ای امان.. عصر جمعه ای دلمون گرفت\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "تو که نیستی گره‌ های هندزفریم وا نمیشه\nتو که نیستی سر چسب نواری پیدا نمیکشه\nتو نباشی من از اعماق غرورم دورم\nزیر بی رحم ترین زاویه ی ساطورم\n+ولی خیلیامون همون بچه ای هستیم که توی یارکشی تنها موند... ای امان.. عصر جمعه ای دلمون گرفت\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162261",
-        "post_id": 162261,
-        "message_id": 2419,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-25T10:59:42.469932+00:00"
-      },
-      {
-        "fingerprint": "298f4de82b4f6d2fdac364a7b53506a36d59e29eff301166e082e2bed07897f0",
-        "media_fingerprint": "",
-        "text": "♦️\nگام نخست پروژه ساماندهی و حفاظت از تندیس شاپور یکم در غار شاپور کازرون، از یکم مهرماه ۱۴۰۵ آغاز شد\n🔹\nدر مرحله نخست این پروژه، تندیس به‌صورت کامل با فوتوگرامتری، پهپاد و دوربین مستندسازی می‌شود. همچنین یک داربست فنی و حفاظتی به ارتفاع ۷ متر پیرامون تندیس نصب و برای جلوگیری از لمس و آسیب گردشگران، حفاظ شفاف پلی‌کربناتی ایجاد خواهد شد.\n🔹\nاعتبار این مرحله ۲ میلیارد تومان و مدت اجرای آن حدود سه ماه اعلام شده است.\n🔹\nپس از تکمیل مستندسازی و بررسی‌های تخصصی، مراحل استحکام‌بخشی و مرمت تندیس شاپور دنبال خواهد شد؛ تندیسی که از یادگارهای ارزشمند تندیس‌تراشی ایران باستان و بزرگ‌ترین تندیس تاریخی ایران به شمار می‌رود.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nگام نخست پروژه ساماندهی و حفاظت از تندیس شاپور یکم در غار شاپور کازرون، از یکم مهرماه ۱۴۰۵ آغاز شد\n🔹\nدر مرحله نخست این پروژه، تندیس به‌صورت کامل با فوتوگرامتری، پهپاد و دوربین مستندسازی می‌شود. همچنین یک داربست فنی و حفاظتی به ارتفاع ۷ متر پیرامون تندیس نصب و برای جلوگیری از لمس و آسیب گردشگران، حفاظ شفاف پلی‌کربناتی ایجاد خواهد شد.\n🔹\nاعتبار این مرحله ۲ میلیارد تومان و مدت اجرای آن حدود سه ماه اعلام شده است.\n🔹\nپس از تکمیل مستندسازی و بررسی‌های تخصصی، مراحل استحکام‌بخشی و مرمت تندیس شاپور دنبال خواهد شد؛ تندیسی که از یادگارهای ارزشمند تندیس‌تراشی ایران باستان و بزرگ‌ترین تندیس تاریخی ایران به شمار می‌رود.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142425",
-        "post_id": 142425,
-        "message_id": 2420,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-25T10:59:45.992509+00:00"
-      },
-      {
-        "fingerprint": "fc9c0ca0e02bd25ad8063b3926964ab7610c9b9c963e24330b547a1a1424c6e4",
-        "media_fingerprint": "0dddf1b9b4994606da9065b4e8d39bd06f220c2ba8dc654b8be76057d9cd0c24",
-        "text": "تنها سه دقیقه تعامل با اسب و الاغ سلامت عاطفی نوجوانان را بهبود می بخشد!\n◽️\nپژوهشی روی نوجوانان نشان می‌دهد فقط سه دقیقه تعامل با الاغ‌ها و اسب‌های مینیاتوری می‌تواند احساس اضطراب، غم و تنهایی را کاهش دهد.\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_username": "majalepezeshki",
-        "original_text": "تنها سه دقیقه تعامل با اسب و الاغ سلامت عاطفی نوجوانان را بهبود می بخشد!\n◽️\nپژوهشی روی نوجوانان نشان می‌دهد فقط سه دقیقه تعامل با الاغ‌ها و اسب‌های مینیاتوری می‌تواند احساس اضطراب، غم و تنهایی را کاهش دهد.\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_link": "https://t.me/MajalePezeshki/38508",
-        "post_id": 38508,
-        "message_id": 2421,
-        "message_kind": "caption",
-        "sources": [
-          "majalepezeshki"
-        ],
-        "created_at": "2026-09-25T10:59:50.258859+00:00"
-      },
-      {
-        "fingerprint": "f618eb35688c3add33941dd8091e2b0c8ec14244a1b624eefa9f6b1e2d2c31bc",
-        "media_fingerprint": "079c305f333f56100eb44f185876952c91ea428ed1d2041ae9f5df30f97980f2",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26056",
-        "post_id": 26056,
-        "message_id": 2422,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-09-25T11:20:30.725772+00:00"
-      },
       {
         "fingerprint": "2509e77d73df641bcfe90adb312b6af149ccff8c6c66defea411bf66cef90567",
         "media_fingerprint": "d8a233aea96abb8eb7370a43f1722ff3eb19654746476c5c4e1e6a8bfda51d10",
@@ -23696,6 +23550,171 @@
           "gilin_gilin"
         ],
         "created_at": "2026-09-28T07:39:14.760585+00:00"
+      },
+      {
+        "fingerprint": "2ada331e73e10fb6c5aeb4e96e10bda7a6467c4e874c674f59245a562296a298",
+        "media_fingerprint": "06172bc08723023a3482707b6150d3026e04dcb8410572cb1616b2f5d73b9b95",
+        "text": "پاییز شگفت‌انگیز جاده چالوس\n🍁\n🍂\n+هر ایرانی حداقل چند بار تجربه عبور از این جاده را دارد.\nNiNa\n@Kafiha",
+        "original_username": "kafiha",
+        "original_text": "پاییز شگفت‌انگیز جاده چالوس\n🍁\n🍂\n+هر ایرانی حداقل چند بار تجربه عبور از این جاده را دارد.\nNiNa\n@Kafiha",
+        "original_link": "https://t.me/kafiha/460809",
+        "post_id": 460809,
+        "message_id": 3478,
+        "message_kind": "caption",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-09-28T07:56:49.152614+00:00"
+      },
+      {
+        "fingerprint": "d1145c8e6d4a5d74cdeb317215363fa3f5e84eae340c61bdb87742c06faf6bb8",
+        "media_fingerprint": "7b74a1ac7789f4f4eed00b03738c0f11017019b6be5d4019e49ab02e42328e39",
+        "text": "بدن راه های مختلفی برای حرف زدن با تو و بیان مشکلش داره ، یکی از این راه ها ادرار هست\nهر رنگ ادرار چه پیامی داره ؟\n@Niazcom_ir",
+        "original_username": "niazcom_ir",
+        "original_text": "بدن راه های مختلفی برای حرف زدن با تو و بیان مشکلش داره ، یکی از این راه ها ادرار هست\nهر رنگ ادرار چه پیامی داره ؟\n@Niazcom_ir",
+        "original_link": "https://t.me/niazcom_ir/61582",
+        "post_id": 61582,
+        "message_id": 3479,
+        "message_kind": "caption",
+        "sources": [
+          "niazcom_ir"
+        ],
+        "created_at": "2026-09-28T07:56:53.551487+00:00"
+      },
+      {
+        "fingerprint": "aea5f09d4da47d042aed02221ec899e6ae64b5fff0d46e8a2cce9924f86e26b9",
+        "media_fingerprint": "e9225d703f49e5bc4675ca30be2f97c6fcdc2e8be214010539ebaf012006ea21",
+        "text": "❌\nمهار حریق کارخانه تولید کارتن در کرمانشاه/۴ نفر مصدوم شدند\nآتش‌سوزی گسترده در کارخانه تولید کارتن واقع در شهرک صنعتی فرامان کرمانشاه که از عصر روز یکشنبه آغاز شده بود، با تلاش نیروهای آتش‌نشانی تا ساعت هشت صبح امروز تحت کنترل درآمد و در این حادثه چهار نفر مصدوم شدند.\n❤️\nصرفا جهت اطلاع:\n🟩\n@serfan_jahate_ettela\n🟦\ninstagram.com/serfanonline",
+        "original_username": "serfan_jahate_ettela",
+        "original_text": "❌\nمهار حریق کارخانه تولید کارتن در کرمانشاه/۴ نفر مصدوم شدند\nآتش‌سوزی گسترده در کارخانه تولید کارتن واقع در شهرک صنعتی فرامان کرمانشاه که از عصر روز یکشنبه آغاز شده بود، با تلاش نیروهای آتش‌نشانی تا ساعت هشت صبح امروز تحت کنترل درآمد و در این حادثه چهار نفر مصدوم شدند.\n❤️\nصرفا جهت اطلاع:\n🟩\n@serfan_jahate_ettela\n🟦\ninstagram.com/serfanonline",
+        "original_link": "https://t.me/serfan_jahate_ettela/569167",
+        "post_id": 569167,
+        "message_id": 3480,
+        "message_kind": "caption",
+        "sources": [
+          "serfan_jahate_ettela"
+        ],
+        "created_at": "2026-09-28T07:56:58.099273+00:00"
+      },
+      {
+        "fingerprint": "0055bce3211f46d9fd295008bd70b23b05b167530c6f45591245c50dd7b75809",
+        "media_fingerprint": "2a9b4a53ce013d91c9d0c2d1fc129562f86c6284774fd350121ddd8037cdcc00",
+        "text": "برای اولین بار در ایران، تورهای کمپ هتلی رو ۴ قسطه رزرو کن!\n😎\n⛺️\nچند روز اقامت وسط طبیعت، با امکانات یه هتل؛ تجربه‌ای متفاوت از کمپینگ که حالا می‌تونی با\nجاباما تور\nقسطی رزروش کنی.\n🌲\n💳\nپرداخت هزینه تور در ۴ قسط\nبرای اطلاعت بیشتر از تورهای کمپ هتلی و برنامه‌های جدید ‌با شماره  زیر تماس بگیر\n👇\n021-49275111",
+        "original_username": "niazcom_ir",
+        "original_text": "برای اولین بار در ایران، تورهای کمپ هتلی رو ۴ قسطه رزرو کن!\n😎\n⛺️\nچند روز اقامت وسط طبیعت، با امکانات یه هتل؛ تجربه‌ای متفاوت از کمپینگ که حالا می‌تونی با\nجاباما تور\nقسطی رزروش کنی.\n🌲\n💳\nپرداخت هزینه تور در ۴ قسط\nبرای اطلاعت بیشتر از تورهای کمپ هتلی و برنامه‌های جدید ‌با شماره  زیر تماس بگیر\n👇\n021-49275111",
+        "original_link": "https://t.me/niazcom_ir/61583",
+        "post_id": 61583,
+        "message_id": 3481,
+        "message_kind": "caption",
+        "sources": [
+          "niazcom_ir"
+        ],
+        "created_at": "2026-09-28T07:57:02.926552+00:00"
+      },
+      {
+        "fingerprint": "0181f026e0eb914adae67a5af2d2847397f9bfad715fd84ba131d5b4e5ebd68e",
+        "media_fingerprint": "264b580aa9f40f02230ca1eb70fc75298aeb7568e8273d451e2f140d24dffa48",
+        "text": "روش اصولی برای ماساژ کف پای نوزاد\n👌\nماساژ کف پا برای نوزاد کلی خاصیت داره ، کم ترین خاصیتش حل کردن مشکل بی خوابی است\n@Niazcom_ir",
+        "original_username": "niazcom_ir",
+        "original_text": "روش اصولی برای ماساژ کف پای نوزاد\n👌\nماساژ کف پا برای نوزاد کلی خاصیت داره ، کم ترین خاصیتش حل کردن مشکل بی خوابی است\n@Niazcom_ir",
+        "original_link": "https://t.me/niazcom_ir/61584",
+        "post_id": 61584,
+        "message_id": 3482,
+        "message_kind": "caption",
+        "sources": [
+          "niazcom_ir"
+        ],
+        "created_at": "2026-09-28T07:57:08.815888+00:00"
+      },
+      {
+        "fingerprint": "5b7e7098c0496f397591e1dafb2e483ba864f64a246b67b6b8bda96e2a13ebca",
+        "media_fingerprint": "133b59d704e42c4fc12aef7bc4375bd240a17f7cbe828551e18ad2677a69a5c9",
+        "text": "هر یک کیلوگرمی که از وزن خود کم کنید، در واقع 4 کیلوگرم وزن را از روی زانوان خود برداشته اید !\nکم کردن وزن بهترین راه برای بهتر کردن وضعیت زانوهای شماست\n@Midanesti",
+        "original_username": "midanesti",
+        "original_text": "هر یک کیلوگرمی که از وزن خود کم کنید، در واقع 4 کیلوگرم وزن را از روی زانوان خود برداشته اید !\nکم کردن وزن بهترین راه برای بهتر کردن وضعیت زانوهای شماست\n@Midanesti",
+        "original_link": "https://t.me/midanesti/73198",
+        "post_id": 73198,
+        "message_id": 3483,
+        "message_kind": "caption",
+        "sources": [
+          "midanesti"
+        ],
+        "created_at": "2026-09-28T07:57:12.998742+00:00"
+      },
+      {
+        "fingerprint": "6738e84557fd40780ee824b6812d474529f23f67f88830aaa87e653faa86a3aa",
+        "media_fingerprint": "98da0b7e3bd619af79bbb99a3843eb38a2d3ce16a26f8003833f3ba610c27b21",
+        "text": "♦️\nلوبیا پلو مجلسی\n🍛\n‌\nمواد لازم:\n🔹️\n۳ پیمونه برنج\n🔹️\n۳۰۰ گرم لوبیا‌ سبز تازه\n🔹️\n۱ دونه پیاز\n🔹️\n۳۰۰ گرم گوشت\n🔹️\n۱ ق.غ سرپر رب گوجه فرنگی\n🔹️\n۳ عدد گوجه رنده شده\n🔹️\nنمک\n🔹️\n۱/۲ ق.چ فلفل سیاه\n🔹️\n۱/۲ ق.چ پودر سیر\n🔹️\n۱/۲ ق.چ زیره\n🔹️\nخیلی کم جوز هندی\n🔹️\n۱/۲ ق.چ زردچوبه\n🔹️\n۱ق.چ دارچین\n#آشپزی\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nلوبیا پلو مجلسی\n🍛\n‌\nمواد لازم:\n🔹️\n۳ پیمونه برنج\n🔹️\n۳۰۰ گرم لوبیا‌ سبز تازه\n🔹️\n۱ دونه پیاز\n🔹️\n۳۰۰ گرم گوشت\n🔹️\n۱ ق.غ سرپر رب گوجه فرنگی\n🔹️\n۳ عدد گوجه رنده شده\n🔹️\nنمک\n🔹️\n۱/۲ ق.چ فلفل سیاه\n🔹️\n۱/۲ ق.چ پودر سیر\n🔹️\n۱/۲ ق.چ زیره\n🔹️\nخیلی کم جوز هندی\n🔹️\n۱/۲ ق.چ زردچوبه\n🔹️\n۱ق.چ دارچین\n#آشپزی\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142597",
+        "post_id": 142597,
+        "message_id": 3484,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-09-28T07:57:19.943471+00:00"
+      },
+      {
+        "fingerprint": "21999dd94d91ae1619b2f1d0b90d5d3114ce13302d05b8d60c58541cf72fcc32",
+        "media_fingerprint": "",
+        "text": "ریزش موهام یه جوری شده که دیگه موهای من به گربه هام می چسبه :)))))))))\n💬\nRaha\nNiNa\n@Kafiha",
+        "original_username": "kafiha",
+        "original_text": "ریزش موهام یه جوری شده که دیگه موهای من به گربه هام می چسبه :)))))))))\n💬\nRaha\nNiNa\n@Kafiha",
+        "original_link": "https://t.me/kafiha/460810",
+        "post_id": 460810,
+        "message_id": 3485,
+        "message_kind": "text",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-09-28T07:57:22.580150+00:00"
+      },
+      {
+        "fingerprint": "322bf632da07cbcf70af5e3b9aac78548f15eb79684f6281e546a3385ffa290e",
+        "media_fingerprint": "813d9ade3aea698fff66355e567cc4b760f3e46ecc86f0195beec445a5f4edf9",
+        "text": "وام ۴۰۰ میلیونی الوپی؛ خرید اقساطی با چک صیادی\nالوپی یک پلتفرم هوشمند و نوآورانه در زمینه خرید قسطی است که با ارائه خدمات پرداخت آسان، متنوع و بدون ضامن، امکان خرید کالا و خدمات مختلف را به‌صورت اقساطی برای کاربران فراهم می‌کند. از کالای دیجیتال مانند گوشی موبایل، لپ‌تاپ و تبلت گرفته تا لوازم خانگی، وسایل نقلیه سبک، آلات موسیقی، تجهیزات پزشکی و حتی بسته‌های اینترنت، اشتراک‌ اپلیکیشن‌، و لایسنس نرم‌افزارها – همه و همه را می‌توانید از طریق الوپی، با شرایط منعطف و کارمزد پایین خریداری کنید\n🔑\nجزئیات کلیدی وام:\n🔵\nحداکثر اعتبار: ۴۰۰,۰۰۰,۰۰۰ تومان\n🟠\nسود: ۲۳٪\n🔵\nنرخ موثر: ۵۱,۰۵۸٪\n┘نرخ موثر براساس سقف وام ۵۰ میلیون تومان و بازپرداخت ۱۲ ماهه و با در نظر گرفتن هزینه اشتراک ۶ میلیون و ۵۰۰ هزار تومانی محاسبه شده است.\n🟠\nنوع اعتبار: کیف پول\n🔵\nحداکثر دوره بازپرداخت: ۳۶ ماه\n┘با توجه به طرح‌های مختلف الوپی، امکان انتخاب زمان بازپرداخت ۶، ۱۲ ، ۱۸ ، ۲۴ و ۳۶ ماه را دارید.\n🟠\nپیش پرداخت:\n✅\n🔵\nمبلغ قسط: ۱۵,۴۸۳,۹۰۰ تومان",
+        "original_username": "coffeenetmanager",
+        "original_text": "وام ۴۰۰ میلیونی الوپی؛ خرید اقساطی با چک صیادی\nالوپی یک پلتفرم هوشمند و نوآورانه در زمینه خرید قسطی است که با ارائه خدمات پرداخت آسان، متنوع و بدون ضامن، امکان خرید کالا و خدمات مختلف را به‌صورت اقساطی برای کاربران فراهم می‌کند. از کالای دیجیتال مانند گوشی موبایل، لپ‌تاپ و تبلت گرفته تا لوازم خانگی، وسایل نقلیه سبک، آلات موسیقی، تجهیزات پزشکی و حتی بسته‌های اینترنت، اشتراک‌ اپلیکیشن‌، و لایسنس نرم‌افزارها – همه و همه را می‌توانید از طریق الوپی، با شرایط منعطف و کارمزد پایین خریداری کنید\n🔑\nجزئیات کلیدی وام:\n🔵\nحداکثر اعتبار: ۴۰۰,۰۰۰,۰۰۰ تومان\n🟠\nسود: ۲۳٪\n🔵\nنرخ موثر: ۵۱,۰۵۸٪\n┘نرخ موثر براساس سقف وام ۵۰ میلیون تومان و بازپرداخت ۱۲ ماهه و با در نظر گرفتن هزینه اشتراک ۶ میلیون و ۵۰۰ هزار تومانی محاسبه شده است.\n🟠\nنوع اعتبار: کیف پول\n🔵\nحداکثر دوره بازپرداخت: ۳۶ ماه\n┘با توجه به طرح‌های مختلف الوپی، امکان انتخاب زمان بازپرداخت ۶، ۱۲ ، ۱۸ ، ۲۴ و ۳۶ ماه را دارید.\n🟠\nپیش پرداخت:\n✅\n🔵\nمبلغ قسط: ۱۵,۴۸۳,۹۰۰ تومان",
+        "original_link": "https://t.me/CoffeenetManager/51632",
+        "post_id": 51632,
+        "message_id": 3486,
+        "message_kind": "caption",
+        "sources": [
+          "coffeenetmanager"
+        ],
+        "created_at": "2026-09-28T07:57:27.805517+00:00"
+      },
+      {
+        "fingerprint": "0f92f3366bc21509b5bf16de3ccc6c09a696d427d1dcc95d1db245dbd6874ceb",
+        "media_fingerprint": "e2bbca75e2671b18d7d1a193209f9171e0b9b1b65fbfc665a164fc435c8cec40",
+        "text": "مگس‌گیر سلطنتی آمازون\nAmazonian royal flycatcher\nبا تاج تماشایی کاملاً باز برای ارتباط گرفتن با دیگر پرندگان\nNiNa\n@Kafiha",
+        "original_username": "kafiha",
+        "original_text": "مگس‌گیر سلطنتی آمازون\nAmazonian royal flycatcher\nبا تاج تماشایی کاملاً باز برای ارتباط گرفتن با دیگر پرندگان\nNiNa\n@Kafiha",
+        "original_link": "https://t.me/kafiha/460811",
+        "post_id": 460811,
+        "message_id": 3487,
+        "message_kind": "caption",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-09-28T07:57:33.755508+00:00"
+      },
+      {
+        "fingerprint": "28c2c2b459c3e10d3f87459328923810d9085c32b5a0caae0f9aaa20bce3b582",
+        "media_fingerprint": "8da58c005737bda408494fec083b1cdabdc72aaba5c10285663c50a869064d57",
+        "text": "❌\nکاهش وزن بدون گرسنگی\n✅\nتا ۳۰ کیلو بدون بازگشت\n⭕️\nوعده روزانه غذا میخوری\n⭕️\nاز پیتزا تا کباب انتخاب داری\n⭕️\nریشه چاقیت شناسایی میشه\n⭕️\nشکمت ۲۱ روزه کوچیک میشه\n🔰\nبا این متد توی خونه و بدون هزینه هر ۴۰ روز ۱۰ کیلو لاغر میشی\n💐\n🎁\nاین متد برای ۴۹ نفر امروز رایگانه؛\nبرای دریافت برنامه ۱۰ بفرست\n👇\n@Andamebartarp\n@Andamebartarp\n🟡\nبرای دیدن نتایج عضو کانال شو:⁶\nhttps://t.me/+NYDQ-CwpoPZlNGNk",
+        "original_username": "ajayebe_jahann",
+        "original_text": "❌\nکاهش وزن بدون گرسنگی\n✅\nتا ۳۰ کیلو بدون بازگشت\n⭕️\nوعده روزانه غذا میخوری\n⭕️\nاز پیتزا تا کباب انتخاب داری\n⭕️\nریشه چاقیت شناسایی میشه\n⭕️\nشکمت ۲۱ روزه کوچیک میشه\n🔰\nبا این متد توی خونه و بدون هزینه هر ۴۰ روز ۱۰ کیلو لاغر میشی\n💐\n🎁\nاین متد برای ۴۹ نفر امروز رایگانه؛\nبرای دریافت برنامه ۱۰ بفرست\n👇\n@Andamebartarp\n@Andamebartarp\n🟡\nبرای دیدن نتایج عضو کانال شو:⁶\nhttps://t.me/+NYDQ-CwpoPZlNGNk",
+        "original_link": "https://t.me/Ajayebe_jahann/159302",
+        "post_id": 159302,
+        "message_id": 3488,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-09-28T07:57:48.294061+00:00"
       }
     ]
   }
