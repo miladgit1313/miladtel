@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142611,
+      "last_id": 142614,
       "processed_ids": [
         141903,
         141904,
@@ -674,12 +674,15 @@
         142608,
         142609,
         142610,
-        142611
+        142611,
+        142612,
+        142613,
+        142614
       ],
-      "sent_count": 406
+      "sent_count": 407
     },
     "total_fut": {
-      "last_id": 236912,
+      "last_id": 236914,
       "processed_ids": [
         236405,
         236407,
@@ -1169,9 +1172,11 @@
         236909,
         236910,
         236911,
-        236912
+        236912,
+        236913,
+        236914
       ],
-      "sent_count": 29
+      "sent_count": 30
     },
     "footballvision2": {
       "last_id": 169673,
@@ -2094,7 +2099,7 @@
       "sent_count": 5
     },
     "drtel": {
-      "last_id": 67034,
+      "last_id": 67036,
       "processed_ids": [
         66561,
         66565,
@@ -2475,9 +2480,11 @@
         67031,
         67032,
         67033,
-        67034
+        67034,
+        67035,
+        67036
       ],
-      "sent_count": 228
+      "sent_count": 229
     },
     "techtube": {
       "last_id": 18361,
@@ -2812,7 +2819,7 @@
       "sent_count": 61
     },
     "coffeenetmanager": {
-      "last_id": 51635,
+      "last_id": 51638,
       "processed_ids": [
         51537,
         51538,
@@ -2906,7 +2913,10 @@
         51632,
         51633,
         51634,
-        51635
+        51635,
+        51636,
+        51637,
+        51638
       ],
       "sent_count": 46
     },
@@ -3014,7 +3024,7 @@
       "sent_count": 63
     },
     "akhbar_cafenet": {
-      "last_id": 22750,
+      "last_id": 22753,
       "processed_ids": [
         22432,
         22433,
@@ -3327,9 +3337,12 @@
         22747,
         22748,
         22749,
-        22750
+        22750,
+        22751,
+        22752,
+        22753
       ],
-      "sent_count": 196
+      "sent_count": 197
     },
     "comentiat": {
       "last_id": 26132,
@@ -3689,7 +3702,7 @@
       "sent_count": 66
     },
     "gizmiztel": {
-      "last_id": 162426,
+      "last_id": 162427,
       "processed_ids": [
         161872,
         161875,
@@ -4186,9 +4199,10 @@
         162423,
         162424,
         162425,
-        162426
+        162426,
+        162427
       ],
-      "sent_count": 326
+      "sent_count": 327
     },
     "dr_salamatx": {
       "last_id": 55315,
@@ -5581,7 +5595,7 @@
       "sent_count": 34
     },
     "varzesh3": {
-      "last_id": 302962,
+      "last_id": 302965,
       "processed_ids": [
         302363,
         302364,
@@ -6114,7 +6128,9 @@
         302959,
         302960,
         302961,
-        302962
+        302962,
+        302963,
+        302965
       ],
       "sent_count": 20
     },
@@ -6469,7 +6485,7 @@
       "sent_count": 12
     },
     "adak_ir_official": {
-      "last_id": 234341,
+      "last_id": 234343,
       "processed_ids": [
         233831,
         233833,
@@ -6979,7 +6995,9 @@
         234338,
         234339,
         234340,
-        234341
+        234341,
+        234342,
+        234343
       ],
       "sent_count": 39
     },
@@ -7974,7 +7992,7 @@
       "sent_count": 17
     },
     "mazdak_hattrick": {
-      "last_id": 182201,
+      "last_id": 182202,
       "processed_ids": [
         181991,
         181992,
@@ -8181,7 +8199,8 @@
         182198,
         182199,
         182200,
-        182201
+        182201,
+        182202
       ],
       "sent_count": 12
     },
@@ -8238,7 +8257,7 @@
       "sent_count": 0
     },
     "irwonders": {
-      "last_id": 58072,
+      "last_id": 58073,
       "processed_ids": [
         58030,
         58031,
@@ -8279,7 +8298,8 @@
         58069,
         58070,
         58071,
-        58072
+        58072,
+        58073
       ],
       "sent_count": 25
     },
@@ -8304,7 +8324,7 @@
       "sent_count": 3
     },
     "gilin_gilin": {
-      "last_id": 283821,
+      "last_id": 283822,
       "processed_ids": [
         283735,
         283736,
@@ -8386,7 +8406,8 @@
         283818,
         283819,
         283820,
-        283821
+        283821,
+        283822
       ],
       "sent_count": 48
     },
@@ -8396,7 +8417,7 @@
       "sent_count": 0
     },
     "kafiha": {
-      "last_id": 460834,
+      "last_id": 460836,
       "processed_ids": [
         460646,
         460647,
@@ -8561,9 +8582,11 @@
         460831,
         460832,
         460833,
-        460834
+        460834,
+        460835,
+        460836
       ],
-      "sent_count": 138
+      "sent_count": 140
     },
     "asrare_movafaghiyat": {
       "last_id": 3,
@@ -8832,111 +8855,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "e9b4d591532c2fbef47799f653135e19408386a22d96e962d4c57e8350862c6e",
-        "media_fingerprint": "",
-        "text": "🤖\nابزار های هوش مصنوعی که بدرد میخورن:\n🔵\nحلال همه مشکلات ➜ chatgpt\nهمه چیز مینویسه برات ➜ jasper Al\nویدیو برات حرف میزنه ➜ Synthesia\nوکیل هوش مصنوعی ➜ do not pay\nساخت عکس از متن ➜ Dall - E - 2\nارسال اتوماتیک پست ➜ repurpose\nمقاله مینویسه ➜ jenni Al\nمدل سه بعدی میسازه ➜ tome\nپیگیری زمان ➜ timely\nتبدیل حرفات به متن ➜ murf\nیه چت بات همه کاره ➜ chatbot\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🤖\nابزار های هوش مصنوعی که بدرد میخورن:\n🔵\nحلال همه مشکلات ➜ chatgpt\nهمه چیز مینویسه برات ➜ jasper Al\nویدیو برات حرف میزنه ➜ Synthesia\nوکیل هوش مصنوعی ➜ do not pay\nساخت عکس از متن ➜ Dall - E - 2\nارسال اتوماتیک پست ➜ repurpose\nمقاله مینویسه ➜ jenni Al\nمدل سه بعدی میسازه ➜ tome\nپیگیری زمان ➜ timely\nتبدیل حرفات به متن ➜ murf\nیه چت بات همه کاره ➜ chatbot\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22657",
-        "post_id": 22657,
-        "message_id": 2501,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-09-25T16:46:16.841389+00:00"
-      },
-      {
-        "fingerprint": "da8d9e3a3c71b99ee2c40fe1f96f3f0b002afc212d14995b8466b6cbe609cce6",
-        "media_fingerprint": "434bff0c0eb943049130b7ec3c325ee6a91001faab7fc034f1dbeca64ac21487",
-        "text": "🚨\n🟥\nگل امروز چادرملو به پرسپولیس\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n🟥\nگل امروز چادرملو به پرسپولیس\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/234204",
-        "post_id": 234204,
-        "message_id": 2502,
-        "message_kind": "caption",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-09-25T16:46:22.500459+00:00"
-      },
-      {
-        "fingerprint": "4e3b1830bfea861eff1a04082e490be910177c63cc26a50e40a170016a28fac5",
-        "media_fingerprint": "10c6046afc023898b0222bbe022f7cc5832d48ef8b5b474c8f37f032d93f8e02",
-        "text": "🔻\nموج گرما تمام شد\n🔹\nیک کارشناس هواشناسی گفت: طی دو تا سه روز آینده از شدت گرمای غیرمتعارف هفته گذشته کاسته خواهد شد و بر اساس الگوی نقشه‌های هواشناسی، بیشترین کاهش نسبی دما در استان‌های خراسان شمالی، خراسان رضوی، سمنان و خراسان جنوبی پیش‌بینی می‌شود.\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "🔻\nموج گرما تمام شد\n🔹\nیک کارشناس هواشناسی گفت: طی دو تا سه روز آینده از شدت گرمای غیرمتعارف هفته گذشته کاسته خواهد شد و بر اساس الگوی نقشه‌های هواشناسی، بیشترین کاهش نسبی دما در استان‌های خراسان شمالی، خراسان رضوی، سمنان و خراسان جنوبی پیش‌بینی می‌شود.\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162270",
-        "post_id": 162270,
-        "message_id": 2503,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-25T16:59:10.176783+00:00"
-      },
-      {
-        "fingerprint": "f245733a64d564ceb3532f345e201e85dde90f492e9ac6988be6924c6270ed79",
-        "media_fingerprint": "",
-        "text": "فکر میکنی خانواده اونقدرم تو ازدواج مهم نیست تا اینکه یک شب تو مهمونی میبینی همنشین آدم هایی شدی که در حالت عادی جواب سلام شون رو هم نمیدادی!\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "فکر میکنی خانواده اونقدرم تو ازدواج مهم نیست تا اینکه یک شب تو مهمونی میبینی همنشین آدم هایی شدی که در حالت عادی جواب سلام شون رو هم نمیدادی!\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162271",
-        "post_id": 162271,
-        "message_id": 2504,
-        "message_kind": "text",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-25T16:59:12.830298+00:00"
-      },
-      {
-        "fingerprint": "d03227a62b7239be62c74676815abc07c057beb3a089011c019c41ab2413232c",
-        "media_fingerprint": "3a9a586624ae9ae0bc19a7ee00709a7f26ec451c3a57754ebfad42da6d5fc1d9",
-        "text": "⚠️\nفقط تا 4 مهر\n⚠️\nدوره‌ی آموزش زبان با فرندز، رایگان از طرف لینگانو.\n✅\nسطح دوره: از پایه تا پیشرفته\n✅\n40 جلسه آموزشی\n✅\nبه زبان فارسی و انگلیسی\n✅\nدسترسی مادام‌العمر به دوره\n✅\nقابل استفاده در موبایل و لپ‌تاپ\nظرفیت محدوده، همین الان روی لینک زیر کلیک کن\n.\n👇\n👇\n👇\n👇\n👇\n👇\n👇\n🎁\nدریافت رایگان مینی دوره انگلیسی با سریال FRIENDS",
-        "original_username": "gizmiztel",
-        "original_text": "⚠️\nفقط تا 4 مهر\n⚠️\nدوره‌ی آموزش زبان با فرندز، رایگان از طرف لینگانو.\n✅\nسطح دوره: از پایه تا پیشرفته\n✅\n40 جلسه آموزشی\n✅\nبه زبان فارسی و انگلیسی\n✅\nدسترسی مادام‌العمر به دوره\n✅\nقابل استفاده در موبایل و لپ‌تاپ\nظرفیت محدوده، همین الان روی لینک زیر کلیک کن\n.\n👇\n👇\n👇\n👇\n👇\n👇\n👇\n🎁\nدریافت رایگان مینی دوره انگلیسی با سریال FRIENDS",
-        "original_link": "https://t.me/gizmiztel/162272",
-        "post_id": 162272,
-        "message_id": 2505,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-25T16:59:17.154471+00:00"
-      },
-      {
-        "fingerprint": "27cef5d2126586b1450df7da51ce149f3701aea6bb23a4a4ec7093b8e25a2b79",
-        "media_fingerprint": "bed57ae5bd51ceaebabedd9c51a7257d58e5c7a56797a6b7cf851a376764ed21",
-        "text": "خو ده کیلو موزو خراب کردی\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "خو ده کیلو موزو خراب کردی\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162273",
-        "post_id": 162273,
-        "message_id": 2506,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-25T16:59:23.171591+00:00"
-      },
-      {
-        "fingerprint": "649cfa41c74f52b3d25c82fa067be7a47b71e18e5fbc7f771bf6f089b03debab",
-        "media_fingerprint": "1e6cefe7d01c84e0cc73d3c22a48035e7cf359fc4d09bc7f211569cf52bd792d",
-        "text": "عروسی ها تو ایران وارد فازهای عجیب غریبی شده و تقریبا تبدیل به سیرک شده\nتو عروسی داماد، مرد عنکبوتی شده رفته تو ارتفاع ۱۲۰ متری ادا در میاره\n😐\n😂\nعروس هم با گریم مرد عنکبوتی رفته\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "عروسی ها تو ایران وارد فازهای عجیب غریبی شده و تقریبا تبدیل به سیرک شده\nتو عروسی داماد، مرد عنکبوتی شده رفته تو ارتفاع ۱۲۰ متری ادا در میاره\n😐\n😂\nعروس هم با گریم مرد عنکبوتی رفته\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162274",
-        "post_id": 162274,
-        "message_id": 2507,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-25T16:59:29.621790+00:00"
-      },
       {
         "fingerprint": "1f99ff3d9e5fa4e85bdd24b2bd7eb9dceed3b1ba26e0971e68951fb52942a31e",
         "media_fingerprint": "a4dfa89223c1decb01fec46322578f8be255de7b1d2cf273288ba1d25801b473",
@@ -21287,7 +21205,8 @@
         "message_id": 3377,
         "message_kind": "caption",
         "sources": [
-          "drtel"
+          "drtel",
+          "gilin_gilin"
         ],
         "created_at": "2026-09-27T21:35:21.784819+00:00"
       },
@@ -21922,7 +21841,8 @@
         "message_id": 3426,
         "message_kind": "text",
         "sources": [
-          "fars_today"
+          "fars_today",
+          "akhbarfars"
         ],
         "created_at": "2026-09-28T05:54:28.457386+00:00"
       },
@@ -23898,6 +23818,111 @@
           "kafiha"
         ],
         "created_at": "2026-09-28T10:07:34.621932+00:00"
+      },
+      {
+        "fingerprint": "75a43b01aeb4bade1b0fdc8b6c6a35997726a5f75918941cb7d604ac9f91da89",
+        "media_fingerprint": "",
+        "text": "قشنگ‌ترین هدیه‌ای که میتونی به یه نفر بدی، زمانته! چون تو داری قسمتی از زندگیتو بهش میدی که دیگه نمیتونی برش گردونی.\n1991\n@kafiha",
+        "original_username": "kafiha",
+        "original_text": "قشنگ‌ترین هدیه‌ای که میتونی به یه نفر بدی، زمانته! چون تو داری قسمتی از زندگیتو بهش میدی که دیگه نمیتونی برش گردونی.\n1991\n@kafiha",
+        "original_link": "https://t.me/kafiha/460835",
+        "post_id": 460835,
+        "message_id": 3558,
+        "message_kind": "text",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-09-28T10:29:37.019204+00:00"
+      },
+      {
+        "fingerprint": "3a7cd56cf030e6b73aa9136eda00f68bf3f40f4a98324d71fbe4d057a2cb90c5",
+        "media_fingerprint": "",
+        "text": "🌐\nصف مردم پشت اختلال سامانه‌های مخابراتی\n🔵\nپیگیری خبرنگار خبرفوری از اختلال برخی سامانه‌های مخابراتی در سراسر کشور و تشکیل صف مقابل مراکز مخابراتی در تهران و برخی شهرها حکایت دارد.\n🟠\nمراجعه‌کنندگان از ارائه‌نشدن خدمات و اعلام قطعی سامانه‌ها گلایه کردند. داوود زارعیان، معاون ارتباطات شرکت مخابرات ایران، در گفت‌وگو با خبرفوری: از حدود ۳۰ ساعت پیش، برنامه نوسازی و تغییر سامانه‌ها آغاز شده و به‌دنبال آن برخی سامانه‌ها از جمله خرید اینترنت، پاسخگویی به شکایات و مرکز تماس از دسترس خارج شده‌اند.\n🔵\nبه گفته او، سامانه‌ها از صبح امروز به‌تدریج در دسترس قرار می‌گیرند؛ سامانه فیبر نوری فعال شده و سایر سامانه‌ها نیز طی چند ساعت آینده برقرار خواهند شد.\n🟠\nزارعیان تأکید کرد این سامانه‌ها کشوری هستند و اختلال در سراسر کشور وجود دارد.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🌐\nصف مردم پشت اختلال سامانه‌های مخابراتی\n🔵\nپیگیری خبرنگار خبرفوری از اختلال برخی سامانه‌های مخابراتی در سراسر کشور و تشکیل صف مقابل مراکز مخابراتی در تهران و برخی شهرها حکایت دارد.\n🟠\nمراجعه‌کنندگان از ارائه‌نشدن خدمات و اعلام قطعی سامانه‌ها گلایه کردند. داوود زارعیان، معاون ارتباطات شرکت مخابرات ایران، در گفت‌وگو با خبرفوری: از حدود ۳۰ ساعت پیش، برنامه نوسازی و تغییر سامانه‌ها آغاز شده و به‌دنبال آن برخی سامانه‌ها از جمله خرید اینترنت، پاسخگویی به شکایات و مرکز تماس از دسترس خارج شده‌اند.\n🔵\nبه گفته او، سامانه‌ها از صبح امروز به‌تدریج در دسترس قرار می‌گیرند؛ سامانه فیبر نوری فعال شده و سایر سامانه‌ها نیز طی چند ساعت آینده برقرار خواهند شد.\n🟠\nزارعیان تأکید کرد این سامانه‌ها کشوری هستند و اختلال در سراسر کشور وجود دارد.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/22753",
+        "post_id": 22753,
+        "message_id": 3559,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-09-28T10:29:41.210637+00:00"
+      },
+      {
+        "fingerprint": "7e42f48a134a3396a44b7caacf91de9b1bcd450e4b7fea2555cec9f84be02344",
+        "media_fingerprint": "",
+        "text": "🏅\nابولفضل شیرازی مدافع میانی چپ پای امیدهای ذوب‌آهن اصفهان با عقد قراردادی راهی پرسپولیس شد.\n⏺\nاین مدافع ۲۰ ساله و ۱۹۲ سانتی با نظر مهدی تاتار از چند روز پیش در جمع بزرگسالان پرسپولیس حضور خواهد داشت.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_username": "total_fut",
+        "original_text": "🏅\nابولفضل شیرازی مدافع میانی چپ پای امیدهای ذوب‌آهن اصفهان با عقد قراردادی راهی پرسپولیس شد.\n⏺\nاین مدافع ۲۰ ساله و ۱۹۲ سانتی با نظر مهدی تاتار از چند روز پیش در جمع بزرگسالان پرسپولیس حضور خواهد داشت.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_link": "https://t.me/total_fut/236914",
+        "post_id": 236914,
+        "message_id": 3560,
+        "message_kind": "text",
+        "sources": [
+          "total_fut"
+        ],
+        "created_at": "2026-09-28T10:29:44.428587+00:00"
+      },
+      {
+        "fingerprint": "5985105b6c6632ec9ce3ddbc3b55c35a7c20ffe198ac59375e263af838e88a32",
+        "media_fingerprint": "",
+        "text": "♦️\nبیژن مرتضوی به ایران بازگشت @akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nبیژن مرتضوی به ایران بازگشت @akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142614",
+        "post_id": 142614,
+        "message_id": 3561,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-09-28T10:29:47.368284+00:00"
+      },
+      {
+        "fingerprint": "eacb8de39d6f10a5a59fb63d48c9cb1bb381fdd140b56784e9e2651c8e7bd53b",
+        "media_fingerprint": "6f46e7cf980b29457c75be1579fdf17e85721fd748d9cf9d3baf337265d8bbc9",
+        "text": "یه سری بو ها تا ابد برات یه سری خاطره ها رو زنده میکنن...\n1991\n@kafiha",
+        "original_username": "kafiha",
+        "original_text": "یه سری بو ها تا ابد برات یه سری خاطره ها رو زنده میکنن...\n1991\n@kafiha",
+        "original_link": "https://t.me/kafiha/460836",
+        "post_id": 460836,
+        "message_id": 3562,
+        "message_kind": "caption",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-09-28T10:29:54.570766+00:00"
+      },
+      {
+        "fingerprint": "1855d351a9c1865369e6fe4d20f5bb5d1c9619482d064ce68b472a93fa4e940c",
+        "media_fingerprint": "",
+        "text": "همسر بیژن مرتضوی: بازگشت بیژن مرتضوی به ایران صحت ندارد\nهمسر بیژن مرتضوی:\nبازگشت به ایران باعث افتخار و آرزوی دیرینه بیژن مرتضوی است. او اگر برگردد با استقبال گسترده برمی‌‎گردد و حتما عکس‌هایش هم منتشر می‏‌شود\n+ نکنه مثل همسر نامجو اینم خبر نداره؟!\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "همسر بیژن مرتضوی: بازگشت بیژن مرتضوی به ایران صحت ندارد\nهمسر بیژن مرتضوی:\nبازگشت به ایران باعث افتخار و آرزوی دیرینه بیژن مرتضوی است. او اگر برگردد با استقبال گسترده برمی‌‎گردد و حتما عکس‌هایش هم منتشر می‏‌شود\n+ نکنه مثل همسر نامجو اینم خبر نداره؟!\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162427",
+        "post_id": 162427,
+        "message_id": 3563,
+        "message_kind": "text",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-09-28T10:29:58.214604+00:00"
+      },
+      {
+        "fingerprint": "ad0b2716aa11fb7edca1e1845e65f94a5ad7764aa2dc33d1f2cfb086c971bf75",
+        "media_fingerprint": "47f611c98f403937b05a95ec58b3d6f9bf41f6105f27e1fefe8dbf1892440139",
+        "text": "🔴\nگوگل ارث تصاویر و نقشه‌های خودش رو از غزه آپدیت کرد و الان میشه حجم خرابی و خسارات رو کامل دید :\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nگوگل ارث تصاویر و نقشه‌های خودش رو از غزه آپدیت کرد و الان میشه حجم خرابی و خسارات رو کامل دید :\n@DrTeL",
+        "original_link": "https://t.me/drtel/67036",
+        "post_id": 67036,
+        "message_id": 3564,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-09-28T10:30:05.922017+00:00"
       }
     ]
   }
