@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142648,
+      "last_id": 142651,
       "processed_ids": [
         141903,
         141904,
@@ -705,12 +705,14 @@
         142644,
         142645,
         142647,
-        142648
+        142648,
+        142650,
+        142651
       ],
-      "sent_count": 424
+      "sent_count": 426
     },
     "total_fut": {
-      "last_id": 236937,
+      "last_id": 236938,
       "processed_ids": [
         236405,
         236407,
@@ -1224,7 +1226,8 @@
         236934,
         236935,
         236936,
-        236937
+        236937,
+        236938
       ],
       "sent_count": 32
     },
@@ -2172,7 +2175,7 @@
       "sent_count": 5
     },
     "drtel": {
-      "last_id": 67054,
+      "last_id": 67057,
       "processed_ids": [
         66561,
         66565,
@@ -2570,7 +2573,8 @@
         67051,
         67052,
         67053,
-        67054
+        67054,
+        67057
       ],
       "sent_count": 239
     },
@@ -3019,7 +3023,7 @@
       "sent_count": 48
     },
     "roidbest": {
-      "last_id": 21717,
+      "last_id": 21718,
       "processed_ids": [
         21613,
         21614,
@@ -3121,9 +3125,10 @@
         21714,
         21715,
         21716,
-        21717
+        21717,
+        21718
       ],
-      "sent_count": 66
+      "sent_count": 67
     },
     "akhbar_cafenet": {
       "last_id": 22766,
@@ -5161,7 +5166,7 @@
       "sent_count": 25
     },
     "ft360_ir": {
-      "last_id": 108550,
+      "last_id": 108555,
       "processed_ids": [
         107883,
         107884,
@@ -5802,12 +5807,16 @@
         108547,
         108548,
         108549,
-        108550
+        108550,
+        108551,
+        108552,
+        108554,
+        108555
       ],
       "sent_count": 36
     },
     "varzesh3": {
-      "last_id": 302992,
+      "last_id": 302994,
       "processed_ids": [
         302363,
         302364,
@@ -6368,12 +6377,13 @@
         302989,
         302990,
         302991,
-        302992
+        302992,
+        302994
       ],
-      "sent_count": 21
+      "sent_count": 22
     },
     "totalfut_plus": {
-      "last_id": 26232,
+      "last_id": 26233,
       "processed_ids": [
         25870,
         25871,
@@ -6731,7 +6741,8 @@
         26229,
         26230,
         26231,
-        26232
+        26232,
+        26233
       ],
       "sent_count": 13
     },
@@ -8586,7 +8597,7 @@
       "sent_count": 0
     },
     "irwonders": {
-      "last_id": 58089,
+      "last_id": 58090,
       "processed_ids": [
         58030,
         58031,
@@ -8644,12 +8655,13 @@
         58086,
         58087,
         58088,
-        58089
+        58089,
+        58090
       ],
       "sent_count": 38
     },
     "razcom": {
-      "last_id": 70458,
+      "last_id": 70465,
       "processed_ids": [
         70448,
         70449,
@@ -8659,9 +8671,13 @@
         70453,
         70454,
         70457,
-        70458
+        70458,
+        70459,
+        70460,
+        70461,
+        70465
       ],
-      "sent_count": 1
+      "sent_count": 5
     },
     "midanesti": {
       "last_id": 73200,
@@ -8678,7 +8694,7 @@
       "sent_count": 3
     },
     "gilin_gilin": {
-      "last_id": 283862,
+      "last_id": 283865,
       "processed_ids": [
         283735,
         283736,
@@ -8801,9 +8817,12 @@
         283859,
         283860,
         283861,
-        283862
+        283862,
+        283863,
+        283864,
+        283865
       ],
-      "sent_count": 62
+      "sent_count": 63
     },
     "tvnavad": {
       "last_id": 0,
@@ -8811,7 +8830,7 @@
       "sent_count": 0
     },
     "kafiha": {
-      "last_id": 460906,
+      "last_id": 460909,
       "processed_ids": [
         460646,
         460647,
@@ -9036,9 +9055,12 @@
         460903,
         460904,
         460905,
-        460906
+        460906,
+        460907,
+        460908,
+        460909
       ],
-      "sent_count": 183
+      "sent_count": 186
     },
     "asrare_movafaghiyat": {
       "last_id": 3,
@@ -9218,7 +9240,7 @@
       "sent_count": 94
     },
     "khandehabadd": {
-      "last_id": 306613,
+      "last_id": 306614,
       "processed_ids": [
         306563,
         306564,
@@ -9269,9 +9291,10 @@
         306610,
         306611,
         306612,
-        306613
+        306613,
+        306614
       ],
-      "sent_count": 20
+      "sent_count": 21
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -9367,201 +9390,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "95cc1d7cfc845255c8e5c7537dad9d611dcfe93d3375763cca45236b46c9ade3",
-        "media_fingerprint": "",
-        "text": "♦️\nپزشکیان: آمریکا به آنچه نوشتیم، عمل کند تا مذاکرات را ادامه دهیم/ اگر قرار بود کسی را ترور کنیم که پای میز مذاکره نمی‌نشستیم\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nپزشکیان: آمریکا به آنچه نوشتیم، عمل کند تا مذاکرات را ادامه دهیم/ اگر قرار بود کسی را ترور کنیم که پای میز مذاکره نمی‌نشستیم\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142479",
-        "post_id": 142479,
-        "message_id": 2722,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-26T11:17:58.139147+00:00"
-      },
-      {
-        "fingerprint": "2770c264e82d97d7da6818bf08344a601774869205aa10e4b53e8a40e07e8b0b",
-        "media_fingerprint": "",
-        "text": "پرسپولیس برای جذب",
-        "original_username": "adak_ir_official",
-        "original_text": "پرسپولیس برای جذب",
-        "original_link": "https://t.me/ADAK_IR_official/234242",
-        "post_id": 234242,
-        "message_id": 2723,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-09-26T11:33:22.126573+00:00"
-      },
-      {
-        "fingerprint": "2a64b491bb4730b0f2670a1c65ede0562d8a979c2c5ac6e5bdf9fc36c2b2face",
-        "media_fingerprint": "59213242b605cb8d3672b312abb0c9139400eb019442c707f6ab807979c573dc",
-        "text": "چیکار کنیم که موخوره نگیریم!؟\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_username": "majalepezeshki",
-        "original_text": "چیکار کنیم که موخوره نگیریم!؟\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_link": "https://t.me/MajalePezeshki/38516",
-        "post_id": 38516,
-        "message_id": 2724,
-        "message_kind": "caption",
-        "sources": [
-          "majalepezeshki"
-        ],
-        "created_at": "2026-09-26T11:33:26.495471+00:00"
-      },
-      {
-        "fingerprint": "52b796b78549bc2958ee55c3aa56762333bafd490345741de45685d6c58b9a01",
-        "media_fingerprint": "edc989abc476cd90bc6bf23508f606e4c00bd57f9d0d366cf837079e0a0f558f",
-        "text": "شیر زردچوبه درمانی برای سرماخوردگی و آنفلوانزا!\n◽️\nشیر زردچوبه خواص آنتی‌ اکسیدانی آن به بدن شما کمک می‌کند که بهتر علیه باکتری‌ها و ویروس‌هایی که باعث عفونت می‌شوند، مبارزه کند.\n‌‌\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_username": "majalepezeshki",
-        "original_text": "شیر زردچوبه درمانی برای سرماخوردگی و آنفلوانزا!\n◽️\nشیر زردچوبه خواص آنتی‌ اکسیدانی آن به بدن شما کمک می‌کند که بهتر علیه باکتری‌ها و ویروس‌هایی که باعث عفونت می‌شوند، مبارزه کند.\n‌‌\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_link": "https://t.me/MajalePezeshki/38517",
-        "post_id": 38517,
-        "message_id": 2725,
-        "message_kind": "caption",
-        "sources": [
-          "majalepezeshki"
-        ],
-        "created_at": "2026-09-26T11:33:30.631450+00:00"
-      },
-      {
-        "fingerprint": "4c4bfd0ff29aea13e9dd92cc3ad499584b38bdec70afa3651eaace45fab83840",
-        "media_fingerprint": "1c2bbbb2bead03c27a1138263a08250cdff32962684716ba137fad8e4c4d27d9",
-        "text": "🔴\nطبق بررسی جدول پروازهای فرودگاه امام؛  همه پروازهای ایران به کشور امارات\n🇦🇪\nهم بخاطر تحریم‌های جدید آمریکا، متوقف شده.  @DrTeL | zoomit",
-        "original_username": "drtel",
-        "original_text": "🔴\nطبق بررسی جدول پروازهای فرودگاه امام؛  همه پروازهای ایران به کشور امارات\n🇦🇪\nهم بخاطر تحریم‌های جدید آمریکا، متوقف شده.  @DrTeL | zoomit",
-        "original_link": "https://t.me/drtel/66967",
-        "post_id": 66967,
-        "message_id": 2726,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-09-26T11:33:34.889285+00:00"
-      },
-      {
-        "fingerprint": "c4f4f042d1168eac69bb3fac520f36f56c2f33cc68f7a402f68e37eb51e41584",
-        "media_fingerprint": "",
-        "text": "گزینه‌های پرسپولیس",
-        "original_username": "adak_ir_official",
-        "original_text": "گزینه‌های پرسپولیس",
-        "original_link": "https://t.me/ADAK_IR_official/234243",
-        "post_id": 234243,
-        "message_id": 2727,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-09-26T11:33:37.327842+00:00"
-      },
-      {
-        "fingerprint": "017ecd8615d36dd6fcbc1778a1c15fcb78f7c995a2eea12cf1bfaddf95e2678f",
-        "media_fingerprint": "1a1f781ba98981aea5006a06c86c99247a25a1fffd124acb1eece19cf62779c3",
-        "text": "🔥\nسوزش سر دل را همیشه به «غذای تند» ربط ندهید\n🩺\nرفلاکس زمانی رخ می‌دهد که محتویات معده به سمت مری برگردد و می‌تواند باعث سوزش سر دل و علائم دیگر شود. اگر علائم شب‌ها یا هنگام دراز کشیدن بیشتر می‌شوند، خوردن وعده غذایی حداقل سه ساعت پیش از خواب ممکن است به بهبود علائم کمک کند. علائم مکرر یا مشکلاتی مثل دشواری بلع نیاز به بررسی پزشکی دارند.\n🌐\nwww.niddk.nih\n#شناخت_بیماری‌ها\n#رفلاکس_معده\n🖥\n@Dr_SalamatX",
-        "original_username": "dr_salamatx",
-        "original_text": "🔥\nسوزش سر دل را همیشه به «غذای تند» ربط ندهید\n🩺\nرفلاکس زمانی رخ می‌دهد که محتویات معده به سمت مری برگردد و می‌تواند باعث سوزش سر دل و علائم دیگر شود. اگر علائم شب‌ها یا هنگام دراز کشیدن بیشتر می‌شوند، خوردن وعده غذایی حداقل سه ساعت پیش از خواب ممکن است به بهبود علائم کمک کند. علائم مکرر یا مشکلاتی مثل دشواری بلع نیاز به بررسی پزشکی دارند.\n🌐\nwww.niddk.nih\n#شناخت_بیماری‌ها\n#رفلاکس_معده\n🖥\n@Dr_SalamatX",
-        "original_link": "https://t.me/Dr_SalamatX/55308",
-        "post_id": 55308,
-        "message_id": 2728,
-        "message_kind": "caption",
-        "sources": [
-          "dr_salamatx"
-        ],
-        "created_at": "2026-09-26T11:33:41.959631+00:00"
-      },
-      {
-        "fingerprint": "8e039712ae1c4290304b68b7b28c4a769b1beb47005cd5bb55d42b0e373b2e8a",
-        "media_fingerprint": "",
-        "text": "🔴\nمحمد پنجعلی، کاپیتان پرسپولیس در دهه ۵۰ که مدتی درگیر بیماری سرطان بود، این بیماری را شکست داد و خوشبختانه سلامتی خود را بدست آورد.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🔴\nمحمد پنجعلی، کاپیتان پرسپولیس در دهه ۵۰ که مدتی درگیر بیماری سرطان بود، این بیماری را شکست داد و خوشبختانه سلامتی خود را بدست آورد.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/234244",
-        "post_id": 234244,
-        "message_id": 2729,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-09-26T11:48:58.812277+00:00"
-      },
-      {
-        "fingerprint": "f8850a7844d60ccfcb677f2e6b68771833f64981142f3fc167f1ae3f76211011",
-        "media_fingerprint": "",
-        "text": "🎖️\n#اختصاصی_توتال  #افشاگری\n🏅\nبی‌تفاوتی شریعتمداری به دستور سازمان بازرسی/مدیریت تاجرنیا غیرقانونی است!(سند)\n⏺\nبه گزارش توتال فوتبال سازمان بازرسی کل کشور و جناب دکتر لقمان کیاپاشا بازرس کل قضایی کشور در تاریخ ۳۱ مردادماه نامه‌ای رسمی (تصویر بالا)را به محمد…",
-        "original_username": "total_fut",
-        "original_text": "🎖️\n#اختصاصی_توتال  #افشاگری\n🏅\nبی‌تفاوتی شریعتمداری به دستور سازمان بازرسی/مدیریت تاجرنیا غیرقانونی است!(سند)\n⏺\nبه گزارش توتال فوتبال سازمان بازرسی کل کشور و جناب دکتر لقمان کیاپاشا بازرس کل قضایی کشور در تاریخ ۳۱ مردادماه نامه‌ای رسمی (تصویر بالا)را به محمد…",
-        "original_link": "https://t.me/total_fut/236820",
-        "post_id": 236820,
-        "message_id": 2730,
-        "message_kind": "text",
-        "sources": [
-          "total_fut"
-        ],
-        "created_at": "2026-09-26T11:49:01.903644+00:00"
-      },
-      {
-        "fingerprint": "897459be41a2ebf419c526f71ac1cb22fe5578125814c6b13d2dbe8ebf6ca364",
-        "media_fingerprint": "",
-        "text": "🚨\n🚨\n🚨\n#اختصاصی_آداک\n🚨\n🚨\nدر صورت قبول استعفای حسین عبدی، گزینه اول فدراسیون فوتبال برای سرمربیگری تیم ملی امید، مهدی مهدوی‌کیا، پیشکسوت تیم پرسپولیس است.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n🚨\n🚨\n#اختصاصی_آداک\n🚨\n🚨\nدر صورت قبول استعفای حسین عبدی، گزینه اول فدراسیون فوتبال برای سرمربیگری تیم ملی امید، مهدی مهدوی‌کیا، پیشکسوت تیم پرسپولیس است.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/234247",
-        "post_id": 234247,
-        "message_id": 2731,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-09-26T11:49:04.948232+00:00"
-      },
-      {
-        "fingerprint": "744c2c7f4711f3efb131b6a633f9baa4de9c897e84a4c6f59f474e556ad2a761",
-        "media_fingerprint": "",
-        "text": "♦️\nپروازهای ایران به چین، ویتنام و مالزی همچنان برقرار است و ایرلاین‌های ایرانی برای راه‌اندازی مسیرهای جدید هوایی مذاکره می‌کنند/ فارس\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nپروازهای ایران به چین، ویتنام و مالزی همچنان برقرار است و ایرلاین‌های ایرانی برای راه‌اندازی مسیرهای جدید هوایی مذاکره می‌کنند/ فارس\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142482",
-        "post_id": 142482,
-        "message_id": 2732,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-26T12:03:10.984961+00:00"
-      },
-      {
-        "fingerprint": "e090012b7a1fafd5c3f1f5b255b49fcc67b37b83d432f396577b7d227b2d4c51",
-        "media_fingerprint": "",
-        "text": "♦️\nپزشکیان: من دو بار با مقام معظم رهبری ملاقات کردم، بار اول حدود سه ساعت و بار دوم هفت ساعت و نیم\nرئیس‌جمهور:\n🔹\nساختار رهبری مسئول سیاست‌گذاری است، در حالی که اجرا بر عهده ماست. آنچه ما اجرا می‌کنیم در چارچوب قوانین موجود است\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nپزشکیان: من دو بار با مقام معظم رهبری ملاقات کردم، بار اول حدود سه ساعت و بار دوم هفت ساعت و نیم\nرئیس‌جمهور:\n🔹\nساختار رهبری مسئول سیاست‌گذاری است، در حالی که اجرا بر عهده ماست. آنچه ما اجرا می‌کنیم در چارچوب قوانین موجود است\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142484",
-        "post_id": 142484,
-        "message_id": 2733,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-26T12:03:14.239787+00:00"
-      },
-      {
-        "fingerprint": "8a23fd35bb6aaa38d22a2b42c60bc938bc752b04bbe950184874d5259ea1bc4c",
-        "media_fingerprint": "",
-        "text": "🔻\nسریعترین موتور جهان در نمایشگاه استانبول\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "🔻\nسریعترین موتور جهان در نمایشگاه استانبول\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159249",
-        "post_id": 159249,
-        "message_id": 2734,
-        "message_kind": "text",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-09-26T12:03:16.953601+00:00"
-      },
       {
         "fingerprint": "e3cd28aadc5c9fdd307bcc691ee30e6d87a727a11b46d03b9da89edee5bcaf11",
         "media_fingerprint": "",
@@ -23666,7 +23494,8 @@
         "message_id": 3724,
         "message_kind": "caption",
         "sources": [
-          "gizmiztel"
+          "gizmiztel",
+          "gilin_gilin"
         ],
         "created_at": "2026-09-28T16:24:47.544716+00:00"
       },
@@ -24208,7 +24037,8 @@
         "message_id": 3760,
         "message_kind": "caption",
         "sources": [
-          "ajayebe_jahann"
+          "ajayebe_jahann",
+          "irwonders"
         ],
         "created_at": "2026-09-28T17:27:48.886492+00:00"
       },
@@ -24466,6 +24296,202 @@
           "khandehabadd"
         ],
         "created_at": "2026-09-28T17:47:01.969495+00:00"
+      },
+      {
+        "fingerprint": "2b1739492f60fdbd184938826511157e05277814f57bf03f4c33b60a7f106ced",
+        "media_fingerprint": "2832a227031929e8d73b92ea6eaab15b09a02acea77b01c21a347cbefe602a1f",
+        "text": "کاش میبردیشون پارک\n😂\n😂\n😂\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "کاش میبردیشون پارک\n😂\n😂\n😂\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306614",
+        "post_id": 306614,
+        "message_id": 3778,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-09-28T18:01:12.668688+00:00"
+      },
+      {
+        "fingerprint": "ebea648edf0bb0d7545eeaaf034c07132a67c2790a27439fb37f23e608e8b69b",
+        "media_fingerprint": "",
+        "text": "‏بعضی آدم‌ها هیچ‌چیز تازه‌ای به آدم اضافه نمی‌کنن، فقط چیزهایی رو پس می‌دن که زندگی یواش‌یواش ازت گرفته بود. ذوق، شیطنت، اعتماد، آرامش، میل دوست داشتن… و شاید برای همینه که بودن کنارشون بیشتر از «عاشق شدن»، شبیه برگشتن به خونه‌س.\n💬\nhanieh35\nSilverfox\n@Kafiha",
+        "original_username": "kafiha",
+        "original_text": "‏بعضی آدم‌ها هیچ‌چیز تازه‌ای به آدم اضافه نمی‌کنن، فقط چیزهایی رو پس می‌دن که زندگی یواش‌یواش ازت گرفته بود. ذوق، شیطنت، اعتماد، آرامش، میل دوست داشتن… و شاید برای همینه که بودن کنارشون بیشتر از «عاشق شدن»، شبیه برگشتن به خونه‌س.\n💬\nhanieh35\nSilverfox\n@Kafiha",
+        "original_link": "https://t.me/kafiha/460907",
+        "post_id": 460907,
+        "message_id": 3779,
+        "message_kind": "text",
+        "sources": [
+          "kafiha",
+          "gilin_gilin"
+        ],
+        "created_at": "2026-09-28T18:01:15.787791+00:00"
+      },
+      {
+        "fingerprint": "ba34f059e1f532ee62e506bfb8b70404a14ce27904b028b3765fbcda078628a8",
+        "media_fingerprint": "616e658277347489fbe40a431371cbca3e8ea78d914449356c423e21bc9e1d89",
+        "text": "🔥\nبهترین و بدترین ظروف برای پخت‌وپز\n✅\nفولاد ضدزنگ: بادوام، مقاوم و مناسب استفاده روزمره\n✅\nچدن: عالی برای حفظ گرما و پخت طولانی\n✅\nسرامیک: گزینه خوب برای پخت‌وپز، مخصوصاً در حرارت ملایم تا متوسط\n⚠️\nمس: گرما رو عالی منتقل می‌کنه، ولی بهتره پوشش داخلی استاندارد داشته باشه\n⚠️\nتفلون: تا وقتی سالمه مشکلی نداره؛ اما اگه خش افتاده یا آسیب دیده، بهتره عوضش کنید\n⚠️\nآلومینیوم: سبک و ارزونه، ولی برای غذاهای خیلی اسیدی و پخت طولانی انتخاب ایده‌آلی نیست\n+ مهم‌تر از جنس ظرف، کیفیت ساخت و سالم بودن پوشش داخلیشه.\n@Razcom",
+        "original_username": "razcom",
+        "original_text": "🔥\nبهترین و بدترین ظروف برای پخت‌وپز\n✅\nفولاد ضدزنگ: بادوام، مقاوم و مناسب استفاده روزمره\n✅\nچدن: عالی برای حفظ گرما و پخت طولانی\n✅\nسرامیک: گزینه خوب برای پخت‌وپز، مخصوصاً در حرارت ملایم تا متوسط\n⚠️\nمس: گرما رو عالی منتقل می‌کنه، ولی بهتره پوشش داخلی استاندارد داشته باشه\n⚠️\nتفلون: تا وقتی سالمه مشکلی نداره؛ اما اگه خش افتاده یا آسیب دیده، بهتره عوضش کنید\n⚠️\nآلومینیوم: سبک و ارزونه، ولی برای غذاهای خیلی اسیدی و پخت طولانی انتخاب ایده‌آلی نیست\n+ مهم‌تر از جنس ظرف، کیفیت ساخت و سالم بودن پوشش داخلیشه.\n@Razcom",
+        "original_link": "https://t.me/Razcom/70459",
+        "post_id": 70459,
+        "message_id": 3780,
+        "message_kind": "caption",
+        "sources": [
+          "razcom"
+        ],
+        "created_at": "2026-09-28T18:01:21.598923+00:00"
+      },
+      {
+        "fingerprint": "8cccbb20c175a5a0ac43b9855f3e55d251e58b7e95ad98b9f0e3407d393e83f0",
+        "media_fingerprint": "8f2032cfb7218508c7c16b528eb46b51d543e318e38fbf133fbe319dad6b35d2",
+        "text": "همه این ترفندهای کامپیوتر عالیه و حتماً خیلی زندگیتونو راحت می‌کنه، حتماً ببینین\n👌\n💻\n@Razcom",
+        "original_username": "razcom",
+        "original_text": "همه این ترفندهای کامپیوتر عالیه و حتماً خیلی زندگیتونو راحت می‌کنه، حتماً ببینین\n👌\n💻\n@Razcom",
+        "original_link": "https://t.me/Razcom/70460",
+        "post_id": 70460,
+        "message_id": 3781,
+        "message_kind": "caption",
+        "sources": [
+          "razcom"
+        ],
+        "created_at": "2026-09-28T18:01:30.379735+00:00"
+      },
+      {
+        "fingerprint": "9f806aa0242a79896715fa09c1e7d57568de98d92b66e278cda96143b6812a69",
+        "media_fingerprint": "83d9fba4cf046b26173a39bcdc96891d48ae811e3e445ed2eea7549242ee6035",
+        "text": "برای اولین بار در ایران، تور کویر بگیر و ۴ قسطه پرداخت کن!\n😎\n⛺️\nدو روز اقامت تو دل کویر مصر، با امکانات ویژه (اقامتگاه و پذیرایی) که حالا می‌تونی با\nجاباما تور\nقسطی رزروش کنی.\n🏜️\nبرای اطلاعات بیشتر از تور کویر ‌یا برنامه های جدید با شماره زیر تماس بگیر\n👇\n021-49275111",
+        "original_username": "razcom",
+        "original_text": "برای اولین بار در ایران، تور کویر بگیر و ۴ قسطه پرداخت کن!\n😎\n⛺️\nدو روز اقامت تو دل کویر مصر، با امکانات ویژه (اقامتگاه و پذیرایی) که حالا می‌تونی با\nجاباما تور\nقسطی رزروش کنی.\n🏜️\nبرای اطلاعات بیشتر از تور کویر ‌یا برنامه های جدید با شماره زیر تماس بگیر\n👇\n021-49275111",
+        "original_link": "https://t.me/Razcom/70461",
+        "post_id": 70461,
+        "message_id": 3782,
+        "message_kind": "caption",
+        "sources": [
+          "razcom"
+        ],
+        "created_at": "2026-09-28T18:01:44.703695+00:00"
+      },
+      {
+        "fingerprint": "50de6e9beda6fc61e9f3ab56d9afa973247c73f52ecd96d0dba75c387f2010f7",
+        "media_fingerprint": "c038a0af1ddf58ea361f937e7e6b7e45810d54758e247a346f3cade52d467372",
+        "text": "⚠️\nسندروم «گردن پیامکی»!\nوقتی سرتون صافه، وزن سر روی گردن حدود ۵ کیلو حساب میشه؛ اما هرچی برای نگاه کردن به گوشی بیشتر خم بشید، فشار مؤثر روی گردن چند برابر میشه: حدود ۱۲ کیلو در ۱۵ درجه، ۱۸ کیلو در ۳۰ درجه و ۲۲ کیلو در ۴۵ درجه!\nاستفاده طولانی از موبایل و خم نگه‌داشتن گردن می‌تونه باعث خستگی عضلات و درد گردن و شونه بشه؛ هرچند خود اصطلاح «Text Neck» یه تشخیص پزشکی دقیق و جداگانه نیست.\n📱\nتا می‌تونید گوشی رو بالاتر و نزدیک سطح چشم نگه دارید، هر چند وقت یه‌بار وضعیت بدنتون رو عوض کنید و به گردنتون استراحت بدید.\nیه تمرین ساده هم اینه که کف دستتون رو روی پیشونی و طرفین سر بذارید و بدون حرکت دادن گردن، چند ثانیه آروم فشار بدید.\n@Razcom",
+        "original_username": "razcom",
+        "original_text": "⚠️\nسندروم «گردن پیامکی»!\nوقتی سرتون صافه، وزن سر روی گردن حدود ۵ کیلو حساب میشه؛ اما هرچی برای نگاه کردن به گوشی بیشتر خم بشید، فشار مؤثر روی گردن چند برابر میشه: حدود ۱۲ کیلو در ۱۵ درجه، ۱۸ کیلو در ۳۰ درجه و ۲۲ کیلو در ۴۵ درجه!\nاستفاده طولانی از موبایل و خم نگه‌داشتن گردن می‌تونه باعث خستگی عضلات و درد گردن و شونه بشه؛ هرچند خود اصطلاح «Text Neck» یه تشخیص پزشکی دقیق و جداگانه نیست.\n📱\nتا می‌تونید گوشی رو بالاتر و نزدیک سطح چشم نگه دارید، هر چند وقت یه‌بار وضعیت بدنتون رو عوض کنید و به گردنتون استراحت بدید.\nیه تمرین ساده هم اینه که کف دستتون رو روی پیشونی و طرفین سر بذارید و بدون حرکت دادن گردن، چند ثانیه آروم فشار بدید.\n@Razcom",
+        "original_link": "https://t.me/Razcom/70465",
+        "post_id": 70465,
+        "message_id": 3786,
+        "message_kind": "caption",
+        "sources": [
+          "razcom"
+        ],
+        "created_at": "2026-09-28T18:01:50.828123+00:00"
+      },
+      {
+        "fingerprint": "d97ce288508571e8ff9bc077661b4cc303062c78544715c6058bff274fa08930",
+        "media_fingerprint": "",
+        "text": "‏سلام بر کسانی که قلب انسان‌ها\nرا امانت‌ الهی می‌دانند…\nLidia\n@kafiha",
+        "original_username": "kafiha",
+        "original_text": "‏سلام بر کسانی که قلب انسان‌ها\nرا امانت‌ الهی می‌دانند…\nLidia\n@kafiha",
+        "original_link": "https://t.me/kafiha/460908",
+        "post_id": 460908,
+        "message_id": 3787,
+        "message_kind": "text",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-09-28T18:01:53.580696+00:00"
+      },
+      {
+        "fingerprint": "abd7b298ef449cbb08645ccd8393e3431457c764634e16ff5f090d1c00ae1bf7",
+        "media_fingerprint": "8a9532702049fb0721981a0793da9c535aff0a4847180180c26742dec38b7820",
+        "text": "♦️\nبند بهمن زیبا\n😍\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nبند بهمن زیبا\n😍\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142650",
+        "post_id": 142650,
+        "message_id": 3788,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-09-28T18:02:00.797483+00:00"
+      },
+      {
+        "fingerprint": "d9e8ceeb03097486138cc9c7b61be43fe70f366a2b1de086c6cdb879c30cb330",
+        "media_fingerprint": "",
+        "text": "‏پیر و فرتوت و پوسیده می‌شم ولی\nیاد نمی‌گیرم که باید انتظار هررر چیزی رو از هررر کسی داشت...\n@Gilin",
+        "original_username": "gilin_gilin",
+        "original_text": "‏پیر و فرتوت و پوسیده می‌شم ولی\nیاد نمی‌گیرم که باید انتظار هررر چیزی رو از هررر کسی داشت...\n@Gilin",
+        "original_link": "https://t.me/Gilin_Gilin/283863",
+        "post_id": 283863,
+        "message_id": 3789,
+        "message_kind": "text",
+        "sources": [
+          "gilin_gilin"
+        ],
+        "created_at": "2026-09-28T18:02:09.924501+00:00"
+      },
+      {
+        "fingerprint": "7df3d1cd64a9878cecbe874c8ae8671649ce040c428f05b34861835d286c2f3c",
+        "media_fingerprint": "183b01096e80bb555eeaa91b338573a564c50b7a587f8ae92367480d7617d0a9",
+        "text": "- کلاود : فقط بگو بریم تا برات کد‌ رو بنویسم\n+ من : بریم\n- کلاود : اشتراک رایگانتون تموم شد\n😭\n@RoidBest",
+        "original_username": "roidbest",
+        "original_text": "- کلاود : فقط بگو بریم تا برات کد‌ رو بنویسم\n+ من : بریم\n- کلاود : اشتراک رایگانتون تموم شد\n😭\n@RoidBest",
+        "original_link": "https://t.me/RoidBest/21718",
+        "post_id": 21718,
+        "message_id": 3790,
+        "message_kind": "caption",
+        "sources": [
+          "roidbest"
+        ],
+        "created_at": "2026-09-28T18:02:15.346909+00:00"
+      },
+      {
+        "fingerprint": "bb64824c6a85c86ffce456538eb2e80fbbffc7ab5f0bfccf5c167595a987e55b",
+        "media_fingerprint": "23e006aa858ed8acc64654ce5bfee6f07afd1d936f24f13e01b8a3a6e7500b80",
+        "text": "🎙\nعبدی: ما از خود گذشتگی کردیم\n🟢\nخیلی‌ها به من گفتند به مسابقات نروید!\n🟢\nروزی که همه رفتند تنهایی در پرسپولیس ماندم\n🆔\n@varzesh3",
+        "original_username": "varzesh3",
+        "original_text": "🎙\nعبدی: ما از خود گذشتگی کردیم\n🟢\nخیلی‌ها به من گفتند به مسابقات نروید!\n🟢\nروزی که همه رفتند تنهایی در پرسپولیس ماندم\n🆔\n@varzesh3",
+        "original_link": "https://t.me/varzesh3/302994",
+        "post_id": 302994,
+        "message_id": 3791,
+        "message_kind": "caption",
+        "sources": [
+          "varzesh3"
+        ],
+        "created_at": "2026-09-28T18:02:25.620732+00:00"
+      },
+      {
+        "fingerprint": "c72f2ff65807de566be349646504dfd16cbe4aff71f99e92607ff1efed0658c3",
+        "media_fingerprint": "",
+        "text": "اون قضیه منو نکُشت،\nاما قوی‌ترم هم نکرد\nیه‌جایی تو بدنم موند و تبدیل شد به فراموشی، حواس‌پرتی، معده‌درد و خوابِ به‌هم ریخته.\n💬\naraz\nLidia\n@kafiha",
+        "original_username": "kafiha",
+        "original_text": "اون قضیه منو نکُشت،\nاما قوی‌ترم هم نکرد\nیه‌جایی تو بدنم موند و تبدیل شد به فراموشی، حواس‌پرتی، معده‌درد و خوابِ به‌هم ریخته.\n💬\naraz\nLidia\n@kafiha",
+        "original_link": "https://t.me/kafiha/460909",
+        "post_id": 460909,
+        "message_id": 3792,
+        "message_kind": "text",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-09-28T18:02:28.601986+00:00"
+      },
+      {
+        "fingerprint": "6644af5690405b7f8293e759764b83436a7c0f4d1531e32ac2f8e1dd47328ef2",
+        "media_fingerprint": "",
+        "text": "♦️\nدستگیری ۲ متهم پرونده انتشار تصاویر خصوصی در جهرم\nمحمدپور،فرمانده انتظامی جهرم:\n🔹️\nدر پی مراجعه یکی از شهروندان و طرح شکایت مبنی بر انتشار تصاویر خصوصی وی در فضای مجازی، موضوع به‌صورت ویژه در دستور کار کارشناسان پلیس فتا قرار گرفت.\n🔹️\nکارشناسان پلیس فتا با انجام اقدامات فنی و تخصصی، ۲ نفر را که در این پرونده نقش داشتند، شناسایی و دستگیر کردند.\n🔹️\nمتهمان با انگیزه هتک حیثیت و انتقام‌جویی، اقدام به انتشار تصاویر شخصی کاربران در فضای مجازی کرده‌اند.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nدستگیری ۲ متهم پرونده انتشار تصاویر خصوصی در جهرم\nمحمدپور،فرمانده انتظامی جهرم:\n🔹️\nدر پی مراجعه یکی از شهروندان و طرح شکایت مبنی بر انتشار تصاویر خصوصی وی در فضای مجازی، موضوع به‌صورت ویژه در دستور کار کارشناسان پلیس فتا قرار گرفت.\n🔹️\nکارشناسان پلیس فتا با انجام اقدامات فنی و تخصصی، ۲ نفر را که در این پرونده نقش داشتند، شناسایی و دستگیر کردند.\n🔹️\nمتهمان با انگیزه هتک حیثیت و انتقام‌جویی، اقدام به انتشار تصاویر شخصی کاربران در فضای مجازی کرده‌اند.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142651",
+        "post_id": 142651,
+        "message_id": 3793,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-09-28T18:02:32.189613+00:00"
       }
     ]
   }
