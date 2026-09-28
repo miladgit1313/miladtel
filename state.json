@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142619,
+      "last_id": 142621,
       "processed_ids": [
         141903,
         141904,
@@ -682,12 +682,14 @@
         142616,
         142617,
         142618,
-        142619
+        142619,
+        142620,
+        142621
       ],
       "sent_count": 409
     },
     "total_fut": {
-      "last_id": 236915,
+      "last_id": 236916,
       "processed_ids": [
         236405,
         236407,
@@ -1180,12 +1182,13 @@
         236912,
         236913,
         236914,
-        236915
+        236915,
+        236916
       ],
       "sent_count": 30
     },
     "footballvision2": {
-      "last_id": 169678,
+      "last_id": 169684,
       "processed_ids": [
         168857,
         168858,
@@ -1972,7 +1975,13 @@
         169673,
         169675,
         169676,
-        169678
+        169678,
+        169679,
+        169680,
+        169681,
+        169682,
+        169683,
+        169684
       ],
       "sent_count": 39
     },
@@ -1996,7 +2005,7 @@
       "sent_count": 3
     },
     "fars_today": {
-      "last_id": 132065,
+      "last_id": 132066,
       "processed_ids": [
         131975,
         131976,
@@ -2087,9 +2096,10 @@
         132062,
         132063,
         132064,
-        132065
+        132065,
+        132066
       ],
-      "sent_count": 55
+      "sent_count": 56
     },
     "behzistikomitenews": {
       "last_id": 13948,
@@ -2108,7 +2118,7 @@
       "sent_count": 5
     },
     "drtel": {
-      "last_id": 67036,
+      "last_id": 67039,
       "processed_ids": [
         66561,
         66565,
@@ -2491,9 +2501,12 @@
         67033,
         67034,
         67035,
-        67036
+        67036,
+        67037,
+        67038,
+        67039
       ],
-      "sent_count": 229
+      "sent_count": 230
     },
     "techtube": {
       "last_id": 18361,
@@ -3356,7 +3369,7 @@
       "sent_count": 197
     },
     "comentiat": {
-      "last_id": 26133,
+      "last_id": 26135,
       "processed_ids": [
         25844,
         25845,
@@ -3593,9 +3606,10 @@
         26130,
         26131,
         26132,
-        26133
+        26133,
+        26135
       ],
-      "sent_count": 155
+      "sent_count": 156
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -3715,7 +3729,7 @@
       "sent_count": 67
     },
     "gizmiztel": {
-      "last_id": 162429,
+      "last_id": 162431,
       "processed_ids": [
         161872,
         161875,
@@ -4215,12 +4229,14 @@
         162426,
         162427,
         162428,
-        162429
+        162429,
+        162430,
+        162431
       ],
-      "sent_count": 329
+      "sent_count": 330
     },
     "dr_salamatx": {
-      "last_id": 55316,
+      "last_id": 55317,
       "processed_ids": [
         55270,
         55271,
@@ -4268,9 +4284,10 @@
         55313,
         55314,
         55315,
-        55316
+        55316,
+        55317
       ],
-      "sent_count": 30
+      "sent_count": 31
     },
     "jaleb": {
       "last_id": 52521,
@@ -4945,7 +4962,7 @@
       "sent_count": 15
     },
     "scienticnews": {
-      "last_id": 22501,
+      "last_id": 22502,
       "processed_ids": [
         22458,
         22459,
@@ -4990,12 +5007,13 @@
         22498,
         22499,
         22500,
-        22501
+        22501,
+        22502
       ],
-      "sent_count": 24
+      "sent_count": 25
     },
     "ft360_ir": {
-      "last_id": 108530,
+      "last_id": 108531,
       "processed_ids": [
         107883,
         107884,
@@ -5616,12 +5634,13 @@
         108526,
         108528,
         108529,
-        108530
+        108530,
+        108531
       ],
       "sent_count": 34
     },
     "varzesh3": {
-      "last_id": 302966,
+      "last_id": 302967,
       "processed_ids": [
         302363,
         302364,
@@ -6157,12 +6176,13 @@
         302962,
         302963,
         302965,
-        302966
+        302966,
+        302967
       ],
       "sent_count": 20
     },
     "totalfut_plus": {
-      "last_id": 26220,
+      "last_id": 26221,
       "processed_ids": [
         25870,
         25871,
@@ -6508,12 +6528,13 @@
         26217,
         26218,
         26219,
-        26220
+        26220,
+        26221
       ],
       "sent_count": 12
     },
     "adak_ir_official": {
-      "last_id": 234345,
+      "last_id": 234348,
       "processed_ids": [
         233831,
         233833,
@@ -7027,12 +7048,15 @@
         234342,
         234343,
         234344,
-        234345
+        234345,
+        234346,
+        234347,
+        234348
       ],
       "sent_count": 40
     },
     "futball180tv": {
-      "last_id": 107421,
+      "last_id": 107423,
       "processed_ids": [
         106848,
         106849,
@@ -7597,12 +7621,14 @@
         107418,
         107419,
         107420,
-        107421
+        107421,
+        107422,
+        107423
       ],
       "sent_count": 10
     },
     "hattric_official": {
-      "last_id": 83886,
+      "last_id": 83887,
       "processed_ids": [
         83433,
         83434,
@@ -8021,7 +8047,8 @@
         83883,
         83884,
         83885,
-        83886
+        83886,
+        83887
       ],
       "sent_count": 17
     },
@@ -8343,10 +8370,13 @@
       "sent_count": 28
     },
     "razcom": {
-      "last_id": 70449,
+      "last_id": 70452,
       "processed_ids": [
         70448,
-        70449
+        70449,
+        70450,
+        70451,
+        70452
       ],
       "sent_count": 0
     },
@@ -8363,7 +8393,7 @@
       "sent_count": 3
     },
     "gilin_gilin": {
-      "last_id": 283828,
+      "last_id": 283831,
       "processed_ids": [
         283735,
         283736,
@@ -8452,7 +8482,10 @@
         283825,
         283826,
         283827,
-        283828
+        283828,
+        283829,
+        283830,
+        283831
       ],
       "sent_count": 48
     },
@@ -8462,7 +8495,7 @@
       "sent_count": 0
     },
     "kafiha": {
-      "last_id": 460849,
+      "last_id": 460851,
       "processed_ids": [
         460646,
         460647,
@@ -8639,9 +8672,11 @@
         460844,
         460847,
         460848,
-        460849
+        460849,
+        460850,
+        460851
       ],
-      "sent_count": 145
+      "sent_count": 147
     },
     "asrare_movafaghiyat": {
       "last_id": 3,
@@ -8661,7 +8696,7 @@
       "sent_count": 0
     },
     "serfan_jahate_ettela": {
-      "last_id": 569202,
+      "last_id": 569203,
       "processed_ids": [
         569057,
         569058,
@@ -8786,9 +8821,10 @@
         569199,
         569200,
         569201,
-        569202
+        569202,
+        569203
       ],
-      "sent_count": 73
+      "sent_count": 74
     },
     "khandehabadd": {
       "last_id": 306604,
@@ -8922,141 +8958,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "31a3157c00731bed4662003afb4a2b41218c03944cd88a537f673ea531875560",
-        "media_fingerprint": "adc000000c0332dc9089a65052bb9a2a8a8a324ea124078109a87cbff953599c",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26070",
-        "post_id": 26070,
-        "message_id": 2528,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-09-25T17:53:27.390642+00:00"
-      },
-      {
-        "fingerprint": "2dec6167a94f053c183156580a1755121ec6feb7784c92c7def2b105bd67ee6c",
-        "media_fingerprint": "",
-        "text": "🌐\nاختلال در مسیرهای بین‌الملل عبوری از روسیه برطرف شد\n🌐\nمعاون وزیر ارتباطات و مدیرعامل شرکت ارتباطات زیرساخت، از رفع اختلال در بخشی از مسیرهای ارتباطی بین‌الملل عبوری از روسیه خبر داد و اعلام کرد که وضعیت لینک‌های بین‌الملل به حالت عادی بازگشته است.\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🌐\nاختلال در مسیرهای بین‌الملل عبوری از روسیه برطرف شد\n🌐\nمعاون وزیر ارتباطات و مدیرعامل شرکت ارتباطات زیرساخت، از رفع اختلال در بخشی از مسیرهای ارتباطی بین‌الملل عبوری از روسیه خبر داد و اعلام کرد که وضعیت لینک‌های بین‌الملل به حالت عادی بازگشته است.\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22658",
-        "post_id": 22658,
-        "message_id": 2529,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-09-25T17:53:30.359317+00:00"
-      },
-      {
-        "fingerprint": "36e59e73da602cae19feae1fb4dad6fd286c95a7a7700229c248732880e3cea0",
-        "media_fingerprint": "",
-        "text": "آرزو میکنم\nیک‌ نفر که خیلی دوستش داری\nتو را به نامِ کوچکت صدا کند...!\n@comentiat",
-        "original_username": "comentiat",
-        "original_text": "آرزو میکنم\nیک‌ نفر که خیلی دوستش داری\nتو را به نامِ کوچکت صدا کند...!\n@comentiat",
-        "original_link": "https://t.me/Comentiat/26071",
-        "post_id": 26071,
-        "message_id": 2530,
-        "message_kind": "text",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-09-25T17:53:32.946432+00:00"
-      },
-      {
-        "fingerprint": "8bf2d7aab16816dce2e1d59d31d24badf0b833cee145d665d6d8442abff5b350",
-        "media_fingerprint": "",
-        "text": "♦️\nحال عمومی ۲ کارشناس آسیب‌دیده اورژانس شیراز مساعد است  رئیس مرکز اورژانس فارس:\n🔹\nپس از انجام اقدامات درمانی و با بهبود وضعیت جسمی، یکی از کارشناس از بیمارستان مرخص  و دیگری روند درمان آن ادامه دارد.\n🔹\nافراد درگیر در این حادثه بازداشت شده‌اند و مرکز اورژانس…",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nحال عمومی ۲ کارشناس آسیب‌دیده اورژانس شیراز مساعد است  رئیس مرکز اورژانس فارس:\n🔹\nپس از انجام اقدامات درمانی و با بهبود وضعیت جسمی، یکی از کارشناس از بیمارستان مرخص  و دیگری روند درمان آن ادامه دارد.\n🔹\nافراد درگیر در این حادثه بازداشت شده‌اند و مرکز اورژانس…",
-        "original_link": "https://t.me/akhbarfars/142447",
-        "post_id": 142447,
-        "message_id": 2531,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-25T17:53:36.000897+00:00"
-      },
-      {
-        "fingerprint": "c5ed28db839ca46ee6467a9c088f05691920e86a4680f527d15f091a6e6d9037",
-        "media_fingerprint": "8c0638d527ca5d903f7660d65ebbc6c2ab3123bad746c4c0cf5caab6b70bf8c2",
-        "text": "🔴\nادعای یه پزشک کودکان:\nامروز تو بخش اورژانس، یه دختربچه 4 ساله رو با خون‌ریزیِ واژینال آوردن!\nاین بچه با پدرش و دوستِ پدرش تو خونه تنها بوده.\nتجاوز واسه ما مشهوده ولی پدرش آورده میگه بچه افتاده روی جاروبرقی و آسیب دیده!\nما که واسه بررسی‌های قانونی فرستاديم به مراجع مربوطه ولی شما لطفا بچه‌هاتون رو با هیچکسی تنها نذارید...\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nادعای یه پزشک کودکان:\nامروز تو بخش اورژانس، یه دختربچه 4 ساله رو با خون‌ریزیِ واژینال آوردن!\nاین بچه با پدرش و دوستِ پدرش تو خونه تنها بوده.\nتجاوز واسه ما مشهوده ولی پدرش آورده میگه بچه افتاده روی جاروبرقی و آسیب دیده!\nما که واسه بررسی‌های قانونی فرستاديم به مراجع مربوطه ولی شما لطفا بچه‌هاتون رو با هیچکسی تنها نذارید...\n@DrTeL",
-        "original_link": "https://t.me/drtel/66949",
-        "post_id": 66949,
-        "message_id": 2532,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-09-25T18:18:06.831603+00:00"
-      },
-      {
-        "fingerprint": "f89ef2809b7e70d99da5a6a99b663c129691639713718377b2df51a724506b8a",
-        "media_fingerprint": "22140e2856c77a13930fa8ad55e75278334233ddf0ecaa920e250f7136258571",
-        "text": "‼️\n⚽\n⚽\nحسین گودرزی، بازیکن استقلال: آنقدر استقلالی دو آتیشه هستم، که به خاطر گل زدن استقلال به پرسپولیس، کتری آب‌جوش رو روی پرسپولیسی‌ها ریختم!\n⚽️\n@Hattric_Official",
-        "original_username": "hattric_official",
-        "original_text": "‼️\n⚽\n⚽\nحسین گودرزی، بازیکن استقلال: آنقدر استقلالی دو آتیشه هستم، که به خاطر گل زدن استقلال به پرسپولیس، کتری آب‌جوش رو روی پرسپولیسی‌ها ریختم!\n⚽️\n@Hattric_Official",
-        "original_link": "https://t.me/Hattric_Official/83776",
-        "post_id": 83776,
-        "message_id": 2533,
-        "message_kind": "caption",
-        "sources": [
-          "hattric_official"
-        ],
-        "created_at": "2026-09-25T18:18:13.387975+00:00"
-      },
-      {
-        "fingerprint": "de48689f44dfc1a13b78483b3f8ef82423c6c2fba1ca5a82f89720d21565c573",
-        "media_fingerprint": "",
-        "text": "🎖️\n🏅\nحسین گودرزی: انقدر استقلالی ام که به خاطر گل استقلال به پرسپولیس کتری آب جوش روی پرسپولیسیا ریختم!\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_username": "totalfut_plus",
-        "original_text": "🎖️\n🏅\nحسین گودرزی: انقدر استقلالی ام که به خاطر گل استقلال به پرسپولیس کتری آب جوش روی پرسپولیسیا ریختم!\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_link": "https://t.me/totalfut_plus/26121",
-        "post_id": 26121,
-        "message_id": 2534,
-        "message_kind": "text",
-        "sources": [
-          "totalfut_plus"
-        ],
-        "created_at": "2026-09-25T18:18:16.210504+00:00"
-      },
-      {
-        "fingerprint": "d8f3f6666f3ca068e2423a13ec218df1dd156fc09a13d53ebb5247b2ef80a8f5",
-        "media_fingerprint": "",
-        "text": "♦️\nجزئیات جدید از مذاکرات ایران و آمریکا به روایت مشاور محسن رضایی: آمریکا فعلا طرح ایران را نپذیرفته/ پیشرفت ملموسی در مذاکرات حاصل نشده\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nجزئیات جدید از مذاکرات ایران و آمریکا به روایت مشاور محسن رضایی: آمریکا فعلا طرح ایران را نپذیرفته/ پیشرفت ملموسی در مذاکرات حاصل نشده\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142448",
-        "post_id": 142448,
-        "message_id": 2535,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-25T18:18:18.995700+00:00"
-      },
-      {
-        "fingerprint": "09c7e604ddf8dda652d75c5fa12601bac7ed6813fd16a0814124147b7eecdaff",
-        "media_fingerprint": "",
-        "text": "💘\n💘\n💘\n💘\n💘\n💘\n⛔\nالکی میزنن اختلال تو نت کشور\n🙄\nنمیگن اتصال هاشون ب مویی بنده\n🔉\nلازمه باز اعلام کنیم :\n📘\nهر وقت همه چی قطع شد بیاین سراغ ما ؟؟\nحتی شما فروشنده عزیز\n💪\n✅\nبات اختصاصی فروش\n🎁\n@EtesalBank_bot\nلینک کانال\n👇\nhttps://t.me/+bU9zf3drf8E5OGU0",
-        "original_username": "footballvision2",
-        "original_text": "💘\n💘\n💘\n💘\n💘\n💘\n⛔\nالکی میزنن اختلال تو نت کشور\n🙄\nنمیگن اتصال هاشون ب مویی بنده\n🔉\nلازمه باز اعلام کنیم :\n📘\nهر وقت همه چی قطع شد بیاین سراغ ما ؟؟\nحتی شما فروشنده عزیز\n💪\n✅\nبات اختصاصی فروش\n🎁\n@EtesalBank_bot\nلینک کانال\n👇\nhttps://t.me/+bU9zf3drf8E5OGU0",
-        "original_link": "https://t.me/footballvision2/169465",
-        "post_id": 169465,
-        "message_id": 2536,
-        "message_kind": "text",
-        "sources": [
-          "footballvision2"
-        ],
-        "created_at": "2026-09-25T18:36:56.605767+00:00"
-      },
       {
         "fingerprint": "cc0f832712995a4e30c5b6c1e9775be039541f70e6ef3c4cbd682f5bf288a64d",
         "media_fingerprint": "ed7ba726d054ba19f4d5d828c5622d47f9fdfb68b8114603267d014f9f4e1d72",
@@ -16861,7 +16762,8 @@
         "message_id": 3091,
         "message_kind": "caption",
         "sources": [
-          "gizmiztel"
+          "gizmiztel",
+          "razcom"
         ],
         "created_at": "2026-09-27T12:48:30.197320+00:00"
       },
@@ -23995,6 +23897,141 @@
           "yejoorayi"
         ],
         "created_at": "2026-09-28T11:27:42.099702+00:00"
+      },
+      {
+        "fingerprint": "e940b1251b2e8e1e3fbde4297f1118e863bb0c4bf7b51b5e1f8c5c3c27a5ce83",
+        "media_fingerprint": "f7706b9f846dd0a417afde86d7eda95d84b9498c5a22def0a1135ef7258b237e",
+        "text": "توی یکی از مراسم‌های عروسی در ایران، عروس یه دفعه تفنگ رو برداشت و این شکلی پشت هم شلیک می‌کرد!\nاز نگاه‌های داماد معلومه ریده به خودش ولی کمکی از دست کسی برنمیاد\n🤣\n1991\n@kafiha",
+        "original_username": "kafiha",
+        "original_text": "توی یکی از مراسم‌های عروسی در ایران، عروس یه دفعه تفنگ رو برداشت و این شکلی پشت هم شلیک می‌کرد!\nاز نگاه‌های داماد معلومه ریده به خودش ولی کمکی از دست کسی برنمیاد\n🤣\n1991\n@kafiha",
+        "original_link": "https://t.me/kafiha/460850",
+        "post_id": 460850,
+        "message_id": 3588,
+        "message_kind": "caption",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-09-28T11:48:08.345032+00:00"
+      },
+      {
+        "fingerprint": "cfa7c4a16c78a421919a95c76864dccee980297e16e2a51c48fab3fe624e49ff",
+        "media_fingerprint": "862d6e58287b3b7b04eae8ddcfa0f96c743fd7d78bbf2bbaf1ee01d3727c8b5b",
+        "text": "🔹\nپازل فرش ایرانی از سخت ترین پازلاست:)\n🌐\n@ScienticNews",
+        "original_username": "scienticnews",
+        "original_text": "🔹\nپازل فرش ایرانی از سخت ترین پازلاست:)\n🌐\n@ScienticNews",
+        "original_link": "https://t.me/ScienticNews/22502",
+        "post_id": 22502,
+        "message_id": 3589,
+        "message_kind": "caption",
+        "sources": [
+          "scienticnews"
+        ],
+        "created_at": "2026-09-28T11:48:12.591236+00:00"
+      },
+      {
+        "fingerprint": "03b4d3c8bfa36516f8da1067b3919bf1bb44898159fd884b7ed1926953de49e6",
+        "media_fingerprint": "da8e7394df1f2353147696f461942e260357ce0594bf087c2052401088da188f",
+        "text": "❌\nجدول مدالی آنلاین بازی‌های آسیایی ناگویا/ ایران با ۸ طلا در رده هفتم\n❤️\nصرفا جهت اطلاع:\n🟩\n@serfan_jahate_ettela\n🟦\ninstagram.com/serfanonline",
+        "original_username": "serfan_jahate_ettela",
+        "original_text": "❌\nجدول مدالی آنلاین بازی‌های آسیایی ناگویا/ ایران با ۸ طلا در رده هفتم\n❤️\nصرفا جهت اطلاع:\n🟩\n@serfan_jahate_ettela\n🟦\ninstagram.com/serfanonline",
+        "original_link": "https://t.me/serfan_jahate_ettela/569203",
+        "post_id": 569203,
+        "message_id": 3590,
+        "message_kind": "caption",
+        "sources": [
+          "serfan_jahate_ettela"
+        ],
+        "created_at": "2026-09-28T11:48:16.690255+00:00"
+      },
+      {
+        "fingerprint": "2eaf7ababb72f866580bb0a57fc3b5385f5d2bc5d3688b059c81b39a29647bc1",
+        "media_fingerprint": "8ddf234b6867203e69807e732ddeeeae346f713dbcc3dfd0589abaa5bdc36928",
+        "text": "بیژن مرتضوی : خبر برگشتم به ایران دروغه\nخبر بازگشت من به ایران دروغه. این بهمن بابازاده که این خبر رو پخش کرده کارش کلا دروغ گفتنه. چند سال پیش هم این حرکت رو زده بود و من تذکر دادم ولی انگار حالیش نیست.\nاگه من برگشته بودم حداقل باید یه عکسی یا یه فیلمی تو فرودگاه می گرفتم. هر چند، آرزومه که یه روز دوباره برگردم\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "بیژن مرتضوی : خبر برگشتم به ایران دروغه\nخبر بازگشت من به ایران دروغه. این بهمن بابازاده که این خبر رو پخش کرده کارش کلا دروغ گفتنه. چند سال پیش هم این حرکت رو زده بود و من تذکر دادم ولی انگار حالیش نیست.\nاگه من برگشته بودم حداقل باید یه عکسی یا یه فیلمی تو فرودگاه می گرفتم. هر چند، آرزومه که یه روز دوباره برگردم\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162430",
+        "post_id": 162430,
+        "message_id": 3591,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-09-28T11:48:23.701764+00:00"
+      },
+      {
+        "fingerprint": "f4bf5e5d313910e5603505535196cd5fee1778fcedb2ad5fde528d7c2cab68f4",
+        "media_fingerprint": "34c9a7b48ca8e25ed31fd628f14ca8daa607564333e98fd5aae2e2967f446817",
+        "text": "🏠\nخریدهای خانه هم می‌توانند عضلاتت را به کار بگیرند\n🏋️‍♀️\nفعالیت بدنی فقط روی تردمیل اتفاق نمی‌افتد. جابه‌جایی کنترل‌شده وسایل، بالا رفتن از پله و فعالیت‌های روزمره می‌توانند بدن را از بی‌تحرکی خارج کنند؛ اما برای دریافت فواید کامل‌تر، بزرگسالان همچنان به ترکیبی از فعالیت هوازی و تمرین تقویت عضلات در طول هفته نیاز دارند.\n🌐\nwww.cdc.gov\n#ورزش_و_تندرستی\n#تحرک_روزانه\n🖥\n@Dr_SalamatX",
+        "original_username": "dr_salamatx",
+        "original_text": "🏠\nخریدهای خانه هم می‌توانند عضلاتت را به کار بگیرند\n🏋️‍♀️\nفعالیت بدنی فقط روی تردمیل اتفاق نمی‌افتد. جابه‌جایی کنترل‌شده وسایل، بالا رفتن از پله و فعالیت‌های روزمره می‌توانند بدن را از بی‌تحرکی خارج کنند؛ اما برای دریافت فواید کامل‌تر، بزرگسالان همچنان به ترکیبی از فعالیت هوازی و تمرین تقویت عضلات در طول هفته نیاز دارند.\n🌐\nwww.cdc.gov\n#ورزش_و_تندرستی\n#تحرک_روزانه\n🖥\n@Dr_SalamatX",
+        "original_link": "https://t.me/Dr_SalamatX/55317",
+        "post_id": 55317,
+        "message_id": 3592,
+        "message_kind": "caption",
+        "sources": [
+          "dr_salamatx"
+        ],
+        "created_at": "2026-09-28T11:48:28.518320+00:00"
+      },
+      {
+        "fingerprint": "dbeadb84cc307bd2db5a8120cc4367e5c3877c5cdfe19f03c063f7730b7feb5b",
+        "media_fingerprint": "c21181cbf85c71daeb070209cb58b60a8bdd0bb25fa3bdb5a9b7f563b1ee43f3",
+        "text": "🔴\nامروز 28 September، روزِ خانواده‌ست.\n+این روز رو به آدمای عزیز زندگیت تبریک بگو؛\nچه هم‌خونت باشن، چه نباشن...\nبه اونایی که تو این همه سختی و مشکلی که داریم کنار هم ازشون می‌گذریم، هنوز کنارت موندن و باعث می‌شن دنیا برات یه ذره قشنگ‌تر و قابل‌تحمل‌تر باشه؛ آدمایی که شاید هم‌خونت نباشن، ولی واقعاً برات عین خانواده‌ان\n❤️\n@DrTeL\n| Holidays and Observances",
+        "original_username": "drtel",
+        "original_text": "🔴\nامروز 28 September، روزِ خانواده‌ست.\n+این روز رو به آدمای عزیز زندگیت تبریک بگو؛\nچه هم‌خونت باشن، چه نباشن...\nبه اونایی که تو این همه سختی و مشکلی که داریم کنار هم ازشون می‌گذریم، هنوز کنارت موندن و باعث می‌شن دنیا برات یه ذره قشنگ‌تر و قابل‌تحمل‌تر باشه؛ آدمایی که شاید هم‌خونت نباشن، ولی واقعاً برات عین خانواده‌ان\n❤️\n@DrTeL\n| Holidays and Observances",
+        "original_link": "https://t.me/drtel/67038",
+        "post_id": 67038,
+        "message_id": 3593,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-09-28T11:48:34.642638+00:00"
+      },
+      {
+        "fingerprint": "2e46ed7b14076d4fa8ce9b9d43a3c92aa3e28f55441fdce99032efd298e1338e",
+        "media_fingerprint": "074528bb491b8591e79d546e96dad58cdf298caccf13f61505c4751d6aed2c5d",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26135",
+        "post_id": 26135,
+        "message_id": 3594,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-09-28T11:48:39.410648+00:00"
+      },
+      {
+        "fingerprint": "5d2e4058d38db63806c99ee2cb55cdd3925531c3884d16e6c63f6260d231ee57",
+        "media_fingerprint": "4c9f9f4b4a522daf85bcf9cc45f2ef42377cd5cc9dea8143ce3bdd8bf31d6c06",
+        "text": "تو امریکا میخواد آب بخوره معذرت خواهی میکنه چون تو ایران ماه‌رمضونه و روزه‌میگیرن\n😂\n😭\nآخه پسرررر\n💬\nجَزمین\n1991\n@kafiha",
+        "original_username": "kafiha",
+        "original_text": "تو امریکا میخواد آب بخوره معذرت خواهی میکنه چون تو ایران ماه‌رمضونه و روزه‌میگیرن\n😂\n😭\nآخه پسرررر\n💬\nجَزمین\n1991\n@kafiha",
+        "original_link": "https://t.me/kafiha/460851",
+        "post_id": 460851,
+        "message_id": 3596,
+        "message_kind": "caption",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-09-28T11:48:44.910307+00:00"
+      },
+      {
+        "fingerprint": "55f15cafd871fe9a3b6745a403c9a03d8a0c201eee8ee9df97e6dbda0cd0fb56",
+        "media_fingerprint": "",
+        "text": "🔺️\n🔻\nعبور کرونا از آستانه هشدار بالا\n🔹️\nمرکز مدیریت بیماری‌های واگیر وزارت بهداشت، آخرین وضعیت موارد عفونت‌های تنفسی در هفته بیست‌وهفتم سال را اعلام کرد و از استمرار افزایش بروز موارد کرونا خبر داد و بر رعایت موازین بهداشتی تاکید کرد.",
+        "original_username": "fars_today",
+        "original_text": "🔺️\n🔻\nعبور کرونا از آستانه هشدار بالا\n🔹️\nمرکز مدیریت بیماری‌های واگیر وزارت بهداشت، آخرین وضعیت موارد عفونت‌های تنفسی در هفته بیست‌وهفتم سال را اعلام کرد و از استمرار افزایش بروز موارد کرونا خبر داد و بر رعایت موازین بهداشتی تاکید کرد.",
+        "original_link": "https://t.me/Fars_today/132066",
+        "post_id": 132066,
+        "message_id": 3597,
+        "message_kind": "text",
+        "sources": [
+          "fars_today"
+        ],
+        "created_at": "2026-09-28T11:48:47.912877+00:00"
       }
     ]
   }
