@@ -1266,7 +1266,7 @@
       "sent_count": 32
     },
     "footballvision2": {
-      "last_id": 169734,
+      "last_id": 169735,
       "processed_ids": [
         168857,
         168858,
@@ -2108,7 +2108,8 @@
         169731,
         169732,
         169733,
-        169734
+        169734,
+        169735
       ],
       "sent_count": 43
     },
@@ -3123,7 +3124,7 @@
       "sent_count": 49
     },
     "roidbest": {
-      "last_id": 21719,
+      "last_id": 21720,
       "processed_ids": [
         21613,
         21614,
@@ -3227,9 +3228,10 @@
         21716,
         21717,
         21718,
-        21719
+        21719,
+        21720
       ],
-      "sent_count": 67
+      "sent_count": 68
     },
     "akhbar_cafenet": {
       "last_id": 22769,
@@ -9808,22 +9810,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "eae0338e51764469e27625808c0f101ee387617c236b24d7901840d5fd71ed58",
-        "media_fingerprint": "b749c3e2c287cc008436b3593f6984fcabcce68748b527b2769dcb768d67baad",
-        "text": "دکتر بیرانوند روز اول خدمت\n😂\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "دکتر بیرانوند روز اول خدمت\n😂\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162352",
-        "post_id": 162352,
-        "message_id": 2864,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel",
-          "gilin_gilin"
-        ],
-        "created_at": "2026-09-26T21:34:18.322936+00:00"
-      },
       {
         "fingerprint": "fae3f290dc9897aebc5d1c6c08b1b5dba72c53c726b477a0f2a0bf04be667a7d",
         "media_fingerprint": "f4875c1b3f5090a48b195e42780eec0c7f4e85550d2679b8e9a8e3b04cbb1fd1",
@@ -24916,6 +24902,21 @@
           "comentiat"
         ],
         "created_at": "2026-09-28T23:51:45.511058+00:00"
+      },
+      {
+        "fingerprint": "f044bc4bc2a57653a1019751cdcae36b77e8fb88a48078b8e15da7fa669443b0",
+        "media_fingerprint": "eca5e0616a986ba010a053bca7bfc0da3059081479b3c0afc94f9cf60777520f",
+        "text": "قیمت هر تتر به نزدیکی ۲۵۰ هزار تومان رسید.\n@RoidBest",
+        "original_username": "roidbest",
+        "original_text": "قیمت هر تتر به نزدیکی ۲۵۰ هزار تومان رسید.\n@RoidBest",
+        "original_link": "https://t.me/RoidBest/21720",
+        "post_id": 21720,
+        "message_id": 3920,
+        "message_kind": "caption",
+        "sources": [
+          "roidbest"
+        ],
+        "created_at": "2026-09-29T03:55:20.776877+00:00"
       }
     ]
   }
