@@ -1356,10 +1356,8 @@
       "sent_count": 35
     },
     "footballvision2": {
-      "last_id": 169904,
+      "last_id": 169906,
       "processed_ids": [
-        168863,
-        168864,
         168865,
         168866,
         168867,
@@ -2357,7 +2355,9 @@
         169901,
         169902,
         169903,
-        169904
+        169904,
+        169905,
+        169906
       ],
       "sent_count": 54
     },
@@ -2512,7 +2512,7 @@
       "sent_count": 5
     },
     "drtel": {
-      "last_id": 67110,
+      "last_id": 67111,
       "processed_ids": [
         66561,
         66565,
@@ -2952,9 +2952,10 @@
         67106,
         67107,
         67108,
-        67110
+        67110,
+        67111
       ],
-      "sent_count": 260
+      "sent_count": 261
     },
     "techtube": {
       "last_id": 18376,
@@ -3548,7 +3549,7 @@
       "sent_count": 75
     },
     "akhbar_cafenet": {
-      "last_id": 22792,
+      "last_id": 22793,
       "processed_ids": [
         22432,
         22433,
@@ -3901,12 +3902,13 @@
         22789,
         22790,
         22791,
-        22792
+        22792,
+        22793
       ],
       "sent_count": 214
     },
     "comentiat": {
-      "last_id": 26175,
+      "last_id": 26176,
       "processed_ids": [
         25844,
         25845,
@@ -4176,9 +4178,10 @@
         26171,
         26172,
         26173,
-        26175
+        26175,
+        26176
       ],
-      "sent_count": 180
+      "sent_count": 181
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -4188,7 +4191,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38553,
+      "last_id": 38554,
       "processed_ids": [
         38432,
         38433,
@@ -4311,7 +4314,8 @@
         38550,
         38551,
         38552,
-        38553
+        38553,
+        38554
       ],
       "sent_count": 81
     },
@@ -5789,7 +5793,7 @@
       "sent_count": 28
     },
     "ft360_ir": {
-      "last_id": 108679,
+      "last_id": 108682,
       "processed_ids": [
         107883,
         107884,
@@ -6554,12 +6558,15 @@
         108676,
         108677,
         108678,
-        108679
+        108679,
+        108680,
+        108681,
+        108682
       ],
       "sent_count": 44
     },
     "varzesh3": {
-      "last_id": 303076,
+      "last_id": 303078,
       "processed_ids": [
         302363,
         302364,
@@ -7200,7 +7207,9 @@
         303072,
         303074,
         303075,
-        303076
+        303076,
+        303077,
+        303078
       ],
       "sent_count": 26
     },
@@ -7606,7 +7615,7 @@
       "sent_count": 15
     },
     "adak_ir_official": {
-      "last_id": 234434,
+      "last_id": 234436,
       "processed_ids": [
         233831,
         233833,
@@ -8206,12 +8215,14 @@
         234431,
         234432,
         234433,
-        234434
+        234434,
+        234435,
+        234436
       ],
-      "sent_count": 50
+      "sent_count": 51
     },
     "futball180tv": {
-      "last_id": 107517,
+      "last_id": 107518,
       "processed_ids": [
         106848,
         106849,
@@ -8870,12 +8881,13 @@
         107514,
         107515,
         107516,
-        107517
+        107517,
+        107518
       ],
       "sent_count": 19
     },
     "hattric_official": {
-      "last_id": 84004,
+      "last_id": 84005,
       "processed_ids": [
         83433,
         83434,
@@ -9410,7 +9422,8 @@
         84000,
         84001,
         84002,
-        84004
+        84004,
+        84005
       ],
       "sent_count": 31
     },
@@ -9870,7 +9883,7 @@
       "sent_count": 7
     },
     "gilin_gilin": {
-      "last_id": 283973,
+      "last_id": 283974,
       "processed_ids": [
         283735,
         283736,
@@ -10095,9 +10108,10 @@
         283970,
         283971,
         283972,
-        283973
+        283973,
+        283974
       ],
-      "sent_count": 113
+      "sent_count": 114
     },
     "tvnavad": {
       "last_id": 0,
@@ -10105,7 +10119,7 @@
       "sent_count": 0
     },
     "kafiha": {
-      "last_id": 461089,
+      "last_id": 461091,
       "processed_ids": [
         460646,
         460647,
@@ -10487,9 +10501,11 @@
         461086,
         461087,
         461088,
-        461089
+        461089,
+        461090,
+        461091
       ],
-      "sent_count": 293
+      "sent_count": 294
     },
     "asrare_movafaghiyat": {
       "last_id": 3,
@@ -10690,7 +10706,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306638,
+      "last_id": 306640,
       "processed_ids": [
         306563,
         306564,
@@ -10765,7 +10781,9 @@
         306635,
         306636,
         306637,
-        306638
+        306638,
+        306639,
+        306640
       ],
       "sent_count": 31
     },
@@ -10880,7 +10898,7 @@
       "sent_count": 17
     },
     "onlinecofe_ir": {
-      "last_id": 2801,
+      "last_id": 2802,
       "processed_ids": [
         2781,
         2782,
@@ -10902,103 +10920,14 @@
         2798,
         2799,
         2800,
-        2801
+        2801,
+        2802
       ],
-      "sent_count": 7
+      "sent_count": 8
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "ff070aaae0f62c294659b0dee439dfc66350d271e6b97819cd11921c7d391315",
-        "media_fingerprint": "660c44f3254d58fbb6fdb5f69df5078a934edc86d2576d491db5cf41cd35704a",
-        "text": "این ویدیو خیلی جالبه، راجب اینکه چرا دیگه خوشحال نیستیم:\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "این ویدیو خیلی جالبه، راجب اینکه چرا دیگه خوشحال نیستیم:\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/306585",
-        "post_id": 306585,
-        "message_id": 3269,
-        "message_kind": "caption",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-09-27T18:05:41.979460+00:00"
-      },
-      {
-        "fingerprint": "ccae4922d32a49e193ec4be046190d90b89e2363bd756bbb43a404733007c864",
-        "media_fingerprint": "",
-        "text": "یادت باشه!\nاون دیواری که من بینمون ساختم\nآجراشو تو خودت بهم دادی.\nLidia\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": "یادت باشه!\nاون دیواری که من بینمون ساختم\nآجراشو تو خودت بهم دادی.\nLidia\n@kafiha",
-        "original_link": "https://t.me/kafiha/460751",
-        "post_id": 460751,
-        "message_id": 3270,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-27T18:05:44.828582+00:00"
-      },
-      {
-        "fingerprint": "a455508369797a24d318a3fe4b257da2a1f642c931fd25ea33e09988cd760ff9",
-        "media_fingerprint": "c79334657f9dadfe292d8de2e0b3daaef4de72fd9a3f1d2c9b73b1d268276daf",
-        "text": "🦁\nقیمت بیت‌کوین به ۲۰ میلیارد تومان رسید\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🦁\nقیمت بیت‌کوین به ۲۰ میلیارد تومان رسید\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22739",
-        "post_id": 22739,
-        "message_id": 3271,
-        "message_kind": "caption",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-09-27T18:05:48.975372+00:00"
-      },
-      {
-        "fingerprint": "23b7c56d9ecb1a2d38f76d857351a4dd7f0ae137c9b0eec4aab58e253228e4b6",
-        "media_fingerprint": "9d9ccd244ede9d148f6446bc8d087f1f92d1438481fb90d5754bcbffad01d57c",
-        "text": "کفش کروکدیل ۲میلیارد!!\n😐\nیکی کامنت گزاشته: داداش بعد پوشیدنش باید بهش غذا بدیم؟!\n@Gilin",
-        "original_username": "gilin_gilin",
-        "original_text": "کفش کروکدیل ۲میلیارد!!\n😐\nیکی کامنت گزاشته: داداش بعد پوشیدنش باید بهش غذا بدیم؟!\n@Gilin",
-        "original_link": "https://t.me/Gilin_Gilin/283780",
-        "post_id": 283780,
-        "message_id": 3272,
-        "message_kind": "caption",
-        "sources": [
-          "gilin_gilin"
-        ],
-        "created_at": "2026-09-27T18:05:57.334982+00:00"
-      },
-      {
-        "fingerprint": "9382d326a9016307464aa3e83e470644ec37f7f2291afc4b58a6d19903fb0f6f",
-        "media_fingerprint": "",
-        "text": "به پرسپولیس اعلام کرده حاضر",
-        "original_username": "adak_ir_official",
-        "original_text": "به پرسپولیس اعلام کرده حاضر",
-        "original_link": "https://t.me/ADAK_IR_official/234314",
-        "post_id": 234314,
-        "message_id": 3273,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-09-27T18:05:59.979041+00:00"
-      },
-      {
-        "fingerprint": "e0fa5d69a5a666ec8eabe5a4a6cb0c163cb65944c56dccfa4242a7618c3957eb",
-        "media_fingerprint": "d15e18aca9fa21af8862f7b58ddc3633bb8f14d1f7f62f4852014f259ed8cd26",
-        "text": "خرید جدید چادرملو از آمریکای جنوبی\n✅\nرسمی: محصول آکادمی اینتر در لیگ برتر ایران\n🔸\nرودریگو آلبورنو، مدافع چپ اهل پاراگوئه با امضای قراردادی به چادرملو اردکان پیوست.\n🔸\nاین مدافع ۳۳ ساله سابقه حضور در آکادمی اینتر را در کارنامه دارد.\n👀\nآلبورنو همچنین در لیگ پاراگوئه برای لیبرتاد، گوارانی، ریورپلاته و روبیو به میدان رفته است.\n@Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "خرید جدید چادرملو از آمریکای جنوبی\n✅\nرسمی: محصول آکادمی اینتر در لیگ برتر ایران\n🔸\nرودریگو آلبورنو، مدافع چپ اهل پاراگوئه با امضای قراردادی به چادرملو اردکان پیوست.\n🔸\nاین مدافع ۳۳ ساله سابقه حضور در آکادمی اینتر را در کارنامه دارد.\n👀\nآلبورنو همچنین در لیگ پاراگوئه برای لیبرتاد، گوارانی، ریورپلاته و روبیو به میدان رفته است.\n@Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/108488",
-        "post_id": 108488,
-        "message_id": 3274,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-09-27T18:06:05.896026+00:00"
-      },
       {
         "fingerprint": "516e34fd404af97acda43e325787d2fe348dc6244d47fa825cc2217f16ea53b2",
         "media_fingerprint": "06caea522b569d6aea3adfdface4b48a98c7b673f99d253dd552003d7ee3ae14",
@@ -26044,6 +25973,96 @@
           "gilin_gilin"
         ],
         "created_at": "2026-09-29T18:50:45.971283+00:00"
+      },
+      {
+        "fingerprint": "d986f4969b648ee90a201222beaece26e760e95b5ef704acccae4a808721ea43",
+        "media_fingerprint": "",
+        "text": "نتیجه بازی/روسیه 2 _ 0 ایران\nیک نمایش ناامید کننده دیگر از تیم ملل؛ با«مدل بازی متفاوت» هم باختیم!\nدر حالی که امیر قلعه‌نویی وعده داده بود تیم ملی با مدلی متفاوت برابر روسیه به میدان می‌رود اما نمایش تیم ملی همان همیشگی بود؛ نگران کننده و ناامید کننده.\nگل‌ها:  آلکساندر گولووین( 37 ، 21)\n@Gilin",
+        "original_username": "gilin_gilin",
+        "original_text": "نتیجه بازی/روسیه 2 _ 0 ایران\nیک نمایش ناامید کننده دیگر از تیم ملل؛ با«مدل بازی متفاوت» هم باختیم!\nدر حالی که امیر قلعه‌نویی وعده داده بود تیم ملی با مدلی متفاوت برابر روسیه به میدان می‌رود اما نمایش تیم ملی همان همیشگی بود؛ نگران کننده و ناامید کننده.\nگل‌ها:  آلکساندر گولووین( 37 ، 21)\n@Gilin",
+        "original_link": "https://t.me/Gilin_Gilin/283974",
+        "post_id": 283974,
+        "message_id": 4325,
+        "message_kind": "text",
+        "sources": [
+          "gilin_gilin"
+        ],
+        "created_at": "2026-09-29T19:05:24.969141+00:00"
+      },
+      {
+        "fingerprint": "5fc4ef3008b725637cb4024b0503516806218e86adb6a6e4c4ed6694f7c66ea7",
+        "media_fingerprint": "",
+        "text": "هنوز مملکت اونقدر بی در و پیکر نیست که دلار بشه ۱ تومن",
+        "original_username": "drtel",
+        "original_text": "هنوز مملکت اونقدر بی در و پیکر نیست که دلار بشه ۱ تومن",
+        "original_link": "https://t.me/drtel/67111",
+        "post_id": 67111,
+        "message_id": 4326,
+        "message_kind": "text",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-09-29T19:05:27.626662+00:00"
+      },
+      {
+        "fingerprint": "0a0f05ca7c338b3c67a22121b3cd08bfbfd7bb4743ef14eed5d16cf389cc0683",
+        "media_fingerprint": "",
+        "text": "⭕️\nاپلیکیشن شهرزاد برای احراز هویت شهروندان تهرانی\n🔗\nلینک دانلود\n✦✦✦ آنلاین کافه ✦✦✦\nکانال تلگرام :\n@onlinecofe_ir\nوبلاگ اخبار :\nonlinecofe.ir/news",
+        "original_username": "onlinecofe_ir",
+        "original_text": "⭕️\nاپلیکیشن شهرزاد برای احراز هویت شهروندان تهرانی\n🔗\nلینک دانلود\n✦✦✦ آنلاین کافه ✦✦✦\nکانال تلگرام :\n@onlinecofe_ir\nوبلاگ اخبار :\nonlinecofe.ir/news",
+        "original_link": "https://t.me/onlinecofe_ir/2802",
+        "post_id": 2802,
+        "message_id": 4327,
+        "message_kind": "text",
+        "sources": [
+          "onlinecofe_ir"
+        ],
+        "created_at": "2026-09-29T19:05:30.495154+00:00"
+      },
+      {
+        "fingerprint": "e34952bf88f9dfd1070fc425e9979fc3bbcac164c83958fcaa69ee5bb6ab131e",
+        "media_fingerprint": "",
+        "text": "فووووووری\n🔴\nباشگاه پرسپولیس سند مهمی",
+        "original_username": "adak_ir_official",
+        "original_text": "فووووووری\n🔴\nباشگاه پرسپولیس سند مهمی",
+        "original_link": "https://t.me/ADAK_IR_official/234436",
+        "post_id": 234436,
+        "message_id": 4328,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-09-29T19:05:33.365580+00:00"
+      },
+      {
+        "fingerprint": "7acee4c6b770d81f6c7b366f70eeb90581e30fbad97ce6da012806150b678d11",
+        "media_fingerprint": "0aba6726f8a70906f2582b9e6790d7ad292f45bc4060ffd716365ff45af1d99e",
+        "text": "درسته که به روسیه باختیم\nولی در عوضش میم جدید داریم\n😂\nLidia\n@kafiha",
+        "original_username": "kafiha",
+        "original_text": "درسته که به روسیه باختیم\nولی در عوضش میم جدید داریم\n😂\nLidia\n@kafiha",
+        "original_link": "https://t.me/kafiha/461091",
+        "post_id": 461091,
+        "message_id": 4329,
+        "message_kind": "caption",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-09-29T19:05:38.984664+00:00"
+      },
+      {
+        "fingerprint": "3780f9be180514be7eeb750db93ae715b4b78989ef13346119a25a3ca4d4126d",
+        "media_fingerprint": "52db66774b28a09fb2bbff21a6eacaf00804c8e398f85f579bdc9201c3d57549",
+        "text": "وقتی در انتها می‌فهمی این دنیا به درد توعه درونگرا نمی‌خوره&gt;\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "وقتی در انتها می‌فهمی این دنیا به درد توعه درونگرا نمی‌خوره&gt;\n@comentiat",
+        "original_link": "https://t.me/Comentiat/26176",
+        "post_id": 26176,
+        "message_id": 4330,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-09-29T19:05:44.883624+00:00"
       }
     ]
   }
