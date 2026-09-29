@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142675,
+      "last_id": 142676,
       "processed_ids": [
         141903,
         141904,
@@ -729,12 +729,13 @@
         142672,
         142673,
         142674,
-        142675
+        142675,
+        142676
       ],
-      "sent_count": 438
+      "sent_count": 439
     },
     "total_fut": {
-      "last_id": 236973,
+      "last_id": 236974,
       "processed_ids": [
         236405,
         236407,
@@ -1280,7 +1281,8 @@
         236969,
         236971,
         236972,
-        236973
+        236973,
+        236974
       ],
       "sent_count": 32
     },
@@ -2168,7 +2170,7 @@
       "sent_count": 3
     },
     "fars_today": {
-      "last_id": 132075,
+      "last_id": 132076,
       "processed_ids": [
         131975,
         131976,
@@ -2269,7 +2271,8 @@
         132072,
         132073,
         132074,
-        132075
+        132075,
+        132076
       ],
       "sent_count": 59
     },
@@ -5384,7 +5387,7 @@
       "sent_count": 25
     },
     "ft360_ir": {
-      "last_id": 108619,
+      "last_id": 108620,
       "processed_ids": [
         107883,
         107884,
@@ -6093,7 +6096,8 @@
         108616,
         108617,
         108618,
-        108619
+        108619,
+        108620
       ],
       "sent_count": 38
     },
@@ -7070,7 +7074,7 @@
       "sent_count": 13
     },
     "adak_ir_official": {
-      "last_id": 234388,
+      "last_id": 234389,
       "processed_ids": [
         233831,
         233833,
@@ -7627,7 +7631,8 @@
         234385,
         234386,
         234387,
-        234388
+        234388,
+        234389
       ],
       "sent_count": 46
     },
@@ -9331,7 +9336,7 @@
       "sent_count": 0
     },
     "kafiha": {
-      "last_id": 460971,
+      "last_id": 460973,
       "processed_ids": [
         460646,
         460647,
@@ -9619,9 +9624,11 @@
         460968,
         460969,
         460970,
-        460971
+        460971,
+        460972,
+        460973
       ],
-      "sent_count": 226
+      "sent_count": 228
     },
     "asrare_movafaghiyat": {
       "last_id": 3,
@@ -9996,51 +10003,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "244c8bf12df04b0ed6ec0934ee644e8523d7edac0ec76ad5f11fb6cc4d317f31",
-        "media_fingerprint": "c7b19c3bfb8d4025af88019d9afdea6f9f633da6b9e4474be09a43453d89ae18",
-        "text": "🎥\nشهروز ابراهیمی: به من انگ «زیر ابرو برداشتن» زدن و از تلویزیون حذفم کردند!\n@Gilin",
-        "original_username": "gilin_gilin",
-        "original_text": "🎥\nشهروز ابراهیمی: به من انگ «زیر ابرو برداشتن» زدن و از تلویزیون حذفم کردند!\n@Gilin",
-        "original_link": "https://t.me/Gilin_Gilin/283739",
-        "post_id": 283739,
-        "message_id": 2940,
-        "message_kind": "caption",
-        "sources": [
-          "gilin_gilin"
-        ],
-        "created_at": "2026-09-27T08:21:23.827935+00:00"
-      },
-      {
-        "fingerprint": "aae5c4c331bc37bc8df3f6567cc5b5b19a7a380dd46ec546ccc2107de7952ef3",
-        "media_fingerprint": "",
-        "text": "♦️\nایران و روسیه تفاهم‌نامه تولید مشترک فیلم امضا کردند\n🔹\nوزیران فرهنگ ایران و روسیه روز شنبه در پایان مذاکرات دوجانبه و نشست کمیته مشترک فرهنگی دو کشور در سن‌پترزبورگ، تفاهم‌نامه تولید مشترک فیلم امضا کردند.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nایران و روسیه تفاهم‌نامه تولید مشترک فیلم امضا کردند\n🔹\nوزیران فرهنگ ایران و روسیه روز شنبه در پایان مذاکرات دوجانبه و نشست کمیته مشترک فرهنگی دو کشور در سن‌پترزبورگ، تفاهم‌نامه تولید مشترک فیلم امضا کردند.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142535",
-        "post_id": 142535,
-        "message_id": 2941,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-27T08:37:18.774695+00:00"
-      },
-      {
-        "fingerprint": "3bc7f641c63fad5c01c6e2267c11969610993e0913425ee0edc818416b426e97",
-        "media_fingerprint": "d7ccf7cd7d1caadd6072548805709b277b0bc3966dcbe4640f8a9551ebe7a110",
-        "text": "چرا پسرا کمتر عمر می کنند\n🙂\nNiNa\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "چرا پسرا کمتر عمر می کنند\n🙂\nNiNa\n@Kafiha",
-        "original_link": "https://t.me/kafiha/460658",
-        "post_id": 460658,
-        "message_id": 2942,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-27T08:37:26.165348+00:00"
-      },
       {
         "fingerprint": "8547324d3e24f522506be0c0b19881039b1f44ee15624d6769355ae25b01efc6",
         "media_fingerprint": "534e600ea70d314eec45bf634a8c0138692be596ebd1a63aef76ac4b6a19bceb",
@@ -25101,6 +25063,51 @@
           "kafiha"
         ],
         "created_at": "2026-09-29T07:47:00.717145+00:00"
+      },
+      {
+        "fingerprint": "39e33d30dcfb032fdcfbac1524dab477948e0545e9af7a5192725a161c0bd45e",
+        "media_fingerprint": "",
+        "text": "♦️\n#چند_خبر_کوتاه\n🔹\nتسهیلات ۴ میلیارد ریالی کم‌بهره برای احداث نیروگاه‌های خورشیدی خانگی و پشت‌بامی به متقاضیان در استان فارس اعطا می‌شود.\n🔹\nمدیر جهاد کشاورزی شهرستان شیراز از صادرات ۸ هزار و ۴۵۷ تن انواع محصولات صیفی استان فارس به کشور‌های همسایه خبر داد.\n🔹\nدانش آموزان شهید شهرستان لامرد، امسال در کلاس‌های درس مدارس این شهر غائب بودند.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\n#چند_خبر_کوتاه\n🔹\nتسهیلات ۴ میلیارد ریالی کم‌بهره برای احداث نیروگاه‌های خورشیدی خانگی و پشت‌بامی به متقاضیان در استان فارس اعطا می‌شود.\n🔹\nمدیر جهاد کشاورزی شهرستان شیراز از صادرات ۸ هزار و ۴۵۷ تن انواع محصولات صیفی استان فارس به کشور‌های همسایه خبر داد.\n🔹\nدانش آموزان شهید شهرستان لامرد، امسال در کلاس‌های درس مدارس این شهر غائب بودند.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142676",
+        "post_id": 142676,
+        "message_id": 3990,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-09-29T07:55:36.007417+00:00"
+      },
+      {
+        "fingerprint": "cd37a325e47bc1cd6a955195aad28c4790aaeb85985e3f0897b2c66960ef6813",
+        "media_fingerprint": "ea76f8393f3695ea7f72b4b897972de26a9f00cc779a7c59eb2c398a6eab5f87",
+        "text": "شیائومی خودشم فکر نمی کرد، یه روزی یه جای دنیا تبدیل به گوشی لاکچری بشه!!\n🤦‍♂️\n💬\nketabshah3\nNiNa\n@Kafiha",
+        "original_username": "kafiha",
+        "original_text": "شیائومی خودشم فکر نمی کرد، یه روزی یه جای دنیا تبدیل به گوشی لاکچری بشه!!\n🤦‍♂️\n💬\nketabshah3\nNiNa\n@Kafiha",
+        "original_link": "https://t.me/kafiha/460972",
+        "post_id": 460972,
+        "message_id": 3991,
+        "message_kind": "caption",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-09-29T07:55:39.749186+00:00"
+      },
+      {
+        "fingerprint": "8be25a120eeeab9cef621e82fa7e2d34faddc487657250920054e317a909e413",
+        "media_fingerprint": "",
+        "text": "سخنگوی سپاه: اگر درگیری‌ها شکل دیگری پیدا کند، ما هم سلاح‌های جدیدی را به میدان خواهیم آورد\n🔹\nدشمنان حتما سناریوهای دیگری هم دارند.\n🔹\nما از آن سناریوها بی‌اطلاع نیستیم و خودمان را آماده کرده‌ایم./فارس\n@Kaaaf",
+        "original_username": "kafiha",
+        "original_text": "سخنگوی سپاه: اگر درگیری‌ها شکل دیگری پیدا کند، ما هم سلاح‌های جدیدی را به میدان خواهیم آورد\n🔹\nدشمنان حتما سناریوهای دیگری هم دارند.\n🔹\nما از آن سناریوها بی‌اطلاع نیستیم و خودمان را آماده کرده‌ایم./فارس\n@Kaaaf",
+        "original_link": "https://t.me/kafiha/460973",
+        "post_id": 460973,
+        "message_id": 3992,
+        "message_kind": "text",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-09-29T07:55:42.653253+00:00"
       }
     ]
   }
