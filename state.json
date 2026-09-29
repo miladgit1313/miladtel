@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142686,
+      "last_id": 142689,
       "processed_ids": [
         141903,
         141904,
@@ -739,12 +739,15 @@
         142683,
         142684,
         142685,
-        142686
+        142686,
+        142687,
+        142688,
+        142689
       ],
-      "sent_count": 446
+      "sent_count": 447
     },
     "total_fut": {
-      "last_id": 236988,
+      "last_id": 236990,
       "processed_ids": [
         236405,
         236407,
@@ -1304,12 +1307,14 @@
         236985,
         236986,
         236987,
-        236988
+        236988,
+        236989,
+        236990
       ],
       "sent_count": 33
     },
     "footballvision2": {
-      "last_id": 169829,
+      "last_id": 169832,
       "processed_ids": [
         168857,
         168858,
@@ -2243,7 +2248,10 @@
         169826,
         169827,
         169828,
-        169829
+        169829,
+        169830,
+        169831,
+        169832
       ],
       "sent_count": 45
     },
@@ -3755,7 +3763,7 @@
       "sent_count": 210
     },
     "comentiat": {
-      "last_id": 26165,
+      "last_id": 26168,
       "processed_ids": [
         25844,
         25845,
@@ -4018,9 +4026,11 @@
         26161,
         26163,
         26164,
-        26165
+        26165,
+        26167,
+        26168
       ],
-      "sent_count": 175
+      "sent_count": 177
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -5560,7 +5570,7 @@
       "sent_count": 25
     },
     "ft360_ir": {
-      "last_id": 108641,
+      "last_id": 108643,
       "processed_ids": [
         107883,
         107884,
@@ -6287,12 +6297,14 @@
         108636,
         108639,
         108640,
-        108641
+        108641,
+        108642,
+        108643
       ],
       "sent_count": 39
     },
     "varzesh3": {
-      "last_id": 303043,
+      "last_id": 303045,
       "processed_ids": [
         302363,
         302364,
@@ -6903,7 +6915,9 @@
         303040,
         303041,
         303042,
-        303043
+        303043,
+        303044,
+        303045
       ],
       "sent_count": 22
     },
@@ -7292,7 +7306,7 @@
       "sent_count": 13
     },
     "adak_ir_official": {
-      "last_id": 234401,
+      "last_id": 234406,
       "processed_ids": [
         233831,
         233833,
@@ -7862,12 +7876,17 @@
         234398,
         234399,
         234400,
-        234401
+        234401,
+        234402,
+        234403,
+        234404,
+        234405,
+        234406
       ],
-      "sent_count": 47
+      "sent_count": 48
     },
     "futball180tv": {
-      "last_id": 107491,
+      "last_id": 107492,
       "processed_ids": [
         106848,
         106849,
@@ -8501,12 +8520,13 @@
         107488,
         107489,
         107490,
-        107491
+        107491,
+        107492
       ],
       "sent_count": 16
     },
     "hattric_official": {
-      "last_id": 83967,
+      "last_id": 83968,
       "processed_ids": [
         83433,
         83434,
@@ -9005,7 +9025,8 @@
         83964,
         83965,
         83966,
-        83967
+        83967,
+        83968
       ],
       "sent_count": 25
     },
@@ -9303,7 +9324,7 @@
       "sent_count": 0
     },
     "irwonders": {
-      "last_id": 58113,
+      "last_id": 58114,
       "processed_ids": [
         58030,
         58031,
@@ -9385,12 +9406,13 @@
         58110,
         58111,
         58112,
-        58113
+        58113,
+        58114
       ],
-      "sent_count": 54
+      "sent_count": 55
     },
     "razcom": {
-      "last_id": 70465,
+      "last_id": 70466,
       "processed_ids": [
         70448,
         70449,
@@ -9404,12 +9426,13 @@
         70459,
         70460,
         70461,
-        70465
+        70465,
+        70466
       ],
       "sent_count": 5
     },
     "midanesti": {
-      "last_id": 73202,
+      "last_id": 73203,
       "processed_ids": [
         73193,
         73194,
@@ -9420,12 +9443,13 @@
         73199,
         73200,
         73201,
-        73202
+        73202,
+        73203
       ],
       "sent_count": 5
     },
     "gilin_gilin": {
-      "last_id": 283928,
+      "last_id": 283932,
       "processed_ids": [
         283735,
         283736,
@@ -9613,9 +9637,13 @@
         283925,
         283926,
         283927,
-        283928
+        283928,
+        283929,
+        283930,
+        283931,
+        283932
       ],
-      "sent_count": 97
+      "sent_count": 99
     },
     "tvnavad": {
       "last_id": 0,
@@ -9623,7 +9651,7 @@
       "sent_count": 0
     },
     "kafiha": {
-      "last_id": 461021,
+      "last_id": 461024,
       "processed_ids": [
         460646,
         460647,
@@ -9950,9 +9978,12 @@
         461018,
         461019,
         461020,
-        461021
+        461021,
+        461022,
+        461023,
+        461024
       ],
-      "sent_count": 257
+      "sent_count": 259
     },
     "asrare_movafaghiyat": {
       "last_id": 3,
@@ -10347,141 +10378,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "bf7d945d3a45e8b56323293d30a15ca54b747207919c54968f1454eff0c6ed50",
-        "media_fingerprint": "",
-        "text": "درجه‌ ای وحشتناک‌ تر و هولناک ‌تر از \"نفهمی\" هم وجود دارد،\n‏و آن \"بدفهمی\" است ..\n‏نفهمی را با آموزش می ‌توان\nدرمان کرد ..\nاما‌ بدفهمی علاج ‌ناپذیر است.\nClovE\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "درجه‌ ای وحشتناک‌ تر و هولناک ‌تر از \"نفهمی\" هم وجود دارد،\n‏و آن \"بدفهمی\" است ..\n‏نفهمی را با آموزش می ‌توان\nدرمان کرد ..\nاما‌ بدفهمی علاج ‌ناپذیر است.\nClovE\n@Kafiha",
-        "original_link": "https://t.me/kafiha/460691",
-        "post_id": 460691,
-        "message_id": 3060,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-27T11:43:07.721240+00:00"
-      },
-      {
-        "fingerprint": "34085b97fa2e40f33807df24043b91584bc46a7a3d4b4ebe0160544406fff9ee",
-        "media_fingerprint": "",
-        "text": "🔴\nدیدار گل‌گهر سیرجان و استقلال خوزستان از هفته هشتم لیگ برتر، یک روز زودتر برگزار خواهد شد.\nاین مسابقه که قرار بود جمعه ۱۷ مهر برگزار شود، از ساعت ۱۶:۴۵ روز پنجشنبه ۱۶ مهر در ورزشگاه سردار سلیمانی سیرجان به انجام می‌رسد.\nاین تغییر با درخواست باشگاه گل‌گهر و موافقت سازمان لیگ انجام شده تا نماینده ایران در لیگ قهرمانان سطح ۲ آسیا یک روز زمان بیشتری برای آماده‌سازی داشته باشد.\n@Hattric_Official",
-        "original_username": "hattric_official",
-        "original_text": "🔴\nدیدار گل‌گهر سیرجان و استقلال خوزستان از هفته هشتم لیگ برتر، یک روز زودتر برگزار خواهد شد.\nاین مسابقه که قرار بود جمعه ۱۷ مهر برگزار شود، از ساعت ۱۶:۴۵ روز پنجشنبه ۱۶ مهر در ورزشگاه سردار سلیمانی سیرجان به انجام می‌رسد.\nاین تغییر با درخواست باشگاه گل‌گهر و موافقت سازمان لیگ انجام شده تا نماینده ایران در لیگ قهرمانان سطح ۲ آسیا یک روز زمان بیشتری برای آماده‌سازی داشته باشد.\n@Hattric_Official",
-        "original_link": "https://t.me/Hattric_Official/83853",
-        "post_id": 83853,
-        "message_id": 3061,
-        "message_kind": "text",
-        "sources": [
-          "hattric_official"
-        ],
-        "created_at": "2026-09-27T11:43:10.895253+00:00"
-      },
-      {
-        "fingerprint": "ab68dcf3faef867bb7bc536f7551902d285c74915ae80827813afe3a39d6a732",
-        "media_fingerprint": "",
-        "text": "🔵\nگل‌گهر در ادامه اردوی یک‌هفته‌ای خود در تهران، دو دیدار تدارکاتی دیگر برگزار خواهد کرد.\nشاگردان سیدمهدی رحمتی پس از شکست ۲ بر یک مقابل فولاد، روز جمعه در دیداری دوستانه به مصاف پرسپولیس می‌روند و شنبه هفته آینده نیز مقابل پیکان قرار خواهند گرفت.\n@Hattric_Official",
-        "original_username": "hattric_official",
-        "original_text": "🔵\nگل‌گهر در ادامه اردوی یک‌هفته‌ای خود در تهران، دو دیدار تدارکاتی دیگر برگزار خواهد کرد.\nشاگردان سیدمهدی رحمتی پس از شکست ۲ بر یک مقابل فولاد، روز جمعه در دیداری دوستانه به مصاف پرسپولیس می‌روند و شنبه هفته آینده نیز مقابل پیکان قرار خواهند گرفت.\n@Hattric_Official",
-        "original_link": "https://t.me/Hattric_Official/83854",
-        "post_id": 83854,
-        "message_id": 3062,
-        "message_kind": "text",
-        "sources": [
-          "hattric_official"
-        ],
-        "created_at": "2026-09-27T11:43:13.907535+00:00"
-      },
-      {
-        "fingerprint": "1407b1b54fae3044e3edd043e71935fb6d4e817a5f04e842be01873c21a98bc5",
-        "media_fingerprint": "",
-        "text": "♦️\nسخنگوی ارتش: اوضاع آمریکا در منطقه اصلا خوب نیست و ممکن است دست به حمله بزند\n🔹\nدر صورت تجاوز نظامی مجدد، ایالات متحده آسیب‌های بیشتری می‌بیند؛ ارتش همه جوره برای نبرد با دشمن آماده است.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nسخنگوی ارتش: اوضاع آمریکا در منطقه اصلا خوب نیست و ممکن است دست به حمله بزند\n🔹\nدر صورت تجاوز نظامی مجدد، ایالات متحده آسیب‌های بیشتری می‌بیند؛ ارتش همه جوره برای نبرد با دشمن آماده است.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142550",
-        "post_id": 142550,
-        "message_id": 3063,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-27T11:43:16.868435+00:00"
-      },
-      {
-        "fingerprint": "a1f7d1ebb8dce4699ffaf60dc559fa1b24ac5e5870fcbc22ff8969a975a0882d",
-        "media_fingerprint": "",
-        "text": "behzisti2_registration_manual.pdf",
-        "original_username": "akhbar_cafenet",
-        "original_text": "behzisti2_registration_manual.pdf",
-        "original_link": "https://t.me/akhbar_cafenet/22727",
-        "post_id": 22727,
-        "message_id": 3064,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-09-27T11:58:58.433908+00:00"
-      },
-      {
-        "fingerprint": "77dc9b1e602e38a9669df5962959088ea64278c31ba4b585f5f6bfdb16175965",
-        "media_fingerprint": "686f8381d4caf1256dda9ea2da1e02d4c728c48e152872ff735a3a96c9711677",
-        "text": "🚨\n‼️\n🔵\n🔴\nپژمان ماندگاری، مدیر رسانه‌ای باشگاه استقلال خطاب به مدیران پرسپولیس: ننگ، اون جام های اسنپی و آفسایدی و سه جانبه هست!\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n‼️\n🔵\n🔴\nپژمان ماندگاری، مدیر رسانه‌ای باشگاه استقلال خطاب به مدیران پرسپولیس: ننگ، اون جام های اسنپی و آفسایدی و سه جانبه هست!\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/234295",
-        "post_id": 234295,
-        "message_id": 3065,
-        "message_kind": "caption",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-09-27T11:59:03.477593+00:00"
-      },
-      {
-        "fingerprint": "3b43576e5eb037e9f1bb8c91f6b4722a9eed96cc6fd51a0f54f82a1a014ec643",
-        "media_fingerprint": "676ab25ef601308d0f8da3a82c479c95f1de7640f104e88ce6e04c339982305f",
-        "text": "هوش مصنوعی با سرعتی باورنکردنی پیشرفت کرده؛ تا جایی که دیگر نمی‌توان به‌سادگی به هر چیزی که در فضای مجازی می‌بینیم اعتماد کرد.\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "هوش مصنوعی با سرعتی باورنکردنی پیشرفت کرده؛ تا جایی که دیگر نمی‌توان به‌سادگی به هر چیزی که در فضای مجازی می‌بینیم اعتماد کرد.\n@irWonders",
-        "original_link": "https://t.me/irwonders/58041",
-        "post_id": 58041,
-        "message_id": 3066,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-09-27T11:59:10.433823+00:00"
-      },
-      {
-        "fingerprint": "88141fb3a5aa832b51825f101ecc99d047eeed51275e8e4631b99d95e269cad3",
-        "media_fingerprint": "ae3700942bfbf382bd7c690619561101440233166567cc5bd824042e20880394",
-        "text": "از زیبایی پاییزی پل ورسک هیپنوتیزیم شویم\n😍\n🥹\n📷\nroostasmr\nClovE\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "از زیبایی پاییزی پل ورسک هیپنوتیزیم شویم\n😍\n🥹\n📷\nroostasmr\nClovE\n@Kafiha",
-        "original_link": "https://t.me/kafiha/460694",
-        "post_id": 460694,
-        "message_id": 3067,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-27T11:59:16.345555+00:00"
-      },
-      {
-        "fingerprint": "1c9b0ec5a8de2ff23723af9eb2f4868686523e08fc08c12e09b0e6aa73cfd518",
-        "media_fingerprint": "",
-        "text": "♦️\nآیین اهتزاز پرچم جمهوری اسلامی ایران در دانشگاه شیراز برگزار شد\n🔹\nهمزمان با آغاز سال تحصیلی جدید و گرامیداشت هفته دفاع مقدس، آیین اهتزاز پرچم جمهوری اسلامی ایران با حضور اعضای هیئت‌رئیسه، استادان، کارکنان و دانشجویان دانشگاه شیراز برگزار شد. در این مراسم رسمی، پرچم کشورمان بر فراز این دانشگاه به اهتزاز درآمد.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nآیین اهتزاز پرچم جمهوری اسلامی ایران در دانشگاه شیراز برگزار شد\n🔹\nهمزمان با آغاز سال تحصیلی جدید و گرامیداشت هفته دفاع مقدس، آیین اهتزاز پرچم جمهوری اسلامی ایران با حضور اعضای هیئت‌رئیسه، استادان، کارکنان و دانشجویان دانشگاه شیراز برگزار شد. در این مراسم رسمی، پرچم کشورمان بر فراز این دانشگاه به اهتزاز درآمد.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142552",
-        "post_id": 142552,
-        "message_id": 3068,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-27T11:59:19.222824+00:00"
-      },
       {
         "fingerprint": "cffc8064df3b78accea18baf2db13a2f76e775660967f96bd6f10e81ac16b23c",
         "media_fingerprint": "",
@@ -18172,7 +18068,8 @@
         "sources": [
           "kafiha",
           "gilin_gilin",
-          "gizmiztel"
+          "gizmiztel",
+          "razcom"
         ],
         "created_at": "2026-09-28T12:01:46.787933+00:00"
       },
@@ -22404,7 +22301,8 @@
         "message_id": 3895,
         "message_kind": "text",
         "sources": [
-          "kafiha"
+          "kafiha",
+          "gilin_gilin"
         ],
         "created_at": "2026-09-28T21:16:59.091180+00:00"
       },
@@ -24984,7 +24882,8 @@
         "message_id": 4075,
         "message_kind": "caption",
         "sources": [
-          "irwonders"
+          "irwonders",
+          "kafiha"
         ],
         "created_at": "2026-09-29T11:04:03.845365+00:00"
       },
@@ -25316,7 +25215,8 @@
         "message_kind": "caption",
         "sources": [
           "gizmiztel",
-          "kafiha"
+          "kafiha",
+          "midanesti"
         ],
         "created_at": "2026-09-29T11:47:27.344350+00:00"
       },
@@ -25454,6 +25354,141 @@
           "akhbarfars"
         ],
         "created_at": "2026-09-29T12:02:05.166304+00:00"
+      },
+      {
+        "fingerprint": "99d3d0808b3d944c4a251a78793391fae173a9f292c7f62d79dd6a54562158d9",
+        "media_fingerprint": "45976aa79c4be1d735c813bd5a9d7da7e4ae54446681c412b34ac04569d9d7de",
+        "text": "با حقوق یک روز کار در سوئیس چه یخچالی میتوان خرید.\n@Gilin",
+        "original_username": "gilin_gilin",
+        "original_text": "با حقوق یک روز کار در سوئیس چه یخچالی میتوان خرید.\n@Gilin",
+        "original_link": "https://t.me/Gilin_Gilin/283929",
+        "post_id": 283929,
+        "message_id": 4112,
+        "message_kind": "caption",
+        "sources": [
+          "gilin_gilin"
+        ],
+        "created_at": "2026-09-29T12:33:28.216431+00:00"
+      },
+      {
+        "fingerprint": "86d72a2c5a9aabacba5cce0c79d6b1adc9a0efe0430565088953568fdf0b726e",
+        "media_fingerprint": "c8df99063e25764520c6720aea2dd16a988e5ad7c8c02b8abceac4790f326f5f",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26167",
+        "post_id": 26167,
+        "message_id": 4113,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-09-29T12:33:32.117512+00:00"
+      },
+      {
+        "fingerprint": "335a477413df5e4a37fef03fcf8d9f99720ab623b5e34857f3dc806de26091f7",
+        "media_fingerprint": "e2b20770e5ef01a5d94c967a858e19a6836ed31dadc321de8b86cadf68379816",
+        "text": "فارسی حرف زدن سپیده معافی با خبرنگار ایرانی\nسپیده معافی، بازیگر ایرانی آمریکایی، با بازی در سریال تحسین‌شده «The Pitt» به یکی از چهره‌های خبرساز جوایز امی 2026 تبدیل شده است.\nClovE\n@Kafiha",
+        "original_username": "kafiha",
+        "original_text": "فارسی حرف زدن سپیده معافی با خبرنگار ایرانی\nسپیده معافی، بازیگر ایرانی آمریکایی، با بازی در سریال تحسین‌شده «The Pitt» به یکی از چهره‌های خبرساز جوایز امی 2026 تبدیل شده است.\nClovE\n@Kafiha",
+        "original_link": "https://t.me/kafiha/461023",
+        "post_id": 461023,
+        "message_id": 4114,
+        "message_kind": "caption",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-09-29T12:33:38.842187+00:00"
+      },
+      {
+        "fingerprint": "5c95ffd5a4fcb0524ed91e749e681054e8fd8a576d2838d942142b034afa46c9",
+        "media_fingerprint": "51ab3dc33303c675c75b0c3ae8b1b5a19de5b029b960d05cd4b8c9f4c964de8a",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26168",
+        "post_id": 26168,
+        "message_id": 4115,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-09-29T12:33:42.730023+00:00"
+      },
+      {
+        "fingerprint": "1ccebcf06b4e02735ffd97e710bb77d7ac4bd8ae4fb1c58928b8a002458088f1",
+        "media_fingerprint": "",
+        "text": "پدر بزرگم فوت شده بود مامانم خيلي ناراحت بود اومدم شوخي كنم گفتم تازه يتيم شدي برو خداروشكر كن مثل بابا دوتيم نيستی.\nيه چك از يتيم خوردم دوتا از دوتيم\n@Gilin",
+        "original_username": "gilin_gilin",
+        "original_text": "پدر بزرگم فوت شده بود مامانم خيلي ناراحت بود اومدم شوخي كنم گفتم تازه يتيم شدي برو خداروشكر كن مثل بابا دوتيم نيستی.\nيه چك از يتيم خوردم دوتا از دوتيم\n@Gilin",
+        "original_link": "https://t.me/Gilin_Gilin/283930",
+        "post_id": 283930,
+        "message_id": 4116,
+        "message_kind": "text",
+        "sources": [
+          "gilin_gilin"
+        ],
+        "created_at": "2026-09-29T12:33:45.425233+00:00"
+      },
+      {
+        "fingerprint": "2151e4247c1bb58a5af68168a7287384643f9c9d4dac63ffe82cd6e16400d215",
+        "media_fingerprint": "3fddd12d139c2eddd09b82b469242c517489ee07777fcd9baa55f69087e5cc04",
+        "text": "🟥\nسعید صادقی، بازیکن سابق پرسپولیس ازدواج کرد.\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🟥\nسعید صادقی، بازیکن سابق پرسپولیس ازدواج کرد.\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/234405",
+        "post_id": 234405,
+        "message_id": 4117,
+        "message_kind": "caption",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-09-29T12:33:51.221988+00:00"
+      },
+      {
+        "fingerprint": "23e0122b00e1ae7869107ebc1ce64d821d67b37f9f98cdfc8f567a6824b34b89",
+        "media_fingerprint": "60f087e68addbc99ddda26b82a335fb162b21f071cce468d6dce82332ecc5d59",
+        "text": "زندگی\nآب تنی کردن\nدر حوضچەی اکنون است!\n👤\nسهراب سپهری\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "زندگی\nآب تنی کردن\nدر حوضچەی اکنون است!\n👤\nسهراب سپهری\n@irWonders",
+        "original_link": "https://t.me/irwonders/58114",
+        "post_id": 58114,
+        "message_id": 4118,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-09-29T12:33:56.303407+00:00"
+      },
+      {
+        "fingerprint": "e51ad67d8477b005cc63d8011a2868493a20e1a86f8e05a4d25e836598675787",
+        "media_fingerprint": "819d80662a9b275a4b5194f5e0021b9455edb5f24a7daf000e425ea3ef743e37",
+        "text": "#پیشنهاد_فیلم\n📽\nBajocero یا Below Zero\nفیلم دلهره‌آور اسپانیایی پر از هیجان و استرس در فضایی سرد و نفس‌گیر درباره کامیون انتقال زندانی ها که از طوفان، برف و یخبندان میخواد عبور کنه  که گروه مهاجم بهش حمله میکنن و سفرش به جهنم تبدیل میشه...\n💬\nقرمز\nClovE\n@Kafiha",
+        "original_username": "kafiha",
+        "original_text": "#پیشنهاد_فیلم\n📽\nBajocero یا Below Zero\nفیلم دلهره‌آور اسپانیایی پر از هیجان و استرس در فضایی سرد و نفس‌گیر درباره کامیون انتقال زندانی ها که از طوفان، برف و یخبندان میخواد عبور کنه  که گروه مهاجم بهش حمله میکنن و سفرش به جهنم تبدیل میشه...\n💬\nقرمز\nClovE\n@Kafiha",
+        "original_link": "https://t.me/kafiha/461024",
+        "post_id": 461024,
+        "message_id": 4119,
+        "message_kind": "caption",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-09-29T12:34:00.981214+00:00"
+      },
+      {
+        "fingerprint": "4be30cd73fda8b33351c8c450bc7e9081b733fb2f3aeede46158ee1a951d5ccd",
+        "media_fingerprint": "",
+        "text": "♦️\nتشییع و خاکسپاری پیکر پدر شهید در فسا\nبنیاد شهید و امور ایثارگران فسا:\n🔹️\nپیکر پدر شهید فتاح ریاستی در فسا تشییع و به خاک سپرده شد.\n🔹️\nمرحوم حاج عطاالله ریاستی شب گذشته در سن ۹۲ سالگی به علت کهولت سن دارفانی را وداع گفت.\n🔹️\nپیکر حاج عطاالله ریاستی پدر شهید فتاح ریاستی با حضور اقشار مختلف مردم و مسئولین تشییع و در قطعه والدین گلزار شهدای امام زاده حسن به خاک سپرده شد.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nتشییع و خاکسپاری پیکر پدر شهید در فسا\nبنیاد شهید و امور ایثارگران فسا:\n🔹️\nپیکر پدر شهید فتاح ریاستی در فسا تشییع و به خاک سپرده شد.\n🔹️\nمرحوم حاج عطاالله ریاستی شب گذشته در سن ۹۲ سالگی به علت کهولت سن دارفانی را وداع گفت.\n🔹️\nپیکر حاج عطاالله ریاستی پدر شهید فتاح ریاستی با حضور اقشار مختلف مردم و مسئولین تشییع و در قطعه والدین گلزار شهدای امام زاده حسن به خاک سپرده شد.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142689",
+        "post_id": 142689,
+        "message_id": 4120,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-09-29T12:34:05.187719+00:00"
       }
     ]
   }
