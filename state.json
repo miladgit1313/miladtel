@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142665,
+      "last_id": 142666,
       "processed_ids": [
         141903,
         141904,
@@ -720,12 +720,13 @@
         142661,
         142662,
         142664,
-        142665
+        142665,
+        142666
       ],
-      "sent_count": 432
+      "sent_count": 433
     },
     "total_fut": {
-      "last_id": 236968,
+      "last_id": 236969,
       "processed_ids": [
         236405,
         236407,
@@ -1267,7 +1268,8 @@
         236965,
         236966,
         236967,
-        236968
+        236968,
+        236969
       ],
       "sent_count": 32
     },
@@ -2146,7 +2148,7 @@
       "sent_count": 3
     },
     "fars_today": {
-      "last_id": 132074,
+      "last_id": 132075,
       "processed_ids": [
         131975,
         131976,
@@ -2246,9 +2248,10 @@
         132071,
         132072,
         132073,
-        132074
+        132074,
+        132075
       ],
-      "sent_count": 58
+      "sent_count": 59
     },
     "behzistikomitenews": {
       "last_id": 13948,
@@ -3250,7 +3253,7 @@
       "sent_count": 69
     },
     "akhbar_cafenet": {
-      "last_id": 22771,
+      "last_id": 22772,
       "processed_ids": [
         22432,
         22433,
@@ -3582,7 +3585,8 @@
         22768,
         22769,
         22770,
-        22771
+        22771,
+        22772
       ],
       "sent_count": 205
     },
@@ -3852,7 +3856,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38543,
+      "last_id": 38544,
       "processed_ids": [
         38432,
         38433,
@@ -3965,9 +3969,10 @@
         38540,
         38541,
         38542,
-        38543
+        38543,
+        38544
       ],
-      "sent_count": 73
+      "sent_count": 74
     },
     "gizmiztel": {
       "last_id": 162474,
@@ -5336,7 +5341,7 @@
       "sent_count": 25
     },
     "ft360_ir": {
-      "last_id": 108615,
+      "last_id": 108616,
       "processed_ids": [
         107883,
         107884,
@@ -6041,9 +6046,10 @@
         108612,
         108613,
         108614,
-        108615
+        108615,
+        108616
       ],
-      "sent_count": 37
+      "sent_count": 38
     },
     "varzesh3": {
       "last_id": 303017,
@@ -7009,7 +7015,7 @@
       "sent_count": 13
     },
     "adak_ir_official": {
-      "last_id": 234383,
+      "last_id": 234385,
       "processed_ids": [
         233831,
         233833,
@@ -7561,12 +7567,14 @@
         234380,
         234381,
         234382,
-        234383
+        234383,
+        234384,
+        234385
       ],
-      "sent_count": 44
+      "sent_count": 45
     },
     "futball180tv": {
-      "last_id": 107468,
+      "last_id": 107470,
       "processed_ids": [
         106848,
         106849,
@@ -8177,12 +8185,14 @@
         107465,
         107466,
         107467,
-        107468
+        107468,
+        107469,
+        107470
       ],
       "sent_count": 15
     },
     "hattric_official": {
-      "last_id": 83955,
+      "last_id": 83956,
       "processed_ids": [
         83433,
         83434,
@@ -8669,7 +8679,8 @@
         83952,
         83953,
         83954,
-        83955
+        83955,
+        83956
       ],
       "sent_count": 25
     },
@@ -8956,7 +8967,7 @@
       "sent_count": 0
     },
     "irwonders": {
-      "last_id": 58097,
+      "last_id": 58098,
       "processed_ids": [
         58030,
         58031,
@@ -9022,9 +9033,10 @@
         58094,
         58095,
         58096,
-        58097
+        58097,
+        58098
       ],
-      "sent_count": 43
+      "sent_count": 44
     },
     "razcom": {
       "last_id": 70465,
@@ -9061,7 +9073,7 @@
       "sent_count": 4
     },
     "gilin_gilin": {
-      "last_id": 283900,
+      "last_id": 283906,
       "processed_ids": [
         283735,
         283736,
@@ -9222,9 +9234,15 @@
         283897,
         283898,
         283899,
-        283900
+        283900,
+        283901,
+        283902,
+        283903,
+        283904,
+        283905,
+        283906
       ],
-      "sent_count": 82
+      "sent_count": 86
     },
     "tvnavad": {
       "last_id": 0,
@@ -9232,7 +9250,7 @@
       "sent_count": 0
     },
     "kafiha": {
-      "last_id": 460955,
+      "last_id": 460957,
       "processed_ids": [
         460646,
         460647,
@@ -9505,9 +9523,11 @@
         460952,
         460953,
         460954,
-        460955
+        460955,
+        460956,
+        460957
       ],
-      "sent_count": 216
+      "sent_count": 218
     },
     "asrare_movafaghiyat": {
       "last_id": 3,
@@ -9863,190 +9883,17 @@
         438
       ],
       "sent_count": 11
+    },
+    "onlinecofe_ir": {
+      "last_id": 2781,
+      "processed_ids": [
+        2781
+      ],
+      "sent_count": 0
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "f9d6fccdeef6d454aa7e3fbffdc5d6b51154fe68f930d87ae480fc000c80c05c",
-        "media_fingerprint": "907472671c67cba17f46ec027b50a8b54e4884ce3c609df05a97bf3561b1e52a",
-        "text": "واقعا بسه\n‏با انرژی منفی گاییییییدن\n‏زندگی تو ایران خودش انرژی منفیه\n‏سیکتیر کن دیگه\n@comentiat",
-        "original_username": "comentiat",
-        "original_text": "واقعا بسه\n‏با انرژی منفی گاییییییدن\n‏زندگی تو ایران خودش انرژی منفیه\n‏سیکتیر کن دیگه\n@comentiat",
-        "original_link": "https://t.me/Comentiat/26109",
-        "post_id": 26109,
-        "message_id": 2883,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-09-27T05:15:07.842498+00:00"
-      },
-      {
-        "fingerprint": "7e439285552c99e128de5f1618df16ffa15c5be4da75acf080ef47af217e7c62",
-        "media_fingerprint": "07455433bb96d7152f50cf6f658839ff8608bce4e99cd0aabd9adb8dc89d2174",
-        "text": "‏تنها ویدیوی AI بود که به نظرم به گرون شدن رم میرزید.\n@comentiat",
-        "original_username": "comentiat",
-        "original_text": "‏تنها ویدیوی AI بود که به نظرم به گرون شدن رم میرزید.\n@comentiat",
-        "original_link": "https://t.me/Comentiat/26110",
-        "post_id": 26110,
-        "message_id": 2884,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-09-27T05:15:14.450794+00:00"
-      },
-      {
-        "fingerprint": "c1f8bacdcf2aacf6a2b4f2248bc593819c757ec18d31cf9b4ee20775dcc8ce27",
-        "media_fingerprint": "",
-        "text": "♦️\nخودرو های حامل کالای قاچاق در ورودی شیراز توقیف شدند\nرئیس پلیس امنیت اقتصادی استان فارس:\n🔹\nکالاهای خارجی فاقد مجوز به ارزش ۲۸ میلیارد ریال در شهرستان شیراز کشف شد.\n🔹\nدر بازرسی از این ۴ خودرو اقلامی شامل ۶۰ شل انواع نوشیدنی، ۵ کارتن تمر هندی، ۳۳۰ عدد روغن مایع خوراکی، ۳ دستگاه کولر اسپیلت ۳۰ هزار، یک دستگاه ماشین لباسشویی و یک تن کود و سموم شیمیایی کشف شد.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nخودرو های حامل کالای قاچاق در ورودی شیراز توقیف شدند\nرئیس پلیس امنیت اقتصادی استان فارس:\n🔹\nکالاهای خارجی فاقد مجوز به ارزش ۲۸ میلیارد ریال در شهرستان شیراز کشف شد.\n🔹\nدر بازرسی از این ۴ خودرو اقلامی شامل ۶۰ شل انواع نوشیدنی، ۵ کارتن تمر هندی، ۳۳۰ عدد روغن مایع خوراکی، ۳ دستگاه کولر اسپیلت ۳۰ هزار، یک دستگاه ماشین لباسشویی و یک تن کود و سموم شیمیایی کشف شد.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142525",
-        "post_id": 142525,
-        "message_id": 2885,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-27T05:32:48.596814+00:00"
-      },
-      {
-        "fingerprint": "aa94bd8f7a31b6f6cb7766a7a25c564ecbc83e2968fd7815b5c09eefc63ed963",
-        "media_fingerprint": "2cfc090429bb88dd08f503b294fdd8edbddd084cc86291e9c54cc9dc775a6695",
-        "text": "👄\nبزاق فقط برای خیس کردن دهان نیست!\n💧\nبزاق در مرطوب نگه داشتن دهان، کمک به جویدن و بلع و شروع فرایند هضم نقش دارد. دهان خشک مداوم هم موضوعی نیست که همیشه باید نادیده گرفته شود؛ زیرا بزاق در سلامت محیط دهان اهمیت دارد. این مایع ساده، بخشی از سیستم پیچیده گوارش شماست.\n🌐\nwww.nidcr.nih.gov\n#فکت_پزشکی\n#بزاق\n🖥\n@Dr_SalamatX",
-        "original_username": "dr_salamatx",
-        "original_text": "👄\nبزاق فقط برای خیس کردن دهان نیست!\n💧\nبزاق در مرطوب نگه داشتن دهان، کمک به جویدن و بلع و شروع فرایند هضم نقش دارد. دهان خشک مداوم هم موضوعی نیست که همیشه باید نادیده گرفته شود؛ زیرا بزاق در سلامت محیط دهان اهمیت دارد. این مایع ساده، بخشی از سیستم پیچیده گوارش شماست.\n🌐\nwww.nidcr.nih.gov\n#فکت_پزشکی\n#بزاق\n🖥\n@Dr_SalamatX",
-        "original_link": "https://t.me/Dr_SalamatX/55310",
-        "post_id": 55310,
-        "message_id": 2886,
-        "message_kind": "caption",
-        "sources": [
-          "dr_salamatx"
-        ],
-        "created_at": "2026-09-27T05:32:53.130269+00:00"
-      },
-      {
-        "fingerprint": "0131a4f3d6f796eae0b3717cb1102548a4dcd495682e47d497aa5dd94f87cc01",
-        "media_fingerprint": "8f32d37c9e61d5ae3de86c4df0af67f21ea52128d6e4c282cf451413ed182288",
-        "text": "💡\nنحوه پیدا کردن شناسه قبض برق\n🔗\nلینک سامانه برق من\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "💡\nنحوه پیدا کردن شناسه قبض برق\n🔗\nلینک سامانه برق من\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22711",
-        "post_id": 22711,
-        "message_id": 2887,
-        "message_kind": "caption",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-09-27T05:32:58.157681+00:00"
-      },
-      {
-        "fingerprint": "96e8b653d2999ee7ee32b39173e187163bdfa24384299959ee1d06ad63ba5adb",
-        "media_fingerprint": "",
-        "text": "#اختصاصی_آداک\n🚨\n🚨\n🔴\nباشگاه تراکتور آماده است در صورت اهدای جام قهرمانی فصل گذشته به استقلال، از فدراسیون فوتبال به فیفا و کنفدراسیون فوتبال آسیا شکایت کند.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "#اختصاصی_آداک\n🚨\n🚨\n🔴\nباشگاه تراکتور آماده است در صورت اهدای جام قهرمانی فصل گذشته به استقلال، از فدراسیون فوتبال به فیفا و کنفدراسیون فوتبال آسیا شکایت کند.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/234278",
-        "post_id": 234278,
-        "message_id": 2888,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-09-27T05:50:36.298476+00:00"
-      },
-      {
-        "fingerprint": "73eb90c0a8bdce39b26b0585300206831d3ae72051803ad79b53ca02b529ef25",
-        "media_fingerprint": "",
-        "text": "♦️\nخبرنگار اسرائیلی: حملات دیشب سپاه پاسداران به کشتی‌ها در تنگه هرمز گسترده و کم‌سابقه بوده است\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nخبرنگار اسرائیلی: حملات دیشب سپاه پاسداران به کشتی‌ها در تنگه هرمز گسترده و کم‌سابقه بوده است\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142526",
-        "post_id": 142526,
-        "message_id": 2889,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-27T05:50:38.971651+00:00"
-      },
-      {
-        "fingerprint": "3057b0c4ab0a6e67d7b3b6649d4641a7f02fd5a57d7563ccd25deb0fd48e0a3c",
-        "media_fingerprint": "f83c8943d666db66e407b4693a857402b552999fb31781c4f8f4a7a8e0380707",
-        "text": "حالا فهمیدین چرا میگن میوه‌ها رو اول بشورید بعد بخورید؟!\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "حالا فهمیدین چرا میگن میوه‌ها رو اول بشورید بعد بخورید؟!\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159265",
-        "post_id": 159265,
-        "message_id": 2890,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-09-27T06:20:35.667281+00:00"
-      },
-      {
-        "fingerprint": "cbaa92278337ba47f4721b98806724543d7d40c6370837bda34d2ed5d9725f00",
-        "media_fingerprint": "4d063d840a1caa0361d1c1fdc2b5e38d528a31f1d553467c5beb7cd868bcd322",
-        "text": "♦️\nشطرنج قدرت در سایه؛ چه کسی فرمان واقعی آمریکا را می‌راند؟\n🔹\nبرای درک دقیقِ سیاست خارجی آمریکا، نباید محو نمایش‌های رسانه‌ای شد؛ بلکه باید راهبردهایی را شناخت که پشت درهای بسته‌ی اندیشکده‌ها شکل می‌گیرند. / تلویزیون اینترنتی مدار\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nشطرنج قدرت در سایه؛ چه کسی فرمان واقعی آمریکا را می‌راند؟\n🔹\nبرای درک دقیقِ سیاست خارجی آمریکا، نباید محو نمایش‌های رسانه‌ای شد؛ بلکه باید راهبردهایی را شناخت که پشت درهای بسته‌ی اندیشکده‌ها شکل می‌گیرند. / تلویزیون اینترنتی مدار\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142528",
-        "post_id": 142528,
-        "message_id": 2891,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-27T06:20:42.347902+00:00"
-      },
-      {
-        "fingerprint": "12400e177d2b3e11291d7eda1c811905d41adc749d95494a58c268124f5dd59c",
-        "media_fingerprint": "",
-        "text": "🚨\n🔴\nدر صورت تشکیل تیم دوم پرسپولیس، این باشگاه قصد دارد بیشتر از بازیکنان آکادمی خود استفاده کند.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n🔴\nدر صورت تشکیل تیم دوم پرسپولیس، این باشگاه قصد دارد بیشتر از بازیکنان آکادمی خود استفاده کند.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/234279",
-        "post_id": 234279,
-        "message_id": 2892,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-09-27T06:20:45.073511+00:00"
-      },
-      {
-        "fingerprint": "43800b285f37f6c1d35735c2380b92128f0400ce1453e5a1c3ae1aa943303861",
-        "media_fingerprint": "2550142edf96f1c417f4005238681900d95b8be6ae54b05c90900e5a1121c8e7",
-        "text": "♦️\nآموزش کرم بیسکویت شکلاتی خوشمزه و آسون\n😋\n🍫\nمواد لازم:\n🔹\nشیر یک لیوان و نیم\n🔹\nشکلات تخته ای ۲۰۰ گرم\n🔹\nکره ۵۰ گرم\n🔹\nبیسکویت(مدل دلخواه)  یک بسته ۲۰۰ گرمی\n#آشپزی\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nآموزش کرم بیسکویت شکلاتی خوشمزه و آسون\n😋\n🍫\nمواد لازم:\n🔹\nشیر یک لیوان و نیم\n🔹\nشکلات تخته ای ۲۰۰ گرم\n🔹\nکره ۵۰ گرم\n🔹\nبیسکویت(مدل دلخواه)  یک بسته ۲۰۰ گرمی\n#آشپزی\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142529",
-        "post_id": 142529,
-        "message_id": 2893,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-27T06:20:51.830016+00:00"
-      },
-      {
-        "fingerprint": "b2820e6805c37af2fdfa652854454fe002b55b124bc25918e8e54f67c21e7fe6",
-        "media_fingerprint": "",
-        "text": "🎖️\n🏅\nپرسپولیس اعلام کرد حاضره بدون ملی پوشانش هم تو جام حذفی شرکت کنه!\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_username": "totalfut_plus",
-        "original_text": "🎖️\n🏅\nپرسپولیس اعلام کرد حاضره بدون ملی پوشانش هم تو جام حذفی شرکت کنه!\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_link": "https://t.me/totalfut_plus/26169",
-        "post_id": 26169,
-        "message_id": 2894,
-        "message_kind": "text",
-        "sources": [
-          "totalfut_plus"
-        ],
-        "created_at": "2026-09-27T06:20:54.677266+00:00"
-      },
       {
         "fingerprint": "ba567a3f37749eeac767d685b9a229859965a4ff5be95020632bcad65748c2a6",
         "media_fingerprint": "4ed05f6670b0e4322684e45b7db6d9ea7171cd69f72dc9e49a7436f20162e1fd",
@@ -24974,6 +24821,186 @@
           "footballvision2"
         ],
         "created_at": "2026-09-29T05:54:21.236323+00:00"
+      },
+      {
+        "fingerprint": "97e6c172b8a6ee44db2eff2ae102465cbc8b4a06cbd53f95702feaa0f4494aae",
+        "media_fingerprint": "",
+        "text": "🚨\n‼️\n🔴\nافشاگری میثاقی: یه ایجنت به باشگاه پرسپولیس گفته بود ۱۰۰ هزار دلار بدید تا عارف آقاسی رو بیارم، ولی بازیکن به استقلال رفت و حالا پرسپولیس از این ایجنت شکایت کرده! این ایجنت گفته مدارک فسخ یاسر آسانی رو بهتون میدم، آقاسی رو هم میارم پرسپولیس!\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🚨\n‼️\n🔴\nافشاگری میثاقی: یه ایجنت به باشگاه پرسپولیس گفته بود ۱۰۰ هزار دلار بدید تا عارف آقاسی رو بیارم، ولی بازیکن به استقلال رفت و حالا پرسپولیس از این ایجنت شکایت کرده! این ایجنت گفته مدارک فسخ یاسر آسانی رو بهتون میدم، آقاسی رو هم میارم پرسپولیس!\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/234384",
+        "post_id": 234384,
+        "message_id": 3939,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-09-29T06:21:30.125155+00:00"
+      },
+      {
+        "fingerprint": "54c4da856e87cd3baa16bd85d4c79e635f212f896642bf344f7e800ae81908af",
+        "media_fingerprint": "427aff41d73935ab7659aa6253787596a23d02c181d4ade350004a368cdcd518",
+        "text": "انتظاری که خانواده ایرانی از فرزندشون دارن\n💬\nزاگرس\nNiNa\n@Kafiha",
+        "original_username": "kafiha",
+        "original_text": "انتظاری که خانواده ایرانی از فرزندشون دارن\n💬\nزاگرس\nNiNa\n@Kafiha",
+        "original_link": "https://t.me/kafiha/460956",
+        "post_id": 460956,
+        "message_id": 3940,
+        "message_kind": "caption",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-09-29T06:21:33.988572+00:00"
+      },
+      {
+        "fingerprint": "40b45b5510ec2d3077754c997f38daf0466fe772e4c7ad9fd7175ecff6382e27",
+        "media_fingerprint": "",
+        "text": "♦️\nعراق: پرواز نجف به ایران برای یک ماه برقرار می‌شود\n🔹\n۴ روز پس از توقف پروازها، رسانه‌های عراقی اعلام کردند از امروز «شرکت هواپیمایی العراقیه» مجاز به انجام پرواز میان دو کشور است و فرودگاه نجف برای پروازهای این شرکت به‌مدت یک ماه باز خواهد بود.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nعراق: پرواز نجف به ایران برای یک ماه برقرار می‌شود\n🔹\n۴ روز پس از توقف پروازها، رسانه‌های عراقی اعلام کردند از امروز «شرکت هواپیمایی العراقیه» مجاز به انجام پرواز میان دو کشور است و فرودگاه نجف برای پروازهای این شرکت به‌مدت یک ماه باز خواهد بود.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142666",
+        "post_id": 142666,
+        "message_id": 3941,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-09-29T06:21:37.027915+00:00"
+      },
+      {
+        "fingerprint": "6faa7d95a55b1a872683549b14653f3f059e1b4043ec95fea69a115d444c937c",
+        "media_fingerprint": "",
+        "text": "کلیپی پربازدید: استفاده از بچه برای دزدی\n!\nپ.ن.: خواهشاً نگید از نداریه؛ می‌تونست هزینهٔ اون رنگ و مش موهاش رو برای بچه خرج کنه!\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "کلیپی پربازدید: استفاده از بچه برای دزدی\n!\nپ.ن.: خواهشاً نگید از نداریه؛ می‌تونست هزینهٔ اون رنگ و مش موهاش رو برای بچه خرج کنه!\n@irWonders",
+        "original_link": "https://t.me/irwonders/58098",
+        "post_id": 58098,
+        "message_id": 3942,
+        "message_kind": "text",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-09-29T06:21:39.860626+00:00"
+      },
+      {
+        "fingerprint": "45767e10dba80d5517a1ed7a4683b663a1f0144cf6c9594559250ccd6270a8c3",
+        "media_fingerprint": "6c048da2b24afb314dace6e772e698ca9d950c36e6acff6c39d88c6511ab0752",
+        "text": "زمان ایده‌آل برای صرف صبحانه\n🍳\n◽️\nیک ساعت بعد از برخاستن از خواب، یعنی حدود هفت صبح است. روزتان را ساعت شش صبح آغاز کنید و فعالیتتان را ساعت ۱۰ شب به اتمام برسانید، زیرا این روند با ریتم شبانه‌روزی طبیعی بدن سازگار است. گنجاندن این روند در زمان‌بندی وعده‌های غذایی، به‌ویژه صبحانه و شام، توانایی بدن را برای سوزاندن چربی‌های شکم بیشتر می‌کند.\n◽️\nزمان ایده‌آل برای صرف صبحانه، یک ساعت پس از برخاستن از خواب، یعنی حدود هفت صبح، است تا سوخت‌وساز (متابولیسم) بدن آغاز شود.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "زمان ایده‌آل برای صرف صبحانه\n🍳\n◽️\nیک ساعت بعد از برخاستن از خواب، یعنی حدود هفت صبح است. روزتان را ساعت شش صبح آغاز کنید و فعالیتتان را ساعت ۱۰ شب به اتمام برسانید، زیرا این روند با ریتم شبانه‌روزی طبیعی بدن سازگار است. گنجاندن این روند در زمان‌بندی وعده‌های غذایی، به‌ویژه صبحانه و شام، توانایی بدن را برای سوزاندن چربی‌های شکم بیشتر می‌کند.\n◽️\nزمان ایده‌آل برای صرف صبحانه، یک ساعت پس از برخاستن از خواب، یعنی حدود هفت صبح، است تا سوخت‌وساز (متابولیسم) بدن آغاز شود.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38544",
+        "post_id": 38544,
+        "message_id": 3943,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-09-29T06:21:44.896924+00:00"
+      },
+      {
+        "fingerprint": "7604907427ac4a6cc919bd8568e85783423a2e5fd4b973d0884c231e71978107",
+        "media_fingerprint": "",
+        "text": "تتر شبونه ۲۴۹ رو هم رد کرد!\nوالا اصحاب کهف بعد سیصد سال خواب انقد شوک نشدن که ما تو دو شب شدیم...\n@Gilin",
+        "original_username": "gilin_gilin",
+        "original_text": "تتر شبونه ۲۴۹ رو هم رد کرد!\nوالا اصحاب کهف بعد سیصد سال خواب انقد شوک نشدن که ما تو دو شب شدیم...\n@Gilin",
+        "original_link": "https://t.me/Gilin_Gilin/283902",
+        "post_id": 283902,
+        "message_id": 3944,
+        "message_kind": "text",
+        "sources": [
+          "gilin_gilin"
+        ],
+        "created_at": "2026-09-29T06:21:47.590634+00:00"
+      },
+      {
+        "fingerprint": "9d94e8526855bafa4d105d695dcd56096c433cfb1a598f2160ad0fb930a9fd17",
+        "media_fingerprint": "49e995f3fbaeb607555f654e2d25c4e95d0931a15aef227321ffd69bd3360c66",
+        "text": "وقتی تو خدمت بیرانوند از خیابانی مرخصی میخواد\n🤣\n@Gilin",
+        "original_username": "gilin_gilin",
+        "original_text": "وقتی تو خدمت بیرانوند از خیابانی مرخصی میخواد\n🤣\n@Gilin",
+        "original_link": "https://t.me/Gilin_Gilin/283904",
+        "post_id": 283904,
+        "message_id": 3945,
+        "message_kind": "caption",
+        "sources": [
+          "gilin_gilin"
+        ],
+        "created_at": "2026-09-29T06:21:53.211656+00:00"
+      },
+      {
+        "fingerprint": "7bdbe22bc40bb31b0848ce1c9fe47a43c02ff65decaa69a53290a6c2aaba88f0",
+        "media_fingerprint": "1b6015673f564bfda1beab4c2c7f7aa29d0b3019982532add82405704124b854",
+        "text": "بازگشت جلال، آسانش کرد!\n✔️\nگره کار سهراب با این فرمول گشوده شد؛ برد حساس استقلال مقابل پیکان با پنالتی آسانی، دوری از پوکر تساوی‌ها\n🔸\nلیگ برتر ایران - هفته ۷  @Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "بازگشت جلال، آسانش کرد!\n✔️\nگره کار سهراب با این فرمول گشوده شد؛ برد حساس استقلال مقابل پیکان با پنالتی آسانی، دوری از پوکر تساوی‌ها\n🔸\nلیگ برتر ایران - هفته ۷  @Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/108616",
+        "post_id": 108616,
+        "message_id": 3946,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-09-29T06:21:57.193520+00:00"
+      },
+      {
+        "fingerprint": "0b1206fe0287770a015ca9ed7e8175d311c84d1094d982c47ab3949832f11b7a",
+        "media_fingerprint": "",
+        "text": "دزدی خانوادگی در خیابان نیکبخت اصفهان\nNiNa\n@Kafiha",
+        "original_username": "kafiha",
+        "original_text": "دزدی خانوادگی در خیابان نیکبخت اصفهان\nNiNa\n@Kafiha",
+        "original_link": "https://t.me/kafiha/460957",
+        "post_id": 460957,
+        "message_id": 3947,
+        "message_kind": "text",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-09-29T06:21:59.636065+00:00"
+      },
+      {
+        "fingerprint": "958c36acedecb804dd5338bfed2c43d510cd581118d5183bc5239e3d4d99d429",
+        "media_fingerprint": "cdb535beb687daf8b71f86e47bcbff026359d850df05896dd8c74a332c1c9f89",
+        "text": "علیرضا بیرانوند: اصلا دنبال معافیت پزشکی نیستم\n🔻\nدوست ندارم به خاطر پرونده سربازی من، نظام‌وظیفه روی خیلی از بازیکنان دارای معافیت پزشکی لیگ زوم کند!  @Gilin",
+        "original_username": "gilin_gilin",
+        "original_text": "علیرضا بیرانوند: اصلا دنبال معافیت پزشکی نیستم\n🔻\nدوست ندارم به خاطر پرونده سربازی من، نظام‌وظیفه روی خیلی از بازیکنان دارای معافیت پزشکی لیگ زوم کند!  @Gilin",
+        "original_link": "https://t.me/Gilin_Gilin/283905",
+        "post_id": 283905,
+        "message_id": 3948,
+        "message_kind": "caption",
+        "sources": [
+          "gilin_gilin"
+        ],
+        "created_at": "2026-09-29T06:22:05.844020+00:00"
+      },
+      {
+        "fingerprint": "038b1c6938ea392a6b12b83335e0c4aeba73536b9a096385c26593f5472d03b7",
+        "media_fingerprint": "",
+        "text": "افزایش قیمت خودرو ترمز برید\n🔹\nقیمت خودرو امروز سه‌شنبه ۷ مهر ۱۴۰۵ در شرایطی اعلام شد که بازار، همزمان با افزایش قیمت طلا و ارز، بار دیگر در مسیر صعودی قرار گرفته است.\n🔹\nبه نوشته تجارت نیوز، عبور قیمت طلای ۱۸ عیار از مرز ۲۴ میلیون تومان و رسیدن نرخ ارز به محدوده ۲۴۴ هزار تومان، انتظارات قیمتی در بازار خودرو را افزایش داده و باعث رشد قیمت بخش قابل‌توجهی از خودروهای داخلی و مونتاژی شده است.\n🔹\nبا این حال، بازار همچنان با رکود و کاهش حجم معاملات مواجه است و قیمت‌های اعلامی فروشندگان لزوماً به معنای انجام معامله در این سطوح نیست.\n🔹\nروند مهرماه نشان می‌دهد بازار خودرو همچنان به نوسانات نرخ ارز، انتظارات تورمی و میزان عرضه و تحویل خودرو از سوی خودروسازان حساس است.",
+        "original_username": "fars_today",
+        "original_text": "افزایش قیمت خودرو ترمز برید\n🔹\nقیمت خودرو امروز سه‌شنبه ۷ مهر ۱۴۰۵ در شرایطی اعلام شد که بازار، همزمان با افزایش قیمت طلا و ارز، بار دیگر در مسیر صعودی قرار گرفته است.\n🔹\nبه نوشته تجارت نیوز، عبور قیمت طلای ۱۸ عیار از مرز ۲۴ میلیون تومان و رسیدن نرخ ارز به محدوده ۲۴۴ هزار تومان، انتظارات قیمتی در بازار خودرو را افزایش داده و باعث رشد قیمت بخش قابل‌توجهی از خودروهای داخلی و مونتاژی شده است.\n🔹\nبا این حال، بازار همچنان با رکود و کاهش حجم معاملات مواجه است و قیمت‌های اعلامی فروشندگان لزوماً به معنای انجام معامله در این سطوح نیست.\n🔹\nروند مهرماه نشان می‌دهد بازار خودرو همچنان به نوسانات نرخ ارز، انتظارات تورمی و میزان عرضه و تحویل خودرو از سوی خودروسازان حساس است.",
+        "original_link": "https://t.me/Fars_today/132075",
+        "post_id": 132075,
+        "message_id": 3949,
+        "message_kind": "text",
+        "sources": [
+          "fars_today"
+        ],
+        "created_at": "2026-09-29T06:22:09.721599+00:00"
+      },
+      {
+        "fingerprint": "17f2ff0bd3adfca93e57ca6d1208cf89e847b166daf473987c88fd5f65544677",
+        "media_fingerprint": "00fb8570d57c095c93ddd28157ed3ce192555f9643d2ba7f079c9b3a210a0063",
+        "text": "اینا چیه میسازین آخه\n😂\n@Gilin",
+        "original_username": "gilin_gilin",
+        "original_text": "اینا چیه میسازین آخه\n😂\n@Gilin",
+        "original_link": "https://t.me/Gilin_Gilin/283906",
+        "post_id": 283906,
+        "message_id": 3950,
+        "message_kind": "caption",
+        "sources": [
+          "gilin_gilin"
+        ],
+        "created_at": "2026-09-29T06:22:15.623798+00:00"
       }
     ]
   }
