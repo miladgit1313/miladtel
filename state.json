@@ -3936,7 +3936,7 @@
       "sent_count": 214
     },
     "comentiat": {
-      "last_id": 26180,
+      "last_id": 26181,
       "processed_ids": [
         25844,
         25845,
@@ -4211,9 +4211,10 @@
         26177,
         26178,
         26179,
-        26180
+        26180,
+        26181
       ],
-      "sent_count": 185
+      "sent_count": 186
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -11091,21 +11092,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "20fd7cc745cd3c6405d6beeda8e504fdfb4313d414142e1e89fd58848ca126be",
-        "media_fingerprint": "",
-        "text": "فارس:\nمنابع محلی از شلیک کروز دریایی به یک کشتی متخلف در مسیر غیرمجاز تنگۀ هرمز خبر می‌دهد.\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": "فارس:\nمنابع محلی از شلیک کروز دریایی به یک کشتی متخلف در مسیر غیرمجاز تنگۀ هرمز خبر می‌دهد.\n@kafiha",
-        "original_link": "https://t.me/kafiha/460766",
-        "post_id": 460766,
-        "message_id": 3333,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-27T19:49:33.147105+00:00"
-      },
       {
         "fingerprint": "d87896f5d784b4322c9988f5483286e935da0d5af794e922c0310f9e8402e7ce",
         "media_fingerprint": "49bd1a0e6e275e1e3f3e50b28e0d025a0d63d26918b5fa90546af6e365997b2d",
@@ -26236,6 +26222,21 @@
           "drtel"
         ],
         "created_at": "2026-09-29T23:19:21.934238+00:00"
+      },
+      {
+        "fingerprint": "205fb8fe2ac7b61ee475c57c6452b1f0866ece1f3cf2d4882f284fd8d0cc3748",
+        "media_fingerprint": "9b687429ad873c2224d44e5bd341fb45413052b26b32d73ac6d762fe59126907",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26181",
+        "post_id": 26181,
+        "message_id": 4395,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-09-30T01:35:21.299588+00:00"
       }
     ]
   }
