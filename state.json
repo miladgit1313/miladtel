@@ -1476,9 +1476,8 @@
       "sent_count": 42
     },
     "footballvision2": {
-      "last_id": 169969,
+      "last_id": 169970,
       "processed_ids": [
-        168929,
         168930,
         168931,
         168932,
@@ -2477,7 +2476,8 @@
         169966,
         169967,
         169968,
-        169969
+        169969,
+        169970
       ],
       "sent_count": 55
     },
@@ -2642,7 +2642,7 @@
       "sent_count": 5
     },
     "drtel": {
-      "last_id": 67162,
+      "last_id": 67164,
       "processed_ids": [
         66561,
         66565,
@@ -3125,9 +3125,11 @@
         67158,
         67160,
         67161,
-        67162
+        67162,
+        67163,
+        67164
       ],
-      "sent_count": 285
+      "sent_count": 286
     },
     "techtube": {
       "last_id": 18397,
@@ -12124,21 +12126,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "1f17f9c5051512a26a6cc22dfe4aa9953aaccde64a0f7d349cbde2176969432f",
-        "media_fingerprint": "",
-        "text": "‏از جوری که آدم‌ها توی رابطه چقدر ممکنه ناخودآگاه مثل پدر و مادرشون رفتار کنن همیشه پشمام میریزه\n💬\nsirenayda\nSilverfox\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "‏از جوری که آدم‌ها توی رابطه چقدر ممکنه ناخودآگاه مثل پدر و مادرشون رفتار کنن همیشه پشمام میریزه\n💬\nsirenayda\nSilverfox\n@Kafiha",
-        "original_link": "https://t.me/kafiha/460905",
-        "post_id": 460905,
-        "message_id": 3769,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-28T17:46:26.268999+00:00"
-      },
       {
         "fingerprint": "9bfebe7de417578ddad251944fdc0b048f1ad941805886e9130e2376e6bdd373",
         "media_fingerprint": "",
@@ -27279,6 +27266,21 @@
           "drtel"
         ],
         "created_at": "2026-09-30T22:36:25.611872+00:00"
+      },
+      {
+        "fingerprint": "2e61e6496c2e63789da718dbaac5a1e97e2c5e8e4b18b16d23621a4da3bd852d",
+        "media_fingerprint": "86edd66796780d54ba331446e30064f2136097049b381fe1c920c2f079e68af9",
+        "text": "🔴\nطبق تحقیقات ؛\nاکثر کاربران فضای مجازی تبلیغات رو خیلی سریع رَد میکنن مخصوصا اگه طولانی باشه.\nولی این تبلیغِ تقريبا 2 دقیقه‌ای، به دلایل کاملا نامعلومی، توسط کاربری رَد نشده و اکثرا با دقت تا آخرش رو دیدن...\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nطبق تحقیقات ؛\nاکثر کاربران فضای مجازی تبلیغات رو خیلی سریع رَد میکنن مخصوصا اگه طولانی باشه.\nولی این تبلیغِ تقريبا 2 دقیقه‌ای، به دلایل کاملا نامعلومی، توسط کاربری رَد نشده و اکثرا با دقت تا آخرش رو دیدن...\n@DrTeL",
+        "original_link": "https://t.me/drtel/67164",
+        "post_id": 67164,
+        "message_id": 4835,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-09-30T23:51:49.904966+00:00"
       }
     ]
   }
