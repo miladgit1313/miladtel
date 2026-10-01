@@ -2748,7 +2748,7 @@
       "sent_count": 5
     },
     "drtel": {
-      "last_id": 67197,
+      "last_id": 67200,
       "processed_ids": [
         66561,
         66565,
@@ -3262,7 +3262,9 @@
         67193,
         67194,
         67196,
-        67197
+        67197,
+        67199,
+        67200
       ],
       "sent_count": 300
     },
@@ -4355,7 +4357,7 @@
       "sent_count": 243
     },
     "comentiat": {
-      "last_id": 26226,
+      "last_id": 26229,
       "processed_ids": [
         25844,
         25845,
@@ -4669,9 +4671,12 @@
         26223,
         26224,
         26225,
-        26226
+        26226,
+        26227,
+        26228,
+        26229
       ],
-      "sent_count": 216
+      "sent_count": 217
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -13205,21 +13210,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "e68ae9fcee3f5418bab68094645f770f1a45e795deb862e027c2e420d195ce5f",
-        "media_fingerprint": "",
-        "text": "‏دختر خوب رو نمیشه برا بعد نگه داشت، یا انتخابش میکنی یا انتخابش نمیکنی و تا آخر عمر پشیمونی:)\n💬\nRaha\nSilverfox\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "‏دختر خوب رو نمیشه برا بعد نگه داشت، یا انتخابش میکنی یا انتخابش نمیکنی و تا آخر عمر پشیمونی:)\n💬\nRaha\nSilverfox\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461057",
-        "post_id": 461057,
-        "message_id": 4206,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-29T15:55:59.927203+00:00"
-      },
       {
         "fingerprint": "54662c529984591ad6cdfec65cfaa6c342e4498472e316b7621427e11fd9dc2e",
         "media_fingerprint": "",
@@ -28353,6 +28343,21 @@
           "drtel"
         ],
         "created_at": "2026-10-01T22:53:17.125974+00:00"
+      },
+      {
+        "fingerprint": "0ba855bdcf5b8013f3cae522161a5e32444307320b5a91066b13f79f5cd1e84f",
+        "media_fingerprint": "f045c58db8ba9fa4a22983b369750579cb662389c52a7760a992028fb98a54a6",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26228",
+        "post_id": 26228,
+        "message_id": 5278,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-01T23:33:29.611726+00:00"
       }
     ]
   }
