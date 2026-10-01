@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142820,
+      "last_id": 142822,
       "processed_ids": [
         141903,
         141904,
@@ -863,9 +863,11 @@
         142817,
         142818,
         142819,
-        142820
+        142820,
+        142821,
+        142822
       ],
-      "sent_count": 518
+      "sent_count": 520
     },
     "total_fut": {
       "last_id": 237088,
@@ -2704,7 +2706,7 @@
       "sent_count": 5
     },
     "drtel": {
-      "last_id": 67173,
+      "last_id": 67178,
       "processed_ids": [
         66561,
         66565,
@@ -3198,9 +3200,11 @@
         67170,
         67171,
         67172,
-        67173
+        67173,
+        67177,
+        67178
       ],
-      "sent_count": 292
+      "sent_count": 293
     },
     "techtube": {
       "last_id": 18402,
@@ -3301,7 +3305,7 @@
       "sent_count": 36
     },
     "dafaterepishkhandpd": {
-      "last_id": 16062,
+      "last_id": 16063,
       "processed_ids": [
         16055,
         16056,
@@ -3310,9 +3314,10 @@
         16059,
         16060,
         16061,
-        16062
+        16062,
+        16063
       ],
-      "sent_count": 4
+      "sent_count": 5
     },
     "digiai": {
       "last_id": 2535,
@@ -4728,7 +4733,7 @@
       "sent_count": 94
     },
     "gizmiztel": {
-      "last_id": 162607,
+      "last_id": 162616,
       "processed_ids": [
         161872,
         161875,
@@ -5390,9 +5395,16 @@
         162604,
         162605,
         162606,
-        162607
+        162607,
+        162608,
+        162609,
+        162610,
+        162611,
+        162612,
+        162615,
+        162616
       ],
-      "sent_count": 427
+      "sent_count": 433
     },
     "dr_salamatx": {
       "last_id": 55333,
@@ -7248,7 +7260,7 @@
       "sent_count": 48
     },
     "varzesh3": {
-      "last_id": 303167,
+      "last_id": 303168,
       "processed_ids": [
         302363,
         302364,
@@ -7975,12 +7987,13 @@
         303164,
         303165,
         303166,
-        303167
+        303167,
+        303168
       ],
       "sent_count": 31
     },
     "totalfut_plus": {
-      "last_id": 26328,
+      "last_id": 26329,
       "processed_ids": [
         25870,
         25871,
@@ -8431,12 +8444,13 @@
         26325,
         26326,
         26327,
-        26328
+        26328,
+        26329
       ],
       "sent_count": 17
     },
     "adak_ir_official": {
-      "last_id": 234532,
+      "last_id": 234533,
       "processed_ids": [
         233831,
         233833,
@@ -9134,7 +9148,8 @@
         234529,
         234530,
         234531,
-        234532
+        234532,
+        234533
       ],
       "sent_count": 62
     },
@@ -9895,7 +9910,7 @@
       "sent_count": 22
     },
     "hattric_official": {
-      "last_id": 84092,
+      "last_id": 84093,
       "processed_ids": [
         83433,
         83434,
@@ -10513,12 +10528,13 @@
         84089,
         84090,
         84091,
-        84092
+        84092,
+        84093
       ],
       "sent_count": 33
     },
     "mazdak_hattrick": {
-      "last_id": 182274,
+      "last_id": 182275,
       "processed_ids": [
         181991,
         181992,
@@ -10798,7 +10814,8 @@
         182271,
         182272,
         182273,
-        182274
+        182274,
+        182275
       ],
       "sent_count": 21
     },
@@ -10864,16 +10881,18 @@
       "sent_count": 0
     },
     "khooroosjangi": {
-      "last_id": 85728,
+      "last_id": 85730,
       "processed_ids": [
         85726,
         85727,
-        85728
+        85728,
+        85729,
+        85730
       ],
-      "sent_count": 0
+      "sent_count": 1
     },
     "irwonders": {
-      "last_id": 58204,
+      "last_id": 58206,
       "processed_ids": [
         58030,
         58031,
@@ -11025,9 +11044,11 @@
         58200,
         58201,
         58202,
-        58204
+        58204,
+        58205,
+        58206
       ],
-      "sent_count": 95
+      "sent_count": 96
     },
     "razcom": {
       "last_id": 70468,
@@ -11086,7 +11107,7 @@
       "sent_count": 13
     },
     "gilin_gilin": {
-      "last_id": 284107,
+      "last_id": 284108,
       "processed_ids": [
         283735,
         283736,
@@ -11442,9 +11463,10 @@
         284104,
         284105,
         284106,
-        284107
+        284107,
+        284108
       ],
-      "sent_count": 170
+      "sent_count": 171
     },
     "tvnavad": {
       "last_id": 0,
@@ -11452,7 +11474,7 @@
       "sent_count": 0
     },
     "kafiha": {
-      "last_id": 461372,
+      "last_id": 461376,
       "processed_ids": [
         460646,
         460647,
@@ -12075,9 +12097,12 @@
         461368,
         461369,
         461370,
-        461372
+        461372,
+        461374,
+        461375,
+        461376
       ],
-      "sent_count": 480
+      "sent_count": 482
     },
     "asrare_movafaghiyat": {
       "last_id": 3,
@@ -12612,234 +12637,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "8d66f3b720567deb5b214c5543b419b9af1ae9ec011c6685f39d8804414580cd",
-        "media_fingerprint": "",
-        "text": "چقدر قشنگ و زیبا میگه :\nهیچوقت به انتقام فکر نکن ....\nمیوه خراب خودش از شاخه می افته ....\nحتی اگه دست بهش نخوره ....\n💬\nAli\nNiNa\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "چقدر قشنگ و زیبا میگه :\nهیچوقت به انتقام فکر نکن ....\nمیوه خراب خودش از شاخه می افته ....\nحتی اگه دست بهش نخوره ....\n💬\nAli\nNiNa\n@Kafiha",
-        "original_link": "https://t.me/kafiha/460960",
-        "post_id": 460960,
-        "message_id": 3963,
-        "message_kind": "text",
-        "sources": [
-          "kafiha",
-          "khandehabadd"
-        ],
-        "created_at": "2026-09-29T07:18:37.363525+00:00"
-      },
-      {
-        "fingerprint": "d1d5538fffae3f451e98222c06f9a8e7665ebc1bcf1040a4bd9a37258c460276",
-        "media_fingerprint": "a54339dee47f002ba2b7fa752d5fe39c8cd539f739dff411e1ecf84253340668",
-        "text": "واتیکان کوچک‌ترین کشور جهان است؛ اما در همین فهرست، ۱۵ کشور دیگر هم صاحب یک رکورد ۱ جهانی دیگرند.\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "واتیکان کوچک‌ترین کشور جهان است؛ اما در همین فهرست، ۱۵ کشور دیگر هم صاحب یک رکورد ۱ جهانی دیگرند.\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159336",
-        "post_id": 159336,
-        "message_id": 3964,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann",
-          "irwonders"
-        ],
-        "created_at": "2026-09-29T07:18:41.636834+00:00"
-      },
-      {
-        "fingerprint": "f3193d46a553e949d23b1ac38d150a72026dd734efe09012e88da8385626cb7b",
-        "media_fingerprint": "cf6a4e54560ccc0317ac8553f779b302832ed04feedbd3bf960cbc91d960eb92",
-        "text": "احساس تنهایی و ارتباط آن با کاهش سال‌های زندگی سالم\n◽️\nپژوهشی جدید از دانشگاه تولین نشان می‌دهد احساس تنهایی و انزوای اجتماعی می‌توانند با کاهش سال‌هایی از زندگی که فرد بدون بیماری‌های مهم جسمی و روانی سپری می‌کند، ارتباط داشته باشند. محققان با بررسی داده‌های بیش از ۲۷۷ هزار فرد ۴۰ تا ۶۹ ساله دریافتند افرادی که هم احساس تنهایی و هم انزوای اجتماعی را تجربه می‌کنند، به‌ویژه در زمینه سلامت روان، سال‌های کمتری از زندگی سالم را تجربه می‌کنند. در این مطالعه همچنین مشخص شد سبک زندگی سالم مانند ورزش، خواب کافی و تغذیه مناسب می‌تواند بخشی از پیامدهای انزوای اجتماعی را کاهش دهد، اما اثر احساس تنهایی به‌سادگی با تغییر عادت‌های روزمره از بین نمی‌رود.\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_username": "majalepezeshki",
-        "original_text": "احساس تنهایی و ارتباط آن با کاهش سال‌های زندگی سالم\n◽️\nپژوهشی جدید از دانشگاه تولین نشان می‌دهد احساس تنهایی و انزوای اجتماعی می‌توانند با کاهش سال‌هایی از زندگی که فرد بدون بیماری‌های مهم جسمی و روانی سپری می‌کند، ارتباط داشته باشند. محققان با بررسی داده‌های بیش از ۲۷۷ هزار فرد ۴۰ تا ۶۹ ساله دریافتند افرادی که هم احساس تنهایی و هم انزوای اجتماعی را تجربه می‌کنند، به‌ویژه در زمینه سلامت روان، سال‌های کمتری از زندگی سالم را تجربه می‌کنند. در این مطالعه همچنین مشخص شد سبک زندگی سالم مانند ورزش، خواب کافی و تغذیه مناسب می‌تواند بخشی از پیامدهای انزوای اجتماعی را کاهش دهد، اما اثر احساس تنهایی به‌سادگی با تغییر عادت‌های روزمره از بین نمی‌رود.\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_link": "https://t.me/MajalePezeshki/38545",
-        "post_id": 38545,
-        "message_id": 3965,
-        "message_kind": "caption",
-        "sources": [
-          "majalepezeshki"
-        ],
-        "created_at": "2026-09-29T07:18:46.815184+00:00"
-      },
-      {
-        "fingerprint": "3f084f7ea75008fe13421a7c08fbdaf73265475a90ab7593c46e21d541122304",
-        "media_fingerprint": "57ae511121c96aeaff68cc2a9243bd077ec9227c41de0045292775959562c678",
-        "text": "رانشِ بسیار بزرگِ زمین در نپال!\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "رانشِ بسیار بزرگِ زمین در نپال!\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52537",
-        "post_id": 52537,
-        "message_id": 3966,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-09-29T07:18:53.631644+00:00"
-      },
-      {
-        "fingerprint": "f6f3b8db3fa571d61b92d55499da8320f7623492602f15f75f6d3c81108198fc",
-        "media_fingerprint": "40308e57b2d5fdeaaf13436bcaf3f8920d2e79e86ede97c95c656b40ee69d0c2",
-        "text": "توت فرنگی از زبون خودش\n🍓\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "توت فرنگی از زبون خودش\n🍓\n@irWonders",
-        "original_link": "https://t.me/irwonders/58101",
-        "post_id": 58101,
-        "message_id": 3967,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-09-29T07:18:59.001564+00:00"
-      },
-      {
-        "fingerprint": "dda208df3753b39079c447c7a411fcc900317a5cb8dd235d76845f5b7fc2fa30",
-        "media_fingerprint": "",
-        "text": "📣\nاعلام زمانبندی دومین فراخوان جذب هیئت علمی وزارت علوم  ۱۴۰۵\nطبق اخبار منتشر شده، رئیس هیئت عالی جذب شورای عالی انقلاب فرهنگی اعلام کرد، فراخوان بعدی جذب هیات علمی وزارت علوم  طی یک تا دو ماه آینده (حدود آبان یا آذرماه) منتشر می شود .\n‼️\nهمچنین وی افزود: پس از اتمام این فرآیند و طی شدن مراحل مربوط با سازمان امور استخدامی، وارد مرحله بعد خواهیم شد و مشکلی در این زمینه وجود ندارد.\n📆\nزمان انتشار فراخوان جذب هیات علمی: یک الی دوماه آینده ( آبان و آذر ماه)",
-        "original_username": "coffeenetmanager",
-        "original_text": "📣\nاعلام زمانبندی دومین فراخوان جذب هیئت علمی وزارت علوم  ۱۴۰۵\nطبق اخبار منتشر شده، رئیس هیئت عالی جذب شورای عالی انقلاب فرهنگی اعلام کرد، فراخوان بعدی جذب هیات علمی وزارت علوم  طی یک تا دو ماه آینده (حدود آبان یا آذرماه) منتشر می شود .\n‼️\nهمچنین وی افزود: پس از اتمام این فرآیند و طی شدن مراحل مربوط با سازمان امور استخدامی، وارد مرحله بعد خواهیم شد و مشکلی در این زمینه وجود ندارد.\n📆\nزمان انتشار فراخوان جذب هیات علمی: یک الی دوماه آینده ( آبان و آذر ماه)",
-        "original_link": "https://t.me/CoffeenetManager/51648",
-        "post_id": 51648,
-        "message_id": 3968,
-        "message_kind": "text",
-        "sources": [
-          "coffeenetmanager"
-        ],
-        "created_at": "2026-09-29T07:19:02.343078+00:00"
-      },
-      {
-        "fingerprint": "c0316b46bc49a0b0944885f6e27699e6c8f84115667a74b23a58136b0e836a18",
-        "media_fingerprint": "",
-        "text": "سفیر عراق در تهران: فرودگاه نجف تا ۲۴ ساعت آینده به روی پروازهای ایران باز می‌ شود.  @Gilin",
-        "original_username": "gilin_gilin",
-        "original_text": "سفیر عراق در تهران: فرودگاه نجف تا ۲۴ ساعت آینده به روی پروازهای ایران باز می‌ شود.  @Gilin",
-        "original_link": "https://t.me/Gilin_Gilin/283911",
-        "post_id": 283911,
-        "message_id": 3969,
-        "message_kind": "text",
-        "sources": [
-          "gilin_gilin"
-        ],
-        "created_at": "2026-09-29T07:19:05.240711+00:00"
-      },
-      {
-        "fingerprint": "381e6bf57ab7cf4a26910efb573c98773ed4195da483ea0b5cbf4e64a2868f74",
-        "media_fingerprint": "",
-        "text": "یه دوس دختر داشتم دوسم نداشت و دنبال بهونه بود.\nیه صبح که بیدار شدم پیام داد گفت تو به دردم نمیخوری شبا زود میخوابی من حوصلم سر میره\n🙂\n.\nدیشب استوری گذاشت ورزش کنید و شبا زود بخوابید\n😄\nخلاصه دوستت نداشته باشن از نفس کشیدنتم ایراد میگیرن\n💬\nsina shahi\nNiNa\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "یه دوس دختر داشتم دوسم نداشت و دنبال بهونه بود.\nیه صبح که بیدار شدم پیام داد گفت تو به دردم نمیخوری شبا زود میخوابی من حوصلم سر میره\n🙂\n.\nدیشب استوری گذاشت ورزش کنید و شبا زود بخوابید\n😄\nخلاصه دوستت نداشته باشن از نفس کشیدنتم ایراد میگیرن\n💬\nsina shahi\nNiNa\n@Kafiha",
-        "original_link": "https://t.me/kafiha/460963",
-        "post_id": 460963,
-        "message_id": 3970,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-29T07:19:08.486301+00:00"
-      },
-      {
-        "fingerprint": "fdfe3f16013a4c213e449ecbcdc23c17c7619e6d76a1c0e8e56656c8446e4371",
-        "media_fingerprint": "21da7624712d3888ac6a8285a78f6a2a69dbfa778314624e2ad3e85a3e7dbd8e",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26155",
-        "post_id": 26155,
-        "message_id": 3971,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-09-29T07:19:12.051309+00:00"
-      },
-      {
-        "fingerprint": "c37e4e34a056b4fcc026191f98603490647ef32461febb17fa9ff65fd7f46419",
-        "media_fingerprint": "2910ac715352015ca462cd9d6f669355e2e8d2a21427bd7871eb41fd433c1efa",
-        "text": "♦️\nحمله با کارشناسان اورژانس شیراز تا حصول نتیجه پیگیری می‌شود  معاون درمان دانشگاه علوم پزشکی شیراز:\n🔹\nدانشگاه علوم پزشکی شیراز حادثه حمله به کارشناسان اورژانس شیراز را از طریق مراجع قانونی تا حصول نتیجه و برخورد قاطع با عوامل این حادثه پیگیری خواهد کرد.\n🔹\nکارشناسان…",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nحمله با کارشناسان اورژانس شیراز تا حصول نتیجه پیگیری می‌شود  معاون درمان دانشگاه علوم پزشکی شیراز:\n🔹\nدانشگاه علوم پزشکی شیراز حادثه حمله به کارشناسان اورژانس شیراز را از طریق مراجع قانونی تا حصول نتیجه و برخورد قاطع با عوامل این حادثه پیگیری خواهد کرد.\n🔹\nکارشناسان…",
-        "original_link": "https://t.me/akhbarfars/142671",
-        "post_id": 142671,
-        "message_id": 3972,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-29T07:19:18.574296+00:00"
-      },
-      {
-        "fingerprint": "1a9f3d72cce8f4968d8271768db67f38b72043d6e37493f1e39498a9896438fa",
-        "media_fingerprint": "dc37ccf1636622b04b73247eabb5941d3c36d39b3f5ad1c2681c593d0478c001",
-        "text": "✅\nاطلاعیه ایران خودرو دیزل در بخشنامه های فروش نقدی و اقساطی شرکت از تاریخ ۶مهر ماه و به بعد به هیچ وجه امکان تغییر مدل محصول و نوع و مبلغ تسهیلات وجود ندارد.\n#ایرانخودرودیزل",
-        "original_username": "sabtnamkh0dro",
-        "original_text": "✅\nاطلاعیه ایران خودرو دیزل در بخشنامه های فروش نقدی و اقساطی شرکت از تاریخ ۶مهر ماه و به بعد به هیچ وجه امکان تغییر مدل محصول و نوع و مبلغ تسهیلات وجود ندارد.\n#ایرانخودرودیزل",
-        "original_link": "https://t.me/sabtnamkh0dro/14288",
-        "post_id": 14288,
-        "message_id": 3973,
-        "message_kind": "caption",
-        "sources": [
-          "sabtnamkh0dro"
-        ],
-        "created_at": "2026-09-29T07:19:22.581214+00:00"
-      },
-      {
-        "fingerprint": "8779da626109ed05535f760e1ef6ff01ca3c3d10824f0675acba49ca12207a32",
-        "media_fingerprint": "8c09f8d66be5de14b92988bf8ad923ba5ad51aa2aaaaadbac619504d58b350ea",
-        "text": "🎥\nخبرنگار: افزایش ۳۰۰ هزار تومانی کالابرگ، پول یک پفک هم نمی‌شود!\n🔵\nسخنگوی دولت: قطعا کالابرگ برای خرید پفک داده نمی‌شود.\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🎥\nخبرنگار: افزایش ۳۰۰ هزار تومانی کالابرگ، پول یک پفک هم نمی‌شود!\n🔵\nسخنگوی دولت: قطعا کالابرگ برای خرید پفک داده نمی‌شود.\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22775",
-        "post_id": 22775,
-        "message_id": 3974,
-        "message_kind": "caption",
-        "sources": [
-          "akhbar_cafenet",
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-29T07:19:40.837746+00:00"
-      },
-      {
-        "fingerprint": "d266e0186fd1c78266476fbf22311186a97d6ac94d20bda784f1cdd8a08afdc7",
-        "media_fingerprint": "08d867283c299519b20b127063b0337f376c16a58d54abc2a6e0933046537521",
-        "text": "🎥\nخبرنگار: افزایش ۳۰۰ هزار تومانی کالابرگ، پول یک پفک هم نمی‌شود!\n🔵\nسخنگوی دولت: قطعا کالابرگ برای خرید پفک داده نمی‌شود.\n✦✦✦ آنلاین کافه ✦✦✦\nکانال تلگرام :\n@onlinecofe_ir\nوبلاگ اخبار :\nonlinecofe.ir/news",
-        "original_username": "onlinecofe_ir",
-        "original_text": "🎥\nخبرنگار: افزایش ۳۰۰ هزار تومانی کالابرگ، پول یک پفک هم نمی‌شود!\n🔵\nسخنگوی دولت: قطعا کالابرگ برای خرید پفک داده نمی‌شود.\n✦✦✦ آنلاین کافه ✦✦✦\nکانال تلگرام :\n@onlinecofe_ir\nوبلاگ اخبار :\nonlinecofe.ir/news",
-        "original_link": "https://t.me/onlinecofe_ir/2784",
-        "post_id": 2784,
-        "message_id": 3975,
-        "message_kind": "caption",
-        "sources": [
-          "onlinecofe_ir"
-        ],
-        "created_at": "2026-09-29T07:19:47.069020+00:00"
-      },
-      {
-        "fingerprint": "535eaabbebbd4ace6873f9fa6b9651471968d938a4bd8291e768c0b1d636c2d0",
-        "media_fingerprint": "1d93554b59434f3c5f296afcd11528abdc056b689895670660e336546e1bcd86",
-        "text": "♦️\nهفتم مهر، روز آتش‌نشانی و ایمنی گرامی باد\n🔹\nاز شیراز تا جهرم، از مرودشت تا فسا مردانی که وقتی شعله بالا می‌گیرد، به جای فرار، پیش می‌روند.\n🌹\nآتش‌نشانان شجاع استان فارس، این روز از آنِ شماست.\n🧡\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nهفتم مهر، روز آتش‌نشانی و ایمنی گرامی باد\n🔹\nاز شیراز تا جهرم، از مرودشت تا فسا مردانی که وقتی شعله بالا می‌گیرد، به جای فرار، پیش می‌روند.\n🌹\nآتش‌نشانان شجاع استان فارس، این روز از آنِ شماست.\n🧡\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142672",
-        "post_id": 142672,
-        "message_id": 3976,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-29T07:19:52.489740+00:00"
-      },
-      {
-        "fingerprint": "3a2d263aac9207ede94c7047f6324f1767d09d008f7b511904ca78a9cead99fc",
-        "media_fingerprint": "7ce96602685eb74d21c1ad7353cb6e09567e1ed281d655f69fdc70dd71eabec3",
-        "text": "✅\nشرایط فروش تسهیلاتی اقساطی کامیون ۲۶ تن باری  C&C از سوی شرکت آریا دیزل ویژه مهر ماه ۱۴۰۵\n#آریادیزل",
-        "original_username": "sabtnamkh0dro",
-        "original_text": "✅\nشرایط فروش تسهیلاتی اقساطی کامیون ۲۶ تن باری  C&C از سوی شرکت آریا دیزل ویژه مهر ماه ۱۴۰۵\n#آریادیزل",
-        "original_link": "https://t.me/sabtnamkh0dro/14289",
-        "post_id": 14289,
-        "message_id": 3977,
-        "message_kind": "caption",
-        "sources": [
-          "sabtnamkh0dro"
-        ],
-        "created_at": "2026-09-29T07:37:29.274696+00:00"
-      },
       {
         "fingerprint": "c2937973be53acd7cb0ba2e5827b24a40e694439346f8657b4ac98b514534ac9",
         "media_fingerprint": "",
@@ -26184,7 +25981,8 @@
         "sources": [
           "kafiha",
           "gilin_gilin",
-          "gizmiztel"
+          "gizmiztel",
+          "khooroosjangi"
         ],
         "created_at": "2026-10-01T08:31:25.910535+00:00"
       },
@@ -27226,7 +27024,8 @@
         "message_id": 4989,
         "message_kind": "caption",
         "sources": [
-          "kafiha"
+          "kafiha",
+          "gizmiztel"
         ],
         "created_at": "2026-10-01T11:28:07.836505+00:00"
       },
@@ -27770,6 +27569,231 @@
           "akhbarfars"
         ],
         "created_at": "2026-10-01T13:27:12.979853+00:00"
+      },
+      {
+        "fingerprint": "c2f2c15db55bbb1a737097f2c83fc8e4200c5df57c50ea02923165e385f1fc8c",
+        "media_fingerprint": "ce9e6cdd805cd0d744fba7a37133f0f4a7b631c1c218d2a632ba700a199ba963",
+        "text": "شلوار شیشه‌ای هم وارد بازار شد!\n😳\n😳\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "شلوار شیشه‌ای هم وارد بازار شد!\n😳\n😳\n@irWonders",
+        "original_link": "https://t.me/irwonders/58205",
+        "post_id": 58205,
+        "message_id": 5032,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-01T13:49:42.928539+00:00"
+      },
+      {
+        "fingerprint": "e000d2e42121e4515215b62c87b1b4bb72efee908af390a54eb667874667901f",
+        "media_fingerprint": "566855e6eda210ad871f316ed8a0fa7305afae35cb637f4d30f16638ff92ff80",
+        "text": "ای کیرم توش دیگه گول نمیخورن\n💔",
+        "original_username": "drtel",
+        "original_text": "ای کیرم توش دیگه گول نمیخورن\n💔",
+        "original_link": "https://t.me/drtel/67177",
+        "post_id": 67177,
+        "message_id": 5033,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-01T13:49:46.787646+00:00"
+      },
+      {
+        "fingerprint": "f479bda094dc5cd58df30a69b66fb6d37d4715ef2ca26738b0e14cc88172e4a9",
+        "media_fingerprint": "18c056a94958513b61a8eb0ca07101592a65e4151f5b94b405f5cc45f4be809b",
+        "text": "🧥\nپافر کلاهدار زنانه و مردانه Zinox | دو رنگ خاص برای استایل پاییز و زمستون\n🍂\n❄️\nسبک، گرم و ضدباد با پارچه مموری؛ مناسب برای روزهای سرد و بارونی\n👌\n🎨\nرنگ‌بندی:\nمشکی | سفید\n📏\nسایزبندی:\nL | XL | 2XL\n💰\nخرید نقدی درب منزل:\n۲,۱۸۰,۰۰۰ تومان\n💳\nخرید قسطی:\n۴ قسط ۶۳۰,۰۰۰ تومانی\n🔄\nضمانت تعویض ۳ روزه کالا\nلینک خرید مشکی\nhttps://memarket24.ir/product/fast/64809/180124/\nلینک خرید سفید\nhttps://memarket24.ir/product/fast/64808/180124/",
+        "original_username": "akhbarfars",
+        "original_text": "🧥\nپافر کلاهدار زنانه و مردانه Zinox | دو رنگ خاص برای استایل پاییز و زمستون\n🍂\n❄️\nسبک، گرم و ضدباد با پارچه مموری؛ مناسب برای روزهای سرد و بارونی\n👌\n🎨\nرنگ‌بندی:\nمشکی | سفید\n📏\nسایزبندی:\nL | XL | 2XL\n💰\nخرید نقدی درب منزل:\n۲,۱۸۰,۰۰۰ تومان\n💳\nخرید قسطی:\n۴ قسط ۶۳۰,۰۰۰ تومانی\n🔄\nضمانت تعویض ۳ روزه کالا\nلینک خرید مشکی\nhttps://memarket24.ir/product/fast/64809/180124/\nلینک خرید سفید\nhttps://memarket24.ir/product/fast/64808/180124/",
+        "original_link": "https://t.me/akhbarfars/142821",
+        "post_id": 142821,
+        "message_id": 5034,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-01T13:49:51.579261+00:00"
+      },
+      {
+        "fingerprint": "3ac74a22cb5eacb7a06e971604d0eed448108ec29c7d8f0fea0d5ba37d6689fa",
+        "media_fingerprint": "3c4bc5fc818f7e3f41eaabad8017ce0dd8cc9d3c0f02c39faa712060ce92ea6b",
+        "text": "متأسفانه سیامک رو از دست دادیم\n💔\n@Gilin",
+        "original_username": "gilin_gilin",
+        "original_text": "متأسفانه سیامک رو از دست دادیم\n💔\n@Gilin",
+        "original_link": "https://t.me/Gilin_Gilin/284108",
+        "post_id": 284108,
+        "message_id": 5035,
+        "message_kind": "caption",
+        "sources": [
+          "gilin_gilin"
+        ],
+        "created_at": "2026-10-01T13:49:56.422550+00:00"
+      },
+      {
+        "fingerprint": "5682e57ed5c39a94d1cd115903d9ae79187b1ae4559271628c2f52e264bd2a29",
+        "media_fingerprint": "fa3d8b521cc0bee7d56cd2ae25126f79206d93b38b27313684d413712ed9239e",
+        "text": "#_همراه_اول  #_نظرسنجی   مدیران محترم مراکز فروش و خدمات حضوری همراه اول  با سلام\n📌\nبه منظور پایش و ارزیابی دقیق خدمات ارائه‌شده توسط مخابرات  و تیم ترید ، از جنابعالی دعوت می‌شود با تکمیل فرم نظرسنجی زیر، نظر خود را درباره کیفیت خدمات اعلام فرمایید. نظرات…",
+        "original_username": "dafaterepishkhandpd",
+        "original_text": "#_همراه_اول  #_نظرسنجی   مدیران محترم مراکز فروش و خدمات حضوری همراه اول  با سلام\n📌\nبه منظور پایش و ارزیابی دقیق خدمات ارائه‌شده توسط مخابرات  و تیم ترید ، از جنابعالی دعوت می‌شود با تکمیل فرم نظرسنجی زیر، نظر خود را درباره کیفیت خدمات اعلام فرمایید. نظرات…",
+        "original_link": "https://t.me/DafaterePishkhanDpd/16063",
+        "post_id": 16063,
+        "message_id": 5036,
+        "message_kind": "caption",
+        "sources": [
+          "dafaterepishkhandpd"
+        ],
+        "created_at": "2026-10-01T13:50:01.010807+00:00"
+      },
+      {
+        "fingerprint": "f76ea9325d9712ad663cbbd8f222f08785534c806ba9f0fa11d58e5cd45af7f7",
+        "media_fingerprint": "fbcb2e8fefd8fab0f62b8153088b088503878c5f34b7b3d9baddae64b59d9af0",
+        "text": "چطوری ایرانی؟!\n🤦‍♂\n@Kafiha",
+        "original_username": "kafiha",
+        "original_text": "چطوری ایرانی؟!\n🤦‍♂\n@Kafiha",
+        "original_link": "https://t.me/kafiha/461375",
+        "post_id": 461375,
+        "message_id": 5037,
+        "message_kind": "caption",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-10-01T13:50:04.803030+00:00"
+      },
+      {
+        "fingerprint": "2d1191359f6e3b006473bfe407cce05c7ec9990200b3fc17b7cfa3bfc8d25348",
+        "media_fingerprint": "e87741b2645cd4c561dbc12e3a3d2baef26f9983b2ec960ae783795a57ac2fc8",
+        "text": "تعقیب گریز و دستگیری سارق متواری توسط‌ ماموران پلیس آگاهی\nchannel➣\n🐓\n@khooroosjangi",
+        "original_username": "khooroosjangi",
+        "original_text": "تعقیب گریز و دستگیری سارق متواری توسط‌ ماموران پلیس آگاهی\nchannel➣\n🐓\n@khooroosjangi",
+        "original_link": "https://t.me/khooroosjangi/85729",
+        "post_id": 85729,
+        "message_id": 5038,
+        "message_kind": "caption",
+        "sources": [
+          "khooroosjangi"
+        ],
+        "created_at": "2026-10-01T13:50:11.250136+00:00"
+      },
+      {
+        "fingerprint": "0adca377d29af2c2866c2662baa1d1f39c4abb1a68d1565b7299e277fe25cb10",
+        "media_fingerprint": "",
+        "text": "♦️\nموانع توسعه شهر سلامت شیراز باید سریع برطرف شود\n🔹️\nاستاندار فارس با تأکید بر اهمیت پروژه شهر سلامت شیراز، خواستار اولویت‌بندی پروژه‌ها، تدوین برنامه زمان‌بندی مشخص و رفع موانع قانونی و اداری برای شتاب‌بخشی به روند اجرای این طرح شد.\n🔹️\nباید با استفاده از ظرفیت‌های موجود، مسیر توسعه شهر سلامت را بدون تأخیر هموار کرد.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nموانع توسعه شهر سلامت شیراز باید سریع برطرف شود\n🔹️\nاستاندار فارس با تأکید بر اهمیت پروژه شهر سلامت شیراز، خواستار اولویت‌بندی پروژه‌ها، تدوین برنامه زمان‌بندی مشخص و رفع موانع قانونی و اداری برای شتاب‌بخشی به روند اجرای این طرح شد.\n🔹️\nباید با استفاده از ظرفیت‌های موجود، مسیر توسعه شهر سلامت را بدون تأخیر هموار کرد.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142822",
+        "post_id": 142822,
+        "message_id": 5039,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-01T13:50:15.070631+00:00"
+      },
+      {
+        "fingerprint": "6e2068b6dd2bef395c77294feac4d4d0c8bfa754e428e48cd4b463e37be16e3a",
+        "media_fingerprint": "e48404ed7c451750cc322a615176633daecf90aa0d55a12b01ec602c3e1dbd2f",
+        "text": "همش که نباید عاشقانه باشه :)\n💬\nحادی با ه\nClovE\n@Kafiha",
+        "original_username": "kafiha",
+        "original_text": "همش که نباید عاشقانه باشه :)\n💬\nحادی با ه\nClovE\n@Kafiha",
+        "original_link": "https://t.me/kafiha/461376",
+        "post_id": 461376,
+        "message_id": 5040,
+        "message_kind": "caption",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-10-01T13:50:19.271006+00:00"
+      },
+      {
+        "fingerprint": "625e2c78249338c57750f4a280dcecaad8848af579d80d5bbfdd6cd46f028e87",
+        "media_fingerprint": "5f6df9b357378d82c800bb983a249aa9017429764533e22b96fd6d5dc04bf190",
+        "text": "لحظه آتش‌گرفتن یک هواپیمای مسافربری و تخلیه فوری مسافران آن‌ در آمریکا\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "لحظه آتش‌گرفتن یک هواپیمای مسافربری و تخلیه فوری مسافران آن‌ در آمریکا\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162608",
+        "post_id": 162608,
+        "message_id": 5041,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-01T13:50:26.461030+00:00"
+      },
+      {
+        "fingerprint": "5ba86c5f23c7fc57741e5de434a692d06679fd543cc9bb948431c39ff6aa7c15",
+        "media_fingerprint": "09ad39c90c330013d3dd024247abf1d1bdfe6eb948a2934dadd8eeb3e85608d4",
+        "text": "قدرت هوش‌مصنوعی به جایی رسیده که دیگه به چشماتونم نمیتونید اعتماد کنید.\nاگه دیدید کسی ماشین مدل بالا؛ خونه گرون قیمت و یا زندگی لاکچری داشت؛ ممکنه همش هوش مصنوعی باشه‌.\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "قدرت هوش‌مصنوعی به جایی رسیده که دیگه به چشماتونم نمیتونید اعتماد کنید.\nاگه دیدید کسی ماشین مدل بالا؛ خونه گرون قیمت و یا زندگی لاکچری داشت؛ ممکنه همش هوش مصنوعی باشه‌.\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162609",
+        "post_id": 162609,
+        "message_id": 5042,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-01T13:50:40.898140+00:00"
+      },
+      {
+        "fingerprint": "454806c7aa68fe94e63fbf52f58c532eda9c71c05b9621d841b7fac981fe69a6",
+        "media_fingerprint": "9d36481c6f4296cabde97a108d8355862418e33864133abed4ce9387bcb8ec62",
+        "text": "از آدمای روراست که بهت حس ناکافی بودن نمیدن خوشم میاد\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "از آدمای روراست که بهت حس ناکافی بودن نمیدن خوشم میاد\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162611",
+        "post_id": 162611,
+        "message_id": 5043,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-01T13:50:45.442897+00:00"
+      },
+      {
+        "fingerprint": "17a5e128dc10575fd1f15bf9d07f807bea78bcb5fe66e224099dbbcecee748ed",
+        "media_fingerprint": "f8b74db9a82182d51446402d3aad4eb01c41dc20c165aec525bc4381beafccb4",
+        "text": "امیرمحمد بعد چند روزِ سختِ کاری تو ترکیه و دیدارهای مهم، به ایران برگشت.\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "امیرمحمد بعد چند روزِ سختِ کاری تو ترکیه و دیدارهای مهم، به ایران برگشت.\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162612",
+        "post_id": 162612,
+        "message_id": 5044,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-01T13:50:51.291695+00:00"
+      },
+      {
+        "fingerprint": "4c419802474bcd6b79156c624faf7f0aca4b6a2ad52c3a0a2a89b21aacfcaed5",
+        "media_fingerprint": "8693cfc158c6ad2a8b94cd6ca1b4b017dfec5145be241f2ab1695d478ab75980",
+        "text": "یکی از هموطنان زیر پست بوراک نوشت امیرمحمد اهل عربستانه ولی متاسفانه بوراک گول نخورد...\n😄\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "یکی از هموطنان زیر پست بوراک نوشت امیرمحمد اهل عربستانه ولی متاسفانه بوراک گول نخورد...\n😄\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162615",
+        "post_id": 162615,
+        "message_id": 5046,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-01T13:50:55.641618+00:00"
+      },
+      {
+        "fingerprint": "f6089e594843d2e9b3c82b2daff13df37a2d26c9ee84a93b99f20c347c838cd4",
+        "media_fingerprint": "69c6cd3e1140b475ba5c2562692b46b660a7afa555a82cb02d59637e0aa4c1a6",
+        "text": "امیدوارم علم جوری پیشرفت کنه آدمو از داخل هم جوون کنن..\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "امیدوارم علم جوری پیشرفت کنه آدمو از داخل هم جوون کنن..\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162616",
+        "post_id": 162616,
+        "message_id": 5047,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-01T13:51:01.186156+00:00"
       }
     ]
   }
