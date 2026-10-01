@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142804,
+      "last_id": 142807,
       "processed_ids": [
         141903,
         141904,
@@ -847,12 +847,15 @@
         142800,
         142801,
         142803,
-        142804
+        142804,
+        142805,
+        142806,
+        142807
       ],
       "sent_count": 510
     },
     "total_fut": {
-      "last_id": 237077,
+      "last_id": 237078,
       "processed_ids": [
         236405,
         236407,
@@ -1497,7 +1500,8 @@
         237074,
         237075,
         237076,
-        237077
+        237077,
+        237078
       ],
       "sent_count": 44
     },
@@ -3808,7 +3812,7 @@
       "sent_count": 81
     },
     "akhbar_cafenet": {
-      "last_id": 22834,
+      "last_id": 22837,
       "processed_ids": [
         22432,
         22433,
@@ -4202,9 +4206,12 @@
         22831,
         22832,
         22833,
-        22834
+        22834,
+        22835,
+        22836,
+        22837
       ],
-      "sent_count": 232
+      "sent_count": 234
     },
     "comentiat": {
       "last_id": 26211,
@@ -6307,7 +6314,7 @@
       "sent_count": 31
     },
     "ft360_ir": {
-      "last_id": 108760,
+      "last_id": 108762,
       "processed_ids": [
         107883,
         107884,
@@ -7151,12 +7158,14 @@
         108756,
         108758,
         108759,
-        108760
+        108760,
+        108761,
+        108762
       ],
       "sent_count": 47
     },
     "varzesh3": {
-      "last_id": 303152,
+      "last_id": 303154,
       "processed_ids": [
         302363,
         302364,
@@ -7869,12 +7878,14 @@
         303148,
         303149,
         303150,
-        303152
+        303152,
+        303153,
+        303154
       ],
       "sent_count": 30
     },
     "totalfut_plus": {
-      "last_id": 26317,
+      "last_id": 26319,
       "processed_ids": [
         25870,
         25871,
@@ -8314,12 +8325,14 @@
         26314,
         26315,
         26316,
-        26317
+        26317,
+        26318,
+        26319
       ],
       "sent_count": 16
     },
     "adak_ir_official": {
-      "last_id": 234518,
+      "last_id": 234519,
       "processed_ids": [
         233831,
         233833,
@@ -9003,12 +9016,13 @@
         234515,
         234516,
         234517,
-        234518
+        234518,
+        234519
       ],
       "sent_count": 61
     },
     "futball180tv": {
-      "last_id": 107596,
+      "last_id": 107597,
       "processed_ids": [
         106848,
         106849,
@@ -9745,12 +9759,13 @@
         107592,
         107594,
         107595,
-        107596
+        107596,
+        107597
       ],
       "sent_count": 22
     },
     "hattric_official": {
-      "last_id": 84082,
+      "last_id": 84084,
       "processed_ids": [
         83433,
         83434,
@@ -10358,7 +10373,9 @@
         84079,
         84080,
         84081,
-        84082
+        84082,
+        84083,
+        84084
       ],
       "sent_count": 33
     },
@@ -10917,7 +10934,7 @@
       "sent_count": 12
     },
     "gilin_gilin": {
-      "last_id": 284089,
+      "last_id": 284091,
       "processed_ids": [
         283735,
         283736,
@@ -11255,9 +11272,11 @@
         284084,
         284085,
         284088,
-        284089
+        284089,
+        284090,
+        284091
       ],
-      "sent_count": 164
+      "sent_count": 165
     },
     "tvnavad": {
       "last_id": 0,
@@ -11265,7 +11284,7 @@
       "sent_count": 0
     },
     "kafiha": {
-      "last_id": 461327,
+      "last_id": 461330,
       "processed_ids": [
         460646,
         460647,
@@ -11856,9 +11875,12 @@
         461324,
         461325,
         461326,
-        461327
+        461327,
+        461328,
+        461329,
+        461330
       ],
-      "sent_count": 455
+      "sent_count": 456
     },
     "asrare_movafaghiyat": {
       "last_id": 3,
@@ -12059,7 +12081,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306671,
+      "last_id": 306672,
       "processed_ids": [
         306563,
         306564,
@@ -12167,9 +12189,10 @@
         306668,
         306669,
         306670,
-        306671
+        306671,
+        306672
       ],
-      "sent_count": 44
+      "sent_count": 45
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -12241,7 +12264,7 @@
       "sent_count": 4
     },
     "bajefilm": {
-      "last_id": 11573,
+      "last_id": 11574,
       "processed_ids": [
         11552,
         11553,
@@ -12264,9 +12287,10 @@
         11570,
         11571,
         11572,
-        11573
+        11573,
+        11574
       ],
-      "sent_count": 18
+      "sent_count": 19
     },
     "yejoorayi": {
       "last_id": 456,
@@ -12306,7 +12330,7 @@
       "sent_count": 29
     },
     "onlinecofe_ir": {
-      "last_id": 2843,
+      "last_id": 2845,
       "processed_ids": [
         2781,
         2782,
@@ -12370,103 +12394,15 @@
         2840,
         2841,
         2842,
-        2843
+        2843,
+        2844,
+        2845
       ],
       "sent_count": 18
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "bb1aa194373c4249db548d50b91679f28b76087bbcbb87617f61c21af20ace51",
-        "media_fingerprint": "d325929951ad3ab61aeb3bf2daf88570e7452f7f4a979d1989815eaf2f3521f1",
-        "text": "پرواز همزمان ۵ سوخت‌رسان آمریکایی در نزدیکی تنگه هرمز\n@Gilin",
-        "original_username": "gilin_gilin",
-        "original_text": "پرواز همزمان ۵ سوخت‌رسان آمریکایی در نزدیکی تنگه هرمز\n@Gilin",
-        "original_link": "https://t.me/Gilin_Gilin/283891",
-        "post_id": 283891,
-        "message_id": 3870,
-        "message_kind": "caption",
-        "sources": [
-          "gilin_gilin"
-        ],
-        "created_at": "2026-09-28T20:35:37.108547+00:00"
-      },
-      {
-        "fingerprint": "3ec02e63a14c49e3bb46e0b25da18f406c7c3e984b507b3408f49ff8ce615550",
-        "media_fingerprint": "acdae5049ccb1a12979b3fd5ea2ffdf19ca2595e4220d7393bc92ff3222582e3",
-        "text": "ویدیویی از شفق های قطبی که بسیار زیبا هستند\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "ویدیویی از شفق های قطبی که بسیار زیبا هستند\n@irWonders",
-        "original_link": "https://t.me/irwonders/58096",
-        "post_id": 58096,
-        "message_id": 3871,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-09-28T20:35:44.288632+00:00"
-      },
-      {
-        "fingerprint": "00373ede082ca85522b05706d2c9617290180d82f28a3278e362e8f1245c727d",
-        "media_fingerprint": "",
-        "text": "غم هایی که چشم هارو خیس نمیکنند،\nزودتر به استخوان می رسند.\nLidia\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": "غم هایی که چشم هارو خیس نمیکنند،\nزودتر به استخوان می رسند.\nLidia\n@kafiha",
-        "original_link": "https://t.me/kafiha/460934",
-        "post_id": 460934,
-        "message_id": 3872,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-28T20:35:47.023168+00:00"
-      },
-      {
-        "fingerprint": "cfc6cc39cacda504ddb8c4dfbeb010830646e3a18b41dfb98ce515fdeabb129a",
-        "media_fingerprint": "b57322667c29a8ad9e9d1372767f2f3f43c0dba531088622b3587a78b21c0317",
-        "text": "سردار آزمون: با شروع فصل مدارس، جا دارد یاد و خاطره مدرسه میناب را گرامی بدارم\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "سردار آزمون: با شروع فصل مدارس، جا دارد یاد و خاطره مدرسه میناب را گرامی بدارم\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52529",
-        "post_id": 52529,
-        "message_id": 3873,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-09-28T20:35:54.674032+00:00"
-      },
-      {
-        "fingerprint": "28c397ab4d40c8243742aaeb2236f916a4ac2409a8d7e6a70c407b74ef43ef39",
-        "media_fingerprint": "aa7a3655fe9089eabfb69202c127de454fa7d3101286dac0bff586d19d696ebe",
-        "text": "امروز گوگل ۲۸ ساله شد و تولدش رو با لوگوی قدیمی و دایناسور معروف Chrome جشن گرفت:\n۲۸ ساله که وقتی جواب چیزی رو نمی‌دونیم، اولین جایی که سراغش میریم گوگله\nیه لحظه فقط تصوشو بکنید که اگه پنج سال پیش(موقعی که هنوز هوش مصنوعی نیومده بود)گوگل وجود نداشت جواب سوالامون رو از کجا باید میگرفتیم؟\nاحتمالا باید میرفتیم کتابخونه و از بین هزاران کتاب، کتابی مرتبط با سؤالمون رو پیدا کنیم و کامل بخونیمش تا شاید جواب یک سؤالمون رو بفهمیم!\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "امروز گوگل ۲۸ ساله شد و تولدش رو با لوگوی قدیمی و دایناسور معروف Chrome جشن گرفت:\n۲۸ ساله که وقتی جواب چیزی رو نمی‌دونیم، اولین جایی که سراغش میریم گوگله\nیه لحظه فقط تصوشو بکنید که اگه پنج سال پیش(موقعی که هنوز هوش مصنوعی نیومده بود)گوگل وجود نداشت جواب سوالامون رو از کجا باید میگرفتیم؟\nاحتمالا باید میرفتیم کتابخونه و از بین هزاران کتاب، کتابی مرتبط با سؤالمون رو پیدا کنیم و کامل بخونیمش تا شاید جواب یک سؤالمون رو بفهمیم!\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52530",
-        "post_id": 52530,
-        "message_id": 3874,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-09-28T20:36:01.762903+00:00"
-      },
-      {
-        "fingerprint": "0e3ac1bac29341736bffa4075b74170b8d07733ca6226d291f969d72f5fb571f",
-        "media_fingerprint": "13ea1e78b9a84ea36224aa41c44ca195f7ab71971d70551c04617236f540b748",
-        "text": "🔴\nشاید باورتون نشه ولی ال‌نینو،\nخشک‌ترین بیابان جهان\nرو غرق در گل کرد\n🌸\nبیابان\nآتاکاما\nتو شمال شیلی که\nیکی از خشک‌ترین نقاط کره زمینه\n، بعد از بارندگی‌های شدید امسال، تبدیل به یه دشت پر از گل‌های رنگارنگ شده!\nپیش‌بینی شده اگه شرایط همینطور ادامه پیدا کنه، حدود\n۱۵ هزار هکتار\nاز منطقه با گل پوشیده بشه و شکوفایی گل‌ها تا چند هفته دیگه(اواخر اکتبر) به اوج خودش برسه.\nاین پدیده به «\nبیابان گل‌دار\n» معروفه و امسال یکی از گسترده‌ترین شکوفایی‌های آتاکاما تو سال‌های اخیر در حال شکل گرفتنه...\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "🔴\nشاید باورتون نشه ولی ال‌نینو،\nخشک‌ترین بیابان جهان\nرو غرق در گل کرد\n🌸\nبیابان\nآتاکاما\nتو شمال شیلی که\nیکی از خشک‌ترین نقاط کره زمینه\n، بعد از بارندگی‌های شدید امسال، تبدیل به یه دشت پر از گل‌های رنگارنگ شده!\nپیش‌بینی شده اگه شرایط همینطور ادامه پیدا کنه، حدود\n۱۵ هزار هکتار\nاز منطقه با گل پوشیده بشه و شکوفایی گل‌ها تا چند هفته دیگه(اواخر اکتبر) به اوج خودش برسه.\nاین پدیده به «\nبیابان گل‌دار\n» معروفه و امسال یکی از گسترده‌ترین شکوفایی‌های آتاکاما تو سال‌های اخیر در حال شکل گرفتنه...\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52531",
-        "post_id": 52531,
-        "message_id": 3875,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-09-28T20:36:16.706741+00:00"
-      },
       {
         "fingerprint": "4e056b07fd2cc29f265dc224dba9038860d232bf48610744e70b48fec5be5986",
         "media_fingerprint": "",
@@ -27240,7 +27176,8 @@
         "message_id": 4917,
         "message_kind": "caption",
         "sources": [
-          "kafiha"
+          "kafiha",
+          "gilin_gilin"
         ],
         "created_at": "2026-10-01T08:31:25.910535+00:00"
       },
@@ -27529,6 +27466,97 @@
           "onlinecofe_ir"
         ],
         "created_at": "2026-10-01T09:19:57.449404+00:00"
+      },
+      {
+        "fingerprint": "b5f399f70a05cb2a117cc19a1e572cdc4a849f9db4a64361e07fab53898a89dc",
+        "media_fingerprint": "",
+        "text": "🌐\nآغاز اجرای آزمایشی طرح شناسه ‌دار شدن کارت ‌های اضطرار\n🔵\nاجرای آزمایشی طرح شناسه‌دار شدن کارت‌های اضطرار در ۵۴ جایگاه منتخب شهر تهران آغاز شده است. در این طرح، متقاضی می‌تواند پس از قرار دادن کارت بانکی شخصی در دستگاه کارت‌خوان و انجام احراز هویت، بدون استفاده مستقیم از کارت اضطرار جایگاه سوخت‌گیری کند.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🌐\nآغاز اجرای آزمایشی طرح شناسه ‌دار شدن کارت ‌های اضطرار\n🔵\nاجرای آزمایشی طرح شناسه‌دار شدن کارت‌های اضطرار در ۵۴ جایگاه منتخب شهر تهران آغاز شده است. در این طرح، متقاضی می‌تواند پس از قرار دادن کارت بانکی شخصی در دستگاه کارت‌خوان و انجام احراز هویت، بدون استفاده مستقیم از کارت اضطرار جایگاه سوخت‌گیری کند.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/22835",
+        "post_id": 22835,
+        "message_id": 4939,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet",
+          "onlinecofe_ir"
+        ],
+        "created_at": "2026-10-01T09:39:57.336229+00:00"
+      },
+      {
+        "fingerprint": "d85aac713932022caa01482d1fd31257ce659782295371d40162c0779dbb89b3",
+        "media_fingerprint": "",
+        "text": "چرا مصرف تخم مرغ در شرایط فعلی ارزنده‌ست؟\nچون یکی از کامل‌ترین منابع پروتئینه؛ حدود ۶–۷ گرم پروتئین باکیفیت در هر عدد، همراه با B12، کولین، سلنیوم و ویتامین A.سیرکننده، کم‌کالری، ارزان، در دسترس، راحت برای نگهداری و پخت و بدون دورریزه.\nپ.ن: ما لیاقتمون این نیست، شرایطمون اینه.\n@Gilin",
+        "original_username": "gilin_gilin",
+        "original_text": "چرا مصرف تخم مرغ در شرایط فعلی ارزنده‌ست؟\nچون یکی از کامل‌ترین منابع پروتئینه؛ حدود ۶–۷ گرم پروتئین باکیفیت در هر عدد، همراه با B12، کولین، سلنیوم و ویتامین A.سیرکننده، کم‌کالری، ارزان، در دسترس، راحت برای نگهداری و پخت و بدون دورریزه.\nپ.ن: ما لیاقتمون این نیست، شرایطمون اینه.\n@Gilin",
+        "original_link": "https://t.me/Gilin_Gilin/284090",
+        "post_id": 284090,
+        "message_id": 4940,
+        "message_kind": "text",
+        "sources": [
+          "gilin_gilin"
+        ],
+        "created_at": "2026-10-01T09:40:00.466165+00:00"
+      },
+      {
+        "fingerprint": "0705d575d3d11dee2569ccbc6849389e351974c1e975c1869a198dd37930873f",
+        "media_fingerprint": "30de55ca5cef2793a045f8e9be1a727c3178c89eb0cce4ecbdb8f528cc93479b",
+        "text": "🎬\nقسمت پنجم\n«بیست و یک روز؛ فصل پرو»\nمنتشر شد.\n🎬\nr.filimo.com/T21Rooz5\n#بیست_و_یک_روز\n@BajeFilm",
+        "original_username": "bajefilm",
+        "original_text": "🎬\nقسمت پنجم\n«بیست و یک روز؛ فصل پرو»\nمنتشر شد.\n🎬\nr.filimo.com/T21Rooz5\n#بیست_و_یک_روز\n@BajeFilm",
+        "original_link": "https://t.me/bajefilm/11574",
+        "post_id": 11574,
+        "message_id": 4941,
+        "message_kind": "caption",
+        "sources": [
+          "bajefilm"
+        ],
+        "created_at": "2026-10-01T09:40:05.981592+00:00"
+      },
+      {
+        "fingerprint": "4c29af9f4f10074a3e1f950dec7a92947b4e9ac4e5f22a193d2d7ce7c3bc76e0",
+        "media_fingerprint": "",
+        "text": "‏افسردگی بعد از دستاورد خیلی بده. یه مدت تلاش می‌کنی به هدفت برسی، حالا مدرک تحصیلیه، سربازیه، بچه‌دار شدنه. بعد که به دستش میاری اینجوری میشی که خب حالا چی؟ حالا که ددلاینی ندارم به چی چنگ بزنم؟ پوچه پوچ.\n💬\nچیکا\nSilverfox\n@Kafiha",
+        "original_username": "kafiha",
+        "original_text": "‏افسردگی بعد از دستاورد خیلی بده. یه مدت تلاش می‌کنی به هدفت برسی، حالا مدرک تحصیلیه، سربازیه، بچه‌دار شدنه. بعد که به دستش میاری اینجوری میشی که خب حالا چی؟ حالا که ددلاینی ندارم به چی چنگ بزنم؟ پوچه پوچ.\n💬\nچیکا\nSilverfox\n@Kafiha",
+        "original_link": "https://t.me/kafiha/461330",
+        "post_id": 461330,
+        "message_id": 4942,
+        "message_kind": "text",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-10-01T09:40:10.057279+00:00"
+      },
+      {
+        "fingerprint": "9afec0aae4e1f8f961b52cf038fec170922e0d38ba7841740eb493bd67f56c5e",
+        "media_fingerprint": "0b4f3bab5722f0e965750c8b034a32f47936d9f24c3663053458486a504d153d",
+        "text": "اقیانوس ابر . رامسر . گرسماسر  ۲۶ شهریور ۱۴۰۵\n#ایران_زیبا\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "اقیانوس ابر . رامسر . گرسماسر  ۲۶ شهریور ۱۴۰۵\n#ایران_زیبا\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306672",
+        "post_id": 306672,
+        "message_id": 4943,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-01T09:40:17.359154+00:00"
+      },
+      {
+        "fingerprint": "042fc2a35d817a5e423224af0a5aec8164ce3e804124f6bae003dce438ece1c1",
+        "media_fingerprint": "92d1efab43188b0ecf1b18562d9f12a86604025bb8840d7da16f5c087e0d955b",
+        "text": "🦁\nقیمت تتر از سایت نوبیتکس حذف شده\nتتر حوالی ۲۵۷ هزار تومن\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🦁\nقیمت تتر از سایت نوبیتکس حذف شده\nتتر حوالی ۲۵۷ هزار تومن\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/22837",
+        "post_id": 22837,
+        "message_id": 4944,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-01T09:40:21.298391+00:00"
       }
     ]
   }
