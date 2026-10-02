@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142866,
+      "last_id": 142867,
       "processed_ids": [
         141903,
         141904,
@@ -909,12 +909,13 @@
         142863,
         142864,
         142865,
-        142866
+        142866,
+        142867
       ],
-      "sent_count": 549
+      "sent_count": 550
     },
     "total_fut": {
-      "last_id": 237114,
+      "last_id": 237115,
       "processed_ids": [
         236405,
         236407,
@@ -1594,21 +1595,14 @@
         237111,
         237112,
         237113,
-        237114
+        237114,
+        237115
       ],
       "sent_count": 46
     },
     "footballvision2": {
-      "last_id": 170080,
+      "last_id": 170088,
       "processed_ids": [
-        169043,
-        169044,
-        169045,
-        169046,
-        169047,
-        169048,
-        169049,
-        169050,
         169051,
         169052,
         169053,
@@ -2600,7 +2594,15 @@
         170076,
         170077,
         170078,
-        170080
+        170080,
+        170081,
+        170082,
+        170083,
+        170084,
+        170085,
+        170086,
+        170087,
+        170088
       ],
       "sent_count": 58
     },
@@ -2626,7 +2628,7 @@
       "sent_count": 4
     },
     "fars_today": {
-      "last_id": 132105,
+      "last_id": 132106,
       "processed_ids": [
         131975,
         131976,
@@ -2756,9 +2758,10 @@
         132102,
         132103,
         132104,
-        132105
+        132105,
+        132106
       ],
-      "sent_count": 77
+      "sent_count": 78
     },
     "behzistikomitenews": {
       "last_id": 13949,
@@ -2778,7 +2781,7 @@
       "sent_count": 5
     },
     "drtel": {
-      "last_id": 67204,
+      "last_id": 67205,
       "processed_ids": [
         66561,
         66565,
@@ -3298,7 +3301,8 @@
         67201,
         67202,
         67203,
-        67204
+        67204,
+        67205
       ],
       "sent_count": 304
     },
@@ -3844,7 +3848,7 @@
       "sent_count": 61
     },
     "roidbest": {
-      "last_id": 21751,
+      "last_id": 21752,
       "processed_ids": [
         21613,
         21614,
@@ -3979,7 +3983,8 @@
         21748,
         21749,
         21750,
-        21751
+        21751,
+        21752
       ],
       "sent_count": 84
     },
@@ -4411,7 +4416,7 @@
       "sent_count": 249
     },
     "comentiat": {
-      "last_id": 26232,
+      "last_id": 26233,
       "processed_ids": [
         25844,
         25845,
@@ -4731,9 +4736,10 @@
         26229,
         26230,
         26231,
-        26232
+        26232,
+        26233
       ],
-      "sent_count": 220
+      "sent_count": 221
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -6645,7 +6651,7 @@
       "sent_count": 35
     },
     "ft360_ir": {
-      "last_id": 108831,
+      "last_id": 108832,
       "processed_ids": [
         107883,
         107884,
@@ -7559,12 +7565,13 @@
         108828,
         108829,
         108830,
-        108831
+        108831,
+        108832
       ],
       "sent_count": 50
     },
     "varzesh3": {
-      "last_id": 303224,
+      "last_id": 303227,
       "processed_ids": [
         302363,
         302364,
@@ -8344,7 +8351,9 @@
         303221,
         303222,
         303223,
-        303224
+        303224,
+        303225,
+        303227
       ],
       "sent_count": 34
     },
@@ -9567,7 +9576,7 @@
       "sent_count": 69
     },
     "futball180tv": {
-      "last_id": 107674,
+      "last_id": 107675,
       "processed_ids": [
         106848,
         106849,
@@ -10381,12 +10390,13 @@
         107671,
         107672,
         107673,
-        107674
+        107674,
+        107675
       ],
       "sent_count": 28
     },
     "hattric_official": {
-      "last_id": 84136,
+      "last_id": 84137,
       "processed_ids": [
         83433,
         83434,
@@ -11045,12 +11055,13 @@
         84133,
         84134,
         84135,
-        84136
+        84136,
+        84137
       ],
       "sent_count": 36
     },
     "mazdak_hattrick": {
-      "last_id": 182292,
+      "last_id": 182293,
       "processed_ids": [
         181991,
         181992,
@@ -11348,7 +11359,8 @@
         182289,
         182290,
         182291,
-        182292
+        182292,
+        182293
       ],
       "sent_count": 22
     },
@@ -12114,7 +12126,7 @@
       "sent_count": 0
     },
     "kafiha": {
-      "last_id": 461519,
+      "last_id": 461524,
       "processed_ids": [
         460646,
         460647,
@@ -12870,9 +12882,13 @@
         461516,
         461517,
         461518,
-        461519
+        461519,
+        461520,
+        461521,
+        461523,
+        461524
       ],
-      "sent_count": 575
+      "sent_count": 579
     },
     "asrare_movafaghiyat": {
       "last_id": 3,
@@ -13469,112 +13485,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "7acee4c6b770d81f6c7b366f70eeb90581e30fbad97ce6da012806150b678d11",
-        "media_fingerprint": "0aba6726f8a70906f2582b9e6790d7ad292f45bc4060ffd716365ff45af1d99e",
-        "text": "درسته که به روسیه باختیم\nولی در عوضش میم جدید داریم\n😂\nLidia\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": "درسته که به روسیه باختیم\nولی در عوضش میم جدید داریم\n😂\nLidia\n@kafiha",
-        "original_link": "https://t.me/kafiha/461091",
-        "post_id": 461091,
-        "message_id": 4329,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-29T19:05:38.984664+00:00"
-      },
-      {
-        "fingerprint": "3780f9be180514be7eeb750db93ae715b4b78989ef13346119a25a3ca4d4126d",
-        "media_fingerprint": "52db66774b28a09fb2bbff21a6eacaf00804c8e398f85f579bdc9201c3d57549",
-        "text": "وقتی در انتها می‌فهمی این دنیا به درد توعه درونگرا نمی‌خوره&gt;\n@comentiat",
-        "original_username": "comentiat",
-        "original_text": "وقتی در انتها می‌فهمی این دنیا به درد توعه درونگرا نمی‌خوره&gt;\n@comentiat",
-        "original_link": "https://t.me/Comentiat/26176",
-        "post_id": 26176,
-        "message_id": 4330,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-09-29T19:05:44.883624+00:00"
-      },
-      {
-        "fingerprint": "bf4b2ac67b03101bd7af2d45fa7cef169f0a69c03838677a6d194f7ca69b5e1d",
-        "media_fingerprint": "67f691700d5bb431f96c8c628779d8c6b511858318b691dbca9d979113157ba9",
-        "text": "🔴\nامروز تو میدون میوه و تره‌بار صادقیه - تهران، طرح \"\nتورم صفر\n\" اعلام شد؛\nطبق این طرح، قراره 12 قلم کالای اساسی تا عید 1406 هیچ افزایش قیمتی نداشته باشن !\n12 قلم شاملِ:\n▫️\nبرنج\n▫️\nگوشت منجمد\n▫️\nماکارونی\n▫️\nروغن\n▫️\nشکر\n▫️\nخرما\n▫️\nلوبیا قرمز\n▫️\nلپه\n▫️\nنخود\n▫️\nلوبیاچیتی\n▫️\nعدس\n▫️\nسویا\n﻿\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nامروز تو میدون میوه و تره‌بار صادقیه - تهران، طرح \"\nتورم صفر\n\" اعلام شد؛\nطبق این طرح، قراره 12 قلم کالای اساسی تا عید 1406 هیچ افزایش قیمتی نداشته باشن !\n12 قلم شاملِ:\n▫️\nبرنج\n▫️\nگوشت منجمد\n▫️\nماکارونی\n▫️\nروغن\n▫️\nشکر\n▫️\nخرما\n▫️\nلوبیا قرمز\n▫️\nلپه\n▫️\nنخود\n▫️\nلوبیاچیتی\n▫️\nعدس\n▫️\nسویا\n﻿\n@DrTeL",
-        "original_link": "https://t.me/drtel/67112",
-        "post_id": 67112,
-        "message_id": 4331,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-09-29T19:27:34.271080+00:00"
-      },
-      {
-        "fingerprint": "3bb4c10d7c4bda1d7caed286897bfa7e2cdf3c83f090e153775751e691bda986",
-        "media_fingerprint": "b2b6811cabd275b67349d8aa8a11bf1a27e1401524cf3bb167bdc77259895f21",
-        "text": "بچه‌ها میم جدید هم امد\n😂\n@Gilin",
-        "original_username": "gilin_gilin",
-        "original_text": "بچه‌ها میم جدید هم امد\n😂\n@Gilin",
-        "original_link": "https://t.me/Gilin_Gilin/283975",
-        "post_id": 283975,
-        "message_id": 4332,
-        "message_kind": "caption",
-        "sources": [
-          "gilin_gilin"
-        ],
-        "created_at": "2026-09-29T19:27:40.526468+00:00"
-      },
-      {
-        "fingerprint": "6b663bb2b94a2062b83150371c282e87e0ece9851b3e5eaffc9a18276dac782c",
-        "media_fingerprint": "",
-        "text": "🚨\n🔴\nدانیال ایری پس از بازگشت از تیم ملی امید، به علت مصدومیت در تمرین امروز پرسپولیس غایب بود.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n🔴\nدانیال ایری پس از بازگشت از تیم ملی امید، به علت مصدومیت در تمرین امروز پرسپولیس غایب بود.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/234437",
-        "post_id": 234437,
-        "message_id": 4333,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-09-29T19:27:43.389406+00:00"
-      },
-      {
-        "fingerprint": "67b994de1afbd1a5acaf7f2800c6996053b1a5c996143ccbb7b8acbf9e9ea652",
-        "media_fingerprint": "8d30afe092a8c7d0cd803a18871addd853142d8067f53be9ac6752c5d34f2dda",
-        "text": "من دلم میخواد از این خلاقیت‌ها تو ساخت ماشین ببینم وگرنه مانیتور ۴۲ اینچ رو داشبورد برام جذابیتی نداره\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "من دلم میخواد از این خلاقیت‌ها تو ساخت ماشین ببینم وگرنه مانیتور ۴۲ اینچ رو داشبورد برام جذابیتی نداره\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162530",
-        "post_id": 162530,
-        "message_id": 4334,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-29T19:27:50.516072+00:00"
-      },
-      {
-        "fingerprint": "8abde43851cd5318ae424e8704420f21184d8f1a5112ad6bd64b271f2f3cd71d",
-        "media_fingerprint": "952ce732f55ef1f28d902f72cfa3d9e39d7d2f96c01a8b475399481a6646b153",
-        "text": "❌\nدلار ۲۵۰ هزار تومان شد؛ تو هنوز دنبال خرید دلاری؟\nدلار از ۲۵۰ هزار تومان رد شده، طلا هم رسیده به ۲۵ میلیون. حالا سوال اینه:\nهنوز باید پولمون رو ببریم سمت بازاری که این‌همه رشد کرده؟\n‼️\n✅\nما توی ۲ ماه گذشته، کاربران اکوتراست رو بردیم سراغ چند تا بازار جامونده؛ بعضی‌هاشون\nتا ۸۰٪ سود دادن و حتی تو بعضی موارد، حدود ۲ برابر دلار و طلا رشد کردن.\n⚠️\nهفته آینده بازار جامونده بعدی رو معرفی می‌کنیم.\nاگه سود موج بعدی رو می‌خوای،\nروی لینک بزن و مشاوره رایگان بگیر\n👇\nمشاوره رایگان می‌خوام\nمشاوره رایگان می‌خوام\nمشاوره رایگان می‌خوام\nمشاوره رایگان می‌خوام",
-        "original_username": "gizmiztel",
-        "original_text": "❌\nدلار ۲۵۰ هزار تومان شد؛ تو هنوز دنبال خرید دلاری؟\nدلار از ۲۵۰ هزار تومان رد شده، طلا هم رسیده به ۲۵ میلیون. حالا سوال اینه:\nهنوز باید پولمون رو ببریم سمت بازاری که این‌همه رشد کرده؟\n‼️\n✅\nما توی ۲ ماه گذشته، کاربران اکوتراست رو بردیم سراغ چند تا بازار جامونده؛ بعضی‌هاشون\nتا ۸۰٪ سود دادن و حتی تو بعضی موارد، حدود ۲ برابر دلار و طلا رشد کردن.\n⚠️\nهفته آینده بازار جامونده بعدی رو معرفی می‌کنیم.\nاگه سود موج بعدی رو می‌خوای،\nروی لینک بزن و مشاوره رایگان بگیر\n👇\nمشاوره رایگان می‌خوام\nمشاوره رایگان می‌خوام\nمشاوره رایگان می‌خوام\nمشاوره رایگان می‌خوام",
-        "original_link": "https://t.me/gizmiztel/162531",
-        "post_id": 162531,
-        "message_id": 4335,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel",
-          "kafiha"
-        ],
-        "created_at": "2026-09-29T19:27:55.440492+00:00"
-      },
       {
         "fingerprint": "d45edd4bf85c45e7e7bf9763bd8b7e2c5fbedf5927c46c80d60c4f9b96265008",
         "media_fingerprint": "15a3284e52c5a083f490fe0ca7080bd60d43a31d799f4fc49a14d303ab35e36a",
@@ -28617,6 +28527,111 @@
           "drtel"
         ],
         "created_at": "2026-10-02T10:05:05.087523+00:00"
+      },
+      {
+        "fingerprint": "78e901788df94981395a44b8e9e8de5b9c0147ffef17d6ee43e49c4fe2831caa",
+        "media_fingerprint": "",
+        "text": "سخنگوی کمیسیون اجتماعی مجلس: کالابرگ برخی یارانه‌بگیران حتما بین ۳۰۰ تا ۵۰۰هزار تومان افزایش می‌یابد.",
+        "original_username": "fars_today",
+        "original_text": "سخنگوی کمیسیون اجتماعی مجلس: کالابرگ برخی یارانه‌بگیران حتما بین ۳۰۰ تا ۵۰۰هزار تومان افزایش می‌یابد.",
+        "original_link": "https://t.me/Fars_today/132106",
+        "post_id": 132106,
+        "message_id": 5393,
+        "message_kind": "text",
+        "sources": [
+          "fars_today"
+        ],
+        "created_at": "2026-10-02T10:26:59.473400+00:00"
+      },
+      {
+        "fingerprint": "e4fdfea72ea2bfcfbfd103941d653e74d744d39da7c38fafeadcb0ed8624786f",
+        "media_fingerprint": "",
+        "text": "منم دلم برات تنگ میشه، ولی لیاقتم مهمتر از احساساتمه.\n💬\nDoryy\n1991\n@kafiha",
+        "original_username": "kafiha",
+        "original_text": "منم دلم برات تنگ میشه، ولی لیاقتم مهمتر از احساساتمه.\n💬\nDoryy\n1991\n@kafiha",
+        "original_link": "https://t.me/kafiha/461520",
+        "post_id": 461520,
+        "message_id": 5394,
+        "message_kind": "text",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-10-02T10:27:02.331586+00:00"
+      },
+      {
+        "fingerprint": "4f019d3e4c9b3a13a847641839f08ce26f28744e82b36cab43b35c87d2d28b7a",
+        "media_fingerprint": "70b298e51f9383648eba6847c4889a0fc6dfcf167de244256c2b25b663f06020",
+        "text": "کاش آخرش همه‌مون یه نفر رو داشته باشیم که این‌جوری کنارمون پیر بشه.\n🤍\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "کاش آخرش همه‌مون یه نفر رو داشته باشیم که این‌جوری کنارمون پیر بشه.\n🤍\n@comentiat",
+        "original_link": "https://t.me/Comentiat/26233",
+        "post_id": 26233,
+        "message_id": 5395,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-02T10:27:06.429894+00:00"
+      },
+      {
+        "fingerprint": "10e2836d80ce27eb874a77b079dfc1f5281eb84bf6c562b4dfce7930cc6b01b9",
+        "media_fingerprint": "8ec56363d409b697be5e9961608d61e7091d022fbca280ceec602852fd3b8c83",
+        "text": "طبق تحقیقات و مطالعات به دست آمده :\nتقسیم‌بندی قد دخترها و پسرها بصورت زیر است :\n👩\nدخترها :\nزیر 157 سانتی‌متر → قد کوتاه\nبالای 168 سانتی‌متر → قد بلند\n👨\nپسرها :\nزیر 171 سانتی‌متر → قد کوتاه\nبالای 178 سانتی‌متر → قد بلند\n+ دیگه دقت کنید به هر کسی قد کوتاه نگین\n1991\n@kafiha",
+        "original_username": "kafiha",
+        "original_text": "طبق تحقیقات و مطالعات به دست آمده :\nتقسیم‌بندی قد دخترها و پسرها بصورت زیر است :\n👩\nدخترها :\nزیر 157 سانتی‌متر → قد کوتاه\nبالای 168 سانتی‌متر → قد بلند\n👨\nپسرها :\nزیر 171 سانتی‌متر → قد کوتاه\nبالای 178 سانتی‌متر → قد بلند\n+ دیگه دقت کنید به هر کسی قد کوتاه نگین\n1991\n@kafiha",
+        "original_link": "https://t.me/kafiha/461521",
+        "post_id": 461521,
+        "message_id": 5396,
+        "message_kind": "caption",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-10-02T10:27:13.969099+00:00"
+      },
+      {
+        "fingerprint": "4f5cb929f42ce26a0299ba0b69020c4a8647c6f7cfa26bc9333304d2e05d680f",
+        "media_fingerprint": "",
+        "text": "ایلان ماسک برای دومین بار:  اینستاگرام فقط واسه دختراست، اگه پسرید باید اینستاگرامتون رو پاک کنید.\n@kafiha",
+        "original_username": "kafiha",
+        "original_text": "ایلان ماسک برای دومین بار:  اینستاگرام فقط واسه دختراست، اگه پسرید باید اینستاگرامتون رو پاک کنید.\n@kafiha",
+        "original_link": "https://t.me/kafiha/461523",
+        "post_id": 461523,
+        "message_id": 5398,
+        "message_kind": "text",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-10-02T10:27:16.859313+00:00"
+      },
+      {
+        "fingerprint": "286ede976a2c464ce6866aa4640dc965887cb9bae2f75ee20fd7700016747dc5",
+        "media_fingerprint": "d64df87a2b2478915f745e421257f82dc04e047b7d20c7517df0bac60a30ca75",
+        "text": "💰\nقیمت طلا، سکه و ارز\n۱۰ مهر ۱۴۰۵\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "💰\nقیمت طلا، سکه و ارز\n۱۰ مهر ۱۴۰۵\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142867",
+        "post_id": 142867,
+        "message_id": 5399,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-02T10:27:21.360300+00:00"
+      },
+      {
+        "fingerprint": "c9e9d3c1a9733968d98e5569a1fdb9e75c88a5720004fbd4892b8e11f81416da",
+        "media_fingerprint": "",
+        "text": "هربار به شوهرم میگفتم مرغ میگیری بده خورد کنن، و هربار یه مرغ درسته میآورد.\nسری پیش خورد کردنش رو انداختم گردن خودش مجبور شدمرغ رو خرد کنه و دستشم ببره\nاین بار مرغ خورد شده گرفت، چراباید از راه سخت وارد شد؟ چرا مثل آدم میگم نمی‌فهمی؟ چرا تا اون سختی مال خودت نباشه برات مهم نیست؟\n💬\nMahnaz\n1991\n@kafiha",
+        "original_username": "kafiha",
+        "original_text": "هربار به شوهرم میگفتم مرغ میگیری بده خورد کنن، و هربار یه مرغ درسته میآورد.\nسری پیش خورد کردنش رو انداختم گردن خودش مجبور شدمرغ رو خرد کنه و دستشم ببره\nاین بار مرغ خورد شده گرفت، چراباید از راه سخت وارد شد؟ چرا مثل آدم میگم نمی‌فهمی؟ چرا تا اون سختی مال خودت نباشه برات مهم نیست؟\n💬\nMahnaz\n1991\n@kafiha",
+        "original_link": "https://t.me/kafiha/461524",
+        "post_id": 461524,
+        "message_id": 5400,
+        "message_kind": "text",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-10-02T10:27:24.632321+00:00"
       }
     ]
   }
