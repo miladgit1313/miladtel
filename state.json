@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142898,
+      "last_id": 142899,
       "processed_ids": [
         141903,
         141904,
@@ -940,12 +940,13 @@
         142895,
         142896,
         142897,
-        142898
+        142898,
+        142899
       ],
-      "sent_count": 573
+      "sent_count": 574
     },
     "total_fut": {
-      "last_id": 237136,
+      "last_id": 237140,
       "processed_ids": [
         236405,
         236407,
@@ -1647,16 +1648,17 @@
         237133,
         237134,
         237135,
-        237136
+        237136,
+        237137,
+        237138,
+        237139,
+        237140
       ],
       "sent_count": 47
     },
     "footballvision2": {
-      "last_id": 170111,
+      "last_id": 170115,
       "processed_ids": [
-        169076,
-        169077,
-        169078,
         169079,
         169080,
         169081,
@@ -2653,7 +2655,10 @@
         170108,
         170109,
         170110,
-        170111
+        170111,
+        170113,
+        170114,
+        170115
       ],
       "sent_count": 61
     },
@@ -2835,7 +2840,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67232,
+      "last_id": 67233,
       "processed_ids": [
         66561,
         66565,
@@ -3371,9 +3376,10 @@
         67228,
         67229,
         67231,
-        67232
+        67232,
+        67233
       ],
-      "sent_count": 316
+      "sent_count": 317
     },
     "techtube": {
       "last_id": 18414,
@@ -3927,7 +3933,7 @@
       "sent_count": 63
     },
     "roidbest": {
-      "last_id": 21756,
+      "last_id": 21757,
       "processed_ids": [
         21613,
         21614,
@@ -4067,12 +4073,13 @@
         21753,
         21754,
         21755,
-        21756
+        21756,
+        21757
       ],
-      "sent_count": 87
+      "sent_count": 88
     },
     "akhbar_cafenet": {
-      "last_id": 22869,
+      "last_id": 22871,
       "processed_ids": [
         22432,
         22433,
@@ -4501,9 +4508,11 @@
         22866,
         22867,
         22868,
-        22869
+        22869,
+        22870,
+        22871
       ],
-      "sent_count": 255
+      "sent_count": 257
     },
     "comentiat": {
       "last_id": 26242,
@@ -6133,7 +6142,7 @@
       "sent_count": 173
     },
     "ajayebe_jahann": {
-      "last_id": 159456,
+      "last_id": 159458,
       "processed_ids": [
         158956,
         158957,
@@ -6632,9 +6641,11 @@
         159453,
         159454,
         159455,
-        159456
+        159456,
+        159457,
+        159458
       ],
-      "sent_count": 226
+      "sent_count": 228
     },
     "etelaate_omoomi": {
       "last_id": 43124,
@@ -6728,7 +6739,7 @@
       "sent_count": 15
     },
     "scienticnews": {
-      "last_id": 22533,
+      "last_id": 22535,
       "processed_ids": [
         22458,
         22459,
@@ -6804,12 +6815,14 @@
         22530,
         22531,
         22532,
-        22533
+        22533,
+        22534,
+        22535
       ],
       "sent_count": 38
     },
     "ft360_ir": {
-      "last_id": 108855,
+      "last_id": 108856,
       "processed_ids": [
         107883,
         107884,
@@ -7743,12 +7756,13 @@
         108848,
         108849,
         108853,
-        108855
+        108855,
+        108856
       ],
       "sent_count": 53
     },
     "varzesh3": {
-      "last_id": 303250,
+      "last_id": 303252,
       "processed_ids": [
         302363,
         302364,
@@ -8549,12 +8563,13 @@
         303247,
         303248,
         303249,
-        303250
+        303250,
+        303252
       ],
       "sent_count": 35
     },
     "totalfut_plus": {
-      "last_id": 26366,
+      "last_id": 26368,
       "processed_ids": [
         25870,
         25871,
@@ -9042,12 +9057,14 @@
         26363,
         26364,
         26365,
-        26366
+        26366,
+        26367,
+        26368
       ],
-      "sent_count": 21
+      "sent_count": 22
     },
     "adak_ir_official": {
-      "last_id": 234587,
+      "last_id": 234592,
       "processed_ids": [
         233831,
         233833,
@@ -9800,9 +9817,14 @@
         234584,
         234585,
         234586,
-        234587
+        234587,
+        234588,
+        234589,
+        234590,
+        234591,
+        234592
       ],
-      "sent_count": 73
+      "sent_count": 75
     },
     "futball180tv": {
       "last_id": 107706,
@@ -10656,7 +10678,7 @@
       "sent_count": 31
     },
     "hattric_official": {
-      "last_id": 84158,
+      "last_id": 84160,
       "processed_ids": [
         83433,
         83434,
@@ -11336,12 +11358,14 @@
         84154,
         84156,
         84157,
-        84158
+        84158,
+        84159,
+        84160
       ],
       "sent_count": 39
     },
     "mazdak_hattrick": {
-      "last_id": 182302,
+      "last_id": 182303,
       "processed_ids": [
         181991,
         181992,
@@ -11649,7 +11673,8 @@
         182299,
         182300,
         182301,
-        182302
+        182302,
+        182303
       ],
       "sent_count": 23
     },
@@ -11955,7 +11980,7 @@
       "sent_count": 6
     },
     "midanesti": {
-      "last_id": 73238,
+      "last_id": 73239,
       "processed_ids": [
         73193,
         73194,
@@ -11999,7 +12024,8 @@
         73235,
         73236,
         73237,
-        73238
+        73238,
+        73239
       ],
       "sent_count": 22
     },
@@ -13448,7 +13474,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306708,
+      "last_id": 306709,
       "processed_ids": [
         306563,
         306564,
@@ -13593,9 +13619,10 @@
         306705,
         306706,
         306707,
-        306708
+        306708,
+        306709
       ],
-      "sent_count": 57
+      "sent_count": 58
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -13764,7 +13791,7 @@
       "sent_count": 40
     },
     "onlinecofe_ir": {
-      "last_id": 2878,
+      "last_id": 2880,
       "processed_ids": [
         2781,
         2782,
@@ -13863,234 +13890,27 @@
         2875,
         2876,
         2877,
-        2878
+        2878,
+        2879,
+        2880
       ],
-      "sent_count": 32
+      "sent_count": 34
     },
     "shakhmovie": {
-      "last_id": 4021,
+      "last_id": 4022,
       "processed_ids": [
         4017,
         4018,
         4019,
         4020,
-        4021
+        4021,
+        4022
       ],
-      "sent_count": 4
+      "sent_count": 5
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "76f10d5eb19fe642b370d45de81a37d0a208fa003a7d05f11aefff0557be771e",
-        "media_fingerprint": "346fc16b96644dfa8c8301d684fac7c4f539b31583e504594cd742ab02df8232",
-        "text": "چینی ها واقعا تو آینده زندگی میکنن…\nدیگه همه کاراشون باربات انجام میشه !\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "چینی ها واقعا تو آینده زندگی میکنن…\nدیگه همه کاراشون باربات انجام میشه !\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159371",
-        "post_id": 159371,
-        "message_id": 4525,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-09-30T10:07:43.515548+00:00"
-      },
-      {
-        "fingerprint": "42b613b9622716c93c57f25c6581fa37f562433445ca4844b23e1b24d3efc5be",
-        "media_fingerprint": "",
-        "text": "♦️\nمحسن برهانی به جرم افترا محکوم شد\n🔹\nبرهانی پیش‌تر درباره نحوه ورود بهادری جهرمی و برادرش به دوره دکتری و عضویت هیئت علمی، ادعاهایی مطرح کرده بود.\n🔹\nپس از شکایت بهادری جهرمی، دادگاه پس از بررسی و استعلام از مراجع ذی‌صلاح، اظهارات شاکی را تأیید و برهانی را به اتهام افترا محکوم کرد.\n🔹\nاین حکم در مرحله تجدیدنظر نیز تأیید و نهایی شد و با توجه به پذیرش اشتباه از سوی برهانی، مجازات حبس به جزای مالی تبدیل و اجرا شد.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nمحسن برهانی به جرم افترا محکوم شد\n🔹\nبرهانی پیش‌تر درباره نحوه ورود بهادری جهرمی و برادرش به دوره دکتری و عضویت هیئت علمی، ادعاهایی مطرح کرده بود.\n🔹\nپس از شکایت بهادری جهرمی، دادگاه پس از بررسی و استعلام از مراجع ذی‌صلاح، اظهارات شاکی را تأیید و برهانی را به اتهام افترا محکوم کرد.\n🔹\nاین حکم در مرحله تجدیدنظر نیز تأیید و نهایی شد و با توجه به پذیرش اشتباه از سوی برهانی، مجازات حبس به جزای مالی تبدیل و اجرا شد.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142747",
-        "post_id": 142747,
-        "message_id": 4526,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-30T10:30:08.543845+00:00"
-      },
-      {
-        "fingerprint": "1868d356cdc7f8c1cb0330331852d7d4e80e1a25d926dad1ae33a2ca6b227f1b",
-        "media_fingerprint": "c3b1c0ed6fb4c6f2a8695fce68c244fa3bb61e14b33a3a800016198b43928303",
-        "text": "♦️\nهشدار سطح زرد هواشناسی استان فارس مورخ ۸ مهر ماه\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nهشدار سطح زرد هواشناسی استان فارس مورخ ۸ مهر ماه\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142748",
-        "post_id": 142748,
-        "message_id": 4527,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-30T10:30:12.503884+00:00"
-      },
-      {
-        "fingerprint": "db794ea9b33610d07a65fc30ecfc528d21fdbf42557b747d1aeda29b26de1c5d",
-        "media_fingerprint": "12131ba51e3494a51abdd447f49615798e688bb0a3e3f48955023872e09d5e16",
-        "text": "موش فریز‌شده هم به بازار خوراک حیوانات آمد؛ هر عدد تا ۲۰۰ هزار تومان!\nموش‌های پرورش‌یافته و بسته‌بندی‌شده به‌عنوان خوراک مارها و برخی حیوانات خاص عرضه می‌شوند!\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "موش فریز‌شده هم به بازار خوراک حیوانات آمد؛ هر عدد تا ۲۰۰ هزار تومان!\nموش‌های پرورش‌یافته و بسته‌بندی‌شده به‌عنوان خوراک مارها و برخی حیوانات خاص عرضه می‌شوند!\n@irWonders",
-        "original_link": "https://t.me/irwonders/58151",
-        "post_id": 58151,
-        "message_id": 4528,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-09-30T10:30:17.114961+00:00"
-      },
-      {
-        "fingerprint": "e70432a0ee42df6f462031de73b69f34d4cfddb3dc473e9b0753190fd5d67c94",
-        "media_fingerprint": "d85618312bad4c2de5686fe255154db64f6abc32694a885bfc186c377a35ec42",
-        "text": "امروز روز جهانی دوست داشتن آدم‌هاست.\n@comentiat",
-        "original_username": "comentiat",
-        "original_text": "امروز روز جهانی دوست داشتن آدم‌هاست.\n@comentiat",
-        "original_link": "https://t.me/Comentiat/26191",
-        "post_id": 26191,
-        "message_id": 4529,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-09-30T10:30:21.735853+00:00"
-      },
-      {
-        "fingerprint": "343df82f435c4454259631da344b4c9c9e6d3d7e7743cc5dfa8fd1f06efba1e5",
-        "media_fingerprint": "56756b106abfe5da72bdbf28a905823adebdf3ec99e971b3449457081afd1173",
-        "text": "بیرانوند و رفقاش تو سربازی\n💬\nmoein_ai_\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "بیرانوند و رفقاش تو سربازی\n💬\nmoein_ai_\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461186",
-        "post_id": 461186,
-        "message_id": 4530,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-30T10:30:28.597025+00:00"
-      },
-      {
-        "fingerprint": "ee2ba45e16e79745f72b8a124387955c341ca390be159a6d32a5f010954ae8a6",
-        "media_fingerprint": "09d97b212355e5ef8805a0479ed0b0ea553447c807bfdca00ba20e42cec881dc",
-        "text": ".\nویدیویی از لحظه فرود هواپیمای فلای دبی امارات متحده عربی در مسیر تل آویو در فرودگاه تبوک عربستان سعودی در رسانه‌های اجتماعی منتشر شده است.\nدر این ویدیدو صدای فریاد مسافران «پس از حادثه امنیتی» شنیده می‌شود.\nتایمز اسرائیل به نقل از یک منبع آگاه امنیتی گزارش‌ها درباره تلاش یکی از خلبانان برای ساقط کردن هواپیما را تائید کرد. این تلاش با مقاومت خلبان دیگر و مسافران، ناکام ماند.\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": ".\nویدیویی از لحظه فرود هواپیمای فلای دبی امارات متحده عربی در مسیر تل آویو در فرودگاه تبوک عربستان سعودی در رسانه‌های اجتماعی منتشر شده است.\nدر این ویدیدو صدای فریاد مسافران «پس از حادثه امنیتی» شنیده می‌شود.\nتایمز اسرائیل به نقل از یک منبع آگاه امنیتی گزارش‌ها درباره تلاش یکی از خلبانان برای ساقط کردن هواپیما را تائید کرد. این تلاش با مقاومت خلبان دیگر و مسافران، ناکام ماند.\n@kafiha",
-        "original_link": "https://t.me/kafiha/461187",
-        "post_id": 461187,
-        "message_id": 4531,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-30T10:30:35.278967+00:00"
-      },
-      {
-        "fingerprint": "73d07e422eb8b4ef4c395f3dfad69314d3fa61ab697ad410c4d18479bfe5e732",
-        "media_fingerprint": "3d3ed18751e1ce44a2b1cb0c7326019f87c0f02751a8780b75ae401d8d914d37",
-        "text": "🔴\nعلی همتی و مجید نیک‌اندیش، دو نفر از بازداشت‌شدگان اعتراضات دی ماه 1404، صبح امروز تو مشهد اعدام شدن.\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nعلی همتی و مجید نیک‌اندیش، دو نفر از بازداشت‌شدگان اعتراضات دی ماه 1404، صبح امروز تو مشهد اعدام شدن.\n@DrTeL",
-        "original_link": "https://t.me/drtel/67130",
-        "post_id": 67130,
-        "message_id": 4532,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-09-30T10:30:42.650613+00:00"
-      },
-      {
-        "fingerprint": "16e65bfd7b18e0b3baa91149cae2d6672d8c411dc172eaf3df3eb73b2841287a",
-        "media_fingerprint": "",
-        "text": ". ویدیویی از لحظه فرود هواپیمای فلای دبی امارات متحده عربی در مسیر تل آویو در فرودگاه تبوک عربستان سعودی در رسانه‌های اجتماعی منتشر شده است.  در این ویدیدو صدای فریاد مسافران «پس از حادثه امنیتی» شنیده می‌شود.  تایمز اسرائیل به نقل از یک منبع آگاه امنیتی گزارش‌ها…",
-        "original_username": "kafiha",
-        "original_text": ". ویدیویی از لحظه فرود هواپیمای فلای دبی امارات متحده عربی در مسیر تل آویو در فرودگاه تبوک عربستان سعودی در رسانه‌های اجتماعی منتشر شده است.  در این ویدیدو صدای فریاد مسافران «پس از حادثه امنیتی» شنیده می‌شود.  تایمز اسرائیل به نقل از یک منبع آگاه امنیتی گزارش‌ها…",
-        "original_link": "https://t.me/kafiha/461189",
-        "post_id": 461189,
-        "message_id": 4533,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-30T10:30:45.448721+00:00"
-      },
-      {
-        "fingerprint": "b284470bd7e82621e9062c15497f9fac6f49b57d323ad28d55a761cede76c806",
-        "media_fingerprint": "2b49f0603f11c15cb05d92f3bde6daac8311a7dd2677d643169b35b82789f28c",
-        "text": "بیرانوند و رفقاش تو سربازی\n😂\nفقط صلاح که عینک شجاع رو زده\n😂\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "بیرانوند و رفقاش تو سربازی\n😂\nفقط صلاح که عینک شجاع رو زده\n😂\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162553",
-        "post_id": 162553,
-        "message_id": 4534,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-30T10:30:52.592198+00:00"
-      },
-      {
-        "fingerprint": "af69b83e775e3b212d9a1acd29530139dc579a628e371892ee7ff625e3e0cb0b",
-        "media_fingerprint": "15fc5869c90b5afc2da287376508cc8bf1cc8559ee7cb3fb5c99b148891083d4",
-        "text": "خلبان چاقو خورده پرواز فلای دوبی\n1991\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": "خلبان چاقو خورده پرواز فلای دوبی\n1991\n@kafiha",
-        "original_link": "https://t.me/kafiha/461190",
-        "post_id": 461190,
-        "message_id": 4535,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-30T10:30:59.957790+00:00"
-      },
-      {
-        "fingerprint": "818fb15d1b0bce2b00940e374c8cf8b58919bc00b81c0a7303fc5ca413b09c90",
-        "media_fingerprint": "9ba9585a994462fffb7148e78eb04e6a6503be065ad4d3981a82f8d3be1ff703",
-        "text": "شایسته قهرمانی ۲۰۱۲ نیستیم\n🎙\nوین رونی درباره احتمال پس گرفته شدن قهرمانی‌های منچسترسیتی\n💬\n«اگر صادق باشم، واقعاً با گرفتن یک مدال قهرمانی دیگر در لیگ برتر راحت نخواهم بود. فکر نمی‌کنم ما شایسته آن باشیم. [سال ۲۰۱۲] چند بازی مانده به پایان، ۶ یا ۷ امتیاز…",
-        "original_username": "ft360_ir",
-        "original_text": "شایسته قهرمانی ۲۰۱۲ نیستیم\n🎙\nوین رونی درباره احتمال پس گرفته شدن قهرمانی‌های منچسترسیتی\n💬\n«اگر صادق باشم، واقعاً با گرفتن یک مدال قهرمانی دیگر در لیگ برتر راحت نخواهم بود. فکر نمی‌کنم ما شایسته آن باشیم. [سال ۲۰۱۲] چند بازی مانده به پایان، ۶ یا ۷ امتیاز…",
-        "original_link": "https://t.me/ft360_ir/108713",
-        "post_id": 108713,
-        "message_id": 4536,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-09-30T10:31:10.236258+00:00"
-      },
-      {
-        "fingerprint": "cef24245b917f30e0cd6441fd58465a02cdf75cf6be9c7b78feb3394f9f586ef",
-        "media_fingerprint": "ef944ad448c6490b58e35d73ff582e6e12e5eff049fc022260deff3d559f049d",
-        "text": "بفرست براش\n1991\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": "بفرست براش\n1991\n@kafiha",
-        "original_link": "https://t.me/kafiha/461191",
-        "post_id": 461191,
-        "message_id": 4537,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-30T10:50:53.045492+00:00"
-      },
-      {
-        "fingerprint": "794d400d28ee19b1d9a6569a21d80996f1dcba77c301e6689f6e4043be1a507a",
-        "media_fingerprint": "",
-        "text": "اینجا میتونی تست اینکه چقد رفیق خوبی هستی رو انجام بدی و همچنین میتونی ببینی از نگاه بقیه چه شخصیتی داری\n😳\n!\n@RastiAiBot\n@RastiAiBot",
-        "original_username": "kafiha",
-        "original_text": "اینجا میتونی تست اینکه چقد رفیق خوبی هستی رو انجام بدی و همچنین میتونی ببینی از نگاه بقیه چه شخصیتی داری\n😳\n!\n@RastiAiBot\n@RastiAiBot",
-        "original_link": "https://t.me/kafiha/461192",
-        "post_id": 461192,
-        "message_id": 4538,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-30T10:50:55.905576+00:00"
-      },
       {
         "fingerprint": "2356ff1a3a86217aadb42eab723e7947930036382fe14fe0ebc0a1dad91e4cc2",
         "media_fingerprint": "6956da5deaafc6d478ed53ccf3d8c3933f48b3405c47192715a5091ca8d17942",
@@ -25426,7 +25246,9 @@
         "message_kind": "caption",
         "sources": [
           "drtel",
-          "kafiha"
+          "kafiha",
+          "midanesti",
+          "scienticnews"
         ],
         "created_at": "2026-10-02T07:48:28.700894+00:00"
       },
@@ -29011,6 +28833,216 @@
           "scienticnews"
         ],
         "created_at": "2026-10-02T18:02:20.082749+00:00"
+      },
+      {
+        "fingerprint": "33694455475de54a6edc9afe0c77cc6d5a711a517c2a0dbc0bd3a14dcf88b0f1",
+        "media_fingerprint": "",
+        "text": "⭕️\nطبق گفته حسن‌پور خبرنگار خبرگزاری فارس، فردا در نشست خبری رئیس سازمان سنجش رتبه‌های برتر کنکور ۱۴۰۵ معرفی خواهند شد.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "⭕️\nطبق گفته حسن‌پور خبرنگار خبرگزاری فارس، فردا در نشست خبری رئیس سازمان سنجش رتبه‌های برتر کنکور ۱۴۰۵ معرفی خواهند شد.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/22870",
+        "post_id": 22870,
+        "message_id": 5582,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-02T18:31:18.034017+00:00"
+      },
+      {
+        "fingerprint": "3e5e55334967118ad21edd0bdecf8489d4eb5dc45c650dc9e58a4bec316df22d",
+        "media_fingerprint": "",
+        "text": "⭕️\nطبق گفته حسن‌پور خبرنگار خبرگزاری فارس، فردا در نشست خبری رئیس سازمان سنجش رتبه‌های برتر کنکور ۱۴۰۵ معرفی خواهند شد.\n✦✦✦ آنلاین کافه ✦✦✦\nکانال تلگرام :\n@onlinecofe_ir\nوبلاگ اخبار :\nonlinecofe.ir/news",
+        "original_username": "onlinecofe_ir",
+        "original_text": "⭕️\nطبق گفته حسن‌پور خبرنگار خبرگزاری فارس، فردا در نشست خبری رئیس سازمان سنجش رتبه‌های برتر کنکور ۱۴۰۵ معرفی خواهند شد.\n✦✦✦ آنلاین کافه ✦✦✦\nکانال تلگرام :\n@onlinecofe_ir\nوبلاگ اخبار :\nonlinecofe.ir/news",
+        "original_link": "https://t.me/onlinecofe_ir/2879",
+        "post_id": 2879,
+        "message_id": 5583,
+        "message_kind": "text",
+        "sources": [
+          "onlinecofe_ir"
+        ],
+        "created_at": "2026-10-02T18:31:20.910201+00:00"
+      },
+      {
+        "fingerprint": "93901e636b18c4eee981c806827ce236305c841eb01e3b68cc651e1f13fc0928",
+        "media_fingerprint": "",
+        "text": "🚨\n‼️\n🔴\nاحسان حاج‌صفی: ۴ سال پیش و قبل از لژیونر شدن از پرسپولیس و استقلال پیشنهاد داشتم اما بخاطر سپاهان به این پیشنهادات پاسخ منفی دادم.\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🚨\n‼️\n🔴\nاحسان حاج‌صفی: ۴ سال پیش و قبل از لژیونر شدن از پرسپولیس و استقلال پیشنهاد داشتم اما بخاطر سپاهان به این پیشنهادات پاسخ منفی دادم.\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/234588",
+        "post_id": 234588,
+        "message_id": 5584,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-02T18:31:23.825727+00:00"
+      },
+      {
+        "fingerprint": "3448c72281ee40080f437dd22f4f738ea70973ffd5fe35c89e84ca33a914f7df",
+        "media_fingerprint": "1b4d6b36d0a134d6f7762e5c8665439e7f1f11782a79b608087d3873398d16e8",
+        "text": "🎖️\n⚽️\nبارسلونا در کمین نشسته تا در صورت محکوم شدن منچسترسیتی این ۴ ستاره رو از این تیم جذب کنه!\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
+        "original_username": "totalfut_plus",
+        "original_text": "🎖️\n⚽️\nبارسلونا در کمین نشسته تا در صورت محکوم شدن منچسترسیتی این ۴ ستاره رو از این تیم جذب کنه!\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
+        "original_link": "https://t.me/totalfut_plus/26368",
+        "post_id": 26368,
+        "message_id": 5585,
+        "message_kind": "caption",
+        "sources": [
+          "totalfut_plus"
+        ],
+        "created_at": "2026-10-02T18:31:28.537088+00:00"
+      },
+      {
+        "fingerprint": "db481f47a1af84851fe483978226a985c381d2168dcc90029a2a0fbf285987b7",
+        "media_fingerprint": "",
+        "text": "♦️\nکالابرگ مهرماه در راه است؛\nاعتبار دهک‌های پایین بیشتر می‌شود\n🔹️\nشارژ کالابرگ مهرماه قرار است طی چند روز آینده آغاز شود و طبق اعلام‌های منتشرشده، این ماه حداقل اعتبار خانوارهای دهک‌های پایین درآمدی افزایش پیدا خواهد کرد.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nکالابرگ مهرماه در راه است؛\nاعتبار دهک‌های پایین بیشتر می‌شود\n🔹️\nشارژ کالابرگ مهرماه قرار است طی چند روز آینده آغاز شود و طبق اعلام‌های منتشرشده، این ماه حداقل اعتبار خانوارهای دهک‌های پایین درآمدی افزایش پیدا خواهد کرد.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142899",
+        "post_id": 142899,
+        "message_id": 5586,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-02T18:31:31.592375+00:00"
+      },
+      {
+        "fingerprint": "0b2ddff7a4c7e01cf2e9ff80b0b6cd2481b0374b921482a9377e492390ab60ef",
+        "media_fingerprint": "7cb6973fa96a697c989fb8b9493f8afe9e6564e42be104267aabcb089f97db44",
+        "text": "❌\nدیگه برای فیلترشکن گرون پول نده!\n❌\n🔥\nفیلترشکن پرسرعت و مقرون‌به‌صرفه، فقط با هر گیگ ۳ هزار تومان!\n🔥\n🎁\nیه خبر ویژه برای اعضای کانال:\n۱۰ گیگ تست کاملاً رایگان برای همه اعضا، بدون محدودیت تعداد!\n✅\n🚀\nهمین الان ۱۰ گیگ رایگان خودتو دریافت کن و با خیال راحت تست کن!\nبرای دریافت تست رایگان کلیک کن:\n👇\n👇\nhttps://t.me/RAHAVPNcfzbot\nhttps://t.me/RAHAVPNcfzbot",
+        "original_username": "ajayebe_jahann",
+        "original_text": "❌\nدیگه برای فیلترشکن گرون پول نده!\n❌\n🔥\nفیلترشکن پرسرعت و مقرون‌به‌صرفه، فقط با هر گیگ ۳ هزار تومان!\n🔥\n🎁\nیه خبر ویژه برای اعضای کانال:\n۱۰ گیگ تست کاملاً رایگان برای همه اعضا، بدون محدودیت تعداد!\n✅\n🚀\nهمین الان ۱۰ گیگ رایگان خودتو دریافت کن و با خیال راحت تست کن!\nبرای دریافت تست رایگان کلیک کن:\n👇\n👇\nhttps://t.me/RAHAVPNcfzbot\nhttps://t.me/RAHAVPNcfzbot",
+        "original_link": "https://t.me/Ajayebe_jahann/159457",
+        "post_id": 159457,
+        "message_id": 5587,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-02T18:31:37.298860+00:00"
+      },
+      {
+        "fingerprint": "f70f513b8868c8fb3238c20716f4f8fed20f957eb6b15bc06007e6db97f9828b",
+        "media_fingerprint": "df854d03a68e75b0a1ae45c45d583639a59ef0a10be0ce600e9feef7fe451457",
+        "text": "🔴\nفرانسه\n🇫🇷\nدرگیر اعتراضات داخلی‌ شدیدی شده که استارتش از مدارس خورده ؛  از حدود یک هفته پیش، دانش‌آموزای دبیرستانی از حومه پاریس شروع به اعتراض کردن، موضوع اصلیشون شرایط بد مدارس بود : کمبود معلم کلاس‌های خیلی شلوغ ساختمون‌های فرسوده و قدیمی ساعات طولانی…",
+        "original_username": "drtel",
+        "original_text": "🔴\nفرانسه\n🇫🇷\nدرگیر اعتراضات داخلی‌ شدیدی شده که استارتش از مدارس خورده ؛  از حدود یک هفته پیش، دانش‌آموزای دبیرستانی از حومه پاریس شروع به اعتراض کردن، موضوع اصلیشون شرایط بد مدارس بود : کمبود معلم کلاس‌های خیلی شلوغ ساختمون‌های فرسوده و قدیمی ساعات طولانی…",
+        "original_link": "https://t.me/drtel/67233",
+        "post_id": 67233,
+        "message_id": 5588,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-02T18:31:45.025799+00:00"
+      },
+      {
+        "fingerprint": "5f3227374763c97a0b83fdb11e9bf963f512bd7cb5f142c4a61cffe83e76d7f9",
+        "media_fingerprint": "74a1d8f96a63086f2463b1d5e0e206d94075fa878b438960ce19afb13b5b4c0d",
+        "text": "🔻\n۲۶۰۰ سال پیش، پیکر یک انسان در موزه‌ای در مصر قرار گرفت؛ اما امروز، پس از قرن‌ها، فناوری و علم فرصتی تازه برای بازگشت او به زندگی پیدا کرده‌اند.\n🔹\nپروژه‌ای شگفت‌انگیز که مرز میان تاریخ باستان و پزشکی مدرن را به هم نزدیک می‌کند.\n🏺\n✨\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "🔻\n۲۶۰۰ سال پیش، پیکر یک انسان در موزه‌ای در مصر قرار گرفت؛ اما امروز، پس از قرن‌ها، فناوری و علم فرصتی تازه برای بازگشت او به زندگی پیدا کرده‌اند.\n🔹\nپروژه‌ای شگفت‌انگیز که مرز میان تاریخ باستان و پزشکی مدرن را به هم نزدیک می‌کند.\n🏺\n✨\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/159458",
+        "post_id": 159458,
+        "message_id": 5589,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-02T18:31:51.223856+00:00"
+      },
+      {
+        "fingerprint": "184635d0e6592d93339290961658b994d8355a046b879e18e704bdbdd35753e1",
+        "media_fingerprint": "cb8f2313a1d7a35e9e30ddee7b3c7fb2bc0cbd9eb9ec1c378c9996b9ac7a981e",
+        "text": "🤖\nکدهای مخفی ChatGPT\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🤖\nکدهای مخفی ChatGPT\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/22871",
+        "post_id": 22871,
+        "message_id": 5590,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-02T18:31:57.241462+00:00"
+      },
+      {
+        "fingerprint": "e7d3f74a6ddda87d65b4e0da8381e7d4d0453211ccaca90e4d06e4cde96bf849",
+        "media_fingerprint": "",
+        "text": "🤖\nکدهای مخفی ChatGPT\n✦✦✦ آنلاین کافه ✦✦✦\nکانال تلگرام :\n@onlinecofe_ir\nوبلاگ اخبار :\nonlinecofe.ir/news",
+        "original_username": "onlinecofe_ir",
+        "original_text": "🤖\nکدهای مخفی ChatGPT\n✦✦✦ آنلاین کافه ✦✦✦\nکانال تلگرام :\n@onlinecofe_ir\nوبلاگ اخبار :\nonlinecofe.ir/news",
+        "original_link": "https://t.me/onlinecofe_ir/2880",
+        "post_id": 2880,
+        "message_id": 5592,
+        "message_kind": "text",
+        "sources": [
+          "onlinecofe_ir"
+        ],
+        "created_at": "2026-10-02T18:32:00.046643+00:00"
+      },
+      {
+        "fingerprint": "6c43e8f4c2d96b559de7ed4627103c2564f7545407acfcaab5d784744c1e505a",
+        "media_fingerprint": "c1ce11247375cb45cdd228c36dd6beb8d1129b535900e8a2e19f811953242e84",
+        "text": "با اختلاف بهترین کلیپ، آفرین به فکر سازندش\n👏\n👏\n👏\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "با اختلاف بهترین کلیپ، آفرین به فکر سازندش\n👏\n👏\n👏\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306709",
+        "post_id": 306709,
+        "message_id": 5593,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-02T18:32:05.302531+00:00"
+      },
+      {
+        "fingerprint": "20ac3cbd6173ddcf4874e7f9a2048414324df6f9615ebc916e70bc3066fa02cb",
+        "media_fingerprint": "d786596454b1a79c67b99b50e112010af1f03671764b7598982501d3dc2530f1",
+        "text": "عجیبه که یه انیمیشن بعد از این همه سال هنوز می‌تونه این‌قدر حرف برای گفتن داشته باشه!\n📷\n|\n@ShakhMovie",
+        "original_username": "shakhmovie",
+        "original_text": "عجیبه که یه انیمیشن بعد از این همه سال هنوز می‌تونه این‌قدر حرف برای گفتن داشته باشه!\n📷\n|\n@ShakhMovie",
+        "original_link": "https://t.me/Shakhmovie/4022",
+        "post_id": 4022,
+        "message_id": 5594,
+        "message_kind": "caption",
+        "sources": [
+          "shakhmovie"
+        ],
+        "created_at": "2026-10-02T18:32:21.431295+00:00"
+      },
+      {
+        "fingerprint": "f49b46ab2bab03c40a13cb9f7fd967fd8b993a90704e6a4bb9d31a5974b1b30b",
+        "media_fingerprint": "",
+        "text": "🚨\n🚨\n🚨\n#اختصاصی_آداک\n🚨\n🔴\nمحمد عمری خواهان افزایش قراردادش با باشگاه پرسپولیس شده و در صورت مخالفت باشگاه با درخواستش، تمایل دارد که لژیونر شود.\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🚨\n🚨\n🚨\n#اختصاصی_آداک\n🚨\n🔴\nمحمد عمری خواهان افزایش قراردادش با باشگاه پرسپولیس شده و در صورت مخالفت باشگاه با درخواستش، تمایل دارد که لژیونر شود.\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/234592",
+        "post_id": 234592,
+        "message_id": 5595,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-02T18:32:24.464026+00:00"
+      },
+      {
+        "fingerprint": "72a77b7c35747a9d1174397dcc905c54d31bfa6591c9c0df9bc3459c71d2946d",
+        "media_fingerprint": "354d37d725b9d7e2927068d664655f6628f488f1125d8c86c57d2bb25be25b36",
+        "text": "💻\nچیزهای بدردبخور ویندوز! ( پارت یک )\n📰\nاگه ویندوز ۱۱ داری، برنامه\nMicrosoft Photos\nفقط برای نمایش عکس نیست؛ ابزارهای کاربردی ویرایش تصویر هم داره که می‌تونی باهاشون بدون نصب برنامه‌های سنگین، عکس‌هات رو ادیت کنی.\n⚡️\nحذف پس‌زمینه عکس\n:\n1️⃣\nعکس موردنظرت رو با برنامه\nPhotos\nباز کن.\n2️⃣\nروی\nEdit image\nبزن.\n3️⃣\nگزینه\nbackground\nرو انتخاب کن.\n4️⃣\nسپس Photos به‌صورت خودکار سوژه اصلی رو تشخیص می‌ده و پس‌زمینه رو حذف می‌کنه.\n5️⃣\nدر نهایت می‌تونی تصویر رو با پس‌زمینه شفاف ذخیره کنی.\n🖌\nحذف سوژه یا اشیای اضافی\n:\n1️⃣\nوارد\nEdit image\nشو.\n2️⃣\nگزینه\nerase\nرو انتخاب کن.\n3️⃣\nبا بِراش روی شخص یا شیء اضافی بکش.\n4️⃣\nسپس Photos با استفاده از هوش مصنوعی اون قسمت رو حذف و فضای خالی رو بازسازی می‌کنه.\n5️⃣\nنتیجه رو بررسی و تصویر نهایی رو ذخیره کن.\n@RoidBest",
+        "original_username": "roidbest",
+        "original_text": "💻\nچیزهای بدردبخور ویندوز! ( پارت یک )\n📰\nاگه ویندوز ۱۱ داری، برنامه\nMicrosoft Photos\nفقط برای نمایش عکس نیست؛ ابزارهای کاربردی ویرایش تصویر هم داره که می‌تونی باهاشون بدون نصب برنامه‌های سنگین، عکس‌هات رو ادیت کنی.\n⚡️\nحذف پس‌زمینه عکس\n:\n1️⃣\nعکس موردنظرت رو با برنامه\nPhotos\nباز کن.\n2️⃣\nروی\nEdit image\nبزن.\n3️⃣\nگزینه\nbackground\nرو انتخاب کن.\n4️⃣\nسپس Photos به‌صورت خودکار سوژه اصلی رو تشخیص می‌ده و پس‌زمینه رو حذف می‌کنه.\n5️⃣\nدر نهایت می‌تونی تصویر رو با پس‌زمینه شفاف ذخیره کنی.\n🖌\nحذف سوژه یا اشیای اضافی\n:\n1️⃣\nوارد\nEdit image\nشو.\n2️⃣\nگزینه\nerase\nرو انتخاب کن.\n3️⃣\nبا بِراش روی شخص یا شیء اضافی بکش.\n4️⃣\nسپس Photos با استفاده از هوش مصنوعی اون قسمت رو حذف و فضای خالی رو بازسازی می‌کنه.\n5️⃣\nنتیجه رو بررسی و تصویر نهایی رو ذخیره کن.\n@RoidBest",
+        "original_link": "https://t.me/RoidBest/21757",
+        "post_id": 21757,
+        "message_id": 5596,
+        "message_kind": "caption",
+        "sources": [
+          "roidbest"
+        ],
+        "created_at": "2026-10-02T18:32:30.022893+00:00"
       }
     ]
   }
