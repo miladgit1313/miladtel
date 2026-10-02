@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142907,
+      "last_id": 142910,
       "processed_ids": [
         141903,
         141904,
@@ -948,12 +948,14 @@
         142904,
         142905,
         142906,
-        142907
+        142907,
+        142908,
+        142910
       ],
       "sent_count": 578
     },
     "total_fut": {
-      "last_id": 237143,
+      "last_id": 237144,
       "processed_ids": [
         236405,
         236407,
@@ -1662,7 +1664,8 @@
         237140,
         237141,
         237142,
-        237143
+        237143,
+        237144
       ],
       "sent_count": 47
     },
@@ -2851,7 +2854,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67236,
+      "last_id": 67237,
       "processed_ids": [
         66561,
         66565,
@@ -3389,7 +3392,8 @@
         67231,
         67232,
         67233,
-        67236
+        67236,
+        67237
       ],
       "sent_count": 318
     },
@@ -4091,7 +4095,7 @@
       "sent_count": 88
     },
     "akhbar_cafenet": {
-      "last_id": 22875,
+      "last_id": 22879,
       "processed_ids": [
         22432,
         22433,
@@ -4525,9 +4529,13 @@
         22871,
         22873,
         22874,
-        22875
+        22875,
+        22876,
+        22877,
+        22878,
+        22879
       ],
-      "sent_count": 259
+      "sent_count": 263
     },
     "comentiat": {
       "last_id": 26244,
@@ -5766,7 +5774,7 @@
       "sent_count": 465
     },
     "dr_salamatx": {
-      "last_id": 55337,
+      "last_id": 55338,
       "processed_ids": [
         55270,
         55271,
@@ -5835,9 +5843,10 @@
         55334,
         55335,
         55336,
-        55337
+        55337,
+        55338
       ],
-      "sent_count": 42
+      "sent_count": 43
     },
     "jaleb": {
       "last_id": 52626,
@@ -6166,7 +6175,7 @@
       "sent_count": 175
     },
     "ajayebe_jahann": {
-      "last_id": 159461,
+      "last_id": 159463,
       "processed_ids": [
         158956,
         158957,
@@ -6670,9 +6679,11 @@
         159458,
         159459,
         159460,
-        159461
+        159461,
+        159462,
+        159463
       ],
-      "sent_count": 229
+      "sent_count": 230
     },
     "etelaate_omoomi": {
       "last_id": 43124,
@@ -6766,7 +6777,7 @@
       "sent_count": 15
     },
     "scienticnews": {
-      "last_id": 22535,
+      "last_id": 22536,
       "processed_ids": [
         22458,
         22459,
@@ -6844,12 +6855,13 @@
         22532,
         22533,
         22534,
-        22535
+        22535,
+        22536
       ],
-      "sent_count": 38
+      "sent_count": 39
     },
     "ft360_ir": {
-      "last_id": 108860,
+      "last_id": 108863,
       "processed_ids": [
         107883,
         107884,
@@ -7787,7 +7799,10 @@
         108856,
         108858,
         108859,
-        108860
+        108860,
+        108861,
+        108862,
+        108863
       ],
       "sent_count": 53
     },
@@ -9100,7 +9115,7 @@
       "sent_count": 22
     },
     "adak_ir_official": {
-      "last_id": 234595,
+      "last_id": 234597,
       "processed_ids": [
         233831,
         233833,
@@ -9861,12 +9876,14 @@
         234592,
         234593,
         234594,
-        234595
+        234595,
+        234596,
+        234597
       ],
-      "sent_count": 77
+      "sent_count": 78
     },
     "futball180tv": {
-      "last_id": 107708,
+      "last_id": 107709,
       "processed_ids": [
         106848,
         106849,
@@ -10714,12 +10731,13 @@
         107705,
         107706,
         107707,
-        107708
+        107708,
+        107709
       ],
       "sent_count": 31
     },
     "hattric_official": {
-      "last_id": 84163,
+      "last_id": 84165,
       "processed_ids": [
         83433,
         83434,
@@ -11404,9 +11422,11 @@
         84160,
         84161,
         84162,
-        84163
+        84163,
+        84164,
+        84165
       ],
-      "sent_count": 39
+      "sent_count": 40
     },
     "mazdak_hattrick": {
       "last_id": 182304,
@@ -13793,7 +13813,7 @@
       "sent_count": 26
     },
     "yejoorayi": {
-      "last_id": 468,
+      "last_id": 469,
       "processed_ids": [
         426,
         427,
@@ -13836,12 +13856,13 @@
         465,
         466,
         467,
-        468
+        468,
+        469
       ],
-      "sent_count": 40
+      "sent_count": 41
     },
     "onlinecofe_ir": {
-      "last_id": 2883,
+      "last_id": 2887,
       "processed_ids": [
         2781,
         2782,
@@ -13945,9 +13966,13 @@
         2880,
         2881,
         2882,
-        2883
+        2883,
+        2884,
+        2885,
+        2886,
+        2887
       ],
-      "sent_count": 37
+      "sent_count": 39
     },
     "shakhmovie": {
       "last_id": 4022,
@@ -13960,191 +13985,17 @@
         4022
       ],
       "sent_count": 5
+    },
+    "peach_tweet": {
+      "last_id": 2745,
+      "processed_ids": [
+        2745
+      ],
+      "sent_count": 0
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "c1cff365ab44cffee2bf37a8518d71ee6425152a6bfd4de1777a88d2cb3b790b",
-        "media_fingerprint": "e3972df368b4d90ef809de30f1e12039d35defe4d2e091da01b04fc05ced8f13",
-        "text": "زن‌ها در برابر ناملایمتی‌های روزگار، خانواده سنّتی، پریود و مردها...\n💬\nپرت و پلا\n1991\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": "زن‌ها در برابر ناملایمتی‌های روزگار، خانواده سنّتی، پریود و مردها...\n💬\nپرت و پلا\n1991\n@kafiha",
-        "original_link": "https://t.me/kafiha/461203",
-        "post_id": 461203,
-        "message_id": 4563,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-30T11:54:42.846779+00:00"
-      },
-      {
-        "fingerprint": "e7734c417b81ef0fce4e043b9b18ce76a15ffbf809364fa67b8c47d230d1e93f",
-        "media_fingerprint": "",
-        "text": "🔴\nسخنگوی سپاه: در هر ۲۴ ساعت در تنگه هرمز درگیری نظامی وجود دارد اما مدتی است که آمریکا پاسخ نمی‌دهد\n@Gilin",
-        "original_username": "gilin_gilin",
-        "original_text": "🔴\nسخنگوی سپاه: در هر ۲۴ ساعت در تنگه هرمز درگیری نظامی وجود دارد اما مدتی است که آمریکا پاسخ نمی‌دهد\n@Gilin",
-        "original_link": "https://t.me/Gilin_Gilin/284024",
-        "post_id": 284024,
-        "message_id": 4564,
-        "message_kind": "text",
-        "sources": [
-          "gilin_gilin"
-        ],
-        "created_at": "2026-09-30T11:54:45.977518+00:00"
-      },
-      {
-        "fingerprint": "cf1e2c64341a0b104fbb435f1d828efc0d9edebdd97e71e7be11315ec43766a6",
-        "media_fingerprint": "8d3122f025d537064c7b31ff94f17f40df3f98af6d14c09370eacbf72d017c8a",
-        "text": "گزارش سال ۱۴۰۴ دیجی‌کالا به هوش مصنوعی مجهز شد!\nدیگه لازم نیست ۱۰۰ صفحه گزارش بخونی!\n🤯\nگزارش سال ۱۴۰۴ دیجی‌کالا اومد، اونم با دستیار هوش مصنوعی اختصاصی!\nفقط کافیه چت کنی و بپرسی تا هر آماری که از وضعیت بازار، رفتار خریدارها و ترین‌های سال می‌خوای رو برات تحلیل کنه و تحویل بده.\nهمین الان وارد لینک شو، سوالت رو بپرس و ببین امسال خرید آنلاین ایران چه شکلی بوده\n👇\nhttps://dgka.me/Fzzx2R",
-        "original_username": "kafiha",
-        "original_text": "گزارش سال ۱۴۰۴ دیجی‌کالا به هوش مصنوعی مجهز شد!\nدیگه لازم نیست ۱۰۰ صفحه گزارش بخونی!\n🤯\nگزارش سال ۱۴۰۴ دیجی‌کالا اومد، اونم با دستیار هوش مصنوعی اختصاصی!\nفقط کافیه چت کنی و بپرسی تا هر آماری که از وضعیت بازار، رفتار خریدارها و ترین‌های سال می‌خوای رو برات تحلیل کنه و تحویل بده.\nهمین الان وارد لینک شو، سوالت رو بپرس و ببین امسال خرید آنلاین ایران چه شکلی بوده\n👇\nhttps://dgka.me/Fzzx2R",
-        "original_link": "https://t.me/kafiha/461204",
-        "post_id": 461204,
-        "message_id": 4565,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-30T11:54:53.181056+00:00"
-      },
-      {
-        "fingerprint": "e116c31cdccb925792397ddbfdeb6c48089bcf30718fb41c45e8d5bb8970029d",
-        "media_fingerprint": "8fe55b67fd2460c4470ae7f30f320f57ae6aeb530911cbfa1eb556ed12dddbef",
-        "text": "نگاهش :نری یه روز ب*گام بدی من ادم وابسته ای ام\n💬\nEhsani\n1991\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": "نگاهش :نری یه روز ب*گام بدی من ادم وابسته ای ام\n💬\nEhsani\n1991\n@kafiha",
-        "original_link": "https://t.me/kafiha/461205",
-        "post_id": 461205,
-        "message_id": 4566,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-30T11:54:56.199807+00:00"
-      },
-      {
-        "fingerprint": "20ae9829880986019883626c1a6a573321e6ec0d9f9d93fab7a61c9bc28f9ffa",
-        "media_fingerprint": "c7e5f4c675421843dc089bb2c58f8a255bf32df3efb2d625f289363b10d0511b",
-        "text": "ایلان ماسک میگه کمتر از یک سال دیگه\nایمپلنت‌های نورالینک رو در سر جایگزاری میکنن و کسایی که از بدو تولد مشکل بینایی داشتن هم \"فراتر از انسان عادی\" میتونن هم ببین و هم قادر به دیدن طول موجهایی هستند که انسان قادر به دیدنشون نیست!\nنمیشه یکی تو سر من بکارن؟ من میخام اینو\n@Gilin",
-        "original_username": "gilin_gilin",
-        "original_text": "ایلان ماسک میگه کمتر از یک سال دیگه\nایمپلنت‌های نورالینک رو در سر جایگزاری میکنن و کسایی که از بدو تولد مشکل بینایی داشتن هم \"فراتر از انسان عادی\" میتونن هم ببین و هم قادر به دیدن طول موجهایی هستند که انسان قادر به دیدنشون نیست!\nنمیشه یکی تو سر من بکارن؟ من میخام اینو\n@Gilin",
-        "original_link": "https://t.me/Gilin_Gilin/284025",
-        "post_id": 284025,
-        "message_id": 4567,
-        "message_kind": "caption",
-        "sources": [
-          "gilin_gilin"
-        ],
-        "created_at": "2026-09-30T11:55:01.519684+00:00"
-      },
-      {
-        "fingerprint": "2e4149bda2590bac23df14dd30b1ff0a04a62656591ba0f5e5368c1887b08c92",
-        "media_fingerprint": "8167045d92c48a97ed14e6d0a92a5d89e4b868ab530e052c68ac0006cde90739",
-        "text": "♦️\nفقط یه شیرازی میتونه در این حد خونسرد باشه\n😂\n😂\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nفقط یه شیرازی میتونه در این حد خونسرد باشه\n😂\n😂\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142755",
-        "post_id": 142755,
-        "message_id": 4568,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-30T11:55:07.164154+00:00"
-      },
-      {
-        "fingerprint": "84f5d91e4ef28fbcfadeeabf16dcdacd300a07f4707143b844c8766fab993917",
-        "media_fingerprint": "c6b5fd1bb3fbc78aac707a21b4929af55572e4b2fa44eda3e733d487e7b0b504",
-        "text": "دیس ابوطالب به بیرانوند  @Gilin",
-        "original_username": "gilin_gilin",
-        "original_text": "دیس ابوطالب به بیرانوند  @Gilin",
-        "original_link": "https://t.me/Gilin_Gilin/284026",
-        "post_id": 284026,
-        "message_id": 4569,
-        "message_kind": "caption",
-        "sources": [
-          "gilin_gilin"
-        ],
-        "created_at": "2026-09-30T12:25:29.903641+00:00"
-      },
-      {
-        "fingerprint": "1e86bc81aa8cbafd236443a38f5345ad55f3359b1dacb1b04f6bc16d0a94ded9",
-        "media_fingerprint": "",
-        "text": "فرانک عمیدی نوشته: «اکثر مردان متجاوز نیستن ولی تعداد کافی از آنان هم ضد تجاوز نیستند و فعالانه علیه تجاوز نیستن»\nیعنی چی؟ یعنی آزار‌ رو گزارش نمی‌کنن، قربانی رو به سکوت وادار و طرد می‌کنن، با آزارگر ارتباطشونو ادامه می‌دن، و در زندگی عادی به مهملات آزارگرانه لایک می‌دن!\n💬\nنَمرائیل\n1991\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": "فرانک عمیدی نوشته: «اکثر مردان متجاوز نیستن ولی تعداد کافی از آنان هم ضد تجاوز نیستند و فعالانه علیه تجاوز نیستن»\nیعنی چی؟ یعنی آزار‌ رو گزارش نمی‌کنن، قربانی رو به سکوت وادار و طرد می‌کنن، با آزارگر ارتباطشونو ادامه می‌دن، و در زندگی عادی به مهملات آزارگرانه لایک می‌دن!\n💬\nنَمرائیل\n1991\n@kafiha",
-        "original_link": "https://t.me/kafiha/461206",
-        "post_id": 461206,
-        "message_id": 4570,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-30T12:25:32.937654+00:00"
-      },
-      {
-        "fingerprint": "afbe2b34fa41bd439bc80690adc22ef77a0e7a218598ec96c650735aa9d36b1c",
-        "media_fingerprint": "3a80f665ba77c256322db0c3c0d326c1c760446bc4d52e58a7facba7bea684f5",
-        "text": "با یک اشتباه ماشین ۲۰ میلیاردی ۵ میلیاردش نابود شد ...\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "با یک اشتباه ماشین ۲۰ میلیاردی ۵ میلیاردش نابود شد ...\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159377",
-        "post_id": 159377,
-        "message_id": 4571,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-09-30T12:25:39.868250+00:00"
-      },
-      {
-        "fingerprint": "c7d2a9d215e6544936b8356764afb180d1103ce083fc46c1b2c4e096e11afa48",
-        "media_fingerprint": "",
-        "text": "دخترم میگفت: تعداد زیادی از همکلاسیهاش بخاطر شهریه‌ی بالا از مدرسه‌ی غیرانتفاعی به مدرسه‌شون اومدند\nگفت:یکی از این بچه‌ها شاکی بود که این چه مدرسه‌ایه؟ چرا کمد شخصی ندارید؟ چرا کولر ندارید؟چرا غذا نمیدن؟ چرا..\nدخترم گفت: بهش گفتم اینجا تو رو برای زندگی واقعی آماده می کنند\n✍\nدکتر روح الله صدیق\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "دخترم میگفت: تعداد زیادی از همکلاسیهاش بخاطر شهریه‌ی بالا از مدرسه‌ی غیرانتفاعی به مدرسه‌شون اومدند\nگفت:یکی از این بچه‌ها شاکی بود که این چه مدرسه‌ایه؟ چرا کمد شخصی ندارید؟ چرا کولر ندارید؟چرا غذا نمیدن؟ چرا..\nدخترم گفت: بهش گفتم اینجا تو رو برای زندگی واقعی آماده می کنند\n✍\nدکتر روح الله صدیق\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162554",
-        "post_id": 162554,
-        "message_id": 4572,
-        "message_kind": "text",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-30T12:25:42.991067+00:00"
-      },
-      {
-        "fingerprint": "e3396506e09b85b74d84729f4959789fd674e4378f5b592d6ed1161089072fe8",
-        "media_fingerprint": "e411fde6d70fe9f617b22f5b728507031128edbfeb50e88f344b6152f43b4aea",
-        "text": "این داداشمون با این استعدادی که داره الان باید بغل دست یامال بازی میکرد.\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "این داداشمون با این استعدادی که داره الان باید بغل دست یامال بازی میکرد.\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162556",
-        "post_id": 162556,
-        "message_id": 4573,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel",
-          "gilin_gilin"
-        ],
-        "created_at": "2026-09-30T12:25:49.082829+00:00"
-      },
-      {
-        "fingerprint": "94162c9c1a446b2e35b513a301d8cf068ebad09233a42e367637679c16d126c4",
-        "media_fingerprint": "",
-        "text": "📢\nاطلاعیه\n#مخابرات\n#پرداخت_قبض\nبه اطلاع دفاتر محترم پیشخوان می‌رساند، به دلیل بروز اختلال در زیرساخت مخابرات، سرویس پرداخت قبوض مخابرات در حال حاضر در دفاتر قابل ارائه نمی‌باشد.\nلذا تا زمان برقراری سرویس، امکان انجام این خدمت وجود نخواهد داشت. مراتب برقراری مجدد سرویس متعاقباً اطلاع‌رسانی خواهد شد.\n✅\n1405/07/08",
-        "original_username": "it_pishkhan",
-        "original_text": "📢\nاطلاعیه\n#مخابرات\n#پرداخت_قبض\nبه اطلاع دفاتر محترم پیشخوان می‌رساند، به دلیل بروز اختلال در زیرساخت مخابرات، سرویس پرداخت قبوض مخابرات در حال حاضر در دفاتر قابل ارائه نمی‌باشد.\nلذا تا زمان برقراری سرویس، امکان انجام این خدمت وجود نخواهد داشت. مراتب برقراری مجدد سرویس متعاقباً اطلاع‌رسانی خواهد شد.\n✅\n1405/07/08",
-        "original_link": "https://t.me/it_pishkhan/9560",
-        "post_id": 9560,
-        "message_id": 4574,
-        "message_kind": "text",
-        "sources": [
-          "it_pishkhan"
-        ],
-        "created_at": "2026-09-30T12:25:52.939751+00:00"
-      },
       {
         "fingerprint": "05603b2dc5c4cc4df8812080855a7179170a0491556049a74f8aaa12855fdc7c",
         "media_fingerprint": "3db54c0deaef7de6e0de6ac9277c0c11d8617edd57c1d49ad10abd4fa500e8d0",
@@ -29084,6 +28935,188 @@
           "onlinecofe_ir"
         ],
         "created_at": "2026-10-02T19:17:52.702855+00:00"
+      },
+      {
+        "fingerprint": "eb35141997153e1d9c3ed9e3b1725c6029a205f7413c1d58c2967db2ce529160",
+        "media_fingerprint": "",
+        "text": "🚨\n🚨\nمدیر برنامه‌های دنیس درگاهی، این بازیکن ملی‌پوش را به تیم‌های مدعی لیگ برتری، لینک کرده است!\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🚨\n🚨\nمدیر برنامه‌های دنیس درگاهی، این بازیکن ملی‌پوش را به تیم‌های مدعی لیگ برتری، لینک کرده است!\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/234596",
+        "post_id": 234596,
+        "message_id": 5623,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-02T19:37:10.585447+00:00"
+      },
+      {
+        "fingerprint": "dc6b276a6339cf8ad221a1bc4c048449dd6fe3d042f0307e7ff92439aa4b9abb",
+        "media_fingerprint": "f559139ea9ca89c7a05eddb7051e8e1fe89d7fb16d2ba76e85edfe2c27578d44",
+        "text": "🎥\nمیدری: دهک‌بندی در طرح جدید حمایت معیشتی کنار گذاشته می‌شود/ جامعه به سه گروه درآمدی تقسیم می شود\n🔵\nوزیر تعاون، کار و رفاه اجتماعی: در شیوه جدید شناسایی مشمولان حمایت، به‌جای دهک‌بندی، جامعه به سه گروه با وسع پایین، متوسط و بالا تقسیم می‌شود.\n🟠\nمردم بر اساس میزان درآمد و دارایی خود در یکی از این سه گروه قرار می‌گیرند.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🎥\nمیدری: دهک‌بندی در طرح جدید حمایت معیشتی کنار گذاشته می‌شود/ جامعه به سه گروه درآمدی تقسیم می شود\n🔵\nوزیر تعاون، کار و رفاه اجتماعی: در شیوه جدید شناسایی مشمولان حمایت، به‌جای دهک‌بندی، جامعه به سه گروه با وسع پایین، متوسط و بالا تقسیم می‌شود.\n🟠\nمردم بر اساس میزان درآمد و دارایی خود در یکی از این سه گروه قرار می‌گیرند.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/22876",
+        "post_id": 22876,
+        "message_id": 5624,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet",
+          "onlinecofe_ir"
+        ],
+        "created_at": "2026-10-02T19:37:16.814548+00:00"
+      },
+      {
+        "fingerprint": "7eed6688c8902300f16de484f27af69801920208953b53a400527e577b1379f2",
+        "media_fingerprint": "96cab5503c272e7af07d1dd2b24c6854d4292ea435027930d3a058803bca3bc9",
+        "text": "🔻\n۱۰ موشک دوربرد معروف جهان و سایر ویژگی های آن ها\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "🔻\n۱۰ موشک دوربرد معروف جهان و سایر ویژگی های آن ها\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/159462",
+        "post_id": 159462,
+        "message_id": 5625,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-02T19:37:22.235968+00:00"
+      },
+      {
+        "fingerprint": "171089ce559d29dc589a3b739fbb2e1796629bd8008538aa893fa82c66964924",
+        "media_fingerprint": "756cb3575e580c8df1c7d7b84cb2d6e208d00f5d766154111918f08752f4b7a1",
+        "text": "🎥\nمیدری: کیف پول بازنشستگان تا پایان مهر راه‌اندازی می‌شود/ امیدواریم قدرت خرید بازنشستگان ۵ درصد افزایش یابد\n🔵\nوزیر تعاون، کار و رفاه اجتماعی: تا پایان مهر، کیف پول بازنشستگان حداقل در یک استان راه‌اندازی می‌شود تا مستمری آن‌ها به‌جای چند روز، در یک روز پرداخت شود.\n🟠\nتجربه اجرای این طرح در برخی شرکت‌ها نشان داده که قدرت خرید کارکنان حداقل ۵ درصد افزایش یافته است. امیدواریم با اجرای آن، قدرت خرید بازنشستگان نیز ۵ درصد افزایش یابد.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🎥\nمیدری: کیف پول بازنشستگان تا پایان مهر راه‌اندازی می‌شود/ امیدواریم قدرت خرید بازنشستگان ۵ درصد افزایش یابد\n🔵\nوزیر تعاون، کار و رفاه اجتماعی: تا پایان مهر، کیف پول بازنشستگان حداقل در یک استان راه‌اندازی می‌شود تا مستمری آن‌ها به‌جای چند روز، در یک روز پرداخت شود.\n🟠\nتجربه اجرای این طرح در برخی شرکت‌ها نشان داده که قدرت خرید کارکنان حداقل ۵ درصد افزایش یافته است. امیدواریم با اجرای آن، قدرت خرید بازنشستگان نیز ۵ درصد افزایش یابد.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/22877",
+        "post_id": 22877,
+        "message_id": 5626,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet",
+          "onlinecofe_ir"
+        ],
+        "created_at": "2026-10-02T19:37:28.737227+00:00"
+      },
+      {
+        "fingerprint": "51fb40e3fd3f1e36456a3321904f2f6008e10b344f0273e1134b87ce493acb44",
+        "media_fingerprint": "",
+        "text": "عاشق مغازه های میوه فروشی ام همه چیز طبیعی و رنگیه هرکی میاد توش خوش فاز و آرومه و عجله ای نداره هیچوقت نمی بینی کسی با کله ی خراب بیاد گوجه بخره\n✍\npew\n🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "عاشق مغازه های میوه فروشی ام همه چیز طبیعی و رنگیه هرکی میاد توش خوش فاز و آرومه و عجله ای نداره هیچوقت نمی بینی کسی با کله ی خراب بیاد گوجه بخره\n✍\npew\n🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/469",
+        "post_id": 469,
+        "message_id": 5627,
+        "message_kind": "text",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-02T19:37:32.047745+00:00"
+      },
+      {
+        "fingerprint": "5541418f3b1d33c214465003419c8dc1fb15d6a7d32f7601c4fe14e4ba1265fa",
+        "media_fingerprint": "",
+        "text": "💠\nلیستی از متنوع ترین کانال های تلگرامی که میتونید یکجا بهش دست پیدا کنید :\n❤️\n@Armisstab\n🔹\n🔹\n🔹\n🔹\n🔹\n🔹\n🔹\n✅\nدسته بندی : طراحی سایت و برنامه نویسی\n⭕️\n@Computer_IT_Engineering\n⭕️\n@PythonForever\n⭕️\n@AmoozeshWebsite\n⭕️\n@Android0to100\n⭕️\n@programmers2024\n⭕️\n@Amozesh_4u\n⭕️\n@programmer_best\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : هک و امنیت\n⭕️\n@Black_Security\n⭕️\n@EngineeringReverse\n⭕️\n@Mahdiihack\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : آموزش عکاسی\n⭕️\n@positionn\n⭕️\n@j_photographer\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : عمومی\n⭕️\n@telefoodgram\n⭕️\n@romanceword\n⭕️\n@ours_life2026\n⭕️\n@MaryamTeam\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : فناوری و تکنولوژی\n⭕️\n@Power4u\n⭕️\n@aircraft_ir\n⭕️\n@ScienticNews\n⭕️\n@ai_graam\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\nایده و خلاقیت\n@iGraphical\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : کاریابی و استخدام\n⭕️\n@JOB_FREELANCER\n⭕️\n@UNII_KAR\n⭕️\n@prozhebegir_ir\n⭕️\n@VIPESTEKHDAMI\n⭕️\n@Nab_project\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : فیلترشکن و پروکسی\n⭕️\n@Proxysarver\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : هوش مصنوعی\n⭕️\n@HomeAI\n⭕️\n@project_hq\n⭕️\n@Innova_Lab\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : زبان خارجه و مهاجرت\n⭕️\n@arashniaenglish1\n⭕️\n@PTEnglishtest1\n⭕️\n@usuk1\n⭕️\n@englishclubbb\n⭕️\n@Eng_Online\n⭕️\n@class_englysh\n⭕️\n@English_ili\n⭕️\n@tarjjommee\n⭕️\n@Ellipsis50\n⭕️\n@EnglishAndBookLovers\n⭕️\n@english_uniquee\n⭕️\n@Vocab_in_use\n⭕️\n@frandcompany\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : موبایل و کامپیوتر\n⭕️\n@Pc_IT_Mob\n⭕️\n@Narmafzarpc\n⭕️\n@android_best\n⭕️\n@Software_computerr\n⭕️\n@repairms\n⭕️\n@pcmabani\n⭕️\n@spcware\n⭕️\n@ChilliTech\n⭕️\n@PC_Laptop_Hardwares\n⭕️\n@TechCntr\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : حسابداری\n⭕️\n@hesabdarijozveh\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : آموزش شبکه\n⭕️\n@modirshabake\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : پکیج رایگان\n⭕️\n@PackPlus\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : مهندسی مکانیک\n⭕️\n@ProductionLine\n⭕️\n@mech_engineering\n⭕️\n@CAD_3D\n⭕️\n@bargheeha\n⭕️\n@electronicghodrat\n⭕️\n@M_E_TUTORIAL\n⭕️\n@electricalnew\n⭕️\n@engineersbargh\n⭕️\n@automatsin\n⭕️\n@electrical_new\n⭕️\n@proje_bargh\n⭕️\n@margarinepower\n⭕️\n@doorbingram\n⭕️\n@clipbargh\n⭕️\n@electric_ir\n⭕️\n@barghtamasha\n⭕️\n@fazmetr\n⭕️\n@HighVoltage_ir\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : فایل های گرافیکی\n⭕️\n@i_font\n⭕️\n@fontbartar\n⭕️\n@fontsclub\n⭕️\n@editorclub\n⭕️\n@psdlandchannel\n⭕️\n@psd_gram\n⭕️\n@Voxelproduction\n⭕️\n@bmaxdesign\n⭕️\n@bmaxarchive\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : دانشجویی و دانشگاهی\n⭕️\n@jozve_finder\n⭕️\n@BANK_KEETAB\n⭕️\n@MOHANDESYAR\n⭕️\n@Donyayejozveh\n⭕️\n@UNIVERSITY_BOOKSS\n⭕️\n@Mohandes_yar\n⭕️\n@journalacademic\n⭕️\n@theBOOK_FRIENDS\n⭕️\n@med_article\n⭕️\n@powerpointyar\n⭕️\n@Amar_kadeh\n⭕️\n@resumedaran\n⭕️\n@manabe_daneshjooi\n⭕️\n@hamyarjozve\n⭕️\n@daneshgram\n⭕️\n@Jozve_baza\n⭕️\n@BookUp\n⭕️\n@Ketab0jozveh\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : آموزش فتوشاپ\n⭕️\n@g_v_h\n⭕️\n@Architect_City\n⭕️\n@VoxelLearn\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : معماری و عمران\n⭕️\n@CHAHAR_SOOGH_archi_gp\n⭕️\n@Design_groooup\n⭕️\n@Voxel3DDVray\n⭕️\n@VoxelObjectRevit\n⭕️\n@Arch_referece\n⭕️\n@CIVILENG\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n🔑\nدیگه هزینه نجومی برای اشتراکای هوش مصنوعی نکن!!\n@GptPLuserBot\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n.",
+        "original_username": "scienticnews",
+        "original_text": "💠\nلیستی از متنوع ترین کانال های تلگرامی که میتونید یکجا بهش دست پیدا کنید :\n❤️\n@Armisstab\n🔹\n🔹\n🔹\n🔹\n🔹\n🔹\n🔹\n✅\nدسته بندی : طراحی سایت و برنامه نویسی\n⭕️\n@Computer_IT_Engineering\n⭕️\n@PythonForever\n⭕️\n@AmoozeshWebsite\n⭕️\n@Android0to100\n⭕️\n@programmers2024\n⭕️\n@Amozesh_4u\n⭕️\n@programmer_best\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : هک و امنیت\n⭕️\n@Black_Security\n⭕️\n@EngineeringReverse\n⭕️\n@Mahdiihack\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : آموزش عکاسی\n⭕️\n@positionn\n⭕️\n@j_photographer\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : عمومی\n⭕️\n@telefoodgram\n⭕️\n@romanceword\n⭕️\n@ours_life2026\n⭕️\n@MaryamTeam\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : فناوری و تکنولوژی\n⭕️\n@Power4u\n⭕️\n@aircraft_ir\n⭕️\n@ScienticNews\n⭕️\n@ai_graam\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\nایده و خلاقیت\n@iGraphical\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : کاریابی و استخدام\n⭕️\n@JOB_FREELANCER\n⭕️\n@UNII_KAR\n⭕️\n@prozhebegir_ir\n⭕️\n@VIPESTEKHDAMI\n⭕️\n@Nab_project\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : فیلترشکن و پروکسی\n⭕️\n@Proxysarver\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : هوش مصنوعی\n⭕️\n@HomeAI\n⭕️\n@project_hq\n⭕️\n@Innova_Lab\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : زبان خارجه و مهاجرت\n⭕️\n@arashniaenglish1\n⭕️\n@PTEnglishtest1\n⭕️\n@usuk1\n⭕️\n@englishclubbb\n⭕️\n@Eng_Online\n⭕️\n@class_englysh\n⭕️\n@English_ili\n⭕️\n@tarjjommee\n⭕️\n@Ellipsis50\n⭕️\n@EnglishAndBookLovers\n⭕️\n@english_uniquee\n⭕️\n@Vocab_in_use\n⭕️\n@frandcompany\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : موبایل و کامپیوتر\n⭕️\n@Pc_IT_Mob\n⭕️\n@Narmafzarpc\n⭕️\n@android_best\n⭕️\n@Software_computerr\n⭕️\n@repairms\n⭕️\n@pcmabani\n⭕️\n@spcware\n⭕️\n@ChilliTech\n⭕️\n@PC_Laptop_Hardwares\n⭕️\n@TechCntr\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : حسابداری\n⭕️\n@hesabdarijozveh\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : آموزش شبکه\n⭕️\n@modirshabake\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : پکیج رایگان\n⭕️\n@PackPlus\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : مهندسی مکانیک\n⭕️\n@ProductionLine\n⭕️\n@mech_engineering\n⭕️\n@CAD_3D\n⭕️\n@bargheeha\n⭕️\n@electronicghodrat\n⭕️\n@M_E_TUTORIAL\n⭕️\n@electricalnew\n⭕️\n@engineersbargh\n⭕️\n@automatsin\n⭕️\n@electrical_new\n⭕️\n@proje_bargh\n⭕️\n@margarinepower\n⭕️\n@doorbingram\n⭕️\n@clipbargh\n⭕️\n@electric_ir\n⭕️\n@barghtamasha\n⭕️\n@fazmetr\n⭕️\n@HighVoltage_ir\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : فایل های گرافیکی\n⭕️\n@i_font\n⭕️\n@fontbartar\n⭕️\n@fontsclub\n⭕️\n@editorclub\n⭕️\n@psdlandchannel\n⭕️\n@psd_gram\n⭕️\n@Voxelproduction\n⭕️\n@bmaxdesign\n⭕️\n@bmaxarchive\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : دانشجویی و دانشگاهی\n⭕️\n@jozve_finder\n⭕️\n@BANK_KEETAB\n⭕️\n@MOHANDESYAR\n⭕️\n@Donyayejozveh\n⭕️\n@UNIVERSITY_BOOKSS\n⭕️\n@Mohandes_yar\n⭕️\n@journalacademic\n⭕️\n@theBOOK_FRIENDS\n⭕️\n@med_article\n⭕️\n@powerpointyar\n⭕️\n@Amar_kadeh\n⭕️\n@resumedaran\n⭕️\n@manabe_daneshjooi\n⭕️\n@hamyarjozve\n⭕️\n@daneshgram\n⭕️\n@Jozve_baza\n⭕️\n@BookUp\n⭕️\n@Ketab0jozveh\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : آموزش فتوشاپ\n⭕️\n@g_v_h\n⭕️\n@Architect_City\n⭕️\n@VoxelLearn\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n✅\nدسته بندی : معماری و عمران\n⭕️\n@CHAHAR_SOOGH_archi_gp\n⭕️\n@Design_groooup\n⭕️\n@Voxel3DDVray\n⭕️\n@VoxelObjectRevit\n⭕️\n@Arch_referece\n⭕️\n@CIVILENG\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n🔑\nدیگه هزینه نجومی برای اشتراکای هوش مصنوعی نکن!!\n@GptPLuserBot\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n▪️\n.",
+        "original_link": "https://t.me/ScienticNews/22536",
+        "post_id": 22536,
+        "message_id": 5628,
+        "message_kind": "text",
+        "sources": [
+          "scienticnews"
+        ],
+        "created_at": "2026-10-02T19:37:35.997906+00:00"
+      },
+      {
+        "fingerprint": "a460020147c1fcfda35c4f562ddae67b176d6e945fc02443e921404bafc3a149",
+        "media_fingerprint": "9748b2d74b452978d0fdd3b43136741dbde7052aa66ba070a1fc82897460fed0",
+        "text": "🎥\nوزیر کار: از این هفته بازگشایی حساب کارفرماها مثل انسداد حساب‌ها از یک سامانه انجام خواهد شد تا مجبور نشوند به چند بانک برای بازگشایی حساب مراجعه کنند.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🎥\nوزیر کار: از این هفته بازگشایی حساب کارفرماها مثل انسداد حساب‌ها از یک سامانه انجام خواهد شد تا مجبور نشوند به چند بانک برای بازگشایی حساب مراجعه کنند.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/22878",
+        "post_id": 22878,
+        "message_id": 5629,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-02T19:37:42.118976+00:00"
+      },
+      {
+        "fingerprint": "d790dd9171a4ec0e6daee44bca0127100832cba4615ca65e1376dd98e98ddbb7",
+        "media_fingerprint": "fc01e007efd4e75eeba61a4fd29b9214626c4271b9f2e76566d33a3820b25251",
+        "text": "🎥\nوزیر کار: از این هفته بازگشایی حساب کارفرماها مثل انسداد حساب‌ها از یک سامانه انجام خواهد شد تا مجبور نشوند به چند بانک برای بازگشایی حساب مراجعه کنند.\n✦✦✦ آنلاین کافه ✦✦✦\nکانال تلگرام :\n@onlinecofe_ir\nوبلاگ اخبار :\nonlinecofe.ir/news",
+        "original_username": "onlinecofe_ir",
+        "original_text": "🎥\nوزیر کار: از این هفته بازگشایی حساب کارفرماها مثل انسداد حساب‌ها از یک سامانه انجام خواهد شد تا مجبور نشوند به چند بانک برای بازگشایی حساب مراجعه کنند.\n✦✦✦ آنلاین کافه ✦✦✦\nکانال تلگرام :\n@onlinecofe_ir\nوبلاگ اخبار :\nonlinecofe.ir/news",
+        "original_link": "https://t.me/onlinecofe_ir/2886",
+        "post_id": 2886,
+        "message_id": 5630,
+        "message_kind": "caption",
+        "sources": [
+          "onlinecofe_ir"
+        ],
+        "created_at": "2026-10-02T19:37:48.531928+00:00"
+      },
+      {
+        "fingerprint": "0e73894e4ba268a81218425ff068475ca30cbbade5fa62697ca5c69766b1c8b6",
+        "media_fingerprint": "",
+        "text": "🔻\n🎙\n⚽\nمحمد عمری، بازیکن تیم پرسپولیس: در یک خوابگاه یک در یک میخوابیدم! و برای اینکه اونجا بهم جا بدن شب‌ها سالن رو طی میکشیدم\n!\n⚪️\nتا اینکه یک بازی دوستانه با ساپیا انجام شد و مربی از من خوشش اومد و دعوت شدم به تمرین تیمشون اما چون تا ۳/۴ صبح سالن رو طی می‌کشیدم حین تمرین بدنم توان کافی رو نداشت! روزه هم بودم! و اونجا یکی که وضع خوبی داشت افطاری که می‌آورد منم ازش می‌گرفتم جوری که برای سحری‌ هم نگه می‌داشتم..\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "🔻\n🎙\n⚽\nمحمد عمری، بازیکن تیم پرسپولیس: در یک خوابگاه یک در یک میخوابیدم! و برای اینکه اونجا بهم جا بدن شب‌ها سالن رو طی میکشیدم\n!\n⚪️\nتا اینکه یک بازی دوستانه با ساپیا انجام شد و مربی از من خوشش اومد و دعوت شدم به تمرین تیمشون اما چون تا ۳/۴ صبح سالن رو طی می‌کشیدم حین تمرین بدنم توان کافی رو نداشت! روزه هم بودم! و اونجا یکی که وضع خوبی داشت افطاری که می‌آورد منم ازش می‌گرفتم جوری که برای سحری‌ هم نگه می‌داشتم..\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/84165",
+        "post_id": 84165,
+        "message_id": 5631,
+        "message_kind": "text",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-02T19:37:51.828331+00:00"
+      },
+      {
+        "fingerprint": "300a7cd98f32e4dc0b775bcce8f093f7366e8b90d7bf580f3e98cbcc7845ad4b",
+        "media_fingerprint": "a7ef2d897d60f28d900e3c4ee9002c630d87cc342b79be1118172a0f81e59076",
+        "text": "💔\nتوی رابطه‌ات احساس سردی و فاصله می‌کنی و نمی‌دونی مشکل دقیقاً از کجاست؟\n👈\nمدام با هم بحث می‌کنید و دوباره آشتی می‌کنید؟\nاز هم فاصله گرفتین و نمی‌دونین چطور دوباره به هم نزدیک بشین؟\nیا احساس می‌کنی بیشترِ تلاش برای حفظ رابطه روی دوش توئه؟\nاگه این شرایط برات آشناست، یک\nروانشناس بالینی متخصص روابط عاطفی\nیک تست رایگان طراحی کرده تا کمک کنه وضعیت رابطه‌ات رو بهتر بشناسی.\n🧠\n❤️\n✅️\nتست رو انجام می‌دی و پاسخ‌هات رو براش می‌فرستی؛\nبعد پاسخ‌ها بررسی می‌شن تا بهتر متوجه بشی چالش اصلی رابطه‌تون چیه و برای بهتر شدنش از کجا باید شروع کنی.\n👇\nبرای انجام تست رایگان، از طریق لینک زیر وارد کانال شو:\n🔗\nhttps://t.me/+uVKbmsMdKxM5Nzlk\n🔗\nhttps://t.me/+uVKbmsMdKxM5Nzlk",
+        "original_username": "dr_salamatx",
+        "original_text": "💔\nتوی رابطه‌ات احساس سردی و فاصله می‌کنی و نمی‌دونی مشکل دقیقاً از کجاست؟\n👈\nمدام با هم بحث می‌کنید و دوباره آشتی می‌کنید؟\nاز هم فاصله گرفتین و نمی‌دونین چطور دوباره به هم نزدیک بشین؟\nیا احساس می‌کنی بیشترِ تلاش برای حفظ رابطه روی دوش توئه؟\nاگه این شرایط برات آشناست، یک\nروانشناس بالینی متخصص روابط عاطفی\nیک تست رایگان طراحی کرده تا کمک کنه وضعیت رابطه‌ات رو بهتر بشناسی.\n🧠\n❤️\n✅️\nتست رو انجام می‌دی و پاسخ‌هات رو براش می‌فرستی؛\nبعد پاسخ‌ها بررسی می‌شن تا بهتر متوجه بشی چالش اصلی رابطه‌تون چیه و برای بهتر شدنش از کجا باید شروع کنی.\n👇\nبرای انجام تست رایگان، از طریق لینک زیر وارد کانال شو:\n🔗\nhttps://t.me/+uVKbmsMdKxM5Nzlk\n🔗\nhttps://t.me/+uVKbmsMdKxM5Nzlk",
+        "original_link": "https://t.me/Dr_SalamatX/55338",
+        "post_id": 55338,
+        "message_id": 5632,
+        "message_kind": "caption",
+        "sources": [
+          "dr_salamatx"
+        ],
+        "created_at": "2026-10-02T19:37:56.778782+00:00"
+      },
+      {
+        "fingerprint": "4276832a67b69aa0b3723bb68ae15f7680d22a42ac4c770d8984afe6ed238750",
+        "media_fingerprint": "29bb045cf248d73b44fa64678c728480614a7a423e8ef63a123e9655c679efd1",
+        "text": "🎥\nوزیر رفاه: با مجوز بانک مرکزی ۲۰۰ همت اوراق گام منتشر می‌کنیم\n🔵\nاوراق گام به این معناست که کارفرمایانی که نتوانستند بدهی خود را به تامین اجتماعی پرداخت کنند این اوراق را دریافت می‌کنند.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🎥\nوزیر رفاه: با مجوز بانک مرکزی ۲۰۰ همت اوراق گام منتشر می‌کنیم\n🔵\nاوراق گام به این معناست که کارفرمایانی که نتوانستند بدهی خود را به تامین اجتماعی پرداخت کنند این اوراق را دریافت می‌کنند.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/22879",
+        "post_id": 22879,
+        "message_id": 5633,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-02T19:38:03.095472+00:00"
+      },
+      {
+        "fingerprint": "9d7e0df0a7e40af88b26288f795413820bd79986ded0fad67263b75fe9c1424e",
+        "media_fingerprint": "1b624cdccf2b9c8c92d98e7c7361eb664385487648305ac9fcb59c5e75a54898",
+        "text": "🎥\nوزیر رفاه: با مجوز بانک مرکزی ۲۰۰ همت اوراق گام منتشر می‌کنیم\n🔵\nاوراق گام به این معناست که کارفرمایانی که نتوانستند بدهی خود را به تامین اجتماعی پرداخت کنند این اوراق را دریافت می‌کنند.\n✦✦✦ آنلاین کافه ✦✦✦\nکانال تلگرام :\n@onlinecofe_ir\nوبلاگ اخبار :\nonlinecofe.ir/news",
+        "original_username": "onlinecofe_ir",
+        "original_text": "🎥\nوزیر رفاه: با مجوز بانک مرکزی ۲۰۰ همت اوراق گام منتشر می‌کنیم\n🔵\nاوراق گام به این معناست که کارفرمایانی که نتوانستند بدهی خود را به تامین اجتماعی پرداخت کنند این اوراق را دریافت می‌کنند.\n✦✦✦ آنلاین کافه ✦✦✦\nکانال تلگرام :\n@onlinecofe_ir\nوبلاگ اخبار :\nonlinecofe.ir/news",
+        "original_link": "https://t.me/onlinecofe_ir/2887",
+        "post_id": 2887,
+        "message_id": 5634,
+        "message_kind": "caption",
+        "sources": [
+          "onlinecofe_ir"
+        ],
+        "created_at": "2026-10-02T19:38:14.833379+00:00"
       }
     ]
   }
