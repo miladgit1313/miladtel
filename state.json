@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142888,
+      "last_id": 142891,
       "processed_ids": [
         141903,
         141904,
@@ -931,12 +931,15 @@
         142885,
         142886,
         142887,
-        142888
+        142888,
+        142889,
+        142890,
+        142891
       ],
-      "sent_count": 567
+      "sent_count": 570
     },
     "total_fut": {
-      "last_id": 237132,
+      "last_id": 237133,
       "processed_ids": [
         236405,
         236407,
@@ -1634,14 +1637,14 @@
         237129,
         237130,
         237131,
-        237132
+        237132,
+        237133
       ],
       "sent_count": 47
     },
     "footballvision2": {
-      "last_id": 170107,
+      "last_id": 170108,
       "processed_ids": [
-        169072,
         169073,
         169074,
         169075,
@@ -2640,7 +2643,8 @@
         170104,
         170105,
         170106,
-        170107
+        170107,
+        170108
       ],
       "sent_count": 60
     },
@@ -2822,7 +2826,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67226,
+      "last_id": 67228,
       "processed_ids": [
         66561,
         66565,
@@ -3353,9 +3357,11 @@
         67223,
         67224,
         67225,
-        67226
+        67226,
+        67227,
+        67228
       ],
-      "sent_count": 312
+      "sent_count": 313
     },
     "techtube": {
       "last_id": 18412,
@@ -3905,7 +3911,7 @@
       "sent_count": 62
     },
     "roidbest": {
-      "last_id": 21754,
+      "last_id": 21755,
       "processed_ids": [
         21613,
         21614,
@@ -4043,9 +4049,10 @@
         21751,
         21752,
         21753,
-        21754
+        21754,
+        21755
       ],
-      "sent_count": 85
+      "sent_count": 86
     },
     "akhbar_cafenet": {
       "last_id": 22867,
@@ -4480,7 +4487,7 @@
       "sent_count": 253
     },
     "comentiat": {
-      "last_id": 26238,
+      "last_id": 26239,
       "processed_ids": [
         25844,
         25845,
@@ -4806,9 +4813,10 @@
         26235,
         26236,
         26237,
-        26238
+        26238,
+        26239
       ],
-      "sent_count": 225
+      "sent_count": 226
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -5777,7 +5785,7 @@
       "sent_count": 41
     },
     "jaleb": {
-      "last_id": 52621,
+      "last_id": 52623,
       "processed_ids": [
         52261,
         52262,
@@ -6094,12 +6102,14 @@
         52618,
         52619,
         52620,
-        52621
+        52621,
+        52622,
+        52623
       ],
-      "sent_count": 172
+      "sent_count": 173
     },
     "ajayebe_jahann": {
-      "last_id": 159453,
+      "last_id": 159454,
       "processed_ids": [
         158956,
         158957,
@@ -6595,9 +6605,10 @@
         159450,
         159451,
         159452,
-        159453
+        159453,
+        159454
       ],
-      "sent_count": 224
+      "sent_count": 225
     },
     "etelaate_omoomi": {
       "last_id": 43124,
@@ -6771,7 +6782,7 @@
       "sent_count": 37
     },
     "ft360_ir": {
-      "last_id": 108844,
+      "last_id": 108846,
       "processed_ids": [
         107883,
         107884,
@@ -7698,12 +7709,14 @@
         108841,
         108842,
         108843,
-        108844
+        108844,
+        108845,
+        108846
       ],
       "sent_count": 53
     },
     "varzesh3": {
-      "last_id": 303243,
+      "last_id": 303244,
       "processed_ids": [
         302363,
         302364,
@@ -8498,12 +8511,13 @@
         303239,
         303240,
         303241,
-        303243
+        303243,
+        303244
       ],
       "sent_count": 35
     },
     "totalfut_plus": {
-      "last_id": 26362,
+      "last_id": 26363,
       "processed_ids": [
         25870,
         25871,
@@ -8987,7 +9001,8 @@
         26359,
         26360,
         26361,
-        26362
+        26362,
+        26363
       ],
       "sent_count": 21
     },
@@ -9746,7 +9761,7 @@
       "sent_count": 72
     },
     "futball180tv": {
-      "last_id": 107697,
+      "last_id": 107698,
       "processed_ids": [
         106848,
         106849,
@@ -10583,12 +10598,13 @@
         107694,
         107695,
         107696,
-        107697
+        107697,
+        107698
       ],
       "sent_count": 30
     },
     "hattric_official": {
-      "last_id": 84144,
+      "last_id": 84147,
       "processed_ids": [
         83433,
         83434,
@@ -11255,9 +11271,12 @@
         84141,
         84142,
         84143,
-        84144
+        84144,
+        84145,
+        84146,
+        84147
       ],
-      "sent_count": 36
+      "sent_count": 38
     },
     "mazdak_hattrick": {
       "last_id": 182301,
@@ -13777,158 +13796,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "f97b07bdf4a09a6b3fd07f083241989dab94b7f24c5da9b2f40e35d6ba305e93",
-        "media_fingerprint": "1d92cc063bb5825455e4dedf6cec081d04ab2084e0d109b8857ce0f4eb129a26",
-        "text": "کاروان راهیان مو\n!\nیک کلینکی تو بندر عباس آمده کل زیباجو های کاشت مو رو تو یک روز جراحی وبراشون مو کاشته :واین\nشاهکار\nبه وجود آمده!\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "کاروان راهیان مو\n!\nیک کلینکی تو بندر عباس آمده کل زیباجو های کاشت مو رو تو یک روز جراحی وبراشون مو کاشته :واین\nشاهکار\nبه وجود آمده!\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159368",
-        "post_id": 159368,
-        "message_id": 4477,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann",
-          "irwonders"
-        ],
-        "created_at": "2026-09-30T07:59:08.275559+00:00"
-      },
-      {
-        "fingerprint": "2777f9098147abe082b00ba36ba6f237478eb79213047d9e7d08cb22d9bd5c35",
-        "media_fingerprint": "",
-        "text": "🏅\nبرنامه ویژه پزشکی برای دانیال ایری\n🔹\nدانیال ایری که تیم ملی امید ایران را در بازی‌های آسیایی ناگویا۲۰۲۶ همراهی می‌کرد در آخرین بازی خود برای این تیم دچار آسیب‌دیدگی شد.او در بازگشت به ایران بلافاصله توسط کادر پزشکی سرخپوشان تحت کنترل و نظارت قرار گرفت.\n🔹\nدر نهایت تصویربرداری ام‌آر‌آی نشان داد که کشیدگی در عضلات ناحیه لگن و بالای کشاله ران رخ داده است.کادر پزشکی پرسپولیس که اقدامات اولیه پزشکی را از بدو ورود بازیکن انجام داده بود حالا برنامه درمانی و فیزیوتراپی را آغاز کرده تا این بازیکن را در سریعترین زمان ممکن به تمرینات بازگرداند.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_username": "total_fut",
-        "original_text": "🏅\nبرنامه ویژه پزشکی برای دانیال ایری\n🔹\nدانیال ایری که تیم ملی امید ایران را در بازی‌های آسیایی ناگویا۲۰۲۶ همراهی می‌کرد در آخرین بازی خود برای این تیم دچار آسیب‌دیدگی شد.او در بازگشت به ایران بلافاصله توسط کادر پزشکی سرخپوشان تحت کنترل و نظارت قرار گرفت.\n🔹\nدر نهایت تصویربرداری ام‌آر‌آی نشان داد که کشیدگی در عضلات ناحیه لگن و بالای کشاله ران رخ داده است.کادر پزشکی پرسپولیس که اقدامات اولیه پزشکی را از بدو ورود بازیکن انجام داده بود حالا برنامه درمانی و فیزیوتراپی را آغاز کرده تا این بازیکن را در سریعترین زمان ممکن به تمرینات بازگرداند.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_link": "https://t.me/total_fut/237030",
-        "post_id": 237030,
-        "message_id": 4478,
-        "message_kind": "text",
-        "sources": [
-          "total_fut"
-        ],
-        "created_at": "2026-09-30T07:59:11.628163+00:00"
-      },
-      {
-        "fingerprint": "2cc9329c304aa988bd468b9ef3cff861ce20d294c1797574229953b6f035b3b4",
-        "media_fingerprint": "",
-        "text": "🔺\nقطع گاز ویلاهای خالی از سکنه در مازندران از اول آبان\n🔹\nمدیرعامل شرکت گاز مازندران اعلام کرد از اول آبان‌ماه، طرح پایش و قطع گاز ویلاهای خالی از سکنه با هدف مدیریت مصرف وحفظ پایداری شبکه گاز در روزهای سرد سال اجرا می‌ شود.\nهمچنین بازرسی از میزان مصرف گاز ویلاهای لوکس و دارای استخر و نیز ادارات از اول آبان آغاز می‌شود\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": "🔺\nقطع گاز ویلاهای خالی از سکنه در مازندران از اول آبان\n🔹\nمدیرعامل شرکت گاز مازندران اعلام کرد از اول آبان‌ماه، طرح پایش و قطع گاز ویلاهای خالی از سکنه با هدف مدیریت مصرف وحفظ پایداری شبکه گاز در روزهای سرد سال اجرا می‌ شود.\nهمچنین بازرسی از میزان مصرف گاز ویلاهای لوکس و دارای استخر و نیز ادارات از اول آبان آغاز می‌شود\n@kafiha",
-        "original_link": "https://t.me/kafiha/461156",
-        "post_id": 461156,
-        "message_id": 4479,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-30T08:24:06.872833+00:00"
-      },
-      {
-        "fingerprint": "55a3e7900019dad8d898cb740e4c3edf55149e6e194778f52e45632e11180fa7",
-        "media_fingerprint": "82dd6ffe52f153dd765f7c0d5d5bf4ac2851fabe83d87daf558f874c9f6955b3",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26188",
-        "post_id": 26188,
-        "message_id": 4480,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-09-30T08:24:13.821784+00:00"
-      },
-      {
-        "fingerprint": "4da7c6ad0620dbd212ea610fc3a58fcc9d1e964808da292241f8d00ebb61bf11",
-        "media_fingerprint": "3817fd61c6655b942efb07b0b4768a6470c99f5a01f1c0c6d451d5f8fe12c2dc",
-        "text": "وضعیت خاورمیانه، اروپا و امریکا در ۳۶ ثانیه\nNiNa\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "وضعیت خاورمیانه، اروپا و امریکا در ۳۶ ثانیه\nNiNa\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461157",
-        "post_id": 461157,
-        "message_id": 4482,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-30T08:24:20.203352+00:00"
-      },
-      {
-        "fingerprint": "834fdf24a6a02f1b984fb13a2af8e582db57a0d53aec7ac4b6f4edafb8ec7911",
-        "media_fingerprint": "",
-        "text": "♦️\nسخنگوی وزارت دفاع: راه پایان درگیری پذیرش حقوق مشروع ایران است\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nسخنگوی وزارت دفاع: راه پایان درگیری پذیرش حقوق مشروع ایران است\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142738",
-        "post_id": 142738,
-        "message_id": 4483,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-30T08:24:22.959715+00:00"
-      },
-      {
-        "fingerprint": "6c86a247ec843993a1fcec60fb45959bb42baafd957551404a98af7b682f8095",
-        "media_fingerprint": "f2f32dedd8f230a4aac72f5119bc5290628da972081c381b64980c186c14ce65",
-        "text": "توییت رسانه دولت:\n@Gilin",
-        "original_username": "gilin_gilin",
-        "original_text": "توییت رسانه دولت:\n@Gilin",
-        "original_link": "https://t.me/Gilin_Gilin/284006",
-        "post_id": 284006,
-        "message_id": 4484,
-        "message_kind": "caption",
-        "sources": [
-          "gilin_gilin"
-        ],
-        "created_at": "2026-09-30T08:24:27.497345+00:00"
-      },
-      {
-        "fingerprint": "38a1d3e8d1f18df10fc3d6f0c09f33e2d16ce96b4f6d15e6e500bbc4db82b9e0",
-        "media_fingerprint": "",
-        "text": "🔺️\n🔻\nزیرمیزی گرفتن پزشکان را گزارش کنید\nمرکز نظارت بر درمان وزارت بهداشت:\n🔹️\nهموطنان موارد درخواست زیرمیزی و مستندات خود را از طریق سامانۀ تلفنی ۱۹۰ یا مراجعۀ حضوری به ادارات نظارت بر درمان دانشگاه‌های علوم پزشکی گزارش کنند.\n🔹️\nجریمۀ ۲ تا ۵۰ برابری مبلغ زیرمیزی در انتظار پزشکان متخلف است‌.",
-        "original_username": "fars_today",
-        "original_text": "🔺️\n🔻\nزیرمیزی گرفتن پزشکان را گزارش کنید\nمرکز نظارت بر درمان وزارت بهداشت:\n🔹️\nهموطنان موارد درخواست زیرمیزی و مستندات خود را از طریق سامانۀ تلفنی ۱۹۰ یا مراجعۀ حضوری به ادارات نظارت بر درمان دانشگاه‌های علوم پزشکی گزارش کنند.\n🔹️\nجریمۀ ۲ تا ۵۰ برابری مبلغ زیرمیزی در انتظار پزشکان متخلف است‌.",
-        "original_link": "https://t.me/Fars_today/132085",
-        "post_id": 132085,
-        "message_id": 4485,
-        "message_kind": "text",
-        "sources": [
-          "fars_today"
-        ],
-        "created_at": "2026-09-30T08:24:30.387443+00:00"
-      },
-      {
-        "fingerprint": "018f8789a334a8b9ccdb2c9019af61ccbfaedda4afe7684050039dffd604426a",
-        "media_fingerprint": "",
-        "text": "من به این نتیجه رسیدم مردا باید تو رابطه اذیت شن، هبچوقت نباید مطمئن شن همه‌ی تورو دارن، باید همیشه ذهنشون درگیر رابطه باشه که نکنه کار اشتباهی کنم ترکم کنه. خیالشون راحت بشه ازت، عوض میشن رابطه هم به فنا میره.\n💬\nMob\nNiNa\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "من به این نتیجه رسیدم مردا باید تو رابطه اذیت شن، هبچوقت نباید مطمئن شن همه‌ی تورو دارن، باید همیشه ذهنشون درگیر رابطه باشه که نکنه کار اشتباهی کنم ترکم کنه. خیالشون راحت بشه ازت، عوض میشن رابطه هم به فنا میره.\n💬\nMob\nNiNa\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461159",
-        "post_id": 461159,
-        "message_id": 4486,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-30T08:24:33.328340+00:00"
-      },
-      {
-        "fingerprint": "741f9627713244ccd59473e9bea9c1609da701ddbef939d5a76dcf4637bef580",
-        "media_fingerprint": "",
-        "text": "انفجار کنترل‌شده در معدن بولوار امیرکبیر شیراز با رعایت کامل پروتکل‌های ایمنی\nاداره کل امنیتی و انتظامی استانداری فارس از عملیات انفجار در محدوده معدن بولوار امیرکبیر شیراز، پنجشنبه ۹ مهرماه، ساعت حدود ۱۱ تا ۱۲ صبح، با رعایت کامل پروتکل‌های ایمنی و هماهنگی با نهادهای مسئول خبر داد.",
-        "original_username": "fars_today",
-        "original_text": "انفجار کنترل‌شده در معدن بولوار امیرکبیر شیراز با رعایت کامل پروتکل‌های ایمنی\nاداره کل امنیتی و انتظامی استانداری فارس از عملیات انفجار در محدوده معدن بولوار امیرکبیر شیراز، پنجشنبه ۹ مهرماه، ساعت حدود ۱۱ تا ۱۲ صبح، با رعایت کامل پروتکل‌های ایمنی و هماهنگی با نهادهای مسئول خبر داد.",
-        "original_link": "https://t.me/Fars_today/132086",
-        "post_id": 132086,
-        "message_id": 4487,
-        "message_kind": "text",
-        "sources": [
-          "fars_today",
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-30T08:24:36.381091+00:00"
-      },
       {
         "fingerprint": "de9fef2a8c35dc34168561d24b6c02234014362bf2229f3180c7e01b671388f8",
         "media_fingerprint": "",
@@ -28911,6 +28778,156 @@
           "adak_ir_official"
         ],
         "created_at": "2026-10-02T15:59:32.962722+00:00"
+      },
+      {
+        "fingerprint": "696f55b0c55f1dc854343866a118db19bf979ca2fe41b1ff446f48399403efd9",
+        "media_fingerprint": "3a04dce86ae13cd7fd739f728085670d8529f854e55f1e4a42fafc79b1a51a93",
+        "text": "♦️\nبارش شدید باران و جاری شدن روان اب رودخور نی ریز جمعه ۱۰مهر ۱۴۰۵\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nبارش شدید باران و جاری شدن روان اب رودخور نی ریز جمعه ۱۰مهر ۱۴۰۵\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142889",
+        "post_id": 142889,
+        "message_id": 5534,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-02T16:22:32.295705+00:00"
+      },
+      {
+        "fingerprint": "4a7c735b21d81ee2fff22724d591aa1f5502db31e0fcf5021c6587d524bdd846",
+        "media_fingerprint": "",
+        "text": "🔴\nاگه از سینگلی خود ناراضی هستید و مدام از این وضعیت خودتون گِله دارید؛\nپیشنهاد میشه این ویدیو رو حتماً ببینید، قول میدم نظرتون عوض بشه.\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nاگه از سینگلی خود ناراضی هستید و مدام از این وضعیت خودتون گِله دارید؛\nپیشنهاد میشه این ویدیو رو حتماً ببینید، قول میدم نظرتون عوض بشه.\n@DrTeL",
+        "original_link": "https://t.me/drtel/67228",
+        "post_id": 67228,
+        "message_id": 5535,
+        "message_kind": "text",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-02T16:22:35.067698+00:00"
+      },
+      {
+        "fingerprint": "558f1015f1700fa1b16e5c33bddd04f8f17a6fbe559deeb18e2340095f3f0be9",
+        "media_fingerprint": "7d19a27ddb8de427c05ae3fdda3507e757a11e8942d633b350b487e0e40e0c3e",
+        "text": "🔴\nهوش مصنوعی ChatGPT حالا لوگوهات رو وکتور هم میکنه!\n📰\nکافیه لوگو یا تصویرت رو داخل چت آپلود کنی؛ ChatGPT خودش اون رو به وکتور تمیز و قابل استفاده تبدیل میکنه، بدون اینکه مجبور باشی دستی دوباره طراحی بشه.\n🟩\nدانلود  پلاگین ChatGPT\n@RoidBest",
+        "original_username": "roidbest",
+        "original_text": "🔴\nهوش مصنوعی ChatGPT حالا لوگوهات رو وکتور هم میکنه!\n📰\nکافیه لوگو یا تصویرت رو داخل چت آپلود کنی؛ ChatGPT خودش اون رو به وکتور تمیز و قابل استفاده تبدیل میکنه، بدون اینکه مجبور باشی دستی دوباره طراحی بشه.\n🟩\nدانلود  پلاگین ChatGPT\n@RoidBest",
+        "original_link": "https://t.me/RoidBest/21755",
+        "post_id": 21755,
+        "message_id": 5536,
+        "message_kind": "text",
+        "sources": [
+          "roidbest"
+        ],
+        "created_at": "2026-10-02T16:22:38.922891+00:00"
+      },
+      {
+        "fingerprint": "cc5c53f1b15ec31c696416f79f6c47e5973a009c23af9492c1b340d46d3a87c9",
+        "media_fingerprint": "",
+        "text": "♦️\nنوجوانان ایرانی روزانه ۹ ساعت به صفحه نمایش نگاه می‌کنند!\nمشاور دبیر شورای عالی و مدیرکل حوزه ریاست مرکز ملی فضای مجازی:\n🔹\nدر حال حاضر حقیقتاً مردم در فضای مجازی زیست دارند و در کشور خودمان شاخص زمان نگاه به صفحه نمایش (اسکرین تایم) در روز، بیش از هفت ساعت تخمین زده شده که این عدد در نوجوانان نیز بیش از ۹ ساعت است.\n🔹\nباید همسو با توسعه و بسط فضای مجازی، در حوزه حکمرانی این فضا نیز آماده باشیم و حقوق دولت و ملت در این فضا را تأمین و تضمین کنیم.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nنوجوانان ایرانی روزانه ۹ ساعت به صفحه نمایش نگاه می‌کنند!\nمشاور دبیر شورای عالی و مدیرکل حوزه ریاست مرکز ملی فضای مجازی:\n🔹\nدر حال حاضر حقیقتاً مردم در فضای مجازی زیست دارند و در کشور خودمان شاخص زمان نگاه به صفحه نمایش (اسکرین تایم) در روز، بیش از هفت ساعت تخمین زده شده که این عدد در نوجوانان نیز بیش از ۹ ساعت است.\n🔹\nباید همسو با توسعه و بسط فضای مجازی، در حوزه حکمرانی این فضا نیز آماده باشیم و حقوق دولت و ملت در این فضا را تأمین و تضمین کنیم.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142890",
+        "post_id": 142890,
+        "message_id": 5537,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-02T16:22:42.456120+00:00"
+      },
+      {
+        "fingerprint": "5555bc55ed33a6fe90692ea7c81e0b7ac6c85737dcd0c4a1e828a8e40f8482af",
+        "media_fingerprint": "067ebbf1f34d4b795bb5e2da83e5ddfce143b4e87a8cb5c53e596a1cb26c7402",
+        "text": "🔻\nسوخت هواپیماها در کجا پنهان شده است؟\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "🔻\nسوخت هواپیماها در کجا پنهان شده است؟\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/159454",
+        "post_id": 159454,
+        "message_id": 5538,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-02T16:22:48.420494+00:00"
+      },
+      {
+        "fingerprint": "557f78f1197c05f28bddf197ad6f58234c27411a7518df5343aab1abf6299b54",
+        "media_fingerprint": "",
+        "text": "🔻\nپنج دیدار آینده تیم پرسپولیس:\n⚽\n⚽\nپرسپولیس\n✅\nصنعت‌نفت\n⚽️\n⚽\n⚽\nپرسپولیس\n✅\nخیبر\n🇮🇷\n⚽\n⚽\nپرسپولیس\n✅\nمس شهربابک\n⚽️\n⚽\n⚽\nپرسپولیس\n✅\nفولاد\n🇮🇷\n⚽\n⚽\nپرسپولیس\n✅\nنساجی\n⚽️\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "🔻\nپنج دیدار آینده تیم پرسپولیس:\n⚽\n⚽\nپرسپولیس\n✅\nصنعت‌نفت\n⚽️\n⚽\n⚽\nپرسپولیس\n✅\nخیبر\n🇮🇷\n⚽\n⚽\nپرسپولیس\n✅\nمس شهربابک\n⚽️\n⚽\n⚽\nپرسپولیس\n✅\nفولاد\n🇮🇷\n⚽\n⚽\nپرسپولیس\n✅\nنساجی\n⚽️\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/84146",
+        "post_id": 84146,
+        "message_id": 5539,
+        "message_kind": "text",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-02T16:22:51.197322+00:00"
+      },
+      {
+        "fingerprint": "44906225c628cb57a86fba1e3e751b39f5b7a81830b6faaf8d64db2dc0ffd964",
+        "media_fingerprint": "38ed7e32172d111d797a72bd67990dfee2a7441465f9109d8792308a2dbe4de0",
+        "text": "اینا فکر میکنن بچه هاشون هیچوقت از تبریز قرار نیست خارج بشن؟ تو دانشگاهم به استاد میخوان\nبگن ترکی حرف بزنه؟\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "اینا فکر میکنن بچه هاشون هیچوقت از تبریز قرار نیست خارج بشن؟ تو دانشگاهم به استاد میخوان\nبگن ترکی حرف بزنه؟\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52623",
+        "post_id": 52623,
+        "message_id": 5540,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-02T16:22:55.307139+00:00"
+      },
+      {
+        "fingerprint": "4f2f536fd6f298af9c5ce0795f8d8ffd6a3bfbac7158c466d5c6172766549f1d",
+        "media_fingerprint": "8198a6e1d6af7ed6dc8ab1c9833424bc6f4dc4cfd69f874b79e5936dcfb50132",
+        "text": "🔻\n🎙\n⚽\nخواجوی، گلر بانوان پرسپولیس: الگویم مانوئل نویر است؛ سه امتیاز دربی را می‌خواهیم\n.\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "🔻\n🎙\n⚽\nخواجوی، گلر بانوان پرسپولیس: الگویم مانوئل نویر است؛ سه امتیاز دربی را می‌خواهیم\n.\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/84147",
+        "post_id": 84147,
+        "message_id": 5541,
+        "message_kind": "caption",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-02T16:23:01.048462+00:00"
+      },
+      {
+        "fingerprint": "fd0eadcbc891f7c40acee5276002eab65a35f3eae36524abfd38f39d8b68fb44",
+        "media_fingerprint": "794bd28936c7437dc59d69d19831cf90f44a88ec6f6cd9d8423a9feda105af3f",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26239",
+        "post_id": 26239,
+        "message_id": 5542,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-02T16:23:04.778295+00:00"
+      },
+      {
+        "fingerprint": "fd6dec0735502ccefd92399f73fbbb91515e32b320754dd598f61ff496c69846",
+        "media_fingerprint": "5ba996499f6e60446aa811ef96b916bcab130e3b6158bbad627811246ef05884",
+        "text": "♦️\nنتیجه تربیت درست در یک خانواده اصیل ایرانی میشه اینی که میبینید\n🤍\n🔹\nثانیه به ثانیه اش درس بزرگی و اخلاق و مردونگیه واقعا\n🥹\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nنتیجه تربیت درست در یک خانواده اصیل ایرانی میشه اینی که میبینید\n🤍\n🔹\nثانیه به ثانیه اش درس بزرگی و اخلاق و مردونگیه واقعا\n🥹\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142891",
+        "post_id": 142891,
+        "message_id": 5543,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-02T16:23:10.166353+00:00"
       }
     ]
   }
