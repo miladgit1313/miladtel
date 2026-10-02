@@ -1672,14 +1672,8 @@
       "sent_count": 49
     },
     "footballvision2": {
-      "last_id": 170133,
+      "last_id": 170139,
       "processed_ids": [
-        169098,
-        169099,
-        169100,
-        169101,
-        169102,
-        169103,
         169104,
         169105,
         169106,
@@ -2673,7 +2667,13 @@
         170130,
         170131,
         170132,
-        170133
+        170133,
+        170134,
+        170135,
+        170136,
+        170137,
+        170138,
+        170139
       ],
       "sent_count": 62
     },
@@ -2856,7 +2856,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67241,
+      "last_id": 67242,
       "processed_ids": [
         66561,
         66565,
@@ -3399,7 +3399,8 @@
         67238,
         67239,
         67240,
-        67241
+        67241,
+        67242
       ],
       "sent_count": 321
     },
@@ -4890,7 +4891,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38593,
+      "last_id": 38594,
       "processed_ids": [
         38432,
         38433,
@@ -5052,9 +5053,10 @@
         38590,
         38591,
         38592,
-        38593
+        38593,
+        38594
       ],
-      "sent_count": 104
+      "sent_count": 105
     },
     "gizmiztel": {
       "last_id": 162674,
@@ -6871,7 +6873,7 @@
       "sent_count": 40
     },
     "ft360_ir": {
-      "last_id": 108870,
+      "last_id": 108875,
       "processed_ids": [
         107883,
         107884,
@@ -7819,12 +7821,17 @@
         108867,
         108868,
         108869,
-        108870
+        108870,
+        108871,
+        108872,
+        108873,
+        108874,
+        108875
       ],
       "sent_count": 53
     },
     "varzesh3": {
-      "last_id": 303263,
+      "last_id": 303266,
       "processed_ids": [
         302363,
         302364,
@@ -8636,7 +8643,10 @@
         303260,
         303261,
         303262,
-        303263
+        303263,
+        303264,
+        303265,
+        303266
       ],
       "sent_count": 35
     },
@@ -9140,7 +9150,7 @@
       "sent_count": 22
     },
     "adak_ir_official": {
-      "last_id": 234600,
+      "last_id": 234602,
       "processed_ids": [
         233831,
         233833,
@@ -9906,12 +9916,14 @@
         234597,
         234598,
         234599,
-        234600
+        234600,
+        234601,
+        234602
       ],
       "sent_count": 79
     },
     "futball180tv": {
-      "last_id": 107717,
+      "last_id": 107719,
       "processed_ids": [
         106848,
         106849,
@@ -10768,12 +10780,14 @@
         107714,
         107715,
         107716,
-        107717
+        107717,
+        107718,
+        107719
       ],
       "sent_count": 31
     },
     "hattric_official": {
-      "last_id": 84169,
+      "last_id": 84170,
       "processed_ids": [
         83433,
         83434,
@@ -11464,7 +11478,8 @@
         84166,
         84167,
         84168,
-        84169
+        84169,
+        84170
       ],
       "sent_count": 41
     },
@@ -13860,7 +13875,7 @@
       "sent_count": 26
     },
     "yejoorayi": {
-      "last_id": 469,
+      "last_id": 470,
       "processed_ids": [
         426,
         427,
@@ -13904,7 +13919,8 @@
         466,
         467,
         468,
-        469
+        469,
+        470
       ],
       "sent_count": 41
     },
@@ -14035,7 +14051,7 @@
       "sent_count": 6
     },
     "peach_tweet": {
-      "last_id": 2802,
+      "last_id": 2807,
       "processed_ids": [
         2745,
         2749,
@@ -14066,43 +14082,14 @@
         2794,
         2797,
         2800,
-        2802
+        2802,
+        2807
       ],
-      "sent_count": 15
+      "sent_count": 16
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "87bb11973dd42aa70eefb00d07ff17d1dfadba60900af96f26337722c9795702",
-        "media_fingerprint": "b838032af1b1a61484dc9a89c64d9bb0124cfabc0e084dd4a287f99a2502663c",
-        "text": "ینی چی که اینارو یادتون نمیااااد\n🤦🏻‍♂️\n🫠\nClovE\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "ینی چی که اینارو یادتون نمیااااد\n🤦🏻‍♂️\n🫠\nClovE\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461221",
-        "post_id": 461221,
-        "message_id": 4605,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-30T13:47:40.062004+00:00"
-      },
-      {
-        "fingerprint": "a7783590a2f03cee05f4d91212e228075b8eb90bafd356c20cb2d0ad3b0ef51e",
-        "media_fingerprint": "",
-        "text": "🟢\nپاداش ۱۵ هزار دلاری برای اسقاط کامیون‌های فرسوده بالای ۵۰ سال\n🔸\nطرح جدید نوسازی ناوگان حمل‌ و نقل جاده‌ ای با هدف خروج کامیون‌ های بسیار فرسوده از چرخه فعالیت در حال تدوین است. بر اساس پیشنهاد مطرح‌ شده، مالکان کامیون‌ ها و کشنده‌ هایی که بیش از ۵۰ سال عمر دارند و ظرفیت آنها بالاتر از ۲۰ تن است، علاوه بر دریافت گواهی اسقاط، از پاداشی معادل ۱۵ هزار دلار نیز برخوردار خواهند شد.\n🔻\nادامه مطلب:\nhttps://portal.khodrofarsoodeh.com/scrapped-heavy-vehicle-truck",
-        "original_username": "sabtnamkh0dro",
-        "original_text": "🟢\nپاداش ۱۵ هزار دلاری برای اسقاط کامیون‌های فرسوده بالای ۵۰ سال\n🔸\nطرح جدید نوسازی ناوگان حمل‌ و نقل جاده‌ ای با هدف خروج کامیون‌ های بسیار فرسوده از چرخه فعالیت در حال تدوین است. بر اساس پیشنهاد مطرح‌ شده، مالکان کامیون‌ ها و کشنده‌ هایی که بیش از ۵۰ سال عمر دارند و ظرفیت آنها بالاتر از ۲۰ تن است، علاوه بر دریافت گواهی اسقاط، از پاداشی معادل ۱۵ هزار دلار نیز برخوردار خواهند شد.\n🔻\nادامه مطلب:\nhttps://portal.khodrofarsoodeh.com/scrapped-heavy-vehicle-truck",
-        "original_link": "https://t.me/sabtnamkh0dro/14300",
-        "post_id": 14300,
-        "message_id": 4606,
-        "message_kind": "text",
-        "sources": [
-          "sabtnamkh0dro"
-        ],
-        "created_at": "2026-09-30T13:47:43.512630+00:00"
-      },
       {
         "fingerprint": "a245478a22137b60bc92f4679af9fc98c4c6307fb90346a4e791af75700c5431",
         "media_fingerprint": "",
@@ -24186,7 +24173,8 @@
         "message_id": 5323,
         "message_kind": "text",
         "sources": [
-          "kafiha"
+          "kafiha",
+          "yejoorayi"
         ],
         "created_at": "2026-10-02T07:22:17.402481+00:00"
       },
@@ -29190,6 +29178,36 @@
           "peach_tweet"
         ],
         "created_at": "2026-10-02T20:36:10.749268+00:00"
+      },
+      {
+        "fingerprint": "67a04a65b4a1a8dbb6aad1569120d48dba8beed37b5437695ee2cd112c264fbc",
+        "media_fingerprint": "fb342f559ddecadb6319579b93fb9376a978848d5b3a64e699d0cf6bcf117b23",
+        "text": "تفاوت دید چشم سالم و افراد نزدیک بین\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "تفاوت دید چشم سالم و افراد نزدیک بین\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38594",
+        "post_id": 38594,
+        "message_id": 5665,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-02T20:54:53.233877+00:00"
+      },
+      {
+        "fingerprint": "3298f732542ab2ed211f1591f1cfbe7f8b437e616ad352acc6b54c445774d553",
+        "media_fingerprint": "1ea5a0388f4f7a3327d58b89965d8b2296c231569678c1c9e1d0f54d5e5b3296",
+        "text": "امروز 3 October، روز دوست پسره؛\nاین روز رو به پسر کوچولوی زندگیت تبریک بگو.\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "امروز 3 October، روز دوست پسره؛\nاین روز رو به پسر کوچولوی زندگیت تبریک بگو.\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/2807",
+        "post_id": 2807,
+        "message_id": 5666,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-02T20:54:57.066138+00:00"
       }
     ]
   }
