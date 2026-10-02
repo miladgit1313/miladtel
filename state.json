@@ -1674,9 +1674,8 @@
       "sent_count": 49
     },
     "footballvision2": {
-      "last_id": 170139,
+      "last_id": 170142,
       "processed_ids": [
-        169104,
         169105,
         169106,
         169107,
@@ -2675,7 +2674,8 @@
         170136,
         170137,
         170138,
-        170139
+        170139,
+        170142
       ],
       "sent_count": 62
     },
@@ -2858,7 +2858,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67256,
+      "last_id": 67259,
       "processed_ids": [
         66561,
         66565,
@@ -3414,9 +3414,11 @@
         67252,
         67253,
         67255,
-        67256
+        67256,
+        67258,
+        67259
       ],
-      "sent_count": 329
+      "sent_count": 330
     },
     "techtube": {
       "last_id": 18415,
@@ -4560,7 +4562,7 @@
       "sent_count": 263
     },
     "comentiat": {
-      "last_id": 26246,
+      "last_id": 26248,
       "processed_ids": [
         25844,
         25845,
@@ -4894,9 +4896,11 @@
         26243,
         26244,
         26245,
-        26246
+        26246,
+        26247,
+        26248
       ],
-      "sent_count": 232
+      "sent_count": 233
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -14138,36 +14142,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "e369945b5fdb5a2ba549bbdf16c9a9ee477659f20078b0bb6cfa3d762be29e6c",
-        "media_fingerprint": "d11757c0a9c5762e29ed618cca4d24d113e9ef91209610391cfc007e8ace5e01",
-        "text": "سطح رفاه و دغدغه رو فقط شما ببین\n🤦‍♀\nClovE\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "سطح رفاه و دغدغه رو فقط شما ببین\n🤦‍♀\nClovE\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461226",
-        "post_id": 461226,
-        "message_id": 4626,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-30T14:32:11.080741+00:00"
-      },
-      {
-        "fingerprint": "3a54901f00bd0706e9c42b4b5aa38b4cb6d55f0d13e80aa2f16d59b8306fa6a3",
-        "media_fingerprint": "",
-        "text": "🎖️\n#اختصاصی_توتال\n🥇\nگزینه‌های مدیریت نفت آبادان مشخص شدند!\n⏺\nبه گزارش توتال فوتبال هیات مدیره باشگاه نفت آبادان پس از بررسی گزینه‌های مختلف روی ۴ گزینه نهایی جمع بندی کرده و قرار است به زودی مدیرعامل باشگاه را مشخص کند.\n⏺\nمحمد رجاییان،کیوان بابادی،حسین خبیری…",
-        "original_username": "total_fut",
-        "original_text": "🎖️\n#اختصاصی_توتال\n🥇\nگزینه‌های مدیریت نفت آبادان مشخص شدند!\n⏺\nبه گزارش توتال فوتبال هیات مدیره باشگاه نفت آبادان پس از بررسی گزینه‌های مختلف روی ۴ گزینه نهایی جمع بندی کرده و قرار است به زودی مدیرعامل باشگاه را مشخص کند.\n⏺\nمحمد رجاییان،کیوان بابادی،حسین خبیری…",
-        "original_link": "https://t.me/total_fut/237051",
-        "post_id": 237051,
-        "message_id": 4627,
-        "message_kind": "text",
-        "sources": [
-          "total_fut"
-        ],
-        "created_at": "2026-09-30T14:32:14.196519+00:00"
-      },
       {
         "fingerprint": "4a33b751fe5bc3e0baa8472dde890e950e065cfc94fd2cfa89942751cfe7619b",
         "media_fingerprint": "fa410013973697af2c7226d8199bccbd55a8c8e8f681caa2b3fcd09a963ef9b0",
@@ -28966,7 +28940,8 @@
         "message_id": 5666,
         "message_kind": "caption",
         "sources": [
-          "peach_tweet"
+          "peach_tweet",
+          "comentiat"
         ],
         "created_at": "2026-10-02T20:54:57.066138+00:00"
       },
@@ -29254,6 +29229,36 @@
           "drtel"
         ],
         "created_at": "2026-10-02T22:16:21.872572+00:00"
+      },
+      {
+        "fingerprint": "946ff7daa46b0791ccdef5a4d614ce9f0b9b0684bd0d2bf364a04a59f37361f2",
+        "media_fingerprint": "ba7c1026db0cd673e8bfec66f86f003eb66a0a233ed24ebb8a2db648bebefe94",
+        "text": "🔴\nدیشب تو آمل یه مرده به نام مجتبی رضا‌پور برنده جایزه \" 1 دقیقه خرید رایگان\" از هایپرمارکت شد؛\nبعد تو یه حرکت تاریخی، رکورد کل فروشگاه رو زد\n😂\n+ تو یه دقیقه تقريبا 127 میلیون تومن به فروشگاه ضرر زد!\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nدیشب تو آمل یه مرده به نام مجتبی رضا‌پور برنده جایزه \" 1 دقیقه خرید رایگان\" از هایپرمارکت شد؛\nبعد تو یه حرکت تاریخی، رکورد کل فروشگاه رو زد\n😂\n+ تو یه دقیقه تقريبا 127 میلیون تومن به فروشگاه ضرر زد!\n@DrTeL",
+        "original_link": "https://t.me/drtel/67259",
+        "post_id": 67259,
+        "message_id": 5687,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-02T23:13:45.387641+00:00"
+      },
+      {
+        "fingerprint": "b9d136e565d6346ab65425558b09ea45ddedfda85641840ebac28d5805c0fbec",
+        "media_fingerprint": "bb5366856a283ba7a097ce67029cc632abf3f29f1a42d95b21e5f9ee443b79cb",
+        "text": "تخصصی ترین کانال کازینویی ایران\n😍\n👑\nتوم دوس داری از کازینو پول دربیاری؟\nبازی های اسلات،انفجار،پلینکو،پوکر،رولت و...\n⭐\nپس کانال\npopok gaming\nاز دست نده\n👌\n💖\nاین کانال مرجع اموزش و یادگیری بازی های کازینویی\n💖\n💵\nدرامد دلاری روزانه با این کانال سخت نیست چون متخصص این کار و به توهم یاد میده\nادرس عضویت کانالشون:\nhttps://t.me/+pUg6RT06KPw4MTNi\n🎖️\nهمین حالا عضو شو و این فرصت طلایی لز دست نده\n✔️\nA10",
+        "original_username": "comentiat",
+        "original_text": "تخصصی ترین کانال کازینویی ایران\n😍\n👑\nتوم دوس داری از کازینو پول دربیاری؟\nبازی های اسلات،انفجار،پلینکو،پوکر،رولت و...\n⭐\nپس کانال\npopok gaming\nاز دست نده\n👌\n💖\nاین کانال مرجع اموزش و یادگیری بازی های کازینویی\n💖\n💵\nدرامد دلاری روزانه با این کانال سخت نیست چون متخصص این کار و به توهم یاد میده\nادرس عضویت کانالشون:\nhttps://t.me/+pUg6RT06KPw4MTNi\n🎖️\nهمین حالا عضو شو و این فرصت طلایی لز دست نده\n✔️\nA10",
+        "original_link": "https://t.me/Comentiat/26247",
+        "post_id": 26247,
+        "message_id": 5688,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-02T23:13:52.710733+00:00"
       }
     ]
   }
