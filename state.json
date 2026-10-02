@@ -955,7 +955,7 @@
       "sent_count": 578
     },
     "total_fut": {
-      "last_id": 237144,
+      "last_id": 237145,
       "processed_ids": [
         236405,
         236407,
@@ -1665,21 +1665,14 @@
         237141,
         237142,
         237143,
-        237144
+        237144,
+        237145
       ],
-      "sent_count": 47
+      "sent_count": 48
     },
     "footballvision2": {
-      "last_id": 170122,
+      "last_id": 170130,
       "processed_ids": [
-        169086,
-        169087,
-        169088,
-        169089,
-        169090,
-        169091,
-        169092,
-        169093,
         169094,
         169095,
         169097,
@@ -2671,7 +2664,15 @@
         170119,
         170120,
         170121,
-        170122
+        170122,
+        170123,
+        170124,
+        170125,
+        170126,
+        170127,
+        170128,
+        170129,
+        170130
       ],
       "sent_count": 62
     },
@@ -2854,7 +2855,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67238,
+      "last_id": 67239,
       "processed_ids": [
         66561,
         66565,
@@ -3394,12 +3395,13 @@
         67233,
         67236,
         67237,
-        67238
+        67238,
+        67239
       ],
-      "sent_count": 319
+      "sent_count": 320
     },
     "techtube": {
-      "last_id": 18414,
+      "last_id": 18415,
       "processed_ids": [
         18261,
         18262,
@@ -3499,7 +3501,8 @@
         18409,
         18411,
         18412,
-        18414
+        18414,
+        18415
       ],
       "sent_count": 40
     },
@@ -5776,7 +5779,7 @@
       "sent_count": 465
     },
     "dr_salamatx": {
-      "last_id": 55338,
+      "last_id": 55339,
       "processed_ids": [
         55270,
         55271,
@@ -5846,9 +5849,10 @@
         55335,
         55336,
         55337,
-        55338
+        55338,
+        55339
       ],
-      "sent_count": 43
+      "sent_count": 44
     },
     "jaleb": {
       "last_id": 52626,
@@ -6863,7 +6867,7 @@
       "sent_count": 39
     },
     "ft360_ir": {
-      "last_id": 108864,
+      "last_id": 108867,
       "processed_ids": [
         107883,
         107884,
@@ -7805,12 +7809,15 @@
         108861,
         108862,
         108863,
-        108864
+        108864,
+        108865,
+        108866,
+        108867
       ],
       "sent_count": 53
     },
     "varzesh3": {
-      "last_id": 303256,
+      "last_id": 303261,
       "processed_ids": [
         302363,
         302364,
@@ -8615,7 +8622,12 @@
         303252,
         303253,
         303254,
-        303256
+        303256,
+        303257,
+        303258,
+        303259,
+        303260,
+        303261
       ],
       "sent_count": 35
     },
@@ -9119,7 +9131,7 @@
       "sent_count": 22
     },
     "adak_ir_official": {
-      "last_id": 234598,
+      "last_id": 234599,
       "processed_ids": [
         233831,
         233833,
@@ -9883,12 +9895,13 @@
         234595,
         234596,
         234597,
-        234598
+        234598,
+        234599
       ],
       "sent_count": 78
     },
     "futball180tv": {
-      "last_id": 107709,
+      "last_id": 107715,
       "processed_ids": [
         106848,
         106849,
@@ -10737,12 +10750,18 @@
         107706,
         107707,
         107708,
-        107709
+        107709,
+        107710,
+        107711,
+        107712,
+        107713,
+        107714,
+        107715
       ],
       "sent_count": 31
     },
     "hattric_official": {
-      "last_id": 84165,
+      "last_id": 84168,
       "processed_ids": [
         83433,
         83434,
@@ -11429,9 +11448,12 @@
         84162,
         84163,
         84164,
-        84165
+        84165,
+        84166,
+        84167,
+        84168
       ],
-      "sent_count": 40
+      "sent_count": 41
     },
     "mazdak_hattrick": {
       "last_id": 182304,
@@ -13773,7 +13795,7 @@
       "sent_count": 10
     },
     "cinemadaily": {
-      "last_id": 20746,
+      "last_id": 20747,
       "processed_ids": [
         20740,
         20741,
@@ -13781,9 +13803,10 @@
         20743,
         20744,
         20745,
-        20746
+        20746,
+        20747
       ],
-      "sent_count": 6
+      "sent_count": 7
     },
     "bajefilm": {
       "last_id": 11582,
@@ -13997,7 +14020,7 @@
       "sent_count": 5
     },
     "peach_tweet": {
-      "last_id": 2759,
+      "last_id": 2781,
       "processed_ids": [
         2745,
         2749,
@@ -14006,150 +14029,24 @@
         2754,
         2755,
         2756,
-        2759
+        2759,
+        2762,
+        2763,
+        2764,
+        2770,
+        2775,
+        2776,
+        2777,
+        2778,
+        2779,
+        2780,
+        2781
       ],
-      "sent_count": 7
+      "sent_count": 11
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "103a50386bde852eab37e2413cd8c516fbf3dca29e0c5b73c268c772a254066f",
-        "media_fingerprint": "e985d01ab2efdd3d2e472a145f298a7a8db6b8353ee4828e7ceb649a7ba084ed",
-        "text": "پولت توی این کیف بیشتره\n💰\n«کیف سرمایه‌گذاری اسنپ‌پی»، یه روش خوب برای حفظ ارزش پولته!\nبا واریز پول به این کیف، ۳۶% سود سالانه‌ی روزشمار به پشتوانه‌ی بیمه‌ی عمر بگیر.\nشرایط کیف سرمایه‌گذاری اسنپ‌پی رو از لینک زیر ببین:\nhttps://l.snpy.ir/weegg\nhttps://l.snpy.ir/weegg\nhttps://l.snpy.ir/weegg",
-        "original_username": "irwonders",
-        "original_text": "پولت توی این کیف بیشتره\n💰\n«کیف سرمایه‌گذاری اسنپ‌پی»، یه روش خوب برای حفظ ارزش پولته!\nبا واریز پول به این کیف، ۳۶% سود سالانه‌ی روزشمار به پشتوانه‌ی بیمه‌ی عمر بگیر.\nشرایط کیف سرمایه‌گذاری اسنپ‌پی رو از لینک زیر ببین:\nhttps://l.snpy.ir/weegg\nhttps://l.snpy.ir/weegg\nhttps://l.snpy.ir/weegg",
-        "original_link": "https://t.me/irwonders/58156",
-        "post_id": 58156,
-        "message_id": 4586,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders",
-          "jaleb",
-          "majalepezeshki"
-        ],
-        "created_at": "2026-09-30T12:53:36.764484+00:00"
-      },
-      {
-        "fingerprint": "a717734842aa4aa9c04eaaf0f76cf7f86fc0998f3dc56e6683905d034007d26b",
-        "media_fingerprint": "36d39dbd765548e848f1d2fea5b3ef52739f060694fcc7c190f7a7a012d3218e",
-        "text": "اگه کنجکاوید بدونید چطور کشتی‌های به اون سنگینی راحت روی آب می‌مونن...\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "اگه کنجکاوید بدونید چطور کشتی‌های به اون سنگینی راحت روی آب می‌مونن...\n@irWonders",
-        "original_link": "https://t.me/irwonders/58157",
-        "post_id": 58157,
-        "message_id": 4587,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-09-30T12:53:42.869976+00:00"
-      },
-      {
-        "fingerprint": "7310a2fdf5f18047274921765e345c68eca6e140a760fad59385d2e7228b865c",
-        "media_fingerprint": "1fec1f35a00a3683aebd444fa4a80cf03e0e05ccf799f21c633421c283d0f352",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26193",
-        "post_id": 26193,
-        "message_id": 4588,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-09-30T12:53:47.039492+00:00"
-      },
-      {
-        "fingerprint": "ffd05db3cac1b1077d11e546873537c8ac04ba20a162d18c96944b34aa447b9c",
-        "media_fingerprint": "ca1ee6f4a23b6bd5b1071b815485814c61e3105e71ed1e950a559eb44be1d4eb",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26194",
-        "post_id": 26194,
-        "message_id": 4589,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-09-30T12:53:51.131250+00:00"
-      },
-      {
-        "fingerprint": "d931a6a6bb176300673d804f4d310c56dfd13ab4c5d60a9329652be5a32cee40",
-        "media_fingerprint": "",
-        "text": "🗂\nنرخنامه جدید خدمات کافی نت کرج برای سال ۱۴۰۵\nنرخنامه شهر خود را به آی دی زیر ارسال کنید\n👇\n﻿\n@keshvari_support\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🗂\nنرخنامه جدید خدمات کافی نت کرج برای سال ۱۴۰۵\nنرخنامه شهر خود را به آی دی زیر ارسال کنید\n👇\n﻿\n@keshvari_support\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22809",
-        "post_id": 22809,
-        "message_id": 4590,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-09-30T12:53:55.159721+00:00"
-      },
-      {
-        "fingerprint": "14b4dabd84ef4a7c25c6d27e293f19bf8bdf0bbf97330c21288bfadb6ea55762",
-        "media_fingerprint": "",
-        "text": "🗂\nنرخنامه جدید خدمات کافی نت کرج برای سال ۱۴۰۵\nنرخنامه شهر خود را به آی دی زیر ارسال کنید\n👇\n@keshvari_support\n✦✦✦ آنلاین کافه ✦✦✦\nکانال تلگرام :\n@onlinecofe_ir\nوبلاگ اخبار :\nonlinecofe.ir/news",
-        "original_username": "onlinecofe_ir",
-        "original_text": "🗂\nنرخنامه جدید خدمات کافی نت کرج برای سال ۱۴۰۵\nنرخنامه شهر خود را به آی دی زیر ارسال کنید\n👇\n@keshvari_support\n✦✦✦ آنلاین کافه ✦✦✦\nکانال تلگرام :\n@onlinecofe_ir\nوبلاگ اخبار :\nonlinecofe.ir/news",
-        "original_link": "https://t.me/onlinecofe_ir/2818",
-        "post_id": 2818,
-        "message_id": 4591,
-        "message_kind": "text",
-        "sources": [
-          "onlinecofe_ir"
-        ],
-        "created_at": "2026-09-30T12:53:58.155839+00:00"
-      },
-      {
-        "fingerprint": "5fedbb3e3697c6c896d00129ef87c2efe15148793b9bad88c372d662bb048617",
-        "media_fingerprint": "cae5266aa82c4c6d576fbfc99d88a0927d369aa265f4d580892205d43f600685",
-        "text": "ما هممون احتیاج داریم یکی تو زندیگیمون\nبگه تقصیر تو نبود...\nClovE\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "ما هممون احتیاج داریم یکی تو زندیگیمون\nبگه تقصیر تو نبود...\nClovE\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461216",
-        "post_id": 461216,
-        "message_id": 4592,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-30T12:54:19.013604+00:00"
-      },
-      {
-        "fingerprint": "4c69c51c8628511d83824604c82a925d9858e18261607c23b1139586342e12ac",
-        "media_fingerprint": "ad8d3ab75bc51618f6310da1e7a77de295b97202eadeda82572b69055e5dd4bf",
-        "text": "توصیه‌های وزارت بهداشت در شرایط افزایش بروز کرونا\n◽️\nرئیس مرکز مدیریت بیماری‌های واگیر وزارت بهداشت:علائم شایع کووید-۱۹ شامل گلودرد، سرفه، تب، خستگی و دردهای عضلانی است و در برخی افراد نیز علائم گوارشی مشاهده می‌شود.افراد در معرض خطر در فضاهای بسته و شلوغ از ماسک مناسب استفاده کنند.بیمار باید تا حد امکان در منزل استراحت کرده و از حضور در محیط‌های کاری، آموزشی و اجتماعی خودداری کنند. در شرایط افزایش گردش ویروس‌های تنفسی، کاهش تماس با افراد دارای علائم تنفسی، استفاده از ماسک در محیط‌های پرخطر، تهویه مناسب و رعایت بهداشت فردی، از مهم‌ترین اقدامات برای حفاظت از سالمندان و افراد در معرض خطر است.\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_username": "majalepezeshki",
-        "original_text": "توصیه‌های وزارت بهداشت در شرایط افزایش بروز کرونا\n◽️\nرئیس مرکز مدیریت بیماری‌های واگیر وزارت بهداشت:علائم شایع کووید-۱۹ شامل گلودرد، سرفه، تب، خستگی و دردهای عضلانی است و در برخی افراد نیز علائم گوارشی مشاهده می‌شود.افراد در معرض خطر در فضاهای بسته و شلوغ از ماسک مناسب استفاده کنند.بیمار باید تا حد امکان در منزل استراحت کرده و از حضور در محیط‌های کاری، آموزشی و اجتماعی خودداری کنند. در شرایط افزایش گردش ویروس‌های تنفسی، کاهش تماس با افراد دارای علائم تنفسی، استفاده از ماسک در محیط‌های پرخطر، تهویه مناسب و رعایت بهداشت فردی، از مهم‌ترین اقدامات برای حفاظت از سالمندان و افراد در معرض خطر است.\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_link": "https://t.me/MajalePezeshki/38563",
-        "post_id": 38563,
-        "message_id": 4593,
-        "message_kind": "caption",
-        "sources": [
-          "majalepezeshki"
-        ],
-        "created_at": "2026-09-30T13:20:50.485072+00:00"
-      },
-      {
-        "fingerprint": "d3afa3a8d73f087cfe43677d7b26dbc825801b7c50ebc372ae7d035235950bc4",
-        "media_fingerprint": "",
-        "text": "🎖️\n🏅\n🏅\nهوشنگ نصیرزاده: پرسپولیس با شکایت از آسانی به CAS وقت خود را تلف می‌کند هیچ سندی علیه آسانی وجود ندارد.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_username": "totalfut_plus",
-        "original_text": "🎖️\n🏅\n🏅\nهوشنگ نصیرزاده: پرسپولیس با شکایت از آسانی به CAS وقت خود را تلف می‌کند هیچ سندی علیه آسانی وجود ندارد.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_link": "https://t.me/totalfut_plus/26289",
-        "post_id": 26289,
-        "message_id": 4594,
-        "message_kind": "text",
-        "sources": [
-          "totalfut_plus"
-        ],
-        "created_at": "2026-09-30T13:20:53.106554+00:00"
-      },
       {
         "fingerprint": "c126c7687f1984e35dfe3e160780c968713821a923abe1c70cfbb68ff573aaf8",
         "media_fingerprint": "fb4c49778fbf32e262a4c8af8166402828725cf84da5a644ab3f318efbcd549c",
@@ -24979,7 +24876,8 @@
         "message_id": 5361,
         "message_kind": "caption",
         "sources": [
-          "drtel"
+          "drtel",
+          "peach_tweet"
         ],
         "created_at": "2026-10-02T08:49:16.947916+00:00"
       },
@@ -29133,6 +29031,141 @@
           "peach_tweet"
         ],
         "created_at": "2026-10-02T19:55:45.315098+00:00"
+      },
+      {
+        "fingerprint": "0095be68b4871e3b8fb6e4b3bd351d699ae527c690834039ce22c938f3e59469",
+        "media_fingerprint": "8dd4de0f3cf24690c6c35f045f6fb4a22b14ca81254cc486d54dda1510d02878",
+        "text": "بهزاد فراهانی: بازیگری گلشیفته از سطح بازیگری اروپا فراتر رفته/ حالا دیگر به من بر نمی‌خورد بهم بگویند پدر گلشیفته\n🔹\nبهزاد فراهانی به شرق گفت:«امسال من آخرین فیلم گلشیفته را که دیدم، دیدم بازی‌اش از سطح اروپا فراتر رفته. وقتی به من با ۵۵سال سابقه هنری می‌گفتند…",
+        "original_username": "cinemadaily",
+        "original_text": "بهزاد فراهانی: بازیگری گلشیفته از سطح بازیگری اروپا فراتر رفته/ حالا دیگر به من بر نمی‌خورد بهم بگویند پدر گلشیفته\n🔹\nبهزاد فراهانی به شرق گفت:«امسال من آخرین فیلم گلشیفته را که دیدم، دیدم بازی‌اش از سطح اروپا فراتر رفته. وقتی به من با ۵۵سال سابقه هنری می‌گفتند…",
+        "original_link": "https://t.me/Cinemadaily/20747",
+        "post_id": 20747,
+        "message_id": 5646,
+        "message_kind": "caption",
+        "sources": [
+          "cinemadaily"
+        ],
+        "created_at": "2026-10-02T20:16:15.720259+00:00"
+      },
+      {
+        "fingerprint": "cf577ea32c75c58c4a0e6e4073f74b6ec44f49cf0df9f6d81ad6da5b33e46385",
+        "media_fingerprint": "",
+        "text": "🧠\nحوصلت سر رفته میخوای با\nهوش مصنوعی\nچت کنی؟\n🖼\nیه ایده تو ذهنته میخوای عکس یا فیلمشو بسازی؟\n✨\nمیخوای یه نفرو از عکست حذف کنی یا لباستو عوض کنی؟\n✅\nکارایی که بالا گفتم و کلی حرکت دیگه رو میتونی با ربات زیر\nرایگان\nانجام بدی:\n💎\n@EzzyAiBot",
+        "original_username": "peach_tweet",
+        "original_text": "🧠\nحوصلت سر رفته میخوای با\nهوش مصنوعی\nچت کنی؟\n🖼\nیه ایده تو ذهنته میخوای عکس یا فیلمشو بسازی؟\n✨\nمیخوای یه نفرو از عکست حذف کنی یا لباستو عوض کنی؟\n✅\nکارایی که بالا گفتم و کلی حرکت دیگه رو میتونی با ربات زیر\nرایگان\nانجام بدی:\n💎\n@EzzyAiBot",
+        "original_link": "https://t.me/peach_tweet/2762",
+        "post_id": 2762,
+        "message_id": 5647,
+        "message_kind": "text",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-02T20:16:18.703431+00:00"
+      },
+      {
+        "fingerprint": "3253cc58005c8b53f037218c68d3d56a351f577ba05e03edfaf15e9a2617a690",
+        "media_fingerprint": "52d11ac242be6be3af56e0b11a4d534967752f9c328c2f5110003ffa3df9cd42",
+        "text": "🎓\nرزرو صندلی دانشگاهی\n🎓\nصدور و دریافت مدرک\n🎓\nتغییر رتبه و تراز کنکور\n✅\nاخذ معافیت سربازی\nبا دکتر موسی دیگر رویا نیست\n🤝\n📚\nصدور و دریافت مدرک دیپلم | کارشناسی | کارشناسی ارشد | دکتری\n🏥\nرشته های پزشکی | پیراپزشکی | مهندسی\n✅\nهمراه با کد استعلام و قابلیت بررسی\n✉️\nمشاوره رایگان\n👇\n@Dr_Mavsavii\n🔔\nایدی کانال اطلاع از فرصت‌ها‌ و مشاهده رضایت مشتریان\n👇\nhttps://t.me/Mosavi_Madrak",
+        "original_username": "dr_salamatx",
+        "original_text": "🎓\nرزرو صندلی دانشگاهی\n🎓\nصدور و دریافت مدرک\n🎓\nتغییر رتبه و تراز کنکور\n✅\nاخذ معافیت سربازی\nبا دکتر موسی دیگر رویا نیست\n🤝\n📚\nصدور و دریافت مدرک دیپلم | کارشناسی | کارشناسی ارشد | دکتری\n🏥\nرشته های پزشکی | پیراپزشکی | مهندسی\n✅\nهمراه با کد استعلام و قابلیت بررسی\n✉️\nمشاوره رایگان\n👇\n@Dr_Mavsavii\n🔔\nایدی کانال اطلاع از فرصت‌ها‌ و مشاهده رضایت مشتریان\n👇\nhttps://t.me/Mosavi_Madrak",
+        "original_link": "https://t.me/Dr_SalamatX/55339",
+        "post_id": 55339,
+        "message_id": 5648,
+        "message_kind": "caption",
+        "sources": [
+          "dr_salamatx"
+        ],
+        "created_at": "2026-10-02T20:16:23.930742+00:00"
+      },
+      {
+        "fingerprint": "baf7e31ef88cd3203a56a945adbb901eec7fac0433b092472adc276d98a8dcae",
+        "media_fingerprint": "",
+        "text": "🔻\n⚽\nیاد هادی نوروزی، کاپیتان فقید سرخ‌ها تا همیشه برای پرسپولیسی‌ها زنده است\n🔴\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "🔻\n⚽\nیاد هادی نوروزی، کاپیتان فقید سرخ‌ها تا همیشه برای پرسپولیسی‌ها زنده است\n🔴\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/84167",
+        "post_id": 84167,
+        "message_id": 5649,
+        "message_kind": "text",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-02T20:16:27.029014+00:00"
+      },
+      {
+        "fingerprint": "e08b4a576c68ac1a579be346b383355c191edbfb401b1f0d52a4c36fb08ed1a0",
+        "media_fingerprint": "f49ebf122c1c19131a88a3a1acd3a0769b8f4cb0cff2034e4aa28568a45abed9",
+        "text": "🔴\nیه زنه داشت از حس و حالِ ناراحت پسرش تو روز اول مهر فیلم می‌گرفت؛\nکه یهو یه مرده اومد و این شاهکار رو گفت:\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nیه زنه داشت از حس و حالِ ناراحت پسرش تو روز اول مهر فیلم می‌گرفت؛\nکه یهو یه مرده اومد و این شاهکار رو گفت:\n@DrTeL",
+        "original_link": "https://t.me/drtel/67239",
+        "post_id": 67239,
+        "message_id": 5650,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-02T20:16:35.186847+00:00"
+      },
+      {
+        "fingerprint": "b942486a07e4c567ab5b718ce864d5c224c971cec4e22ced334e0ad9af324bf8",
+        "media_fingerprint": "cc13d1cff6a2814f1a6c351c07326dbddaf4967d67689439971300164b557e0e",
+        "text": "🏅\nبغض محمد عمری درباره شروع دوران فوتبالش\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_username": "total_fut",
+        "original_text": "🏅\nبغض محمد عمری درباره شروع دوران فوتبالش\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_link": "https://t.me/total_fut/237145",
+        "post_id": 237145,
+        "message_id": 5651,
+        "message_kind": "caption",
+        "sources": [
+          "total_fut"
+        ],
+        "created_at": "2026-10-02T20:16:43.380168+00:00"
+      },
+      {
+        "fingerprint": "797d09aa62ed7b9532b152751c927a8cf4b2d78b6a5508d4f8043014b8cdbfec",
+        "media_fingerprint": "",
+        "text": "🔴\nمدارس تهران تعطیل شد ، همچنین مدارس اصفهان و کرج و مشهد و.. :\nادامه خبر",
+        "original_username": "peach_tweet",
+        "original_text": "🔴\nمدارس تهران تعطیل شد ، همچنین مدارس اصفهان و کرج و مشهد و.. :\nادامه خبر",
+        "original_link": "https://t.me/peach_tweet/2777",
+        "post_id": 2777,
+        "message_id": 5652,
+        "message_kind": "text",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-02T20:16:46.200130+00:00"
+      },
+      {
+        "fingerprint": "8217619d5a944c0aad9a1df0d5ed9235a350f2abd7da9e326d82f7b55ecff935",
+        "media_fingerprint": "",
+        "text": "فردا تعطیلللللل\n😂\n🤌🏻",
+        "original_username": "peach_tweet",
+        "original_text": "فردا تعطیلللللل\n😂\n🤌🏻",
+        "original_link": "https://t.me/peach_tweet/2779",
+        "post_id": 2779,
+        "message_id": 5653,
+        "message_kind": "text",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-02T20:16:48.962480+00:00"
+      },
+      {
+        "fingerprint": "63f0f88b7b2a56c327ae8018019ac29784634d2033fbaa5c2848a6e747efa021",
+        "media_fingerprint": "fe0b67335d887a7e185b97d6117fa771874b023aa85368ed0feb6fdf79b2d768",
+        "text": "ریدم\n😂\nطرف واقعا بیزینسی بوده\n@miimiam\n| میمیام",
+        "original_username": "peach_tweet",
+        "original_text": "ریدم\n😂\nطرف واقعا بیزینسی بوده\n@miimiam\n| میمیام",
+        "original_link": "https://t.me/peach_tweet/2781",
+        "post_id": 2781,
+        "message_id": 5654,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-02T20:16:53.291017+00:00"
       }
     ]
   }
