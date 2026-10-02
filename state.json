@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142863,
+      "last_id": 142865,
       "processed_ids": [
         141903,
         141904,
@@ -906,9 +906,11 @@
         142860,
         142861,
         142862,
-        142863
+        142863,
+        142864,
+        142865
       ],
-      "sent_count": 546
+      "sent_count": 548
     },
     "total_fut": {
       "last_id": 237114,
@@ -1596,9 +1598,8 @@
       "sent_count": 46
     },
     "footballvision2": {
-      "last_id": 170078,
+      "last_id": 170080,
       "processed_ids": [
-        169042,
         169043,
         169044,
         169045,
@@ -2597,7 +2598,8 @@
         170075,
         170076,
         170077,
-        170078
+        170078,
+        170080
       ],
       "sent_count": 58
     },
@@ -2775,7 +2777,7 @@
       "sent_count": 5
     },
     "drtel": {
-      "last_id": 67202,
+      "last_id": 67203,
       "processed_ids": [
         66561,
         66565,
@@ -3293,9 +3295,10 @@
         67199,
         67200,
         67201,
-        67202
+        67202,
+        67203
       ],
-      "sent_count": 302
+      "sent_count": 303
     },
     "techtube": {
       "last_id": 18412,
@@ -6560,7 +6563,7 @@
       "sent_count": 15
     },
     "scienticnews": {
-      "last_id": 22527,
+      "last_id": 22528,
       "processed_ids": [
         22458,
         22459,
@@ -6630,12 +6633,13 @@
         22523,
         22525,
         22526,
-        22527
+        22527,
+        22528
       ],
-      "sent_count": 34
+      "sent_count": 35
     },
     "ft360_ir": {
-      "last_id": 108829,
+      "last_id": 108830,
       "processed_ids": [
         107883,
         107884,
@@ -7547,12 +7551,13 @@
         108826,
         108827,
         108828,
-        108829
+        108829,
+        108830
       ],
       "sent_count": 50
     },
     "varzesh3": {
-      "last_id": 303220,
+      "last_id": 303222,
       "processed_ids": [
         302363,
         302364,
@@ -8328,12 +8333,14 @@
         303216,
         303217,
         303218,
-        303220
+        303220,
+        303221,
+        303222
       ],
       "sent_count": 34
     },
     "totalfut_plus": {
-      "last_id": 26352,
+      "last_id": 26353,
       "processed_ids": [
         25870,
         25871,
@@ -8807,7 +8814,8 @@
         26349,
         26350,
         26351,
-        26352
+        26352,
+        26353
       ],
       "sent_count": 20
     },
@@ -9548,7 +9556,7 @@
       "sent_count": 69
     },
     "futball180tv": {
-      "last_id": 107669,
+      "last_id": 107672,
       "processed_ids": [
         106848,
         106849,
@@ -10357,12 +10365,15 @@
         107666,
         107667,
         107668,
-        107669
+        107669,
+        107670,
+        107671,
+        107672
       ],
-      "sent_count": 27
+      "sent_count": 28
     },
     "hattric_official": {
-      "last_id": 84133,
+      "last_id": 84135,
       "processed_ids": [
         83433,
         83434,
@@ -11018,7 +11029,9 @@
         84129,
         84131,
         84132,
-        84133
+        84133,
+        84134,
+        84135
       ],
       "sent_count": 36
     },
@@ -11400,7 +11413,7 @@
       "sent_count": 1
     },
     "irwonders": {
-      "last_id": 58225,
+      "last_id": 58226,
       "processed_ids": [
         58030,
         58031,
@@ -11573,7 +11586,8 @@
         58222,
         58223,
         58224,
-        58225
+        58225,
+        58226
       ],
       "sent_count": 106
     },
@@ -12082,7 +12096,7 @@
       "sent_count": 0
     },
     "kafiha": {
-      "last_id": 461508,
+      "last_id": 461514,
       "processed_ids": [
         460646,
         460647,
@@ -12827,9 +12841,15 @@
         461505,
         461506,
         461507,
-        461508
+        461508,
+        461509,
+        461510,
+        461511,
+        461512,
+        461513,
+        461514
       ],
-      "sent_count": 566
+      "sent_count": 571
     },
     "asrare_movafaghiyat": {
       "last_id": 3,
@@ -13216,7 +13236,7 @@
       "sent_count": 2
     },
     "cinematicketorg": {
-      "last_id": 24376,
+      "last_id": 24377,
       "processed_ids": [
         24353,
         24354,
@@ -13229,9 +13249,10 @@
         24370,
         24371,
         24375,
-        24376
+        24376,
+        24377
       ],
-      "sent_count": 7
+      "sent_count": 8
     },
     "cinemadaily": {
       "last_id": 20745,
@@ -13281,7 +13302,7 @@
       "sent_count": 25
     },
     "yejoorayi": {
-      "last_id": 464,
+      "last_id": 465,
       "processed_ids": [
         426,
         427,
@@ -13320,9 +13341,10 @@
         461,
         462,
         463,
-        464
+        464,
+        465
       ],
-      "sent_count": 36
+      "sent_count": 37
     },
     "onlinecofe_ir": {
       "last_id": 2870,
@@ -13423,190 +13445,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "25632c4eb3ba45ab8ea2c284e356ec4512f23ab3cf2b9a44e86e969161bf921e",
-        "media_fingerprint": "",
-        "text": "با همه چیز میتوان شوخی کرد\nبه جز رنج آدمی که\nدیگر توان خندیدن ندارد...\nLidia\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": "با همه چیز میتوان شوخی کرد\nبه جز رنج آدمی که\nدیگر توان خندیدن ندارد...\nLidia\n@kafiha",
-        "original_link": "https://t.me/kafiha/461086",
-        "post_id": 461086,
-        "message_id": 4307,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-29T18:25:55.792813+00:00"
-      },
-      {
-        "fingerprint": "73a7ee38f188090b45f8ec87c873262a779ee0a2a19e9cd11fbf59f331609436",
-        "media_fingerprint": "3fffbdfbe2e68ad8dcda26dec6614cb2b5262f90554ac69f1f5403163d2a88b0",
-        "text": "🎥\nبیرانوند: همه گیر دادن به سربازی رفتن من، خب اگه با سربازی رفتن من دلار میشه ۱۰ هزار تومن، همین فردا میرم  @Gilin",
-        "original_username": "gilin_gilin",
-        "original_text": "🎥\nبیرانوند: همه گیر دادن به سربازی رفتن من، خب اگه با سربازی رفتن من دلار میشه ۱۰ هزار تومن، همین فردا میرم  @Gilin",
-        "original_link": "https://t.me/Gilin_Gilin/283970",
-        "post_id": 283970,
-        "message_id": 4308,
-        "message_kind": "caption",
-        "sources": [
-          "gilin_gilin"
-        ],
-        "created_at": "2026-09-29T18:26:23.267585+00:00"
-      },
-      {
-        "fingerprint": "ee8847b4e0995d7e0bd4e90f97b84be52071216ed2b6f3abaed2ffa64ae86986",
-        "media_fingerprint": "d44babdda2c56f0c2bb013fc6bd7dd3af7beb625758ac8aa29d9b1d1ab46ebf0",
-        "text": "🎥\nچک تضمین‌شده قابل استعلام است\n🏦\nمعاون اداره نظام‌های پرداخت بانک مرکزی: چک رمزدار فقط با حضور در بانک قابل استعلام بود، چون شناسه صیادی نداشت اما چک تضمین‌شده به دلیل داشتن شناسه ۱۶ رقمی صیادی، از طریق پیامک یا اپلیکیشن بانکی قابل استعلام است.\nاز نظر پرداخت، هر دو چک شبیه به هم هستند\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🎥\nچک تضمین‌شده قابل استعلام است\n🏦\nمعاون اداره نظام‌های پرداخت بانک مرکزی: چک رمزدار فقط با حضور در بانک قابل استعلام بود، چون شناسه صیادی نداشت اما چک تضمین‌شده به دلیل داشتن شناسه ۱۶ رقمی صیادی، از طریق پیامک یا اپلیکیشن بانکی قابل استعلام است.\nاز نظر پرداخت، هر دو چک شبیه به هم هستند\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22790",
-        "post_id": 22790,
-        "message_id": 4309,
-        "message_kind": "caption",
-        "sources": [
-          "akhbar_cafenet",
-          "onlinecofe_ir"
-        ],
-        "created_at": "2026-09-29T18:26:29.947334+00:00"
-      },
-      {
-        "fingerprint": "14118028aac282cab85af21ff7709ca6ef2c1b16690ea621b7dab3159156555c",
-        "media_fingerprint": "",
-        "text": "﻿هیچکس برتر نیست\nهیچکس پست تر نیست،\nاما هیچکس برابر هم نیست\nانسانها منحصر به فرد هستند.\nغیر قابل مقایسه\nتو، تو هستی\nمن، من هستم.\n👤\nاشو\nLidia\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": "﻿هیچکس برتر نیست\nهیچکس پست تر نیست،\nاما هیچکس برابر هم نیست\nانسانها منحصر به فرد هستند.\nغیر قابل مقایسه\nتو، تو هستی\nمن، من هستم.\n👤\nاشو\nLidia\n@kafiha",
-        "original_link": "https://t.me/kafiha/461087",
-        "post_id": 461087,
-        "message_id": 4310,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-29T18:26:33.286538+00:00"
-      },
-      {
-        "fingerprint": "b5f7aa04df56caedf6c62c6b0c760711c301cc92a254167f7356345eefbf26b4",
-        "media_fingerprint": "8a60ef42520a23463ed5ba8a96d31f23f1ff6f8fabe0368415bad635c2e863aa",
-        "text": "واکنش عالی نیازمند مانع گل سوم\n🔸\nروسیه ۲-۰ ایران\n🔸\n🔴\nدقیقه ۸۸\n🔗\nپخش زنده در فوتبال ۳۶۰  @Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "واکنش عالی نیازمند مانع گل سوم\n🔸\nروسیه ۲-۰ ایران\n🔸\n🔴\nدقیقه ۸۸\n🔗\nپخش زنده در فوتبال ۳۶۰  @Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/108676",
-        "post_id": 108676,
-        "message_id": 4311,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-09-29T18:49:32.202180+00:00"
-      },
-      {
-        "fingerprint": "d94dd97a15593b732fe333cc8a69629bbe3f2b6d0c01251ef14e91d3926995a7",
-        "media_fingerprint": "69a4ce4921e54e231aeff70befe4fe094d2b0901775cbf6082d1b19f6b5e4210",
-        "text": "اگه براتون سواله اون عدد کالری روی بسته‌بندی مواد غذایی رو چجوری اندازه میگیرن، اینجا به زبون ساده توضیح داده\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "اگه براتون سواله اون عدد کالری روی بسته‌بندی مواد غذایی رو چجوری اندازه میگیرن، اینجا به زبون ساده توضیح داده\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159354",
-        "post_id": 159354,
-        "message_id": 4312,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann",
-          "irwonders"
-        ],
-        "created_at": "2026-09-29T18:49:38.794997+00:00"
-      },
-      {
-        "fingerprint": "dc47e5354e25585642e7592d77a83fb8a888a9a7b7f32e1dea934b406aaf3a2a",
-        "media_fingerprint": "8325249731a8ba623c2679ebc916e65ea38bc80954900fcf1dc9d178f4bba0d1",
-        "text": "جادوی عجـــــیب و جالـــــــب عدد 9 !\nشمام مثل من تا قبــــــل دیدن این GIF ، فکر نمیکنم دقـــــــت کرده باشین به این موضوع\n🤔\n☝️\n@Midanesti",
-        "original_username": "midanesti",
-        "original_text": "جادوی عجـــــیب و جالـــــــب عدد 9 !\nشمام مثل من تا قبــــــل دیدن این GIF ، فکر نمیکنم دقـــــــت کرده باشین به این موضوع\n🤔\n☝️\n@Midanesti",
-        "original_link": "https://t.me/midanesti/73208",
-        "post_id": 73208,
-        "message_id": 4313,
-        "message_kind": "caption",
-        "sources": [
-          "midanesti"
-        ],
-        "created_at": "2026-09-29T18:49:43.130117+00:00"
-      },
-      {
-        "fingerprint": "7b19ff080d1657de4568dc9ab318b941776c3c56b12eb88afe1340db51f7aca8",
-        "media_fingerprint": "92040af22581a7a3e4080dd90acd34c7df5ab639c2952a32177020c8291621bb",
-        "text": "اینو تو\nاینستا دیدم قلبم آب شد واقعا،\nخیلی بانمکه...\n@Gilin",
-        "original_username": "gilin_gilin",
-        "original_text": "اینو تو\nاینستا دیدم قلبم آب شد واقعا،\nخیلی بانمکه...\n@Gilin",
-        "original_link": "https://t.me/Gilin_Gilin/283971",
-        "post_id": 283971,
-        "message_id": 4314,
-        "message_kind": "caption",
-        "sources": [
-          "gilin_gilin",
-          "khandehabadd"
-        ],
-        "created_at": "2026-09-29T18:49:50.215870+00:00"
-      },
-      {
-        "fingerprint": "23a9ef4a67def94d657f56f2d0390f75d95e108702cd09b9b350ce38378a9c27",
-        "media_fingerprint": "2a37c0403c15e5044afd5e75b4b504adea1a9fb8362755d69e9b09d5c749d484",
-        "text": "فقط یک مجرد شاد میتونه یک ازدواج شاد داشته باشه و یک متاهل شاد باشه...\nLidia\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": "فقط یک مجرد شاد میتونه یک ازدواج شاد داشته باشه و یک متاهل شاد باشه...\nLidia\n@kafiha",
-        "original_link": "https://t.me/kafiha/461088",
-        "post_id": 461088,
-        "message_id": 4315,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-29T18:49:55.727847+00:00"
-      },
-      {
-        "fingerprint": "da427e93affff8b61ca329f757c42b5a5bab7544c7f86dd0a80e2871b8a89003",
-        "media_fingerprint": "da99cd92ab78ef9c5b6dfc4addb825f70ab1312e7703ef3b1d3c3550a375c3d4",
-        "text": "در سال ۱۹۱۲ یک ردپای ۱۲۰ سانتی متری در آفریقای جنوبی پیدا شد و قدمت آن به ۲۰۰ میلیون سال میرسید که گفته میشود برای تمدن باستانی غول‌ها است که داستان و ریشه‌هایی در فرهنگ‌های هندی، انجیل و اسلام را دارد\n.\nخیلی جالب است  که این ردپا سال ۱۹۱۲ برای کسی بوده است که تقریبا بیش از ۸ متر قد داشته و میتواند یک غول خیلی بزرگ بوده باشد\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "در سال ۱۹۱۲ یک ردپای ۱۲۰ سانتی متری در آفریقای جنوبی پیدا شد و قدمت آن به ۲۰۰ میلیون سال میرسید که گفته میشود برای تمدن باستانی غول‌ها است که داستان و ریشه‌هایی در فرهنگ‌های هندی، انجیل و اسلام را دارد\n.\nخیلی جالب است  که این ردپا سال ۱۹۱۲ برای کسی بوده است که تقریبا بیش از ۸ متر قد داشته و میتواند یک غول خیلی بزرگ بوده باشد\n@irWonders",
-        "original_link": "https://t.me/irwonders/58133",
-        "post_id": 58133,
-        "message_id": 4316,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders",
-          "jaleb"
-        ],
-        "created_at": "2026-09-29T18:50:00.263676+00:00"
-      },
-      {
-        "fingerprint": "773e15d1b9e4a953edc7c0a020eccdd6c7145854f6a0f7ac9e380b2813414a77",
-        "media_fingerprint": "b564783894a35781697faa57c3ea0b0e64317997718d0161d6fe54fb26cd81cf",
-        "text": "پس بالاخره علم هم چیزی رو تأیید کرد که آقایون سال‌هاست بهش شک داشتن!\n😂\n@Gilin",
-        "original_username": "gilin_gilin",
-        "original_text": "پس بالاخره علم هم چیزی رو تأیید کرد که آقایون سال‌هاست بهش شک داشتن!\n😂\n@Gilin",
-        "original_link": "https://t.me/Gilin_Gilin/283972",
-        "post_id": 283972,
-        "message_id": 4317,
-        "message_kind": "caption",
-        "sources": [
-          "gilin_gilin"
-        ],
-        "created_at": "2026-09-29T18:50:04.343680+00:00"
-      },
-      {
-        "fingerprint": "47f71a079efb19bd019979b9952dd7531b67089097acc5feb25f5ee2fe8d37dd",
-        "media_fingerprint": "",
-        "text": "💵\nدلار آمريکا: ۲۵۴,۲۰۰\n🥇\nطلاي ۱۸ عيار هر گرم: ۲۵,۳۳۸,۲۰۰\n🪙\nسکه امامی: ۲۵۶,۷۰۰,۰۰۰\n⏰\nساعت: ۲۱:۰۰\n🗓\nتاریخ : ۱۴۰۵/۰۷/۰۷\n✦✦✦ آنلاین کافه ✦✦✦\nکانال تلگرام :\n@onlinecofe_ir\nوبلاگ اخبار :\nonlinecofe.ir/news",
-        "original_username": "onlinecofe_ir",
-        "original_text": "💵\nدلار آمريکا: ۲۵۴,۲۰۰\n🥇\nطلاي ۱۸ عيار هر گرم: ۲۵,۳۳۸,۲۰۰\n🪙\nسکه امامی: ۲۵۶,۷۰۰,۰۰۰\n⏰\nساعت: ۲۱:۰۰\n🗓\nتاریخ : ۱۴۰۵/۰۷/۰۷\n✦✦✦ آنلاین کافه ✦✦✦\nکانال تلگرام :\n@onlinecofe_ir\nوبلاگ اخبار :\nonlinecofe.ir/news",
-        "original_link": "https://t.me/onlinecofe_ir/2800",
-        "post_id": 2800,
-        "message_id": 4318,
-        "message_kind": "text",
-        "sources": [
-          "onlinecofe_ir"
-        ],
-        "created_at": "2026-09-29T18:50:07.347666+00:00"
-      },
       {
         "fingerprint": "833ff102588513f71e8b66907e7cde7c74053400920020dd518c8309323e9f11",
         "media_fingerprint": "1d7a5ab3a508e9236e13e06ef37cb10771c5a0a12201b27ab18ba9443c65d935",
@@ -24237,7 +24075,8 @@
         "message_id": 5067,
         "message_kind": "text",
         "sources": [
-          "gilin_gilin"
+          "gilin_gilin",
+          "kafiha"
         ],
         "created_at": "2026-10-01T14:55:34.318060+00:00"
       },
@@ -28404,7 +28243,8 @@
         "message_id": 5357,
         "message_kind": "caption",
         "sources": [
-          "kafiha"
+          "kafiha",
+          "irwonders"
         ],
         "created_at": "2026-10-02T08:49:03.721203+00:00"
       },
@@ -28573,6 +28413,186 @@
           "akhbarfars"
         ],
         "created_at": "2026-10-02T09:05:02.782649+00:00"
+      },
+      {
+        "fingerprint": "1fe203c860c0610ddcbc633413c5ae009e89e94c41784cb497084f3a5e9243c4",
+        "media_fingerprint": "9f6f9913976b50fa6bd5acdc62a3e90352e7e54a85db4d645850b3ef30367212",
+        "text": "﻿خیابان اندرزگو؛ سال ۱۳۴۰\nشاید باورش سخت باشد اما این عکس محدوده کنونی بلوار اندرزگو را در سالهای پایانی دهه ۳۰ و آغاز دهه ۴۰ نشان می دهد. در این تصویر بخش هایی از زمینهای کشاورزی چیذر هم دیده میشود دیوار کاهگلی انتهای تصویر هم باغ حاج اصغر عباسی و محدوده کوچه پارس (سلیمی) است.\n1991\n@kafiha",
+        "original_username": "kafiha",
+        "original_text": "﻿خیابان اندرزگو؛ سال ۱۳۴۰\nشاید باورش سخت باشد اما این عکس محدوده کنونی بلوار اندرزگو را در سالهای پایانی دهه ۳۰ و آغاز دهه ۴۰ نشان می دهد. در این تصویر بخش هایی از زمینهای کشاورزی چیذر هم دیده میشود دیوار کاهگلی انتهای تصویر هم باغ حاج اصغر عباسی و محدوده کوچه پارس (سلیمی) است.\n1991\n@kafiha",
+        "original_link": "https://t.me/kafiha/461509",
+        "post_id": 461509,
+        "message_id": 5370,
+        "message_kind": "caption",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-10-02T09:29:15.800183+00:00"
+      },
+      {
+        "fingerprint": "0c4c23b4392f21bd1db069c22509db4dd7854a458a3f6ea1bfbac3f2d521b179",
+        "media_fingerprint": "57ff08e8c7efb5c7e816a6d906a8729b07622c4eb3aa310a3fc7d2a8caea22b3",
+        "text": "👀\n🇪🇸\nتایلر، د کریتور (Tyler, the Creator) هنرمندیه که تصویرش روی پیراهن بارسلونا در ال‌کلاسیکو رفت مقابل رئال مادرید قرار خواهد گرفت.\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "👀\n🇪🇸\nتایلر، د کریتور (Tyler, the Creator) هنرمندیه که تصویرش روی پیراهن بارسلونا در ال‌کلاسیکو رفت مقابل رئال مادرید قرار خواهد گرفت.\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/107670",
+        "post_id": 107670,
+        "message_id": 5371,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-02T09:29:20.937604+00:00"
+      },
+      {
+        "fingerprint": "f5976017131ab107ac30a990eb7d8e4966f63f6579493377ad351e15ee3a3c73",
+        "media_fingerprint": "215bc7f7c19c1cae5502d70456ec606ae3b3a261cc83ba7eaa640f711b3eb9be",
+        "text": "به نظر می‌رسه ماه عسل بازگشت به وطن تمام شده و صدا و سیما صداش دراومد و دست به کار شد\n1991\n@kafiha",
+        "original_username": "kafiha",
+        "original_text": "به نظر می‌رسه ماه عسل بازگشت به وطن تمام شده و صدا و سیما صداش دراومد و دست به کار شد\n1991\n@kafiha",
+        "original_link": "https://t.me/kafiha/461510",
+        "post_id": 461510,
+        "message_id": 5372,
+        "message_kind": "caption",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-10-02T09:29:26.850979+00:00"
+      },
+      {
+        "fingerprint": "ee1d58d8241d1a689d70da02ad2df0430c53930df7f8c64e9b56bed202f631f3",
+        "media_fingerprint": "1f0cf0c32d387a1ad57421ba3e147bb2292f55903ac4ef286225233155e13003",
+        "text": "💢\nمدل GPT-6 Astra نامه محرمانه دوران ناپلئون را پس از ۲۱۷ سال رمزگشایی کرد\n▪️\nیک کاربر با مدل GPT-6 Astra موفق شد رمزنگاری ناشناخته‌ای را که در نامه‌ای مربوط به «مارشال مارمون»، ژنرال ارتش ناپلئون، وجود داشت، فقط در ۶ ساعت رمزگشایی کند. این نامه ۲۱۷ سال بود که در فهرست رمزهای تاریخی حل‌نشده قرار داشت. اکنون یک پژوهشگر حوزه رمزهای تاریخی رمزگشایی هوش مصنوعی اوپن‌ای‌آی را تأیید کرده است.\n▪️\nاین نامه فقط یک سطر فرانسوی در شروعش دارد و سپس حروف و نمادهای عجیبی در آن دیده می‌شود. این نامه در مارس ۱۸۰۹ حدود دو هفته پیش از حمله اتریش به باواریا نوشته شد؛ ناپلئون در ۱۶ مارس به نایب‌السلطنه ایتالیا دستور داد نامه‌ای رمزنگاری‌شده درباره وضعیت ارتش‌ها برای ژنرال مارمون بفرستد.\n🌐\n@ScienticNews",
+        "original_username": "scienticnews",
+        "original_text": "💢\nمدل GPT-6 Astra نامه محرمانه دوران ناپلئون را پس از ۲۱۷ سال رمزگشایی کرد\n▪️\nیک کاربر با مدل GPT-6 Astra موفق شد رمزنگاری ناشناخته‌ای را که در نامه‌ای مربوط به «مارشال مارمون»، ژنرال ارتش ناپلئون، وجود داشت، فقط در ۶ ساعت رمزگشایی کند. این نامه ۲۱۷ سال بود که در فهرست رمزهای تاریخی حل‌نشده قرار داشت. اکنون یک پژوهشگر حوزه رمزهای تاریخی رمزگشایی هوش مصنوعی اوپن‌ای‌آی را تأیید کرده است.\n▪️\nاین نامه فقط یک سطر فرانسوی در شروعش دارد و سپس حروف و نمادهای عجیبی در آن دیده می‌شود. این نامه در مارس ۱۸۰۹ حدود دو هفته پیش از حمله اتریش به باواریا نوشته شد؛ ناپلئون در ۱۶ مارس به نایب‌السلطنه ایتالیا دستور داد نامه‌ای رمزنگاری‌شده درباره وضعیت ارتش‌ها برای ژنرال مارمون بفرستد.\n🌐\n@ScienticNews",
+        "original_link": "https://t.me/ScienticNews/22528",
+        "post_id": 22528,
+        "message_id": 5373,
+        "message_kind": "caption",
+        "sources": [
+          "scienticnews"
+        ],
+        "created_at": "2026-10-02T09:29:32.581667+00:00"
+      },
+      {
+        "fingerprint": "e49eb83822d4793c17d8ed813022df9bdbf8a267ccfc9ee773f16fee3647bd5a",
+        "media_fingerprint": "51f3327b1eed529d961fcb2463a573f35c91c79197014df1e93581938cc9d56c",
+        "text": "♦️\nشما می دونستید دلیل این حفره های روی سنگ قبرها چیه؟\nدر اینستاگرام مارا دنبال کنید\n👇\nhttps://www.instagram.com/akhbarefars?stkn=MXd4NHE3aWg4cjh3MA==",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nشما می دونستید دلیل این حفره های روی سنگ قبرها چیه؟\nدر اینستاگرام مارا دنبال کنید\n👇\nhttps://www.instagram.com/akhbarefars?stkn=MXd4NHE3aWg4cjh3MA==",
+        "original_link": "https://t.me/akhbarfars/142864",
+        "post_id": 142864,
+        "message_id": 5374,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-02T09:29:40.526045+00:00"
+      },
+      {
+        "fingerprint": "75164a6b05bd7554227becc6c2c7f62100bc55037ca5744e878a9c096f205393",
+        "media_fingerprint": "8c9f646566825a743bc00fa6e9c5b335db649a6e4318731ead1859569fdc9225",
+        "text": "Tataloo ft Tohi Ft rezaya Ft 2afm – Gheire Mostaghim @Kafiha",
+        "original_username": "kafiha",
+        "original_text": "Tataloo ft Tohi Ft rezaya Ft 2afm – Gheire Mostaghim @Kafiha",
+        "original_link": "https://t.me/kafiha/461511",
+        "post_id": 461511,
+        "message_id": 5375,
+        "message_kind": "caption",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-10-02T09:29:47.462007+00:00"
+      },
+      {
+        "fingerprint": "466f224e95b5d6d7ebf6a134ba67e1d8ca931463f5550fd36ae42111ee6562e2",
+        "media_fingerprint": "c05727f2fb12d7286883b93f352e984bc1956dac0f1a232ac5355482055167bb",
+        "text": "میان هزار محتوای زرد و پوچ، بالاخره یه کلیپ آموزنده و عمیق پیدا شد.\nاین انیمیشن کوتاه نشون میده، یه زن بر اساس تروماهای کودکی که داشته، تجاوزی که بهش شده و خونواده بی‌مسئولیتی که به حرفاش و آسیباش توجه نکردن.\nنذاشت یه بچه دیگه هم قربانی بشه.\n1991\n@kafiha",
+        "original_username": "kafiha",
+        "original_text": "میان هزار محتوای زرد و پوچ، بالاخره یه کلیپ آموزنده و عمیق پیدا شد.\nاین انیمیشن کوتاه نشون میده، یه زن بر اساس تروماهای کودکی که داشته، تجاوزی که بهش شده و خونواده بی‌مسئولیتی که به حرفاش و آسیباش توجه نکردن.\nنذاشت یه بچه دیگه هم قربانی بشه.\n1991\n@kafiha",
+        "original_link": "https://t.me/kafiha/461512",
+        "post_id": 461512,
+        "message_id": 5376,
+        "message_kind": "caption",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-10-02T09:29:53.921832+00:00"
+      },
+      {
+        "fingerprint": "5f6d413d7c315f789b2143ba1f833ed6535b3deaa83eeddaccaac9c118b5850a",
+        "media_fingerprint": "90f1291ae37bb2b197b47ba0afa530766f0fdbed313afabd2bd39e27c846c482",
+        "text": "🎬\nرونمایی از پوستر فیلم سینمایی «بورسیه»\nجواد عزتی و عباس جمشیدی‌فر این‌بار در کمدی اکشن «بورسیه» دوباره کنار هم قرار گرفته‌اند؛ با یک همراه تازه، امیر جعفری.\n«بورسیه» نخستین فیلمی است که جواد عزتی، امیر جعفری و عباس جمشیدی‌فر را در کنار هم قرار می‌دهد و قرار است از آبان‌ماه در سینماهای سراسر کشور اکران شود.\nنویسنده و کارگردان: برزو نیک‌نژاد\nتهیه‌کننده: کامران حجازی\nپخش و تبلیغات: شهر فرنگ\n@cinematicketorg",
+        "original_username": "cinematicketorg",
+        "original_text": "🎬\nرونمایی از پوستر فیلم سینمایی «بورسیه»\nجواد عزتی و عباس جمشیدی‌فر این‌بار در کمدی اکشن «بورسیه» دوباره کنار هم قرار گرفته‌اند؛ با یک همراه تازه، امیر جعفری.\n«بورسیه» نخستین فیلمی است که جواد عزتی، امیر جعفری و عباس جمشیدی‌فر را در کنار هم قرار می‌دهد و قرار است از آبان‌ماه در سینماهای سراسر کشور اکران شود.\nنویسنده و کارگردان: برزو نیک‌نژاد\nتهیه‌کننده: کامران حجازی\nپخش و تبلیغات: شهر فرنگ\n@cinematicketorg",
+        "original_link": "https://t.me/cinematicketorg/24377",
+        "post_id": 24377,
+        "message_id": 5377,
+        "message_kind": "caption",
+        "sources": [
+          "cinematicketorg"
+        ],
+        "created_at": "2026-10-02T09:29:59.606992+00:00"
+      },
+      {
+        "fingerprint": "80d814fa9150cb6099967674a48113940b21ace397eb6ec6a5ac60212b0d3e9e",
+        "media_fingerprint": "",
+        "text": "♦️\nرئیس پلیس راهور فراجا: جرایم رانندگی مشمول دیرکرد به مدت یک هفته به مبلغ اولیه بازگشت.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nرئیس پلیس راهور فراجا: جرایم رانندگی مشمول دیرکرد به مدت یک هفته به مبلغ اولیه بازگشت.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142865",
+        "post_id": 142865,
+        "message_id": 5378,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-02T09:30:02.459484+00:00"
+      },
+      {
+        "fingerprint": "4e8435278cb58c8b2557c9424729c684dc43b7f6f4c4090291a54477bb5c1c27",
+        "media_fingerprint": "91edad0433f808cb0f80b37a203b0ce958824e1cb6581c4dba409091dcb6b476",
+        "text": "بیشتر تمرین کن\n🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "بیشتر تمرین کن\n🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/465",
+        "post_id": 465,
+        "message_id": 5379,
+        "message_kind": "caption",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-02T09:30:07.228466+00:00"
+      },
+      {
+        "fingerprint": "2b5090404cfd84230f10ba4a24189b917e832a94a656b58056ce4928a67e85d5",
+        "media_fingerprint": "",
+        "text": "این همه علم پیشرفت کرده چرا هنوز دارویی کشف نشده که جای خوابیدن رو بگیره، مثلا یه دوز بزنی دقیقا تاثیر 8 ساعت خواب رو توی بدنت داشته باشه\n1991\n@kafiha",
+        "original_username": "kafiha",
+        "original_text": "این همه علم پیشرفت کرده چرا هنوز دارویی کشف نشده که جای خوابیدن رو بگیره، مثلا یه دوز بزنی دقیقا تاثیر 8 ساعت خواب رو توی بدنت داشته باشه\n1991\n@kafiha",
+        "original_link": "https://t.me/kafiha/461514",
+        "post_id": 461514,
+        "message_id": 5380,
+        "message_kind": "text",
+        "sources": [
+          "kafiha"
+        ],
+        "created_at": "2026-10-02T09:30:14.955674+00:00"
+      },
+      {
+        "fingerprint": "686530f501fb498154b6ff2b3c478a4438cfeaed52ef3d73d045f0dce5816541",
+        "media_fingerprint": "8a667194365911b20a5b5c8bcb85a925ddb5d054418606ec73bd9c3fcb36a203",
+        "text": "🔴\nویدئوی وایرال شده از وضعیت پوشش یه خانم تو متروی تهران :\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nویدئوی وایرال شده از وضعیت پوشش یه خانم تو متروی تهران :\n@DrTeL",
+        "original_link": "https://t.me/drtel/67203",
+        "post_id": 67203,
+        "message_id": 5381,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-02T09:30:21.508793+00:00"
       }
     ]
   }
