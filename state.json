@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142883,
+      "last_id": 142887,
       "processed_ids": [
         141903,
         141904,
@@ -926,9 +926,13 @@
         142880,
         142881,
         142882,
-        142883
+        142883,
+        142884,
+        142885,
+        142886,
+        142887
       ],
-      "sent_count": 563
+      "sent_count": 566
     },
     "total_fut": {
       "last_id": 237132,
@@ -1634,10 +1638,8 @@
       "sent_count": 47
     },
     "footballvision2": {
-      "last_id": 170105,
+      "last_id": 170107,
       "processed_ids": [
-        169068,
-        169071,
         169072,
         169073,
         169074,
@@ -2635,7 +2637,9 @@
         170102,
         170103,
         170104,
-        170105
+        170105,
+        170106,
+        170107
       ],
       "sent_count": 60
     },
@@ -3750,7 +3754,7 @@
       "sent_count": 73
     },
     "coffeenetmanager": {
-      "last_id": 51688,
+      "last_id": 51689,
       "processed_ids": [
         51537,
         51538,
@@ -3894,7 +3898,8 @@
         51685,
         51686,
         51687,
-        51688
+        51688,
+        51689
       ],
       "sent_count": 62
     },
@@ -4042,7 +4047,7 @@
       "sent_count": 85
     },
     "akhbar_cafenet": {
-      "last_id": 22866,
+      "last_id": 22867,
       "processed_ids": [
         22432,
         22433,
@@ -4468,7 +4473,8 @@
         22863,
         22864,
         22865,
-        22866
+        22866,
+        22867
       ],
       "sent_count": 253
     },
@@ -4976,7 +4982,7 @@
       "sent_count": 103
     },
     "gizmiztel": {
-      "last_id": 162665,
+      "last_id": 162666,
       "processed_ids": [
         161872,
         161875,
@@ -5687,9 +5693,10 @@
         162659,
         162660,
         162661,
-        162665
+        162665,
+        162666
       ],
-      "sent_count": 459
+      "sent_count": 460
     },
     "dr_salamatx": {
       "last_id": 55336,
@@ -6087,7 +6094,7 @@
       "sent_count": 172
     },
     "ajayebe_jahann": {
-      "last_id": 159449,
+      "last_id": 159450,
       "processed_ids": [
         158956,
         158957,
@@ -6579,7 +6586,8 @@
         159446,
         159447,
         159448,
-        159449
+        159449,
+        159450
       ],
       "sent_count": 223
     },
@@ -6755,7 +6763,7 @@
       "sent_count": 37
     },
     "ft360_ir": {
-      "last_id": 108843,
+      "last_id": 108844,
       "processed_ids": [
         107883,
         107884,
@@ -7681,7 +7689,8 @@
         108840,
         108841,
         108842,
-        108843
+        108843,
+        108844
       ],
       "sent_count": 53
     },
@@ -8485,7 +8494,7 @@
       "sent_count": 35
     },
     "totalfut_plus": {
-      "last_id": 26361,
+      "last_id": 26362,
       "processed_ids": [
         25870,
         25871,
@@ -8968,12 +8977,13 @@
         26358,
         26359,
         26360,
-        26361
+        26361,
+        26362
       ],
       "sent_count": 21
     },
     "adak_ir_official": {
-      "last_id": 234581,
+      "last_id": 234582,
       "processed_ids": [
         233831,
         233833,
@@ -9720,12 +9730,13 @@
         234578,
         234579,
         234580,
-        234581
+        234581,
+        234582
       ],
       "sent_count": 71
     },
     "futball180tv": {
-      "last_id": 107696,
+      "last_id": 107697,
       "processed_ids": [
         106848,
         106849,
@@ -10561,12 +10572,13 @@
         107693,
         107694,
         107695,
-        107696
+        107696,
+        107697
       ],
       "sent_count": 30
     },
     "hattric_official": {
-      "last_id": 84143,
+      "last_id": 84144,
       "processed_ids": [
         83433,
         83434,
@@ -11232,7 +11244,8 @@
         84140,
         84141,
         84142,
-        84143
+        84143,
+        84144
       ],
       "sent_count": 36
     },
@@ -11840,7 +11853,7 @@
       "sent_count": 5
     },
     "midanesti": {
-      "last_id": 73234,
+      "last_id": 73235,
       "processed_ids": [
         73193,
         73194,
@@ -11880,9 +11893,10 @@
         73231,
         73232,
         73233,
-        73234
+        73234,
+        73235
       ],
-      "sent_count": 18
+      "sent_count": 19
     },
     "gilin_gilin": {
       "last_id": 284180,
@@ -13637,7 +13651,7 @@
       "sent_count": 39
     },
     "onlinecofe_ir": {
-      "last_id": 2875,
+      "last_id": 2876,
       "processed_ids": [
         2781,
         2782,
@@ -13733,112 +13747,24 @@
         2872,
         2873,
         2874,
-        2875
+        2875,
+        2876
       ],
       "sent_count": 31
     },
     "shakhmovie": {
-      "last_id": 4019,
+      "last_id": 4020,
       "processed_ids": [
         4017,
         4018,
-        4019
+        4019,
+        4020
       ],
-      "sent_count": 2
+      "sent_count": 3
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "d13cc609255d45470c60dd4c25f9b7744f740c85ddb2f234940aeffdb6a0d78f",
-        "media_fingerprint": "",
-        "text": "♦️\nپروازها در فرودگاه بن‌گوربون متوقف شده است\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nپروازها در فرودگاه بن‌گوربون متوقف شده است\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142732",
-        "post_id": 142732,
-        "message_id": 4464,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-30T07:40:19.719455+00:00"
-      },
-      {
-        "fingerprint": "21c9819094dbc4234d8cc4c58e23b487980dc84c972e75ffacdfa75b158265f2",
-        "media_fingerprint": "",
-        "text": "✅\nواردات خودروهای لوکس با دستور رئیس‌جمهور متوقف شد\nتصمیمی که به گفته وزیر صمت، مدل‌هایی مانند تویوتا لندکروزر ۳۰۰، پرادو و ب‌ام‌و سری ۷ و حتی واردات این خودروها توسط ایرانیان مقیم خارج را شامل می‌شود.\nبه‌گزارش قدس آنلاین، وزیر صمت اعلام کرده که بر اساس دستور رئیس‌جمهور، واردات خودروهای لوکس متوقف خواهد شد؛ تصمیمی که مدل‌هایی مثل ب‌ام‌و سری ۷، تویوتا لندکروزر ۳۰۰ و پرادو را هم شامل می‌شود. این محدودیت حتی برای ایرانیان مقیم خارج از کشور نیز در نظر گرفته شده است.طبق این اظهارات، سیاست دولت در شرایط فعلی تمرکز بیشتر روی تامین خودروهای اقتصادی و تنظیم بازار است؛ در حالی که مسیر واردات برخی خودروهای لوکس پیش از این برای ایرانیان خارج از کشور امکان‌پذیر شده بود.\nاز سوی دیگر، وزیر صمت گفته کمتر از هزار دستگاه خودروی کارکرده در حال حاضر در گمرکات کشور قرار دارند و با ورود این خودروها به بازار، می‌توان انتظار داشت قیمت‌ها تا حدی تعدیل شود.حالا باید دید این تصمیم چه اثری بر بازار خودروهای وارداتی و به‌خصوص مدل‌های لوکس خواهد گذاشت",
-        "original_username": "sabtnamkh0dro",
-        "original_text": "✅\nواردات خودروهای لوکس با دستور رئیس‌جمهور متوقف شد\nتصمیمی که به گفته وزیر صمت، مدل‌هایی مانند تویوتا لندکروزر ۳۰۰، پرادو و ب‌ام‌و سری ۷ و حتی واردات این خودروها توسط ایرانیان مقیم خارج را شامل می‌شود.\nبه‌گزارش قدس آنلاین، وزیر صمت اعلام کرده که بر اساس دستور رئیس‌جمهور، واردات خودروهای لوکس متوقف خواهد شد؛ تصمیمی که مدل‌هایی مثل ب‌ام‌و سری ۷، تویوتا لندکروزر ۳۰۰ و پرادو را هم شامل می‌شود. این محدودیت حتی برای ایرانیان مقیم خارج از کشور نیز در نظر گرفته شده است.طبق این اظهارات، سیاست دولت در شرایط فعلی تمرکز بیشتر روی تامین خودروهای اقتصادی و تنظیم بازار است؛ در حالی که مسیر واردات برخی خودروهای لوکس پیش از این برای ایرانیان خارج از کشور امکان‌پذیر شده بود.\nاز سوی دیگر، وزیر صمت گفته کمتر از هزار دستگاه خودروی کارکرده در حال حاضر در گمرکات کشور قرار دارند و با ورود این خودروها به بازار، می‌توان انتظار داشت قیمت‌ها تا حدی تعدیل شود.حالا باید دید این تصمیم چه اثری بر بازار خودروهای وارداتی و به‌خصوص مدل‌های لوکس خواهد گذاشت",
-        "original_link": "https://t.me/sabtnamkh0dro/14299",
-        "post_id": 14299,
-        "message_id": 4465,
-        "message_kind": "text",
-        "sources": [
-          "sabtnamkh0dro"
-        ],
-        "created_at": "2026-09-30T07:40:23.466008+00:00"
-      },
-      {
-        "fingerprint": "794745769a70278f4f2568666049839518c3711529dcc69bcce93602cbd4d672",
-        "media_fingerprint": "a65b85c27ff7cbf5248c94871cd191ea15c9fb354ea8c72c7739a7510a565f89",
-        "text": "🎯\nدوره آنلاین «تربیت مدیر بازاریابی: از مبانی تا داده محوری»\n📌\nبازاریابی را از حد حدس و تجربه خارج کن؛ با عدد مدیریت کن.\n🟢\nمناسب برای:\nکارشناسان بازاریابی، مدیران فروش و بازاریابی، صاحبان کسب‌وکار، دانشجویان و علاقه‌مندان به حوزه بازاریابی\nخروجی عملی دوره:\n🔹\nتحلیل سریع‌تر و هوشمندتر\n🔹\nگزارش‌های ساده و قابل‌فهم\n🔹\nداشبورد تحلیلی، تصمیم بهتر\n🔹\nمدیریت دقیق‌تر فعالیت‌های بازاریابی\n🔹\nشناخت بهتر رفتار مخاطب بر اساس\n#داده\n✅\nبدون نیاز به پیش‌نیاز یا دانش فنی\n👈\nمشاوره رایگان و مشاهده جزئیات دوره:\n➡️\nhttps://httb.ir/DFDdU\n🎓\nگواهینامه معتبر\nمؤسسه توسعه",
-        "original_username": "roidbest",
-        "original_text": "🎯\nدوره آنلاین «تربیت مدیر بازاریابی: از مبانی تا داده محوری»\n📌\nبازاریابی را از حد حدس و تجربه خارج کن؛ با عدد مدیریت کن.\n🟢\nمناسب برای:\nکارشناسان بازاریابی، مدیران فروش و بازاریابی، صاحبان کسب‌وکار، دانشجویان و علاقه‌مندان به حوزه بازاریابی\nخروجی عملی دوره:\n🔹\nتحلیل سریع‌تر و هوشمندتر\n🔹\nگزارش‌های ساده و قابل‌فهم\n🔹\nداشبورد تحلیلی، تصمیم بهتر\n🔹\nمدیریت دقیق‌تر فعالیت‌های بازاریابی\n🔹\nشناخت بهتر رفتار مخاطب بر اساس\n#داده\n✅\nبدون نیاز به پیش‌نیاز یا دانش فنی\n👈\nمشاوره رایگان و مشاهده جزئیات دوره:\n➡️\nhttps://httb.ir/DFDdU\n🎓\nگواهینامه معتبر\nمؤسسه توسعه",
-        "original_link": "https://t.me/RoidBest/21734",
-        "post_id": 21734,
-        "message_id": 4466,
-        "message_kind": "caption",
-        "sources": [
-          "roidbest"
-        ],
-        "created_at": "2026-09-30T07:40:28.433205+00:00"
-      },
-      {
-        "fingerprint": "5fcf01a1c6cff2589f69b1c5c0776832c6f21c384c89e7185e06da43568bf0eb",
-        "media_fingerprint": "",
-        "text": "🔴\n❌\nدانیال ایری به دلیل مصدومیت در تمرین تیم ملی امید، ۲ الی ۴ هفته از میادین دور خواهد بود.\n🔴\nبا توجه به مصدومیت حسین کنعانی و دانیال ایری، زوج خط دفاعی پرسپولیس برابر صنعت نفت آبادان، محمدمهدی زارع و حسین ابرقویی هستند.\n🆔\n@mazdak_hattrick",
-        "original_username": "mazdak_hattrick",
-        "original_text": "🔴\n❌\nدانیال ایری به دلیل مصدومیت در تمرین تیم ملی امید، ۲ الی ۴ هفته از میادین دور خواهد بود.\n🔴\nبا توجه به مصدومیت حسین کنعانی و دانیال ایری، زوج خط دفاعی پرسپولیس برابر صنعت نفت آبادان، محمدمهدی زارع و حسین ابرقویی هستند.\n🆔\n@mazdak_hattrick",
-        "original_link": "https://t.me/mazdak_hattrick/182248",
-        "post_id": 182248,
-        "message_id": 4467,
-        "message_kind": "text",
-        "sources": [
-          "mazdak_hattrick"
-        ],
-        "created_at": "2026-09-30T07:40:31.475089+00:00"
-      },
-      {
-        "fingerprint": "3f95ea3ece0f81a7edaf94b0772ddfd6a5d98d41a0a390cfce60ba6b9c73e2de",
-        "media_fingerprint": "",
-        "text": "📞\nشماره تلفن‌هایی که شاید یه روزی به کارتون بیاد\n۱۲۳ > اورژانس اجتماعی برای وضعیت‌های\nفوری و خطرناک (خودکشی، تجاوز آزار و ...)\n۱۴۸۰ > مشاوره دولتی رایگان\nاز ۸ صبح تا ۱۲ شب\n۱۵۷۰ > برای دانش آموزان و والدین\nجهت خدمات تحصیلی و مشاوره\n۴۰۳۰ > برای کرونا، سرطان، سوگ\nسلامت سالمندان و ...\n۰۲۱-۵۴۴۶۷۰۰۰ > مدیریت بحران\nو جلوگیری از خودکشی از ۱۴ تا ۲۴\n۰۹۶۲۸ > خط ملی اعتیاد برای افراد\nو خانواده‌های درگیر اعتیاد از ۸ تا ۱۸\n۱۹۰> کد۳> کد۲ : برای خطرات مربوط به\nمصارف دارویی از ۸ صبح تا ۸ شب\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "📞\nشماره تلفن‌هایی که شاید یه روزی به کارتون بیاد\n۱۲۳ > اورژانس اجتماعی برای وضعیت‌های\nفوری و خطرناک (خودکشی، تجاوز آزار و ...)\n۱۴۸۰ > مشاوره دولتی رایگان\nاز ۸ صبح تا ۱۲ شب\n۱۵۷۰ > برای دانش آموزان و والدین\nجهت خدمات تحصیلی و مشاوره\n۴۰۳۰ > برای کرونا، سرطان، سوگ\nسلامت سالمندان و ...\n۰۲۱-۵۴۴۶۷۰۰۰ > مدیریت بحران\nو جلوگیری از خودکشی از ۱۴ تا ۲۴\n۰۹۶۲۸ > خط ملی اعتیاد برای افراد\nو خانواده‌های درگیر اعتیاد از ۸ تا ۱۸\n۱۹۰> کد۳> کد۲ : برای خطرات مربوط به\nمصارف دارویی از ۸ صبح تا ۸ شب\n@irWonders",
-        "original_link": "https://t.me/irwonders/58147",
-        "post_id": 58147,
-        "message_id": 4468,
-        "message_kind": "text",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-09-30T07:58:20.271789+00:00"
-      },
-      {
-        "fingerprint": "89ad00855471b5fccf88220ef4db662dfc3506aea7368a9cfd4083f3c63e30eb",
-        "media_fingerprint": "869a5bf88c51be4e46347c56f0e4c2f18f14ad66a1a31a7e1fa63c0a74a64d48",
-        "text": "ژاپن؛ اجاره آدم‌ها برای حرف زدن\nشما شاهد شکست یک غول تکنولوژی در تمدن‌سازی هستید؛ تویوتا و سونی و نینتندو نمیتونن انسان و انسانیت و آرامش بسازن؛ پیشرفت و موفقیت یک تمدن فقط به تکنولوژی وابسته نیست؛ تکنولوژی رو نپرستیم\nژاپن دومین کشوری بود که بعد از انگلیس وزارت تنهایی تأسیس کرد\n💬\nAmin Mosavi\nNiNa\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "ژاپن؛ اجاره آدم‌ها برای حرف زدن\nشما شاهد شکست یک غول تکنولوژی در تمدن‌سازی هستید؛ تویوتا و سونی و نینتندو نمیتونن انسان و انسانیت و آرامش بسازن؛ پیشرفت و موفقیت یک تمدن فقط به تکنولوژی وابسته نیست؛ تکنولوژی رو نپرستیم\nژاپن دومین کشوری بود که بعد از انگلیس وزارت تنهایی تأسیس کرد\n💬\nAmin Mosavi\nNiNa\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461153",
-        "post_id": 461153,
-        "message_id": 4469,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-30T07:58:27.556316+00:00"
-      },
       {
         "fingerprint": "db4a46fec5fa7d7ce09c69ed4fc637e175f156a58ef3e605dd2b7535241c5b09",
         "media_fingerprint": "b47222eb60e24f96f06b59a1746df6aa9348583b938553c5a4bac765fdab34ee",
@@ -28444,7 +28370,8 @@
         "message_id": 5491,
         "message_kind": "caption",
         "sources": [
-          "irwonders"
+          "irwonders",
+          "ajayebe_jahann"
         ],
         "created_at": "2026-10-02T14:04:20.114423+00:00"
       },
@@ -28882,6 +28809,96 @@
           "kafiha"
         ],
         "created_at": "2026-10-02T15:19:35.033380+00:00"
+      },
+      {
+        "fingerprint": "5023c4e4c6325f6035d7a435c46577d55bafb85da140ca488775160572d5b57b",
+        "media_fingerprint": "80683d760fa0dc6eb2d4d192d8ce71f5d1f308e657ae8a4dc59aa6ee6a74eb4c",
+        "text": "20 فیلم اروتیک کمتر دیده‌شده که حاوی سکانس‌های سکسی هستن\n🔞\n▪️\nThey're Playing with Fire\n▫️\nBlack Widow\n▪️\nLady Beware\n▫️\nCall Me\n▪️\nKill Me Again\n▫️\nNight Eyes\n▪️\nBody Chemistry\n▫️\nIn the Cold of the Night\n▪️\nAfter Dark, My Sweet\n▫️\nDefenseless\n▪️\nZandalee\n▫️\nAnimal Instincts\n▪️\nStoryville\n▫️\nWhispers in the Dark\n▪️\nNaked Killer\n▫️\nThe Wrong Man\n▪️\nLove Is a Gun\n▫️\nCriminal Passion\n▪️\nWild Side\n▫️\nNever Talk to Strangers\n📷\n|\n@ShakhMovie",
+        "original_username": "shakhmovie",
+        "original_text": "20 فیلم اروتیک کمتر دیده‌شده که حاوی سکانس‌های سکسی هستن\n🔞\n▪️\nThey're Playing with Fire\n▫️\nBlack Widow\n▪️\nLady Beware\n▫️\nCall Me\n▪️\nKill Me Again\n▫️\nNight Eyes\n▪️\nBody Chemistry\n▫️\nIn the Cold of the Night\n▪️\nAfter Dark, My Sweet\n▫️\nDefenseless\n▪️\nZandalee\n▫️\nAnimal Instincts\n▪️\nStoryville\n▫️\nWhispers in the Dark\n▪️\nNaked Killer\n▫️\nThe Wrong Man\n▪️\nLove Is a Gun\n▫️\nCriminal Passion\n▪️\nWild Side\n▫️\nNever Talk to Strangers\n📷\n|\n@ShakhMovie",
+        "original_link": "https://t.me/Shakhmovie/4020",
+        "post_id": 4020,
+        "message_id": 5521,
+        "message_kind": "caption",
+        "sources": [
+          "shakhmovie"
+        ],
+        "created_at": "2026-10-02T15:40:41.372613+00:00"
+      },
+      {
+        "fingerprint": "48c934ed15ac52f804fd5aaa7e757aa7cb217147de1b1f3e30931ed8ec668027",
+        "media_fingerprint": "57c04b69cf35c294f7447101b554a29b1b441d9e0c4762997af0dc23c4c687b7",
+        "text": "داستان کوتاه و جالب یک فرد کمال‌گرا و یک فرد عمل‌گرا!\n@Midanesti",
+        "original_username": "midanesti",
+        "original_text": "داستان کوتاه و جالب یک فرد کمال‌گرا و یک فرد عمل‌گرا!\n@Midanesti",
+        "original_link": "https://t.me/midanesti/73235",
+        "post_id": 73235,
+        "message_id": 5522,
+        "message_kind": "caption",
+        "sources": [
+          "midanesti"
+        ],
+        "created_at": "2026-10-02T15:40:46.713291+00:00"
+      },
+      {
+        "fingerprint": "635d1d8932b3c1c129c679e8d37eeed914801fbad203acf867a3384779050c1a",
+        "media_fingerprint": "955b68c45617d5031af8afc62de9169e8dfa61e67d945b199648d55f71d655e0",
+        "text": "♦️\nبارش باران به همراه رعد و برق شهرک وزیره قطرویه نی ریز جمعه ۱۰ مهر ۱۴۰۵\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nبارش باران به همراه رعد و برق شهرک وزیره قطرویه نی ریز جمعه ۱۰ مهر ۱۴۰۵\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142885",
+        "post_id": 142885,
+        "message_id": 5523,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-02T15:40:51.278493+00:00"
+      },
+      {
+        "fingerprint": "139f9f7be4556edac99526db5824e26e587d87c9aa30e5e7280fda3f35f6ba47",
+        "media_fingerprint": "a2e74ff2fe745722d9c96c01744f9ff6ddafe8340342fb90c9edfc1be688f95d",
+        "text": "♦️\nابگرفتگی معابر جنت شهر، داراب ١٠ مهر ١۴٠۵\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nابگرفتگی معابر جنت شهر، داراب ١٠ مهر ١۴٠۵\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142886",
+        "post_id": 142886,
+        "message_id": 5524,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-02T15:40:56.673857+00:00"
+      },
+      {
+        "fingerprint": "83ca8139a3e15a22d33dff41445496f09390be95a2a4b66f29381de29d5060e0",
+        "media_fingerprint": "45417ca7a03cdb322755254577aa8740dcf49ae44878588b1443323130415f84",
+        "text": "♦️\nبارش تگرگ جنت شهر ۱۰ مهر ماه ۱۴۰۵\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nبارش تگرگ جنت شهر ۱۰ مهر ماه ۱۴۰۵\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142887",
+        "post_id": 142887,
+        "message_id": 5525,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-02T15:41:02.339693+00:00"
+      },
+      {
+        "fingerprint": "88d63a7f48bc66803832848b3d930884fcf008afe72e6d4f2aabff0572e16dd8",
+        "media_fingerprint": "",
+        "text": "بیانیه دولت عراق:\nبرای انجام روزانه ۴۰ پرواز از مبدأ و به مقصد فرودگاه نجف توسط شرکت‌های هواپیمایی ایرانی، به‌جز ماهان، معافیت دریافت کردیم.\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "بیانیه دولت عراق:\nبرای انجام روزانه ۴۰ پرواز از مبدأ و به مقصد فرودگاه نجف توسط شرکت‌های هواپیمایی ایرانی، به‌جز ماهان، معافیت دریافت کردیم.\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162666",
+        "post_id": 162666,
+        "message_id": 5526,
+        "message_kind": "text",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-02T15:41:05.011069+00:00"
       }
     ]
   }
