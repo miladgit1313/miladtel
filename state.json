@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142926,
+      "last_id": 142932,
       "processed_ids": [
         141903,
         141904,
@@ -966,12 +966,16 @@
         142923,
         142924,
         142925,
-        142926
+        142926,
+        142928,
+        142929,
+        142930,
+        142932
       ],
-      "sent_count": 588
+      "sent_count": 591
     },
     "total_fut": {
-      "last_id": 237157,
+      "last_id": 237159,
       "processed_ids": [
         236405,
         236407,
@@ -1694,17 +1698,15 @@
         237154,
         237155,
         237156,
-        237157
+        237157,
+        237158,
+        237159
       ],
       "sent_count": 50
     },
     "footballvision2": {
-      "last_id": 170173,
+      "last_id": 170177,
       "processed_ids": [
-        169141,
-        169142,
-        169143,
-        169144,
         169145,
         169146,
         169147,
@@ -2700,7 +2702,11 @@
         170170,
         170171,
         170172,
-        170173
+        170173,
+        170174,
+        170175,
+        170176,
+        170177
       ],
       "sent_count": 65
     },
@@ -2889,7 +2895,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67263,
+      "last_id": 67264,
       "processed_ids": [
         66561,
         66565,
@@ -3451,7 +3457,8 @@
         67260,
         67261,
         67262,
-        67263
+        67263,
+        67264
       ],
       "sent_count": 332
     },
@@ -4166,7 +4173,7 @@
       "sent_count": 89
     },
     "akhbar_cafenet": {
-      "last_id": 22884,
+      "last_id": 22891,
       "processed_ids": [
         22432,
         22433,
@@ -4609,9 +4616,16 @@
         22881,
         22882,
         22883,
-        22884
+        22884,
+        22885,
+        22886,
+        22887,
+        22888,
+        22889,
+        22890,
+        22891
       ],
-      "sent_count": 264
+      "sent_count": 269
     },
     "comentiat": {
       "last_id": 26251,
@@ -6992,7 +7006,7 @@
       "sent_count": 42
     },
     "ft360_ir": {
-      "last_id": 108889,
+      "last_id": 108890,
       "processed_ids": [
         107883,
         107884,
@@ -7959,7 +7973,8 @@
         108886,
         108887,
         108888,
-        108889
+        108889,
+        108890
       ],
       "sent_count": 54
     },
@@ -9309,7 +9324,7 @@
       "sent_count": 22
     },
     "adak_ir_official": {
-      "last_id": 234617,
+      "last_id": 234618,
       "processed_ids": [
         233831,
         233833,
@@ -10091,12 +10106,13 @@
         234614,
         234615,
         234616,
-        234617
+        234617,
+        234618
       ],
       "sent_count": 83
     },
     "futball180tv": {
-      "last_id": 107739,
+      "last_id": 107740,
       "processed_ids": [
         106848,
         106849,
@@ -10975,12 +10991,13 @@
         107736,
         107737,
         107738,
-        107739
+        107739,
+        107740
       ],
       "sent_count": 31
     },
     "hattric_official": {
-      "last_id": 84183,
+      "last_id": 84184,
       "processed_ids": [
         83433,
         83434,
@@ -11684,7 +11701,8 @@
         84180,
         84181,
         84182,
-        84183
+        84183,
+        84184
       ],
       "sent_count": 41
     },
@@ -12079,18 +12097,20 @@
       "sent_count": 0
     },
     "khooroosjangi": {
-      "last_id": 85730,
+      "last_id": 85732,
       "processed_ids": [
         85726,
         85727,
         85728,
         85729,
-        85730
+        85730,
+        85731,
+        85732
       ],
-      "sent_count": 1
+      "sent_count": 2
     },
     "irwonders": {
-      "last_id": 58257,
+      "last_id": 58258,
       "processed_ids": [
         58030,
         58031,
@@ -12292,12 +12312,13 @@
         58254,
         58255,
         58256,
-        58257
+        58257,
+        58258
       ],
       "sent_count": 127
     },
     "razcom": {
-      "last_id": 70469,
+      "last_id": 70473,
       "processed_ids": [
         70448,
         70449,
@@ -12315,9 +12336,13 @@
         70466,
         70467,
         70468,
-        70469
+        70469,
+        70470,
+        70471,
+        70472,
+        70473
       ],
-      "sent_count": 6
+      "sent_count": 7
     },
     "midanesti": {
       "last_id": 73240,
@@ -14276,7 +14301,7 @@
       "sent_count": 6
     },
     "peach_tweet": {
-      "last_id": 2814,
+      "last_id": 2817,
       "processed_ids": [
         2745,
         2749,
@@ -14315,178 +14340,16 @@
         2811,
         2812,
         2813,
-        2814
+        2814,
+        2815,
+        2816,
+        2817
       ],
-      "sent_count": 19
+      "sent_count": 20
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "bdd32af4fe870465af0d9d3889e6eeb7740012be23e166ee3815250b574afaa5",
-        "media_fingerprint": "0c827da2ef5d87bbdbf1a6064ec59496e96cf721212d0df81b0157a5fc781086",
-        "text": "🐇\nروش درست کردن اوریگامی خرگوش\nچند بار امتحان کنید قلقش رو یاد می‌گیرد ، بعد سعی کنید به بچه‌تون یاد بدید ، توی مدرسه با درست کردنش کلی اعتماد بنفس میگیره\n👌\n@Niazcom_ir",
-        "original_username": "niazcom_ir",
-        "original_text": "🐇\nروش درست کردن اوریگامی خرگوش\nچند بار امتحان کنید قلقش رو یاد می‌گیرد ، بعد سعی کنید به بچه‌تون یاد بدید ، توی مدرسه با درست کردنش کلی اعتماد بنفس میگیره\n👌\n@Niazcom_ir",
-        "original_link": "https://t.me/niazcom_ir/61596",
-        "post_id": 61596,
-        "message_id": 4688,
-        "message_kind": "caption",
-        "sources": [
-          "niazcom_ir"
-        ],
-        "created_at": "2026-09-30T16:30:57.901844+00:00"
-      },
-      {
-        "fingerprint": "ee7ac35ca7bcf8972a91e8ae540db0911219904bf38f6dbfd7b633a9ac1ebc30",
-        "media_fingerprint": "aaf3dc71e80efd36311bbfd5be8cda08b32229afff825e98fbf1a3191856bc98",
-        "text": "جکی چان زنده است\n🔻\nانتشار تصویری سیاه‌وسفید از جکی چان با عبارت «۱۹۵۴–۲۰۲۶»، شایعه درگذشت این بازیگر ۷۲ساله را در شبکه‌های اجتماعی داغ کرد؛ اما گزارش‌های رسانه‌ای این ادعا را جعلی دانسته‌اند.\n🔻\nجکی چان، بازیگر و رزمی‌کار مشهور هنگ‌کنگی، بار دیگر سوژه شایعه درگذشت شد؛ شایعه‌ای که با بازنشر تصویری شبیه آگهی ترحیم، نگرانی هوادارانش را به دنبال داشت.\n🔻\nبه گزارش گلف‌نیوز، ادعای مرگ این ستاره سینما فاقد شواهد معتبر است و او همچنان به فعالیت هنری خود ادامه می‌دهد\n@Gilin",
-        "original_username": "gilin_gilin",
-        "original_text": "جکی چان زنده است\n🔻\nانتشار تصویری سیاه‌وسفید از جکی چان با عبارت «۱۹۵۴–۲۰۲۶»، شایعه درگذشت این بازیگر ۷۲ساله را در شبکه‌های اجتماعی داغ کرد؛ اما گزارش‌های رسانه‌ای این ادعا را جعلی دانسته‌اند.\n🔻\nجکی چان، بازیگر و رزمی‌کار مشهور هنگ‌کنگی، بار دیگر سوژه شایعه درگذشت شد؛ شایعه‌ای که با بازنشر تصویری شبیه آگهی ترحیم، نگرانی هوادارانش را به دنبال داشت.\n🔻\nبه گزارش گلف‌نیوز، ادعای مرگ این ستاره سینما فاقد شواهد معتبر است و او همچنان به فعالیت هنری خود ادامه می‌دهد\n@Gilin",
-        "original_link": "https://t.me/Gilin_Gilin/284048",
-        "post_id": 284048,
-        "message_id": 4689,
-        "message_kind": "caption",
-        "sources": [
-          "gilin_gilin"
-        ],
-        "created_at": "2026-09-30T16:31:02.564872+00:00"
-      },
-      {
-        "fingerprint": "3e485e495d6d352e4b7e8c95769dd20239b14a1976b61904cd12d0c9df8b8ead",
-        "media_fingerprint": "",
-        "text": "‏بی‌انگیزگی مزمن مثل عضله‌ایه که بیش از حد تمرین کرد و دیگه توان انقباض نداره. بحث ضعف و قوت نیست، بحث خستگی برای ادامه دادنه. گاهی وقتا چیزی که برای ادامه حرکت لازم داریم نه تلاش بیشتر که یک دوره ریکاوری و استراحت «بدون» احساس گناهه.\n💬\nAli Sadoughi\nSilverfox\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "‏بی‌انگیزگی مزمن مثل عضله‌ایه که بیش از حد تمرین کرد و دیگه توان انقباض نداره. بحث ضعف و قوت نیست، بحث خستگی برای ادامه دادنه. گاهی وقتا چیزی که برای ادامه حرکت لازم داریم نه تلاش بیشتر که یک دوره ریکاوری و استراحت «بدون» احساس گناهه.\n💬\nAli Sadoughi\nSilverfox\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461246",
-        "post_id": 461246,
-        "message_id": 4690,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-30T16:31:05.553853+00:00"
-      },
-      {
-        "fingerprint": "6a5555225854165d7ca7b66e90c17b2bf3ab2a6342b068aaf52402d0c133206a",
-        "media_fingerprint": "",
-        "text": "*انفجار کنترل شده، فردا نهم مهر در شیراز*\n🔰\nاداره کل امنیتی و انتظامی استانداری فارس از عملیات انفجار در محدوده معدن بولوار امیرکبیر شیراز، فردا پنجشنبه ۹ مهرماه، ساعت حدود ۱۱ تا ۱۲ صبح، با رعایت کامل پروتکل‌های ایمنی و هماهنگی با نهاد‌های مسئول خبر داد.",
-        "original_username": "fars_today",
-        "original_text": "*انفجار کنترل شده، فردا نهم مهر در شیراز*\n🔰\nاداره کل امنیتی و انتظامی استانداری فارس از عملیات انفجار در محدوده معدن بولوار امیرکبیر شیراز، فردا پنجشنبه ۹ مهرماه، ساعت حدود ۱۱ تا ۱۲ صبح، با رعایت کامل پروتکل‌های ایمنی و هماهنگی با نهاد‌های مسئول خبر داد.",
-        "original_link": "https://t.me/Fars_today/132089",
-        "post_id": 132089,
-        "message_id": 4691,
-        "message_kind": "text",
-        "sources": [
-          "fars_today"
-        ],
-        "created_at": "2026-09-30T16:31:09.583350+00:00"
-      },
-      {
-        "fingerprint": "38488059cfb91b1a69ffbe09b6d55f6716d99c9c717a2ff37051ffa1f3eb5c3c",
-        "media_fingerprint": "79ee9ef269a2d3d7b8d19789994b95886d39e5b4bed1924ea212d734e82cee8d",
-        "text": "پاسخ همتی به وزیر خزانه داری آمریکا:\nجوجه رو آخر پاییز می‌شمارند!\n@Gilin",
-        "original_username": "gilin_gilin",
-        "original_text": "پاسخ همتی به وزیر خزانه داری آمریکا:\nجوجه رو آخر پاییز می‌شمارند!\n@Gilin",
-        "original_link": "https://t.me/Gilin_Gilin/284049",
-        "post_id": 284049,
-        "message_id": 4692,
-        "message_kind": "caption",
-        "sources": [
-          "gilin_gilin"
-        ],
-        "created_at": "2026-09-30T16:31:14.959179+00:00"
-      },
-      {
-        "fingerprint": "f0adab6589dab952581f31388400e4a42f2d2928fdaba97295aa6c04e10c6127",
-        "media_fingerprint": "87f39f9687249c6de81610b33f3a834dec8216390d7ea20135d9235f400cf9f6",
-        "text": "🆔\n@YeJoorayi",
-        "original_username": "yejoorayi",
-        "original_text": "🆔\n@YeJoorayi",
-        "original_link": "https://t.me/YeJoorayi/452",
-        "post_id": 452,
-        "message_id": 4693,
-        "message_kind": "caption",
-        "sources": [
-          "yejoorayi"
-        ],
-        "created_at": "2026-09-30T16:31:18.878232+00:00"
-      },
-      {
-        "fingerprint": "35a5cd02b0532d662bada4e2354d8d43f2be03d13ff9c711438a1a6b17bb1240",
-        "media_fingerprint": "341059dfad167c8b0e0b39751d26072290da6746f01480611e442d3621e80a1d",
-        "text": "🔴\nپسره خسته و کوفته از سرکار برگشته بود و حوصله کسی رو نداشت؛\nو اما شاهکاری که خانومی خلق کرد:\n+ توصیه میشه اگه سینگلی، از باز کردن این ویدئو خودداری کنی...\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nپسره خسته و کوفته از سرکار برگشته بود و حوصله کسی رو نداشت؛\nو اما شاهکاری که خانومی خلق کرد:\n+ توصیه میشه اگه سینگلی، از باز کردن این ویدئو خودداری کنی...\n@DrTeL",
-        "original_link": "https://t.me/drtel/67147",
-        "post_id": 67147,
-        "message_id": 4694,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-09-30T16:50:33.796763+00:00"
-      },
-      {
-        "fingerprint": "602f8c3fac63abd6a147a38961e27846eb67f022218332ee8a4be3fa22a61255",
-        "media_fingerprint": "",
-        "text": "نخست‌وزیر انگلیس ادعا کرده نشونه‌های قوی وجود داره که ایران پشت حمله تروریستی به پایگاه آمریکایی‌ ها تو انگلیس بوده\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": "نخست‌وزیر انگلیس ادعا کرده نشونه‌های قوی وجود داره که ایران پشت حمله تروریستی به پایگاه آمریکایی‌ ها تو انگلیس بوده\n@kafiha",
-        "original_link": "https://t.me/kafiha/461249",
-        "post_id": 461249,
-        "message_id": 4695,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-30T16:50:36.492369+00:00"
-      },
-      {
-        "fingerprint": "6364e6566e76ba8b6cb9c941522cd12eca75051e5230b06a015c9a0968f167fc",
-        "media_fingerprint": "9de498881931695b9ba667cf181a3375ace36c11bcce3abfe4015cd8b2db5557",
-        "text": "با کم‌تر از ۲ میلیون تومان، فردا گلستان رو بگرد!\n⏰\nمدت زمان:\n۲ روزه\n📅\nتاریخ برگزاری:\nاز ۹ مهر تا ۱۰ مهر\n🤔\nسختی:\n۱ از ۵\n🚙\nحمل و نقل:\nاتوبوس VIP\n🕕\nساعت حرکت:\nتهران / ساعت ۲۳:۰۰\n🍳\nغذا و پذیرایی:\n۲ صبحانه و ۲ وعده غذا در کل تور\n⭐️\nگشت‌ها و جاذبه‌های سفر:\nآبشار کبودوال\nچشمه گل رامیان\nبندر ترکمن\nدورنمای جزیره آشوراده\n✅\nخدمات تور:\nبیمه مسافرتی\nتور لیدر از مبدأ\nضمانت کیفیت\n۲ شب اقامت در هتل کانیار\n💳\nشروع قسط اول: ۱,۴۷۵,۰۰۰ تومان\nبدون نیاز به چک و ضامن و سفته\n👇🏻\nبرای مشاهده و رزرو، روی لینک زیر بزن!\n👇🏻\nhttps://snp.tips/cd0ex\nhttps://snp.tips/cd0ex\nhttps://snp.tips/cd0ex\n@tour_snapptrip",
-        "original_username": "ajayebe_jahann",
-        "original_text": "با کم‌تر از ۲ میلیون تومان، فردا گلستان رو بگرد!\n⏰\nمدت زمان:\n۲ روزه\n📅\nتاریخ برگزاری:\nاز ۹ مهر تا ۱۰ مهر\n🤔\nسختی:\n۱ از ۵\n🚙\nحمل و نقل:\nاتوبوس VIP\n🕕\nساعت حرکت:\nتهران / ساعت ۲۳:۰۰\n🍳\nغذا و پذیرایی:\n۲ صبحانه و ۲ وعده غذا در کل تور\n⭐️\nگشت‌ها و جاذبه‌های سفر:\nآبشار کبودوال\nچشمه گل رامیان\nبندر ترکمن\nدورنمای جزیره آشوراده\n✅\nخدمات تور:\nبیمه مسافرتی\nتور لیدر از مبدأ\nضمانت کیفیت\n۲ شب اقامت در هتل کانیار\n💳\nشروع قسط اول: ۱,۴۷۵,۰۰۰ تومان\nبدون نیاز به چک و ضامن و سفته\n👇🏻\nبرای مشاهده و رزرو، روی لینک زیر بزن!\n👇🏻\nhttps://snp.tips/cd0ex\nhttps://snp.tips/cd0ex\nhttps://snp.tips/cd0ex\n@tour_snapptrip",
-        "original_link": "https://t.me/Ajayebe_jahann/159388",
-        "post_id": 159388,
-        "message_id": 4696,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-09-30T16:50:44.044772+00:00"
-      },
-      {
-        "fingerprint": "15038a37871710abeaeb29bdb0628dc11be04fb3416ae2ba4ea9ec7cdaea83a6",
-        "media_fingerprint": "320a86793908f2c13ad096e746d4820f5f1db8b0b0cd5f701a9f46385c4dd390",
-        "text": "علی شادمان، رضا بهبودی و محمد علی‌محمدی در\n#سرخ_و_سیاه\n🎬\nسریال «سرخ و سیاه» به کارگردانی آیدا پناهنده و با نویسندگی ارسلان امیری و آیدا پناهنده، به‌زودی و به‌صورت اختصاصی در\n#فیلیمو\nمنتشر خواهد شد.\nتهیه‌کنندگان: محمد یمینی و محسن خباز\nموسیقی: رامین کوشا\nطراح لوگو: سمیرا امیری\n@BajeFilm",
-        "original_username": "bajefilm",
-        "original_text": "علی شادمان، رضا بهبودی و محمد علی‌محمدی در\n#سرخ_و_سیاه\n🎬\nسریال «سرخ و سیاه» به کارگردانی آیدا پناهنده و با نویسندگی ارسلان امیری و آیدا پناهنده، به‌زودی و به‌صورت اختصاصی در\n#فیلیمو\nمنتشر خواهد شد.\nتهیه‌کنندگان: محمد یمینی و محسن خباز\nموسیقی: رامین کوشا\nطراح لوگو: سمیرا امیری\n@BajeFilm",
-        "original_link": "https://t.me/bajefilm/11572",
-        "post_id": 11572,
-        "message_id": 4697,
-        "message_kind": "caption",
-        "sources": [
-          "bajefilm"
-        ],
-        "created_at": "2026-09-30T16:50:50.543434+00:00"
-      },
-      {
-        "fingerprint": "68f525df4db41810287fe585b2020389ec3019c7bd0c6e613d2c4e279076fff9",
-        "media_fingerprint": "",
-        "text": "🎖️\n#اختصاصی_توتال\n🏅\nشرکت مدرسه هوشمند پرسپولیس که بخش رسانه‌ای و مدارس فوتبال باشگاه پرسپولیس در اختیار آن بود قرار است به زودی تغییر مدیریت داده و احد میرزایی جانشین علی اینانلو در مدیریت آن شود.\n❌\nمقرر شده که مدیریت تمامی رشته‌های ورزشی غیر فوتبال،اعم از فوتسال ،والیبال و باقی رشته‌ها نیز زیر مجموعه این شرکت قرار بگیرد.\n‼️\nعلی اینانلو نیز قصد دارد یک شرکت جدید تاسیس کند تا بخش رسانه‌ای باشگاه پرسپولیس زیر مجموعه آن قرار بگیرد.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_username": "total_fut",
-        "original_text": "🎖️\n#اختصاصی_توتال\n🏅\nشرکت مدرسه هوشمند پرسپولیس که بخش رسانه‌ای و مدارس فوتبال باشگاه پرسپولیس در اختیار آن بود قرار است به زودی تغییر مدیریت داده و احد میرزایی جانشین علی اینانلو در مدیریت آن شود.\n❌\nمقرر شده که مدیریت تمامی رشته‌های ورزشی غیر فوتبال،اعم از فوتسال ،والیبال و باقی رشته‌ها نیز زیر مجموعه این شرکت قرار بگیرد.\n‼️\nعلی اینانلو نیز قصد دارد یک شرکت جدید تاسیس کند تا بخش رسانه‌ای باشگاه پرسپولیس زیر مجموعه آن قرار بگیرد.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_link": "https://t.me/total_fut/237055",
-        "post_id": 237055,
-        "message_id": 4698,
-        "message_kind": "text",
-        "sources": [
-          "total_fut"
-        ],
-        "created_at": "2026-09-30T16:50:54.013666+00:00"
-      },
       {
         "fingerprint": "bae805b4d2642b30d99cb6951a5487a67d48907ae82381fd473ce6d2bf6adaf0",
         "media_fingerprint": "e7a91bac121215aab221f19aec342c1192ef064224d496c126a5ad2dfc5f5c4b",
@@ -19294,7 +19157,8 @@
         "sources": [
           "gizmiztel",
           "gilin_gilin",
-          "midanesti"
+          "midanesti",
+          "razcom"
         ],
         "created_at": "2026-10-01T13:51:01.186156+00:00"
       },
@@ -21487,7 +21351,8 @@
         "message_kind": "caption",
         "sources": [
           "kafiha",
-          "gizmiztel"
+          "gizmiztel",
+          "razcom"
         ],
         "created_at": "2026-10-01T19:18:33.491477+00:00"
       },
@@ -25391,7 +25256,8 @@
         "message_kind": "caption",
         "sources": [
           "gizmiztel",
-          "niazcom_ir"
+          "niazcom_ir",
+          "razcom"
         ],
         "created_at": "2026-10-02T13:48:40.279486+00:00"
       },
@@ -29449,6 +29315,171 @@
           "ajayebe_jahann"
         ],
         "created_at": "2026-10-03T09:08:25.710398+00:00"
+      },
+      {
+        "fingerprint": "3b20590b9579c55dbb27e0381458d863021ef1248ad5ed643dfdb4cafb8f77d9",
+        "media_fingerprint": "d988fa4e7ffdc70cec9c013213a7512cf7cccb050cab62853ede8426b04c5f41",
+        "text": "👨‍🎓\nانتخاب رشته کنکور سراسری از دوشنبه ۱۳ مهر آغاز و تا روز پنجشنبه ۱۶ مهر ادامه خواهد داشت\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "👨‍🎓\nانتخاب رشته کنکور سراسری از دوشنبه ۱۳ مهر آغاز و تا روز پنجشنبه ۱۶ مهر ادامه خواهد داشت\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/22885",
+        "post_id": 22885,
+        "message_id": 5749,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-03T09:29:38.505425+00:00"
+      },
+      {
+        "fingerprint": "7dac13700d94ad0ede18faf182b2905752ac15c030031865de0e0818eb8cda76",
+        "media_fingerprint": "6ed9dcf7557397c7acd594473cbc504ebe80e6d1269815787abc0dd11c0654d4",
+        "text": "در ستایش سان کیس>>>>>\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "در ستایش سان کیس>>>>>\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/2817",
+        "post_id": 2817,
+        "message_id": 5750,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-03T09:29:44.364945+00:00"
+      },
+      {
+        "fingerprint": "31c2b411af8fe5449e44ab59e3f048f1a4021d619c02508b9a307a7af63e149f",
+        "media_fingerprint": "",
+        "text": "🌐\nنتایج اولیه کنکور فردا اعلام می‌شود\n🔵\nنتایج اولیه آزمون سراسری سال ۱۴۰۵ فردا از طریق سازمان سنجش آموزش کشور اعلام می‌شود و نتایج نهایی این آزمون نیز اواسط آبان ماه اعلام خواهد شد.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🌐\nنتایج اولیه کنکور فردا اعلام می‌شود\n🔵\nنتایج اولیه آزمون سراسری سال ۱۴۰۵ فردا از طریق سازمان سنجش آموزش کشور اعلام می‌شود و نتایج نهایی این آزمون نیز اواسط آبان ماه اعلام خواهد شد.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/22886",
+        "post_id": 22886,
+        "message_id": 5752,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-03T09:29:47.285534+00:00"
+      },
+      {
+        "fingerprint": "be0f5a62c619fd6dbf614e0bc7658f5cfae0c74197a1b8ab4c3b57f02993085b",
+        "media_fingerprint": "",
+        "text": "👨‍🎓\nرئیس سازمان سنجش: نتایج کارشناسی ارشد اواخر مهر اعلام می شود\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "👨‍🎓\nرئیس سازمان سنجش: نتایج کارشناسی ارشد اواخر مهر اعلام می شود\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/22887",
+        "post_id": 22887,
+        "message_id": 5753,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-03T09:29:49.748438+00:00"
+      },
+      {
+        "fingerprint": "42a407346921bdcda4ebce2d792003d24a5c14634ea3a71da004acf115fc262f",
+        "media_fingerprint": "",
+        "text": "♦️\nسخنگوی کمیسیون انرژی: تمامی کارت‌های سوخت تا پایان سال به کارت بانکی متصل می‌شود\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nسخنگوی کمیسیون انرژی: تمامی کارت‌های سوخت تا پایان سال به کارت بانکی متصل می‌شود\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142928",
+        "post_id": 142928,
+        "message_id": 5754,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-03T09:29:52.583457+00:00"
+      },
+      {
+        "fingerprint": "ed55c56616b1463655f51a18cb793c08c6134cae501283b8112e10bc4e3b7461",
+        "media_fingerprint": "",
+        "text": "👨‍🎓\nرئیس سازمان سنجش: غائبین آزمون‌های سراسری و تربیت معلم می‌توانند در انتخاب رشته براساس سوابق تحصیلی شرکت کنند\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "👨‍🎓\nرئیس سازمان سنجش: غائبین آزمون‌های سراسری و تربیت معلم می‌توانند در انتخاب رشته براساس سوابق تحصیلی شرکت کنند\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/22888",
+        "post_id": 22888,
+        "message_id": 5755,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-03T09:29:55.325567+00:00"
+      },
+      {
+        "fingerprint": "70d3dbac6f88c94efeb999523869ac8f3bcefdf79f7ee1b73a745e41f0e2983b",
+        "media_fingerprint": "b07e8931fda9abfa1e96484c6b62966d7a43d6f62cba191ad91e937a19bfff8f",
+        "text": "👨‍🎓\nرئیس سازمان سنجش: امیدواریم نتایج نهایی کنکور سراسری در نیمه دوم آبان ماه اعلام شود/ مصاحبه و گزینش رشته‌های بورسیه و چند برابر ظرفیت و همچنین دانشجو معلم‌ها در آخر مهرماه منتشر خواهد شد\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "👨‍🎓\nرئیس سازمان سنجش: امیدواریم نتایج نهایی کنکور سراسری در نیمه دوم آبان ماه اعلام شود/ مصاحبه و گزینش رشته‌های بورسیه و چند برابر ظرفیت و همچنین دانشجو معلم‌ها در آخر مهرماه منتشر خواهد شد\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/22889",
+        "post_id": 22889,
+        "message_id": 5756,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-03T09:30:02.187289+00:00"
+      },
+      {
+        "fingerprint": "3f837fd55daf7adbcd44fc4939d18c9afea141d636b574a35c255eb2b0f8b944",
+        "media_fingerprint": "75fef11e8b3619f4a7e57b188bea66845659290a7affc3ab25555da40a9e40a5",
+        "text": "♦️\nروایت دردناک پدر شهید الهام زارعی از دختری که فقط می‌خواست نقاشی کند و والیبال بازی کند\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nروایت دردناک پدر شهید الهام زارعی از دختری که فقط می‌خواست نقاشی کند و والیبال بازی کند\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142929",
+        "post_id": 142929,
+        "message_id": 5757,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-03T09:30:08.226221+00:00"
+      },
+      {
+        "fingerprint": "b7b406aa0b25bd2bee641be69068f5994c5d3a695bde0fe4e2666a837bfa8c04",
+        "media_fingerprint": "d1204b57aef065821cd6e72cb37a829d31ffdcf686b403a909dda612d91c5a9f",
+        "text": "برای اولین بار در ایران، تورهای کمپ هتلی رو ۴ قسطه رزرو کن!\n😎\n⛺️\nچند روز اقامت وسط طبیعت، با امکانات یه هتل\nتجربه‌ای متفاوت از کمپینگ که حالا می‌تونی با جاباما تور قسطی رزروش کنی.\n🌲\n❌\nظرفیت محدود\nبرای اطلاعات بیشتر و دریافت مشاوره ‌با شماره زیر تماس بگیر\n👇\n021-49275111",
+        "original_username": "razcom",
+        "original_text": "برای اولین بار در ایران، تورهای کمپ هتلی رو ۴ قسطه رزرو کن!\n😎\n⛺️\nچند روز اقامت وسط طبیعت، با امکانات یه هتل\nتجربه‌ای متفاوت از کمپینگ که حالا می‌تونی با جاباما تور قسطی رزروش کنی.\n🌲\n❌\nظرفیت محدود\nبرای اطلاعات بیشتر و دریافت مشاوره ‌با شماره زیر تماس بگیر\n👇\n021-49275111",
+        "original_link": "https://t.me/Razcom/70472",
+        "post_id": 70472,
+        "message_id": 5758,
+        "message_kind": "caption",
+        "sources": [
+          "razcom"
+        ],
+        "created_at": "2026-10-03T09:30:14.235898+00:00"
+      },
+      {
+        "fingerprint": "8951a3c9530072b4105193557d16fb84b247325746a9d7df35ae7ad9950b9ff1",
+        "media_fingerprint": "f32077d04775f1e0254afe4464a698a85740be636b9bdb6e6278823ad9274922",
+        "text": "امیرعلی راوندی رتبه ۶ تجربی موقع اعلام نتایج:\nchannel➣\n🐓\n@khooroosjangi",
+        "original_username": "khooroosjangi",
+        "original_text": "امیرعلی راوندی رتبه ۶ تجربی موقع اعلام نتایج:\nchannel➣\n🐓\n@khooroosjangi",
+        "original_link": "https://t.me/khooroosjangi/85732",
+        "post_id": 85732,
+        "message_id": 5759,
+        "message_kind": "caption",
+        "sources": [
+          "khooroosjangi"
+        ],
+        "created_at": "2026-10-03T09:30:41.322751+00:00"
+      },
+      {
+        "fingerprint": "5319eb8a4494a93d49a30d1d8f207ce5891c71de303dd4f3d8c66f90087e8f3e",
+        "media_fingerprint": "f499a20916a6d95503809eba8577ac6ddd38477489cb107714a6291a9091f277",
+        "text": "♦️\nاسامی نفرات برتر آزمون سراسری سال ۱۴۰۵\n🔹\nیک شیرازی در بین نفرات برتر کنکور تجربی\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nاسامی نفرات برتر آزمون سراسری سال ۱۴۰۵\n🔹\nیک شیرازی در بین نفرات برتر کنکور تجربی\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142930",
+        "post_id": 142930,
+        "message_id": 5760,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-03T09:30:46.836965+00:00"
       }
     ]
   }
