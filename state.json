@@ -1,7 +1,7 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 142936,
+      "last_id": 142940,
       "processed_ids": [
         141903,
         141904,
@@ -974,12 +974,16 @@
         142933,
         142934,
         142935,
-        142936
+        142936,
+        142937,
+        142938,
+        142939,
+        142940
       ],
-      "sent_count": 594
+      "sent_count": 597
     },
     "total_fut": {
-      "last_id": 237163,
+      "last_id": 237165,
       "processed_ids": [
         236405,
         236407,
@@ -1708,33 +1712,15 @@
         237160,
         237161,
         237162,
-        237163
+        237163,
+        237164,
+        237165
       ],
       "sent_count": 50
     },
     "footballvision2": {
-      "last_id": 170179,
+      "last_id": 170204,
       "processed_ids": [
-        169147,
-        169148,
-        169149,
-        169150,
-        169151,
-        169152,
-        169153,
-        169154,
-        169155,
-        169156,
-        169157,
-        169158,
-        169159,
-        169160,
-        169161,
-        169162,
-        169163,
-        169164,
-        169165,
-        169166,
         169167,
         169168,
         169169,
@@ -2714,7 +2700,27 @@
         170176,
         170177,
         170178,
-        170179
+        170179,
+        170185,
+        170186,
+        170187,
+        170188,
+        170189,
+        170190,
+        170191,
+        170192,
+        170193,
+        170194,
+        170195,
+        170196,
+        170197,
+        170198,
+        170199,
+        170200,
+        170201,
+        170202,
+        170203,
+        170204
       ],
       "sent_count": 65
     },
@@ -2740,7 +2746,7 @@
       "sent_count": 4
     },
     "fars_today": {
-      "last_id": 132113,
+      "last_id": 132114,
       "processed_ids": [
         131975,
         131976,
@@ -2877,9 +2883,10 @@
         132109,
         132110,
         132112,
-        132113
+        132113,
+        132114
       ],
-      "sent_count": 82
+      "sent_count": 83
     },
     "behzistikomitenews": {
       "last_id": 13954,
@@ -2904,7 +2911,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67264,
+      "last_id": 67267,
       "processed_ids": [
         66561,
         66565,
@@ -3467,7 +3474,8 @@
         67261,
         67262,
         67263,
-        67264
+        67264,
+        67267
       ],
       "sent_count": 332
     },
@@ -4185,7 +4193,7 @@
       "sent_count": 89
     },
     "akhbar_cafenet": {
-      "last_id": 22896,
+      "last_id": 22898,
       "processed_ids": [
         22432,
         22433,
@@ -4640,9 +4648,11 @@
         22893,
         22894,
         22895,
-        22896
+        22896,
+        22897,
+        22898
       ],
-      "sent_count": 272
+      "sent_count": 274
     },
     "comentiat": {
       "last_id": 26252,
@@ -7025,7 +7035,7 @@
       "sent_count": 42
     },
     "ft360_ir": {
-      "last_id": 108891,
+      "last_id": 108893,
       "processed_ids": [
         107883,
         107884,
@@ -7994,12 +8004,13 @@
         108888,
         108889,
         108890,
-        108891
+        108891,
+        108893
       ],
       "sent_count": 54
     },
     "varzesh3": {
-      "last_id": 303284,
+      "last_id": 303285,
       "processed_ids": [
         302363,
         302364,
@@ -8832,7 +8843,8 @@
         303281,
         303282,
         303283,
-        303284
+        303284,
+        303285
       ],
       "sent_count": 36
     },
@@ -10137,7 +10149,7 @@
       "sent_count": 83
     },
     "futball180tv": {
-      "last_id": 107742,
+      "last_id": 107744,
       "processed_ids": [
         106848,
         106849,
@@ -11019,12 +11031,14 @@
         107739,
         107740,
         107741,
-        107742
+        107742,
+        107743,
+        107744
       ],
       "sent_count": 31
     },
     "hattric_official": {
-      "last_id": 84185,
+      "last_id": 84186,
       "processed_ids": [
         83433,
         83434,
@@ -11730,12 +11744,13 @@
         84182,
         84183,
         84184,
-        84185
+        84185,
+        84186
       ],
       "sent_count": 41
     },
     "mazdak_hattrick": {
-      "last_id": 182309,
+      "last_id": 182310,
       "processed_ids": [
         181991,
         181992,
@@ -12050,7 +12065,8 @@
         182306,
         182307,
         182308,
-        182309
+        182309,
+        182310
       ],
       "sent_count": 24
     },
@@ -12138,7 +12154,7 @@
       "sent_count": 2
     },
     "irwonders": {
-      "last_id": 58259,
+      "last_id": 58261,
       "processed_ids": [
         58030,
         58031,
@@ -12342,9 +12358,11 @@
         58256,
         58257,
         58258,
-        58259
+        58259,
+        58260,
+        58261
       ],
-      "sent_count": 128
+      "sent_count": 130
     },
     "razcom": {
       "last_id": 70473,
@@ -13869,7 +13887,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306720,
+      "last_id": 306723,
       "processed_ids": [
         306563,
         306564,
@@ -14026,9 +14044,12 @@
         306717,
         306718,
         306719,
-        306720
+        306720,
+        306721,
+        306722,
+        306723
       ],
-      "sent_count": 61
+      "sent_count": 62
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -14333,7 +14354,7 @@
       "sent_count": 7
     },
     "peach_tweet": {
-      "last_id": 2817,
+      "last_id": 2819,
       "processed_ids": [
         2745,
         2749,
@@ -14375,164 +14396,14 @@
         2814,
         2815,
         2816,
-        2817
+        2817,
+        2819
       ],
-      "sent_count": 20
+      "sent_count": 21
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "5bc09e91979a979e335e2fa98f3610fd2ca432c182d57286573a39a3588dd2d0",
-        "media_fingerprint": "305f32c2d766ee6656f3c683a144939f5ee37ec1aa70c7ca894243926317b091",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26199",
-        "post_id": 26199,
-        "message_id": 4714,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-09-30T17:28:45.756683+00:00"
-      },
-      {
-        "fingerprint": "9ec640f24ec27510258cc7a4a62d22d3f3ff593aac522fc8a7159c463a672154",
-        "media_fingerprint": "b51a532c8a8be80a76fc1c17270e63eefd60aba66cc4ae02b9a3198e8a5e563b",
-        "text": "کاش یکی هوش مصنوعی رو از ایرانی ها بگیره\n😂\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "کاش یکی هوش مصنوعی رو از ایرانی ها بگیره\n😂\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162572",
-        "post_id": 162572,
-        "message_id": 4715,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-09-30T17:28:51.133786+00:00"
-      },
-      {
-        "fingerprint": "090fe231e474d0c5b58001087896b330416569b40c5788cca8adf733b8069dca",
-        "media_fingerprint": "8942409b9493c98d1af65610c8f39869865ea79340d0af7281bc6634e344cc66",
-        "text": "🔴\nپیروز حناچی، شهردار سابق تهران:\nرایگان کردن مترو تهران کار درستی نیست!/قیمت واقعی بلیت مترو ۱۲۰ هزار تومان است.\n@Gilin",
-        "original_username": "gilin_gilin",
-        "original_text": "🔴\nپیروز حناچی، شهردار سابق تهران:\nرایگان کردن مترو تهران کار درستی نیست!/قیمت واقعی بلیت مترو ۱۲۰ هزار تومان است.\n@Gilin",
-        "original_link": "https://t.me/Gilin_Gilin/284059",
-        "post_id": 284059,
-        "message_id": 4716,
-        "message_kind": "caption",
-        "sources": [
-          "gilin_gilin"
-        ],
-        "created_at": "2026-09-30T17:28:56.837450+00:00"
-      },
-      {
-        "fingerprint": "882aac1bd4ce1b7412a83e538079898a81e06b1f467def15a50ba84c81c15da1",
-        "media_fingerprint": "",
-        "text": "‏بعضی وقت‌ها مشکل این نیست که امروز بده. مشکل اینه که آدم هیچ تصویر قشنگی از فردا توی سرش پیدا نمی‌کنه. و تحمل زندگی وقتی سخت می‌شه که چیزی جلوتر منتظرت نباشه که دلت بخواد بهش برسی\n💬\nhanieh35\nSilverfox\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "‏بعضی وقت‌ها مشکل این نیست که امروز بده. مشکل اینه که آدم هیچ تصویر قشنگی از فردا توی سرش پیدا نمی‌کنه. و تحمل زندگی وقتی سخت می‌شه که چیزی جلوتر منتظرت نباشه که دلت بخواد بهش برسی\n💬\nhanieh35\nSilverfox\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461255",
-        "post_id": 461255,
-        "message_id": 4717,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-30T17:28:59.688428+00:00"
-      },
-      {
-        "fingerprint": "032c6c2b621efa9b91e632c084011089b2807d9ec5066d215889c546e8dca386",
-        "media_fingerprint": "",
-        "text": "♦️\nسازمان هدفمندسازی یارانه‌ها: حساب کشاورزان شارژ شد\n🔹\nاین مرحله از پرداخت‌ها شامل کشاورزانی است که گندم خود را تا ۶ مهرماه به مراکز خرید تضمینی تحویل داده‌اند.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nسازمان هدفمندسازی یارانه‌ها: حساب کشاورزان شارژ شد\n🔹\nاین مرحله از پرداخت‌ها شامل کشاورزانی است که گندم خود را تا ۶ مهرماه به مراکز خرید تضمینی تحویل داده‌اند.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142776",
-        "post_id": 142776,
-        "message_id": 4718,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-09-30T17:29:02.441972+00:00"
-      },
-      {
-        "fingerprint": "18be1caf7c49269ad4c3a1812c1550831274c0b39edcb4b4b9315086e90cbc85",
-        "media_fingerprint": "6188db6f48227d6e6ed10618bd8e3045a024837c9cd963b40ae47a2a7e6cbc40",
-        "text": "بعد بیاید بگید چرا\nاینقدر چایی می‌خوری:\n@Gilin",
-        "original_username": "gilin_gilin",
-        "original_text": "بعد بیاید بگید چرا\nاینقدر چایی می‌خوری:\n@Gilin",
-        "original_link": "https://t.me/Gilin_Gilin/284060",
-        "post_id": 284060,
-        "message_id": 4719,
-        "message_kind": "caption",
-        "sources": [
-          "gilin_gilin"
-        ],
-        "created_at": "2026-09-30T17:29:06.349831+00:00"
-      },
-      {
-        "fingerprint": "2fcb79c20645eb991aa4a5248b42a5c25d385d1cd0947ee9cdacbe5f79ff341e",
-        "media_fingerprint": "",
-        "text": "‏منم دوست دارم تو یه رابطه متعهد باشم ولی این نسل کلا دلش یا برای اکسش تنگ شده،یا بهت خیانت میکنه،یا فعلا آماده رابطه نیست،یا بازیت میده سرگرم شه.\n💬\nAmirhalvaeipour\nSilverfox\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "‏منم دوست دارم تو یه رابطه متعهد باشم ولی این نسل کلا دلش یا برای اکسش تنگ شده،یا بهت خیانت میکنه،یا فعلا آماده رابطه نیست،یا بازیت میده سرگرم شه.\n💬\nAmirhalvaeipour\nSilverfox\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461256",
-        "post_id": 461256,
-        "message_id": 4720,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-30T17:29:09.760728+00:00"
-      },
-      {
-        "fingerprint": "afc9b52e995d82d3ea8c6d02d949f3869264e1c3a56a8dc7e85a5ee5a17993a4",
-        "media_fingerprint": "202642850db27ff21acb460646b8aa7190171118bb18d619aae5fefc7835d26f",
-        "text": "شهر نیویورک شب گذشته شاهد یک غروب خورشید باورنکردنی بود؛ آسمان در سراسر خط افق شهر به سایه‌های عمیق قرمز، نارنجی و صورتی منفجر شد.\n😍\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "شهر نیویورک شب گذشته شاهد یک غروب خورشید باورنکردنی بود؛ آسمان در سراسر خط افق شهر به سایه‌های عمیق قرمز، نارنجی و صورتی منفجر شد.\n😍\n@irWonders",
-        "original_link": "https://t.me/irwonders/58167",
-        "post_id": 58167,
-        "message_id": 4721,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders",
-          "kafiha"
-        ],
-        "created_at": "2026-09-30T17:47:49.928625+00:00"
-      },
-      {
-        "fingerprint": "4782046bcec6427ebf3d484b0a9e5f039eac86cd67293c43cb8177c92941dee0",
-        "media_fingerprint": "36f4d1b27f58fefbe4acf66f71912766d9790e1994f1788e228a08c719919811",
-        "text": "من وقتی دو ورق درس میخونم\nLidia\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": "من وقتی دو ورق درس میخونم\nLidia\n@kafiha",
-        "original_link": "https://t.me/kafiha/461257",
-        "post_id": 461257,
-        "message_id": 4727,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-09-30T17:47:53.655077+00:00"
-      },
-      {
-        "fingerprint": "dfb6df12dba167ec2d23cb7d8c0c0af77db59e28f66af0e51594f40ac37ef5d5",
-        "media_fingerprint": "2124b0fb8195fa692aa275dab9b41b8620a08f72443734a5265971051fe7019d",
-        "text": "من وقتی دو صفحه درس میخونم:\n@Gilin",
-        "original_username": "gilin_gilin",
-        "original_text": "من وقتی دو صفحه درس میخونم:\n@Gilin",
-        "original_link": "https://t.me/Gilin_Gilin/284062",
-        "post_id": 284062,
-        "message_id": 4728,
-        "message_kind": "caption",
-        "sources": [
-          "gilin_gilin"
-        ],
-        "created_at": "2026-09-30T17:47:58.137552+00:00"
-      },
       {
         "fingerprint": "c9711e4870f1a806b09d9477585e688734cf9d26991b2d297b010890e8f49039",
         "media_fingerprint": "d0736b927bc756b20de91e8edf50faee545097491cee8be0a6504324c8e42da3",
@@ -29511,6 +29382,156 @@
           "akhbarfars"
         ],
         "created_at": "2026-10-03T10:01:14.035673+00:00"
+      },
+      {
+        "fingerprint": "3a9f3a3f983c39f3b17bd5091873d52e3327f605e4fc08587f1c8c5b0bb78ac8",
+        "media_fingerprint": "4b1c74efe83ffcbe1b897bf88755af8287c2ea72c54d238968a99d13950e2b0a",
+        "text": "♦️\nبارش باران امروز ‌۱۱مهر ۱۴۰۵ سیمکان/ جهرم\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nبارش باران امروز ‌۱۱مهر ۱۴۰۵ سیمکان/ جهرم\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142937",
+        "post_id": 142937,
+        "message_id": 5777,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-03T10:25:26.668018+00:00"
+      },
+      {
+        "fingerprint": "d5daa95e8c12d4307ffd581d6db14cbec23308f598854f4499f4668adb687346",
+        "media_fingerprint": "",
+        "text": "♦️\nمسیرهای پروازی بین‌المللی برقرار با ایران و شرایط ویزا، پروازها از لحاظ تعداد و مقصد محدودتر شده اند، در این لحظه هنوز پرواز میان ایران و‌ عراق برقرار نیست. پروازهای میان و امارات هم وضعیت نامشخصی دارد\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nمسیرهای پروازی بین‌المللی برقرار با ایران و شرایط ویزا، پروازها از لحاظ تعداد و مقصد محدودتر شده اند، در این لحظه هنوز پرواز میان ایران و‌ عراق برقرار نیست. پروازهای میان و امارات هم وضعیت نامشخصی دارد\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142938",
+        "post_id": 142938,
+        "message_id": 5778,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-03T10:25:29.821706+00:00"
+      },
+      {
+        "fingerprint": "d11766008c887a60fa4e80e9d532d0fcb0107c58350d4cffa63b49b48efaf19c",
+        "media_fingerprint": "d07e4cf6dcb355ba45aa81ef8b551ec0e8cca2060aa4bd63e7ec35b24ef64a62",
+        "text": "جوک های باباها وسط مهمونی\n😂\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "جوک های باباها وسط مهمونی\n😂\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306723",
+        "post_id": 306723,
+        "message_id": 5779,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-03T10:25:37.022915+00:00"
+      },
+      {
+        "fingerprint": "4478400c43877aafce96db26ebc6d3d6700ff78689b1f2a754c17e2bd27224db",
+        "media_fingerprint": "aadfc3a1c581bb690bf12d9c3196c3baff909675bb3487cd4b60979cf60e3615",
+        "text": "حادثه برای کمپرسی در کازرون؛ ترمز خودرو از کار افتاد",
+        "original_username": "fars_today",
+        "original_text": "حادثه برای کمپرسی در کازرون؛ ترمز خودرو از کار افتاد",
+        "original_link": "https://t.me/Fars_today/132114",
+        "post_id": 132114,
+        "message_id": 5780,
+        "message_kind": "caption",
+        "sources": [
+          "fars_today"
+        ],
+        "created_at": "2026-10-03T10:25:43.822291+00:00"
+      },
+      {
+        "fingerprint": "ce0a1576b502d0de9967d5ac729188d9ca3c1ebbd1bc7c307926cc6f00a48f35",
+        "media_fingerprint": "796d47c580eb3d3b5194c684f800399e3bbe7defe921d54c94d35263fe8a901a",
+        "text": "ژله هم اینقدر نرم نیس که بانو نرمه\n🤤\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "ژله هم اینقدر نرم نیس که بانو نرمه\n🤤\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/2819",
+        "post_id": 2819,
+        "message_id": 5781,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-03T10:25:50.280537+00:00"
+      },
+      {
+        "fingerprint": "8852d544e5e6f26c4b9555911e795ae98b133d6bbe1b15ab7be5a1b6be648067",
+        "media_fingerprint": "",
+        "text": "بانک رفاه.pdf",
+        "original_username": "akhbar_cafenet",
+        "original_text": "بانک رفاه.pdf",
+        "original_link": "https://t.me/akhbar_cafenet/22897",
+        "post_id": 22897,
+        "message_id": 5782,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-03T10:25:52.991867+00:00"
+      },
+      {
+        "fingerprint": "323b3c3cc41a4e99286ff6f21d65e3f139783781ae6e27000ea80ffa47fd7a5c",
+        "media_fingerprint": "21d523679fc718755c75b6c76ca710d9a626742c1c42f5ad878facd295451f22",
+        "text": "همه آنچه که باید درباره «کرسنت۲» بدانیم\nنمایندگان مجلس شورای اسلامی طی روزهای اخیر با طرح سوال از وزیر نفت خواستار پاسخگویی وی درباره عملکرد مدیریت شرکت نیکو در لغو قراردادهای فروش نفت شده‌اند.\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "همه آنچه که باید درباره «کرسنت۲» بدانیم\nنمایندگان مجلس شورای اسلامی طی روزهای اخیر با طرح سوال از وزیر نفت خواستار پاسخگویی وی درباره عملکرد مدیریت شرکت نیکو در لغو قراردادهای فروش نفت شده‌اند.\n@irWonders",
+        "original_link": "https://t.me/irwonders/58260",
+        "post_id": 58260,
+        "message_id": 5783,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-03T10:26:00.691208+00:00"
+      },
+      {
+        "fingerprint": "00ded82b20f6df6f7a150fedc9b69ce5c2bfc8f8f82daeffac83188771abfb23",
+        "media_fingerprint": "2890cae945e6ebdcba761160c10d62d2826e4a7a54810ea37cc914507f2321f4",
+        "text": "یه کم خاطره بازی کنیم با Nokia 6600\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "یه کم خاطره بازی کنیم با Nokia 6600\n@irWonders",
+        "original_link": "https://t.me/irwonders/58261",
+        "post_id": 58261,
+        "message_id": 5784,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-03T10:26:07.626112+00:00"
+      },
+      {
+        "fingerprint": "3cb64476e104e871df80ccf9894df2a3997df74bba87268e152ba54233cbb0ea",
+        "media_fingerprint": "",
+        "text": "🌍\nگوگل‌ارث ایرانی با «ایران‌زمین» متولد شد\n🔵\nسرپرست پژوهشگاه فضایی ایران: به همت متخصصان پژوهشگاه فضایی ایران، سامانه «ایران‌زمین» توسعه و طراحی شده است؛ سامانه‌ای که می‌توان آن را «گوگل‌ارث ایرانی» دانست و جای آن در کشور خالی بود.\n🟠\nدر بسیاری از مواقع دسترسی به گوگل‌ارث با محدودیت مواجه می‌شد و توسعه یک سامانه بومی در این حوزه از جمله تغییرات مهمی است که در پژوهشگاه فضایی ایران شکل گرفته است.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🌍\nگوگل‌ارث ایرانی با «ایران‌زمین» متولد شد\n🔵\nسرپرست پژوهشگاه فضایی ایران: به همت متخصصان پژوهشگاه فضایی ایران، سامانه «ایران‌زمین» توسعه و طراحی شده است؛ سامانه‌ای که می‌توان آن را «گوگل‌ارث ایرانی» دانست و جای آن در کشور خالی بود.\n🟠\nدر بسیاری از مواقع دسترسی به گوگل‌ارث با محدودیت مواجه می‌شد و توسعه یک سامانه بومی در این حوزه از جمله تغییرات مهمی است که در پژوهشگاه فضایی ایران شکل گرفته است.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/22898",
+        "post_id": 22898,
+        "message_id": 5785,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-03T10:26:10.756411+00:00"
+      },
+      {
+        "fingerprint": "8254931a128caa6638f7993b5dec1a80ed6743b3cf1e864b9d223b614aa44741",
+        "media_fingerprint": "",
+        "text": "♦️\nپسرها صدرنشین رتبه‌های برتر کنکور ۱۴۰۵ شدند\n🔹\nبررسی اسامی ۴۰ رتبه برتر کنکور ۱۴۰۵ نشان می‌دهد پسرها با ۲۳ رتبه، سهم بیشتری از رتبه‌های برتر دارند و تهران نیز ۲۱ نماینده در این جمع دارد.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nپسرها صدرنشین رتبه‌های برتر کنکور ۱۴۰۵ شدند\n🔹\nبررسی اسامی ۴۰ رتبه برتر کنکور ۱۴۰۵ نشان می‌دهد پسرها با ۲۳ رتبه، سهم بیشتری از رتبه‌های برتر دارند و تهران نیز ۲۱ نماینده در این جمع دارد.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/142940",
+        "post_id": 142940,
+        "message_id": 5786,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-03T10:26:13.598116+00:00"
       }
     ]
   }
