@@ -1767,9 +1767,8 @@
       "sent_count": 55
     },
     "footballvision2": {
-      "last_id": 170295,
+      "last_id": 170296,
       "processed_ids": [
-        169237,
         169239,
         169240,
         169241,
@@ -2768,7 +2767,8 @@
         170292,
         170293,
         170294,
-        170295
+        170295,
+        170296
       ],
       "sent_count": 65
     },
@@ -5334,7 +5334,7 @@
       "sent_count": 110
     },
     "gizmiztel": {
-      "last_id": 162723,
+      "last_id": 162724,
       "processed_ids": [
         161872,
         161875,
@@ -6099,9 +6099,10 @@
         162720,
         162721,
         162722,
-        162723
+        162723,
+        162724
       ],
-      "sent_count": 501
+      "sent_count": 502
     },
     "dr_salamatx": {
       "last_id": 55345,
@@ -7257,9 +7258,8 @@
       "sent_count": 43
     },
     "ft360_ir": {
-      "last_id": 108955,
+      "last_id": 108956,
       "processed_ids": [
-        107903,
         107904,
         107905,
         107906,
@@ -8258,7 +8258,8 @@
         108952,
         108953,
         108954,
-        108955
+        108955,
+        108956
       ],
       "sent_count": 57
     },
@@ -14899,21 +14900,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "dc8a738ed15d97284a6b27260de7acedef7f0772d1a26169fe7300ac835dbab4",
-        "media_fingerprint": "482731b55e4e14a7ae3565ee7b1da99731904711a5ce318329e342e2c395dc99",
-        "text": "حضورم سنگین بود زمین میوچاله شد\n🐈\n@Gilin",
-        "original_username": "gilin_gilin",
-        "original_text": "حضورم سنگین بود زمین میوچاله شد\n🐈\n@Gilin",
-        "original_link": "https://t.me/Gilin_Gilin/284092",
-        "post_id": 284092,
-        "message_id": 4949,
-        "message_kind": "caption",
-        "sources": [
-          "gilin_gilin"
-        ],
-        "created_at": "2026-10-01T09:59:43.488770+00:00"
-      },
       {
         "fingerprint": "7071ce8e26288cc8f0c687acb680b047b64308b182d5a910328a6fa7fbc6ac1f",
         "media_fingerprint": "",
@@ -30004,6 +29990,21 @@
           "niazcom_ir"
         ],
         "created_at": "2026-10-04T02:21:58.396086+00:00"
+      },
+      {
+        "fingerprint": "a12e92cbfc9f76c5e08a454aa5f253e3046a6e37095d5fc792cd6677506aeee8",
+        "media_fingerprint": "322e9573d84c568283734e8da5fa5e5ff74ea4254780f5344fb46a7401faddb1",
+        "text": "وضعیت دریاچه چیتگر موقع طوفان دیروز تهران\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "وضعیت دریاچه چیتگر موقع طوفان دیروز تهران\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162724",
+        "post_id": 162724,
+        "message_id": 6000,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-04T04:16:03.126101+00:00"
       }
     ]
   }
