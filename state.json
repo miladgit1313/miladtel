@@ -3012,7 +3012,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67355,
+      "last_id": 67360,
       "processed_ids": [
         66561,
         66565,
@@ -3640,7 +3640,9 @@
         67352,
         67353,
         67354,
-        67355
+        67355,
+        67359,
+        67360
       ],
       "sent_count": 369
     },
@@ -4932,7 +4934,7 @@
       "sent_count": 298
     },
     "comentiat": {
-      "last_id": 26306,
+      "last_id": 26309,
       "processed_ids": [
         25844,
         25845,
@@ -5308,9 +5310,12 @@
         26303,
         26304,
         26305,
-        26306
+        26306,
+        26307,
+        26308,
+        26309
       ],
-      "sent_count": 268
+      "sent_count": 270
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -15540,36 +15545,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "d18143b74bb40a38e7a89bcf35d103a90aafecdf94b666f6b87ff9a29d9a41a3",
-        "media_fingerprint": "",
-        "text": "🚨\n🔴\nتیم پرسپولیس فردا در دیداری دوستانه پیش از آغاز دوباره مسابقات لیگ، به مصاف گل‌گهر خواهد رفت.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n🔴\nتیم پرسپولیس فردا در دیداری دوستانه پیش از آغاز دوباره مسابقات لیگ، به مصاف گل‌گهر خواهد رفت.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/234551",
-        "post_id": 234551,
-        "message_id": 5239,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-01T20:18:50.129964+00:00"
-      },
-      {
-        "fingerprint": "906960554e2ad34aa4576a81b6425cbc0a06b06807eb02bc95d8ef34f8c16f9b",
-        "media_fingerprint": "",
-        "text": "این لندری روم هم آپشن قشنگیه اگه تو خونه مون داشته باشیم\nLidia\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": "این لندری روم هم آپشن قشنگیه اگه تو خونه مون داشته باشیم\nLidia\n@kafiha",
-        "original_link": "https://t.me/kafiha/461448",
-        "post_id": 461448,
-        "message_id": 5240,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-01T20:18:52.997436+00:00"
-      },
       {
         "fingerprint": "23a61eff14e64267f799bd397702007ccda5f62db927b3bbfbf91897d3e21583",
         "media_fingerprint": "decc7f3d058005b9cbd0c536f24768c2f14149c66c4d468a09c7ab86517d071a",
@@ -30618,6 +30593,36 @@
           "drtel"
         ],
         "created_at": "2026-10-04T22:42:21.179942+00:00"
+      },
+      {
+        "fingerprint": "d9af4dcd22d5af8a0ea19dc22d896255b484db28045d644b43329136f02c4fb7",
+        "media_fingerprint": "7d69eff85abf1339a2ec7e6f7460ec0c43e0d0074f1f3b7f7f33c85780ce3d52",
+        "text": "طوری که بعضیا بادی کانتشون رو محاسبه میکنن:\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "طوری که بعضیا بادی کانتشون رو محاسبه میکنن:\n@comentiat",
+        "original_link": "https://t.me/Comentiat/26308",
+        "post_id": 26308,
+        "message_id": 6284,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-04T23:42:14.321978+00:00"
+      },
+      {
+        "fingerprint": "89671b3a58608fe8bbe45aeaf175eae2a61f5efc9b3ee205e667414010295029",
+        "media_fingerprint": "87a089e684ebe42262eefb1d22b925a2fd69c488908ae3e9dfb463896be0c1f2",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26309",
+        "post_id": 26309,
+        "message_id": 6285,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-04T23:42:18.716036+00:00"
       }
     ]
   }
