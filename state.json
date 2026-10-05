@@ -1,12 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143105,
+      "last_id": 143109,
       "processed_ids": [
-        142015,
-        142016,
-        142017,
-        142018,
         142019,
         142020,
         142021,
@@ -1002,12 +998,16 @@
         143102,
         143103,
         143104,
-        143105
+        143105,
+        143106,
+        143107,
+        143108,
+        143109
       ],
-      "sent_count": 679
+      "sent_count": 681
     },
     "total_fut": {
-      "last_id": 237262,
+      "last_id": 237264,
       "processed_ids": [
         236405,
         236407,
@@ -1826,9 +1826,11 @@
         237259,
         237260,
         237261,
-        237262
+        237262,
+        237263,
+        237264
       ],
-      "sent_count": 60
+      "sent_count": 61
     },
     "footballvision2": {
       "last_id": 170394,
@@ -2858,7 +2860,7 @@
       "sent_count": 4
     },
     "fars_today": {
-      "last_id": 132132,
+      "last_id": 132133,
       "processed_ids": [
         131975,
         131976,
@@ -3013,9 +3015,10 @@
         132129,
         132130,
         132131,
-        132132
+        132132,
+        132133
       ],
-      "sent_count": 94
+      "sent_count": 95
     },
     "behzistikomitenews": {
       "last_id": 13957,
@@ -3043,7 +3046,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67376,
+      "last_id": 67377,
       "processed_ids": [
         66561,
         66565,
@@ -3683,7 +3686,8 @@
         67373,
         67374,
         67375,
-        67376
+        67376,
+        67377
       ],
       "sent_count": 375
     },
@@ -3979,7 +3983,7 @@
       "sent_count": 23
     },
     "sabtnamkh0dro": {
-      "last_id": 14333,
+      "last_id": 14334,
       "processed_ids": [
         14164,
         14165,
@@ -4123,9 +4127,10 @@
         14326,
         14327,
         14328,
-        14333
+        14333,
+        14334
       ],
-      "sent_count": 75
+      "sent_count": 76
     },
     "coffeenetmanager": {
       "last_id": 51725,
@@ -4308,7 +4313,7 @@
       "sent_count": 69
     },
     "roidbest": {
-      "last_id": 21784,
+      "last_id": 21785,
       "processed_ids": [
         21613,
         21614,
@@ -4475,12 +4480,13 @@
         21781,
         21782,
         21783,
-        21784
+        21784,
+        21785
       ],
       "sent_count": 103
     },
     "akhbar_cafenet": {
-      "last_id": 22993,
+      "last_id": 22995,
       "processed_ids": [
         22432,
         22433,
@@ -5014,12 +5020,14 @@
         22988,
         22989,
         22990,
-        22993
+        22993,
+        22994,
+        22995
       ],
       "sent_count": 307
     },
     "comentiat": {
-      "last_id": 26323,
+      "last_id": 26324,
       "processed_ids": [
         25844,
         25845,
@@ -5405,9 +5413,10 @@
         26320,
         26321,
         26322,
-        26323
+        26323,
+        26324
       ],
-      "sent_count": 275
+      "sent_count": 276
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -7707,10 +7716,8 @@
       "sent_count": 46
     },
     "ft360_ir": {
-      "last_id": 109040,
+      "last_id": 109042,
       "processed_ids": [
-        107979,
-        107980,
         107981,
         107982,
         107983,
@@ -8708,12 +8715,14 @@
         109037,
         109038,
         109039,
-        109040
+        109040,
+        109041,
+        109042
       ],
       "sent_count": 58
     },
     "varzesh3": {
-      "last_id": 303410,
+      "last_id": 303411,
       "processed_ids": [
         302363,
         302364,
@@ -9658,12 +9667,13 @@
         303406,
         303407,
         303409,
-        303410
+        303410,
+        303411
       ],
       "sent_count": 46
     },
     "totalfut_plus": {
-      "last_id": 26460,
+      "last_id": 26461,
       "processed_ids": [
         25870,
         25871,
@@ -10240,7 +10250,8 @@
         26457,
         26458,
         26459,
-        26460
+        26460,
+        26461
       ],
       "sent_count": 30
     },
@@ -11158,9 +11169,8 @@
       "sent_count": 111
     },
     "futball180tv": {
-      "last_id": 107872,
+      "last_id": 107873,
       "processed_ids": [
-        106856,
         106857,
         106858,
         106859,
@@ -12159,12 +12169,13 @@
         107869,
         107870,
         107871,
-        107872
+        107872,
+        107873
       ],
       "sent_count": 40
     },
     "hattric_official": {
-      "last_id": 84283,
+      "last_id": 84286,
       "processed_ids": [
         83433,
         83434,
@@ -12965,12 +12976,15 @@
         84280,
         84281,
         84282,
-        84283
+        84283,
+        84284,
+        84285,
+        84286
       ],
       "sent_count": 54
     },
     "mazdak_hattrick": {
-      "last_id": 182361,
+      "last_id": 182362,
       "processed_ids": [
         181991,
         181992,
@@ -13337,7 +13351,8 @@
         182358,
         182359,
         182360,
-        182361
+        182361,
+        182362
       ],
       "sent_count": 28
     },
@@ -13347,7 +13362,7 @@
       "sent_count": 0
     },
     "cafenet_tehrann": {
-      "last_id": 1032,
+      "last_id": 1037,
       "processed_ids": [
         1025,
         1026,
@@ -13356,7 +13371,8 @@
         1029,
         1030,
         1031,
-        1032
+        1032,
+        1037
       ],
       "sent_count": 2
     },
@@ -13438,7 +13454,7 @@
       "sent_count": 2
     },
     "irwonders": {
-      "last_id": 58350,
+      "last_id": 58351,
       "processed_ids": [
         58030,
         58031,
@@ -13717,7 +13733,8 @@
         58347,
         58348,
         58349,
-        58350
+        58350,
+        58351
       ],
       "sent_count": 181
     },
@@ -15260,7 +15277,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306778,
+      "last_id": 306779,
       "processed_ids": [
         306563,
         306564,
@@ -15475,9 +15492,10 @@
         306775,
         306776,
         306777,
-        306778
+        306778,
+        306779
       ],
-      "sent_count": 93
+      "sent_count": 94
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -15578,7 +15596,7 @@
       "sent_count": 7
     },
     "bajefilm": {
-      "last_id": 11589,
+      "last_id": 11590,
       "processed_ids": [
         11552,
         11553,
@@ -15617,9 +15635,10 @@
         11586,
         11587,
         11588,
-        11589
+        11589,
+        11590
       ],
-      "sent_count": 32
+      "sent_count": 33
     },
     "yejoorayi": {
       "last_id": 490,
@@ -15839,7 +15858,7 @@
       "sent_count": 24
     },
     "peach_tweet": {
-      "last_id": 2891,
+      "last_id": 2894,
       "processed_ids": [
         2745,
         2749,
@@ -15921,149 +15940,16 @@
         2885,
         2886,
         2890,
-        2891
+        2891,
+        2892,
+        2893,
+        2894
       ],
-      "sent_count": 49
+      "sent_count": 50
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "b7e0d1163135fc63092622363b18465579e9440d4c2afb3614bd5c55242f7496",
-        "media_fingerprint": "eecda020c8367aa15031ff2155b3e22d8bee7c6347d9248d0aebfae839bc8533",
-        "text": "ادعای عجیب در تجمعات شبانه:\nحسن روحانی در یک سفر استانی دستور داد برای دستشویی‌اش کولر نصب کنند!\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "ادعای عجیب در تجمعات شبانه:\nحسن روحانی در یک سفر استانی دستور داد برای دستشویی‌اش کولر نصب کنند!\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162649",
-        "post_id": 162649,
-        "message_id": 5408,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-02T10:48:50.128445+00:00"
-      },
-      {
-        "fingerprint": "f7e6b054e6bce8c22e54cfc2a6b5c9d231ec33861d9fb728861bf59c483055b8",
-        "media_fingerprint": "c96c8e6a4a3ae82e20aed5a71c81b1fcc39f19738e6cce54a3e5c9f70d225118",
-        "text": "هم‌اکنون| بارش باران در تالش و انزلی\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "هم‌اکنون| بارش باران در تالش و انزلی\n@irWonders",
-        "original_link": "https://t.me/irwonders/58230",
-        "post_id": 58230,
-        "message_id": 5409,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-02T10:48:58.609960+00:00"
-      },
-      {
-        "fingerprint": "31f8d93945323bbd58a87e0fce798fac5fca7b5b211533d9b6edd806aedb307c",
-        "media_fingerprint": "",
-        "text": "🔥\nهوا دیگه کم کم داره سرد میشه، هیترتو بخر!\nهنوز هوا سرد نشده و قیمت‌ها بالا نرفته؛ الان بهترین زمان خرید هیتر ریموت‌دار HANDY HEATER\n👌\n✅\nتوان ۸۰۰ وات با گرمایش فوری\n✅\nریموت و تنظیم دما ۱۵ تا ۳۲ درجه\n✅\nتایمر، نمایشگر دیجیتال و خاموشی خودکار\n🔴\nقیمت 1,990,000 تومان\n🔥\n🔥\nتو 4 قسط 560 تومنی میتونی پرداخت کنی\nضمانت تعویض سه روزه کالا\nخرید از سایت\n👇\nhttps://memarket24.ir/product/brief/35574/180124/\nمشاهده حراج آخر فصل\nhttps://l.memarket.me/lp/15/180124",
-        "original_username": "akhbarfars",
-        "original_text": "🔥\nهوا دیگه کم کم داره سرد میشه، هیترتو بخر!\nهنوز هوا سرد نشده و قیمت‌ها بالا نرفته؛ الان بهترین زمان خرید هیتر ریموت‌دار HANDY HEATER\n👌\n✅\nتوان ۸۰۰ وات با گرمایش فوری\n✅\nریموت و تنظیم دما ۱۵ تا ۳۲ درجه\n✅\nتایمر، نمایشگر دیجیتال و خاموشی خودکار\n🔴\nقیمت 1,990,000 تومان\n🔥\n🔥\nتو 4 قسط 560 تومنی میتونی پرداخت کنی\nضمانت تعویض سه روزه کالا\nخرید از سایت\n👇\nhttps://memarket24.ir/product/brief/35574/180124/\nمشاهده حراج آخر فصل\nhttps://l.memarket.me/lp/15/180124",
-        "original_link": "https://t.me/akhbarfars/142868",
-        "post_id": 142868,
-        "message_id": 5410,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-02T10:49:01.884671+00:00"
-      },
-      {
-        "fingerprint": "bfc72a5c4677c20df1406b598b1b03e867d94f016fcfe0c2754ce223108e06d6",
-        "media_fingerprint": "",
-        "text": "🔫\nافزایش میزان شارژ حکمت کارت مهرماه   بازنشستگان لشکری\nمیزان واریزی شارژ حکمت کارت مهرماه مرحله هشتاد و هشتم به ازای هر نفر  ۸۰۰هزار تومان انجام شد\n🟠\nبازنشستگان نیروهای مسلح:\n🔵\nیک نفره  ۸۰۰ هزار تومان\n🟠\nدو نفره  یک میلیون و ۶۰۰ هزار تومان\n🔵\nسه نفره دو میلیون و ۴۰۰ هزار تومان\n🟠\nچهار نفره ۲ میلیون و ۲۰۰ هزار تومان\n🔵\nپنج نفره  ۴ میلیون تومان\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🔫\nافزایش میزان شارژ حکمت کارت مهرماه   بازنشستگان لشکری\nمیزان واریزی شارژ حکمت کارت مهرماه مرحله هشتاد و هشتم به ازای هر نفر  ۸۰۰هزار تومان انجام شد\n🟠\nبازنشستگان نیروهای مسلح:\n🔵\nیک نفره  ۸۰۰ هزار تومان\n🟠\nدو نفره  یک میلیون و ۶۰۰ هزار تومان\n🔵\nسه نفره دو میلیون و ۴۰۰ هزار تومان\n🟠\nچهار نفره ۲ میلیون و ۲۰۰ هزار تومان\n🔵\nپنج نفره  ۴ میلیون تومان\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22863",
-        "post_id": 22863,
-        "message_id": 5411,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet",
-          "onlinecofe_ir"
-        ],
-        "created_at": "2026-10-02T10:49:05.252987+00:00"
-      },
-      {
-        "fingerprint": "041cd76af07e1f87e141ef9efc5e2daa22043ebd9e05541d15c511779adb9836",
-        "media_fingerprint": "e34cc6c2f1ebdc8b46cebf0fb45bca189735127b8cba62d58354c9fc96aba0be",
-        "text": "امروز روز جهانی لبخنده.\n1991\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": "امروز روز جهانی لبخنده.\n1991\n@kafiha",
-        "original_link": "https://t.me/kafiha/461529",
-        "post_id": 461529,
-        "message_id": 5412,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-02T10:49:12.455929+00:00"
-      },
-      {
-        "fingerprint": "a6cff53b7a3bdb400e6c08972180dcc09f34dce212295be5ed27e9472cd7a27f",
-        "media_fingerprint": "163be708fda4c20505aaf087b8793c8713c6b543c9f4c37cde5e156f81be1db1",
-        "text": "♦️\nرگبار باران پراکنده همراه با رعدوبرق قسمتی از انجیرستان کوه دهنه شهر ایج، شرق استهبان ١٠ مهر ١۴٠۵\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nرگبار باران پراکنده همراه با رعدوبرق قسمتی از انجیرستان کوه دهنه شهر ایج، شرق استهبان ١٠ مهر ١۴٠۵\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142869",
-        "post_id": 142869,
-        "message_id": 5413,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-02T10:49:19.437448+00:00"
-      },
-      {
-        "fingerprint": "6944ea0ec7c727c05e395a83de167649d1f0f38e1fa7fe54fd915247500e8a1c",
-        "media_fingerprint": "c3243c2efc8aa0c275d2f4805b730b81d94a40b854bd901ad57b225589bdd912",
-        "text": "🔴\nجدیداً تو تهران ملت میرن پول میدن، روی یه دمپایی وایمیستن و گریه می‌کنن تا حالشون خوب بشه؛\nطبق گزارش‌ها، تو بالاشهر تهران حتی شهریه این کلاس‌ها به ماهی 100میلیون هم میرسه.\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nجدیداً تو تهران ملت میرن پول میدن، روی یه دمپایی وایمیستن و گریه می‌کنن تا حالشون خوب بشه؛\nطبق گزارش‌ها، تو بالاشهر تهران حتی شهریه این کلاس‌ها به ماهی 100میلیون هم میرسه.\n@DrTeL",
-        "original_link": "https://t.me/drtel/67207",
-        "post_id": 67207,
-        "message_id": 5414,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-02T11:01:58.172269+00:00"
-      },
-      {
-        "fingerprint": "9486c2c724b694127fe65e3011c625ee4e53e90b093ea3a5e7139435c0cab8c6",
-        "media_fingerprint": "507670e4c9b8ffa6193d50d984136efff7c8533a6d2620bd091d0920dbe8f669",
-        "text": "موقع پوست کندن پیاز تا می تونید اشک بریزید !\n▫️\nخیلی وقت‌ها ما سعی می‌کنیم موقع پیاز پوست کندن یه کاری کنیم که اشکمون در نیاد اما این کار اشتباهه!\n▫️\nپوست کندن پیاز و به دنبال اون اشک و سوزش چشم باعث میشه چشم ها آهسته تر پیر بشن و در نتیجه تو بزرگسالی دچار آب مروارید و دیگه بیماری‌های چشمی نشیم.\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_username": "majalepezeshki",
-        "original_text": "موقع پوست کندن پیاز تا می تونید اشک بریزید !\n▫️\nخیلی وقت‌ها ما سعی می‌کنیم موقع پیاز پوست کندن یه کاری کنیم که اشکمون در نیاد اما این کار اشتباهه!\n▫️\nپوست کندن پیاز و به دنبال اون اشک و سوزش چشم باعث میشه چشم ها آهسته تر پیر بشن و در نتیجه تو بزرگسالی دچار آب مروارید و دیگه بیماری‌های چشمی نشیم.\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_link": "https://t.me/MajalePezeshki/38587",
-        "post_id": 38587,
-        "message_id": 5415,
-        "message_kind": "caption",
-        "sources": [
-          "majalepezeshki"
-        ],
-        "created_at": "2026-10-02T11:02:04.620530+00:00"
-      },
-      {
-        "fingerprint": "051172a607170e3a24c4887483b46686fb44dbaffe08835071ab3f5fd7390645",
-        "media_fingerprint": "deff5585b8df1d8d7f4dcb98b95e18e57b6bad7d799670c6cde0a8e55a3e0216",
-        "text": "",
-        "original_username": "ajayebe_jahann",
-        "original_text": "",
-        "original_link": "https://t.me/Ajayebe_jahann/159445",
-        "post_id": 159445,
-        "message_id": 5416,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-02T11:02:13.244136+00:00"
-      },
       {
         "fingerprint": "528285e62b1b27a4e24d8ff1fcd999b275e9d34a7af2608303d337f2f3787cd7",
         "media_fingerprint": "699c269758fa24d7730e7b390b14f09e18c82a6a3328abc37daf54428d6be79d",
@@ -25334,7 +25220,8 @@
         "message_id": 6056,
         "message_kind": "text",
         "sources": [
-          "jaleb"
+          "jaleb",
+          "irwonders"
         ],
         "created_at": "2026-10-04T09:49:21.695799+00:00"
       },
@@ -30998,6 +30885,141 @@
           "drtel"
         ],
         "created_at": "2026-10-05T15:09:35.899633+00:00"
+      },
+      {
+        "fingerprint": "5670811d967bac3a5c9a92db0d3ed77ed154ed50e204e2af270731ef7cb5909b",
+        "media_fingerprint": "",
+        "text": "♦️\nراه‌آهن شیراز-گل‌گهر با مشارکت بخش خصوصی تکمیل شود\nامیری،استاندار فارس:\n🔹️\nدر شرایط کنونی باید با واقعیت‌های اقتصادی دولت روبه‌رو شد، چراکه اولویت‌های اصلی کشور معطوف به معیشت مردم، نیازهای نیروهای مسلح و زیرساخت‌های حیاتی است.\n🔹️\nقطعه سوم این پروژه ۷۹ درصد و قطعه چهارم ۵۵ درصد پیشرفت فیزیکی دارد و توقف یا رها کردن این طرح‌ها به معنای اتلاف منابعی است که تاکنون برای اجرای آنها هزینه شده است.\n🔹️\nهدف این است که پروژه راه‌آهن شیراز-گل‌گهر از وضعیت رکود خارج شده و با یک برنامه اجرایی مشخص به نتیجه برسد.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nراه‌آهن شیراز-گل‌گهر با مشارکت بخش خصوصی تکمیل شود\nامیری،استاندار فارس:\n🔹️\nدر شرایط کنونی باید با واقعیت‌های اقتصادی دولت روبه‌رو شد، چراکه اولویت‌های اصلی کشور معطوف به معیشت مردم، نیازهای نیروهای مسلح و زیرساخت‌های حیاتی است.\n🔹️\nقطعه سوم این پروژه ۷۹ درصد و قطعه چهارم ۵۵ درصد پیشرفت فیزیکی دارد و توقف یا رها کردن این طرح‌ها به معنای اتلاف منابعی است که تاکنون برای اجرای آنها هزینه شده است.\n🔹️\nهدف این است که پروژه راه‌آهن شیراز-گل‌گهر از وضعیت رکود خارج شده و با یک برنامه اجرایی مشخص به نتیجه برسد.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143106",
+        "post_id": 143106,
+        "message_id": 6466,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-05T15:47:07.580842+00:00"
+      },
+      {
+        "fingerprint": "36287287e7d4bbc354722febfba4ef1ff160502bd7385e77127ad6c3d7837923",
+        "media_fingerprint": "d1746b2983b5226f4a5fa563136b02cccef29b114d639fb83c17e0d1bbf3fc7f",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26324",
+        "post_id": 26324,
+        "message_id": 6467,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-05T15:47:11.440056+00:00"
+      },
+      {
+        "fingerprint": "201e56699db38c73f8ef699a090ec0ba098c3c407a9939365d5378e3bc238cdb",
+        "media_fingerprint": "05c8634775e4a3bc1d685da6f4d78ec52c5e5af1c413e4cfd9802d605424efd2",
+        "text": "♦️\nکتابخونه ای تو شیراز\n😍\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nکتابخونه ای تو شیراز\n😍\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143107",
+        "post_id": 143107,
+        "message_id": 6468,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-05T15:47:16.017193+00:00"
+      },
+      {
+        "fingerprint": "43b42ac58e2f6e3b9df464eb756919ffb6928290c3984317af920b6d190db4c5",
+        "media_fingerprint": "",
+        "text": "🔻\nطی چند ساعت گذشته سه نفتکش در تنگه هرمز هدف قرار گرفتند\nسازمان UKMTO:\nیک نفتکش حامل گاز مایع هنگام ورود به تنگه هرمز با یک پرتابه ناشناس هدف قرار گرفته؛ همچنین در حادثه‌ای دیگر، یک نفتکش در تنگه هرمز با پرتابه‌ای ناشناس هدف قرار گرفت و آسیب دید.\nهمچنین یک نفتکش دیگر که حامل نفت خام بود، با چند پرتابه ناشناس هدف قرار گرفته است",
+        "original_username": "fars_today",
+        "original_text": "🔻\nطی چند ساعت گذشته سه نفتکش در تنگه هرمز هدف قرار گرفتند\nسازمان UKMTO:\nیک نفتکش حامل گاز مایع هنگام ورود به تنگه هرمز با یک پرتابه ناشناس هدف قرار گرفته؛ همچنین در حادثه‌ای دیگر، یک نفتکش در تنگه هرمز با پرتابه‌ای ناشناس هدف قرار گرفت و آسیب دید.\nهمچنین یک نفتکش دیگر که حامل نفت خام بود، با چند پرتابه ناشناس هدف قرار گرفته است",
+        "original_link": "https://t.me/Fars_today/132133",
+        "post_id": 132133,
+        "message_id": 6469,
+        "message_kind": "text",
+        "sources": [
+          "fars_today"
+        ],
+        "created_at": "2026-10-05T15:47:19.643996+00:00"
+      },
+      {
+        "fingerprint": "aebaa13737deca958eb16d58201631bc37d00cc0d1da325bd5e9b1a37daec1a6",
+        "media_fingerprint": "21da31e5ec92637086fd728a9199ad3bb8401d8e4a4722d4122ebccf428ef1c9",
+        "text": "✅\nاعلام شرایط فروش سه مدل خودرو تویوتا با پرداخت دو مرحله ای همراه با افزایش قیمت توسط شرکت امیر تجارت سپنتا  مهرماه ۱۴۰۵\n#تویوتا\n#امیرتجارت_سپنتا",
+        "original_username": "sabtnamkh0dro",
+        "original_text": "✅\nاعلام شرایط فروش سه مدل خودرو تویوتا با پرداخت دو مرحله ای همراه با افزایش قیمت توسط شرکت امیر تجارت سپنتا  مهرماه ۱۴۰۵\n#تویوتا\n#امیرتجارت_سپنتا",
+        "original_link": "https://t.me/sabtnamkh0dro/14334",
+        "post_id": 14334,
+        "message_id": 6470,
+        "message_kind": "caption",
+        "sources": [
+          "sabtnamkh0dro"
+        ],
+        "created_at": "2026-10-05T15:47:47.506505+00:00"
+      },
+      {
+        "fingerprint": "191b1fce19acaec3a12e6afef158a0dc976f1536c8db3ffed078ed83820579e8",
+        "media_fingerprint": "c15ab1527b7e785a559d238388111f2f4326c1b7540eef062457e1334a55cb4b",
+        "text": "🚕\nجوجه رو آخر\n#تاکسی\nمی‌شمرن...\nکارگردان: حسن نوری\nتهیه‌کننده:\n#مجید_صالحی\nنویسندگان:\n#سروش_صحت\nو ایمان صفایی\nمشاور هنری پروژه:\n#علی_مصفا\n🎬\n🎬\n«تاکسی»؛ به‌زودی در\n#شیدا\n@BajeFilm",
+        "original_username": "bajefilm",
+        "original_text": "🚕\nجوجه رو آخر\n#تاکسی\nمی‌شمرن...\nکارگردان: حسن نوری\nتهیه‌کننده:\n#مجید_صالحی\nنویسندگان:\n#سروش_صحت\nو ایمان صفایی\nمشاور هنری پروژه:\n#علی_مصفا\n🎬\n🎬\n«تاکسی»؛ به‌زودی در\n#شیدا\n@BajeFilm",
+        "original_link": "https://t.me/bajefilm/11590",
+        "post_id": 11590,
+        "message_id": 6472,
+        "message_kind": "caption",
+        "sources": [
+          "bajefilm"
+        ],
+        "created_at": "2026-10-05T15:47:54.493849+00:00"
+      },
+      {
+        "fingerprint": "deca97d3bd98b1dd9a958be77fc0fa3bc5317a8400c0233a3a023302be7c787a",
+        "media_fingerprint": "",
+        "text": "🏅\nراهکار پرسپولیس برای توقیف‌نشدن جام‌هایش\n⏺\nنماینده یکی از طلبکاران باشگاه پرسپولیس که پیش‌ازاین موفق به دریافت حکم توقیف اموال این باشگاه شده و حتی بخشی از اموال پرسپولیس را نیز به مزایده گذاشته بود، چندی پیش برای اجرای حکم توقیف جام‌های قهرمانی این باشگاه راهی ساختمان پرسپولیس شد.\n⏺\nبااین‌حال، نماینده فرد طلبکار و مأمور اجرای حکم پس از حضور در باشگاه متوجه شدند جام‌های قهرمانی پرسپولیس از ساختمان باشگاه خارج شده‌اند. پیگیری‌ها نشان می‌دهد این جام‌ها حدود چند هفته پیش به محل دیگری منتقل شده بودند.\n⏺\nدر روزهای اخیر اما جام‌های قهرمانی بار دیگر به ساختمان باشگاه پرسپولیس بازگردانده شده‌اند؛ موضوعی که حالا این سؤال را ایجاد کرده که آیا این طلبکار بار دیگر برای توقیف جام‌های قهرمانی پرسپولیس اقدام خواهد کرد یا خیر.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_username": "total_fut",
+        "original_text": "🏅\nراهکار پرسپولیس برای توقیف‌نشدن جام‌هایش\n⏺\nنماینده یکی از طلبکاران باشگاه پرسپولیس که پیش‌ازاین موفق به دریافت حکم توقیف اموال این باشگاه شده و حتی بخشی از اموال پرسپولیس را نیز به مزایده گذاشته بود، چندی پیش برای اجرای حکم توقیف جام‌های قهرمانی این باشگاه راهی ساختمان پرسپولیس شد.\n⏺\nبااین‌حال، نماینده فرد طلبکار و مأمور اجرای حکم پس از حضور در باشگاه متوجه شدند جام‌های قهرمانی پرسپولیس از ساختمان باشگاه خارج شده‌اند. پیگیری‌ها نشان می‌دهد این جام‌ها حدود چند هفته پیش به محل دیگری منتقل شده بودند.\n⏺\nدر روزهای اخیر اما جام‌های قهرمانی بار دیگر به ساختمان باشگاه پرسپولیس بازگردانده شده‌اند؛ موضوعی که حالا این سؤال را ایجاد کرده که آیا این طلبکار بار دیگر برای توقیف جام‌های قهرمانی پرسپولیس اقدام خواهد کرد یا خیر.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_link": "https://t.me/total_fut/237264",
+        "post_id": 237264,
+        "message_id": 6473,
+        "message_kind": "text",
+        "sources": [
+          "total_fut"
+        ],
+        "created_at": "2026-10-05T15:47:58.205832+00:00"
+      },
+      {
+        "fingerprint": "4f9d13be4f0408f7829b2e158d82eb7ac01c3d599e58ce2172620210bac8d576",
+        "media_fingerprint": "899ef23dbda0041d97305428975e6df30da9f75fccb63edd261f42fc8c01c58f",
+        "text": "مامان همه\n😅\n❤\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "مامان همه\n😅\n❤\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306779",
+        "post_id": 306779,
+        "message_id": 6474,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-05T15:48:03.778880+00:00"
+      },
+      {
+        "fingerprint": "83e9eb87f0e74efe741c85957b6895eb35e87dcfa36fa2ee6dc573c9800a9218",
+        "media_fingerprint": "f2c57231a982d137d78e3b6d57bd47579584963cda5ae7a3cce925527139881d",
+        "text": "آقا این قسمت نه ژل زدم نه بوتاکسش کی میرسه پس\n😐\n.\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "آقا این قسمت نه ژل زدم نه بوتاکسش کی میرسه پس\n😐\n.\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/2894",
+        "post_id": 2894,
+        "message_id": 6475,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-05T15:48:10.555960+00:00"
       }
     ]
   }
