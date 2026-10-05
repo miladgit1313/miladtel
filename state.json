@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143117,
+      "last_id": 143119,
       "processed_ids": [
-        142027,
-        142028,
         142029,
         142030,
         142031,
@@ -1002,12 +1000,14 @@
         143113,
         143114,
         143115,
-        143117
+        143117,
+        143118,
+        143119
       ],
-      "sent_count": 685
+      "sent_count": 686
     },
     "total_fut": {
-      "last_id": 237267,
+      "last_id": 237268,
       "processed_ids": [
         236405,
         236407,
@@ -1830,7 +1830,8 @@
         237263,
         237264,
         237265,
-        237267
+        237267,
+        237268
       ],
       "sent_count": 61
     },
@@ -4326,7 +4327,7 @@
       "sent_count": 69
     },
     "roidbest": {
-      "last_id": 21786,
+      "last_id": 21787,
       "processed_ids": [
         21613,
         21614,
@@ -4495,12 +4496,13 @@
         21783,
         21784,
         21785,
-        21786
+        21786,
+        21787
       ],
       "sent_count": 104
     },
     "akhbar_cafenet": {
-      "last_id": 23001,
+      "last_id": 23005,
       "processed_ids": [
         22432,
         22433,
@@ -5042,12 +5044,16 @@
         22998,
         22999,
         23000,
-        23001
+        23001,
+        23002,
+        23003,
+        23004,
+        23005
       ],
-      "sent_count": 309
+      "sent_count": 310
     },
     "comentiat": {
-      "last_id": 26325,
+      "last_id": 26327,
       "processed_ids": [
         25844,
         25845,
@@ -5435,9 +5441,11 @@
         26322,
         26323,
         26324,
-        26325
+        26325,
+        26326,
+        26327
       ],
-      "sent_count": 277
+      "sent_count": 278
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -6498,7 +6506,7 @@
       "sent_count": 552
     },
     "dr_salamatx": {
-      "last_id": 55351,
+      "last_id": 55352,
       "processed_ids": [
         55270,
         55271,
@@ -6581,12 +6589,13 @@
         55348,
         55349,
         55350,
-        55351
+        55351,
+        55352
       ],
-      "sent_count": 51
+      "sent_count": 52
     },
     "jaleb": {
-      "last_id": 52698,
+      "last_id": 52699,
       "processed_ids": [
         52261,
         52262,
@@ -6971,9 +6980,10 @@
         52695,
         52696,
         52697,
-        52698
+        52698,
+        52699
       ],
-      "sent_count": 205
+      "sent_count": 206
     },
     "ajayebe_jahann": {
       "last_id": 159537,
@@ -7749,13 +7759,8 @@
       "sent_count": 46
     },
     "ft360_ir": {
-      "last_id": 109045,
+      "last_id": 109051,
       "processed_ids": [
-        107984,
-        107985,
-        107986,
-        107987,
-        107988,
         107989,
         107991,
         107992,
@@ -8750,12 +8755,17 @@
         109042,
         109043,
         109044,
-        109045
+        109045,
+        109046,
+        109047,
+        109049,
+        109050,
+        109051
       ],
       "sent_count": 59
     },
     "varzesh3": {
-      "last_id": 303416,
+      "last_id": 303419,
       "processed_ids": [
         302363,
         302364,
@@ -9706,12 +9716,14 @@
         303413,
         303414,
         303415,
-        303416
+        303416,
+        303417,
+        303419
       ],
       "sent_count": 46
     },
     "totalfut_plus": {
-      "last_id": 26464,
+      "last_id": 26466,
       "processed_ids": [
         25870,
         25871,
@@ -10292,12 +10304,14 @@
         26461,
         26462,
         26463,
-        26464
+        26464,
+        26465,
+        26466
       ],
       "sent_count": 31
     },
     "adak_ir_official": {
-      "last_id": 234760,
+      "last_id": 234762,
       "processed_ids": [
         233831,
         233833,
@@ -11208,14 +11222,15 @@
         234757,
         234758,
         234759,
-        234760
+        234760,
+        234761,
+        234762
       ],
       "sent_count": 113
     },
     "futball180tv": {
-      "last_id": 107875,
+      "last_id": 107876,
       "processed_ids": [
-        106859,
         106860,
         106861,
         106862,
@@ -12214,12 +12229,13 @@
         107872,
         107873,
         107874,
-        107875
+        107875,
+        107876
       ],
       "sent_count": 40
     },
     "hattric_official": {
-      "last_id": 84289,
+      "last_id": 84290,
       "processed_ids": [
         83433,
         83434,
@@ -13026,12 +13042,13 @@
         84286,
         84287,
         84288,
-        84289
+        84289,
+        84290
       ],
-      "sent_count": 55
+      "sent_count": 56
     },
     "mazdak_hattrick": {
-      "last_id": 182362,
+      "last_id": 182363,
       "processed_ids": [
         181991,
         181992,
@@ -13399,7 +13416,8 @@
         182359,
         182360,
         182361,
-        182362
+        182362,
+        182363
       ],
       "sent_count": 28
     },
@@ -13502,7 +13520,7 @@
       "sent_count": 2
     },
     "irwonders": {
-      "last_id": 58355,
+      "last_id": 58356,
       "processed_ids": [
         58030,
         58031,
@@ -13786,7 +13804,8 @@
         58352,
         58353,
         58354,
-        58355
+        58355,
+        58356
       ],
       "sent_count": 185
     },
@@ -15329,7 +15348,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306782,
+      "last_id": 306784,
       "processed_ids": [
         306563,
         306564,
@@ -15548,9 +15567,11 @@
         306779,
         306780,
         306781,
-        306782
+        306782,
+        306783,
+        306784
       ],
-      "sent_count": 96
+      "sent_count": 98
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -15651,7 +15672,7 @@
       "sent_count": 7
     },
     "bajefilm": {
-      "last_id": 11591,
+      "last_id": 11592,
       "processed_ids": [
         11552,
         11553,
@@ -15692,9 +15713,10 @@
         11588,
         11589,
         11590,
-        11591
+        11591,
+        11592
       ],
-      "sent_count": 33
+      "sent_count": 34
     },
     "yejoorayi": {
       "last_id": 491,
@@ -15881,7 +15903,7 @@
       "sent_count": 39
     },
     "shakhmovie": {
-      "last_id": 4060,
+      "last_id": 4064,
       "processed_ids": [
         4017,
         4018,
@@ -15911,9 +15933,10 @@
         4053,
         4054,
         4059,
-        4060
+        4060,
+        4064
       ],
-      "sent_count": 25
+      "sent_count": 26
     },
     "peach_tweet": {
       "last_id": 2895,
@@ -16009,158 +16032,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "9b0625f338c1d6943a9098a4ad2b07194ae18caa340681a0e5f01a05f24fe703",
-        "media_fingerprint": "7877273efe8d257a060cfad9845c528db715edb11289dcff589f09c448880dbb",
-        "text": "اون رفیقم که فکر می‌کنه زاویه فک زده خوشگل شده:\nClovE\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "اون رفیقم که فکر می‌کنه زاویه فک زده خوشگل شده:\nClovE\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461550",
-        "post_id": 461550,
-        "message_id": 5452,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-02T12:57:39.840825+00:00"
-      },
-      {
-        "fingerprint": "6912aac3f67b8ec15f177333ff39deca51bc50530693241a07b65d8fee8013b3",
-        "media_fingerprint": "3762718b4c94da83978f0fbf318146d49842425ae89bf20d7a1ac07a51318969",
-        "text": "♦️\nافسردگی پاییزی را چگونه شکست دهیم؟\n💆\n✨\n#حال_سبز\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nافسردگی پاییزی را چگونه شکست دهیم؟\n💆\n✨\n#حال_سبز\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142877",
-        "post_id": 142877,
-        "message_id": 5453,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-02T12:57:43.794365+00:00"
-      },
-      {
-        "fingerprint": "9eceff68489d59a2cb820f6d3e42486f535aaead0c27c88f7e2fdd0b18614cea",
-        "media_fingerprint": "",
-        "text": "🚨\n🔴\nعلی علیپور که به دلیل مصدومیت مدتی از تمرینات دور بود، حالا دویدن را آغاز کرده و به احتمال فراوان به بازی بعدی پرسپولیس خواهد رسید.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n🔴\nعلی علیپور که به دلیل مصدومیت مدتی از تمرینات دور بود، حالا دویدن را آغاز کرده و به احتمال فراوان به بازی بعدی پرسپولیس خواهد رسید.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/234572",
-        "post_id": 234572,
-        "message_id": 5454,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-02T12:57:46.616891+00:00"
-      },
-      {
-        "fingerprint": "226e49ff36f5fa69d719bc22ec4b8e6efef595ff3a0267549e4562ce5a71e19e",
-        "media_fingerprint": "ad490abb255c0a1be436bc742c7cd17860075c1594c032a911105db910310d43",
-        "text": "هوش مصنوعی رو از ایرانی جماعت بگیرین\n📷\n|\n@ShakhMovie",
-        "original_username": "shakhmovie",
-        "original_text": "هوش مصنوعی رو از ایرانی جماعت بگیرین\n📷\n|\n@ShakhMovie",
-        "original_link": "https://t.me/Shakhmovie/4019",
-        "post_id": 4019,
-        "message_id": 5455,
-        "message_kind": "caption",
-        "sources": [
-          "shakhmovie"
-        ],
-        "created_at": "2026-10-02T12:57:53.498731+00:00"
-      },
-      {
-        "fingerprint": "d4451184545f6522bf26570549dc9faa601a49a0bc2fa89aa030ed6f42af5f77",
-        "media_fingerprint": "1a3e094f616a2f6509f054c57ca147013ec66984413072669fc07873ec20c4d8",
-        "text": "این دایی با این ابرو و سیبیل فقط با همین نگاه ( بدون دیالوگ) ۲ میلیون ویو گرفته و ۸۵ هزار نفر هم کامنت گذاشتن براش و بیشتر از ۴ میلیون نفر این نگاه و نافذ رو فرستادن واسه یکی دیگه و ۲۰۰ هزار نفر سیوش کردن\n😂\n😂\n😂\nحالا هی خودت رو بزن تو دیوار و جلو و پشت و بالا و پایین رو لخت کن و تکون بده و تهش هیچی به هیچ\n💬\nMoe\nClovE\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "این دایی با این ابرو و سیبیل فقط با همین نگاه ( بدون دیالوگ) ۲ میلیون ویو گرفته و ۸۵ هزار نفر هم کامنت گذاشتن براش و بیشتر از ۴ میلیون نفر این نگاه و نافذ رو فرستادن واسه یکی دیگه و ۲۰۰ هزار نفر سیوش کردن\n😂\n😂\n😂\nحالا هی خودت رو بزن تو دیوار و جلو و پشت و بالا و پایین رو لخت کن و تکون بده و تهش هیچی به هیچ\n💬\nMoe\nClovE\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461551",
-        "post_id": 461551,
-        "message_id": 5456,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-02T12:57:57.845516+00:00"
-      },
-      {
-        "fingerprint": "8deb7f6ad03c942688b123cdfd6e96cb3768cdb9724bb6620546faf258864c33",
-        "media_fingerprint": "0a67f38e202cd8cdc4fdb45de12516200c5bd7bc3bc5f114a728d966b4e6edea",
-        "text": "اگه اونا هستن ک واسه دودیگرام هم بهونه دارن\nهممون حداقل یدونه از این دوستای لاشی داریم\n😂\n🦦\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "اگه اونا هستن ک واسه دودیگرام هم بهونه دارن\nهممون حداقل یدونه از این دوستای لاشی داریم\n😂\n🦦\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461552",
-        "post_id": 461552,
-        "message_id": 5457,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-02T12:58:01.622853+00:00"
-      },
-      {
-        "fingerprint": "9978aca2a2e64b89e16d2ea8de9727b321ceafc74be22453b419645ee8e708ce",
-        "media_fingerprint": "83845e34b126192d9de0305aa8ab0653aa1448415a8a00f808752af9ea25e560",
-        "text": "🔴\nفرهنگِ اصیلِ ایرانی هنوز زنده‌ست؛\nدیروز یه توریست - دوچرخه‌سوارِ هلندی\n🇳🇱\nکه کارش سفر با دوچرخه و ولاگ درست کردنه، رفته بود مشهد؛\nاونجا وارد یه مسیری شد که شبش خیلی تاریکه و ممکن بود گم بشه ولی دو بانوی ایرانی به نام‌های \"فائزه و یگانه\" تا خود شب با نور ماشین همراهیش کردن تا به شهر برسه!\nحالا این توریست هلندی اینو پست کرده و به شدت داره از فرهنگ ایرانی‌ها تعریف میکنه\n❤️\n@FUTBALLI18",
-        "original_username": "drtel",
-        "original_text": "🔴\nفرهنگِ اصیلِ ایرانی هنوز زنده‌ست؛\nدیروز یه توریست - دوچرخه‌سوارِ هلندی\n🇳🇱\nکه کارش سفر با دوچرخه و ولاگ درست کردنه، رفته بود مشهد؛\nاونجا وارد یه مسیری شد که شبش خیلی تاریکه و ممکن بود گم بشه ولی دو بانوی ایرانی به نام‌های \"فائزه و یگانه\" تا خود شب با نور ماشین همراهیش کردن تا به شهر برسه!\nحالا این توریست هلندی اینو پست کرده و به شدت داره از فرهنگ ایرانی‌ها تعریف میکنه\n❤️\n@FUTBALLI18",
-        "original_link": "https://t.me/drtel/67222",
-        "post_id": 67222,
-        "message_id": 5458,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-02T12:58:09.132222+00:00"
-      },
-      {
-        "fingerprint": "68207657a421079b647398aa08c5944a5f02d3d6f5ea9fc2d2299e3397b22d3c",
-        "media_fingerprint": "",
-        "text": "👨‍🏫\nفردا، آغاز حذف و اضافه دانشگاه فرهنگیان نیمسال اول ۱۴۰۵\n🔵\nحذف و اضافه دانشگاه فرهنگیان برای نیمسال اول تحصیلی ۱۴۰۶ - ۱۴۰۵ فردا، شنبه مورخ ۱۱ مهر ماه آغاز می شود و تا ۱۳ مهر ادامه دارد. متقاضیانمی توانند در زمان اعلام شده به سایت گلستان فرهنگیان به نشانی\neducation.cfu.ac.ir\nمراجعه کرده و اقدام به حذف و اضافه نمایند.\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "👨‍🏫\nفردا، آغاز حذف و اضافه دانشگاه فرهنگیان نیمسال اول ۱۴۰۵\n🔵\nحذف و اضافه دانشگاه فرهنگیان برای نیمسال اول تحصیلی ۱۴۰۶ - ۱۴۰۵ فردا، شنبه مورخ ۱۱ مهر ماه آغاز می شود و تا ۱۳ مهر ادامه دارد. متقاضیانمی توانند در زمان اعلام شده به سایت گلستان فرهنگیان به نشانی\neducation.cfu.ac.ir\nمراجعه کرده و اقدام به حذف و اضافه نمایند.\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22865",
-        "post_id": 22865,
-        "message_id": 5459,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet",
-          "onlinecofe_ir",
-          "coffeenetmanager"
-        ],
-        "created_at": "2026-10-02T12:58:12.205877+00:00"
-      },
-      {
-        "fingerprint": "36d0afea591aabb1199297a61966ef62b9e3e857ce3e296c0f1274c3ebc696cd",
-        "media_fingerprint": "6ebdfec725f6a0195210bda47a011c1ec3816babef9a28bad06310a1395a2ddc",
-        "text": "آخه نامسلمون حمل سیمان با لکسوز 600\n😐\nClovE\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "آخه نامسلمون حمل سیمان با لکسوز 600\n😐\nClovE\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461553",
-        "post_id": 461553,
-        "message_id": 5460,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-02T12:58:17.998691+00:00"
-      },
-      {
-        "fingerprint": "478be1af045a08dec1ba358aea9c976450b214fd91674b83b2a6dfa328bf0d39",
-        "media_fingerprint": "376f73692862a1d6f76829470bf10aa6776b9b9b2165e69515eef5b3d968e320",
-        "text": "نقاشی دیواری، پهپاد شاهد در نزدیکی سفارت امارات در تهران، با این عبارت:\n«رررررررر بومب! این صدا از آنچه فکر می‌کنید نزدیک‌تر است! شب‌به‌خیر، امارات…»\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "نقاشی دیواری، پهپاد شاهد در نزدیکی سفارت امارات در تهران، با این عبارت:\n«رررررررر بومب! این صدا از آنچه فکر می‌کنید نزدیک‌تر است! شب‌به‌خیر، امارات…»\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52620",
-        "post_id": 52620,
-        "message_id": 5461,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-02T13:22:34.887393+00:00"
-      },
       {
         "fingerprint": "63ca919baebe11c8f39b1ada42ec8d13d42e6eabadbbd8588c453c95866ecb75",
         "media_fingerprint": "35af31eb0cfbfc813bedbce6603a6f15336f238b7901d0f0a8d72913f2e5fdf6",
@@ -31080,6 +30951,156 @@
           "ajayebe_jahann"
         ],
         "created_at": "2026-10-05T17:07:05.887494+00:00"
+      },
+      {
+        "fingerprint": "811365fc90097a6bdd1355fdb987307e5769431306570e4c065a8046a0a4c267",
+        "media_fingerprint": "2a39b52e027354288b2174affbf35aa47571a9e4aa98403c002043d41a59c2d6",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26327",
+        "post_id": 26327,
+        "message_id": 6515,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-05T17:44:42.890589+00:00"
+      },
+      {
+        "fingerprint": "122e7477fbf39d7ca650020825588085b17ca8558cbc22e8f506ffa7e4315334",
+        "media_fingerprint": "",
+        "text": "🔸\n#الو_اخبار_فارس\n🔹️\nاز شهردار منطقه شیشه گری خواهش دارم یه دوری تو خیابان شیشه گری بزنن واقعا وضعیت آسفالتش خرابه بخدا جلو بندی ماشین هامون نابود شد لطفا یه پیگیری کنید.\n🔹️\nدرباره ماشین هایی که متاسفانه در میدان الله جنب فرودگاه دستغیب آنقدر زیاد توقف دارند که فقط در حد یه ماشین میشه رد شد به طرف مسیر خلیج فارس.\nصدای شهر خود باشید؛ پیام‌ها و ویدیوهای خودتان را برای ما بفرستید\n👇\n@ertebat_ba_fars\n.",
+        "original_username": "akhbarfars",
+        "original_text": "🔸\n#الو_اخبار_فارس\n🔹️\nاز شهردار منطقه شیشه گری خواهش دارم یه دوری تو خیابان شیشه گری بزنن واقعا وضعیت آسفالتش خرابه بخدا جلو بندی ماشین هامون نابود شد لطفا یه پیگیری کنید.\n🔹️\nدرباره ماشین هایی که متاسفانه در میدان الله جنب فرودگاه دستغیب آنقدر زیاد توقف دارند که فقط در حد یه ماشین میشه رد شد به طرف مسیر خلیج فارس.\nصدای شهر خود باشید؛ پیام‌ها و ویدیوهای خودتان را برای ما بفرستید\n👇\n@ertebat_ba_fars\n.",
+        "original_link": "https://t.me/akhbarfars/143118",
+        "post_id": 143118,
+        "message_id": 6517,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-05T17:44:46.248962+00:00"
+      },
+      {
+        "fingerprint": "2077b296aaf31dcef23b924668d7b584d2178dcc1fc41cd87e1226fd58864d31",
+        "media_fingerprint": "",
+        "text": "در آستانه‌ی پخش سریال «مردگی» از لوگوی این سریال رونمایی شد\n🎬\nسریال\n#مردگی\nبه‌زودی و به‌صورت اختصاصی در\n#فیلیمو\nنویسنده: مسعود خاکباز\nکارگردان: امین حسین‌پور\nتهیه‌کننده: احسان ظلی‌پور\nطراح لوگو: سمیرا امیری\n@BajeFilm",
+        "original_username": "bajefilm",
+        "original_text": "در آستانه‌ی پخش سریال «مردگی» از لوگوی این سریال رونمایی شد\n🎬\nسریال\n#مردگی\nبه‌زودی و به‌صورت اختصاصی در\n#فیلیمو\nنویسنده: مسعود خاکباز\nکارگردان: امین حسین‌پور\nتهیه‌کننده: احسان ظلی‌پور\nطراح لوگو: سمیرا امیری\n@BajeFilm",
+        "original_link": "https://t.me/bajefilm/11592",
+        "post_id": 11592,
+        "message_id": 6518,
+        "message_kind": "text",
+        "sources": [
+          "bajefilm"
+        ],
+        "created_at": "2026-10-05T17:44:49.387200+00:00"
+      },
+      {
+        "fingerprint": "baa23a9640baa240a6e79f4684be68ea02c90647e1fce164e2a761f33009aa4b",
+        "media_fingerprint": "eab15986af6d83ba50d41103a647a889a44aecbe3584a76721887cd692ed801e",
+        "text": "فوت‌فتیش\n👢\nباز نکن که خیر نیست؛\n+ جدید از\nبانو آنا د آرماس\nدر پاریس\n📷\n|\n@ShakhMovie",
+        "original_username": "shakhmovie",
+        "original_text": "فوت‌فتیش\n👢\nباز نکن که خیر نیست؛\n+ جدید از\nبانو آنا د آرماس\nدر پاریس\n📷\n|\n@ShakhMovie",
+        "original_link": "https://t.me/Shakhmovie/4064",
+        "post_id": 4064,
+        "message_id": 6519,
+        "message_kind": "caption",
+        "sources": [
+          "shakhmovie"
+        ],
+        "created_at": "2026-10-05T17:45:00.099502+00:00"
+      },
+      {
+        "fingerprint": "cf3f797734acb18defbe8085d25a9ed068c13d9813d24fb1cae95104f44d72a1",
+        "media_fingerprint": "171aeaddb3efd5b1ff806945019aee11634e56e220a0e11d11d9faed0a1171a8",
+        "text": "‌\n‌\n🔴\nرتبه کنکورت اومده؟ انتخاب رشته هنوز مونده؟\nاین بار لازم نیست بین هزاران رشته‌محل سردرگم بشی.\n🎯\n«مسیر»\n، ابزار هوشمند و\nکاملاً رایگان\nفرادرسه که کمک می‌کنه از بین\n۳۴,۰۰۰ رشته‌محل\n، انتخاب‌هات رو بررسی، مقایسه و اولویت‌بندی کنی.\nانتخاب رشته رایگان رو از اینجا شروع کن:\n👇\n🔗\nشروع رایگان انتخاب رشته با مسیر\n[+]\n@MasirGuide",
+        "original_username": "dr_salamatx",
+        "original_text": "‌\n‌\n🔴\nرتبه کنکورت اومده؟ انتخاب رشته هنوز مونده؟\nاین بار لازم نیست بین هزاران رشته‌محل سردرگم بشی.\n🎯\n«مسیر»\n، ابزار هوشمند و\nکاملاً رایگان\nفرادرسه که کمک می‌کنه از بین\n۳۴,۰۰۰ رشته‌محل\n، انتخاب‌هات رو بررسی، مقایسه و اولویت‌بندی کنی.\nانتخاب رشته رایگان رو از اینجا شروع کن:\n👇\n🔗\nشروع رایگان انتخاب رشته با مسیر\n[+]\n@MasirGuide",
+        "original_link": "https://t.me/Dr_SalamatX/55352",
+        "post_id": 55352,
+        "message_id": 6522,
+        "message_kind": "caption",
+        "sources": [
+          "dr_salamatx"
+        ],
+        "created_at": "2026-10-05T17:45:04.504602+00:00"
+      },
+      {
+        "fingerprint": "9596d850252a3137211db87333188f26273276c805423410fbc31ae518716dd8",
+        "media_fingerprint": "",
+        "text": "💵\nمبلغ سود سهام عدالت مهر ۱۴۰۵؛ واریزی جدید چه زمانی به حساب می‌آید؟\n🔵\nطبق آخرین اعلام ولی‌الله جعفری، مدیر نظارت بر ناشران سازمان بورس و اوراق بهادار، مجامع شرکت‌های سرمایه‌پذیر مربوط به عملکرد سال ۱۴۰۴ در سال ۱۴۰۵ برگزار شده‌اند و سود پس از دریافت از این شرکت‌ها و فراهم شدن امکان پرداخت، به حساب مشمولان واریز می‌شود.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "💵\nمبلغ سود سهام عدالت مهر ۱۴۰۵؛ واریزی جدید چه زمانی به حساب می‌آید؟\n🔵\nطبق آخرین اعلام ولی‌الله جعفری، مدیر نظارت بر ناشران سازمان بورس و اوراق بهادار، مجامع شرکت‌های سرمایه‌پذیر مربوط به عملکرد سال ۱۴۰۴ در سال ۱۴۰۵ برگزار شده‌اند و سود پس از دریافت از این شرکت‌ها و فراهم شدن امکان پرداخت، به حساب مشمولان واریز می‌شود.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23003",
+        "post_id": 23003,
+        "message_id": 6523,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-05T17:45:07.702296+00:00"
+      },
+      {
+        "fingerprint": "2c21bc767fc567d49fbf430505aa092ecb0b5241b9fab02e15326a69254d4d98",
+        "media_fingerprint": "edf2204bde0a788e75df31a2556ba471d29cf30e7dabf5f9c8d78639d2c6fe02",
+        "text": "اینستاگرام تو آپدیت جدیدش هرکی که عکس پروفایلشو با هوش‌مصنوعی ساخته باشه، کنارش مینویسه با هوش‌مصنوعی ساخته باشه و هرجا هم کامنت بزاره کنار اسمش مینویسه هوش‌مصنوعی :)))\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "اینستاگرام تو آپدیت جدیدش هرکی که عکس پروفایلشو با هوش‌مصنوعی ساخته باشه، کنارش مینویسه با هوش‌مصنوعی ساخته باشه و هرجا هم کامنت بزاره کنار اسمش مینویسه هوش‌مصنوعی :)))\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52699",
+        "post_id": 52699,
+        "message_id": 6524,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-05T17:45:11.848510+00:00"
+      },
+      {
+        "fingerprint": "c40cc2353aebcc1cc40a5f9ef07f54b57a75ad402c32efeb482856590280f7b7",
+        "media_fingerprint": "e580ba0ff0155bce254d45a2a072f8fd7ec39fffddd72ebf665978e96ab29853",
+        "text": "روزی روزگاری بارسلونا:\n⚽️\n@Hattric_X",
+        "original_username": "hattric_official",
+        "original_text": "روزی روزگاری بارسلونا:\n⚽️\n@Hattric_X",
+        "original_link": "https://t.me/Hattric_Official/84290",
+        "post_id": 84290,
+        "message_id": 6525,
+        "message_kind": "caption",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-05T17:45:15.724424+00:00"
+      },
+      {
+        "fingerprint": "50506f3dce15b0d409ef8b1674cbeac03b2798e978a1596974df6d3f995f6e31",
+        "media_fingerprint": "",
+        "text": "نسخه جدید تلگرام اصلی منتشر شد  :\n☄️\nاکانت پریمیوم رایگان شده\n💥\n✅\nپروکسی های اختصاصی اومده\n🔗\n🌐\nهوش مصنوعی برای تولید عکس و فیلم گذاشته\n▶️\n⌨️\n📸\nکاملا امن دانلود شده از فروشگاه گوگل\n🛒\n💯\n#13توصیه_شده",
+        "original_username": "khandehabadd",
+        "original_text": "نسخه جدید تلگرام اصلی منتشر شد  :\n☄️\nاکانت پریمیوم رایگان شده\n💥\n✅\nپروکسی های اختصاصی اومده\n🔗\n🌐\nهوش مصنوعی برای تولید عکس و فیلم گذاشته\n▶️\n⌨️\n📸\nکاملا امن دانلود شده از فروشگاه گوگل\n🛒\n💯\n#13توصیه_شده",
+        "original_link": "https://t.me/khandehabadd/306783",
+        "post_id": 306783,
+        "message_id": 6526,
+        "message_kind": "text",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-05T17:45:41.091338+00:00"
+      },
+      {
+        "fingerprint": "db8ce4c0025b2bb3672e9697da17038e62e41a99caa1a95845781f41db470d1e",
+        "media_fingerprint": "a5c3f2da8a047ee993a5dfddc005868d50c44b179ed3c3bde35166802675fbca",
+        "text": "اولین لحظه رنگی شدن تلویزیون\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "اولین لحظه رنگی شدن تلویزیون\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306784",
+        "post_id": 306784,
+        "message_id": 6527,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-05T17:45:47.298718+00:00"
       }
     ]
   }
