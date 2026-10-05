@@ -3074,7 +3074,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67399,
+      "last_id": 67401,
       "processed_ids": [
         66561,
         66565,
@@ -3732,7 +3732,9 @@
         67394,
         67395,
         67396,
-        67399
+        67399,
+        67400,
+        67401
       ],
       "sent_count": 383
     },
@@ -4187,7 +4189,7 @@
       "sent_count": 77
     },
     "coffeenetmanager": {
-      "last_id": 51731,
+      "last_id": 51734,
       "processed_ids": [
         51537,
         51538,
@@ -4368,7 +4370,10 @@
         51728,
         51729,
         51730,
-        51731
+        51731,
+        51732,
+        51733,
+        51734
       ],
       "sent_count": 69
     },
@@ -5106,7 +5111,7 @@
       "sent_count": 314
     },
     "comentiat": {
-      "last_id": 26334,
+      "last_id": 26335,
       "processed_ids": [
         25844,
         25845,
@@ -5501,9 +5506,10 @@
         26331,
         26332,
         26333,
-        26334
+        26334,
+        26335
       ],
-      "sent_count": 282
+      "sent_count": 283
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -16221,21 +16227,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "4a7c735b21d81ee2fff22724d591aa1f5502db31e0fcf5021c6587d524bdd846",
-        "media_fingerprint": "",
-        "text": "🔴\nاگه از سینگلی خود ناراضی هستید و مدام از این وضعیت خودتون گِله دارید؛\nپیشنهاد میشه این ویدیو رو حتماً ببینید، قول میدم نظرتون عوض بشه.\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nاگه از سینگلی خود ناراضی هستید و مدام از این وضعیت خودتون گِله دارید؛\nپیشنهاد میشه این ویدیو رو حتماً ببینید، قول میدم نظرتون عوض بشه.\n@DrTeL",
-        "original_link": "https://t.me/drtel/67228",
-        "post_id": 67228,
-        "message_id": 5535,
-        "message_kind": "text",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-02T16:22:35.067698+00:00"
-      },
       {
         "fingerprint": "558f1015f1700fa1b16e5c33bddd04f8f17a6fbe559deeb18e2340095f3f0be9",
         "media_fingerprint": "7d19a27ddb8de427c05ae3fdda3507e757a11e8942d633b350b487e0e40e0c3e",
@@ -31296,6 +31287,21 @@
           "comentiat"
         ],
         "created_at": "2026-10-05T23:05:23.489519+00:00"
+      },
+      {
+        "fingerprint": "ec4a342cc4ce3cfbad843f655f37803323c108018d60ef7c266c4fb8fe78d4f1",
+        "media_fingerprint": "bb79a9271f21309ecb828723cf6467c341683f6020441acffa5be27ac45a9f1a",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26335",
+        "post_id": 26335,
+        "message_id": 6602,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-05T23:40:55.329949+00:00"
       }
     ]
   }
