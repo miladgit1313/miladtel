@@ -1,12 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143075,
+      "last_id": 143079,
       "processed_ids": [
-        141985,
-        141986,
-        141987,
-        141988,
         141989,
         141990,
         141991,
@@ -1002,12 +998,16 @@
         143072,
         143073,
         143074,
-        143075
+        143075,
+        143076,
+        143077,
+        143078,
+        143079
       ],
-      "sent_count": 663
+      "sent_count": 665
     },
     "total_fut": {
-      "last_id": 237242,
+      "last_id": 237243,
       "processed_ids": [
         236405,
         236407,
@@ -1807,14 +1807,14 @@
         237239,
         237240,
         237241,
-        237242
+        237242,
+        237243
       ],
       "sent_count": 58
     },
     "footballvision2": {
-      "last_id": 170374,
+      "last_id": 170375,
       "processed_ids": [
-        169307,
         169308,
         169309,
         169310,
@@ -2813,7 +2813,8 @@
         170371,
         170372,
         170373,
-        170374
+        170374,
+        170375
       ],
       "sent_count": 69
     },
@@ -2839,7 +2840,7 @@
       "sent_count": 4
     },
     "fars_today": {
-      "last_id": 132129,
+      "last_id": 132130,
       "processed_ids": [
         131975,
         131976,
@@ -2991,7 +2992,8 @@
         132126,
         132127,
         132128,
-        132129
+        132129,
+        132130
       ],
       "sent_count": 93
     },
@@ -3021,7 +3023,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67360,
+      "last_id": 67363,
       "processed_ids": [
         66561,
         66565,
@@ -3651,9 +3653,10 @@
         67354,
         67355,
         67359,
-        67360
+        67360,
+        67363
       ],
-      "sent_count": 369
+      "sent_count": 370
     },
     "techtube": {
       "last_id": 18434,
@@ -4088,7 +4091,7 @@
       "sent_count": 75
     },
     "coffeenetmanager": {
-      "last_id": 51723,
+      "last_id": 51724,
       "processed_ids": [
         51537,
         51538,
@@ -4261,9 +4264,10 @@
         51720,
         51721,
         51722,
-        51723
+        51723,
+        51724
       ],
-      "sent_count": 68
+      "sent_count": 69
     },
     "roidbest": {
       "last_id": 21779,
@@ -4433,7 +4437,7 @@
       "sent_count": 102
     },
     "akhbar_cafenet": {
-      "last_id": 22976,
+      "last_id": 22981,
       "processed_ids": [
         22432,
         22433,
@@ -4952,12 +4956,17 @@
         22973,
         22974,
         22975,
-        22976
+        22976,
+        22977,
+        22978,
+        22979,
+        22980,
+        22981
       ],
-      "sent_count": 303
+      "sent_count": 304
     },
     "comentiat": {
-      "last_id": 26310,
+      "last_id": 26311,
       "processed_ids": [
         25844,
         25845,
@@ -5337,9 +5346,10 @@
         26307,
         26308,
         26309,
-        26310
+        26310,
+        26311
       ],
-      "sent_count": 271
+      "sent_count": 272
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -5542,7 +5552,7 @@
       "sent_count": 119
     },
     "gizmiztel": {
-      "last_id": 162779,
+      "last_id": 162787,
       "processed_ids": [
         161872,
         161875,
@@ -6360,9 +6370,17 @@
         162776,
         162777,
         162778,
-        162779
+        162779,
+        162780,
+        162781,
+        162782,
+        162783,
+        162784,
+        162785,
+        162786,
+        162787
       ],
-      "sent_count": 536
+      "sent_count": 539
     },
     "dr_salamatx": {
       "last_id": 55349,
@@ -6451,7 +6469,7 @@
       "sent_count": 50
     },
     "jaleb": {
-      "last_id": 52687,
+      "last_id": 52690,
       "processed_ids": [
         52261,
         52262,
@@ -6826,12 +6844,15 @@
         52683,
         52684,
         52686,
-        52687
+        52687,
+        52688,
+        52689,
+        52690
       ],
-      "sent_count": 200
+      "sent_count": 201
     },
     "ajayebe_jahann": {
-      "last_id": 159519,
+      "last_id": 159522,
       "processed_ids": [
         158956,
         158957,
@@ -7389,9 +7410,12 @@
         159516,
         159517,
         159518,
-        159519
+        159519,
+        159520,
+        159521,
+        159522
       ],
-      "sent_count": 250
+      "sent_count": 251
     },
     "etelaate_omoomi": {
       "last_id": 43128,
@@ -7585,9 +7609,8 @@
       "sent_count": 45
     },
     "ft360_ir": {
-      "last_id": 109024,
+      "last_id": 109025,
       "processed_ids": [
-        107962,
         107963,
         107964,
         107965,
@@ -8586,12 +8609,13 @@
         109021,
         109022,
         109023,
-        109024
+        109024,
+        109025
       ],
       "sent_count": 58
     },
     "varzesh3": {
-      "last_id": 303391,
+      "last_id": 303393,
       "processed_ids": [
         302363,
         302364,
@@ -9518,12 +9542,14 @@
         303388,
         303389,
         303390,
-        303391
+        303391,
+        303392,
+        303393
       ],
       "sent_count": 46
     },
     "totalfut_plus": {
-      "last_id": 26446,
+      "last_id": 26448,
       "processed_ids": [
         25870,
         25871,
@@ -10086,12 +10112,14 @@
         26443,
         26444,
         26445,
-        26446
+        26446,
+        26447,
+        26448
       ],
       "sent_count": 29
     },
     "adak_ir_official": {
-      "last_id": 234733,
+      "last_id": 234736,
       "processed_ids": [
         233831,
         233833,
@@ -10975,12 +11003,15 @@
         234730,
         234731,
         234732,
-        234733
+        234733,
+        234734,
+        234735,
+        234736
       ],
       "sent_count": 107
     },
     "futball180tv": {
-      "last_id": 107850,
+      "last_id": 107851,
       "processed_ids": [
         106848,
         106849,
@@ -11967,12 +11998,13 @@
         107847,
         107848,
         107849,
-        107850
+        107850,
+        107851
       ],
-      "sent_count": 37
+      "sent_count": 38
     },
     "hattric_official": {
-      "last_id": 84262,
+      "last_id": 84265,
       "processed_ids": [
         83433,
         83434,
@@ -12752,7 +12784,10 @@
         84259,
         84260,
         84261,
-        84262
+        84262,
+        84263,
+        84264,
+        84265
       ],
       "sent_count": 50
     },
@@ -13220,7 +13255,7 @@
       "sent_count": 2
     },
     "irwonders": {
-      "last_id": 58329,
+      "last_id": 58330,
       "processed_ids": [
         58030,
         58031,
@@ -13483,9 +13518,10 @@
         58326,
         58327,
         58328,
-        58329
+        58329,
+        58330
       ],
-      "sent_count": 172
+      "sent_count": 173
     },
     "razcom": {
       "last_id": 70478,
@@ -15664,201 +15700,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "aaa8ef959c60da453d3a377835048bd60b7edabfd4847e0e4c9c85493ad0945e",
-        "media_fingerprint": "9aff977385c118ebc1363844898cb565c0c18f25dbd3bf6cc4de311883b35cc1",
-        "text": "🎥\nهمکاران عزیزی که ساعت‌های زیادی پشت سیستم می‌شینن، فقط ۱ دقیقه در روز برای شونه‌ها و قامت زیباشون این حرکات رو انجام بدن!\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🎥\nهمکاران عزیزی که ساعت‌های زیادی پشت سیستم می‌شینن، فقط ۱ دقیقه در روز برای شونه‌ها و قامت زیباشون این حرکات رو انجام بدن!\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22854",
-        "post_id": 22854,
-        "message_id": 5303,
-        "message_kind": "caption",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-02T06:32:50.057001+00:00"
-      },
-      {
-        "fingerprint": "2e7ea477b9c811bb9655d58a3a96b9d1e8a655880569686305ee3451a66bdeae",
-        "media_fingerprint": "8ef2cc7260b46f899ce03233124971827732a86fbc9c2658a761d2c9576ab6a3",
-        "text": "🎥\nهمکاران عزیزی که ساعت‌های زیادی پشت سیستم می‌شینن، فقط ۱ دقیقه در روز برای شونه‌ها و قامت زیباشون این حرکات رو انجام بدن!\n✦✦✦ آنلاین کافه ✦✦✦\nکانال تلگرام :\n@onlinecofe_ir\nوبلاگ اخبار :\nonlinecofe.ir/news",
-        "original_username": "onlinecofe_ir",
-        "original_text": "🎥\nهمکاران عزیزی که ساعت‌های زیادی پشت سیستم می‌شینن، فقط ۱ دقیقه در روز برای شونه‌ها و قامت زیباشون این حرکات رو انجام بدن!\n✦✦✦ آنلاین کافه ✦✦✦\nکانال تلگرام :\n@onlinecofe_ir\nوبلاگ اخبار :\nonlinecofe.ir/news",
-        "original_link": "https://t.me/onlinecofe_ir/2863",
-        "post_id": 2863,
-        "message_id": 5304,
-        "message_kind": "caption",
-        "sources": [
-          "onlinecofe_ir"
-        ],
-        "created_at": "2026-10-02T06:32:56.013890+00:00"
-      },
-      {
-        "fingerprint": "c904c559912ef5dc1bdd7ecca6fc6712d67f392ee3f8ba699f8608e8a612779c",
-        "media_fingerprint": "bbb0f1a8c273ee18db5b351a27f30adcacd4ac18137cbf897289e4bd1257ec60",
-        "text": "کم‌ارزش‌ترین اسکناس دنیا متعلق به کدوم کشوره؟\n💵\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "کم‌ارزش‌ترین اسکناس دنیا متعلق به کدوم کشوره؟\n💵\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159435",
-        "post_id": 159435,
-        "message_id": 5305,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-02T06:57:43.446810+00:00"
-      },
-      {
-        "fingerprint": "0e5ddd76e81b5498da6aa50b6c632a1c143a6fd3216d1cb772693a4ccf727228",
-        "media_fingerprint": "8481e374150db7d124f0b2f3e747a066aac0d9a2b103249a22cecdb965a4be17",
-        "text": "🔴\nدر اقدامی عجیب، تو بازی دوستانه دیشب کونیا اسپور و تیم ملی فلسطین، بازی رو دقیقه 89:59 متوقف کردن و گفتن ادامه بازی زمانی برگزار میشه که فلسطین آزاد بشه.\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "🔴\nدر اقدامی عجیب، تو بازی دوستانه دیشب کونیا اسپور و تیم ملی فلسطین، بازی رو دقیقه 89:59 متوقف کردن و گفتن ادامه بازی زمانی برگزار میشه که فلسطین آزاد بشه.\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52612",
-        "post_id": 52612,
-        "message_id": 5306,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-02T06:57:47.952580+00:00"
-      },
-      {
-        "fingerprint": "9f7bc0cdfe6eb6e8d6f78607273ffc1b6fdd460c66ad1d6fc59860296cce2d20",
-        "media_fingerprint": "5d1f70f407f321e23414f1b207a3cc7142c036768b2a684ddeff9baf54f72ea1",
-        "text": "🔴\nیه عکسی جدیدا وایرال شده از تابلویی که بالای آبخوری یکی از مدارس دخترونه تو تهران نصب کردن :\nیک دختر خوب آب را هدر نمیدهد\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "🔴\nیه عکسی جدیدا وایرال شده از تابلویی که بالای آبخوری یکی از مدارس دخترونه تو تهران نصب کردن :\nیک دختر خوب آب را هدر نمیدهد\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52613",
-        "post_id": 52613,
-        "message_id": 5307,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-02T06:57:51.936907+00:00"
-      },
-      {
-        "fingerprint": "1523760857723128e85096efb78430f530119644a090e28af18494d7e4d69883",
-        "media_fingerprint": "",
-        "text": "بچها هیچیتون نیست\nفقط پول ندارین\nقسمتای قشنگ زندگی پولیه\n💬\ngiginhastam\nNiNa\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "بچها هیچیتون نیست\nفقط پول ندارین\nقسمتای قشنگ زندگی پولیه\n💬\ngiginhastam\nNiNa\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461482",
-        "post_id": 461482,
-        "message_id": 5308,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-02T06:57:54.490582+00:00"
-      },
-      {
-        "fingerprint": "64eaf46599df5511fc17ef312f3de67997f1e9295c655508dc681b64054e6a5d",
-        "media_fingerprint": "c1b1ea0e9fc068f9f5fa882ae7c9b7e784b6e4b2dbb0a56e7754ad363c9eadb0",
-        "text": "💪\nاگه اهل باشگاه و ورزشی، این هوش مصنوعی‌ها برات معجزه می‌کنن!\n📰\nبا توجه به اینکه فردا شنبه‌س ، دیگه هیچ بهانه‌ای واسه شروع نکردن باشگاه نداری :))) با این ابزارهای هوش مصنوعی میتونی مثل یک مربی اختصاصی ۲۴ ساعته تمریناتت رو مدیریت کنی :\n1️⃣\nابزار اول : Freeletics\n⬅️\nطراحی برنامه‌های ورزشی اختصاصی و شخصی‌سازی‌شده متناسب با سطح بدن شما برای تناسب اندام و سلامتی بیشتر.\n2️⃣\nابزار دوم : WHOOP\n⬅️\nتحلیل فوق‌العاده‌ی عملکرد، سطح انرژی، میزان ریکاوری و وضعیت کلی بدن.\n3️⃣\nابزار سوم : Oura\n⬅️\nبررسی دقیق کیفیت خواب، ریکاوری عضلانی و سلامت عمومی در طول روز.\n4️⃣\nابزار چهارم : Fitbod\n⬅️\nیکی از بهترین‌ها برای طراحی و تنظیم برنامه‌های بدنسازی و تمرینات قدرتی کاملاً متناسب با تجهیزات و شرایط شما.\n5️⃣\nابزار پنجم : Noom\n⬅️\nتنظیم رژیم غذایی هوشمند و مدیریت وزن با رویکرد علمی و روان‌شناختی.\n@RoidBest",
-        "original_username": "roidbest",
-        "original_text": "💪\nاگه اهل باشگاه و ورزشی، این هوش مصنوعی‌ها برات معجزه می‌کنن!\n📰\nبا توجه به اینکه فردا شنبه‌س ، دیگه هیچ بهانه‌ای واسه شروع نکردن باشگاه نداری :))) با این ابزارهای هوش مصنوعی میتونی مثل یک مربی اختصاصی ۲۴ ساعته تمریناتت رو مدیریت کنی :\n1️⃣\nابزار اول : Freeletics\n⬅️\nطراحی برنامه‌های ورزشی اختصاصی و شخصی‌سازی‌شده متناسب با سطح بدن شما برای تناسب اندام و سلامتی بیشتر.\n2️⃣\nابزار دوم : WHOOP\n⬅️\nتحلیل فوق‌العاده‌ی عملکرد، سطح انرژی، میزان ریکاوری و وضعیت کلی بدن.\n3️⃣\nابزار سوم : Oura\n⬅️\nبررسی دقیق کیفیت خواب، ریکاوری عضلانی و سلامت عمومی در طول روز.\n4️⃣\nابزار چهارم : Fitbod\n⬅️\nیکی از بهترین‌ها برای طراحی و تنظیم برنامه‌های بدنسازی و تمرینات قدرتی کاملاً متناسب با تجهیزات و شرایط شما.\n5️⃣\nابزار پنجم : Noom\n⬅️\nتنظیم رژیم غذایی هوشمند و مدیریت وزن با رویکرد علمی و روان‌شناختی.\n@RoidBest",
-        "original_link": "https://t.me/RoidBest/21749",
-        "post_id": 21749,
-        "message_id": 5309,
-        "message_kind": "caption",
-        "sources": [
-          "roidbest"
-        ],
-        "created_at": "2026-10-02T06:57:59.747011+00:00"
-      },
-      {
-        "fingerprint": "253ee0cc96793d16a16d332920877615fed60a7733b34aab8e0647d54aaf6f54",
-        "media_fingerprint": "",
-        "text": "🔺\n🔻\nهشدار نارنجی هواشناسی برای ۱۸ استان\n🔹\nسامانه هواشناسی با پیش‌بینی تشدید بارش در ۱۸ استان، هشدار نارنجی صادر کرد.\n🔹\nامروز جمعه: رگبار باران، رعد و برق و باد شدید موقت در آذربایجان غربی، آذربایجان شرقی، اردبیل، کردستان، ارتفاعات زنجان، قزوین، البرز، تهران، گیلان، مازندران و مناطق فارس، هرمزگان، کرمان و سیستان و بلوچستان منجر به سیلاب، طغیان رودخانه‌ها، آبگرفتگی و خسارت به کشاورزی می‌شود.\n🔹\nفردا شنبه: شرایط مشابه علاوه بر ۱۴ استان فوق، برای گلستان، لرستان، خوزستان و اصفهان پیش‌بینی می‌شود.\n🔹\nهموطنان در این استان‌ها از تردد در حاشیه و بستر رودخانه‌ها و مسیل‌ها خودداری کنند.",
-        "original_username": "fars_today",
-        "original_text": "🔺\n🔻\nهشدار نارنجی هواشناسی برای ۱۸ استان\n🔹\nسامانه هواشناسی با پیش‌بینی تشدید بارش در ۱۸ استان، هشدار نارنجی صادر کرد.\n🔹\nامروز جمعه: رگبار باران، رعد و برق و باد شدید موقت در آذربایجان غربی، آذربایجان شرقی، اردبیل، کردستان، ارتفاعات زنجان، قزوین، البرز، تهران، گیلان، مازندران و مناطق فارس، هرمزگان، کرمان و سیستان و بلوچستان منجر به سیلاب، طغیان رودخانه‌ها، آبگرفتگی و خسارت به کشاورزی می‌شود.\n🔹\nفردا شنبه: شرایط مشابه علاوه بر ۱۴ استان فوق، برای گلستان، لرستان، خوزستان و اصفهان پیش‌بینی می‌شود.\n🔹\nهموطنان در این استان‌ها از تردد در حاشیه و بستر رودخانه‌ها و مسیل‌ها خودداری کنند.",
-        "original_link": "https://t.me/Fars_today/132105",
-        "post_id": 132105,
-        "message_id": 5310,
-        "message_kind": "text",
-        "sources": [
-          "fars_today"
-        ],
-        "created_at": "2026-10-02T06:58:03.005670+00:00"
-      },
-      {
-        "fingerprint": "74e53505b99bc2174a7064149d6f583f4af3b890114be83bc604d6209d8fd3f9",
-        "media_fingerprint": "",
-        "text": "من تقریباً ۳ ماهه که قند، آرد سفید، چربی‌های ترانس، فست فود و غذاهای فرآوری شده رو حذف کردم و هفته‌ای ۴-۵ روز ورزش می‌کنم. قبلاً این حرف‌ها رو زیاد می‌شنیدم ولی باور نمی‌کردم که تغییر سبک زندگی تا این حد روی حال عمومی آدم تأثیر بذاره، اما در این مدت متوجه شدم اضطراب، استرس و بی‌قراری روزانه‌ام کمتر شده، کمتر احساس گرسنگی می‌کنم و از نظر روانی احساس ثبات بیشتری دارم.\nترکیب ورزش منظم و تغذیه‌ی سالم واقعاً فوق‌العاده‌ست، به همه‌تون پیشنهادش می‌کنم.\n💬\nTheIranianPsy\nNiNa\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "من تقریباً ۳ ماهه که قند، آرد سفید، چربی‌های ترانس، فست فود و غذاهای فرآوری شده رو حذف کردم و هفته‌ای ۴-۵ روز ورزش می‌کنم. قبلاً این حرف‌ها رو زیاد می‌شنیدم ولی باور نمی‌کردم که تغییر سبک زندگی تا این حد روی حال عمومی آدم تأثیر بذاره، اما در این مدت متوجه شدم اضطراب، استرس و بی‌قراری روزانه‌ام کمتر شده، کمتر احساس گرسنگی می‌کنم و از نظر روانی احساس ثبات بیشتری دارم.\nترکیب ورزش منظم و تغذیه‌ی سالم واقعاً فوق‌العاده‌ست، به همه‌تون پیشنهادش می‌کنم.\n💬\nTheIranianPsy\nNiNa\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461483",
-        "post_id": 461483,
-        "message_id": 5311,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-02T06:58:06.140767+00:00"
-      },
-      {
-        "fingerprint": "3d06d16dda9e4e4bae914a6f9db987aac6edfb21d4f7127e8a7622ee2c471c49",
-        "media_fingerprint": "67852eabca28dc21670d1c795357e2adedc7c916cca618148960df88e988f393",
-        "text": "واتیکان کوچک‌ترین کشور جهان است؛ اما در همین فهرست، ۱۵ کشور دیگر هم صاحب یک رکورد ۱ جهانی دیگرند.\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "واتیکان کوچک‌ترین کشور جهان است؛ اما در همین فهرست، ۱۵ کشور دیگر هم صاحب یک رکورد ۱ جهانی دیگرند.\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159436",
-        "post_id": 159436,
-        "message_id": 5312,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-02T06:58:10.478902+00:00"
-      },
-      {
-        "fingerprint": "104b0c597d2ffd8dab2fccf60ae5c4a0654fb8eb787c8b8b2000b28fab7e1609",
-        "media_fingerprint": "cae2b359873ec4e66ee5736ccbd75337fdf9aff8875f841291207e0874789175",
-        "text": "آخرین سرعت واسه نجات زندگی\n😅\n💬\nanyone\nNiNa\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "آخرین سرعت واسه نجات زندگی\n😅\n💬\nanyone\nNiNa\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461484",
-        "post_id": 461484,
-        "message_id": 5313,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-02T06:58:15.175774+00:00"
-      },
-      {
-        "fingerprint": "99e59f95d61a183e0c071e6f397654f01d2bc445404acca3d6009bcdda39512d",
-        "media_fingerprint": "99493c96072634a2b73de0aef3edf0a47905daf3e72e694a605fb50ded9ca00c",
-        "text": "علائم و نشانه‌های کبد چرب\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_username": "majalepezeshki",
-        "original_text": "علائم و نشانه‌های کبد چرب\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_link": "https://t.me/MajalePezeshki/38585",
-        "post_id": 38585,
-        "message_id": 5314,
-        "message_kind": "caption",
-        "sources": [
-          "majalepezeshki"
-        ],
-        "created_at": "2026-10-02T06:58:19.458777+00:00"
-      },
-      {
-        "fingerprint": "db3cbaadce00ad3cfef4856b0cbbfe2c5f0c945d1bfb43d4cbb390bd45e615f8",
-        "media_fingerprint": "661a40cc5a9efdd6f29b2c791911fc446bf8d9fb69e96f122989280bb341170a",
-        "text": "♦️\nبرخورد ۲ سواری در آزادراه شیراز اصفهان با سه مصدوم\nمسئول اورژانس ۱۱۵ شهرستان آباده:\n🔹️\nدر پی برخورد خودروی تیبا با وانت نیسان در ۱۵ کیلومتری در آزادراه شیراز - اصفهان ، کارشناسان پایگاه ایزدخواست به محل حادثه اعزام شدند.\n🔹️\nدر این حادثه یک نفر به صورت سرپایی در محل درمان و ۲ مصدوم دیگر پس از دریافت اقدامات درمانی اولیه به بیمارستان شهر ایزدخواست آباده منتقل شدند.\n#حادثه\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nبرخورد ۲ سواری در آزادراه شیراز اصفهان با سه مصدوم\nمسئول اورژانس ۱۱۵ شهرستان آباده:\n🔹️\nدر پی برخورد خودروی تیبا با وانت نیسان در ۱۵ کیلومتری در آزادراه شیراز - اصفهان ، کارشناسان پایگاه ایزدخواست به محل حادثه اعزام شدند.\n🔹️\nدر این حادثه یک نفر به صورت سرپایی در محل درمان و ۲ مصدوم دیگر پس از دریافت اقدامات درمانی اولیه به بیمارستان شهر ایزدخواست آباده منتقل شدند.\n#حادثه\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142855",
-        "post_id": 142855,
-        "message_id": 5315,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-02T07:21:47.729096+00:00"
-      },
       {
         "fingerprint": "f349c12880fc813141ab364f25a9d1c2c2c0bb3fc27e4800e7c83295c232532f",
         "media_fingerprint": "968d5bcc53334021137a516cfa381beb532a76d33a9f911df9a4964b81950603",
@@ -30743,6 +30584,201 @@
           "footballvision2"
         ],
         "created_at": "2026-10-05T08:08:52.297618+00:00"
+      },
+      {
+        "fingerprint": "44ff47b089d057f159729219e7c878c7e692da0dffba04c87024016921eb7aea",
+        "media_fingerprint": "fae618c6b417fcd0cbba8e4a1fc5940a6392fd4ebf331bf579a913159b388437",
+        "text": "هر حسی چه چیزی رو بهت نشون میده:\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "هر حسی چه چیزی رو بهت نشون میده:\n@irWonders",
+        "original_link": "https://t.me/irwonders/58330",
+        "post_id": 58330,
+        "message_id": 6349,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-05T08:47:14.616153+00:00"
+      },
+      {
+        "fingerprint": "5355bab6d45929782f5d34bac28ce368b06540315fad16d311ddfe9a02618c82",
+        "media_fingerprint": "",
+        "text": "♦️\nسخنگوی شورای نگهبان: فردی که توانایی مالی پرداخت مهریه را دارد، مکلف به پرداخت است و در صورت تمرد، حبس او مجاز است\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nسخنگوی شورای نگهبان: فردی که توانایی مالی پرداخت مهریه را دارد، مکلف به پرداخت است و در صورت تمرد، حبس او مجاز است\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143076",
+        "post_id": 143076,
+        "message_id": 6354,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-05T08:47:17.530075+00:00"
+      },
+      {
+        "fingerprint": "e66418f95248b5cece9583f357be0b4a6a3ab332fee98051a315c8bc92e13f21",
+        "media_fingerprint": "",
+        "text": "⭕️\nدبیر شورای عالی فضای مجازی: فناوری از کار انداختن استارلینک را در اختیار داریم استارلینک را در دی‌ماه منهدم کردیم و فناوری‌های مشابه آماده داریم./ دیجیاتو\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "⭕️\nدبیر شورای عالی فضای مجازی: فناوری از کار انداختن استارلینک را در اختیار داریم استارلینک را در دی‌ماه منهدم کردیم و فناوری‌های مشابه آماده داریم./ دیجیاتو\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/22977",
+        "post_id": 22977,
+        "message_id": 6355,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-05T08:47:20.364012+00:00"
+      },
+      {
+        "fingerprint": "ca06d33975b82b9abdbc808ac12018a5eca830fcab830a053875a4ad58839e9c",
+        "media_fingerprint": "7dd9c5c872b85519de4b89c5f887de05a3188235fe144bec440695ae2e0a2405",
+        "text": "♦️\nاعلام نتایج تکمیل ظرفیت فراگیر سیزدهم ۱۴۰۴\n🔗\nلینک مشاهده نتایج",
+        "original_username": "coffeenetmanager",
+        "original_text": "♦️\nاعلام نتایج تکمیل ظرفیت فراگیر سیزدهم ۱۴۰۴\n🔗\nلینک مشاهده نتایج",
+        "original_link": "https://t.me/CoffeenetManager/51724",
+        "post_id": 51724,
+        "message_id": 6356,
+        "message_kind": "caption",
+        "sources": [
+          "coffeenetmanager"
+        ],
+        "created_at": "2026-10-05T08:47:24.544646+00:00"
+      },
+      {
+        "fingerprint": "979c1ff190826e9699f7226537637ed40afc64c82aed597b307d02827db4f62b",
+        "media_fingerprint": "32270f13c75d6452d80e1c87d9e284fc0218b22cb08e377e3fabe3b549f667da",
+        "text": "🔻\nقوی ترین قدرت فک متعلق به کدام حیوانات است\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "🔻\nقوی ترین قدرت فک متعلق به کدام حیوانات است\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/159522",
+        "post_id": 159522,
+        "message_id": 6357,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-05T08:47:31.369756+00:00"
+      },
+      {
+        "fingerprint": "da99e579a139bd23c176601bb244153dba94ac75b0d9f51da83e5e00464d154f",
+        "media_fingerprint": "89e1e4a68435aa680d897e11b95359b1f065f695343c48066716cd9ec57b5ea4",
+        "text": "🔴\nامروز 5 October، روز مبارزه با تن‌فروشیه.\n+تو این روز، اگه رفیقی داری یا کسی رو میشناسی که میدونی تن‌فروشی می‌کنه یا میده، بهش بگو: امروز نده یا حداقل کمتر بده\n@DrTeL\n| IDNP",
+        "original_username": "drtel",
+        "original_text": "🔴\nامروز 5 October، روز مبارزه با تن‌فروشیه.\n+تو این روز، اگه رفیقی داری یا کسی رو میشناسی که میدونی تن‌فروشی می‌کنه یا میده، بهش بگو: امروز نده یا حداقل کمتر بده\n@DrTeL\n| IDNP",
+        "original_link": "https://t.me/drtel/67363",
+        "post_id": 67363,
+        "message_id": 6358,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-05T08:47:35.779327+00:00"
+      },
+      {
+        "fingerprint": "de18f41531efddf3bfba137a4006018fb929102338093ae4d71e1b1c279b6620",
+        "media_fingerprint": "e21483cd7e8fdf76a2246b08e77fc49f62c8b4296dad39e3d88096c9e7e9e183",
+        "text": "📊\n🇪🇸\nعملکرد مهاجمان بارسلونا در این‌فصل چه در بازی‌های باشگاهی و چه بازی‌های‌ملی\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "📊\n🇪🇸\nعملکرد مهاجمان بارسلونا در این‌فصل چه در بازی‌های باشگاهی و چه بازی‌های‌ملی\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/107851",
+        "post_id": 107851,
+        "message_id": 6359,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-05T08:47:40.080988+00:00"
+      },
+      {
+        "fingerprint": "b8a456fc9f61754a63485e8948619a0593cc99dc6c92d753129223b6af12b481",
+        "media_fingerprint": "1b441436081140bbacf53fd13b2acf5eed4809fb24d5df75b3fadc0e09708506",
+        "text": "خیلی عجیبه ولی هرکسی بخونه میگه وا، این چطوری از روی تجربه‌های زندگی من نوت برداشته =)))))\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "خیلی عجیبه ولی هرکسی بخونه میگه وا، این چطوری از روی تجربه‌های زندگی من نوت برداشته =)))))\n@comentiat",
+        "original_link": "https://t.me/Comentiat/26311",
+        "post_id": 26311,
+        "message_id": null,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-05T08:48:15.051645+00:00"
+      },
+      {
+        "fingerprint": "30ea5922283130d908387aa6492fb30ad3217a32012aa0423fbdbedd9fe29f27",
+        "media_fingerprint": "4de11d43c2bde1f889ee570eeab7c7bb5db0f669b6db5cc91eab8a09ae768022",
+        "text": "♦️\nساعت‌ها دور از خانه،\nدور از خانواده و فرزندانی که چشم‌انتظارند...\n🔹\nپشت هر لباس خدمت، خانواده‌ای هم هست که سهمش از این مسئولیت، دلتنگی و انتظار است.\n🔹\nروز نیروی انتظامی گرامی باد\n🇮🇷\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nساعت‌ها دور از خانه،\nدور از خانواده و فرزندانی که چشم‌انتظارند...\n🔹\nپشت هر لباس خدمت، خانواده‌ای هم هست که سهمش از این مسئولیت، دلتنگی و انتظار است.\n🔹\nروز نیروی انتظامی گرامی باد\n🇮🇷\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143079",
+        "post_id": 143079,
+        "message_id": 6366,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-05T08:48:21.623715+00:00"
+      },
+      {
+        "fingerprint": "7ffbd4ec325c613b5960643e5674be922014e47b8a877cc5e57044927e4de3eb",
+        "media_fingerprint": "c7d8ec2c4aae66cc81e65d013393a0fc790ff107b7c1101de70590353df41e16",
+        "text": "۳ سال تلویزیون نداشتیم؛ از خیلی از تفریحاتمون زدیم!\nنیلسا حیدریان، دانش‌آموز آملی و رتبه ۵ کنکور ریاضی، گفت تو سال‌های گذشته روزانه ۱۰ تا ۱۱ ساعت درس می‌خونده و برای رسیدن به این موفقیت از بسیاری از تفریحاتش گذشته\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "۳ سال تلویزیون نداشتیم؛ از خیلی از تفریحاتمون زدیم!\nنیلسا حیدریان، دانش‌آموز آملی و رتبه ۵ کنکور ریاضی، گفت تو سال‌های گذشته روزانه ۱۰ تا ۱۱ ساعت درس می‌خونده و برای رسیدن به این موفقیت از بسیاری از تفریحاتش گذشته\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162781",
+        "post_id": 162781,
+        "message_id": 6367,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-05T08:48:28.008237+00:00"
+      },
+      {
+        "fingerprint": "0c7026ad459baa36ad62d467013bc799c193af9bdd1196d001f4c3082182f911",
+        "media_fingerprint": "cba7b9f9d52747a6f7b06a97ab7656495aecd0d956776cee75844946d9ac8a10",
+        "text": "پادکست روان‌شناسی روزانه‌ی دیلی مود منتشر شد.\nدر دیلی مود که محصول جدید کوزی کرنر است حسین نصیری به عنوان میزبان و یاسمین غفاری روان‌شناس و روان‌درمانگر هر روز ۷:۰۰ صبح به گفتگو در مورد یک سوال روان‌شناسی می‌پردازند.\nاین پادکست صوتی روزانه را می‌توانید در\nکست‌باکس\n،\nاپل‌پادکستز\n،\nاسپاتیفای\nو دیگر پادگیرهای معتبر بشنوید.\nهر روز، یک سوال، یک گفتگو\nساعت ۷:۰۰ صبح\nدر دیلی مود\n@dailymoodpodcast",
+        "original_username": "gizmiztel",
+        "original_text": "پادکست روان‌شناسی روزانه‌ی دیلی مود منتشر شد.\nدر دیلی مود که محصول جدید کوزی کرنر است حسین نصیری به عنوان میزبان و یاسمین غفاری روان‌شناس و روان‌درمانگر هر روز ۷:۰۰ صبح به گفتگو در مورد یک سوال روان‌شناسی می‌پردازند.\nاین پادکست صوتی روزانه را می‌توانید در\nکست‌باکس\n،\nاپل‌پادکستز\n،\nاسپاتیفای\nو دیگر پادگیرهای معتبر بشنوید.\nهر روز، یک سوال، یک گفتگو\nساعت ۷:۰۰ صبح\nدر دیلی مود\n@dailymoodpodcast",
+        "original_link": "https://t.me/gizmiztel/162786",
+        "post_id": 162786,
+        "message_id": 6368,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-05T08:48:32.849752+00:00"
+      },
+      {
+        "fingerprint": "31f1a63d7171299cb6caba3c8d95bdb4f0f7a6bdf2c0455a36c20a5379bb97f8",
+        "media_fingerprint": "5edbfe4b0b5538bdce5af005c6bb03eb326848c73c2e6a62f779d3338ec231b0",
+        "text": "دوتا از لوکس ترین مدارس بالا شهر تهران که شهریه شون یک میلیارد تومنه.\nپول همه مشکلات رو حل میکنه.\nسازمان سنجش اعلام کرد هیچکدوم از ۳۰ نفر برتر رتبه های کنکور در مدارس عادی دولتی درس نخوندن و این در حالیه که ۸۰ درصد دانش آموزا تو مدارس عادی دولتین.\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "دوتا از لوکس ترین مدارس بالا شهر تهران که شهریه شون یک میلیارد تومنه.\nپول همه مشکلات رو حل میکنه.\nسازمان سنجش اعلام کرد هیچکدوم از ۳۰ نفر برتر رتبه های کنکور در مدارس عادی دولتی درس نخوندن و این در حالیه که ۸۰ درصد دانش آموزا تو مدارس عادی دولتین.\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162787",
+        "post_id": 162787,
+        "message_id": 6369,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-05T08:48:39.425345+00:00"
+      },
+      {
+        "fingerprint": "60896a8ad1f567f31737883f2a3431c30eea0e5d41a5349c21a04097b7c7f8db",
+        "media_fingerprint": "1c818fc836cc8a526d6ee655ab484f734f921d47e58980ed39de782080f573a8",
+        "text": "شاهکاری دیگر از بانوان سرزمینم\nبا موتور مستقیم رفت توی رستوران :)))\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "شاهکاری دیگر از بانوان سرزمینم\nبا موتور مستقیم رفت توی رستوران :)))\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52690",
+        "post_id": 52690,
+        "message_id": 6370,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-05T08:49:03.998867+00:00"
       }
     ]
   }
