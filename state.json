@@ -1,12 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143060,
+      "last_id": 143064,
       "processed_ids": [
-        141970,
-        141971,
-        141972,
-        141973,
         141974,
         141975,
         141976,
@@ -1002,9 +998,13 @@
         143057,
         143058,
         143059,
-        143060
+        143060,
+        143061,
+        143062,
+        143063,
+        143064
       ],
-      "sent_count": 655
+      "sent_count": 657
     },
     "total_fut": {
       "last_id": 237236,
@@ -1806,9 +1806,8 @@
       "sent_count": 57
     },
     "footballvision2": {
-      "last_id": 170364,
+      "last_id": 170365,
       "processed_ids": [
-        169297,
         169298,
         169299,
         169300,
@@ -2807,7 +2806,8 @@
         170361,
         170362,
         170363,
-        170364
+        170364,
+        170365
       ],
       "sent_count": 68
     },
@@ -4255,7 +4255,7 @@
       "sent_count": 68
     },
     "roidbest": {
-      "last_id": 21778,
+      "last_id": 21779,
       "processed_ids": [
         21613,
         21614,
@@ -4416,12 +4416,13 @@
         21775,
         21776,
         21777,
-        21778
+        21778,
+        21779
       ],
-      "sent_count": 101
+      "sent_count": 102
     },
     "akhbar_cafenet": {
-      "last_id": 22965,
+      "last_id": 22966,
       "processed_ids": [
         22432,
         22433,
@@ -4929,7 +4930,8 @@
         22962,
         22963,
         22964,
-        22965
+        22965,
+        22966
       ],
       "sent_count": 298
     },
@@ -5325,7 +5327,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38615,
+      "last_id": 38616,
       "processed_ids": [
         38432,
         38433,
@@ -5508,12 +5510,13 @@
         38612,
         38613,
         38614,
-        38615
+        38615,
+        38616
       ],
-      "sent_count": 117
+      "sent_count": 118
     },
     "gizmiztel": {
-      "last_id": 162767,
+      "last_id": 162775,
       "processed_ids": [
         161872,
         161875,
@@ -6320,9 +6323,16 @@
         162764,
         162765,
         162766,
-        162767
+        162767,
+        162768,
+        162769,
+        162771,
+        162772,
+        162773,
+        162774,
+        162775
       ],
-      "sent_count": 529
+      "sent_count": 533
     },
     "dr_salamatx": {
       "last_id": 55348,
@@ -6410,7 +6420,7 @@
       "sent_count": 49
     },
     "jaleb": {
-      "last_id": 52682,
+      "last_id": 52684,
       "processed_ids": [
         52261,
         52262,
@@ -6781,12 +6791,14 @@
         52679,
         52680,
         52681,
-        52682
+        52682,
+        52683,
+        52684
       ],
       "sent_count": 199
     },
     "ajayebe_jahann": {
-      "last_id": 159513,
+      "last_id": 159514,
       "processed_ids": [
         158956,
         158957,
@@ -7338,7 +7350,8 @@
         159510,
         159511,
         159512,
-        159513
+        159513,
+        159514
       ],
       "sent_count": 248
     },
@@ -8538,7 +8551,7 @@
       "sent_count": 58
     },
     "varzesh3": {
-      "last_id": 303384,
+      "last_id": 303385,
       "processed_ids": [
         302363,
         302364,
@@ -9458,9 +9471,10 @@
         303381,
         303382,
         303383,
-        303384
+        303384,
+        303385
       ],
-      "sent_count": 43
+      "sent_count": 44
     },
     "totalfut_plus": {
       "last_id": 26440,
@@ -10025,7 +10039,7 @@
       "sent_count": 27
     },
     "adak_ir_official": {
-      "last_id": 234723,
+      "last_id": 234724,
       "processed_ids": [
         233831,
         233833,
@@ -10899,12 +10913,13 @@
         234720,
         234721,
         234722,
-        234723
+        234723,
+        234724
       ],
-      "sent_count": 101
+      "sent_count": 102
     },
     "futball180tv": {
-      "last_id": 107838,
+      "last_id": 107839,
       "processed_ids": [
         106848,
         106849,
@@ -11879,12 +11894,13 @@
         107835,
         107836,
         107837,
-        107838
+        107838,
+        107839
       ],
-      "sent_count": 36
+      "sent_count": 37
     },
     "hattric_official": {
-      "last_id": 84256,
+      "last_id": 84257,
       "processed_ids": [
         83433,
         83434,
@@ -12658,7 +12674,8 @@
         84253,
         84254,
         84255,
-        84256
+        84256,
+        84257
       ],
       "sent_count": 49
     },
@@ -15259,7 +15276,7 @@
       "sent_count": 31
     },
     "yejoorayi": {
-      "last_id": 485,
+      "last_id": 486,
       "processed_ids": [
         426,
         427,
@@ -15319,9 +15336,10 @@
         482,
         483,
         484,
-        485
+        485,
+        486
       ],
-      "sent_count": 54
+      "sent_count": 55
     },
     "onlinecofe_ir": {
       "last_id": 2887,
@@ -15547,186 +15565,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "5c8f11ac3ecfaed6ff444451be57b06924970c923aad96e82e7adc87d028798c",
-        "media_fingerprint": "",
-        "text": "حرف حساب؛\nزن هایی که مردِ زندگیشون بلده باهاشون\nقشنگ حرف بزنه و درست رفتار کنه هیچوقت پیر نمیشن!\n@Gilin",
-        "original_username": "gilin_gilin",
-        "original_text": "حرف حساب؛\nزن هایی که مردِ زندگیشون بلده باهاشون\nقشنگ حرف بزنه و درست رفتار کنه هیچوقت پیر نمیشن!\n@Gilin",
-        "original_link": "https://t.me/Gilin_Gilin/284168",
-        "post_id": 284168,
-        "message_id": 5246,
-        "message_kind": "text",
-        "sources": [
-          "gilin_gilin"
-        ],
-        "created_at": "2026-10-01T20:38:43.870943+00:00"
-      },
-      {
-        "fingerprint": "f99e5defb8977d773828c02004a4d51c12d8db47800718739c3bd3707d1a7717",
-        "media_fingerprint": "0d20187c0acd0699a89f928862cdb13c74208685e71ca9ae40085d9909cc8f46",
-        "text": "♠️\nنمی دونی چرا دختر مورد علاقت یکی دیگه رو می خواد؟\n♠️\n⛔️\nدخترا نابودت می کنن اگه روانشون رو بلد نباشی\n⭕\nجذب دختر ها یه هنره و مهارته که باید یاد بگیری\n⛔️\nرازهایی که هیچ زنی نمی خواد شما بدونید\nوقت تلف نکن\n🛑\nورود دختر ها ممنوع!!!!\n🛑\n@Gentel_Club",
-        "original_username": "kafiha",
-        "original_text": "♠️\nنمی دونی چرا دختر مورد علاقت یکی دیگه رو می خواد؟\n♠️\n⛔️\nدخترا نابودت می کنن اگه روانشون رو بلد نباشی\n⭕\nجذب دختر ها یه هنره و مهارته که باید یاد بگیری\n⛔️\nرازهایی که هیچ زنی نمی خواد شما بدونید\nوقت تلف نکن\n🛑\nورود دختر ها ممنوع!!!!\n🛑\n@Gentel_Club",
-        "original_link": "https://t.me/kafiha/461451",
-        "post_id": 461451,
-        "message_id": 5247,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-01T20:38:49.566757+00:00"
-      },
-      {
-        "fingerprint": "299ddcd7d9473065e29e2e162f8471d719df24251c213d676672ea2b7386fd48",
-        "media_fingerprint": "bdd13b71ec349c42a54af628fcf120d680eb1c8a67a7a31efc8a0357a517aa03",
-        "text": "این ۵تا حیوان متوجه حضور جن ها میشن\n👆\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "این ۵تا حیوان متوجه حضور جن ها میشن\n👆\n@irWonders",
-        "original_link": "https://t.me/irwonders/58220",
-        "post_id": 58220,
-        "message_id": 5248,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-01T20:38:56.545199+00:00"
-      },
-      {
-        "fingerprint": "11c115675e76ba019dc170156a58d2bc0704163244b8fba67e5b5aa193aeea06",
-        "media_fingerprint": "",
-        "text": "می‌گفت: همه چیز درست می‌شود؛\nو هیچ چیز درست نشد.\nاما من یاد گرفتم که چطور با نا امیدی مداوم زندگی کنم.\n👤\nعباس معروفی\nLidia\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": "می‌گفت: همه چیز درست می‌شود؛\nو هیچ چیز درست نشد.\nاما من یاد گرفتم که چطور با نا امیدی مداوم زندگی کنم.\n👤\nعباس معروفی\nLidia\n@kafiha",
-        "original_link": "https://t.me/kafiha/461452",
-        "post_id": 461452,
-        "message_id": 5249,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-01T20:38:59.936072+00:00"
-      },
-      {
-        "fingerprint": "3603a80cbd979e6097b24100e191c4666a4645f3a94a1fed9a522aa3a3aac677",
-        "media_fingerprint": "",
-        "text": "پشت هر آدم موفق،\nکوهستانی سرد و تاریک\nاز اهمیت ندادن به دیگران و\nنظرات‌شان است.\n👤\nوین‌دایر\nLidia\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": "پشت هر آدم موفق،\nکوهستانی سرد و تاریک\nاز اهمیت ندادن به دیگران و\nنظرات‌شان است.\n👤\nوین‌دایر\nLidia\n@kafiha",
-        "original_link": "https://t.me/kafiha/461453",
-        "post_id": 461453,
-        "message_id": 5250,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-01T20:39:03.363509+00:00"
-      },
-      {
-        "fingerprint": "042ac9a1efeab8a140dbfe2ed926747cb7718a69ad4927ef90b94a75b7882a59",
-        "media_fingerprint": "",
-        "text": "زیادی حرف زدن یه جور التماس کردنه،\nزیادی توضیح دادن یه جور دفاع از خودته،\nزیادی از خودت گفتن هم یه جور راضی نگه داشتن بقیه هست، لازم نیست تاییدشون رو بگیری، مدام مراقب احساساتشون باشی یا حواست باشه که چه برداشتی ازت میکنن،\nبا آدمایی باش که کنارشون میتونی خود واقعیِ خودت باشی.\nLidia\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": "زیادی حرف زدن یه جور التماس کردنه،\nزیادی توضیح دادن یه جور دفاع از خودته،\nزیادی از خودت گفتن هم یه جور راضی نگه داشتن بقیه هست، لازم نیست تاییدشون رو بگیری، مدام مراقب احساساتشون باشی یا حواست باشه که چه برداشتی ازت میکنن،\nبا آدمایی باش که کنارشون میتونی خود واقعیِ خودت باشی.\nLidia\n@kafiha",
-        "original_link": "https://t.me/kafiha/461454",
-        "post_id": 461454,
-        "message_id": 5251,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-01T20:55:52.270967+00:00"
-      },
-      {
-        "fingerprint": "8dc00b1d5f3eb5a60a2040247d972896a0d3f653029118f1814c81d2471f7b97",
-        "media_fingerprint": "",
-        "text": "‏اینقدر همیشه در حال شوخی کردن و چرت و پرت گفتنم که وقتی میخوام حرف جدی بزنم باید با جمله ی\n\"ولی نه حالا جدی\" شروع کنم.\nLidia\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": "‏اینقدر همیشه در حال شوخی کردن و چرت و پرت گفتنم که وقتی میخوام حرف جدی بزنم باید با جمله ی\n\"ولی نه حالا جدی\" شروع کنم.\nLidia\n@kafiha",
-        "original_link": "https://t.me/kafiha/461455",
-        "post_id": 461455,
-        "message_id": 5252,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-01T20:55:55.528287+00:00"
-      },
-      {
-        "fingerprint": "2b2c64972847c744de4c30a46859c41a59967dfa39d2e2f4cf7d3819b3c07938",
-        "media_fingerprint": "a43335f50b5c1ab01d106022c9cbeef8b8861e6cd94fc10fe520d33af0568089",
-        "text": "چرا مدام دچار سردرد میشیم؟\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_username": "majalepezeshki",
-        "original_text": "چرا مدام دچار سردرد میشیم؟\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_link": "https://t.me/MajalePezeshki/38583",
-        "post_id": 38583,
-        "message_id": 5253,
-        "message_kind": "caption",
-        "sources": [
-          "majalepezeshki"
-        ],
-        "created_at": "2026-10-01T20:56:02.099575+00:00"
-      },
-      {
-        "fingerprint": "6e5153d99ca23c11e5a4373fbc706b0c9e16aaf664a804cb6868dbe20346cf53",
-        "media_fingerprint": "2d15f8888d6eff31850a939978fbc6cfa29e31b8629587e60f00eb8b21cf1e08",
-        "text": "همیشه چوب زشتیمو خوردم.\nبه امید روزی که آدمارو از رو ظاهر قضاوت نکنیم.\nLidia\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": "همیشه چوب زشتیمو خوردم.\nبه امید روزی که آدمارو از رو ظاهر قضاوت نکنیم.\nLidia\n@kafiha",
-        "original_link": "https://t.me/kafiha/461456",
-        "post_id": 461456,
-        "message_id": 5254,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-01T20:56:09.062090+00:00"
-      },
-      {
-        "fingerprint": "08df5ceb0d2ab60de710fa2f3d276856d58b39cf2a7aaac01b0afcac24cc28ab",
-        "media_fingerprint": "",
-        "text": "آدم‌ها به اندازه چیزایی که باید بگن و نمی‌گن از هم دور می‌شن.\nArtikal\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "آدم‌ها به اندازه چیزایی که باید بگن و نمی‌گن از هم دور می‌شن.\nArtikal\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461458",
-        "post_id": 461458,
-        "message_id": 5255,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-01T20:56:12.847880+00:00"
-      },
-      {
-        "fingerprint": "87e2b9fd2617d694a2195d8cc99d7cd7504356f3d128ad23604c5698cebcd3d8",
-        "media_fingerprint": "",
-        "text": "بله گذشته‌ها گذشته ولی قسمتی از گذشته هیچ‌وقت به گذشته موندن رضایت نمی‌ده؛ پشت فرمونی و آهنگ موردعلاقه‌‌‌‌‌ت پلی می‌شه، از کوچه‌ای رد می‌شی که برات آشناست، فردی از کنارت رد می‌شه که بوی عطرش برای یک شخص یا یک دوره‌ی زمانی تو گذشتته. گذشته کم‌رنگ و پذیرفته می‌شه ولی فراموش؟ نه.\n💬\nخاک بارون خورده\nArtikal\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "بله گذشته‌ها گذشته ولی قسمتی از گذشته هیچ‌وقت به گذشته موندن رضایت نمی‌ده؛ پشت فرمونی و آهنگ موردعلاقه‌‌‌‌‌ت پلی می‌شه، از کوچه‌ای رد می‌شی که برات آشناست، فردی از کنارت رد می‌شه که بوی عطرش برای یک شخص یا یک دوره‌ی زمانی تو گذشتته. گذشته کم‌رنگ و پذیرفته می‌شه ولی فراموش؟ نه.\n💬\nخاک بارون خورده\nArtikal\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461459",
-        "post_id": 461459,
-        "message_id": 5256,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-01T21:17:01.015815+00:00"
-      },
-      {
-        "fingerprint": "422d06eba71fffdebb7860875b0db8c7dfeae55560b4af12c50239c62058276a",
-        "media_fingerprint": "",
-        "text": "محو کدوم خاطره ایی؟\n🆔\n@YeJoorayi",
-        "original_username": "yejoorayi",
-        "original_text": "محو کدوم خاطره ایی؟\n🆔\n@YeJoorayi",
-        "original_link": "https://t.me/YeJoorayi/462",
-        "post_id": 462,
-        "message_id": 5257,
-        "message_kind": "text",
-        "sources": [
-          "yejoorayi"
-        ],
-        "created_at": "2026-10-01T21:17:03.814246+00:00"
-      },
       {
         "fingerprint": "926b8eddc3ee9cf784032a38e08a343e2a47e08da010c6d089919e4f748d4eb1",
         "media_fingerprint": "9dbcbadd13a668ff01835eeafed69a08457256fe855e0b4c5f0a4980080072fb",
@@ -26726,7 +26564,8 @@
         "message_id": 6015,
         "message_kind": "caption",
         "sources": [
-          "irwonders"
+          "irwonders",
+          "ajayebe_jahann"
         ],
         "created_at": "2026-10-04T08:15:58.478425+00:00"
       },
@@ -29315,7 +29154,8 @@
         "message_id": 6197,
         "message_kind": "caption",
         "sources": [
-          "irwonders"
+          "irwonders",
+          "gizmiztel"
         ],
         "created_at": "2026-10-04T21:01:04.671751+00:00"
       },
@@ -30625,6 +30465,187 @@
           "jaleb"
         ],
         "created_at": "2026-10-05T04:09:57.427859+00:00"
+      },
+      {
+        "fingerprint": "18ead7e43b4b4f8842cd6d9f5f0f7ee9fc4b3f5f2061cee877eca3cb7f4f69e5",
+        "media_fingerprint": "a60f48f67939763b66d7ceb53cf0760d5ab5e2142992f541d3fd40b31530add0",
+        "text": "🖥\nخلاصه اخبار را با ما مرور کنید؛\n⌛️\nآنچه در 24 ساعت اخیر گذشت\n🟡\nبورکینافاسو 0 - آرژانتین 7\n🟡\nرافینیا بهترین بازیکن ماه لالیگا\n🟡\nمصدومیت الهیار صیادمنش\n🟡\nسهمیه 3+1 برای ایران در نخبگان\n🟡\nورشتپن برنده گرندپری بحرین\n🟡\nافشای قرارداد 5 خارجی پرسپولیس\n🟡\nیک همت قرارداد کل تیم ماست\n🟡\nتمدید علی علیپور با پرسپولیس\n🟡\nجزییات شکایت پرسپولیس از آسانی\n🟡\nرئال مادرید 0 - بارسلونا 7\n🟡\nهلند 2 - صربستان 1\n🟡\nیونان 0 - آلمان 0\n🟡\nپرتغال 2 - نروژ 1\n🆔\n@varzesh3",
+        "original_username": "varzesh3",
+        "original_text": "🖥\nخلاصه اخبار را با ما مرور کنید؛\n⌛️\nآنچه در 24 ساعت اخیر گذشت\n🟡\nبورکینافاسو 0 - آرژانتین 7\n🟡\nرافینیا بهترین بازیکن ماه لالیگا\n🟡\nمصدومیت الهیار صیادمنش\n🟡\nسهمیه 3+1 برای ایران در نخبگان\n🟡\nورشتپن برنده گرندپری بحرین\n🟡\nافشای قرارداد 5 خارجی پرسپولیس\n🟡\nیک همت قرارداد کل تیم ماست\n🟡\nتمدید علی علیپور با پرسپولیس\n🟡\nجزییات شکایت پرسپولیس از آسانی\n🟡\nرئال مادرید 0 - بارسلونا 7\n🟡\nهلند 2 - صربستان 1\n🟡\nیونان 0 - آلمان 0\n🟡\nپرتغال 2 - نروژ 1\n🆔\n@varzesh3",
+        "original_link": "https://t.me/varzesh3/303385",
+        "post_id": 303385,
+        "message_id": 6288,
+        "message_kind": "caption",
+        "sources": [
+          "varzesh3"
+        ],
+        "created_at": "2026-10-05T05:05:17.979622+00:00"
+      },
+      {
+        "fingerprint": "569bdd48dddfb6d041f317a3ed3cc2c9d30183ff56ea763ae8a461a535631672",
+        "media_fingerprint": "4773e21db80231460259b55c847fe102f5ffec3478a1bccb77297afb8f8aaecf",
+        "text": "🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/486",
+        "post_id": 486,
+        "message_id": 6289,
+        "message_kind": "caption",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-05T05:05:22.051469+00:00"
+      },
+      {
+        "fingerprint": "1dcd7333a1d573e6b458e17f4f92c3deb6ba3428d00aee08a3b30cac72261055",
+        "media_fingerprint": "fa0c236ca63073bf5027fe0899828299b214a108e3dfa1251dc2aecdd8291f2c",
+        "text": "🥶\n🇪🇸\nجدیدترین پدیده آکادمی لاماسیا بارسلونا\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "🥶\n🇪🇸\nجدیدترین پدیده آکادمی لاماسیا بارسلونا\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/107839",
+        "post_id": 107839,
+        "message_id": 6290,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-05T05:05:30.200820+00:00"
+      },
+      {
+        "fingerprint": "cab7daeccb76a1da213b863961fd0f76104e1ca77ea0f28c1b46de7cf76c023d",
+        "media_fingerprint": "",
+        "text": "♦️\nآغاز انتخاب رشته آزمون سراسری ۱۴۰۵ از امروز\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nآغاز انتخاب رشته آزمون سراسری ۱۴۰۵ از امروز\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143062",
+        "post_id": 143062,
+        "message_id": 6291,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-05T05:05:32.823457+00:00"
+      },
+      {
+        "fingerprint": "773e65584a196fe3b0ce910ee74caf372af82b2b3bf814cd13117b542c47cf5c",
+        "media_fingerprint": "e95360be5b870ddd39d3ceae91e5844e01e74aa376781a3b3889b274cb493d42",
+        "text": "وینیسیوس دیروز دید بچه هم قدشه به بازیکن بغلی گفت اینو بیا عوض کنیم\n😂\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "وینیسیوس دیروز دید بچه هم قدشه به بازیکن بغلی گفت اینو بیا عوض کنیم\n😂\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162769",
+        "post_id": 162769,
+        "message_id": 6292,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel",
+          "jaleb"
+        ],
+        "created_at": "2026-10-05T05:05:39.362710+00:00"
+      },
+      {
+        "fingerprint": "a7942b4f615b0d543cadfd633e16a912b3f4f99e723c7e1ea0c333bedd98f164",
+        "media_fingerprint": "635e35a3644540eb278e4c92ccb45b88c63975b1877821b0485da41e0fde6a6d",
+        "text": "بافت کشور چین واقعا عجیبه.\nروی یه شهرک یه شهرک دیگه هم ساخته شده. شبیه فیلم inception شده.\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "بافت کشور چین واقعا عجیبه.\nروی یه شهرک یه شهرک دیگه هم ساخته شده. شبیه فیلم inception شده.\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162771",
+        "post_id": 162771,
+        "message_id": 6294,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-05T05:05:46.598436+00:00"
+      },
+      {
+        "fingerprint": "c3d10c81e9a90a0719bc45093fbbf121150718222223f7068805643f10ff8d08",
+        "media_fingerprint": "87bd0bf12daad429c1ea74fefc42d3c34914bb1b55aaae06cd7ff3218b77e0e5",
+        "text": "واقعا هموطنای مریضی داریم\n😄\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "واقعا هموطنای مریضی داریم\n😄\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162772",
+        "post_id": 162772,
+        "message_id": 6295,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-05T05:05:53.523162+00:00"
+      },
+      {
+        "fingerprint": "3fd8be438893d24166c276df88545e1dddc0d7126a35750a8974cd2a6765693d",
+        "media_fingerprint": "86c6ec2bf0a0057500f93da328aa65735945a0f57b603015285f773f81df7325",
+        "text": "فوتبال بانوان عالیه\n😂\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "فوتبال بانوان عالیه\n😂\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162774",
+        "post_id": 162774,
+        "message_id": 6296,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-05T05:06:01.376956+00:00"
+      },
+      {
+        "fingerprint": "34314e8840f43e3ff71c0e5d12269611f79b8ed3172642a7d9cc20c1b02d5465",
+        "media_fingerprint": "",
+        "text": "🚨\n🔴\nمحمد نصرتی، محسن بنگر، اسماعیل حلالی و حمید درخشان، گزینه سرمربیگری تیم دوم پرسپولیس هستند.\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🚨\n🔴\nمحمد نصرتی، محسن بنگر، اسماعیل حلالی و حمید درخشان، گزینه سرمربیگری تیم دوم پرسپولیس هستند.\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/234724",
+        "post_id": 234724,
+        "message_id": 6297,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-05T05:06:04.153527+00:00"
+      },
+      {
+        "fingerprint": "181784f8a641c34029b141719aa363f4c9ac0a3c2c856d2f2cd7c44d637c656d",
+        "media_fingerprint": "2cd83663f0ca3b8c389e3ad2ccc04961a9b1a05a3dbedfecd84bc00697701817",
+        "text": "😺\nاحتمالاً مدل GPT-6.1 Astra هفته آینده عرضه خواهد شد!\n📰\nتیبو و سایر توسعه‌دهندگان OpenAI سرنخ‌هایی از عرضه این مدل ارائه داده‌اند.\n📰\nمدل GPT-6.1 Astra، یا یک مدل قدرتمند دیگر، قرار بود در رویداد DevDay معرفی شود، اما به دلایل ایمنی به تعویق افتاد.\n@RoidBest",
+        "original_username": "roidbest",
+        "original_text": "😺\nاحتمالاً مدل GPT-6.1 Astra هفته آینده عرضه خواهد شد!\n📰\nتیبو و سایر توسعه‌دهندگان OpenAI سرنخ‌هایی از عرضه این مدل ارائه داده‌اند.\n📰\nمدل GPT-6.1 Astra، یا یک مدل قدرتمند دیگر، قرار بود در رویداد DevDay معرفی شود، اما به دلایل ایمنی به تعویق افتاد.\n@RoidBest",
+        "original_link": "https://t.me/RoidBest/21779",
+        "post_id": 21779,
+        "message_id": 6298,
+        "message_kind": "caption",
+        "sources": [
+          "roidbest"
+        ],
+        "created_at": "2026-10-05T05:06:16.435674+00:00"
+      },
+      {
+        "fingerprint": "ced97a8254c7fc232f50422ef082d078c4f3759988ffb470cf8bdcab822ff8bc",
+        "media_fingerprint": "05a2f021ada18e08793a50244e679f6a965978c17078e6e6c0faf79eafbe4865",
+        "text": "باورهای اشتباه درباره تخم‌مرغ\n◽️\nهر چیزی که شنیدی درست نیست! واقعیت‌های علمی درباره تخم‌مرغ رو بشناس.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "باورهای اشتباه درباره تخم‌مرغ\n◽️\nهر چیزی که شنیدی درست نیست! واقعیت‌های علمی درباره تخم‌مرغ رو بشناس.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38616",
+        "post_id": 38616,
+        "message_id": 6299,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-05T05:06:21.185995+00:00"
+      },
+      {
+        "fingerprint": "c67eb732ed3fa72bfdc6d7ea7f8019caae3e08b0b64ee715bce7f131c3228734",
+        "media_fingerprint": "",
+        "text": "♦️\nپیش بینی ادامه بارش ها در برخی نواحی کشور\nسازمان هواشناسی:\n🔹\nامروز دوشنبه در ساعات بعد از ظهر در مناطقی از استان های کرمانشاه، ایلام، لرستان، جنوب همدان، مرکزی، چهار محال و بختیاری، غرب اصفهان ، ارتفاعات جنوب کرمان ، شمال و شرق هرمزگان، جنوب شرق فارس و جنوب سیستان و بلوچستان افزایش ابر، وزش باد ، گاهی همراه با رگبار و رعد و برق رخ خواهد داد.\n🔹\nسه شنبه نیز سامانه بارشی جدید از شمال غرب وارد کشور خواهد شد.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nپیش بینی ادامه بارش ها در برخی نواحی کشور\nسازمان هواشناسی:\n🔹\nامروز دوشنبه در ساعات بعد از ظهر در مناطقی از استان های کرمانشاه، ایلام، لرستان، جنوب همدان، مرکزی، چهار محال و بختیاری، غرب اصفهان ، ارتفاعات جنوب کرمان ، شمال و شرق هرمزگان، جنوب شرق فارس و جنوب سیستان و بلوچستان افزایش ابر، وزش باد ، گاهی همراه با رگبار و رعد و برق رخ خواهد داد.\n🔹\nسه شنبه نیز سامانه بارشی جدید از شمال غرب وارد کشور خواهد شد.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143064",
+        "post_id": 143064,
+        "message_id": 6300,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-05T05:06:25.185683+00:00"
       }
     ]
   }
