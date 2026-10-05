@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143103,
+      "last_id": 143105,
       "processed_ids": [
-        142013,
-        142014,
         142015,
         142016,
         142017,
@@ -1002,9 +1000,11 @@
         143100,
         143101,
         143102,
-        143103
+        143103,
+        143104,
+        143105
       ],
-      "sent_count": 678
+      "sent_count": 679
     },
     "total_fut": {
       "last_id": 237262,
@@ -3043,7 +3043,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67375,
+      "last_id": 67376,
       "processed_ids": [
         66561,
         66565,
@@ -3682,9 +3682,10 @@
         67372,
         67373,
         67374,
-        67375
+        67375,
+        67376
       ],
-      "sent_count": 374
+      "sent_count": 375
     },
     "techtube": {
       "last_id": 18441,
@@ -3937,7 +3938,7 @@
       "sent_count": 0
     },
     "amozesh_cafenet": {
-      "last_id": 3127,
+      "last_id": 3128,
       "processed_ids": [
         3087,
         3088,
@@ -3972,9 +3973,10 @@
         3120,
         3121,
         3126,
-        3127
+        3127,
+        3128
       ],
-      "sent_count": 22
+      "sent_count": 23
     },
     "sabtnamkh0dro": {
       "last_id": 14333,
@@ -4478,7 +4480,7 @@
       "sent_count": 103
     },
     "akhbar_cafenet": {
-      "last_id": 22990,
+      "last_id": 22993,
       "processed_ids": [
         22432,
         22433,
@@ -5011,9 +5013,10 @@
         22987,
         22988,
         22989,
-        22990
+        22990,
+        22993
       ],
-      "sent_count": 306
+      "sent_count": 307
     },
     "comentiat": {
       "last_id": 26323,
@@ -5414,7 +5417,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38625,
+      "last_id": 38627,
       "processed_ids": [
         38432,
         38433,
@@ -5607,7 +5610,9 @@
         38622,
         38623,
         38624,
-        38625
+        38625,
+        38626,
+        38627
       ],
       "sent_count": 121
     },
@@ -6543,7 +6548,7 @@
       "sent_count": 51
     },
     "jaleb": {
-      "last_id": 52692,
+      "last_id": 52697,
       "processed_ids": [
         52261,
         52262,
@@ -6923,9 +6928,13 @@
         52689,
         52690,
         52691,
-        52692
+        52692,
+        52694,
+        52695,
+        52696,
+        52697
       ],
-      "sent_count": 202
+      "sent_count": 204
     },
     "ajayebe_jahann": {
       "last_id": 159534,
@@ -7698,9 +7707,8 @@
       "sent_count": 46
     },
     "ft360_ir": {
-      "last_id": 109039,
+      "last_id": 109040,
       "processed_ids": [
-        107978,
         107979,
         107980,
         107981,
@@ -8699,12 +8707,13 @@
         109036,
         109037,
         109038,
-        109039
+        109039,
+        109040
       ],
       "sent_count": 58
     },
     "varzesh3": {
-      "last_id": 303409,
+      "last_id": 303410,
       "processed_ids": [
         302363,
         302364,
@@ -9648,7 +9657,8 @@
         303405,
         303406,
         303407,
-        303409
+        303409,
+        303410
       ],
       "sent_count": 46
     },
@@ -10235,7 +10245,7 @@
       "sent_count": 30
     },
     "adak_ir_official": {
-      "last_id": 234754,
+      "last_id": 234757,
       "processed_ids": [
         233831,
         233833,
@@ -11140,15 +11150,16 @@
         234751,
         234752,
         234753,
-        234754
+        234754,
+        234755,
+        234756,
+        234757
       ],
-      "sent_count": 110
+      "sent_count": 111
     },
     "futball180tv": {
-      "last_id": 107870,
+      "last_id": 107872,
       "processed_ids": [
-        106854,
-        106855,
         106856,
         106857,
         106858,
@@ -12146,12 +12157,14 @@
         107867,
         107868,
         107869,
-        107870
+        107870,
+        107871,
+        107872
       ],
       "sent_count": 40
     },
     "hattric_official": {
-      "last_id": 84282,
+      "last_id": 84283,
       "processed_ids": [
         83433,
         83434,
@@ -12951,12 +12964,13 @@
         84279,
         84280,
         84281,
-        84282
+        84282,
+        84283
       ],
       "sent_count": 54
     },
     "mazdak_hattrick": {
-      "last_id": 182360,
+      "last_id": 182361,
       "processed_ids": [
         181991,
         181992,
@@ -13322,7 +13336,8 @@
         182357,
         182358,
         182359,
-        182360
+        182360,
+        182361
       ],
       "sent_count": 28
     },
@@ -13423,7 +13438,7 @@
       "sent_count": 2
     },
     "irwonders": {
-      "last_id": 58349,
+      "last_id": 58350,
       "processed_ids": [
         58030,
         58031,
@@ -13701,7 +13716,8 @@
         58346,
         58347,
         58348,
-        58349
+        58349,
+        58350
       ],
       "sent_count": 181
     },
@@ -15912,111 +15928,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "346525c8a0e991f9df7ae70ab75bdb7eef0f8197099df926a70f694e220c9036",
-        "media_fingerprint": "",
-        "text": "کاش مرد بودم.\nبدون پریود،  تغییر هورمون، تنبلی تخمدان، عفونت، زایمان، رحم.\n😭\n💬\nدُریـــی\n1991\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": "کاش مرد بودم.\nبدون پریود،  تغییر هورمون، تنبلی تخمدان، عفونت، زایمان، رحم.\n😭\n💬\nدُریـــی\n1991\n@kafiha",
-        "original_link": "https://t.me/kafiha/461525",
-        "post_id": 461525,
-        "message_id": 5401,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-02T10:48:10.174737+00:00"
-      },
-      {
-        "fingerprint": "0d9986adcf120045446b34fb6c972ffbf378f931df233a7aa61043df14d0eea8",
-        "media_fingerprint": "0a17bc1b94bf887e2d2bb8f8e07be94b74179fb4dbdfe5113283d0d5872e342f",
-        "text": "",
-        "original_username": "behzistikomitenews",
-        "original_text": "",
-        "original_link": "https://t.me/BehzistiKomiteNews/13950",
-        "post_id": 13950,
-        "message_id": 5402,
-        "message_kind": "caption",
-        "sources": [
-          "behzistikomitenews"
-        ],
-        "created_at": "2026-10-02T10:48:14.484465+00:00"
-      },
-      {
-        "fingerprint": "9cfae7b6e9ffd6c237e9ea6064625f3f60759f37270486acfe8a363dc62233c4",
-        "media_fingerprint": "dabbffe1ce7375dd879452e92d90dc88581b57760a090fc359ad046b82611b82",
-        "text": "توزیع بسته های حمایتی لوازم مصرفی خودرو در سامانه جامع\nامکان دریافت نقدی و اقساطی\nهموطنان گرامی می‌توانند با مراجعه به سامانه رسمی ایرانکو اقلام مصرفی حمایتی خود را به نرخ مصوب با محدودیت کد‌ملی دریافت نمایند.\nwww.iranko.ir",
-        "original_username": "fars_today",
-        "original_text": "توزیع بسته های حمایتی لوازم مصرفی خودرو در سامانه جامع\nامکان دریافت نقدی و اقساطی\nهموطنان گرامی می‌توانند با مراجعه به سامانه رسمی ایرانکو اقلام مصرفی حمایتی خود را به نرخ مصوب با محدودیت کد‌ملی دریافت نمایند.\nwww.iranko.ir",
-        "original_link": "https://t.me/Fars_today/132107",
-        "post_id": 132107,
-        "message_id": 5403,
-        "message_kind": "caption",
-        "sources": [
-          "fars_today"
-        ],
-        "created_at": "2026-10-02T10:48:19.697150+00:00"
-      },
-      {
-        "fingerprint": "e57eb71bf0602f884f6b4906d301af3566db166b040e1e8e4c69381622bc803e",
-        "media_fingerprint": "a3859493e66074dbc1b96d7ef36099321a43fc4c3fff2971e438fd270f792ae8",
-        "text": "کل کل خانواده عروس و داماد دهه۶۰\n😂\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "کل کل خانواده عروس و داماد دهه۶۰\n😂\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/306701",
-        "post_id": 306701,
-        "message_id": 5404,
-        "message_kind": "caption",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-02T10:48:28.954869+00:00"
-      },
-      {
-        "fingerprint": "faaeba9dfe23ff2625731f0ec5c3aeb47f175689e97da000ff08883c90116444",
-        "media_fingerprint": "",
-        "text": "کارد بزنن بهم، دلتنگی می‌پاشه بیرون.\n1991\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": "کارد بزنن بهم، دلتنگی می‌پاشه بیرون.\n1991\n@kafiha",
-        "original_link": "https://t.me/kafiha/461526",
-        "post_id": 461526,
-        "message_id": 5405,
-        "message_kind": "text",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-02T10:48:31.653775+00:00"
-      },
-      {
-        "fingerprint": "175cb9293445f0b35e3ebabb9fa9cea0eb29243193c6dc3febde88d258edaa64",
-        "media_fingerprint": "aa32571a1c1fa934be79f99d9fe848e2aaaa6f1c99dbdc16a20c0f588d1bd6ff",
-        "text": "وضعیت قرمز در خط دفاع سرخ‌ها\n🚫\nویروس فیفادی به اردوی پرسپولیس سرایت کرد\n🔸\nمهم‌ترین معضل مهدی تارتار بعد از شروع دوباره مسابقات لیگ برتر، چگونگی چینش ساختار دفاعی سرخ‌پوشان پایتخت است...\n🔗\nدر فوتبال ۳۶۰ بخوانید...\n@Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "وضعیت قرمز در خط دفاع سرخ‌ها\n🚫\nویروس فیفادی به اردوی پرسپولیس سرایت کرد\n🔸\nمهم‌ترین معضل مهدی تارتار بعد از شروع دوباره مسابقات لیگ برتر، چگونگی چینش ساختار دفاعی سرخ‌پوشان پایتخت است...\n🔗\nدر فوتبال ۳۶۰ بخوانید...\n@Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/108833",
-        "post_id": 108833,
-        "message_id": 5406,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-02T10:48:36.740192+00:00"
-      },
-      {
-        "fingerprint": "b8162f0d330f132e97e2370971f5382dfb6e28c81e9f5f99b8e3c1b8fd3d884b",
-        "media_fingerprint": "bec27946accc31a8e4c9385b05667ac61d4d4f141718b37575e0b0de000fc6a0",
-        "text": "نفت که دیشب با رشد 4 درصدی به 102 دلار رسیده بود، الان با ریزش 3 درصدی به 99 دلار رسید!\n💬\ntwitterbourse\n@kafiha",
-        "original_username": "kafiha",
-        "original_text": "نفت که دیشب با رشد 4 درصدی به 102 دلار رسیده بود، الان با ریزش 3 درصدی به 99 دلار رسید!\n💬\ntwitterbourse\n@kafiha",
-        "original_link": "https://t.me/kafiha/461527",
-        "post_id": 461527,
-        "message_id": 5407,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-02T10:48:42.511725+00:00"
-      },
       {
         "fingerprint": "b7e0d1163135fc63092622363b18465579e9440d4c2afb3614bd5c55242f7496",
         "media_fingerprint": "eecda020c8367aa15031ff2155b3e22d8bee7c6347d9248d0aebfae839bc8533",
@@ -21792,7 +21703,8 @@
         "message_id": 5801,
         "message_kind": "caption",
         "sources": [
-          "ajayebe_jahann"
+          "ajayebe_jahann",
+          "irwonders"
         ],
         "created_at": "2026-10-03T14:34:30.646815+00:00"
       },
@@ -30981,6 +30893,111 @@
           "ajayebe_jahann"
         ],
         "created_at": "2026-10-05T14:48:59.170772+00:00"
+      },
+      {
+        "fingerprint": "fd78f6b62bc3a813febf420f318e1ac9814fd2af4de47c9bba6a89a802dde077",
+        "media_fingerprint": "",
+        "text": "♦️\nساعت ۱۷:۵۸ ، اذان مغرب به افق مرکز استان\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nساعت ۱۷:۵۸ ، اذان مغرب به افق مرکز استان\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143104",
+        "post_id": 143104,
+        "message_id": 6459,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-05T15:09:11.978825+00:00"
+      },
+      {
+        "fingerprint": "033140526f6a2f3e2f129fed572c31a94a55533a237991b857574d97a24e424f",
+        "media_fingerprint": "",
+        "text": "🚨\n🔴\n💵\nباشگاه پرسپولیس درآمد و سود امسال از برند و لوگوی خود را ۷۷۱ میلیارد تومان اعلام کرد.\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🚨\n🔴\n💵\nباشگاه پرسپولیس درآمد و سود امسال از برند و لوگوی خود را ۷۷۱ میلیارد تومان اعلام کرد.\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/234757",
+        "post_id": 234757,
+        "message_id": 6460,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-05T15:09:14.905824+00:00"
+      },
+      {
+        "fingerprint": "a81cf64be8abb84f72ca8d819330d3a31477c10ddbe9d3178e8dc7c4eb5f9a9e",
+        "media_fingerprint": "",
+        "text": "📷\nنرخنامه خدمات کافی نت شهرستان نوشهر برای سال ۱۴۰۵\nنرخنامه شهر خود را به آی دی زیر ارسال کنید\n👇\n﻿\n@keshvari_support\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "📷\nنرخنامه خدمات کافی نت شهرستان نوشهر برای سال ۱۴۰۵\nنرخنامه شهر خود را به آی دی زیر ارسال کنید\n👇\n﻿\n@keshvari_support\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/22993",
+        "post_id": 22993,
+        "message_id": 6461,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-05T15:09:17.559684+00:00"
+      },
+      {
+        "fingerprint": "4e967248ac7964e9118af6cb05f628b39f382419f02190ac40725be6dc10e828",
+        "media_fingerprint": "9e66bc7160b5336a2b0fc5a55e05319da8fa62e2b7497919b7503a85139688e2",
+        "text": "کنایه آذر جهرمی به منتقدان همتی\nچرا بازی را بر هم می‌زنید آقای «راننده رفسنجانی»\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "کنایه آذر جهرمی به منتقدان همتی\nچرا بازی را بر هم می‌زنید آقای «راننده رفسنجانی»\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52696",
+        "post_id": 52696,
+        "message_id": 6462,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-05T15:09:21.601632+00:00"
+      },
+      {
+        "fingerprint": "ff918164eb9290da6ec85530434b7783d084065882b45b41b2870b117d034ad2",
+        "media_fingerprint": "69e3764f352c7c48692162d6c985449ffc3f294056a5c76a71ba6bb937528d47",
+        "text": "هر متقاضی میتونه تا 150 کد رشته محل رو انتخاب کنه\nکد رشته های سراسری و فرهنگیان و سوابق تحصیلی و پیام نور و ... همشون باید بین همین 150 تا کدرشته قرار بگیرند به ترتیب اولویتی که خود متقاضی تعیین میکنه\nمثلا کدرشته اول تا سوم رو میزنه سراسری\nچهارم تا ششم رو میزنه فرهنگیان\nهفتم رو میزنه سراسری\nهشتم رو میزنه سوابق تحصیلی\nتا کد رشته شماره 150 طبق اولویتی که میخواد میچینه",
+        "original_username": "amozesh_cafenet",
+        "original_text": "هر متقاضی میتونه تا 150 کد رشته محل رو انتخاب کنه\nکد رشته های سراسری و فرهنگیان و سوابق تحصیلی و پیام نور و ... همشون باید بین همین 150 تا کدرشته قرار بگیرند به ترتیب اولویتی که خود متقاضی تعیین میکنه\nمثلا کدرشته اول تا سوم رو میزنه سراسری\nچهارم تا ششم رو میزنه فرهنگیان\nهفتم رو میزنه سراسری\nهشتم رو میزنه سوابق تحصیلی\nتا کد رشته شماره 150 طبق اولویتی که میخواد میچینه",
+        "original_link": "https://t.me/amozesh_cafenet/3128",
+        "post_id": 3128,
+        "message_id": 6463,
+        "message_kind": "caption",
+        "sources": [
+          "amozesh_cafenet"
+        ],
+        "created_at": "2026-10-05T15:09:25.859729+00:00"
+      },
+      {
+        "fingerprint": "ea948d4206fd65accb17d263e1665085e2fc4daaa569151cc4bf63222015dc00",
+        "media_fingerprint": "387fe19d201eca256a67b5b4996f52c3c462f7cf5c03719595013052ba9daf1d",
+        "text": "🔺️\nسوال مجری از خوش‌چشم؛ آمریکا بمب اتم میزنه؟!\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "🔺️\nسوال مجری از خوش‌چشم؛ آمریکا بمب اتم میزنه؟!\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52697",
+        "post_id": 52697,
+        "message_id": 6464,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-05T15:09:31.217490+00:00"
+      },
+      {
+        "fingerprint": "b62b466c7b288b4a12fafbae0303d84a40dfca1dc711e0dfde98b1d7ff2c8c21",
+        "media_fingerprint": "9d6e7365b2165881761c24fdb4357bfdf20256876d4b705a4e2a16eb1d70869c",
+        "text": "این ناهار امروز داشنگاه ماس\nما که نفهمیدیم ولی خودشون میگفتن استامبولی پلو هست",
+        "original_username": "drtel",
+        "original_text": "این ناهار امروز داشنگاه ماس\nما که نفهمیدیم ولی خودشون میگفتن استامبولی پلو هست",
+        "original_link": "https://t.me/drtel/67376",
+        "post_id": 67376,
+        "message_id": 6465,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-05T15:09:35.899633+00:00"
       }
     ]
   }
