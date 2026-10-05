@@ -1,11 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143082,
+      "last_id": 143085,
       "processed_ids": [
-        141992,
-        141993,
-        141994,
         141995,
         141996,
         141997,
@@ -1002,12 +999,15 @@
         143079,
         143080,
         143081,
-        143082
+        143082,
+        143083,
+        143084,
+        143085
       ],
-      "sent_count": 666
+      "sent_count": 667
     },
     "total_fut": {
-      "last_id": 237245,
+      "last_id": 237247,
       "processed_ids": [
         236405,
         236407,
@@ -1810,15 +1810,15 @@
         237242,
         237243,
         237244,
-        237245
+        237245,
+        237246,
+        237247
       ],
       "sent_count": 58
     },
     "footballvision2": {
-      "last_id": 170376,
+      "last_id": 170378,
       "processed_ids": [
-        169309,
-        169310,
         169311,
         169312,
         169313,
@@ -2816,7 +2816,9 @@
         170373,
         170374,
         170375,
-        170376
+        170376,
+        170377,
+        170378
       ],
       "sent_count": 69
     },
@@ -3026,7 +3028,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67363,
+      "last_id": 67364,
       "processed_ids": [
         66561,
         66565,
@@ -3657,12 +3659,13 @@
         67355,
         67359,
         67360,
-        67363
+        67363,
+        67364
       ],
-      "sent_count": 370
+      "sent_count": 371
     },
     "techtube": {
-      "last_id": 18434,
+      "last_id": 18435,
       "processed_ids": [
         18261,
         18262,
@@ -3775,7 +3778,8 @@
         18428,
         18429,
         18430,
-        18434
+        18434,
+        18435
       ],
       "sent_count": 42
     },
@@ -4440,7 +4444,7 @@
       "sent_count": 102
     },
     "akhbar_cafenet": {
-      "last_id": 22982,
+      "last_id": 22983,
       "processed_ids": [
         22432,
         22433,
@@ -4965,7 +4969,8 @@
         22979,
         22980,
         22981,
-        22982
+        22982,
+        22983
       ],
       "sent_count": 304
     },
@@ -7616,9 +7621,8 @@
       "sent_count": 45
     },
     "ft360_ir": {
-      "last_id": 109026,
+      "last_id": 109027,
       "processed_ids": [
-        107964,
         107965,
         107966,
         107967,
@@ -8617,12 +8621,13 @@
         109023,
         109024,
         109025,
-        109026
+        109026,
+        109027
       ],
       "sent_count": 58
     },
     "varzesh3": {
-      "last_id": 303395,
+      "last_id": 303396,
       "processed_ids": [
         302363,
         302364,
@@ -9553,12 +9558,13 @@
         303392,
         303393,
         303394,
-        303395
+        303395,
+        303396
       ],
       "sent_count": 46
     },
     "totalfut_plus": {
-      "last_id": 26448,
+      "last_id": 26450,
       "processed_ids": [
         25870,
         25871,
@@ -10123,12 +10129,14 @@
         26445,
         26446,
         26447,
-        26448
+        26448,
+        26449,
+        26450
       ],
       "sent_count": 29
     },
     "adak_ir_official": {
-      "last_id": 234737,
+      "last_id": 234739,
       "processed_ids": [
         233831,
         233833,
@@ -11016,12 +11024,14 @@
         234734,
         234735,
         234736,
-        234737
+        234737,
+        234738,
+        234739
       ],
       "sent_count": 107
     },
     "futball180tv": {
-      "last_id": 107854,
+      "last_id": 107856,
       "processed_ids": [
         106848,
         106849,
@@ -12012,12 +12022,14 @@
         107851,
         107852,
         107853,
-        107854
+        107854,
+        107855,
+        107856
       ],
-      "sent_count": 39
+      "sent_count": 40
     },
     "hattric_official": {
-      "last_id": 84265,
+      "last_id": 84267,
       "processed_ids": [
         83433,
         83434,
@@ -12800,7 +12812,9 @@
         84262,
         84263,
         84264,
-        84265
+        84265,
+        84266,
+        84267
       ],
       "sent_count": 50
     },
@@ -13269,7 +13283,7 @@
       "sent_count": 2
     },
     "irwonders": {
-      "last_id": 58336,
+      "last_id": 58337,
       "processed_ids": [
         58030,
         58031,
@@ -13534,9 +13548,10 @@
         58328,
         58329,
         58330,
-        58336
+        58336,
+        58337
       ],
-      "sent_count": 174
+      "sent_count": 175
     },
     "razcom": {
       "last_id": 70478,
@@ -15322,7 +15337,7 @@
       "sent_count": 1
     },
     "film_news": {
-      "last_id": 14989,
+      "last_id": 14990,
       "processed_ids": [
         14976,
         14978,
@@ -15335,12 +15350,13 @@
         14986,
         14987,
         14988,
-        14989
+        14989,
+        14990
       ],
-      "sent_count": 5
+      "sent_count": 6
     },
     "cinematicketorg": {
-      "last_id": 24385,
+      "last_id": 24387,
       "processed_ids": [
         24353,
         24354,
@@ -15362,9 +15378,11 @@
         24382,
         24383,
         24384,
-        24385
+        24385,
+        24386,
+        24387
       ],
-      "sent_count": 15
+      "sent_count": 16
     },
     "cinemadaily": {
       "last_id": 20748,
@@ -15426,7 +15444,7 @@
       "sent_count": 32
     },
     "yejoorayi": {
-      "last_id": 487,
+      "last_id": 488,
       "processed_ids": [
         426,
         427,
@@ -15488,9 +15506,10 @@
         484,
         485,
         486,
-        487
+        487,
+        488
       ],
-      "sent_count": 56
+      "sent_count": 57
     },
     "onlinecofe_ir": {
       "last_id": 2887,
@@ -15636,7 +15655,7 @@
       "sent_count": 21
     },
     "peach_tweet": {
-      "last_id": 2873,
+      "last_id": 2876,
       "processed_ids": [
         2745,
         2749,
@@ -15711,134 +15730,16 @@
         2868,
         2871,
         2872,
-        2873
+        2873,
+        2874,
+        2875,
+        2876
       ],
-      "sent_count": 44
+      "sent_count": 45
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "a09d0a860e634d874078273d44dbd74a5d09364a68c607efc0090f521ad95c19",
-        "media_fingerprint": "d914d2283d02d6dc3188d628252ca929e8709495fda378d12c2738d7797777fc",
-        "text": "آینه بغل تاندارا\nقیمت آینه‌اش اندازه قیمت پژو پارس هست\n@Gilin",
-        "original_username": "gilin_gilin",
-        "original_text": "آینه بغل تاندارا\nقیمت آینه‌اش اندازه قیمت پژو پارس هست\n@Gilin",
-        "original_link": "https://t.me/Gilin_Gilin/284180",
-        "post_id": 284180,
-        "message_id": 5324,
-        "message_kind": "caption",
-        "sources": [
-          "gilin_gilin"
-        ],
-        "created_at": "2026-10-02T07:22:23.447987+00:00"
-      },
-      {
-        "fingerprint": "8a8ce82b02833607996f714de15e5d79c4a89ca370ce0011dcc680251ecaafca",
-        "media_fingerprint": "7dc963a6ee6c4a7ce22bbe249825f4c91eaffe5be9988881d3ea6cb1cc6206e3",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26231",
-        "post_id": 26231,
-        "message_id": 5325,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-02T07:22:27.122257+00:00"
-      },
-      {
-        "fingerprint": "74cd8811f06f259669440e894c70306fa8179aef4d0d96700bbd20e792b9f9e6",
-        "media_fingerprint": "a972d922e0f77904eb4e77233bbf80bf41bfe6d0d0140e64705d655dacaaefa6",
-        "text": "🎬\nقسمت بیست و ششم و ماقبل پایانی\n«بدنام»\nمنتشر شد.\n🎬\nr.filimo.com/Tbadnam26\n#بدنام\n@BajeFilm",
-        "original_username": "bajefilm",
-        "original_text": "🎬\nقسمت بیست و ششم و ماقبل پایانی\n«بدنام»\nمنتشر شد.\n🎬\nr.filimo.com/Tbadnam26\n#بدنام\n@BajeFilm",
-        "original_link": "https://t.me/bajefilm/11580",
-        "post_id": 11580,
-        "message_id": 5326,
-        "message_kind": "caption",
-        "sources": [
-          "bajefilm"
-        ],
-        "created_at": "2026-10-02T07:47:18.591198+00:00"
-      },
-      {
-        "fingerprint": "84b3236da8b9f44a9962dfbe2911ffec466963b7cdd2f4803c7d61cd7315fc22",
-        "media_fingerprint": "875e9a5da6085ec72972347ef166e5d9152eb8122035ecbd4f71fbfd63b6b183",
-        "text": "پیرم و گاهی دلم یاد جوانی می کند\n🆔\n@YeJoorayi",
-        "original_username": "yejoorayi",
-        "original_text": "پیرم و گاهی دلم یاد جوانی می کند\n🆔\n@YeJoorayi",
-        "original_link": "https://t.me/YeJoorayi/464",
-        "post_id": 464,
-        "message_id": 5327,
-        "message_kind": "caption",
-        "sources": [
-          "yejoorayi"
-        ],
-        "created_at": "2026-10-02T07:47:23.732371+00:00"
-      },
-      {
-        "fingerprint": "497f5913d7b8aec134eae70b7ce753d54ffa542a2fcf0559a82343b6ba6b24e2",
-        "media_fingerprint": "3deedcaed907003ff68add25f4986a724d463e1b3a16f7d4215ab839e5ebd6d4",
-        "text": "ویدیو وایرال شده از جشن شروع سال تحصیلی در یکی از مدارس\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "ویدیو وایرال شده از جشن شروع سال تحصیلی در یکی از مدارس\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162636",
-        "post_id": 162636,
-        "message_id": 5328,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel",
-          "kafiha"
-        ],
-        "created_at": "2026-10-02T07:47:29.457629+00:00"
-      },
-      {
-        "fingerprint": "1cb45e2e635635fa06dca81e32eb8e9482de4f04de684b39bacd26149209b45d",
-        "media_fingerprint": "9dd2f82572c1573a84bc7410c51fcdab120701ca6503db3da1ac61e0ee1cabc8",
-        "text": "به نام خدا، سلام و شکست جودوکار ایرانی!\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "به نام خدا، سلام و شکست جودوکار ایرانی!\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162637",
-        "post_id": 162637,
-        "message_id": 5329,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-02T07:47:34.437058+00:00"
-      },
-      {
-        "fingerprint": "0eceba0c3314c313b2e13a5c7203c7e941dd31b95a0b601a4315f1c5e2e7b164",
-        "media_fingerprint": "59ce4446a00e8bfb07b6e229f8c178c156d97ed6542224cb3f7a416fcf62f925",
-        "text": "مقاومت بیرانوند برای سربازی رفتن\n😂\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "مقاومت بیرانوند برای سربازی رفتن\n😂\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162640",
-        "post_id": 162640,
-        "message_id": 5330,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-02T07:47:40.219949+00:00"
-      },
-      {
-        "fingerprint": "43e860ee3354f9c41f66ae5d58c0a990ec2f904ff2632f168d4006a4ee791d8b",
-        "media_fingerprint": "fa1c1639b832244f88e313e913436395cac1aa1433fc47b3d276dc7c24aadc43",
-        "text": "وضعیت عجیب پوشش یک مسافر در مترو تهران\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "وضعیت عجیب پوشش یک مسافر در مترو تهران\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162641",
-        "post_id": 162641,
-        "message_id": 5331,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-02T07:47:44.954151+00:00"
-      },
       {
         "fingerprint": "55b0a5e83731c2cd737ce618eff004d188639dccea00f4bf854de1524a67a7cd",
         "media_fingerprint": "763612c067121d6487b6f5df89eafe875eb38f9d4bafdffec7a7ddb30ac32d58",
@@ -30795,6 +30696,126 @@
           "majalepezeshki"
         ],
         "created_at": "2026-10-05T09:09:39.091800+00:00"
+      },
+      {
+        "fingerprint": "0041985a57076f0df6cef4737763014d37845ef8d5bf8ea669524ec7a75637af",
+        "media_fingerprint": "",
+        "text": "♦️\nدانش پزشکی‌ام را برای پیشرفت ایران به کار می‌برم\n🔹\nامیرمحمد پورخسرو، متولد شهریور ۱۳۸۷ از زرین‌دشت فارس، امسال در کنکور سراسری گروه علوم تجربی توانست رتبه ۱۳ کشور و رتبه یک منطقه را به دست آورد.\nرتبه ۱۳ کنکور تجربی:\n🔹\nدوست دارم پشت کشورم باشم. خودم را یک فرد میهن‌دوست می‌دانم و سعی می‌کنم در حرفه‌ای که دارم برای کشورم تلاش کنم.\n🔹\nرشته تجربی را به خاطر علاقه‌ام به پزشکی انتخاب کردم و اینکه برادرانم در این رشته مشغول به تحصیل بودند و برای رسیدن به هدفم در طول سال به طور میانگین روزی ۱۱ و نیم ساعت مطالعه داشتم با وجود اینکه مسیر کنکور طولانی و زمان‌بر است و بعضی وقت‌ها ممکن است انسان را دلسرد کند، اما برای موفقیت در این مسیر، صبر زیادی لازم است.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nدانش پزشکی‌ام را برای پیشرفت ایران به کار می‌برم\n🔹\nامیرمحمد پورخسرو، متولد شهریور ۱۳۸۷ از زرین‌دشت فارس، امسال در کنکور سراسری گروه علوم تجربی توانست رتبه ۱۳ کشور و رتبه یک منطقه را به دست آورد.\nرتبه ۱۳ کنکور تجربی:\n🔹\nدوست دارم پشت کشورم باشم. خودم را یک فرد میهن‌دوست می‌دانم و سعی می‌کنم در حرفه‌ای که دارم برای کشورم تلاش کنم.\n🔹\nرشته تجربی را به خاطر علاقه‌ام به پزشکی انتخاب کردم و اینکه برادرانم در این رشته مشغول به تحصیل بودند و برای رسیدن به هدفم در طول سال به طور میانگین روزی ۱۱ و نیم ساعت مطالعه داشتم با وجود اینکه مسیر کنکور طولانی و زمان‌بر است و بعضی وقت‌ها ممکن است انسان را دلسرد کند، اما برای موفقیت در این مسیر، صبر زیادی لازم است.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143083",
+        "post_id": 143083,
+        "message_id": 6379,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-05T09:46:53.776802+00:00"
+      },
+      {
+        "fingerprint": "47a56543cbd36eebb1d58b63376d00b4e03aaeff7b63a6cbfc017210f0559798",
+        "media_fingerprint": "8c95d019d5bd7aabe832b3301fa5e9d7900f06142a0b2e445b7a95fd5b1f3e27",
+        "text": "‼️\n🇮🇷\n🇮🇷\nخاطره بامزه علیرضا بیرانوند از شب پیروزی دراماتیک مقابل پرسپولیس در ضربات پنالتی …\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "‼️\n🇮🇷\n🇮🇷\nخاطره بامزه علیرضا بیرانوند از شب پیروزی دراماتیک مقابل پرسپولیس در ضربات پنالتی …\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/107855",
+        "post_id": 107855,
+        "message_id": 6380,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-05T09:47:00.137454+00:00"
+      },
+      {
+        "fingerprint": "0db237a89159be26bde98c6ed9907cdc3812f4deaa1e102ecd1b222cd2e0ec5e",
+        "media_fingerprint": "2b748ebe2a34fe7da9b41019a7bcd394b60038b97ba6ae015866f08938d6fea2",
+        "text": "اکران و نقد نسخه ویژه «ام را به نشانه مرگ بگیر» (Dial M for Murder)\nفرهنگسرای ارسباران و کافه سینما، نسخه دوبله‌شده این فیلم کلاسیک ساخته آلفرد هیچکاک را در صدوسی‌ویکمین مراسم «فیلم بزرگ روی پرده بزرگ» اکران می‌کنند.\nمحصول ۱۹۵۴ آمریکا | جنایی، مهیج، درام و رازآلود\nبا نقش‌آفرینی گریس کلی، ری میلاند، رابرت کامینگز و جان ویلیامز\nبا حضور امیر قادری، مدیر و سردبیر کافه سینما\nچهارشنبه ۱۵ مهرماه ۱۴۰۵، ساعت ۱۸\nفرهنگسرای ارسباران\nخرید بلیت از سینماتیکت\n@cinematicketorg",
+        "original_username": "cinematicketorg",
+        "original_text": "اکران و نقد نسخه ویژه «ام را به نشانه مرگ بگیر» (Dial M for Murder)\nفرهنگسرای ارسباران و کافه سینما، نسخه دوبله‌شده این فیلم کلاسیک ساخته آلفرد هیچکاک را در صدوسی‌ویکمین مراسم «فیلم بزرگ روی پرده بزرگ» اکران می‌کنند.\nمحصول ۱۹۵۴ آمریکا | جنایی، مهیج، درام و رازآلود\nبا نقش‌آفرینی گریس کلی، ری میلاند، رابرت کامینگز و جان ویلیامز\nبا حضور امیر قادری، مدیر و سردبیر کافه سینما\nچهارشنبه ۱۵ مهرماه ۱۴۰۵، ساعت ۱۸\nفرهنگسرای ارسباران\nخرید بلیت از سینماتیکت\n@cinematicketorg",
+        "original_link": "https://t.me/cinematicketorg/24386",
+        "post_id": 24386,
+        "message_id": 6381,
+        "message_kind": "caption",
+        "sources": [
+          "cinematicketorg"
+        ],
+        "created_at": "2026-10-05T09:47:04.927987+00:00"
+      },
+      {
+        "fingerprint": "9faacad5d66f4a1212b515efe7016bcfb0716df5d80b708fe18e28f5210a17e1",
+        "media_fingerprint": "660e5b0c8cc0a94f288d579eb5e8cc0410b314a0adca3b997c13d9c288a58655",
+        "text": "🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/488",
+        "post_id": 488,
+        "message_id": 6382,
+        "message_kind": "caption",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-05T09:47:08.768334+00:00"
+      },
+      {
+        "fingerprint": "4164c465c9b788715ae5186d5eb6de6caf7f15416cfe23f3a6ad7df2d1e4dabb",
+        "media_fingerprint": "bddc8ff0264bf3f1944752d6f802d8bbd71f1db689f000a3ffb23eaaa4d60141",
+        "text": "جمع خوشگلارو براتون آوردم\n🤤\n🔥\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "جمع خوشگلارو براتون آوردم\n🤤\n🔥\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/2876",
+        "post_id": 2876,
+        "message_id": 6383,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-05T09:47:14.242713+00:00"
+      },
+      {
+        "fingerprint": "8579f3726d2d1a28c7002049bf50e009b29dd2069363e4a45737dc22c325f735",
+        "media_fingerprint": "b0d00dfe315b4e5dbb4adebc8a3bcf4da0c64c5515b054c2a3b5a0a691f63e97",
+        "text": "🔴\nامروز \"مهشاد کشانی\" دوست‌دخترِ علیرضا سپاهی که خودشم محکوم به حبسه؛  با تمایل خودش و اجازه خانواده، با خوندن صیغه نکاح شرعی، به عقد نکاح علیرضا سپاهی درومد...  @DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nامروز \"مهشاد کشانی\" دوست‌دخترِ علیرضا سپاهی که خودشم محکوم به حبسه؛  با تمایل خودش و اجازه خانواده، با خوندن صیغه نکاح شرعی، به عقد نکاح علیرضا سپاهی درومد...  @DrTeL",
+        "original_link": "https://t.me/drtel/67364",
+        "post_id": 67364,
+        "message_id": 6384,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-05T09:47:18.393657+00:00"
+      },
+      {
+        "fingerprint": "835371dd4e5caf585c2ce3e4834e7bc56de3526bb699a90d5677177add6b3749",
+        "media_fingerprint": "437c9a8208e162458c6aa0f755206bb6feaa572e796fd5f4afa4f033c6cfdd0e",
+        "text": "بازنده‌های نابغه\nپرونده‌ای برای سریال جذاب و نفس‌گیر «اسب‌های کند»\nکسب 23 نامزدی در امی و کلی نامزدی دیگر در گلدن گلوب و بفتا برای سریالی که قرار بود صرفا یک سریال سرگرم کننده باشد عدد بسیار قابل توجهی است. در امی امسال هم این محصول موفق اپل تی.وی جایزه بهترین کارگردانی در سریال های درام را دریافت کرد.\nمتن کامل را در پیج «فیلم‌نیوز سریال» بخوانید\nhttps://B2n.ir/pw9991",
+        "original_username": "film_news",
+        "original_text": "بازنده‌های نابغه\nپرونده‌ای برای سریال جذاب و نفس‌گیر «اسب‌های کند»\nکسب 23 نامزدی در امی و کلی نامزدی دیگر در گلدن گلوب و بفتا برای سریالی که قرار بود صرفا یک سریال سرگرم کننده باشد عدد بسیار قابل توجهی است. در امی امسال هم این محصول موفق اپل تی.وی جایزه بهترین کارگردانی در سریال های درام را دریافت کرد.\nمتن کامل را در پیج «فیلم‌نیوز سریال» بخوانید\nhttps://B2n.ir/pw9991",
+        "original_link": "https://t.me/Film_news/14990",
+        "post_id": 14990,
+        "message_id": 6385,
+        "message_kind": "caption",
+        "sources": [
+          "film_news"
+        ],
+        "created_at": "2026-10-05T09:47:23.202234+00:00"
+      },
+      {
+        "fingerprint": "56feabf7fdfc79db5e16970693bc2206dd60eb39d5744633e5e6742dec2d33fd",
+        "media_fingerprint": "6c875f3c1c9c982c02f4725d026388cf5104a3aea91408fde74362051f8c20df",
+        "text": "اینجا مدرسه علمیه صالحیه قزوین است\nامروزصبح_ورزش صبحگاهی\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "اینجا مدرسه علمیه صالحیه قزوین است\nامروزصبح_ورزش صبحگاهی\n@irWonders",
+        "original_link": "https://t.me/irwonders/58337",
+        "post_id": 58337,
+        "message_id": 6386,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-05T09:47:28.763817+00:00"
       }
     ]
   }
