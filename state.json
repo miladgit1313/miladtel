@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143085,
+      "last_id": 143087,
       "processed_ids": [
-        141995,
-        141996,
         141997,
         141998,
         141999,
@@ -1002,9 +1000,11 @@
         143082,
         143083,
         143084,
-        143085
+        143085,
+        143086,
+        143087
       ],
-      "sent_count": 667
+      "sent_count": 668
     },
     "total_fut": {
       "last_id": 237247,
@@ -3950,7 +3950,7 @@
       "sent_count": 21
     },
     "sabtnamkh0dro": {
-      "last_id": 14328,
+      "last_id": 14333,
       "processed_ids": [
         14164,
         14165,
@@ -4093,7 +4093,8 @@
         14325,
         14326,
         14327,
-        14328
+        14328,
+        14333
       ],
       "sent_count": 75
     },
@@ -4975,7 +4976,7 @@
       "sent_count": 304
     },
     "comentiat": {
-      "last_id": 26311,
+      "last_id": 26319,
       "processed_ids": [
         25844,
         25845,
@@ -5356,7 +5357,8 @@
         26308,
         26309,
         26310,
-        26311
+        26311,
+        26319
       ],
       "sent_count": 272
     },
@@ -5562,7 +5564,7 @@
       "sent_count": 120
     },
     "gizmiztel": {
-      "last_id": 162789,
+      "last_id": 162792,
       "processed_ids": [
         161872,
         161875,
@@ -6390,9 +6392,12 @@
         162786,
         162787,
         162788,
-        162789
+        162789,
+        162790,
+        162791,
+        162792
       ],
-      "sent_count": 541
+      "sent_count": 542
     },
     "dr_salamatx": {
       "last_id": 55349,
@@ -6864,7 +6869,7 @@
       "sent_count": 201
     },
     "ajayebe_jahann": {
-      "last_id": 159522,
+      "last_id": 159525,
       "processed_ids": [
         158956,
         158957,
@@ -7425,7 +7430,10 @@
         159519,
         159520,
         159521,
-        159522
+        159522,
+        159523,
+        159524,
+        159525
       ],
       "sent_count": 251
     },
@@ -7621,9 +7629,8 @@
       "sent_count": 45
     },
     "ft360_ir": {
-      "last_id": 109027,
+      "last_id": 109028,
       "processed_ids": [
-        107965,
         107966,
         107967,
         107968,
@@ -8622,12 +8629,13 @@
         109024,
         109025,
         109026,
-        109027
+        109027,
+        109028
       ],
       "sent_count": 58
     },
     "varzesh3": {
-      "last_id": 303396,
+      "last_id": 303397,
       "processed_ids": [
         302363,
         302364,
@@ -9559,12 +9567,13 @@
         303393,
         303394,
         303395,
-        303396
+        303396,
+        303397
       ],
       "sent_count": 46
     },
     "totalfut_plus": {
-      "last_id": 26450,
+      "last_id": 26451,
       "processed_ids": [
         25870,
         25871,
@@ -10131,12 +10140,13 @@
         26447,
         26448,
         26449,
-        26450
+        26450,
+        26451
       ],
       "sent_count": 29
     },
     "adak_ir_official": {
-      "last_id": 234739,
+      "last_id": 234740,
       "processed_ids": [
         233831,
         233833,
@@ -11026,12 +11036,13 @@
         234736,
         234737,
         234738,
-        234739
+        234739,
+        234740
       ],
       "sent_count": 107
     },
     "futball180tv": {
-      "last_id": 107856,
+      "last_id": 107857,
       "processed_ids": [
         106848,
         106849,
@@ -12024,7 +12035,8 @@
         107853,
         107854,
         107855,
-        107856
+        107856,
+        107857
       ],
       "sent_count": 40
     },
@@ -13585,7 +13597,7 @@
       "sent_count": 8
     },
     "midanesti": {
-      "last_id": 73251,
+      "last_id": 73252,
       "processed_ids": [
         73193,
         73194,
@@ -13641,7 +13653,8 @@
         73248,
         73249,
         73250,
-        73251
+        73251,
+        73252
       ],
       "sent_count": 29
     },
@@ -15090,7 +15103,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306770,
+      "last_id": 306774,
       "processed_ids": [
         306563,
         306564,
@@ -15297,9 +15310,13 @@
         306767,
         306768,
         306769,
-        306770
+        306770,
+        306771,
+        306772,
+        306773,
+        306774
       ],
-      "sent_count": 88
+      "sent_count": 90
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -15625,7 +15642,7 @@
       "sent_count": 39
     },
     "shakhmovie": {
-      "last_id": 4051,
+      "last_id": 4052,
       "processed_ids": [
         4017,
         4018,
@@ -15650,9 +15667,10 @@
         4047,
         4048,
         4050,
-        4051
+        4051,
+        4052
       ],
-      "sent_count": 21
+      "sent_count": 22
     },
     "peach_tweet": {
       "last_id": 2876,
@@ -15740,82 +15758,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "55b0a5e83731c2cd737ce618eff004d188639dccea00f4bf854de1524a67a7cd",
-        "media_fingerprint": "763612c067121d6487b6f5df89eafe875eb38f9d4bafdffec7a7ddb30ac32d58",
-        "text": "به وجد آمدند\n😌\nباشگاه پرسپولیس در ورودی ورزشگاه شهید کاظمی تصاویری از بازیکنان تیم زنانش را نصب کرد\n🔘\n@Navadnewstelegram",
-        "original_username": "footballvision2",
-        "original_text": "به وجد آمدند\n😌\nباشگاه پرسپولیس در ورودی ورزشگاه شهید کاظمی تصاویری از بازیکنان تیم زنانش را نصب کرد\n🔘\n@Navadnewstelegram",
-        "original_link": "https://t.me/footballvision2/170069",
-        "post_id": 170069,
-        "message_id": 5332,
-        "message_kind": "caption",
-        "sources": [
-          "footballvision2",
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-02T07:47:51.361938+00:00"
-      },
-      {
-        "fingerprint": "15be0b4b8b23df027c90015be0c3e106217b8dd9212a1d6bce73210473e70cee",
-        "media_fingerprint": "b4a6f957e3a8ab3c5d936b108598bc36826c48b95d1c27eabe6793cb1f879f35",
-        "text": "🏅\nباشگاه پرسپولیس در ورودی ورزشگاه شهید کاظمی تصاویری از بازیکنان تیم زنانش را نصب کرد.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_username": "total_fut",
-        "original_text": "🏅\nباشگاه پرسپولیس در ورودی ورزشگاه شهید کاظمی تصاویری از بازیکنان تیم زنانش را نصب کرد.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_link": "https://t.me/total_fut/237112",
-        "post_id": 237112,
-        "message_id": 5333,
-        "message_kind": "caption",
-        "sources": [
-          "total_fut"
-        ],
-        "created_at": "2026-10-02T07:47:57.608857+00:00"
-      },
-      {
-        "fingerprint": "ff9f6d5d80e5297ac95fa3e22f5b421980d7b7bb49889b7256d3440a7069d7d1",
-        "media_fingerprint": "c93e03f8fbf4042205ec3f88b426ea394c81e51a59b8d1b0ba17936ecce7c33b",
-        "text": "جلل الخالق!!!\nتیوپ یک میلیاردی هم دیدیم\n😳\nNiNa\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "جلل الخالق!!!\nتیوپ یک میلیاردی هم دیدیم\n😳\nNiNa\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461489",
-        "post_id": 461489,
-        "message_id": 5334,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-02T07:48:03.136155+00:00"
-      },
-      {
-        "fingerprint": "164e3cffe87a7057ff214c3e40f28967bfe1cd80819a3462c527619b9271e978",
-        "media_fingerprint": "e31f82f17f51a4ead0c4b99ad15dbe4ef954bf687be55bd4cbc0739c2d8b48a6",
-        "text": "شمام وقتی می‌بینید بارون اومده، دیوونه میشید؟\n🫠\n💬\n𝓢𝓮𝓵𝓲𝓷\nNiNa\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "شمام وقتی می‌بینید بارون اومده، دیوونه میشید؟\n🫠\n💬\n𝓢𝓮𝓵𝓲𝓷\nNiNa\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461490",
-        "post_id": 461490,
-        "message_id": 5335,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-02T07:48:18.511124+00:00"
-      },
-      {
-        "fingerprint": "97964b5111e50c0a767ab0346c56dc5a27329757d060c86c3b9e6d38a7d381a4",
-        "media_fingerprint": "",
-        "text": "🔵\n🔵\n🗣️\nمحمدامین رضایی، گلر استقلال‌ خوزستان: مرحوم پدرم استقلالی بود و آرزو داشت به استقلال بروم. من در پایه های استقلال بودم، در پرسپولیس هم بودم ولی از بچگی استقلالی هستم.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🔵\n🔵\n🗣️\nمحمدامین رضایی، گلر استقلال‌ خوزستان: مرحوم پدرم استقلالی بود و آرزو داشت به استقلال بروم. من در پایه های استقلال بودم، در پرسپولیس هم بودم ولی از بچگی استقلالی هستم.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/234564",
-        "post_id": 234564,
-        "message_id": 5336,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-02T07:48:21.475207+00:00"
-      },
       {
         "fingerprint": "c455a015ac29e9ec31bffe64c39cebc20e45f33d30e1c50fbfafac55aa828b1c",
         "media_fingerprint": "90dd3ec5a5e11e9cff7ecec9ba7bc981e5c8eaaa45ad6ac5353f460f6341b8de",
@@ -29627,7 +29569,8 @@
         "message_id": 6294,
         "message_kind": "caption",
         "sources": [
-          "gizmiztel"
+          "gizmiztel",
+          "midanesti"
         ],
         "created_at": "2026-10-05T05:05:46.598436+00:00"
       },
@@ -30816,6 +30759,81 @@
           "irwonders"
         ],
         "created_at": "2026-10-05T09:47:28.763817+00:00"
+      },
+      {
+        "fingerprint": "62d5b86869e4042a994f684692ef9ffee5cdfdeee031c2b1d85fed2d7e1a862e",
+        "media_fingerprint": "3fbf02b14c603fa987e7d268d3e893b1a010d5aa61cbdbd7e4adddc9b9b6c0a9",
+        "text": "نذری مناطق حومه شانگهای\n😂\n😵‍💫\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "نذری مناطق حومه شانگهای\n😂\n😵‍💫\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306771",
+        "post_id": 306771,
+        "message_id": 6387,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-05T10:09:21.702800+00:00"
+      },
+      {
+        "fingerprint": "01546ab0bb56213312ad29ef13d8b9d6a532f9276ec1e74b93cd08b5b7bcd7b5",
+        "media_fingerprint": "",
+        "text": "این مهد کودک تو یه حرکت قشنگ اومده بجای پدر و مادر ، از پدربزرگ و مادربزرگای بچه ها دعوت کرده تا بیان برای جشن نوه هاشون\n😍\nنمیدونم چرا ولی با دیدن این صحـنه ها بغـض کردم\n🥲\n❤️\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "این مهد کودک تو یه حرکت قشنگ اومده بجای پدر و مادر ، از پدربزرگ و مادربزرگای بچه ها دعوت کرده تا بیان برای جشن نوه هاشون\n😍\nنمیدونم چرا ولی با دیدن این صحـنه ها بغـض کردم\n🥲\n❤️\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306774",
+        "post_id": 306774,
+        "message_id": 6388,
+        "message_kind": "text",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-05T10:09:24.665185+00:00"
+      },
+      {
+        "fingerprint": "0e867296054610ba0012903f8afb2c78a83cf5c591dc9bb47c23c64f4f3e2e7f",
+        "media_fingerprint": "",
+        "text": "🔴\nاولین تریلر رسمی از فصل دوم سریال Dexter Resurrection منتشر شد.\n📆\nتاریخ پخش: 8 آبان\n📷\n|\n@ShakhMovie",
+        "original_username": "shakhmovie",
+        "original_text": "🔴\nاولین تریلر رسمی از فصل دوم سریال Dexter Resurrection منتشر شد.\n📆\nتاریخ پخش: 8 آبان\n📷\n|\n@ShakhMovie",
+        "original_link": "https://t.me/Shakhmovie/4052",
+        "post_id": 4052,
+        "message_id": 6389,
+        "message_kind": "text",
+        "sources": [
+          "shakhmovie"
+        ],
+        "created_at": "2026-10-05T10:09:28.329984+00:00"
+      },
+      {
+        "fingerprint": "3c72265a48cc7cc3a03faa39cf28ab240f69d7028e1d5e49d2171335cfe9e747",
+        "media_fingerprint": "",
+        "text": "♦️\nمعاون شرکت برق حرارتی: ذخایر سوخت نیروگاه‌ها برای زمستان در وضعیت اطمینان‌بخشی قرار دارد؛ در زمستان ناترازی تولید برق نخواهیم داشت\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nمعاون شرکت برق حرارتی: ذخایر سوخت نیروگاه‌ها برای زمستان در وضعیت اطمینان‌بخشی قرار دارد؛ در زمستان ناترازی تولید برق نخواهیم داشت\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143087",
+        "post_id": 143087,
+        "message_id": 6390,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-05T10:09:31.273933+00:00"
+      },
+      {
+        "fingerprint": "864c36ce428c5ec58d563c0114a355aa8fba26cd40709aafd94fe7fee4a30d61",
+        "media_fingerprint": "5a76e52707fa2d0d55568518cf24df24cc56c3ca0de581b730112d640a821758",
+        "text": "هاگوپیان: طاعونی که تو روسیه پخش شده، حدود ۱۰۰ برابر کشنده‌تر از کروناست.\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "هاگوپیان: طاعونی که تو روسیه پخش شده، حدود ۱۰۰ برابر کشنده‌تر از کروناست.\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162792",
+        "post_id": 162792,
+        "message_id": 6391,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-05T10:09:35.307476+00:00"
       }
     ]
   }
