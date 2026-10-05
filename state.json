@@ -1857,11 +1857,8 @@
       "sent_count": 64
     },
     "footballvision2": {
-      "last_id": 170459,
+      "last_id": 170462,
       "processed_ids": [
-        169377,
-        169378,
-        169379,
         169380,
         169381,
         169382,
@@ -2858,7 +2855,10 @@
         170456,
         170457,
         170458,
-        170459
+        170459,
+        170460,
+        170461,
+        170462
       ],
       "sent_count": 70
     },
@@ -3074,7 +3074,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67396,
+      "last_id": 67399,
       "processed_ids": [
         66561,
         66565,
@@ -3731,7 +3731,8 @@
         67393,
         67394,
         67395,
-        67396
+        67396,
+        67399
       ],
       "sent_count": 383
     },
@@ -4186,7 +4187,7 @@
       "sent_count": 77
     },
     "coffeenetmanager": {
-      "last_id": 51730,
+      "last_id": 51731,
       "processed_ids": [
         51537,
         51538,
@@ -4366,7 +4367,8 @@
         51727,
         51728,
         51729,
-        51730
+        51730,
+        51731
       ],
       "sent_count": 69
     },
@@ -5104,7 +5106,7 @@
       "sent_count": 314
     },
     "comentiat": {
-      "last_id": 26332,
+      "last_id": 26334,
       "processed_ids": [
         25844,
         25845,
@@ -5497,9 +5499,11 @@
         26327,
         26329,
         26331,
-        26332
+        26332,
+        26333,
+        26334
       ],
-      "sent_count": 281
+      "sent_count": 282
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -16217,21 +16221,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "696f55b0c55f1dc854343866a118db19bf979ca2fe41b1ff446f48399403efd9",
-        "media_fingerprint": "3a04dce86ae13cd7fd739f728085670d8529f854e55f1e4a42fafc79b1a51a93",
-        "text": "♦️\nبارش شدید باران و جاری شدن روان اب رودخور نی ریز جمعه ۱۰مهر ۱۴۰۵\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nبارش شدید باران و جاری شدن روان اب رودخور نی ریز جمعه ۱۰مهر ۱۴۰۵\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142889",
-        "post_id": 142889,
-        "message_id": 5534,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-02T16:22:32.295705+00:00"
-      },
       {
         "fingerprint": "4a7c735b21d81ee2fff22724d591aa1f5502db31e0fcf5021c6587d524bdd846",
         "media_fingerprint": "",
@@ -31292,6 +31281,21 @@
           "peach_tweet"
         ],
         "created_at": "2026-10-05T22:41:44.776586+00:00"
+      },
+      {
+        "fingerprint": "738882ac1b367c6fc7625c6d4e4393de48b6332ec0e805ff587f73c708c0ab81",
+        "media_fingerprint": "431e0b81700564a9707bf8af03fab664ff740619af9afc87780306507c385080",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26334",
+        "post_id": 26334,
+        "message_id": 6601,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-05T23:05:23.489519+00:00"
       }
     ]
   }
