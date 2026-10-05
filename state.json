@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143089,
+      "last_id": 143091,
       "processed_ids": [
-        141999,
-        142000,
         142001,
         142002,
         142003,
@@ -1002,12 +1000,14 @@
         143086,
         143087,
         143088,
-        143089
+        143089,
+        143090,
+        143091
       ],
-      "sent_count": 669
+      "sent_count": 670
     },
     "total_fut": {
-      "last_id": 237250,
+      "last_id": 237252,
       "processed_ids": [
         236405,
         236407,
@@ -1815,15 +1815,15 @@
         237247,
         237248,
         237249,
-        237250
+        237250,
+        237251,
+        237252
       ],
       "sent_count": 58
     },
     "footballvision2": {
-      "last_id": 170378,
+      "last_id": 170380,
       "processed_ids": [
-        169311,
-        169312,
         169313,
         169314,
         169315,
@@ -2821,7 +2821,9 @@
         170375,
         170376,
         170377,
-        170378
+        170378,
+        170379,
+        170380
       ],
       "sent_count": 69
     },
@@ -4283,7 +4285,7 @@
       "sent_count": 69
     },
     "roidbest": {
-      "last_id": 21780,
+      "last_id": 21781,
       "processed_ids": [
         21613,
         21614,
@@ -4446,7 +4448,8 @@
         21777,
         21778,
         21779,
-        21780
+        21780,
+        21781
       ],
       "sent_count": 102
     },
@@ -5377,7 +5380,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38621,
+      "last_id": 38622,
       "processed_ids": [
         38432,
         38433,
@@ -5566,12 +5569,13 @@
         38618,
         38619,
         38620,
-        38621
+        38621,
+        38622
       ],
       "sent_count": 120
     },
     "gizmiztel": {
-      "last_id": 162792,
+      "last_id": 162797,
       "processed_ids": [
         161872,
         161875,
@@ -6402,9 +6406,14 @@
         162789,
         162790,
         162791,
-        162792
+        162792,
+        162793,
+        162794,
+        162795,
+        162796,
+        162797
       ],
-      "sent_count": 542
+      "sent_count": 545
     },
     "dr_salamatx": {
       "last_id": 55349,
@@ -6878,7 +6887,7 @@
       "sent_count": 202
     },
     "ajayebe_jahann": {
-      "last_id": 159526,
+      "last_id": 159529,
       "processed_ids": [
         158956,
         158957,
@@ -7443,7 +7452,10 @@
         159523,
         159524,
         159525,
-        159526
+        159526,
+        159527,
+        159528,
+        159529
       ],
       "sent_count": 252
     },
@@ -7543,7 +7555,7 @@
       "sent_count": 15
     },
     "scienticnews": {
-      "last_id": 22550,
+      "last_id": 22551,
       "processed_ids": [
         22458,
         22459,
@@ -7634,14 +7646,14 @@
         22545,
         22546,
         22547,
-        22550
+        22550,
+        22551
       ],
-      "sent_count": 45
+      "sent_count": 46
     },
     "ft360_ir": {
-      "last_id": 109030,
+      "last_id": 109031,
       "processed_ids": [
-        107968,
         107969,
         107970,
         107971,
@@ -8640,12 +8652,13 @@
         109027,
         109028,
         109029,
-        109030
+        109030,
+        109031
       ],
       "sent_count": 58
     },
     "varzesh3": {
-      "last_id": 303398,
+      "last_id": 303401,
       "processed_ids": [
         302363,
         302364,
@@ -9579,7 +9592,10 @@
         303395,
         303396,
         303397,
-        303398
+        303398,
+        303399,
+        303400,
+        303401
       ],
       "sent_count": 46
     },
@@ -10159,7 +10175,7 @@
       "sent_count": 29
     },
     "adak_ir_official": {
-      "last_id": 234741,
+      "last_id": 234742,
       "processed_ids": [
         233831,
         233833,
@@ -11051,12 +11067,13 @@
         234738,
         234739,
         234740,
-        234741
+        234741,
+        234742
       ],
       "sent_count": 107
     },
     "futball180tv": {
-      "last_id": 107858,
+      "last_id": 107859,
       "processed_ids": [
         106848,
         106849,
@@ -12051,12 +12068,13 @@
         107855,
         107856,
         107857,
-        107858
+        107858,
+        107859
       ],
       "sent_count": 40
     },
     "hattric_official": {
-      "last_id": 84270,
+      "last_id": 84271,
       "processed_ids": [
         83433,
         83434,
@@ -12844,7 +12862,8 @@
         84267,
         84268,
         84269,
-        84270
+        84270,
+        84271
       ],
       "sent_count": 50
     },
@@ -13313,7 +13332,7 @@
       "sent_count": 2
     },
     "irwonders": {
-      "last_id": 58338,
+      "last_id": 58339,
       "processed_ids": [
         58030,
         58031,
@@ -13580,7 +13599,8 @@
         58330,
         58336,
         58337,
-        58338
+        58338,
+        58339
       ],
       "sent_count": 175
     },
@@ -15778,81 +15798,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "f15e947a02370807fd35d6153d04606b1a015e921cc1c6e94061d806e0f88713",
-        "media_fingerprint": "",
-        "text": "👨‍🏫\nواریز وام مرحله چهارم به حساب ۳۲ هزار بازنشسته کشوری\n🔵\nوام ضروری ۷۵ میلیون تومانی مرحله چهارم ذینفعان صندوق بازنشستگی کشوری از طریق بانک صادرات در حال واریز به حساب ۳۲ هزار نفر از بازنشستگان واجد شرایط است.\n✦✦✦ آنلاین کافه ✦✦✦\nکانال تلگرام :\n@onlinecofe_ir\nوبلاگ اخبار :\nonlinecofe.ir/news",
-        "original_username": "onlinecofe_ir",
-        "original_text": "👨‍🏫\nواریز وام مرحله چهارم به حساب ۳۲ هزار بازنشسته کشوری\n🔵\nوام ضروری ۷۵ میلیون تومانی مرحله چهارم ذینفعان صندوق بازنشستگی کشوری از طریق بانک صادرات در حال واریز به حساب ۳۲ هزار نفر از بازنشستگان واجد شرایط است.\n✦✦✦ آنلاین کافه ✦✦✦\nکانال تلگرام :\n@onlinecofe_ir\nوبلاگ اخبار :\nonlinecofe.ir/news",
-        "original_link": "https://t.me/onlinecofe_ir/2866",
-        "post_id": 2866,
-        "message_id": 5341,
-        "message_kind": "text",
-        "sources": [
-          "onlinecofe_ir"
-        ],
-        "created_at": "2026-10-02T07:48:42.694190+00:00"
-      },
-      {
-        "fingerprint": "d60059d9a9b7653e5674b349a8cb49598189923ab651f150f5d1a578bd145c2a",
-        "media_fingerprint": "",
-        "text": "♦️\nملک و خودرو در تعیین مشمولان افزایش کالابرگ اثرگذار می‌شود\nوزیر اقتصاد:\n🔹\nوضعیت مالکیت خودرو و ملک در شناسایی گروه‌های هدف برای افزایش اعتبار کالابرگ در نظر گرفته می‌شود؛ با این حال، میزان افزایش اعتبار و تعداد مشمولان هنوز مشخص نشده است.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nملک و خودرو در تعیین مشمولان افزایش کالابرگ اثرگذار می‌شود\nوزیر اقتصاد:\n🔹\nوضعیت مالکیت خودرو و ملک در شناسایی گروه‌های هدف برای افزایش اعتبار کالابرگ در نظر گرفته می‌شود؛ با این حال، میزان افزایش اعتبار و تعداد مشمولان هنوز مشخص نشده است.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142857",
-        "post_id": 142857,
-        "message_id": 5342,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-02T07:48:45.611609+00:00"
-      },
-      {
-        "fingerprint": "a2245da3015f24c4cf333be757ec645cadf2e4b7fda17f52a1d55423f53f405c",
-        "media_fingerprint": "de2eebaf8113be3c540b9b042a95fb0932dded787ea54d102f6263912a8a4da0",
-        "text": "🔴\n🔵\nابوالفضل رزاق‌پور و یوسف مزرعه دو ستاره 29 و 21 ساله تیم فولاد خوزستان به احتمال قریب به یقین در پنجره نیم‌فصل به ترتیب راهی دو باشگاه پرسپولیس و استقلال خواهند شد.\n🆔\n@mazdak_hattrick",
-        "original_username": "mazdak_hattrick",
-        "original_text": "🔴\n🔵\nابوالفضل رزاق‌پور و یوسف مزرعه دو ستاره 29 و 21 ساله تیم فولاد خوزستان به احتمال قریب به یقین در پنجره نیم‌فصل به ترتیب راهی دو باشگاه پرسپولیس و استقلال خواهند شد.\n🆔\n@mazdak_hattrick",
-        "original_link": "https://t.me/mazdak_hattrick/182291",
-        "post_id": 182291,
-        "message_id": 5343,
-        "message_kind": "caption",
-        "sources": [
-          "mazdak_hattrick"
-        ],
-        "created_at": "2026-10-02T08:02:37.816516+00:00"
-      },
-      {
-        "fingerprint": "648eed19f4e3c34f85552b9df204addc4cd90e6b8bd1943eca8b5f39fff4f15b",
-        "media_fingerprint": "",
-        "text": "🔸\nویدیوی باشگاه پرسپولیس از آماده‌سازی ورزشگاه خانگی تیم زنان\n@Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "🔸\nویدیوی باشگاه پرسپولیس از آماده‌سازی ورزشگاه خانگی تیم زنان\n@Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/108826",
-        "post_id": 108826,
-        "message_id": 5344,
-        "message_kind": "text",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-02T08:02:40.461515+00:00"
-      },
-      {
-        "fingerprint": "2c3e41d5e1a203e299e61f7424c7ef5fae3ec80d1a6ff8c8e9fa7e669cf6e1c8",
-        "media_fingerprint": "50b8e964237efe2eef3104971f97965f1b1a4e4e1ad967482821142c02853bad",
-        "text": "کفش کروکدیل ۱۰ میلیارد تومان\nNiNa\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "کفش کروکدیل ۱۰ میلیارد تومان\nNiNa\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461496",
-        "post_id": 461496,
-        "message_id": 5345,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-02T08:02:46.357462+00:00"
-      },
       {
         "fingerprint": "9a6bbb93af3a8de90b3139ada430614da28fb2dfe62b2b8425c4ed30594ba08f",
         "media_fingerprint": "0a4709f9ad5ad53402acdfdc700ed5d8aae5cc76a59ca829a85d687c8e8ff2ab",
@@ -30851,6 +30796,81 @@
           "peach_tweet"
         ],
         "created_at": "2026-10-05T10:45:48.711273+00:00"
+      },
+      {
+        "fingerprint": "ccaf8d0c110903b974ae79e2037e044e9c824c6d35d9da47cb7ba17897d7df2e",
+        "media_fingerprint": "6348a297f1c396e623befa05c398e9936d0b6fa0d5e3cda2bbc4ae8c1e13bd91",
+        "text": "♦️\nافتخار شیرازی بودن را سعدی قرن‌ها پیش در یک بیت خلاصه کرد؛ ما فقط به یادش می‌آوریم\n🌹\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nافتخار شیرازی بودن را سعدی قرن‌ها پیش در یک بیت خلاصه کرد؛ ما فقط به یادش می‌آوریم\n🌹\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143090",
+        "post_id": 143090,
+        "message_id": 6396,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-05T11:07:46.040606+00:00"
+      },
+      {
+        "fingerprint": "e70a71de85df41f7f04a58e3c5507ff393cbc266c30e3122863d7cdff40d90ec",
+        "media_fingerprint": "3915b407a831f5ed58037317fd689097f5530bcbd7a07f0e4640f579906287c3",
+        "text": "دشت اسب‌های وحشی\nروستای جیرسر باقرخاله، گیلان\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "دشت اسب‌های وحشی\nروستای جیرسر باقرخاله، گیلان\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162793",
+        "post_id": 162793,
+        "message_id": 6397,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-05T11:07:53.265013+00:00"
+      },
+      {
+        "fingerprint": "5f46becac6207c6a80e234d10cae22d9bc766960857818c3db99d1d4a4ee8cc0",
+        "media_fingerprint": "e4b597a3c211d7fc442add51d313248cc0a2612e8de4965a3f0ee58003b21876",
+        "text": "واقعا پایان این ژانرو نمی‌تونم دیگه حدس بزنم:))\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "واقعا پایان این ژانرو نمی‌تونم دیگه حدس بزنم:))\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162795",
+        "post_id": 162795,
+        "message_id": 6398,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-05T11:07:59.115618+00:00"
+      },
+      {
+        "fingerprint": "ea811ed7da76e81fe9d3b47c6b528895a406e4a4944d03c1509251a4f03f6306",
+        "media_fingerprint": "138d178c1607da28be8eb5049ef8111564f25c33c3e8f5ca737ab1070077bca0",
+        "text": "کاربردی و تاثیرگذار‌ترین ویدیویی هست که امروز دیدم همین بود.\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "کاربردی و تاثیرگذار‌ترین ویدیویی هست که امروز دیدم همین بود.\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162796",
+        "post_id": 162796,
+        "message_id": 6399,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-05T11:08:05.069589+00:00"
+      },
+      {
+        "fingerprint": "161359f3a35d66763702c3678f41314b3c5e414819662d64279b643fca493ac5",
+        "media_fingerprint": "b942828a2df1931c382ca177d73c35dd62dec1bed492cb2871a5f1b5ba8ed540",
+        "text": "وضعیت چین در سال ۱۹۲۰ و  ۲۰۲۶\n🌐\n@ScienticNews",
+        "original_username": "scienticnews",
+        "original_text": "وضعیت چین در سال ۱۹۲۰ و  ۲۰۲۶\n🌐\n@ScienticNews",
+        "original_link": "https://t.me/ScienticNews/22551",
+        "post_id": 22551,
+        "message_id": 6400,
+        "message_kind": "caption",
+        "sources": [
+          "scienticnews"
+        ],
+        "created_at": "2026-10-05T11:08:10.597321+00:00"
       }
     ]
   }
