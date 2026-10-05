@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143091,
+      "last_id": 143093,
       "processed_ids": [
-        142001,
-        142002,
         142003,
         142004,
         142005,
@@ -1002,9 +1000,11 @@
         143088,
         143089,
         143090,
-        143091
+        143091,
+        143092,
+        143093
       ],
-      "sent_count": 670
+      "sent_count": 671
     },
     "total_fut": {
       "last_id": 237252,
@@ -1822,15 +1822,8 @@
       "sent_count": 58
     },
     "footballvision2": {
-      "last_id": 170380,
+      "last_id": 170387,
       "processed_ids": [
-        169313,
-        169314,
-        169315,
-        169316,
-        169317,
-        169318,
-        169319,
         169320,
         169321,
         169322,
@@ -2823,7 +2816,14 @@
         170377,
         170378,
         170379,
-        170380
+        170380,
+        170381,
+        170382,
+        170383,
+        170384,
+        170385,
+        170386,
+        170387
       ],
       "sent_count": 69
     },
@@ -3033,7 +3033,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67367,
+      "last_id": 67372,
       "processed_ids": [
         66561,
         66565,
@@ -3667,12 +3667,14 @@
         67363,
         67364,
         67365,
-        67367
+        67367,
+        67368,
+        67372
       ],
-      "sent_count": 371
+      "sent_count": 373
     },
     "techtube": {
-      "last_id": 18435,
+      "last_id": 18440,
       "processed_ids": [
         18261,
         18262,
@@ -3786,7 +3788,9 @@
         18429,
         18430,
         18434,
-        18435
+        18435,
+        18439,
+        18440
       ],
       "sent_count": 42
     },
@@ -4454,7 +4458,7 @@
       "sent_count": 102
     },
     "akhbar_cafenet": {
-      "last_id": 22984,
+      "last_id": 22985,
       "processed_ids": [
         22432,
         22433,
@@ -4981,12 +4985,13 @@
         22981,
         22982,
         22983,
-        22984
+        22984,
+        22985
       ],
       "sent_count": 304
     },
     "comentiat": {
-      "last_id": 26319,
+      "last_id": 26322,
       "processed_ids": [
         25844,
         25845,
@@ -5368,9 +5373,12 @@
         26309,
         26310,
         26311,
-        26319
+        26319,
+        26320,
+        26321,
+        26322
       ],
-      "sent_count": 272
+      "sent_count": 274
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -6416,7 +6424,7 @@
       "sent_count": 545
     },
     "dr_salamatx": {
-      "last_id": 55349,
+      "last_id": 55350,
       "processed_ids": [
         55270,
         55271,
@@ -6497,7 +6505,8 @@
         55346,
         55347,
         55348,
-        55349
+        55349,
+        55350
       ],
       "sent_count": 50
     },
@@ -7652,9 +7661,8 @@
       "sent_count": 46
     },
     "ft360_ir": {
-      "last_id": 109031,
+      "last_id": 109032,
       "processed_ids": [
-        107969,
         107970,
         107971,
         107972,
@@ -8653,12 +8661,13 @@
         109028,
         109029,
         109030,
-        109031
+        109031,
+        109032
       ],
       "sent_count": 58
     },
     "varzesh3": {
-      "last_id": 303401,
+      "last_id": 303402,
       "processed_ids": [
         302363,
         302364,
@@ -9595,7 +9604,8 @@
         303398,
         303399,
         303400,
-        303401
+        303401,
+        303402
       ],
       "sent_count": 46
     },
@@ -10175,7 +10185,7 @@
       "sent_count": 29
     },
     "adak_ir_official": {
-      "last_id": 234742,
+      "last_id": 234745,
       "processed_ids": [
         233831,
         233833,
@@ -11068,12 +11078,15 @@
         234739,
         234740,
         234741,
-        234742
+        234742,
+        234743,
+        234744,
+        234745
       ],
-      "sent_count": 107
+      "sent_count": 108
     },
     "futball180tv": {
-      "last_id": 107859,
+      "last_id": 107861,
       "processed_ids": [
         106848,
         106849,
@@ -12069,12 +12082,14 @@
         107856,
         107857,
         107858,
-        107859
+        107859,
+        107860,
+        107861
       ],
       "sent_count": 40
     },
     "hattric_official": {
-      "last_id": 84271,
+      "last_id": 84273,
       "processed_ids": [
         83433,
         83434,
@@ -12863,9 +12878,11 @@
         84268,
         84269,
         84270,
-        84271
+        84271,
+        84272,
+        84273
       ],
-      "sent_count": 50
+      "sent_count": 51
     },
     "mazdak_hattrick": {
       "last_id": 182357,
@@ -13332,7 +13349,7 @@
       "sent_count": 2
     },
     "irwonders": {
-      "last_id": 58339,
+      "last_id": 58340,
       "processed_ids": [
         58030,
         58031,
@@ -13600,7 +13617,8 @@
         58336,
         58337,
         58338,
-        58339
+        58339,
+        58340
       ],
       "sent_count": 175
     },
@@ -15500,7 +15518,7 @@
       "sent_count": 32
     },
     "yejoorayi": {
-      "last_id": 488,
+      "last_id": 489,
       "processed_ids": [
         426,
         427,
@@ -15563,9 +15581,10 @@
         485,
         486,
         487,
-        488
+        488,
+        489
       ],
-      "sent_count": 57
+      "sent_count": 58
     },
     "onlinecofe_ir": {
       "last_id": 2887,
@@ -15681,7 +15700,7 @@
       "sent_count": 39
     },
     "shakhmovie": {
-      "last_id": 4052,
+      "last_id": 4053,
       "processed_ids": [
         4017,
         4018,
@@ -15707,7 +15726,8 @@
         4048,
         4050,
         4051,
-        4052
+        4052,
+        4053
       ],
       "sent_count": 22
     },
@@ -15798,128 +15818,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "9a6bbb93af3a8de90b3139ada430614da28fb2dfe62b2b8425c4ed30594ba08f",
-        "media_fingerprint": "0a4709f9ad5ad53402acdfdc700ed5d8aae5cc76a59ca829a85d687c8e8ff2ab",
-        "text": "🔴\nمیدونستی فیلترشکن های ما برای هیچ اینترنتی محدودیت نداره؟\n🟢\n#ایرانسل، #همراه‌اول، #رایتل ، #شاتل\n، مخابرات، مبین نت و …. همگی پر سرعت جواب میده\n😉\n🚀\nفرصت رو از دست نده میخوای تستش کنی؟\n🥹\nهمین الان پیام بده و از تست رایگان استفاده کن\n😍\n👇\n👇\n👇\n👇\n@AuroraaVPN_bot\n@AuroraaVPN_bot\n@AuroraaVPN_bot\n@AuroraaVPN_bot\n📱\nآخرین VPNی که می‌خرید\n💻",
-        "original_username": "ajayebe_jahann",
-        "original_text": "🔴\nمیدونستی فیلترشکن های ما برای هیچ اینترنتی محدودیت نداره؟\n🟢\n#ایرانسل، #همراه‌اول، #رایتل ، #شاتل\n، مخابرات، مبین نت و …. همگی پر سرعت جواب میده\n😉\n🚀\nفرصت رو از دست نده میخوای تستش کنی؟\n🥹\nهمین الان پیام بده و از تست رایگان استفاده کن\n😍\n👇\n👇\n👇\n👇\n@AuroraaVPN_bot\n@AuroraaVPN_bot\n@AuroraaVPN_bot\n@AuroraaVPN_bot\n📱\nآخرین VPNی که می‌خرید\n💻",
-        "original_link": "https://t.me/Ajayebe_jahann/159437",
-        "post_id": 159437,
-        "message_id": 5346,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann",
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-02T08:02:50.660528+00:00"
-      },
-      {
-        "fingerprint": "b4c5aec58a048c4bce190c12369ac842e84c6e33009133b544217177ac099a4e",
-        "media_fingerprint": "fe6cb3d4ccbae3ae7b0de7638cc139a9923737d1c9ac133f5dd553336f02bae6",
-        "text": "🔻\nبعضی از ماشین ها دقیقا صداهایی مانند صدای حیوانات دارند\n.\nبا بعضی از آن ها آشنا شویم.\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "🔻\nبعضی از ماشین ها دقیقا صداهایی مانند صدای حیوانات دارند\n.\nبا بعضی از آن ها آشنا شویم.\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159440",
-        "post_id": 159440,
-        "message_id": 5347,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-02T08:29:41.227705+00:00"
-      },
-      {
-        "fingerprint": "7e76fc509f711c4c8bd06105ef35411b8658e4065c830da622782e33c6ef8395",
-        "media_fingerprint": "ba7e3acb3f3668c1367b5e40fed062a06aefcdd7a823e3b75d569999f02ced83",
-        "text": "وضعیت عجیب پوشش یک مسافر در مترو تهران\nNiNa\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "وضعیت عجیب پوشش یک مسافر در مترو تهران\nNiNa\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461497",
-        "post_id": 461497,
-        "message_id": 5348,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-02T08:29:46.918421+00:00"
-      },
-      {
-        "fingerprint": "d720a60c3cfd43ffb446a76f6cf996bc24c6555ac4973f2fbcd16ad7bc6da710",
-        "media_fingerprint": "946682c989162017c3d1c94acad6006c29953386da255d517b95e90c093abe86",
-        "text": "ساعتی که ریشار میل برای فراری ساخت\n👌\nNiNa\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "ساعتی که ریشار میل برای فراری ساخت\n👌\nNiNa\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461498",
-        "post_id": 461498,
-        "message_id": 5349,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-02T08:29:54.552734+00:00"
-      },
-      {
-        "fingerprint": "fd8ad2b3d672755f74a8cd5c523350269a055a5d4b5b7edaf8fbed3a27e65d15",
-        "media_fingerprint": "",
-        "text": "🌐\nسوخت‌گیری با کارت بانکی در تهران آغاز شد\n🔵\nطرح شناسه‌دار کردن کارت‌های اضطراری جایگاه‌های سوخت به‌صورت آزمایشی در ۵۴ جایگاه منتخب تهران آغاز شده است؛ طرحی که به متقاضیان امکان می‌دهد پس از احراز هویت با کارت بانکی شخصی، بدون واسطه سوخت‌گیری کنند.\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🌐\nسوخت‌گیری با کارت بانکی در تهران آغاز شد\n🔵\nطرح شناسه‌دار کردن کارت‌های اضطراری جایگاه‌های سوخت به‌صورت آزمایشی در ۵۴ جایگاه منتخب تهران آغاز شده است؛ طرحی که به متقاضیان امکان می‌دهد پس از احراز هویت با کارت بانکی شخصی، بدون واسطه سوخت‌گیری کنند.\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22858",
-        "post_id": 22858,
-        "message_id": 5350,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet",
-          "onlinecofe_ir"
-        ],
-        "created_at": "2026-10-02T08:29:57.439572+00:00"
-      },
-      {
-        "fingerprint": "144a90a2d5b5ccefc7fe52b0433aad8c2382cc7909a6f64d73d69546b1b07638",
-        "media_fingerprint": "",
-        "text": "⭕️\nسخنگوی کمیسیون اجتماعی مجلس: کالابرگ برخی یارانه‌بگیران نیم‌ میلیون تومان افزایش می‌یابد\n✦✦✦ آنلاین کافه ✦✦✦\nکانال تلگرام :\n@onlinecofe_ir\nوبلاگ اخبار :\nonlinecofe.ir/news",
-        "original_username": "onlinecofe_ir",
-        "original_text": "⭕️\nسخنگوی کمیسیون اجتماعی مجلس: کالابرگ برخی یارانه‌بگیران نیم‌ میلیون تومان افزایش می‌یابد\n✦✦✦ آنلاین کافه ✦✦✦\nکانال تلگرام :\n@onlinecofe_ir\nوبلاگ اخبار :\nonlinecofe.ir/news",
-        "original_link": "https://t.me/onlinecofe_ir/2868",
-        "post_id": 2868,
-        "message_id": 5351,
-        "message_kind": "text",
-        "sources": [
-          "onlinecofe_ir"
-        ],
-        "created_at": "2026-10-02T08:30:01.224810+00:00"
-      },
-      {
-        "fingerprint": "b985c2bad2e9070f7154c0aa52a4062e140cdbf85d576b69611de9dd5ec69932",
-        "media_fingerprint": "1803807a5e17ef79787f25c930bd1836fa4fb59427d2e6810d3cd09cc0326887",
-        "text": "🔻\nکشنده ترین مواد شیمیایی جهان چه مواردی هستند\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "🔻\nکشنده ترین مواد شیمیایی جهان چه مواردی هستند\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159441",
-        "post_id": 159441,
-        "message_id": 5352,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-02T08:30:08.088894+00:00"
-      },
-      {
-        "fingerprint": "43fd538d3c6e003c3017334ce66296b5e3abcb1ec15f19eb7ca9fda9d0c8e34e",
-        "media_fingerprint": "c9b5e293c7ee189d9431f96947e76acaab104a511d22d21275e3b744a58b3ead",
-        "text": "شکوه دماوند\n📽\nخلبان ارسیا جمالپور ، مهرماه ۱۴۰۵\nNiNa\n@Kafiha",
-        "original_username": "kafiha",
-        "original_text": "شکوه دماوند\n📽\nخلبان ارسیا جمالپور ، مهرماه ۱۴۰۵\nNiNa\n@Kafiha",
-        "original_link": "https://t.me/kafiha/461499",
-        "post_id": 461499,
-        "message_id": 5353,
-        "message_kind": "caption",
-        "sources": [
-          "kafiha"
-        ],
-        "created_at": "2026-10-02T08:30:13.779275+00:00"
-      },
       {
         "fingerprint": "41a8fe5a6e3ef48fcb260a01f781e63948a6a36015aab62bd623f083106e946e",
         "media_fingerprint": "",
@@ -30871,6 +30769,126 @@
           "scienticnews"
         ],
         "created_at": "2026-10-05T11:08:10.597321+00:00"
+      },
+      {
+        "fingerprint": "b094e239965107b4dc0421fa1e5ce2ffd0b87d328e3310b557dcfd97c5c580fb",
+        "media_fingerprint": "2ce57fce624e93b6091a32557de3f69f1b5a5586ae3aa83d9d7daa9f29933a75",
+        "text": "🚗\nقیمت روز خودرو در بازار\n۱۳ مهر ۱۴۰۵\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "🚗\nقیمت روز خودرو در بازار\n۱۳ مهر ۱۴۰۵\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143092",
+        "post_id": 143092,
+        "message_id": 6401,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-05T11:47:08.229949+00:00"
+      },
+      {
+        "fingerprint": "e325fb0227e0765187af23e4a6cf4067d5d2ce7179a0bab677b562adbdf73c62",
+        "media_fingerprint": "0d87ada767ae22cc69336fad128aebd3ed7c2f6fa867f2cd30f00f9295756b02",
+        "text": "🔴\nسال 2023 یه میم به نام Opium Bird خیلی وایرال شد که یه موجود بزرگ و پرنده‌مانند تو کوه‌های برفی رو نشون می‌داد و سازنده‌اش گفته بود که سال 2027 (۲ ماه و ۲۷ روز دیگه) می‌فهمید یعنی چی؛  حالا شباهت Opium Bird و طاعون\n👺\nو همچنین لوکیشن برفی اون میم و آب و هوای…",
+        "original_username": "drtel",
+        "original_text": "🔴\nسال 2023 یه میم به نام Opium Bird خیلی وایرال شد که یه موجود بزرگ و پرنده‌مانند تو کوه‌های برفی رو نشون می‌داد و سازنده‌اش گفته بود که سال 2027 (۲ ماه و ۲۷ روز دیگه) می‌فهمید یعنی چی؛  حالا شباهت Opium Bird و طاعون\n👺\nو همچنین لوکیشن برفی اون میم و آب و هوای…",
+        "original_link": "https://t.me/drtel/67368",
+        "post_id": 67368,
+        "message_id": 6402,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-05T11:47:16.217145+00:00"
+      },
+      {
+        "fingerprint": "6bd6f40aa69c8b6ba6bfdeb660fd16610d3df863bfe2c915918514d1d5c205ae",
+        "media_fingerprint": "f0b8bab8d4956c4a1ec0261ba4dd011f7935103ce61ef9daa84246a768749355",
+        "text": "",
+        "original_username": "drtel",
+        "original_text": "",
+        "original_link": "https://t.me/drtel/67372",
+        "post_id": 67372,
+        "message_id": 6405,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-05T11:47:21.158111+00:00"
+      },
+      {
+        "fingerprint": "71f08f4fe087ae23eb5c1eb928775ac7960e3c55e0d7945a6e20d306c8f892dd",
+        "media_fingerprint": "51c6624fb80ceb37d27802a8c5f583b3fc559ec902ab6a27996dd417550c115c",
+        "text": "شما چطوری هم تو رابطه اید هم سه رقمی میشید؟ من سال کنکور یه مدت به یکی فقط “فکر” میکردم، یک ماه از برنامه مشاور عقب افتادم.\n> هانی\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "شما چطوری هم تو رابطه اید هم سه رقمی میشید؟ من سال کنکور یه مدت به یکی فقط “فکر” میکردم، یک ماه از برنامه مشاور عقب افتادم.\n> هانی\n@comentiat",
+        "original_link": "https://t.me/Comentiat/26321",
+        "post_id": 26321,
+        "message_id": 6406,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-05T11:47:24.882171+00:00"
+      },
+      {
+        "fingerprint": "e6349fde311d64a973ac80d342509a98363114de9e3cf91feb31a6a75f380771",
+        "media_fingerprint": "f8e80538b1e8bf92033362afad8ac53749d9bf35803a64c3a1373a62e6ebe0fc",
+        "text": "وقتی ازت پیام دریافت می‌کنم:\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "وقتی ازت پیام دریافت می‌کنم:\n@comentiat",
+        "original_link": "https://t.me/Comentiat/26322",
+        "post_id": 26322,
+        "message_id": 6407,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-05T11:47:30.697431+00:00"
+      },
+      {
+        "fingerprint": "6db88e9dc1e4d8e0b71a2b241ccf47b4607b117f476c86f790067dd4cb3ed000",
+        "media_fingerprint": "",
+        "text": "خیلی به پرسپولیس نزدیکه",
+        "original_username": "adak_ir_official",
+        "original_text": "خیلی به پرسپولیس نزدیکه",
+        "original_link": "https://t.me/ADAK_IR_official/234744",
+        "post_id": 234744,
+        "message_id": 6408,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-05T11:47:33.196740+00:00"
+      },
+      {
+        "fingerprint": "3a2d5ab9969405d8f00f268ea23fa3de8c3b84f5cda9cc76166313622a1a73b0",
+        "media_fingerprint": "9823369874b94f58e1d901f948f1821629e283aad9eb56f4d379e00647570625",
+        "text": "‼️\n⚽\nسعید شیرینی، سرپرست سابق پرسپولیس، از مطالبات حدود ۷۳ میلیارد تومانی خود از این باشگاه گذشت.\n🔴\nبر اساس اعلام پرسپولیس، این موضوع مربوط به دو پرونده حقوقی بوده که یکی از آنها بیش از ۴۱ میلیارد تومان و دیگری ۸ میلیارد تومان مطالبه به‌همراه خسارت تأخیر تأدیه داشته است. با اعلام رضایت شیرینی، مجموعاً حدود ۷۳ میلیارد تومان از خروج منابع مالی باشگاه جلوگیری و پرونده‌ها برای مختومه شدن ارسال شدند.\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "‼️\n⚽\nسعید شیرینی، سرپرست سابق پرسپولیس، از مطالبات حدود ۷۳ میلیارد تومانی خود از این باشگاه گذشت.\n🔴\nبر اساس اعلام پرسپولیس، این موضوع مربوط به دو پرونده حقوقی بوده که یکی از آنها بیش از ۴۱ میلیارد تومان و دیگری ۸ میلیارد تومان مطالبه به‌همراه خسارت تأخیر تأدیه داشته است. با اعلام رضایت شیرینی، مجموعاً حدود ۷۳ میلیارد تومان از خروج منابع مالی باشگاه جلوگیری و پرونده‌ها برای مختومه شدن ارسال شدند.\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/84272",
+        "post_id": 84272,
+        "message_id": 6409,
+        "message_kind": "caption",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-05T11:47:37.954891+00:00"
+      },
+      {
+        "fingerprint": "e394745089c3e6a408f33ce2d50f3f12728fa8fd2162b0169e3a76cbb7ba4e63",
+        "media_fingerprint": "796dcd2fa1466f5496ea273cf9372a7f06a8b7bb062e1fdae20ae7a4b457c621",
+        "text": "صدای شکستن قلب علیرضا تا اینجا اومد\n🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "صدای شکستن قلب علیرضا تا اینجا اومد\n🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/489",
+        "post_id": 489,
+        "message_id": 6410,
+        "message_kind": "caption",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-05T11:47:41.800877+00:00"
       }
     ]
   }
