@@ -1907,14 +1907,8 @@
       "sent_count": 71
     },
     "footballvision2": {
-      "last_id": 170522,
+      "last_id": 170528,
       "processed_ids": [
-        169444,
-        169445,
-        169446,
-        169447,
-        169448,
-        169449,
         169450,
         169451,
         169452,
@@ -2908,7 +2902,13 @@
         170519,
         170520,
         170521,
-        170522
+        170522,
+        170523,
+        170524,
+        170525,
+        170526,
+        170527,
+        170528
       ],
       "sent_count": 72
     },
@@ -5277,7 +5277,7 @@
       "sent_count": 329
     },
     "comentiat": {
-      "last_id": 26355,
+      "last_id": 26358,
       "processed_ids": [
         25844,
         25845,
@@ -5692,9 +5692,11 @@
         26352,
         26353,
         26354,
-        26355
+        26355,
+        26357,
+        26358
       ],
-      "sent_count": 299
+      "sent_count": 301
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -8169,12 +8171,8 @@
       "sent_count": 48
     },
     "ft360_ir": {
-      "last_id": 109192,
+      "last_id": 109196,
       "processed_ids": [
-        108111,
-        108112,
-        108113,
-        108114,
         108115,
         108116,
         108117,
@@ -9170,15 +9168,17 @@
         109188,
         109189,
         109190,
-        109192
+        109192,
+        109193,
+        109194,
+        109195,
+        109196
       ],
       "sent_count": 65
     },
     "varzesh3": {
-      "last_id": 303498,
+      "last_id": 303500,
       "processed_ids": [
-        302396,
-        302397,
         302398,
         302399,
         302400,
@@ -10176,7 +10176,9 @@
         303495,
         303496,
         303497,
-        303498
+        303498,
+        303499,
+        303500
       ],
       "sent_count": 49
     },
@@ -16840,36 +16842,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "e59191abff8ce0b6c201a11d4cab3784ae8d06cbaac10ef6dc65c704d34c5bd6",
-        "media_fingerprint": "3fda3dca771fb2de884c5b5d1f77442935ce573e842daea7c445c3a2863133cf",
-        "text": "🚨\nفوری\n🚨\nیادگیر  سیاه قلم برای همه رایگان شد!\n🚀\nصفر تا صد آموزش سیاه قلم و روش درآمدزایی از فروش نقاشی رو میتونید توی کانال زیر یاد بگیرید…!\n😎\nترم اول آموزش طراحی به ارزش ۳.۰۰۰.۰۰۰ برای همه رایگان شد\n🥰\n🎁\n✅\nمناسب برای همه‌ی سنین\n👌🏻\nهمین الان بزن روی لینک زیر و توی کلاس شرکت کن\n👇🏻\nhttps://t.me/+KMt1BUmcQTRlZjM8",
-        "original_username": "khandehabadd",
-        "original_text": "🚨\nفوری\n🚨\nیادگیر  سیاه قلم برای همه رایگان شد!\n🚀\nصفر تا صد آموزش سیاه قلم و روش درآمدزایی از فروش نقاشی رو میتونید توی کانال زیر یاد بگیرید…!\n😎\nترم اول آموزش طراحی به ارزش ۳.۰۰۰.۰۰۰ برای همه رایگان شد\n🥰\n🎁\n✅\nمناسب برای همه‌ی سنین\n👌🏻\nهمین الان بزن روی لینک زیر و توی کلاس شرکت کن\n👇🏻\nhttps://t.me/+KMt1BUmcQTRlZjM8",
-        "original_link": "https://t.me/khandehabadd/306725",
-        "post_id": 306725,
-        "message_id": 5822,
-        "message_kind": "caption",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-03T14:36:25.737382+00:00"
-      },
-      {
-        "fingerprint": "8cb0c72b9d109d5b1e4bb6a7e8c20ce153c49c5fdcfc8d3e9a0dde0e3e6753f7",
-        "media_fingerprint": "eee91be116ac3c71a779b2c50beca3eb4e7611c45736f4c125145ab8cdcd98b1",
-        "text": "🔴\nزندگی وقتی دلار 250 تومن بود :\nاین ویدیو رو کمتر از 1 ماه دیگه درک می‌کنید.\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nزندگی وقتی دلار 250 تومن بود :\nاین ویدیو رو کمتر از 1 ماه دیگه درک می‌کنید.\n@DrTeL",
-        "original_link": "https://t.me/drtel/67279",
-        "post_id": 67279,
-        "message_id": 5823,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-03T14:36:32.388928+00:00"
-      },
       {
         "fingerprint": "bed0ab9d527589e7cd7025237301b2223916351d992884adca88bcc0b034eea1",
         "media_fingerprint": "37ff5879b1f43896293170d8b1a18f1b9720d1d2eeebef28c977aa3212d2f87c",
@@ -31926,6 +31898,36 @@
           "comentiat"
         ],
         "created_at": "2026-10-06T23:17:30.600374+00:00"
+      },
+      {
+        "fingerprint": "2b43bdfc6c7b8869c1f6e446a0d21de15a1bd4feb6eda39730ac3936165f653f",
+        "media_fingerprint": "5ffa39001ef8da6f9d817bee569fb1b27f237e5ac7fbdb4ca176257fd3982a7f",
+        "text": "امیدوارم یکی پیدا شه که شماهم همینقدر حال دلتون خوب باشه\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "امیدوارم یکی پیدا شه که شماهم همینقدر حال دلتون خوب باشه\n@comentiat",
+        "original_link": "https://t.me/Comentiat/26357",
+        "post_id": 26357,
+        "message_id": 6883,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-06T23:46:00.619726+00:00"
+      },
+      {
+        "fingerprint": "e1b587671fdcbc0a1799b2dab90b2310816e4ac0df78d9a3ab2ce69c268633b8",
+        "media_fingerprint": "58f1db08f5e7356f47839862540922b613183cd60f2d0d5691a8f8536eac9573",
+        "text": "‏لاس تمیز به سبک استاد\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "‏لاس تمیز به سبک استاد\n@comentiat",
+        "original_link": "https://t.me/Comentiat/26358",
+        "post_id": 26358,
+        "message_id": 6884,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-06T23:46:06.748468+00:00"
       }
     ]
   }
