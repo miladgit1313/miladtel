@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143192,
+      "last_id": 143195,
       "processed_ids": [
-        142099,
-        142100,
         142101,
         142102,
         142103,
@@ -1002,12 +1000,14 @@
         143189,
         143190,
         143191,
-        143192
+        143192,
+        143193,
+        143195
       ],
-      "sent_count": 715
+      "sent_count": 716
     },
     "total_fut": {
-      "last_id": 237332,
+      "last_id": 237336,
       "processed_ids": [
         236405,
         236407,
@@ -1891,14 +1891,16 @@
         237329,
         237330,
         237331,
-        237332
+        237332,
+        237333,
+        237335,
+        237336
       ],
       "sent_count": 71
     },
     "footballvision2": {
-      "last_id": 170502,
+      "last_id": 170503,
       "processed_ids": [
-        169423,
         169424,
         169425,
         169427,
@@ -2897,7 +2899,8 @@
         170499,
         170500,
         170501,
-        170502
+        170502,
+        170503
       ],
       "sent_count": 72
     },
@@ -4471,7 +4474,7 @@
       "sent_count": 71
     },
     "roidbest": {
-      "last_id": 21795,
+      "last_id": 21796,
       "processed_ids": [
         21613,
         21614,
@@ -4648,12 +4651,13 @@
         21791,
         21792,
         21793,
-        21795
+        21795,
+        21796
       ],
-      "sent_count": 108
+      "sent_count": 109
     },
     "akhbar_cafenet": {
-      "last_id": 23047,
+      "last_id": 23048,
       "processed_ids": [
         22432,
         22433,
@@ -5241,7 +5245,8 @@
         23044,
         23045,
         23046,
-        23047
+        23047,
+        23048
       ],
       "sent_count": 328
     },
@@ -5669,7 +5674,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38639,
+      "last_id": 38641,
       "processed_ids": [
         38432,
         38433,
@@ -5875,9 +5880,11 @@
         38636,
         38637,
         38638,
-        38639
+        38639,
+        38640,
+        38641
       ],
-      "sent_count": 128
+      "sent_count": 129
     },
     "gizmiztel": {
       "last_id": 162870,
@@ -6886,7 +6893,7 @@
       "sent_count": 58
     },
     "jaleb": {
-      "last_id": 52728,
+      "last_id": 52731,
       "processed_ids": [
         52261,
         52262,
@@ -7298,9 +7305,12 @@
         52725,
         52726,
         52727,
-        52728
+        52728,
+        52729,
+        52730,
+        52731
       ],
-      "sent_count": 215
+      "sent_count": 218
     },
     "ajayebe_jahann": {
       "last_id": 159572,
@@ -8108,13 +8118,8 @@
       "sent_count": 47
     },
     "ft360_ir": {
-      "last_id": 109143,
+      "last_id": 109148,
       "processed_ids": [
-        108066,
-        108067,
-        108068,
-        108069,
-        108070,
         108071,
         108072,
         108073,
@@ -9109,15 +9114,18 @@
         109139,
         109141,
         109142,
-        109143
+        109143,
+        109144,
+        109145,
+        109146,
+        109147,
+        109148
       ],
       "sent_count": 65
     },
     "varzesh3": {
-      "last_id": 303475,
+      "last_id": 303477,
       "processed_ids": [
-        302366,
-        302367,
         302368,
         302369,
         302370,
@@ -10115,12 +10123,14 @@
         303471,
         303472,
         303473,
-        303475
+        303475,
+        303476,
+        303477
       ],
       "sent_count": 49
     },
     "totalfut_plus": {
-      "last_id": 26501,
+      "last_id": 26502,
       "processed_ids": [
         25870,
         25871,
@@ -10734,12 +10744,13 @@
         26498,
         26499,
         26500,
-        26501
+        26501,
+        26502
       ],
       "sent_count": 34
     },
     "adak_ir_official": {
-      "last_id": 234817,
+      "last_id": 234819,
       "processed_ids": [
         233831,
         233833,
@@ -11707,19 +11718,15 @@
         234814,
         234815,
         234816,
-        234817
+        234817,
+        234818,
+        234819
       ],
-      "sent_count": 125
+      "sent_count": 126
     },
     "futball180tv": {
-      "last_id": 107942,
+      "last_id": 107948,
       "processed_ids": [
-        106926,
-        106927,
-        106928,
-        106929,
-        106930,
-        106931,
         106932,
         106934,
         106935,
@@ -12713,12 +12720,18 @@
         107939,
         107940,
         107941,
-        107942
+        107942,
+        107943,
+        107944,
+        107945,
+        107946,
+        107947,
+        107948
       ],
       "sent_count": 46
     },
     "hattric_official": {
-      "last_id": 84345,
+      "last_id": 84346,
       "processed_ids": [
         83433,
         83434,
@@ -13578,7 +13591,8 @@
         84342,
         84343,
         84344,
-        84345
+        84345,
+        84346
       ],
       "sent_count": 60
     },
@@ -15967,7 +15981,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306817,
+      "last_id": 306819,
       "processed_ids": [
         306563,
         306564,
@@ -16219,7 +16233,9 @@
         306814,
         306815,
         306816,
-        306817
+        306817,
+        306818,
+        306819
       ],
       "sent_count": 112
     },
@@ -16617,7 +16633,7 @@
       "sent_count": 32
     },
     "peach_tweet": {
-      "last_id": 2919,
+      "last_id": 2920,
       "processed_ids": [
         2745,
         2749,
@@ -16719,133 +16735,14 @@
         2916,
         2917,
         2918,
-        2919
+        2919,
+        2920
       ],
-      "sent_count": 63
+      "sent_count": 64
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "f31e5cf1f48486955cf330686c8526c4584e800c90864d8ade39d197204208e4",
-        "media_fingerprint": "3d9bbc0f076d484a8af54a8874f4f34d727fe53c4a83760b3cd4554bc510ecf0",
-        "text": "خدا رو شکر هر روز یه روش جدید کلاهبرداری ابداع میشه تو مملکت\n😅\n🤦🏻‍♂️",
-        "original_username": "amozesh_cafenet",
-        "original_text": "خدا رو شکر هر روز یه روش جدید کلاهبرداری ابداع میشه تو مملکت\n😅\n🤦🏻‍♂️",
-        "original_link": "https://t.me/amozesh_cafenet/3117",
-        "post_id": 3117,
-        "message_id": 5772,
-        "message_kind": "caption",
-        "sources": [
-          "amozesh_cafenet"
-        ],
-        "created_at": "2026-10-03T10:01:01.577783+00:00"
-      },
-      {
-        "fingerprint": "e6ba6752a270b3db05c1fe4b4ade5731a69a278f8eb9c6a3f972d5a62a7bee5e",
-        "media_fingerprint": "",
-        "text": "💵\nسود سهام عدالت حدود ۲.۵ میلیون تومان\n🔵\nمدیر نظارت بر ناشران سازمان بورس: میزان سود حدود دو میلیون تومان است، اما عدد پس از برگزاری کامل مجامع از سوی سپرده‌گذاری مرکزی اعلام می‌شود، ولی به نظر می‌رسد مبلغ سود بین ۲ تا ۲.۵ میلیون تومان باشد.\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "💵\nسود سهام عدالت حدود ۲.۵ میلیون تومان\n🔵\nمدیر نظارت بر ناشران سازمان بورس: میزان سود حدود دو میلیون تومان است، اما عدد پس از برگزاری کامل مجامع از سوی سپرده‌گذاری مرکزی اعلام می‌شود، ولی به نظر می‌رسد مبلغ سود بین ۲ تا ۲.۵ میلیون تومان باشد.\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22894",
-        "post_id": 22894,
-        "message_id": 5773,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-03T10:01:04.570447+00:00"
-      },
-      {
-        "fingerprint": "54ad6e12fd861ea0ca452599b3df14515697fa7e76ef7867be020a34ae7103dc",
-        "media_fingerprint": "",
-        "text": "⭕️\nنتیجه اولیه فرهنگیان آخر مهر ماه منتشر خواهد شد\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "⭕️\nنتیجه اولیه فرهنگیان آخر مهر ماه منتشر خواهد شد\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22895",
-        "post_id": 22895,
-        "message_id": 5774,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-03T10:01:07.156498+00:00"
-      },
-      {
-        "fingerprint": "3fa32108b0591326ea77fb3354350b1048ca10be804ae2a38165f590e43e7d6c",
-        "media_fingerprint": "",
-        "text": "💢\nسوخت گیری با کارت بانکی تا سه ماه دیگر در سراسر کشور اجرا خواهد شد\nمدیر سامانه هوشمند سوخت:\n✅\nطرح شناسه دار کردن کارت های اضطراری سوخت در برخی جایگاه های تهران اجرا شده و قرار است تا سه ماه آینده در سراسر کشور اجرا شود.\n✅\nمیزان برداشت سوخت با کارت های اضطراری در شهریورماه به 40 درصد افزایش یافته و شناسه دار نبودن این کارت ها، امکان عرضه خارج از شبکه را ایجاد می کرد.\n⭐️\nآدرس کانال در تلگرام و ایتا و بله:\n@niyoosha_internetcafe\n🗺\nآدرس: مرکز اطلاع‌رسانی نیوشا / قم، بلوار امین، نبش کوی ۱۲\n📞\nتلفن: 02532939091",
-        "original_username": "coffeenetmanager",
-        "original_text": "💢\nسوخت گیری با کارت بانکی تا سه ماه دیگر در سراسر کشور اجرا خواهد شد\nمدیر سامانه هوشمند سوخت:\n✅\nطرح شناسه دار کردن کارت های اضطراری سوخت در برخی جایگاه های تهران اجرا شده و قرار است تا سه ماه آینده در سراسر کشور اجرا شود.\n✅\nمیزان برداشت سوخت با کارت های اضطراری در شهریورماه به 40 درصد افزایش یافته و شناسه دار نبودن این کارت ها، امکان عرضه خارج از شبکه را ایجاد می کرد.\n⭐️\nآدرس کانال در تلگرام و ایتا و بله:\n@niyoosha_internetcafe\n🗺\nآدرس: مرکز اطلاع‌رسانی نیوشا / قم، بلوار امین، نبش کوی ۱۲\n📞\nتلفن: 02532939091",
-        "original_link": "https://t.me/CoffeenetManager/51697",
-        "post_id": 51697,
-        "message_id": 5775,
-        "message_kind": "text",
-        "sources": [
-          "coffeenetmanager"
-        ],
-        "created_at": "2026-10-03T10:01:10.472472+00:00"
-      },
-      {
-        "fingerprint": "af5ac9bcf30ed4ae6f6b9b26f5b548c290f88690c1d032331d5361bfb9333da8",
-        "media_fingerprint": "0b9202a150be3c4d75b10713a6f8c627def501819fe32f6309fe586aee7f1715",
-        "text": "♦️\nتصویر رتبه برتر شیرازی کنکور سراسری سال ۱۴۰۵\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nتصویر رتبه برتر شیرازی کنکور سراسری سال ۱۴۰۵\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142936",
-        "post_id": 142936,
-        "message_id": 5776,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-03T10:01:14.035673+00:00"
-      },
-      {
-        "fingerprint": "3a9f3a3f983c39f3b17bd5091873d52e3327f605e4fc08587f1c8c5b0bb78ac8",
-        "media_fingerprint": "4b1c74efe83ffcbe1b897bf88755af8287c2ea72c54d238968a99d13950e2b0a",
-        "text": "♦️\nبارش باران امروز ‌۱۱مهر ۱۴۰۵ سیمکان/ جهرم\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nبارش باران امروز ‌۱۱مهر ۱۴۰۵ سیمکان/ جهرم\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142937",
-        "post_id": 142937,
-        "message_id": 5777,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-03T10:25:26.668018+00:00"
-      },
-      {
-        "fingerprint": "d5daa95e8c12d4307ffd581d6db14cbec23308f598854f4499f4668adb687346",
-        "media_fingerprint": "",
-        "text": "♦️\nمسیرهای پروازی بین‌المللی برقرار با ایران و شرایط ویزا، پروازها از لحاظ تعداد و مقصد محدودتر شده اند، در این لحظه هنوز پرواز میان ایران و‌ عراق برقرار نیست. پروازهای میان و امارات هم وضعیت نامشخصی دارد\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nمسیرهای پروازی بین‌المللی برقرار با ایران و شرایط ویزا، پروازها از لحاظ تعداد و مقصد محدودتر شده اند، در این لحظه هنوز پرواز میان ایران و‌ عراق برقرار نیست. پروازهای میان و امارات هم وضعیت نامشخصی دارد\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142938",
-        "post_id": 142938,
-        "message_id": 5778,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-03T10:25:29.821706+00:00"
-      },
-      {
-        "fingerprint": "d11766008c887a60fa4e80e9d532d0fcb0107c58350d4cffa63b49b48efaf19c",
-        "media_fingerprint": "d07e4cf6dcb355ba45aa81ef8b551ec0e8cca2060aa4bd63e7ec35b24ef64a62",
-        "text": "جوک های باباها وسط مهمونی\n😂\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "جوک های باباها وسط مهمونی\n😂\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/306723",
-        "post_id": 306723,
-        "message_id": 5779,
-        "message_kind": "caption",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-03T10:25:37.022915+00:00"
-      },
       {
         "fingerprint": "4478400c43877aafce96db26ebc6d3d6700ff78689b1f2a754c17e2bd27224db",
         "media_fingerprint": "aadfc3a1c581bb690bf12d9c3196c3baff909675bb3487cd4b60979cf60e3615",
@@ -27389,7 +27286,8 @@
         "message_id": 6535,
         "message_kind": "caption",
         "sources": [
-          "akhbarfars"
+          "akhbarfars",
+          "majalepezeshki"
         ],
         "created_at": "2026-10-05T18:09:45.712120+00:00"
       },
@@ -31810,6 +31708,126 @@
           "shakhmovie"
         ],
         "created_at": "2026-10-06T18:23:00.821678+00:00"
+      },
+      {
+        "fingerprint": "552937bf1d806d4d1cd2833b49e734e29431274d4a2433c748ec4b978c61bf0c",
+        "media_fingerprint": "329284020e61f44ad187461c0d342b9ec0bfa2f9f62349573656bd996aa9f4c5",
+        "text": "بیماری طاعون به درمان آنتی‌بیوتیکی پاسخ می‌دهد و با بیماری‌های نوپدید تفاوت دارد\n◽️\nاحسان مصطفوی رئیس انستیتو پاستور ایران: برخی رسانه‌ها علت بیماری را شکستن لوله آزمایش حاوی عامل طاعون در محل کار و قرار گرفتن حدود ۲۰۰ نفر در معرض تماس با وی در روسیه عنوان…",
+        "original_username": "majalepezeshki",
+        "original_text": "بیماری طاعون به درمان آنتی‌بیوتیکی پاسخ می‌دهد و با بیماری‌های نوپدید تفاوت دارد\n◽️\nاحسان مصطفوی رئیس انستیتو پاستور ایران: برخی رسانه‌ها علت بیماری را شکستن لوله آزمایش حاوی عامل طاعون در محل کار و قرار گرفتن حدود ۲۰۰ نفر در معرض تماس با وی در روسیه عنوان…",
+        "original_link": "https://t.me/MajalePezeshki/38641",
+        "post_id": 38641,
+        "message_id": 6840,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-06T18:52:14.729642+00:00"
+      },
+      {
+        "fingerprint": "82472a44ae28eabb38ade0099298a03685d8fc4e8a3bad68df09104cad69ef32",
+        "media_fingerprint": "",
+        "text": "♦️\nسقوط مردی از ارتفاع در کوه‌های بیرم لارستان\nرئیس جمعیت هلال‌احمر شهرستان لامرد:\n🔹️\nگزارشی مبنی‌بر سقوط مردی ۵۵ ساله از ارتفاع در منطقه بیرم لارستان، به هلال‌احمر اعلام شد.\n🔹️\nبلافاصله یک تیم عملیاتی از نجاتگران هلال‌احمر لامرد با یک دستگاه خودرو به محل حادثه اعزام شدند و پس از پیمایش مسیر کوهستانی، به فرد دسترسی پیدا کردند.\n🔹️\nنجاتگران پس از انجام اقدامات اولیه، با استفاده از بسکت، وی را منتقل و سپس به عوامل اورژانس تحویل دادند.\n🔹️\nاین عملیات پس از چهار ساعت به پایان رسید.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nسقوط مردی از ارتفاع در کوه‌های بیرم لارستان\nرئیس جمعیت هلال‌احمر شهرستان لامرد:\n🔹️\nگزارشی مبنی‌بر سقوط مردی ۵۵ ساله از ارتفاع در منطقه بیرم لارستان، به هلال‌احمر اعلام شد.\n🔹️\nبلافاصله یک تیم عملیاتی از نجاتگران هلال‌احمر لامرد با یک دستگاه خودرو به محل حادثه اعزام شدند و پس از پیمایش مسیر کوهستانی، به فرد دسترسی پیدا کردند.\n🔹️\nنجاتگران پس از انجام اقدامات اولیه، با استفاده از بسکت، وی را منتقل و سپس به عوامل اورژانس تحویل دادند.\n🔹️\nاین عملیات پس از چهار ساعت به پایان رسید.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143193",
+        "post_id": 143193,
+        "message_id": 6841,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-06T18:52:18.223912+00:00"
+      },
+      {
+        "fingerprint": "67c3f06dad2d17ecbd30553bf2a33658d1f03c89527d1970907105d1f9e5f97c",
+        "media_fingerprint": "",
+        "text": "🚨\n‼️\n🔵\n🔴\nعلی فتح‌الله‌زاده: وقتی از مدیریت استقلال که بیرون آمدم برای مدیریت پرسپولیس هم پیشنهاد داشتم!\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🚨\n‼️\n🔵\n🔴\nعلی فتح‌الله‌زاده: وقتی از مدیریت استقلال که بیرون آمدم برای مدیریت پرسپولیس هم پیشنهاد داشتم!\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/234818",
+        "post_id": 234818,
+        "message_id": 6842,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-06T18:52:21.323807+00:00"
+      },
+      {
+        "fingerprint": "6770ccb8f89095a67b41e45fba1a7e04b0655586469f30dcd2956da488df137c",
+        "media_fingerprint": "2254d2743ea37e46741a66e93a5fdabc606fa4337a8b1751a4bb9ea6faccace3",
+        "text": "جاده نهبندان به شهداد به طول ۳۰۰ کیلومتر و مستقیم در دل کویر لوت استان خراسان جنوبی را به کرمان متصل می کند!\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "جاده نهبندان به شهداد به طول ۳۰۰ کیلومتر و مستقیم در دل کویر لوت استان خراسان جنوبی را به کرمان متصل می کند!\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52729",
+        "post_id": 52729,
+        "message_id": 6843,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-06T18:52:27.416890+00:00"
+      },
+      {
+        "fingerprint": "521e3843859f12734018d2a9ba06324494af95b78ca482f2cb1c87203e17d065",
+        "media_fingerprint": "b421d527d0ee6954c6aea781c9280e8565115e58abdc0660a41936cad9e51cb6",
+        "text": "تو خوابگاه دخترونه چیا که نمیگذره…\n😐\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "تو خوابگاه دخترونه چیا که نمیگذره…\n😐\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/2920",
+        "post_id": 2920,
+        "message_id": 6844,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-06T18:52:33.057200+00:00"
+      },
+      {
+        "fingerprint": "8c5dd315732dad77aedd70d78084d9d43344e2a8625bf3c7ca5df97ee131a2bd",
+        "media_fingerprint": "bcb2b5900a11ea99bc097e9b1f3d0db3b4ed49f928dfc3867c90a316ec128d21",
+        "text": "نو کپشن\n😭\n@RoidBest",
+        "original_username": "roidbest",
+        "original_text": "نو کپشن\n😭\n@RoidBest",
+        "original_link": "https://t.me/RoidBest/21796",
+        "post_id": 21796,
+        "message_id": 6845,
+        "message_kind": "caption",
+        "sources": [
+          "roidbest"
+        ],
+        "created_at": "2026-10-06T18:52:36.661623+00:00"
+      },
+      {
+        "fingerprint": "ee70937991fb6638d5d81bf75d9b52ba46368a417fa97f30efbb7b143aa9fbcb",
+        "media_fingerprint": "944b35ba937aa7370fc276768b097bfc8959575dab70442bfbfd49518e28ef08",
+        "text": "اون ماسک‌های منقاری پزشکای طاعون رو دیدین؟ درازیش اصلاً واسه قشنگی یا ترسوندن نبوده!\nاون زمان فکر می‌کردن طاعون از بوی بد و «هوای فاسد» منتقل میشه. واسه همین توی اون منقار ۱۵-۲۰ سانتی‌متری رو پر از گل رز، اسطوخودوس، نعناع، دارچین و پارچه سرکه‌ای می‌کردن تا بوی تعفن رو بگیره و مثل یه فیلتر هوا عمل کنه.\nاز طرفی خودِ طولِ منقار باعث می‌شد صورت و نفس پزشک از هوای اطراف بیمار فاصله بگیره و یه جورایی فاصله‌گذاری اجتماعی رو هم رعایت کرده باشه!\nخلاصه که رسماً اولین نسل ماسک‌های فیلتردار دنیا بودن، منتها با تم قرون وسطایی!\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "اون ماسک‌های منقاری پزشکای طاعون رو دیدین؟ درازیش اصلاً واسه قشنگی یا ترسوندن نبوده!\nاون زمان فکر می‌کردن طاعون از بوی بد و «هوای فاسد» منتقل میشه. واسه همین توی اون منقار ۱۵-۲۰ سانتی‌متری رو پر از گل رز، اسطوخودوس، نعناع، دارچین و پارچه سرکه‌ای می‌کردن تا بوی تعفن رو بگیره و مثل یه فیلتر هوا عمل کنه.\nاز طرفی خودِ طولِ منقار باعث می‌شد صورت و نفس پزشک از هوای اطراف بیمار فاصله بگیره و یه جورایی فاصله‌گذاری اجتماعی رو هم رعایت کرده باشه!\nخلاصه که رسماً اولین نسل ماسک‌های فیلتردار دنیا بودن، منتها با تم قرون وسطایی!\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52730",
+        "post_id": 52730,
+        "message_id": 6846,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-06T18:52:41.384449+00:00"
+      },
+      {
+        "fingerprint": "f813856e6017631449e7f6493e21ef78ceb640c8c7057603dd0108121f7fe1cc",
+        "media_fingerprint": "73828ef20e703fffee57c4a4ed5a3659bdf8177dc4ed3353a3479892686620e4",
+        "text": "🔴\nسیل عظیمی از هواداران مسی برای خداحافظی او در آستانه آخرین بازی‌اش برای تیم ملی آرژانتین :\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "🔴\nسیل عظیمی از هواداران مسی برای خداحافظی او در آستانه آخرین بازی‌اش برای تیم ملی آرژانتین :\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52731",
+        "post_id": 52731,
+        "message_id": 6847,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-06T18:52:46.685527+00:00"
       }
     ]
   }
