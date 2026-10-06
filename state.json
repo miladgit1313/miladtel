@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143205,
+      "last_id": 143208,
       "processed_ids": [
-        142109,
-        142110,
         142111,
         142112,
         142113,
@@ -1002,12 +1000,14 @@
         143202,
         143203,
         143204,
-        143205
+        143205,
+        143207,
+        143208
       ],
       "sent_count": 717
     },
     "total_fut": {
-      "last_id": 237340,
+      "last_id": 237342,
       "processed_ids": [
         236405,
         236407,
@@ -1898,14 +1898,15 @@
         237337,
         237338,
         237339,
-        237340
+        237340,
+        237341,
+        237342
       ],
       "sent_count": 71
     },
     "footballvision2": {
-      "last_id": 170505,
+      "last_id": 170506,
       "processed_ids": [
-        169427,
         169428,
         169429,
         169430,
@@ -2904,7 +2905,8 @@
         170502,
         170503,
         170504,
-        170505
+        170505,
+        170506
       ],
       "sent_count": 72
     },
@@ -3128,7 +3130,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67430,
+      "last_id": 67433,
       "processed_ids": [
         66561,
         66565,
@@ -3809,12 +3811,15 @@
         67427,
         67428,
         67429,
-        67430
+        67430,
+        67431,
+        67432,
+        67433
       ],
-      "sent_count": 396
+      "sent_count": 398
     },
     "techtube": {
-      "last_id": 18450,
+      "last_id": 18451,
       "processed_ids": [
         18261,
         18262,
@@ -3939,7 +3944,8 @@
         18447,
         18448,
         18449,
-        18450
+        18450,
+        18451
       ],
       "sent_count": 46
     },
@@ -5898,7 +5904,7 @@
       "sent_count": 130
     },
     "gizmiztel": {
-      "last_id": 162873,
+      "last_id": 162879,
       "processed_ids": [
         161872,
         161875,
@@ -6804,9 +6810,15 @@
         162870,
         162871,
         162872,
-        162873
+        162873,
+        162874,
+        162875,
+        162876,
+        162877,
+        162878,
+        162879
       ],
-      "sent_count": 593
+      "sent_count": 598
     },
     "dr_salamatx": {
       "last_id": 55361,
@@ -8137,14 +8149,8 @@
       "sent_count": 47
     },
     "ft360_ir": {
-      "last_id": 109158,
+      "last_id": 109165,
       "processed_ids": [
-        108081,
-        108082,
-        108083,
-        108084,
-        108085,
-        108086,
         108087,
         108088,
         108090,
@@ -9138,15 +9144,19 @@
         109155,
         109156,
         109157,
-        109158
+        109158,
+        109159,
+        109160,
+        109161,
+        109162,
+        109164,
+        109165
       ],
       "sent_count": 65
     },
     "varzesh3": {
-      "last_id": 303483,
+      "last_id": 303485,
       "processed_ids": [
-        302378,
-        302379,
         302380,
         302381,
         302384,
@@ -10144,12 +10154,14 @@
         303480,
         303481,
         303482,
-        303483
+        303483,
+        303484,
+        303485
       ],
       "sent_count": 49
     },
     "totalfut_plus": {
-      "last_id": 26503,
+      "last_id": 26504,
       "processed_ids": [
         25870,
         25871,
@@ -10765,12 +10777,13 @@
         26500,
         26501,
         26502,
-        26503
+        26503,
+        26504
       ],
       "sent_count": 34
     },
     "adak_ir_official": {
-      "last_id": 234825,
+      "last_id": 234828,
       "processed_ids": [
         233831,
         233833,
@@ -11746,14 +11759,16 @@
         234822,
         234823,
         234824,
-        234825
+        234825,
+        234826,
+        234827,
+        234828
       ],
-      "sent_count": 127
+      "sent_count": 128
     },
     "futball180tv": {
-      "last_id": 107955,
+      "last_id": 107956,
       "processed_ids": [
-        106940,
         106941,
         106942,
         106943,
@@ -12752,7 +12767,8 @@
         107952,
         107953,
         107954,
-        107955
+        107955,
+        107956
       ],
       "sent_count": 46
     },
@@ -13627,7 +13643,7 @@
       "sent_count": 61
     },
     "mazdak_hattrick": {
-      "last_id": 182390,
+      "last_id": 182392,
       "processed_ids": [
         181991,
         181992,
@@ -14022,7 +14038,9 @@
         182387,
         182388,
         182389,
-        182390
+        182390,
+        182391,
+        182392
       ],
       "sent_count": 31
     },
@@ -14141,7 +14159,7 @@
       "sent_count": 5
     },
     "irwonders": {
-      "last_id": 58399,
+      "last_id": 58400,
       "processed_ids": [
         58030,
         58031,
@@ -14466,9 +14484,10 @@
         58396,
         58397,
         58398,
-        58399
+        58399,
+        58400
       ],
-      "sent_count": 208
+      "sent_count": 209
     },
     "razcom": {
       "last_id": 70483,
@@ -16672,7 +16691,7 @@
       "sent_count": 32
     },
     "peach_tweet": {
-      "last_id": 2921,
+      "last_id": 2924,
       "processed_ids": [
         2745,
         2749,
@@ -16776,179 +16795,16 @@
         2918,
         2919,
         2920,
-        2921
+        2921,
+        2922,
+        2923,
+        2924
       ],
-      "sent_count": 65
+      "sent_count": 67
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "b4cd49f79d4adc963947f1dacc0340ec264d777b5883aa5d5e50964fde761880",
-        "media_fingerprint": "96917ed150306b20fa9958867d323f231033b25bc2d616b9fe7886532b78027b",
-        "text": "این گزارش تکواندو در شبکه ورزش به دلایل نامعلومی وایرال شده!\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "این گزارش تکواندو در شبکه ورزش به دلایل نامعلومی وایرال شده!\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162699",
-        "post_id": 162699,
-        "message_id": 5794,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-03T11:02:30.343518+00:00"
-      },
-      {
-        "fingerprint": "43f76fedb34dac668d79f7c139606849bc1e8bae781a260e534432f7cefc86a0",
-        "media_fingerprint": "e6a8fb25508c7737aabd03727ecc14f634091cf102adfcd8573b9da20db68198",
-        "text": "چصی جدید از راه رسید\nفقط مراقب باش دزدها دستت رو تو خیابون با ساطور قطع نکنن\n😔\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "چصی جدید از راه رسید\nفقط مراقب باش دزدها دستت رو تو خیابون با ساطور قطع نکنن\n😔\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162700",
-        "post_id": 162700,
-        "message_id": 5795,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-03T11:02:36.248536+00:00"
-      },
-      {
-        "fingerprint": "72887c01e81cb4c03ffc9bc194108fbabcd9035e6e723b028818274005c3bdf9",
-        "media_fingerprint": "a6368228fe758dc51b406c2c99bddb7b7962575fe49c709ff53084efcb38770d",
-        "text": "🎬\nقسمت ششم\n«روشن»\nمنتشر شد.\n🎬\nr.filimo.com/Troshan6\n#روشن\n@BajeFilm",
-        "original_username": "bajefilm",
-        "original_text": "🎬\nقسمت ششم\n«روشن»\nمنتشر شد.\n🎬\nr.filimo.com/Troshan6\n#روشن\n@BajeFilm",
-        "original_link": "https://t.me/bajefilm/11583",
-        "post_id": 11583,
-        "message_id": 5796,
-        "message_kind": "caption",
-        "sources": [
-          "bajefilm"
-        ],
-        "created_at": "2026-10-03T11:02:40.233870+00:00"
-      },
-      {
-        "fingerprint": "010f8858904a554195b199a2ddd238aabc98e788079d1c7d448391c279a447c5",
-        "media_fingerprint": "",
-        "text": "♦️\nحکیم: خواستار بازگشایی تمام فرودگاه‌ها برای پروازهای ایران و عراق هستیم\n🔹\nسید عمار حکیم از ازسرگیری پروازهای ایران در فرودگاه نجف استقبال کرد و خواستار بازگشایی تمامی فرودگاه‌های عراق به روی پروازهای دو کشور شد. وی این اقدام را در تسهیل سفر زائران، بیماران و مسافران و تقویت روابط دو ملت مؤثر دانست.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nحکیم: خواستار بازگشایی تمام فرودگاه‌ها برای پروازهای ایران و عراق هستیم\n🔹\nسید عمار حکیم از ازسرگیری پروازهای ایران در فرودگاه نجف استقبال کرد و خواستار بازگشایی تمامی فرودگاه‌های عراق به روی پروازهای دو کشور شد. وی این اقدام را در تسهیل سفر زائران، بیماران و مسافران و تقویت روابط دو ملت مؤثر دانست.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142942",
-        "post_id": 142942,
-        "message_id": 5797,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-03T11:02:43.304713+00:00"
-      },
-      {
-        "fingerprint": "d44ddc94adef1599052383857e9432d392f8dbcfdc7acd5438853b8c41ba8700",
-        "media_fingerprint": "48a23f6a588900b8019aef982b4ed051311e6f8f21f70509a13bc2497b841c00",
-        "text": "🎙\nبیانیه بارسلونا در واکنش به بیانیه یوفا\n💬\n«یوفا هیچ تحقیق جدیدی را در پرونده نگریرا آغاز یا تحقیقات قبلی را مجدداً فعال نکرده است.»\n💬\n«تحقیقاتی که در سال ۲۰۲۳ آغاز شد، هرگز بسته نشده و همچنان ادامه دارد.»\n💬\n«یوفا صرفاً اسناد جدیدی را که از سوی رئال مادرید…",
-        "original_username": "ft360_ir",
-        "original_text": "🎙\nبیانیه بارسلونا در واکنش به بیانیه یوفا\n💬\n«یوفا هیچ تحقیق جدیدی را در پرونده نگریرا آغاز یا تحقیقات قبلی را مجدداً فعال نکرده است.»\n💬\n«تحقیقاتی که در سال ۲۰۲۳ آغاز شد، هرگز بسته نشده و همچنان ادامه دارد.»\n💬\n«یوفا صرفاً اسناد جدیدی را که از سوی رئال مادرید…",
-        "original_link": "https://t.me/ft360_ir/108895",
-        "post_id": 108895,
-        "message_id": 5798,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-03T11:02:54.730916+00:00"
-      },
-      {
-        "fingerprint": "1a8e62437b3bb2ce77b42b520b5c73d7bb125758a65dbefbf3f198a5d2064f66",
-        "media_fingerprint": "59fa18d3443096fe63ee336f6a85f3f94f330a3ed9b5a56efa70eb03ece9ed6e",
-        "text": "شنیده بودیم قدیم میگفتن گنجشک رو رنگ میکنند جای قناری میفروشن الان این بنده خداسنگ رورنگ میکنه جای زغال میفروشه حروم خواری خیلی طبیعی شده است.\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "شنیده بودیم قدیم میگفتن گنجشک رو رنگ میکنند جای قناری میفروشن الان این بنده خداسنگ رورنگ میکنه جای زغال میفروشه حروم خواری خیلی طبیعی شده است.\n@irWonders",
-        "original_link": "https://t.me/irwonders/58262",
-        "post_id": 58262,
-        "message_id": 5799,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-03T14:34:17.933074+00:00"
-      },
-      {
-        "fingerprint": "9bae30b5c91cd347772bdade9aa4c0baeb5a84d4b66ae8a314e2afc2e7724e75",
-        "media_fingerprint": "",
-        "text": "داداش دیگه ادامه نده، همینو میخواستی که یه ادمین دختر بهت بگه داداشی؟",
-        "original_username": "drtel",
-        "original_text": "داداش دیگه ادامه نده، همینو میخواستی که یه ادمین دختر بهت بگه داداشی؟",
-        "original_link": "https://t.me/drtel/67274",
-        "post_id": 67274,
-        "message_id": 5800,
-        "message_kind": "text",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-03T14:34:21.506997+00:00"
-      },
-      {
-        "fingerprint": "fdff38510c2b78bf16451b2029c7971c3142eef25e8cb33dbf5a6e2626d5c840",
-        "media_fingerprint": "c3b93d2f37674afb125c0b45084a03971c73bfddcdd17f203b8fe3c2010bac1f",
-        "text": "🔻\nضروری ترین ترفندهای شیائومی\n🔸\nاین سه تا ترفند و شاید کمتر کسی راجبش بدونه ولی الان میتونید با فعال کردنش هم به خودتون و هم به قابلیت های گوشیتون اضافه کنید\n🤌🏻\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "🔻\nضروری ترین ترفندهای شیائومی\n🔸\nاین سه تا ترفند و شاید کمتر کسی راجبش بدونه ولی الان میتونید با فعال کردنش هم به خودتون و هم به قابلیت های گوشیتون اضافه کنید\n🤌🏻\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159478",
-        "post_id": 159478,
-        "message_id": 5801,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann",
-          "irwonders"
-        ],
-        "created_at": "2026-10-03T14:34:30.646815+00:00"
-      },
-      {
-        "fingerprint": "5d0a6d2bc6924a561457a96573162c1e79c96514569c1aeb348424d1f671d854",
-        "media_fingerprint": "eb485c14d1e7c05c9cd2fdbfca624058183ca8794e5d1479f09876ad8c5013d8",
-        "text": "من این گوهو دیدم شما هم باید ببینید:\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "من این گوهو دیدم شما هم باید ببینید:\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/2822",
-        "post_id": 2822,
-        "message_id": 5802,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-03T14:34:37.531169+00:00"
-      },
-      {
-        "fingerprint": "f9344e33b07ca95b7a23cd02da8f54d5b05f001ee95ae6667ad2a761e1ea0bf9",
-        "media_fingerprint": "38c613cf1775cf76e448c1b409b73d6840a63a67001104b090b330576e1fbcd5",
-        "text": "🔴\nسازمان بهداشت جهانی : اکثر بیماران دیسک کمر بدون جراحی درمان میشود\n🔺\nتزریق گاز\nاوزون\nبدون هیچ عارضه به همراه\nلیرز\nاکسیژن رسانی به بافت را افزایش داده و باعث ترمیم آن میشود\n❌\nبدون بیهوشی و عمل جراحی\n📞\n09127370271\n☎️\n02126701272\n🆔\n@DrseyedamirMJ\n👈🏻\nآیدی مشاوره\n✅\nبه کانال سینوهه در تلگرام بپیوندید\n👇\n👇\nhttps://t.me/joinchat/AAAAAD93H-IdLmhm9MlqeQ\nآدرس وبسایت\nWww.dr-jamaly.com",
-        "original_username": "dr_salamatx",
-        "original_text": "🔴\nسازمان بهداشت جهانی : اکثر بیماران دیسک کمر بدون جراحی درمان میشود\n🔺\nتزریق گاز\nاوزون\nبدون هیچ عارضه به همراه\nلیرز\nاکسیژن رسانی به بافت را افزایش داده و باعث ترمیم آن میشود\n❌\nبدون بیهوشی و عمل جراحی\n📞\n09127370271\n☎️\n02126701272\n🆔\n@DrseyedamirMJ\n👈🏻\nآیدی مشاوره\n✅\nبه کانال سینوهه در تلگرام بپیوندید\n👇\n👇\nhttps://t.me/joinchat/AAAAAD93H-IdLmhm9MlqeQ\nآدرس وبسایت\nWww.dr-jamaly.com",
-        "original_link": "https://t.me/Dr_SalamatX/55342",
-        "post_id": 55342,
-        "message_id": 5803,
-        "message_kind": "caption",
-        "sources": [
-          "dr_salamatx"
-        ],
-        "created_at": "2026-10-03T14:34:42.191474+00:00"
-      },
-      {
-        "fingerprint": "92deb7ef55de32973da7f54eb218e2bb2da9fd3f5cc6a0f2941bad72ac04ed2d",
-        "media_fingerprint": "be07be244851f583ca9daf977fdeb92a62e8633e18ffc12e1684268bce35590e",
-        "text": "سیکو  ساعتِ متفاوتی ساخته که اگر دستی بر موزیک داشته باشید به گمانم برایتان جالب باشد.\nسیکو SMW006 چند قابلیت سودمند در زمینه موسیقی دارد، از جمله مکانیزم مترونوم. آن هم تنها با قیمتی حدود ۲۰۰ دلار و طرحی زیبا و مینیمال.\n🌐\n@ScienticNews",
-        "original_username": "scienticnews",
-        "original_text": "سیکو  ساعتِ متفاوتی ساخته که اگر دستی بر موزیک داشته باشید به گمانم برایتان جالب باشد.\nسیکو SMW006 چند قابلیت سودمند در زمینه موسیقی دارد، از جمله مکانیزم مترونوم. آن هم تنها با قیمتی حدود ۲۰۰ دلار و طرحی زیبا و مینیمال.\n🌐\n@ScienticNews",
-        "original_link": "https://t.me/ScienticNews/22543",
-        "post_id": 22543,
-        "message_id": 5804,
-        "message_kind": "caption",
-        "sources": [
-          "scienticnews"
-        ],
-        "created_at": "2026-10-03T14:34:49.928340+00:00"
-      },
       {
         "fingerprint": "7db28f8d0594d967f483c218cbaa02c35bd3dadfd5433a3e8383b52bf12775db",
         "media_fingerprint": "cb33cd109f232f655c44f26ad11a52fefb81d509eca6056eacb3202e9730b3d3",
@@ -28448,7 +28304,8 @@
         "message_id": 6624,
         "message_kind": "text",
         "sources": [
-          "akhbar_cafenet"
+          "akhbar_cafenet",
+          "akhbarfars"
         ],
         "created_at": "2026-10-06T06:50:26.817533+00:00"
       },
@@ -31870,6 +31727,171 @@
           "irwonders"
         ],
         "created_at": "2026-10-06T19:47:21.998381+00:00"
+      },
+      {
+        "fingerprint": "002ba6081460c9956e985960c4e2e3b8202c0b4d950e2727cd1673a10ced6dab",
+        "media_fingerprint": "df5b053be7ff096b6c0dfc18faaae1a70bc151c87424cbcfe68231da562aeaed",
+        "text": "🔴\nناصر نوسان :   مگه بسنت نگفته بود که تا 2 هفته دیگه، اقتصادِ ایران دچار فروپاشی میشه؟  خب الان 10 روز گذشته و اتفاقی نیفتاده.  @DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nناصر نوسان :   مگه بسنت نگفته بود که تا 2 هفته دیگه، اقتصادِ ایران دچار فروپاشی میشه؟  خب الان 10 روز گذشته و اتفاقی نیفتاده.  @DrTeL",
+        "original_link": "https://t.me/drtel/67431",
+        "post_id": 67431,
+        "message_id": 6862,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-06T20:20:26.855866+00:00"
+      },
+      {
+        "fingerprint": "e800f5ed517ad0661804c989420a25a63da9810d3b41e4450e08e3e4ad3ef1b0",
+        "media_fingerprint": "",
+        "text": "عجایب بازار آهن شاداباد _جنوب تهران\n!\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "عجایب بازار آهن شاداباد _جنوب تهران\n!\n@irWonders",
+        "original_link": "https://t.me/irwonders/58400",
+        "post_id": 58400,
+        "message_id": 6863,
+        "message_kind": "text",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-06T20:20:29.623809+00:00"
+      },
+      {
+        "fingerprint": "e87fc78bff9341a1899e20efedcd83d74f6fab19a30040641dd09975c57e612a",
+        "media_fingerprint": "58ac3673b7de4867de970f6276a0eddcc659686dc3a48e7272e2bc6a6e0eff91",
+        "text": "یه استرسم به استرس هامون اضافه شد\n😢\n⚠️\nاینو خانواده ها حتما ببینن\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "یه استرسم به استرس هامون اضافه شد\n😢\n⚠️\nاینو خانواده ها حتما ببینن\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162875",
+        "post_id": 162875,
+        "message_id": 6864,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-06T20:20:37.726022+00:00"
+      },
+      {
+        "fingerprint": "7977cc7c261d1bec1394781e0031a30941e21dfa5457c5bcfd02b4bb9d268a0c",
+        "media_fingerprint": "ea164a1705a4840c5da1853b5f80f1e7ed2a83b588f13a5ef46e375f0eedd561",
+        "text": "کارخانه متوهم سازی اینستاگرام با مغز مردم ما چه می کند؟\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "کارخانه متوهم سازی اینستاگرام با مغز مردم ما چه می کند؟\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162876",
+        "post_id": 162876,
+        "message_id": 6865,
+        "message_kind": "text",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-06T20:20:42.267631+00:00"
+      },
+      {
+        "fingerprint": "90951cd1343f71cc6e1ddb47e6ff3b010f36420a11c5452ff99f8d5a3cae22d0",
+        "media_fingerprint": "8e652c18582266e45959d8b6ab43272f559f543d9f1d8a30fc54820ea3b54f51",
+        "text": "تعقیب و گریز پلیس تو تهران\nتا ۱۰ دقیقه قبلش عقاب بود\nیهو مریض شد\n😂\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "تعقیب و گریز پلیس تو تهران\nتا ۱۰ دقیقه قبلش عقاب بود\nیهو مریض شد\n😂\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162877",
+        "post_id": 162877,
+        "message_id": 6866,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-06T20:20:49.957608+00:00"
+      },
+      {
+        "fingerprint": "4027b98ba1fb1f749a132c77af75bde0785530481de7880419672cb3f9eb6130",
+        "media_fingerprint": "43a4c1c0c1190627a77b76da2b305e26cd9092c99dde1c09ab490068762a81d0",
+        "text": "دست رد به سینه هیشکی نمیزنن\n😄\nانگار هر کیم آروم بدوئه بهش نمیرسه\n😂\nهمدیگرو میگیرن\n😂\nدُخـــ\n🏃‍♂️\n🏃‍♂️\n🏃‍♂️\nذات مردا\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "دست رد به سینه هیشکی نمیزنن\n😄\nانگار هر کیم آروم بدوئه بهش نمیرسه\n😂\nهمدیگرو میگیرن\n😂\nدُخـــ\n🏃‍♂️\n🏃‍♂️\n🏃‍♂️\nذات مردا\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162878",
+        "post_id": 162878,
+        "message_id": 6867,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-06T20:20:58.266173+00:00"
+      },
+      {
+        "fingerprint": "03c1ba201151deb4f1fd58d6ef2f0b34afa3ff1a88620778c4290ae37346fc81",
+        "media_fingerprint": "",
+        "text": "🚨\n🔴\nمصدومیت پوریا پورعلی کامل برطرف شده و او مشکلی برای بازی پرسپولیس برابر نفت آبادان ندارد.\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🚨\n🔴\nمصدومیت پوریا پورعلی کامل برطرف شده و او مشکلی برای بازی پرسپولیس برابر نفت آبادان ندارد.\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/234827",
+        "post_id": 234827,
+        "message_id": 6868,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-06T20:21:01.275526+00:00"
+      },
+      {
+        "fingerprint": "663f1be2cba4a898e63e147dd85c467163ba7b1fd6eacf3b42cf8f6e9e29e806",
+        "media_fingerprint": "cd4af10544fcf4c83694b52bf847f4e106a5b142628f2ae08a749cdc82c3d64d",
+        "text": "بالاخرررررررره یه کانال پیدا کردم تبانی صدرصد میذاره دیشب 2 میلیون شد 120 میلیون\n✔️\nاز فرم بعدیش جا نمونی جوین بده\n➡️\n❗️\n❗️\n❗️\n❗️\n❗️\n❗️\n❗️\n❗️\nیک میلیون رو فرم آخرش بزن\n🖤\n⬇️\nhttps://t.me/+DlfMQrD2PjI5NDI0",
+        "original_username": "peach_tweet",
+        "original_text": "بالاخرررررررره یه کانال پیدا کردم تبانی صدرصد میذاره دیشب 2 میلیون شد 120 میلیون\n✔️\nاز فرم بعدیش جا نمونی جوین بده\n➡️\n❗️\n❗️\n❗️\n❗️\n❗️\n❗️\n❗️\n❗️\nیک میلیون رو فرم آخرش بزن\n🖤\n⬇️\nhttps://t.me/+DlfMQrD2PjI5NDI0",
+        "original_link": "https://t.me/peach_tweet/2922",
+        "post_id": 2922,
+        "message_id": 6869,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-06T20:21:06.156504+00:00"
+      },
+      {
+        "fingerprint": "d6d2d70790881531b6ff8730afdf5e30df85aa11594d69b34bb4cf7228a7202c",
+        "media_fingerprint": "4b66a1944346d4d108391146d796ada2c6e3ac529627624e04a2e546f8da9e68",
+        "text": "اگه فکر میکنید مدارس پسرونه عجیب ترین جای دنیاست کافیه این ویدیو از ی دبیرستان دخترونه رو ببینید تا ثانیه ثانیش پشماتونو بریزه :\nهندزفری لازم\n🔞\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "اگه فکر میکنید مدارس پسرونه عجیب ترین جای دنیاست کافیه این ویدیو از ی دبیرستان دخترونه رو ببینید تا ثانیه ثانیش پشماتونو بریزه :\nهندزفری لازم\n🔞\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/2924",
+        "post_id": 2924,
+        "message_id": 6870,
+        "message_kind": "text",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-06T20:21:10.317035+00:00"
+      },
+      {
+        "fingerprint": "a1d48d14218e54b00ff68f542440629ea08ab8b84edaae7d41ee6cd90cb761a3",
+        "media_fingerprint": "8043def7cd4213fb22dd6619110d7d82e5b072987773850267c2970bfa7c6911",
+        "text": "خواهر تتلو خبر از عفو برادرش داد\nشرط دادگاه پاک کردن کل تتوهای بدنش است\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "خواهر تتلو خبر از عفو برادرش داد\nشرط دادگاه پاک کردن کل تتوهای بدنش است\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162879",
+        "post_id": 162879,
+        "message_id": 6871,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-06T20:21:17.401225+00:00"
+      },
+      {
+        "fingerprint": "56cf440da8305239d55054982f9333a22391633958e9c7dd57c5f1fb6f39a8cb",
+        "media_fingerprint": "a9922ea986f3c3661e9a0e9948c59c921588f09c24c5e3ee740d01ac463721d5",
+        "text": "👨‍⚕\nرسمی :\n4 سال از روزِ تاسیسِ دکترتل گذشت.\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "👨‍⚕\nرسمی :\n4 سال از روزِ تاسیسِ دکترتل گذشت.\n@DrTeL",
+        "original_link": "https://t.me/drtel/67432",
+        "post_id": 67432,
+        "message_id": 6872,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-06T20:21:21.952743+00:00"
       }
     ]
   }
