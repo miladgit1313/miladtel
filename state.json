@@ -1,11 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143158,
+      "last_id": 143161,
       "processed_ids": [
-        142070,
-        142072,
-        142073,
         142074,
         142075,
         142076,
@@ -1002,9 +999,12 @@
         143154,
         143155,
         143156,
-        143158
+        143158,
+        143159,
+        143160,
+        143161
       ],
-      "sent_count": 703
+      "sent_count": 705
     },
     "total_fut": {
       "last_id": 237313,
@@ -1879,10 +1879,8 @@
       "sent_count": 67
     },
     "footballvision2": {
-      "last_id": 170484,
+      "last_id": 170486,
       "processed_ids": [
-        169405,
-        169406,
         169407,
         169408,
         169409,
@@ -2880,7 +2878,9 @@
         170481,
         170482,
         170483,
-        170484
+        170484,
+        170485,
+        170486
       ],
       "sent_count": 72
     },
@@ -3100,7 +3100,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67419,
+      "last_id": 67420,
       "processed_ids": [
         66561,
         66565,
@@ -3770,9 +3770,10 @@
         67414,
         67415,
         67416,
-        67419
+        67419,
+        67420
       ],
-      "sent_count": 389
+      "sent_count": 390
     },
     "techtube": {
       "last_id": 18448,
@@ -4615,7 +4616,7 @@
       "sent_count": 107
     },
     "akhbar_cafenet": {
-      "last_id": 23041,
+      "last_id": 23042,
       "processed_ids": [
         22432,
         22433,
@@ -5197,9 +5198,10 @@
         23038,
         23039,
         23040,
-        23041
+        23041,
+        23042
       ],
-      "sent_count": 324
+      "sent_count": 325
     },
     "comentiat": {
       "last_id": 26347,
@@ -5830,7 +5832,7 @@
       "sent_count": 127
     },
     "gizmiztel": {
-      "last_id": 162853,
+      "last_id": 162859,
       "processed_ids": [
         161872,
         161875,
@@ -6716,9 +6718,15 @@
         162850,
         162851,
         162852,
-        162853
+        162853,
+        162854,
+        162855,
+        162856,
+        162857,
+        162858,
+        162859
       ],
-      "sent_count": 580
+      "sent_count": 584
     },
     "dr_salamatx": {
       "last_id": 55358,
@@ -9027,7 +9035,7 @@
       "sent_count": 63
     },
     "varzesh3": {
-      "last_id": 303459,
+      "last_id": 303461,
       "processed_ids": [
         302363,
         302364,
@@ -10017,7 +10025,8 @@
         303456,
         303457,
         303458,
-        303459
+        303459,
+        303461
       ],
       "sent_count": 48
     },
@@ -11590,9 +11599,8 @@
       "sent_count": 120
     },
     "futball180tv": {
-      "last_id": 107924,
+      "last_id": 107925,
       "processed_ids": [
-        106908,
         106909,
         106910,
         106911,
@@ -12591,12 +12599,13 @@
         107921,
         107922,
         107923,
-        107924
+        107924,
+        107925
       ],
-      "sent_count": 45
+      "sent_count": 46
     },
     "hattric_official": {
-      "last_id": 84327,
+      "last_id": 84328,
       "processed_ids": [
         83433,
         83434,
@@ -13439,12 +13448,13 @@
         84324,
         84325,
         84326,
-        84327
+        84327,
+        84328
       ],
       "sent_count": 59
     },
     "mazdak_hattrick": {
-      "last_id": 182379,
+      "last_id": 182380,
       "processed_ids": [
         181991,
         181992,
@@ -13828,7 +13838,8 @@
         182375,
         182376,
         182377,
-        182379
+        182379,
+        182380
       ],
       "sent_count": 30
     },
@@ -13926,7 +13937,7 @@
       "sent_count": 0
     },
     "khooroosjangi": {
-      "last_id": 85734,
+      "last_id": 85735,
       "processed_ids": [
         85726,
         85727,
@@ -13936,12 +13947,13 @@
         85731,
         85732,
         85733,
-        85734
+        85734,
+        85735
       ],
-      "sent_count": 3
+      "sent_count": 4
     },
     "irwonders": {
-      "last_id": 58382,
+      "last_id": 58383,
       "processed_ids": [
         58030,
         58031,
@@ -14251,9 +14263,10 @@
         58379,
         58380,
         58381,
-        58382
+        58382,
+        58383
       ],
-      "sent_count": 199
+      "sent_count": 200
     },
     "razcom": {
       "last_id": 70482,
@@ -16201,7 +16214,7 @@
       "sent_count": 36
     },
     "yejoorayi": {
-      "last_id": 496,
+      "last_id": 497,
       "processed_ids": [
         426,
         427,
@@ -16272,9 +16285,10 @@
         493,
         494,
         495,
-        496
+        496,
+        497
       ],
-      "sent_count": 64
+      "sent_count": 65
     },
     "onlinecofe_ir": {
       "last_id": 2887,
@@ -16431,7 +16445,7 @@
       "sent_count": 29
     },
     "peach_tweet": {
-      "last_id": 2915,
+      "last_id": 2916,
       "processed_ids": [
         2745,
         2749,
@@ -16529,208 +16543,14 @@
         2905,
         2909,
         2914,
-        2915
+        2915,
+        2916
       ],
-      "sent_count": 60
+      "sent_count": 61
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "f324427d0a95932d88644eafc2660a60c877a6cc9f92dff9d5ed9c3a913d79d9",
-        "media_fingerprint": "88f62a7c326b830ee53c433f1cf9122faa775b4feb6107fd50f525cf875904e7",
-        "text": "رئیس پلیس راهور کردستان از نوجوانانی که توسط یکی از مأموران مورد بی‌احترامی قرار گرفته بودند، دلجویی کرد.\nراننده خودرو نوجوانی بوده که فاقد گواهینامه رانندگی بوده و به دستور پلیس برای توقف توجهی نکرده است. در نهایت، نیروهای پلیس خودرو را تعقیب کرده و یکی از مأموران در اقدامی غیرقانونی و غیرحرفه‌ای، دو نوجوان سرنشین خودرو را با چک و لگد مورد ضرب و شتم قرار داده است.\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "رئیس پلیس راهور کردستان از نوجوانانی که توسط یکی از مأموران مورد بی‌احترامی قرار گرفته بودند، دلجویی کرد.\nراننده خودرو نوجوانی بوده که فاقد گواهینامه رانندگی بوده و به دستور پلیس برای توقف توجهی نکرده است. در نهایت، نیروهای پلیس خودرو را تعقیب کرده و یکی از مأموران در اقدامی غیرقانونی و غیرحرفه‌ای، دو نوجوان سرنشین خودرو را با چک و لگد مورد ضرب و شتم قرار داده است.\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162680",
-        "post_id": 162680,
-        "message_id": 5679,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-02T21:53:45.185797+00:00"
-      },
-      {
-        "fingerprint": "86d44932849e9e60d4c888a74e794a6a26acf376ace05bb446fb520098c32e2f",
-        "media_fingerprint": "2b19555d76d063d8f05aa04055db10386834883322962ef50cf49ec3f3d00b50",
-        "text": "🔻\nاموال غزل(ربکا) قادری، بلاگر در داخل کشور توقیف و به منظور جبران خسارت‌‌های حوادث سال گذشته مصادره شد\n🔹\nغزل قادری، صاحب برند ربکا قادری، ساکن کالیفرنیا است و در پلاک ۸۴ بازار دلگشای تهران، محصولات خود را با نام تجاری RG Perfume به فروش می‌رساند. علاوه بر غرفه های او، چند حساب بانکی و اموال دیگرش نیز توقیف شده است./ تابناک\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "🔻\nاموال غزل(ربکا) قادری، بلاگر در داخل کشور توقیف و به منظور جبران خسارت‌‌های حوادث سال گذشته مصادره شد\n🔹\nغزل قادری، صاحب برند ربکا قادری، ساکن کالیفرنیا است و در پلاک ۸۴ بازار دلگشای تهران، محصولات خود را با نام تجاری RG Perfume به فروش می‌رساند. علاوه بر غرفه های او، چند حساب بانکی و اموال دیگرش نیز توقیف شده است./ تابناک\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162682",
-        "post_id": 162682,
-        "message_id": 5680,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-02T21:53:51.997718+00:00"
-      },
-      {
-        "fingerprint": "d001e48a8ce0876c38b2fec612e15af985445f243026f27f0c05c3131917dc21",
-        "media_fingerprint": "6d37b5c705d7ddc92662f4c7737d346f0a25ac90d2db0c29cf4f7254e81b1aec",
-        "text": "شاید جالب باشه بدونید که؛\nبعضی از پژوهشگران معتقدن که جهان هستی ممکن یک سلول از یک‌‌ موجود بزرگتر باشه. چون شبکه کیهانی کهکشان ها خیلی شبیه به ساختار شبکه‌ای مغز هست.\nیعنی کل این جهان ممکنه یکی از سلول های مغز یک موجود دیگه باشه.\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "شاید جالب باشه بدونید که؛\nبعضی از پژوهشگران معتقدن که جهان هستی ممکن یک سلول از یک‌‌ موجود بزرگتر باشه. چون شبکه کیهانی کهکشان ها خیلی شبیه به ساختار شبکه‌ای مغز هست.\nیعنی کل این جهان ممکنه یکی از سلول های مغز یک موجود دیگه باشه.\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162683",
-        "post_id": 162683,
-        "message_id": 5681,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-02T21:53:58.621100+00:00"
-      },
-      {
-        "fingerprint": "83baf00ae10cdc9ae7b8eaf5edad45f7120d77a8c06292f8da3636a0ddd1ca28",
-        "media_fingerprint": "730e3ec0bfd6c172a6e8ae9795fd96220ea253e39bb22009d79467faff5c917d",
-        "text": "عجب یزیدی بود اون عابره\n😂\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "عجب یزیدی بود اون عابره\n😂\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162684",
-        "post_id": 162684,
-        "message_id": 5682,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-02T21:54:04.718056+00:00"
-      },
-      {
-        "fingerprint": "d25519deee00d425c85401f1c3b9dda3b2a4dcc20bb023f6886adef48b0abb47",
-        "media_fingerprint": "6a5294be5172015bb617a3c75d0c3507a0a254ae0dc0f28626df5505ac315f65",
-        "text": "اینجا هلند یا سوئیس نیست، تهران خودمونه...\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "اینجا هلند یا سوئیس نیست، تهران خودمونه...\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162685",
-        "post_id": 162685,
-        "message_id": 5683,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-02T21:54:10.999529+00:00"
-      },
-      {
-        "fingerprint": "560c1d835b239b6a403c4d321b5aafc1bf321d41da85dd03b1d9fffebaf14c7d",
-        "media_fingerprint": "5ceea1f3027739ddd13b0d6af5ab72d8ae2494549ba2414b5548a0df121e3a46",
-        "text": "خودتون برین تا تهش",
-        "original_username": "drtel",
-        "original_text": "خودتون برین تا تهش",
-        "original_link": "https://t.me/drtel/67253",
-        "post_id": 67253,
-        "message_id": 5684,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-02T21:54:17.093261+00:00"
-      },
-      {
-        "fingerprint": "78d83893d147ff6e6cae284fc9225872d85d12b3e354b751536e1c2007603542",
-        "media_fingerprint": "",
-        "text": "اوضاع اینترنت داره هی خراب تر میشه حتما اینجا رو @NetMeli داشته باشيد که قطع نشيد!",
-        "original_username": "peach_tweet",
-        "original_text": "اوضاع اینترنت داره هی خراب تر میشه حتما اینجا رو @NetMeli داشته باشيد که قطع نشيد!",
-        "original_link": "https://t.me/peach_tweet/2813",
-        "post_id": 2813,
-        "message_id": 5685,
-        "message_kind": "text",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-02T22:16:16.627683+00:00"
-      },
-      {
-        "fingerprint": "bd0f4b9ce3f06d257c27c01d335e531fa8298aa6215ed797dc48dd94449652dc",
-        "media_fingerprint": "debe47efc83e884e15e36b46b426ad9ffdf086f531d8021b87582b997efe2b63",
-        "text": "🔴\nفردا دقیقا روزیه که طبق پیش‌بینی دیوید کيز، مشاور سابق نتانیاهو (2 هفته و 3 روز و 6 ساعت و 14 دقیقه بعد انتشار این ویدئو) جمهوری اسلامی سقوط میکنه!\n❌\nاین ویدئو از دیوید کيز جدید نیست و مربوط به تقريبا یک سال پیشه که خب جمهوری اسلامی طبق اون تایم، سقوط نکرد.\nمشاور سابق نتانیاهو فقط به تازگی این پست قدیمی رو دوباره توییت کرده بود که یسری از چنل‌ها به اشتباه فکر کردن حرف‌های جدیدی زده.\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nفردا دقیقا روزیه که طبق پیش‌بینی دیوید کيز، مشاور سابق نتانیاهو (2 هفته و 3 روز و 6 ساعت و 14 دقیقه بعد انتشار این ویدئو) جمهوری اسلامی سقوط میکنه!\n❌\nاین ویدئو از دیوید کيز جدید نیست و مربوط به تقريبا یک سال پیشه که خب جمهوری اسلامی طبق اون تایم، سقوط نکرد.\nمشاور سابق نتانیاهو فقط به تازگی این پست قدیمی رو دوباره توییت کرده بود که یسری از چنل‌ها به اشتباه فکر کردن حرف‌های جدیدی زده.\n@DrTeL",
-        "original_link": "https://t.me/drtel/67256",
-        "post_id": 67256,
-        "message_id": 5686,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-02T22:16:21.872572+00:00"
-      },
-      {
-        "fingerprint": "946ff7daa46b0791ccdef5a4d614ce9f0b9b0684bd0d2bf364a04a59f37361f2",
-        "media_fingerprint": "ba7c1026db0cd673e8bfec66f86f003eb66a0a233ed24ebb8a2db648bebefe94",
-        "text": "🔴\nدیشب تو آمل یه مرده به نام مجتبی رضا‌پور برنده جایزه \" 1 دقیقه خرید رایگان\" از هایپرمارکت شد؛\nبعد تو یه حرکت تاریخی، رکورد کل فروشگاه رو زد\n😂\n+ تو یه دقیقه تقريبا 127 میلیون تومن به فروشگاه ضرر زد!\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nدیشب تو آمل یه مرده به نام مجتبی رضا‌پور برنده جایزه \" 1 دقیقه خرید رایگان\" از هایپرمارکت شد؛\nبعد تو یه حرکت تاریخی، رکورد کل فروشگاه رو زد\n😂\n+ تو یه دقیقه تقريبا 127 میلیون تومن به فروشگاه ضرر زد!\n@DrTeL",
-        "original_link": "https://t.me/drtel/67259",
-        "post_id": 67259,
-        "message_id": 5687,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-02T23:13:45.387641+00:00"
-      },
-      {
-        "fingerprint": "b9d136e565d6346ab65425558b09ea45ddedfda85641840ebac28d5805c0fbec",
-        "media_fingerprint": "bb5366856a283ba7a097ce67029cc632abf3f29f1a42d95b21e5f9ee443b79cb",
-        "text": "تخصصی ترین کانال کازینویی ایران\n😍\n👑\nتوم دوس داری از کازینو پول دربیاری؟\nبازی های اسلات،انفجار،پلینکو،پوکر،رولت و...\n⭐\nپس کانال\npopok gaming\nاز دست نده\n👌\n💖\nاین کانال مرجع اموزش و یادگیری بازی های کازینویی\n💖\n💵\nدرامد دلاری روزانه با این کانال سخت نیست چون متخصص این کار و به توهم یاد میده\nادرس عضویت کانالشون:\nhttps://t.me/+pUg6RT06KPw4MTNi\n🎖️\nهمین حالا عضو شو و این فرصت طلایی لز دست نده\n✔️\nA10",
-        "original_username": "comentiat",
-        "original_text": "تخصصی ترین کانال کازینویی ایران\n😍\n👑\nتوم دوس داری از کازینو پول دربیاری؟\nبازی های اسلات،انفجار،پلینکو،پوکر،رولت و...\n⭐\nپس کانال\npopok gaming\nاز دست نده\n👌\n💖\nاین کانال مرجع اموزش و یادگیری بازی های کازینویی\n💖\n💵\nدرامد دلاری روزانه با این کانال سخت نیست چون متخصص این کار و به توهم یاد میده\nادرس عضویت کانالشون:\nhttps://t.me/+pUg6RT06KPw4MTNi\n🎖️\nهمین حالا عضو شو و این فرصت طلایی لز دست نده\n✔️\nA10",
-        "original_link": "https://t.me/Comentiat/26247",
-        "post_id": 26247,
-        "message_id": 5688,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-02T23:13:52.710733+00:00"
-      },
-      {
-        "fingerprint": "f8ca0fd6a91478f79e25d17a4d7665dd50abbef50cafbf5884650afed83ca9b4",
-        "media_fingerprint": "02764aee4b11c3503e9767414b9e4235b4593b61042e4095bb3eab26da363224",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26249",
-        "post_id": 26249,
-        "message_id": 5689,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-02T23:33:08.809098+00:00"
-      },
-      {
-        "fingerprint": "67ea170dd410b372dfc3af135b8b8b6c421db4cec21dd78bcb095617777f2b8a",
-        "media_fingerprint": "f6cc9d12257dd1267c12bcf7707f9103bb5477401a541f8982b1f10570104286",
-        "text": "🆔\n@YeJoorayi",
-        "original_username": "yejoorayi",
-        "original_text": "🆔\n@YeJoorayi",
-        "original_link": "https://t.me/YeJoorayi/471",
-        "post_id": 471,
-        "message_id": 5690,
-        "message_kind": "caption",
-        "sources": [
-          "yejoorayi"
-        ],
-        "created_at": "2026-10-03T04:39:09.104842+00:00"
-      },
-      {
-        "fingerprint": "e413e581b769fe8532814fa04aecc814dd0a53b0c570fdf5b024920f26fcf659",
-        "media_fingerprint": "5bc6226ac591b7b1b749a1f09531cc7305c55456a31dd768e26554c9dc8e2469",
-        "text": "🖥\nخلاصه اخبار را با ما مرور کنید؛\n⌛️\nآنچه در 24 ساعت اخیر گذشت\n🇯🇵\n#بازی‌های_آسیایی2026\n🟡\nایران 3 - پاکستان 0\n🟡\nطلا برای محمد نخودی\n🟡\nزارع و همان طلای همیشگی\n🟡\nکولاک ساغر مرادی برای طلا\n🟡\nجدول مدالی در پایان روز سیزدهم\nسایر اخبار\n🟡\nواکنش بازیکنان پرتغال به خروج رونالدو\n🟡\nپرسپولیس 2 - گل‌گهر 0\n🟡\nنتایج و جدول لیگ فوتسال در هفته 7\n🟡\nچه بر سر منچسترسیتی خواهد آمد؟\n🟡\nجام حذفی برگزار نخواهد شد\n🟡\nبلژیک 3 - ترکیه 0\n🟡\nفرانسه 1 - ایتالیا 1\n🟡\nهت‌تریک رابرت لواندوفسکی\n🆔\n@varzesh3",
-        "original_username": "varzesh3",
-        "original_text": "🖥\nخلاصه اخبار را با ما مرور کنید؛\n⌛️\nآنچه در 24 ساعت اخیر گذشت\n🇯🇵\n#بازی‌های_آسیایی2026\n🟡\nایران 3 - پاکستان 0\n🟡\nطلا برای محمد نخودی\n🟡\nزارع و همان طلای همیشگی\n🟡\nکولاک ساغر مرادی برای طلا\n🟡\nجدول مدالی در پایان روز سیزدهم\nسایر اخبار\n🟡\nواکنش بازیکنان پرتغال به خروج رونالدو\n🟡\nپرسپولیس 2 - گل‌گهر 0\n🟡\nنتایج و جدول لیگ فوتسال در هفته 7\n🟡\nچه بر سر منچسترسیتی خواهد آمد؟\n🟡\nجام حذفی برگزار نخواهد شد\n🟡\nبلژیک 3 - ترکیه 0\n🟡\nفرانسه 1 - ایتالیا 1\n🟡\nهت‌تریک رابرت لواندوفسکی\n🆔\n@varzesh3",
-        "original_link": "https://t.me/varzesh3/303269",
-        "post_id": 303269,
-        "message_id": 5691,
-        "message_kind": "caption",
-        "sources": [
-          "varzesh3"
-        ],
-        "created_at": "2026-10-03T04:39:14.097005+00:00"
-      },
       {
         "fingerprint": "15797720d86c806e361b2076ed6a01de69a3d55b590162876c77a9132d6cf890",
         "media_fingerprint": "039df3b8537d22c2e84c29488679fe24dd647b17aa94b416eaebfa45ed114e0e",
@@ -31611,6 +31431,201 @@
           "akhbarfars"
         ],
         "created_at": "2026-10-06T13:22:16.481026+00:00"
+      },
+      {
+        "fingerprint": "a56f308327d6afd765c97de52769479e60e85747fae5b3a0073389aba1ea5057",
+        "media_fingerprint": "fa6506fc4616fbacd7d2d06ac4b80f1f18a6d8ab063195436e40363938460a63",
+        "text": "و اما در نهایت چیزی که پسرا از زندگی میخوان:\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "و اما در نهایت چیزی که پسرا از زندگی میخوان:\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162855",
+        "post_id": 162855,
+        "message_id": 6746,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-06T13:50:13.161104+00:00"
+      },
+      {
+        "fingerprint": "456d974126fa05d11ab9c609e80d205a17ad94f780b387bb78c2acddc6d92e27",
+        "media_fingerprint": "0c136c87f5680d8cb6c6332688e166a0c19dc790f8cb0023506cc06294b44e9e",
+        "text": "فیلم لو رفته از زندان زاویرا\n🤣\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "فیلم لو رفته از زندان زاویرا\n🤣\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162857",
+        "post_id": 162857,
+        "message_id": 6747,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-06T13:50:19.600712+00:00"
+      },
+      {
+        "fingerprint": "4df4b7147ea781cc82d2967991131f2aea97738024dfe04641bc317114aa1c1f",
+        "media_fingerprint": "8d3c7244f4ef20a648bc1435fc323569049457625a256c3f22914808fa5e68d5",
+        "text": "توصیه های مشاورین فروش\n😄\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "توصیه های مشاورین فروش\n😄\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162858",
+        "post_id": 162858,
+        "message_id": 6748,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-06T13:50:25.379751+00:00"
+      },
+      {
+        "fingerprint": "527d489b24f4db3de3a4993a43b870a607b3f33636ea8a2c87952627c8d18062",
+        "media_fingerprint": "fe1656f6e9e13bb3c6dbd9241af560d8a6be47e950bb810c14487d7236dd620c",
+        "text": "🔴\nیه آخوند تو تجمعات شبانه :\nیکی داشت رد میشد گفت حاجی پرچمت خیلی بزرگ نیست؟ گفتم از این به بعد تاکید رو چوبِ پرچمه\n🙈\n😈\n.\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nیه آخوند تو تجمعات شبانه :\nیکی داشت رد میشد گفت حاجی پرچمت خیلی بزرگ نیست؟ گفتم از این به بعد تاکید رو چوبِ پرچمه\n🙈\n😈\n.\n@DrTeL",
+        "original_link": "https://t.me/drtel/67420",
+        "post_id": 67420,
+        "message_id": 6749,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-06T13:50:32.318073+00:00"
+      },
+      {
+        "fingerprint": "a4da9b3cd7d9b0b04cb7ec93617f3ac95f7b141223a009e09c294f6c86552ab1",
+        "media_fingerprint": "1db823af29020c5104dd4c900b54ed1398ef8edda45462e83c00ba8c89d6f929",
+        "text": "🎤\nآندره ویلاش-بواش، رئیس پورتو:\n🔻\nبرای مورینیو واقعا حیفه که بارسلونا تا این حد قدرتمند باشه. درست مثل زمانی که اینتر را ترک کرد ، بارسلونا در بهترین دوران خودش به سر میبره.\n🔻\nاما این دقیقا همان چالش‌هایه که مورینیو بیشتر از هر چیز دیگری از آن‌ها لذت می‌برد.\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "🎤\nآندره ویلاش-بواش، رئیس پورتو:\n🔻\nبرای مورینیو واقعا حیفه که بارسلونا تا این حد قدرتمند باشه. درست مثل زمانی که اینتر را ترک کرد ، بارسلونا در بهترین دوران خودش به سر میبره.\n🔻\nاما این دقیقا همان چالش‌هایه که مورینیو بیشتر از هر چیز دیگری از آن‌ها لذت می‌برد.\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/107925",
+        "post_id": 107925,
+        "message_id": 6750,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-06T13:50:37.400088+00:00"
+      },
+      {
+        "fingerprint": "c8d6251d2487d1adb4d8f188694036e1f57bc58248f588d3562f74b055ecf22a",
+        "media_fingerprint": "04dc65a3f709268885c6db58b9e7ed653627f0b26c315cea5829d2c51ee3c43b",
+        "text": "برای سال 2027، ما باید چیزی شبیه به این بسازیم.\n😩\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "برای سال 2027، ما باید چیزی شبیه به این بسازیم.\n😩\n@irWonders",
+        "original_link": "https://t.me/irwonders/58383",
+        "post_id": 58383,
+        "message_id": 6751,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-06T13:50:46.194379+00:00"
+      },
+      {
+        "fingerprint": "407a6857a31f79f9b582e5a49b54e613bd8fb3cf7268bd6a94277a5c6ddad046",
+        "media_fingerprint": "",
+        "text": "♦️\nفرهنگ ایثار و مقاومت بزرگ‌ترین سرمایه کشور است\nوزیر آموزش و پرورش در لامرد:\n🔹\nفرهنگ ایثار و مقاومت بزرگ‌ترین سرمایه کشور است.\n🔹\nسال تحصیلی جدید با همت همه عزیزان، با شور و نشاط و با برگزاری یادواره‌های شهدای دانش‌آموز در مدارس سراسر کشور آغاز شده است و دستگاه تعلیم و تربیت رسالت سنگینی در ترویج فرهنگ ایثار و شهادت بر دوش دارد.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nفرهنگ ایثار و مقاومت بزرگ‌ترین سرمایه کشور است\nوزیر آموزش و پرورش در لامرد:\n🔹\nفرهنگ ایثار و مقاومت بزرگ‌ترین سرمایه کشور است.\n🔹\nسال تحصیلی جدید با همت همه عزیزان، با شور و نشاط و با برگزاری یادواره‌های شهدای دانش‌آموز در مدارس سراسر کشور آغاز شده است و دستگاه تعلیم و تربیت رسالت سنگینی در ترویج فرهنگ ایثار و شهادت بر دوش دارد.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143159",
+        "post_id": 143159,
+        "message_id": 6752,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-06T13:50:49.373945+00:00"
+      },
+      {
+        "fingerprint": "640e84a656a25b35676dc9b85ed5f21d4919e695eb3ec2a9c5ba5ddd5ab9248a",
+        "media_fingerprint": "e51d9d76cfce3b9b4dbfeb5422ef72151fd42f529f9102308087cbcde78dace4",
+        "text": "تو  کارخانه شیرخشک سازی، کارگر با کارفرما دعواش میشه و برای انتقام مخفیانه ۲۰ لیتر اسید توی مخزن شیر میریزه و لحظه‌ی آخری آزمایشگاه کارخانه متوجه این قضیه میشه.\nمیخوام بگم یک لحظه عدم مهار خشم میتونه همچین حیوانی از آدم بسازه که حاضر بشه صدها نوزاد رو به خاطر انتقام بکشه.\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "تو  کارخانه شیرخشک سازی، کارگر با کارفرما دعواش میشه و برای انتقام مخفیانه ۲۰ لیتر اسید توی مخزن شیر میریزه و لحظه‌ی آخری آزمایشگاه کارخانه متوجه این قضیه میشه.\nمیخوام بگم یک لحظه عدم مهار خشم میتونه همچین حیوانی از آدم بسازه که حاضر بشه صدها نوزاد رو به خاطر انتقام بکشه.\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162859",
+        "post_id": 162859,
+        "message_id": 6753,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-06T13:50:56.726390+00:00"
+      },
+      {
+        "fingerprint": "a9a7e7b2c515e2246ac215d74f80fe2767f3614862d97e32afcdcf554eeb4daf",
+        "media_fingerprint": "be55392db400fdc5bdc79051f36525a55b7be5d448b23cf16cf4287fa966a9d1",
+        "text": "توصیه های مشاورین فروش\n😄\nchannel➣\n🐓\n@khooroosjangi",
+        "original_username": "khooroosjangi",
+        "original_text": "توصیه های مشاورین فروش\n😄\nchannel➣\n🐓\n@khooroosjangi",
+        "original_link": "https://t.me/khooroosjangi/85735",
+        "post_id": 85735,
+        "message_id": 6754,
+        "message_kind": "caption",
+        "sources": [
+          "khooroosjangi"
+        ],
+        "created_at": "2026-10-06T13:51:03.147110+00:00"
+      },
+      {
+        "fingerprint": "a7bc29e9c16b1a1d10959fd898e861095ec0d12c1bfdf32d36f9233014c25ffb",
+        "media_fingerprint": "bf36cee776935ef5ec3e186aa5cd75c5fb5cb0c3780642dd1a3e83e3cc091d98",
+        "text": "🎥\nعارف: از شرمندگی مردم بیرون می‌آییم؛ افزایش کالابرگ از آنچه که فکر می کنید نزدیکتر است\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🎥\nعارف: از شرمندگی مردم بیرون می‌آییم؛ افزایش کالابرگ از آنچه که فکر می کنید نزدیکتر است\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23042",
+        "post_id": 23042,
+        "message_id": 6755,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-06T13:51:09.040447+00:00"
+      },
+      {
+        "fingerprint": "50b43fe1b5f4ca20e5bf011d11e13b25c51694ee345af1ad10139e5a005850fc",
+        "media_fingerprint": "df9943f0f02f639988d655a873d04e90b817470291696e94e04bb1f15ceddd78",
+        "text": "وقتی از اینستاگرام پکیج پولدار شدن خریدی و خیال میکنی دیگه کار تمومه...\n😂\n😂\n😂\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "وقتی از اینستاگرام پکیج پولدار شدن خریدی و خیال میکنی دیگه کار تمومه...\n😂\n😂\n😂\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/2916",
+        "post_id": 2916,
+        "message_id": 6756,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-06T13:51:16.311229+00:00"
+      },
+      {
+        "fingerprint": "17af4a34d7942fad308915a61b778b9c9a66db14ee38812e48c528790c228757",
+        "media_fingerprint": "58bef0d47cda3b4895e7e0a027374298401cd469f4c68e674b23073c243e87d2",
+        "text": "🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/497",
+        "post_id": 497,
+        "message_id": 6757,
+        "message_kind": "caption",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-06T13:51:20.217414+00:00"
+      },
+      {
+        "fingerprint": "639421aea566d298a2283329d6882d1123d9bf71d82b1f96d8936d62cce27e9d",
+        "media_fingerprint": "",
+        "text": "♦️\nافزایش موارد کرونا؛ وزارت بهداشت: روند فصلی است\n🔹\nرئیس مرکز روابط عمومی وزارت بهداشت افزایش موارد کرونا را فصلی دانست و گفت کشور درگیر اپیدمی گسترده نیست؛ ذخایر دارویی نیز پاسخگوی نیاز فعلی است.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nافزایش موارد کرونا؛ وزارت بهداشت: روند فصلی است\n🔹\nرئیس مرکز روابط عمومی وزارت بهداشت افزایش موارد کرونا را فصلی دانست و گفت کشور درگیر اپیدمی گسترده نیست؛ ذخایر دارویی نیز پاسخگوی نیاز فعلی است.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143161",
+        "post_id": 143161,
+        "message_id": 6758,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-06T13:51:23.061947+00:00"
       }
     ]
   }
