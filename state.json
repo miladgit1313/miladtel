@@ -1,12 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143153,
+      "last_id": 143158,
       "processed_ids": [
-        142066,
-        142067,
-        142068,
-        142069,
         142070,
         142072,
         142073,
@@ -1002,12 +998,16 @@
         143150,
         143151,
         143152,
-        143153
+        143153,
+        143154,
+        143155,
+        143156,
+        143158
       ],
-      "sent_count": 701
+      "sent_count": 703
     },
     "total_fut": {
-      "last_id": 237312,
+      "last_id": 237313,
       "processed_ids": [
         236405,
         236407,
@@ -1873,7 +1873,8 @@
         237308,
         237310,
         237311,
-        237312
+        237312,
+        237313
       ],
       "sent_count": 67
     },
@@ -4614,7 +4615,7 @@
       "sent_count": 107
     },
     "akhbar_cafenet": {
-      "last_id": 23039,
+      "last_id": 23041,
       "processed_ids": [
         22432,
         22433,
@@ -5194,9 +5195,11 @@
         23036,
         23037,
         23038,
-        23039
+        23039,
+        23040,
+        23041
       ],
-      "sent_count": 323
+      "sent_count": 324
     },
     "comentiat": {
       "last_id": 26347,
@@ -5618,7 +5621,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38636,
+      "last_id": 38637,
       "processed_ids": [
         38432,
         38433,
@@ -5821,7 +5824,8 @@
         38632,
         38633,
         38634,
-        38636
+        38636,
+        38637
       ],
       "sent_count": 127
     },
@@ -8017,11 +8021,8 @@
       "sent_count": 46
     },
     "ft360_ir": {
-      "last_id": 109123,
+      "last_id": 109126,
       "processed_ids": [
-        108047,
-        108048,
-        108049,
         108050,
         108051,
         108052,
@@ -9018,12 +9019,15 @@
         109120,
         109121,
         109122,
-        109123
+        109123,
+        109124,
+        109125,
+        109126
       ],
       "sent_count": 63
     },
     "varzesh3": {
-      "last_id": 303458,
+      "last_id": 303459,
       "processed_ids": [
         302363,
         302364,
@@ -10012,12 +10016,13 @@
         303455,
         303456,
         303457,
-        303458
+        303458,
+        303459
       ],
       "sent_count": 48
     },
     "totalfut_plus": {
-      "last_id": 26487,
+      "last_id": 26488,
       "processed_ids": [
         25870,
         25871,
@@ -10619,12 +10624,13 @@
         26483,
         26484,
         26485,
-        26487
+        26487,
+        26488
       ],
-      "sent_count": 33
+      "sent_count": 34
     },
     "adak_ir_official": {
-      "last_id": 234803,
+      "last_id": 234804,
       "processed_ids": [
         233831,
         233833,
@@ -11578,14 +11584,14 @@
         234800,
         234801,
         234802,
-        234803
+        234803,
+        234804
       ],
       "sent_count": 120
     },
     "futball180tv": {
-      "last_id": 107923,
+      "last_id": 107924,
       "processed_ids": [
-        106907,
         106908,
         106909,
         106910,
@@ -12584,12 +12590,13 @@
         107920,
         107921,
         107922,
-        107923
+        107923,
+        107924
       ],
       "sent_count": 45
     },
     "hattric_official": {
-      "last_id": 84326,
+      "last_id": 84327,
       "processed_ids": [
         83433,
         83434,
@@ -13431,7 +13438,8 @@
         84323,
         84324,
         84325,
-        84326
+        84326,
+        84327
       ],
       "sent_count": 59
     },
@@ -13918,7 +13926,7 @@
       "sent_count": 0
     },
     "khooroosjangi": {
-      "last_id": 85733,
+      "last_id": 85734,
       "processed_ids": [
         85726,
         85727,
@@ -13927,12 +13935,13 @@
         85730,
         85731,
         85732,
-        85733
+        85733,
+        85734
       ],
-      "sent_count": 2
+      "sent_count": 3
     },
     "irwonders": {
-      "last_id": 58381,
+      "last_id": 58382,
       "processed_ids": [
         58030,
         58031,
@@ -14241,7 +14250,8 @@
         58378,
         58379,
         58380,
-        58381
+        58381,
+        58382
       ],
       "sent_count": 199
     },
@@ -16380,7 +16390,7 @@
       "sent_count": 39
     },
     "shakhmovie": {
-      "last_id": 4072,
+      "last_id": 4073,
       "processed_ids": [
         4017,
         4018,
@@ -16415,9 +16425,10 @@
         4067,
         4068,
         4071,
-        4072
+        4072,
+        4073
       ],
-      "sent_count": 28
+      "sent_count": 29
     },
     "peach_tweet": {
       "last_id": 2915,
@@ -16525,98 +16536,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "3c32758e53a4289c45ab63df60b0bbd9c944a621a30b0cb0441c0849cb9549bf",
-        "media_fingerprint": "d56dc79b3640eb3454161da0a145337259017579ed43085f850e273fcf00302f",
-        "text": "وضعیت دایرکت:  ‌",
-        "original_username": "drtel",
-        "original_text": "وضعیت دایرکت:  ‌",
-        "original_link": "https://t.me/drtel/67250",
-        "post_id": 67250,
-        "message_id": 5672,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-02T21:36:02.799519+00:00"
-      },
-      {
-        "fingerprint": "29717dd2b1424fb19e48129ff21c4320ec179e8ef56df33f517d30da90d0c261",
-        "media_fingerprint": "f13d122485793076a24e5af85e1e5cc4333aaee8eddca4de56fb19e4fd201f49",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26246",
-        "post_id": 26246,
-        "message_id": 5674,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-02T21:36:06.385274+00:00"
-      },
-      {
-        "fingerprint": "a653fb2e47f58c76aad8399c3db5aacf3f67e22a351762fb619820609a53087a",
-        "media_fingerprint": "",
-        "text": "از اون موقع ممبرات چرا ۷۷۸ هزار نفره کم و زیاد نشدن چرا",
-        "original_username": "drtel",
-        "original_text": "از اون موقع ممبرات چرا ۷۷۸ هزار نفره کم و زیاد نشدن چرا",
-        "original_link": "https://t.me/drtel/67252",
-        "post_id": 67252,
-        "message_id": 5675,
-        "message_kind": "text",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-02T21:36:08.857614+00:00"
-      },
-      {
-        "fingerprint": "8d1aca35635938f1adc3f6e97cda6038aa458ad0e818d0a56d504f06c3133cc2",
-        "media_fingerprint": "ce864481eb8438281c8f15e8d482319f5f9137a9d23301713cef1aed653cd178",
-        "text": "رئیس سازمان پدافند غیر عامل از ساعت هوشمند خارجی استفاده میکنه!\nازش پرسیدن چرا؟ جواب ایشون رو در ویدئو بشنوید...\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "رئیس سازمان پدافند غیر عامل از ساعت هوشمند خارجی استفاده میکنه!\nازش پرسیدن چرا؟ جواب ایشون رو در ویدئو بشنوید...\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162676",
-        "post_id": 162676,
-        "message_id": 5676,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-02T21:53:29.367016+00:00"
-      },
-      {
-        "fingerprint": "2af0e4429c11fbdcbdafefa6868a57ddf5b659207de69838ba27605d8d305933",
-        "media_fingerprint": "5d9303c365e89859f556d0f378deacc6d4ae0a71d77a50918047d674ea07c1b9",
-        "text": "در بازار سنندج مشاهده شد\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "در بازار سنندج مشاهده شد\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162678",
-        "post_id": 162678,
-        "message_id": 5677,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel",
-          "jaleb",
-          "irwonders"
-        ],
-        "created_at": "2026-10-02T21:53:33.241524+00:00"
-      },
-      {
-        "fingerprint": "46f1ccaa5a49f85c7200a2eba448c865a285fd65c2088908abd4bf602ba845fc",
-        "media_fingerprint": "90b4b84d8f81bcd2bdb605c06ee423b2eabcb18fb2f6bc76801248118d3819c7",
-        "text": "توضیحات خلبان هواپیمایی زاگرس در خصوص نبود رادار و تاخیر پرواز\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "توضیحات خلبان هواپیمایی زاگرس در خصوص نبود رادار و تاخیر پرواز\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162679",
-        "post_id": 162679,
-        "message_id": 5678,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-02T21:53:38.594466+00:00"
-      },
       {
         "fingerprint": "f324427d0a95932d88644eafc2660a60c877a6cc9f92dff9d5ed9c3a913d79d9",
         "media_fingerprint": "88f62a7c326b830ee53c433f1cf9122faa775b4feb6107fd50f525cf875904e7",
@@ -31602,6 +31521,96 @@
           "akhbarfars"
         ],
         "created_at": "2026-10-06T12:53:30.079357+00:00"
+      },
+      {
+        "fingerprint": "8aef3f523289896f2b1fad57c9be30e39c88fc3f5284fb96cfe508ae9a7b2157",
+        "media_fingerprint": "ae1c98057adeb193dd5fb998dc93962cdec149435c4f14bcde92c48474d0cbba",
+        "text": "صدور انواع  مدارک فوری و قانونی\n🇮🇷\n🇮🇷\n🇮🇷\n🇮🇷\n🇮🇷\n🇮🇷\n🇮🇷\nایدی\n👇\n@amjadi_7923\nشماره\n👇\n09905975628",
+        "original_username": "khooroosjangi",
+        "original_text": "صدور انواع  مدارک فوری و قانونی\n🇮🇷\n🇮🇷\n🇮🇷\n🇮🇷\n🇮🇷\n🇮🇷\n🇮🇷\nایدی\n👇\n@amjadi_7923\nشماره\n👇\n09905975628",
+        "original_link": "https://t.me/khooroosjangi/85734",
+        "post_id": 85734,
+        "message_id": 6740,
+        "message_kind": "caption",
+        "sources": [
+          "khooroosjangi"
+        ],
+        "created_at": "2026-10-06T13:21:56.970424+00:00"
+      },
+      {
+        "fingerprint": "7366fd2302f097b2fb4c5235cb9fc846616e25a298b25bb267e3979da0245c30",
+        "media_fingerprint": "f3b91bb90e379d4b0c9cb6954fb7807afafa3a9b4ac04ddcc3f52d61f1ab6a99",
+        "text": "♦️\nسازمان تجارت دریایی انگلیس: یک نفتکش در تنگهٔ هرمز هدف حملهٔ یک پرتابهٔ ناشناس قرار گرفت\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nسازمان تجارت دریایی انگلیس: یک نفتکش در تنگهٔ هرمز هدف حملهٔ یک پرتابهٔ ناشناس قرار گرفت\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143156",
+        "post_id": 143156,
+        "message_id": 6741,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-06T13:22:02.285402+00:00"
+      },
+      {
+        "fingerprint": "ca5ce8bcb2f343d81224d65b574a6203b12fed99d0cc9f6ce3b91baacd51b920",
+        "media_fingerprint": "",
+        "text": "🎖️\n🏅\nرسول باختر وکیل ورزشی: فارغ از اینکه قرارداد آسانی فسخ شده باشه یا نه، او بازیکن جدید محسوب نمیشه، حتی اگه در تابستان با پرسپولیس مذاکره کرده باشد.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
+        "original_username": "totalfut_plus",
+        "original_text": "🎖️\n🏅\nرسول باختر وکیل ورزشی: فارغ از اینکه قرارداد آسانی فسخ شده باشه یا نه، او بازیکن جدید محسوب نمیشه، حتی اگه در تابستان با پرسپولیس مذاکره کرده باشد.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
+        "original_link": "https://t.me/totalfut_plus/26488",
+        "post_id": 26488,
+        "message_id": 6742,
+        "message_kind": "text",
+        "sources": [
+          "totalfut_plus"
+        ],
+        "created_at": "2026-10-06T13:22:05.648811+00:00"
+      },
+      {
+        "fingerprint": "9d28bb8de1701fc2fb541c3cdf2803ff706baf5eeb6b4d4fdd5ef41a546f8f4e",
+        "media_fingerprint": "1cdac4fba0cc7117b3463b921d2402f1870672ed7f985711db49f48cd5766b48",
+        "text": "آنا جان داری با خودت چیکار می‌کنی؟\n📷\n|\n@ShakhMovie",
+        "original_username": "shakhmovie",
+        "original_text": "آنا جان داری با خودت چیکار می‌کنی؟\n📷\n|\n@ShakhMovie",
+        "original_link": "https://t.me/Shakhmovie/4073",
+        "post_id": 4073,
+        "message_id": 6743,
+        "message_kind": "caption",
+        "sources": [
+          "shakhmovie"
+        ],
+        "created_at": "2026-10-06T13:22:10.070318+00:00"
+      },
+      {
+        "fingerprint": "91ce8e93f3065fcd89f3cef85c0f1c13b279b65cf0549b6fc4cb6bb0454956c6",
+        "media_fingerprint": "",
+        "text": "✍️\n‌\nنوک خودکار ایرانی وارداتی است!\n🔵\nبازار نوشت‌افزار ایران تا ۸۵ درصد در اختیار تولیدکنندگان داخلی است، اما بخشی از قطعات تخصصی همچنان از خارج تامین می‌شود. نوک خودکار یکی از همین قطعات است که به گفته فعالان این صنعت، تولیدکنندگان داخلی برای تامین آن به واردات وابسته‌اند.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "✍️\n‌\nنوک خودکار ایرانی وارداتی است!\n🔵\nبازار نوشت‌افزار ایران تا ۸۵ درصد در اختیار تولیدکنندگان داخلی است، اما بخشی از قطعات تخصصی همچنان از خارج تامین می‌شود. نوک خودکار یکی از همین قطعات است که به گفته فعالان این صنعت، تولیدکنندگان داخلی برای تامین آن به واردات وابسته‌اند.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23041",
+        "post_id": 23041,
+        "message_id": 6744,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-06T13:22:13.336653+00:00"
+      },
+      {
+        "fingerprint": "ffb6b8cb9a044d6b484acb2e0f1b3eb06de48fc959f4d740e0f82409099f03e0",
+        "media_fingerprint": "",
+        "text": "♦️\nدانشگاه علوم پزشکی شیراز در جمع ۳ دانشگاه برتر علوم پزشکی کشور قرار گرفت\n🔹️\nدانشگاه علوم پزشکی شیراز در رتبه‌بندی سال ۲۰۲۷ تایمز، از رتبه دهم به رتبه سوم در میان دانشگاه‌های علوم پزشکی کشور ارتقا یافته است.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nدانشگاه علوم پزشکی شیراز در جمع ۳ دانشگاه برتر علوم پزشکی کشور قرار گرفت\n🔹️\nدانشگاه علوم پزشکی شیراز در رتبه‌بندی سال ۲۰۲۷ تایمز، از رتبه دهم به رتبه سوم در میان دانشگاه‌های علوم پزشکی کشور ارتقا یافته است.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143158",
+        "post_id": 143158,
+        "message_id": 6745,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-06T13:22:16.481026+00:00"
       }
     ]
   }
