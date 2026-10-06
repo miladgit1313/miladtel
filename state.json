@@ -1,12 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143195,
+      "last_id": 143200,
       "processed_ids": [
-        142101,
-        142102,
-        142103,
-        142104,
         142105,
         142106,
         142107,
@@ -1002,12 +998,16 @@
         143191,
         143192,
         143193,
-        143195
+        143195,
+        143196,
+        143198,
+        143199,
+        143200
       ],
-      "sent_count": 716
+      "sent_count": 717
     },
     "total_fut": {
-      "last_id": 237336,
+      "last_id": 237339,
       "processed_ids": [
         236405,
         236407,
@@ -1894,7 +1894,10 @@
         237332,
         237333,
         237335,
-        237336
+        237336,
+        237337,
+        237338,
+        237339
       ],
       "sent_count": 71
     },
@@ -2927,7 +2930,7 @@
       "sent_count": 4
     },
     "fars_today": {
-      "last_id": 132141,
+      "last_id": 132142,
       "processed_ids": [
         131975,
         131976,
@@ -3091,7 +3094,8 @@
         132138,
         132139,
         132140,
-        132141
+        132141,
+        132142
       ],
       "sent_count": 98
     },
@@ -3122,7 +3126,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67428,
+      "last_id": 67429,
       "processed_ids": [
         66561,
         66565,
@@ -3801,9 +3805,10 @@
         67425,
         67426,
         67427,
-        67428
+        67428,
+        67429
       ],
-      "sent_count": 395
+      "sent_count": 396
     },
     "techtube": {
       "last_id": 18450,
@@ -5251,7 +5256,7 @@
       "sent_count": 328
     },
     "comentiat": {
-      "last_id": 26351,
+      "last_id": 26352,
       "processed_ids": [
         25844,
         25845,
@@ -5662,9 +5667,10 @@
         26348,
         26349,
         26350,
-        26351
+        26351,
+        26352
       ],
-      "sent_count": 296
+      "sent_count": 297
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -5674,7 +5680,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38641,
+      "last_id": 38642,
       "processed_ids": [
         38432,
         38433,
@@ -5882,12 +5888,13 @@
         38638,
         38639,
         38640,
-        38641
+        38641,
+        38642
       ],
-      "sent_count": 129
+      "sent_count": 130
     },
     "gizmiztel": {
-      "last_id": 162870,
+      "last_id": 162873,
       "processed_ids": [
         161872,
         161875,
@@ -6790,9 +6797,12 @@
         162867,
         162868,
         162869,
-        162870
+        162870,
+        162871,
+        162872,
+        162873
       ],
-      "sent_count": 591
+      "sent_count": 593
     },
     "dr_salamatx": {
       "last_id": 55361,
@@ -7313,7 +7323,7 @@
       "sent_count": 218
     },
     "ajayebe_jahann": {
-      "last_id": 159572,
+      "last_id": 159575,
       "processed_ids": [
         158956,
         158957,
@@ -7920,9 +7930,12 @@
         159569,
         159570,
         159571,
-        159572
+        159572,
+        159573,
+        159574,
+        159575
       ],
-      "sent_count": 268
+      "sent_count": 269
     },
     "etelaate_omoomi": {
       "last_id": 43128,
@@ -8020,7 +8033,7 @@
       "sent_count": 15
     },
     "scienticnews": {
-      "last_id": 22552,
+      "last_id": 22553,
       "processed_ids": [
         22458,
         22459,
@@ -8113,18 +8126,14 @@
         22547,
         22550,
         22551,
-        22552
+        22552,
+        22553
       ],
       "sent_count": 47
     },
     "ft360_ir": {
-      "last_id": 109148,
+      "last_id": 109153,
       "processed_ids": [
-        108071,
-        108072,
-        108073,
-        108074,
-        108075,
         108076,
         108077,
         108078,
@@ -9119,15 +9128,18 @@
         109145,
         109146,
         109147,
-        109148
+        109148,
+        109149,
+        109150,
+        109151,
+        109152,
+        109153
       ],
       "sent_count": 65
     },
     "varzesh3": {
-      "last_id": 303477,
+      "last_id": 303479,
       "processed_ids": [
-        302368,
-        302369,
         302370,
         302371,
         302372,
@@ -10125,12 +10137,14 @@
         303473,
         303475,
         303476,
-        303477
+        303477,
+        303478,
+        303479
       ],
       "sent_count": 49
     },
     "totalfut_plus": {
-      "last_id": 26502,
+      "last_id": 26503,
       "processed_ids": [
         25870,
         25871,
@@ -10745,12 +10759,13 @@
         26499,
         26500,
         26501,
-        26502
+        26502,
+        26503
       ],
       "sent_count": 34
     },
     "adak_ir_official": {
-      "last_id": 234819,
+      "last_id": 234823,
       "processed_ids": [
         233831,
         233833,
@@ -11720,16 +11735,17 @@
         234816,
         234817,
         234818,
-        234819
+        234819,
+        234820,
+        234821,
+        234822,
+        234823
       ],
-      "sent_count": 126
+      "sent_count": 127
     },
     "futball180tv": {
-      "last_id": 107948,
+      "last_id": 107951,
       "processed_ids": [
-        106932,
-        106934,
-        106935,
         106936,
         106937,
         106938,
@@ -12726,12 +12742,15 @@
         107945,
         107946,
         107947,
-        107948
+        107948,
+        107949,
+        107950,
+        107951
       ],
       "sent_count": 46
     },
     "hattric_official": {
-      "last_id": 84346,
+      "last_id": 84348,
       "processed_ids": [
         83433,
         83434,
@@ -13592,12 +13611,14 @@
         84343,
         84344,
         84345,
-        84346
+        84346,
+        84347,
+        84348
       ],
       "sent_count": 60
     },
     "mazdak_hattrick": {
-      "last_id": 182389,
+      "last_id": 182390,
       "processed_ids": [
         181991,
         181992,
@@ -13991,7 +14012,8 @@
         182386,
         182387,
         182388,
-        182389
+        182389,
+        182390
       ],
       "sent_count": 31
     },
@@ -14107,7 +14129,7 @@
       "sent_count": 5
     },
     "irwonders": {
-      "last_id": 58396,
+      "last_id": 58397,
       "processed_ids": [
         58030,
         58031,
@@ -14429,7 +14451,8 @@
         58392,
         58393,
         58394,
-        58396
+        58396,
+        58397
       ],
       "sent_count": 207
     },
@@ -15981,7 +16004,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306819,
+      "last_id": 306820,
       "processed_ids": [
         306563,
         306564,
@@ -16235,9 +16258,10 @@
         306816,
         306817,
         306818,
-        306819
+        306819,
+        306820
       ],
-      "sent_count": 112
+      "sent_count": 113
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -16743,141 +16767,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "4478400c43877aafce96db26ebc6d3d6700ff78689b1f2a754c17e2bd27224db",
-        "media_fingerprint": "aadfc3a1c581bb690bf12d9c3196c3baff909675bb3487cd4b60979cf60e3615",
-        "text": "حادثه برای کمپرسی در کازرون؛ ترمز خودرو از کار افتاد",
-        "original_username": "fars_today",
-        "original_text": "حادثه برای کمپرسی در کازرون؛ ترمز خودرو از کار افتاد",
-        "original_link": "https://t.me/Fars_today/132114",
-        "post_id": 132114,
-        "message_id": 5780,
-        "message_kind": "caption",
-        "sources": [
-          "fars_today"
-        ],
-        "created_at": "2026-10-03T10:25:43.822291+00:00"
-      },
-      {
-        "fingerprint": "ce0a1576b502d0de9967d5ac729188d9ca3c1ebbd1bc7c307926cc6f00a48f35",
-        "media_fingerprint": "796d47c580eb3d3b5194c684f800399e3bbe7defe921d54c94d35263fe8a901a",
-        "text": "ژله هم اینقدر نرم نیس که بانو نرمه\n🤤\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "ژله هم اینقدر نرم نیس که بانو نرمه\n🤤\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/2819",
-        "post_id": 2819,
-        "message_id": 5781,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-03T10:25:50.280537+00:00"
-      },
-      {
-        "fingerprint": "8852d544e5e6f26c4b9555911e795ae98b133d6bbe1b15ab7be5a1b6be648067",
-        "media_fingerprint": "",
-        "text": "بانک رفاه.pdf",
-        "original_username": "akhbar_cafenet",
-        "original_text": "بانک رفاه.pdf",
-        "original_link": "https://t.me/akhbar_cafenet/22897",
-        "post_id": 22897,
-        "message_id": 5782,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-03T10:25:52.991867+00:00"
-      },
-      {
-        "fingerprint": "323b3c3cc41a4e99286ff6f21d65e3f139783781ae6e27000ea80ffa47fd7a5c",
-        "media_fingerprint": "21d523679fc718755c75b6c76ca710d9a626742c1c42f5ad878facd295451f22",
-        "text": "همه آنچه که باید درباره «کرسنت۲» بدانیم\nنمایندگان مجلس شورای اسلامی طی روزهای اخیر با طرح سوال از وزیر نفت خواستار پاسخگویی وی درباره عملکرد مدیریت شرکت نیکو در لغو قراردادهای فروش نفت شده‌اند.\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "همه آنچه که باید درباره «کرسنت۲» بدانیم\nنمایندگان مجلس شورای اسلامی طی روزهای اخیر با طرح سوال از وزیر نفت خواستار پاسخگویی وی درباره عملکرد مدیریت شرکت نیکو در لغو قراردادهای فروش نفت شده‌اند.\n@irWonders",
-        "original_link": "https://t.me/irwonders/58260",
-        "post_id": 58260,
-        "message_id": 5783,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-03T10:26:00.691208+00:00"
-      },
-      {
-        "fingerprint": "00ded82b20f6df6f7a150fedc9b69ce5c2bfc8f8f82daeffac83188771abfb23",
-        "media_fingerprint": "2890cae945e6ebdcba761160c10d62d2826e4a7a54810ea37cc914507f2321f4",
-        "text": "یه کم خاطره بازی کنیم با Nokia 6600\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "یه کم خاطره بازی کنیم با Nokia 6600\n@irWonders",
-        "original_link": "https://t.me/irwonders/58261",
-        "post_id": 58261,
-        "message_id": 5784,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-03T10:26:07.626112+00:00"
-      },
-      {
-        "fingerprint": "3cb64476e104e871df80ccf9894df2a3997df74bba87268e152ba54233cbb0ea",
-        "media_fingerprint": "",
-        "text": "🌍\nگوگل‌ارث ایرانی با «ایران‌زمین» متولد شد\n🔵\nسرپرست پژوهشگاه فضایی ایران: به همت متخصصان پژوهشگاه فضایی ایران، سامانه «ایران‌زمین» توسعه و طراحی شده است؛ سامانه‌ای که می‌توان آن را «گوگل‌ارث ایرانی» دانست و جای آن در کشور خالی بود.\n🟠\nدر بسیاری از مواقع دسترسی به گوگل‌ارث با محدودیت مواجه می‌شد و توسعه یک سامانه بومی در این حوزه از جمله تغییرات مهمی است که در پژوهشگاه فضایی ایران شکل گرفته است.\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🌍\nگوگل‌ارث ایرانی با «ایران‌زمین» متولد شد\n🔵\nسرپرست پژوهشگاه فضایی ایران: به همت متخصصان پژوهشگاه فضایی ایران، سامانه «ایران‌زمین» توسعه و طراحی شده است؛ سامانه‌ای که می‌توان آن را «گوگل‌ارث ایرانی» دانست و جای آن در کشور خالی بود.\n🟠\nدر بسیاری از مواقع دسترسی به گوگل‌ارث با محدودیت مواجه می‌شد و توسعه یک سامانه بومی در این حوزه از جمله تغییرات مهمی است که در پژوهشگاه فضایی ایران شکل گرفته است.\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22898",
-        "post_id": 22898,
-        "message_id": 5785,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-03T10:26:10.756411+00:00"
-      },
-      {
-        "fingerprint": "8254931a128caa6638f7993b5dec1a80ed6743b3cf1e864b9d223b614aa44741",
-        "media_fingerprint": "",
-        "text": "♦️\nپسرها صدرنشین رتبه‌های برتر کنکور ۱۴۰۵ شدند\n🔹\nبررسی اسامی ۴۰ رتبه برتر کنکور ۱۴۰۵ نشان می‌دهد پسرها با ۲۳ رتبه، سهم بیشتری از رتبه‌های برتر دارند و تهران نیز ۲۱ نماینده در این جمع دارد.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nپسرها صدرنشین رتبه‌های برتر کنکور ۱۴۰۵ شدند\n🔹\nبررسی اسامی ۴۰ رتبه برتر کنکور ۱۴۰۵ نشان می‌دهد پسرها با ۲۳ رتبه، سهم بیشتری از رتبه‌های برتر دارند و تهران نیز ۲۱ نماینده در این جمع دارد.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142940",
-        "post_id": 142940,
-        "message_id": 5786,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-03T10:26:13.598116+00:00"
-      },
-      {
-        "fingerprint": "0419086632b5f8076651d71b3f7c5b2b3bc67fd124dcb197fab379204112f56b",
-        "media_fingerprint": "",
-        "text": "🚨\n🔴\nدنیل گرا، مدافع راست پرسپولیس علاقه به شعر و کتاب دارد و شاید باور نکنید اما او تا حالا 100 کسشر سروده و در حال نوشتن یک کتاب هم می‌باشد.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n🔴\nدنیل گرا، مدافع راست پرسپولیس علاقه به شعر و کتاب دارد و شاید باور نکنید اما او تا حالا 100 کسشر سروده و در حال نوشتن یک کتاب هم می‌باشد.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/234621",
-        "post_id": 234621,
-        "message_id": 5787,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-03T11:01:53.720740+00:00"
-      },
-      {
-        "fingerprint": "e252ad7604736633b3f9a88ed9b0d43110e5cbe0f60f0f0462b4ccfc448c5579",
-        "media_fingerprint": "d704f52e3969dec1f92417859436e82529268ab6b7adf0007b7a8d27c83b4cf4",
-        "text": "تو یه ایستگاه آتش نشانی تو آمریکا یه لامپ هست که از سال ۱۹۰۱ روشنه!\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "تو یه ایستگاه آتش نشانی تو آمریکا یه لامپ هست که از سال ۱۹۰۱ روشنه!\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52635",
-        "post_id": 52635,
-        "message_id": 5788,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-03T11:02:00.597760+00:00"
-      },
       {
         "fingerprint": "808ffea62d0efe97701ce41331b90f598d5f730a61c0351efe026c89436eb226",
         "media_fingerprint": "",
@@ -31090,7 +30979,8 @@
         "message_id": 6793,
         "message_kind": "text",
         "sources": [
-          "ajayebe_jahann"
+          "ajayebe_jahann",
+          "akhbarfars"
         ],
         "created_at": "2026-10-06T16:22:41.389282+00:00"
       },
@@ -31828,6 +31718,141 @@
           "jaleb"
         ],
         "created_at": "2026-10-06T18:52:46.685527+00:00"
+      },
+      {
+        "fingerprint": "da850f1a8a71a907f192122293a5e4cc0736b3743362a767ebdda4da5b1346f4",
+        "media_fingerprint": "",
+        "text": "چیزی که سال پیش برات مهم بود، ممکنه امروز نباشه.\nرابطه‌ای که زمانی برات مناسب بود، ممکنه دیگه نباشه.\nشغلی که زمانی رؤیات بود، ممکنه دیگه خوشحالت نکنه.\nحتی تصویری که از خودِ ایده‌آلت داشتی، ممکنه تغییر کنه.\nتغییر کردن همیشه نشونه گم کردن خودت نیست. گاهی بخشی از پیدا کردن خودته.\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "چیزی که سال پیش برات مهم بود، ممکنه امروز نباشه.\nرابطه‌ای که زمانی برات مناسب بود، ممکنه دیگه نباشه.\nشغلی که زمانی رؤیات بود، ممکنه دیگه خوشحالت نکنه.\nحتی تصویری که از خودِ ایده‌آلت داشتی، ممکنه تغییر کنه.\nتغییر کردن همیشه نشونه گم کردن خودت نیست. گاهی بخشی از پیدا کردن خودته.\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306820",
+        "post_id": 306820,
+        "message_id": 6848,
+        "message_kind": "text",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-06T19:18:36.969063+00:00"
+      },
+      {
+        "fingerprint": "f21cb555b5be3263316c5306e7cd3c0257f323cae2427cace0e3be262133a651",
+        "media_fingerprint": "81428cdf05ef8f5fd18439afd51f57ac8f706f6111257940ec701d17c4716aa5",
+        "text": "هشدار متخصص عفونی درباره پیک پاییزی بیماری‌های تنفسی\n◽️\nآنتی‌بیوتیک، درمان عفونت‌های ویروسی نیست؛تب و بدن درد ناگهانی را جدی بگیرید.\n◽️\nمتخصص بیماری‌های عفونی و گرمسیری با تأکید بر ضرورت پرهیز از مصرف خودسرانه آنتی‌بیوتیک‌ها گفت:بخش قابل توجهی از عفونت‌های حاد تنفسی منشأ ویروسی دارند و آنتی‌بیوتیک‌ها در درمان این بیماری‌ها مؤثر نیستند.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "هشدار متخصص عفونی درباره پیک پاییزی بیماری‌های تنفسی\n◽️\nآنتی‌بیوتیک، درمان عفونت‌های ویروسی نیست؛تب و بدن درد ناگهانی را جدی بگیرید.\n◽️\nمتخصص بیماری‌های عفونی و گرمسیری با تأکید بر ضرورت پرهیز از مصرف خودسرانه آنتی‌بیوتیک‌ها گفت:بخش قابل توجهی از عفونت‌های حاد تنفسی منشأ ویروسی دارند و آنتی‌بیوتیک‌ها در درمان این بیماری‌ها مؤثر نیستند.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38642",
+        "post_id": 38642,
+        "message_id": 6849,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-06T19:18:43.034972+00:00"
+      },
+      {
+        "fingerprint": "a0836ba15e98475fb4ccafda72f002fec075b292aa5d3c869fe88c64599012ad",
+        "media_fingerprint": "",
+        "text": "♦️\nسازمان حج و زیارت: اعزام هوایی کاروان‌های عتبات تا ۱۰ روز آینده آغاز می‌شود؛ پروازهای ایران به نجف نیز پس از وقفه‌ای ۱۰ روزه از سر گرفته شده است.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nسازمان حج و زیارت: اعزام هوایی کاروان‌های عتبات تا ۱۰ روز آینده آغاز می‌شود؛ پروازهای ایران به نجف نیز پس از وقفه‌ای ۱۰ روزه از سر گرفته شده است.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143196",
+        "post_id": 143196,
+        "message_id": 6850,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-06T19:18:46.245729+00:00"
+      },
+      {
+        "fingerprint": "3a7db10076c30ce1b8bd1c7a37d9984106c145abb1e93245a9dd66f86b83548e",
+        "media_fingerprint": "e26abcafa9664ccc69c7b75613c94312da953d48146fa2c16ae293f208ac0d6d",
+        "text": "ویدیو وایرال شده از یه صاحب کافه که برای اینکه قلیون هاش از صفری دربیاره با خلاقیتش وصل کرده به جاروبرقی\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "ویدیو وایرال شده از یه صاحب کافه که برای اینکه قلیون هاش از صفری دربیاره با خلاقیتش وصل کرده به جاروبرقی\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162872",
+        "post_id": 162872,
+        "message_id": 6851,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-06T19:18:54.344970+00:00"
+      },
+      {
+        "fingerprint": "f0801bf347926be02d7de328036b28eaa2026ab8a1143e2eb058a926eeb887e6",
+        "media_fingerprint": "772d55042ec9abfdd88ea92dc86052fe320239bef5d1664e1ec56bf55afdd8cf",
+        "text": "این خوب بود\n😁\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "این خوب بود\n😁\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162873",
+        "post_id": 162873,
+        "message_id": 6852,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-06T19:19:01.671887+00:00"
+      },
+      {
+        "fingerprint": "87194dc5cea280b2e07360420a0745638aac78f580ae90a1e46492a35e56b9f4",
+        "media_fingerprint": "b51131e412545d7b7f7b894b952671fe4643173acc30a81d0c1dee1b5a71eb33",
+        "text": "🔴\nهمتی، رئیس بانک مرکزی :\nتو 6 ماه اول سال، اقدام مهم ما کنترل تورم بود.\nهمچنین تلاش کردیم تو شرایط پرفشار، کالاهای اساسی، دارو، معیشت مردم و مواد اولیه کارخانجات رو تأمین کنیم.\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nهمتی، رئیس بانک مرکزی :\nتو 6 ماه اول سال، اقدام مهم ما کنترل تورم بود.\nهمچنین تلاش کردیم تو شرایط پرفشار، کالاهای اساسی، دارو، معیشت مردم و مواد اولیه کارخانجات رو تأمین کنیم.\n@DrTeL",
+        "original_link": "https://t.me/drtel/67429",
+        "post_id": 67429,
+        "message_id": 6853,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-06T19:19:09.045001+00:00"
+      },
+      {
+        "fingerprint": "da5888af818b1ca13882395384ef4492361c1c7238b2f2c7581d068add4d849d",
+        "media_fingerprint": "e1df61d8e94b693ae9692748697a71283f1af0aa0cd5d802e21d346a2a3ab92d",
+        "text": "چند ساعت از روز سرت توی گوشیه؟!\n📱\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "چند ساعت از روز سرت توی گوشیه؟!\n📱\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/159575",
+        "post_id": 159575,
+        "message_id": 6854,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-06T19:19:15.972422+00:00"
+      },
+      {
+        "fingerprint": "c349bd61995fa37cf6fa72dfd89f1f4b88daf58edd783ac69cae458cfc344811",
+        "media_fingerprint": "",
+        "text": "🚨\n🚨\n🚨\n#اختصاصی_آداک\n🚨\n🚨\n🔴\nمدیریت پرسپولیس قاطعانه به فدراسیون فوتبال اعلام کرده تا آخر، پرونده آسانی را پیگیری می‌کند.\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🚨\n🚨\n🚨\n#اختصاصی_آداک\n🚨\n🚨\n🔴\nمدیریت پرسپولیس قاطعانه به فدراسیون فوتبال اعلام کرده تا آخر، پرونده آسانی را پیگیری می‌کند.\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/234822",
+        "post_id": 234822,
+        "message_id": 6855,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-06T19:19:19.110219+00:00"
+      },
+      {
+        "fingerprint": "d666938abb796539dcc325c63e2f54f3324ba44fdf61d588d5ac1858fc198938",
+        "media_fingerprint": "733b52df137d99f658eb958de29ff02e08cf5b3e7a9703ab9dcdbf551f2de620",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26352",
+        "post_id": 26352,
+        "message_id": 6856,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-06T19:19:24.716708+00:00"
       }
     ]
   }
