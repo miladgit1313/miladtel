@@ -1907,10 +1907,8 @@
       "sent_count": 71
     },
     "footballvision2": {
-      "last_id": 170520,
+      "last_id": 170522,
       "processed_ids": [
-        169442,
-        169443,
         169444,
         169445,
         169446,
@@ -2908,7 +2906,9 @@
         170517,
         170518,
         170519,
-        170520
+        170520,
+        170521,
+        170522
       ],
       "sent_count": 72
     },
@@ -3132,7 +3132,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67437,
+      "last_id": 67439,
       "processed_ids": [
         66561,
         66565,
@@ -3820,7 +3820,9 @@
         67434,
         67435,
         67436,
-        67437
+        67437,
+        67438,
+        67439
       ],
       "sent_count": 399
     },
@@ -5275,7 +5277,7 @@
       "sent_count": 329
     },
     "comentiat": {
-      "last_id": 26353,
+      "last_id": 26355,
       "processed_ids": [
         25844,
         25845,
@@ -5688,9 +5690,11 @@
         26350,
         26351,
         26352,
-        26353
+        26353,
+        26354,
+        26355
       ],
-      "sent_count": 298
+      "sent_count": 299
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -8165,12 +8169,8 @@
       "sent_count": 48
     },
     "ft360_ir": {
-      "last_id": 109187,
+      "last_id": 109192,
       "processed_ids": [
-        108107,
-        108108,
-        108109,
-        108110,
         108111,
         108112,
         108113,
@@ -9166,15 +9166,17 @@
         109184,
         109185,
         109186,
-        109187
+        109187,
+        109188,
+        109189,
+        109190,
+        109192
       ],
       "sent_count": 65
     },
     "varzesh3": {
-      "last_id": 303496,
+      "last_id": 303498,
       "processed_ids": [
-        302394,
-        302395,
         302396,
         302397,
         302398,
@@ -10172,7 +10174,9 @@
         303493,
         303494,
         303495,
-        303496
+        303496,
+        303497,
+        303498
       ],
       "sent_count": 49
     },
@@ -16836,22 +16840,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "4a77dbed0eb757803dc83468e5623726e012b73a6e818329aecd9313d57f72a4",
-        "media_fingerprint": "0c0617fcfeb00abe141d54b88b6f6f162e2aa4c1ec4383d746a1c2a66738d477",
-        "text": "توزیع بسته های حمایتی لوازم مصرفی خودرو در سامانه جامع\nشروع طرح از ساعت ۱۰ صبح روز شنبه ۱۱ مهر ماه تا اتمام موجودی\nامکان دریافت نقدی و اقساطی\nهموطنان گرامی می‌توانند با مراجعه به سامانه رسمی ایرانکو اقلام مصرفی حمایتی خود را به نرخ مصوب با محدودیت کد‌ملی دریافت نمایند.\nwww.iranko.ir\n.",
-        "original_username": "khandehabadd",
-        "original_text": "توزیع بسته های حمایتی لوازم مصرفی خودرو در سامانه جامع\nشروع طرح از ساعت ۱۰ صبح روز شنبه ۱۱ مهر ماه تا اتمام موجودی\nامکان دریافت نقدی و اقساطی\nهموطنان گرامی می‌توانند با مراجعه به سامانه رسمی ایرانکو اقلام مصرفی حمایتی خود را به نرخ مصوب با محدودیت کد‌ملی دریافت نمایند.\nwww.iranko.ir\n.",
-        "original_link": "https://t.me/khandehabadd/306724",
-        "post_id": 306724,
-        "message_id": 5821,
-        "message_kind": "caption",
-        "sources": [
-          "khandehabadd",
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-03T14:36:19.484518+00:00"
-      },
       {
         "fingerprint": "e59191abff8ce0b6c201a11d4cab3784ae8d06cbaac10ef6dc65c704d34c5bd6",
         "media_fingerprint": "3fda3dca771fb2de884c5b5d1f77442935ce573e842daea7c445c3a2863133cf",
@@ -31923,6 +31911,21 @@
           "comentiat"
         ],
         "created_at": "2026-10-06T22:19:04.345392+00:00"
+      },
+      {
+        "fingerprint": "e41242f3496dc324bc09b8472dc81a4cc597dad5878d6446caf5d36ede4d2bbe",
+        "media_fingerprint": "cafecf02d3f8ebb30b2e8d979dc8447479c7eaa0041cf0db93e2f55d0f00ebdd",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26355",
+        "post_id": 26355,
+        "message_id": 6882,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-06T23:17:30.600374+00:00"
       }
     ]
   }
