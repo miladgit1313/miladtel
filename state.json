@@ -1007,7 +1007,7 @@
       "sent_count": 695
     },
     "total_fut": {
-      "last_id": 237294,
+      "last_id": 237297,
       "processed_ids": [
         236405,
         236407,
@@ -1857,18 +1857,16 @@
         237291,
         237292,
         237293,
-        237294
+        237294,
+        237295,
+        237296,
+        237297
       ],
       "sent_count": 64
     },
     "footballvision2": {
-      "last_id": 170470,
+      "last_id": 170475,
       "processed_ids": [
-        169389,
-        169392,
-        169393,
-        169394,
-        169395,
         169396,
         169397,
         169398,
@@ -2863,7 +2861,12 @@
         170467,
         170468,
         170469,
-        170470
+        170470,
+        170471,
+        170472,
+        170473,
+        170474,
+        170475
       ],
       "sent_count": 72
     },
@@ -4199,7 +4202,7 @@
       "sent_count": 78
     },
     "coffeenetmanager": {
-      "last_id": 51740,
+      "last_id": 51741,
       "processed_ids": [
         51537,
         51538,
@@ -4386,9 +4389,10 @@
         51734,
         51735,
         51736,
-        51740
+        51740,
+        51741
       ],
-      "sent_count": 70
+      "sent_count": 71
     },
     "roidbest": {
       "last_id": 21791,
@@ -4570,7 +4574,7 @@
       "sent_count": 106
     },
     "akhbar_cafenet": {
-      "last_id": 23016,
+      "last_id": 23018,
       "processed_ids": [
         22432,
         22433,
@@ -5127,7 +5131,9 @@
         23013,
         23014,
         23015,
-        23016
+        23016,
+        23017,
+        23018
       ],
       "sent_count": 316
     },
@@ -7902,9 +7908,8 @@
       "sent_count": 46
     },
     "ft360_ir": {
-      "last_id": 109108,
+      "last_id": 109109,
       "processed_ids": [
-        108032,
         108033,
         108034,
         108035,
@@ -8903,12 +8908,13 @@
         109105,
         109106,
         109107,
-        109108
+        109108,
+        109109
       ],
       "sent_count": 62
     },
     "varzesh3": {
-      "last_id": 303446,
+      "last_id": 303447,
       "processed_ids": [
         302363,
         302364,
@@ -9886,12 +9892,13 @@
         303443,
         303444,
         303445,
-        303446
+        303446,
+        303447
       ],
       "sent_count": 48
     },
     "totalfut_plus": {
-      "last_id": 26475,
+      "last_id": 26478,
       "processed_ids": [
         25870,
         25871,
@@ -10482,12 +10489,15 @@
         26471,
         26472,
         26473,
-        26475
+        26475,
+        26476,
+        26477,
+        26478
       ],
       "sent_count": 32
     },
     "adak_ir_official": {
-      "last_id": 234786,
+      "last_id": 234788,
       "processed_ids": [
         233831,
         233833,
@@ -11424,17 +11434,15 @@
         234783,
         234784,
         234785,
-        234786
+        234786,
+        234787,
+        234788
       ],
-      "sent_count": 118
+      "sent_count": 119
     },
     "futball180tv": {
-      "last_id": 107904,
+      "last_id": 107908,
       "processed_ids": [
-        106888,
-        106889,
-        106890,
-        106891,
         106892,
         106893,
         106894,
@@ -12430,12 +12438,16 @@
         107901,
         107902,
         107903,
-        107904
+        107904,
+        107905,
+        107906,
+        107907,
+        107908
       ],
       "sent_count": 43
     },
     "hattric_official": {
-      "last_id": 84313,
+      "last_id": 84314,
       "processed_ids": [
         83433,
         83434,
@@ -13265,7 +13277,8 @@
         84310,
         84311,
         84312,
-        84313
+        84313,
+        84314
       ],
       "sent_count": 58
     },
@@ -15601,7 +15614,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306798,
+      "last_id": 306799,
       "processed_ids": [
         306563,
         306564,
@@ -15834,9 +15847,10 @@
         306795,
         306796,
         306797,
-        306798
+        306798,
+        306799
       ],
-      "sent_count": 102
+      "sent_count": 103
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -15988,7 +16002,7 @@
       "sent_count": 35
     },
     "yejoorayi": {
-      "last_id": 493,
+      "last_id": 494,
       "processed_ids": [
         426,
         427,
@@ -16056,9 +16070,10 @@
         490,
         491,
         492,
-        493
+        493,
+        494
       ],
-      "sent_count": 62
+      "sent_count": 63
     },
     "onlinecofe_ir": {
       "last_id": 2887,
@@ -16212,7 +16227,7 @@
       "sent_count": 26
     },
     "peach_tweet": {
-      "last_id": 2902,
+      "last_id": 2903,
       "processed_ids": [
         2745,
         2749,
@@ -16304,88 +16319,14 @@
         2898,
         2900,
         2901,
-        2902
+        2902,
+        2903
       ],
-      "sent_count": 55
+      "sent_count": 56
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "e349cd77b76fccbf610f0a6056032a5e499d4ef310eefffa39aacd83c6b58de5",
-        "media_fingerprint": "a6dfe604b25e4a2cf8eea1a21b7c03e97e70ac9f1645bfb7a833f6d8404c3c09",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26241",
-        "post_id": 26241,
-        "message_id": 5579,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-02T18:02:07.950230+00:00"
-      },
-      {
-        "fingerprint": "c2536e274afcdd2dac2bb0c357726c721d0d45afe5779b0e08a5aa9c6ad25187",
-        "media_fingerprint": "c2f2511126786669523496107248c4b7487c7744b4ae54380dfb29f509889ba3",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26242",
-        "post_id": 26242,
-        "message_id": 5580,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-02T18:02:12.433117+00:00"
-      },
-      {
-        "fingerprint": "09e43864a9bb14ebfb2639072bbb54d42be88ee50e210aeecf8412cc463775c4",
-        "media_fingerprint": "a1eb9f5ae2f3125084c84043cd62d2d90d32cfe59a74a9fd1031b90630d90ac6",
-        "text": "🔹\nفونیکولار گلمرباهن، سوئیس\nیک راه آهن تاریخی در رشته کوه های آلپ سوئیس است که مناظر خیره کننده ای از کوه ها و دره های اطراف را ارائه می دهد. این راه‌آهن یکی از پرشیب‌ترین راه‌آهن‌های فونیکولار در جهان محسوب می‌شود و یک جاذبه محبوب برای گردشگران و افراد محلی است.\n*فونیکولار» (Funicular) یا به اصطلاح قطار کابلی، وسیله‌ای است که هم از تکنولوژی یک بالابر و هم از تکنولوژی راه آهن استفاده می‌کند.\n🌐\n@ScienticNews",
-        "original_username": "scienticnews",
-        "original_text": "🔹\nفونیکولار گلمرباهن، سوئیس\nیک راه آهن تاریخی در رشته کوه های آلپ سوئیس است که مناظر خیره کننده ای از کوه ها و دره های اطراف را ارائه می دهد. این راه‌آهن یکی از پرشیب‌ترین راه‌آهن‌های فونیکولار در جهان محسوب می‌شود و یک جاذبه محبوب برای گردشگران و افراد محلی است.\n*فونیکولار» (Funicular) یا به اصطلاح قطار کابلی، وسیله‌ای است که هم از تکنولوژی یک بالابر و هم از تکنولوژی راه آهن استفاده می‌کند.\n🌐\n@ScienticNews",
-        "original_link": "https://t.me/ScienticNews/22533",
-        "post_id": 22533,
-        "message_id": 5581,
-        "message_kind": "caption",
-        "sources": [
-          "scienticnews"
-        ],
-        "created_at": "2026-10-02T18:02:20.082749+00:00"
-      },
-      {
-        "fingerprint": "33694455475de54a6edc9afe0c77cc6d5a711a517c2a0dbc0bd3a14dcf88b0f1",
-        "media_fingerprint": "",
-        "text": "⭕️\nطبق گفته حسن‌پور خبرنگار خبرگزاری فارس، فردا در نشست خبری رئیس سازمان سنجش رتبه‌های برتر کنکور ۱۴۰۵ معرفی خواهند شد.\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "⭕️\nطبق گفته حسن‌پور خبرنگار خبرگزاری فارس، فردا در نشست خبری رئیس سازمان سنجش رتبه‌های برتر کنکور ۱۴۰۵ معرفی خواهند شد.\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22870",
-        "post_id": 22870,
-        "message_id": 5582,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-02T18:31:18.034017+00:00"
-      },
-      {
-        "fingerprint": "3e5e55334967118ad21edd0bdecf8489d4eb5dc45c650dc9e58a4bec316df22d",
-        "media_fingerprint": "",
-        "text": "⭕️\nطبق گفته حسن‌پور خبرنگار خبرگزاری فارس، فردا در نشست خبری رئیس سازمان سنجش رتبه‌های برتر کنکور ۱۴۰۵ معرفی خواهند شد.\n✦✦✦ آنلاین کافه ✦✦✦\nکانال تلگرام :\n@onlinecofe_ir\nوبلاگ اخبار :\nonlinecofe.ir/news",
-        "original_username": "onlinecofe_ir",
-        "original_text": "⭕️\nطبق گفته حسن‌پور خبرنگار خبرگزاری فارس، فردا در نشست خبری رئیس سازمان سنجش رتبه‌های برتر کنکور ۱۴۰۵ معرفی خواهند شد.\n✦✦✦ آنلاین کافه ✦✦✦\nکانال تلگرام :\n@onlinecofe_ir\nوبلاگ اخبار :\nonlinecofe.ir/news",
-        "original_link": "https://t.me/onlinecofe_ir/2879",
-        "post_id": 2879,
-        "message_id": 5583,
-        "message_kind": "text",
-        "sources": [
-          "onlinecofe_ir"
-        ],
-        "created_at": "2026-10-02T18:31:20.910201+00:00"
-      },
       {
         "fingerprint": "93901e636b18c4eee981c806827ce236305c841eb01e3b68cc651e1f13fc0928",
         "media_fingerprint": "",
@@ -31388,6 +31329,81 @@
           "irwonders"
         ],
         "created_at": "2026-10-06T07:21:35.946184+00:00"
+      },
+      {
+        "fingerprint": "e3d554eea4847ac50c869cdd967ecbf466c637b3208f7e3fc8cf559f6d95f74b",
+        "media_fingerprint": "2c76ec4ef3f8d36fca00147fa31ed1295eae27487ecb21072dc7d44aab5674ad",
+        "text": "وقتی یچیزی رو فقط از دور دوست داری\n🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "وقتی یچیزی رو فقط از دور دوست داری\n🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/494",
+        "post_id": 494,
+        "message_id": 6645,
+        "message_kind": "caption",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-06T07:49:30.126171+00:00"
+      },
+      {
+        "fingerprint": "7c9e0a093afffb64bd20207acd6185016e00142215be4255bb2b9aa9c0fa7068",
+        "media_fingerprint": "12d3229efe3a6b11b9f5fe8f8ddbb3b91bf23f57f256c82baaf4ade836af643c",
+        "text": "🔰\n1 شوش ...",
+        "original_username": "coffeenetmanager",
+        "original_text": "🔰\n1 شوش ...",
+        "original_link": "https://t.me/CoffeenetManager/51741",
+        "post_id": 51741,
+        "message_id": 6646,
+        "message_kind": "caption",
+        "sources": [
+          "coffeenetmanager"
+        ],
+        "created_at": "2026-10-06T07:49:37.204488+00:00"
+      },
+      {
+        "fingerprint": "28cf5bb95f05256c0a4bdebf96f1f0e370aeabc56eec20e7189e500f441071ee",
+        "media_fingerprint": "b187685f595c8a9f11a261e36e12b443a7d557c738f8ac121fc1aeaae9128644",
+        "text": "یه صبح بخیر تو دل طبیعت :\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "یه صبح بخیر تو دل طبیعت :\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/2903",
+        "post_id": 2903,
+        "message_id": 6647,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-06T07:49:41.331260+00:00"
+      },
+      {
+        "fingerprint": "f7e86267d068fbdfd8e3095d4c276204de069a421bebdde0ad4ba6c98f703c64",
+        "media_fingerprint": "",
+        "text": "🚨\nاحمد محمدی داور پرسپولیس - نفت آبادان شد.\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🚨\nاحمد محمدی داور پرسپولیس - نفت آبادان شد.\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/234787",
+        "post_id": 234787,
+        "message_id": 6648,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-06T07:49:44.095965+00:00"
+      },
+      {
+        "fingerprint": "2c395338e688d40145ce3454c478c2bfb426cd56d19277ebbdbe38049773e3ca",
+        "media_fingerprint": "50c4b4c29389b4c84484d16f73a59d5235838abcf7547ee1f55f7acea0edd1ac",
+        "text": "خواستن، توانستن است دوستان\n👌\n👌\n‌\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "خواستن، توانستن است دوستان\n👌\n👌\n‌\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306799",
+        "post_id": 306799,
+        "message_id": 6649,
+        "message_kind": "text",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-06T07:49:47.806663+00:00"
       }
     ]
   }
