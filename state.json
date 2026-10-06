@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143151,
+      "last_id": 143153,
       "processed_ids": [
-        142064,
-        142065,
         142066,
         142067,
         142068,
@@ -1002,12 +1000,14 @@
         143148,
         143149,
         143150,
-        143151
+        143151,
+        143152,
+        143153
       ],
-      "sent_count": 699
+      "sent_count": 701
     },
     "total_fut": {
-      "last_id": 237311,
+      "last_id": 237312,
       "processed_ids": [
         236405,
         236407,
@@ -1872,15 +1872,14 @@
         237307,
         237308,
         237310,
-        237311
+        237311,
+        237312
       ],
       "sent_count": 67
     },
     "footballvision2": {
-      "last_id": 170482,
+      "last_id": 170484,
       "processed_ids": [
-        169403,
-        169404,
         169405,
         169406,
         169407,
@@ -2878,7 +2877,9 @@
         170479,
         170480,
         170481,
-        170482
+        170482,
+        170483,
+        170484
       ],
       "sent_count": 72
     },
@@ -3098,7 +3099,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67415,
+      "last_id": 67419,
       "processed_ids": [
         66561,
         66565,
@@ -3766,9 +3767,11 @@
         67412,
         67413,
         67414,
-        67415
+        67415,
+        67416,
+        67419
       ],
-      "sent_count": 388
+      "sent_count": 389
     },
     "techtube": {
       "last_id": 18448,
@@ -4611,7 +4614,7 @@
       "sent_count": 107
     },
     "akhbar_cafenet": {
-      "last_id": 23037,
+      "last_id": 23039,
       "processed_ids": [
         22432,
         22433,
@@ -5189,9 +5192,11 @@
         23034,
         23035,
         23036,
-        23037
+        23037,
+        23038,
+        23039
       ],
-      "sent_count": 322
+      "sent_count": 323
     },
     "comentiat": {
       "last_id": 26347,
@@ -5821,7 +5826,7 @@
       "sent_count": 127
     },
     "gizmiztel": {
-      "last_id": 162851,
+      "last_id": 162853,
       "processed_ids": [
         161872,
         161875,
@@ -6705,9 +6710,11 @@
         162848,
         162849,
         162850,
-        162851
+        162851,
+        162852,
+        162853
       ],
-      "sent_count": 578
+      "sent_count": 580
     },
     "dr_salamatx": {
       "last_id": 55358,
@@ -8010,9 +8017,8 @@
       "sent_count": 46
     },
     "ft360_ir": {
-      "last_id": 109122,
+      "last_id": 109123,
       "processed_ids": [
-        108046,
         108047,
         108048,
         108049,
@@ -9011,12 +9017,13 @@
         109119,
         109120,
         109121,
-        109122
+        109122,
+        109123
       ],
       "sent_count": 63
     },
     "varzesh3": {
-      "last_id": 303457,
+      "last_id": 303458,
       "processed_ids": [
         302363,
         302364,
@@ -10004,7 +10011,8 @@
         303454,
         303455,
         303456,
-        303457
+        303457,
+        303458
       ],
       "sent_count": 48
     },
@@ -11575,9 +11583,8 @@
       "sent_count": 120
     },
     "futball180tv": {
-      "last_id": 107922,
+      "last_id": 107923,
       "processed_ids": [
-        106906,
         106907,
         106908,
         106909,
@@ -12576,12 +12583,13 @@
         107919,
         107920,
         107921,
-        107922
+        107922,
+        107923
       ],
       "sent_count": 45
     },
     "hattric_official": {
-      "last_id": 84325,
+      "last_id": 84326,
       "processed_ids": [
         83433,
         83434,
@@ -13422,12 +13430,13 @@
         84322,
         84323,
         84324,
-        84325
+        84325,
+        84326
       ],
       "sent_count": 59
     },
     "mazdak_hattrick": {
-      "last_id": 182377,
+      "last_id": 182379,
       "processed_ids": [
         181991,
         181992,
@@ -13810,7 +13819,8 @@
         182374,
         182375,
         182376,
-        182377
+        182377,
+        182379
       ],
       "sent_count": 30
     },
@@ -13908,7 +13918,7 @@
       "sent_count": 0
     },
     "khooroosjangi": {
-      "last_id": 85732,
+      "last_id": 85733,
       "processed_ids": [
         85726,
         85727,
@@ -13916,12 +13926,13 @@
         85729,
         85730,
         85731,
-        85732
+        85732,
+        85733
       ],
       "sent_count": 2
     },
     "irwonders": {
-      "last_id": 58380,
+      "last_id": 58381,
       "processed_ids": [
         58030,
         58031,
@@ -14229,9 +14240,10 @@
         58377,
         58378,
         58379,
-        58380
+        58380,
+        58381
       ],
-      "sent_count": 198
+      "sent_count": 199
     },
     "razcom": {
       "last_id": 70482,
@@ -16408,7 +16420,7 @@
       "sent_count": 28
     },
     "peach_tweet": {
-      "last_id": 2914,
+      "last_id": 2915,
       "processed_ids": [
         2745,
         2749,
@@ -16505,135 +16517,14 @@
         2904,
         2905,
         2909,
-        2914
+        2914,
+        2915
       ],
-      "sent_count": 59
+      "sent_count": 60
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "f5a0f977a7aef45288c59cac119834345c74888959bde9159a637aeda60bda2a",
-        "media_fingerprint": "f6c1347b62f5266271113a548f86481b786731631e6bb3716254df7d46aede49",
-        "text": "🔴\nاشتراک فیلمای پورن بانو Comatozze(رنک اول پورن هاب )رو خریدم و داخل ربات اپلود کردم فقط مراقب باشید تشنج نکنید چون تمیز ترین صورتیه ایه که تو عمرتون دیدید\n🍓\nمشاهده فیلم بانو",
-        "original_username": "peach_tweet",
-        "original_text": "🔴\nاشتراک فیلمای پورن بانو Comatozze(رنک اول پورن هاب )رو خریدم و داخل ربات اپلود کردم فقط مراقب باشید تشنج نکنید چون تمیز ترین صورتیه ایه که تو عمرتون دیدید\n🍓\nمشاهده فیلم بانو",
-        "original_link": "https://t.me/peach_tweet/2800",
-        "post_id": 2800,
-        "message_id": null,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-02T20:36:10.749268+00:00"
-      },
-      {
-        "fingerprint": "67a04a65b4a1a8dbb6aad1569120d48dba8beed37b5437695ee2cd112c264fbc",
-        "media_fingerprint": "fb342f559ddecadb6319579b93fb9376a978848d5b3a64e699d0cf6bcf117b23",
-        "text": "تفاوت دید چشم سالم و افراد نزدیک بین\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_username": "majalepezeshki",
-        "original_text": "تفاوت دید چشم سالم و افراد نزدیک بین\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_link": "https://t.me/MajalePezeshki/38594",
-        "post_id": 38594,
-        "message_id": 5665,
-        "message_kind": "caption",
-        "sources": [
-          "majalepezeshki"
-        ],
-        "created_at": "2026-10-02T20:54:53.233877+00:00"
-      },
-      {
-        "fingerprint": "3298f732542ab2ed211f1591f1cfbe7f8b437e616ad352acc6b54c445774d553",
-        "media_fingerprint": "1ea5a0388f4f7a3327d58b89965d8b2296c231569678c1c9e1d0f54d5e5b3296",
-        "text": "امروز 3 October، روز دوست پسره؛\nاین روز رو به پسر کوچولوی زندگیت تبریک بگو.\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "امروز 3 October، روز دوست پسره؛\nاین روز رو به پسر کوچولوی زندگیت تبریک بگو.\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/2807",
-        "post_id": 2807,
-        "message_id": 5666,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet",
-          "comentiat",
-          "drtel"
-        ],
-        "created_at": "2026-10-02T20:54:57.066138+00:00"
-      },
-      {
-        "fingerprint": "562a0d1193891940f2fad42033b62c6c544a3d81fc3be8a387f491d5007d4ff4",
-        "media_fingerprint": "",
-        "text": "ای کسکش، باز تو تلگرام نقشم لو رفت",
-        "original_username": "drtel",
-        "original_text": "ای کسکش، باز تو تلگرام نقشم لو رفت",
-        "original_link": "https://t.me/drtel/67244",
-        "post_id": 67244,
-        "message_id": 5667,
-        "message_kind": "text",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-02T21:16:18.720193+00:00"
-      },
-      {
-        "fingerprint": "20e19182b7c6823f7014ff4b5a6b2fac0288de1bc5a82a27b523f407e8cd21d1",
-        "media_fingerprint": "",
-        "text": "📶\nقوی ترین v2ray که تو بدترین شرایط وصله\nاتصال به کانفینگ",
-        "original_username": "peach_tweet",
-        "original_text": "📶\nقوی ترین v2ray که تو بدترین شرایط وصله\nاتصال به کانفینگ",
-        "original_link": "https://t.me/peach_tweet/2810",
-        "post_id": 2810,
-        "message_id": 5668,
-        "message_kind": "text",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-02T21:16:21.156238+00:00"
-      },
-      {
-        "fingerprint": "0ef493fa722df1a99c2e5d5ef9ac1dcb7ccbe65a0733b2ec116e6e57133080e6",
-        "media_fingerprint": "",
-        "text": "عجیب تر اینکه دقیقا همون لباس و با همون کروات رو پوشیده بود",
-        "original_username": "drtel",
-        "original_text": "عجیب تر اینکه دقیقا همون لباس و با همون کروات رو پوشیده بود",
-        "original_link": "https://t.me/drtel/67246",
-        "post_id": 67246,
-        "message_id": 5669,
-        "message_kind": "text",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-02T21:16:23.792687+00:00"
-      },
-      {
-        "fingerprint": "b3b7117ce9308f8041244b684dfd20c4e6fce9ec3b43e7c4c31879c5ba94b13a",
-        "media_fingerprint": "",
-        "text": "بابک بیا قرعه‌کشیتو شروع کن که دیگه هیچ حرفی نمونه",
-        "original_username": "drtel",
-        "original_text": "بابک بیا قرعه‌کشیتو شروع کن که دیگه هیچ حرفی نمونه",
-        "original_link": "https://t.me/drtel/67247",
-        "post_id": 67247,
-        "message_id": 5670,
-        "message_kind": "text",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-02T21:16:26.223436+00:00"
-      },
-      {
-        "fingerprint": "7e781b965b59c98de4214288a40f2b58f54d13d5afbe4346de52ac511ed1f2bc",
-        "media_fingerprint": "",
-        "text": "ولی جدا از شوخی نمیخوام جو بدم یا هیچی، دقیقاً چندمدت قبل از شروع حملات بابک غیب شده بود، الانم اگه دقت کنید قرار بود شنبه هفته قبلی قرعه کشی کنه ولی هیچ خبری ازش نیست",
-        "original_username": "drtel",
-        "original_text": "ولی جدا از شوخی نمیخوام جو بدم یا هیچی، دقیقاً چندمدت قبل از شروع حملات بابک غیب شده بود، الانم اگه دقت کنید قرار بود شنبه هفته قبلی قرعه کشی کنه ولی هیچ خبری ازش نیست",
-        "original_link": "https://t.me/drtel/67248",
-        "post_id": 67248,
-        "message_id": 5671,
-        "message_kind": "text",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-02T21:16:29.101814+00:00"
-      },
       {
         "fingerprint": "3c32758e53a4289c45ab63df60b0bbd9c944a621a30b0cb0441c0849cb9549bf",
         "media_fingerprint": "d56dc79b3640eb3454161da0a145337259017579ed43085f850e273fcf00302f",
@@ -31590,6 +31481,127 @@
           "comentiat"
         ],
         "created_at": "2026-10-06T12:25:22.781782+00:00"
+      },
+      {
+        "fingerprint": "1e7afefbf7d7b8eaaab5fc586136d32b65500ba15b513fc77c3811e44bacdd7b",
+        "media_fingerprint": "72385c5762d366d41df26c98660a69d22e82970a8b79f2276e93e76564b96e09",
+        "text": "این ویدیو از یه آقا پسر که بشدت از مشق نوشتن راضیه خیلی وایرال شده!\nاین می‌دونه ۱۲ سال باید بره مدرسه؟\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "این ویدیو از یه آقا پسر که بشدت از مشق نوشتن راضیه خیلی وایرال شده!\nاین می‌دونه ۱۲ سال باید بره مدرسه؟\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162852",
+        "post_id": 162852,
+        "message_id": 6732,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-06T12:52:54.073889+00:00"
+      },
+      {
+        "fingerprint": "ab6461fcbcbe411145b0af80dd34cd2330f436a5b1cb6c586abc4ddfe9c57646",
+        "media_fingerprint": "6e554bc6b848dd6eaf4059e3ddaa1bd207b64dc6e756520243ccfd250309b400",
+        "text": "این ۳ قلوها به اسم محمد، زهرا و مهدیس احمدزاده اهل گیلان، هر سه تاشون رتبه برتر کنکور تجربی شدن!\nمحمد: رتبه ۱۹\nمهدیس: رتبه ۱۳۲\nزهرا: رتبه ۱۳۳\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "این ۳ قلوها به اسم محمد، زهرا و مهدیس احمدزاده اهل گیلان، هر سه تاشون رتبه برتر کنکور تجربی شدن!\nمحمد: رتبه ۱۹\nمهدیس: رتبه ۱۳۲\nزهرا: رتبه ۱۳۳\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162853",
+        "post_id": 162853,
+        "message_id": 6733,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel",
+          "khooroosjangi"
+        ],
+        "created_at": "2026-10-06T12:52:58.467003+00:00"
+      },
+      {
+        "fingerprint": "848272c7c4f5ec78422df688912a8ad6a895057d7c6cdcbfb701aa581254eeb8",
+        "media_fingerprint": "b17225b447ba7b55278bd37dc870d546e2345bfb8445ec171d90212f8f59c605",
+        "text": "🔴\nتوی ایتا و روبیکا تصاویری از یه سلاح ایرانی\n🇮🇷\nتو مرز ایران و عراق منتشر کردن که حتی خودشونم نمیدونن دقیقاً چیه :\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nتوی ایتا و روبیکا تصاویری از یه سلاح ایرانی\n🇮🇷\nتو مرز ایران و عراق منتشر کردن که حتی خودشونم نمیدونن دقیقاً چیه :\n@DrTeL",
+        "original_link": "https://t.me/drtel/67416",
+        "post_id": 67416,
+        "message_id": 6734,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-06T12:53:04.038563+00:00"
+      },
+      {
+        "fingerprint": "a2dc8ab2ce2a1dcca62aab6149de4d5c0bbc2a6afecd74b1bfd6d41d445ae3c3",
+        "media_fingerprint": "2f72a532ca4d87610078599319d8f2610e6c56aacfa91bb0b5bbe0d8aac721ba",
+        "text": "چی بگم والا مبارکت باشه\n👌\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "چی بگم والا مبارکت باشه\n👌\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/2915",
+        "post_id": 2915,
+        "message_id": 6735,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-06T12:53:10.535292+00:00"
+      },
+      {
+        "fingerprint": "748d05c41461a3f632e1a545eae4f65e0cf61e833655c9998b6216a5cd5dec8e",
+        "media_fingerprint": "aa840cc645b329981a95cd2751ded7b730ac22def8452d86294c3c3a367fc64b",
+        "text": "📷\nطرح «ردا» از ۱۰ روز آینده در ۲۰ دانشگاه اجرا می شود\n👨‍🎓\nرئیس سازمان امور دانشجویان وزارت علوم: طرح جامع «رداکارت» با هدف ایجاد بستری منسجم و ملی برای ارائه خدمات، تسهیلات و تخفیف‌های مختلف به دانشجویان، با مشارکت سازمان امور دانشجویان، همراه اول و یکی از بانک های عامل وارد مرحله اجرایی می‌شود.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "📷\nطرح «ردا» از ۱۰ روز آینده در ۲۰ دانشگاه اجرا می شود\n👨‍🎓\nرئیس سازمان امور دانشجویان وزارت علوم: طرح جامع «رداکارت» با هدف ایجاد بستری منسجم و ملی برای ارائه خدمات، تسهیلات و تخفیف‌های مختلف به دانشجویان، با مشارکت سازمان امور دانشجویان، همراه اول و یکی از بانک های عامل وارد مرحله اجرایی می‌شود.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23038",
+        "post_id": 23038,
+        "message_id": 6736,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-06T12:53:15.064014+00:00"
+      },
+      {
+        "fingerprint": "9d06ac531e6881ad78299a3da180bd50ca92a3c7e218d03dfd56ca25bdeaacee",
+        "media_fingerprint": "",
+        "text": "♦️\nشاخص کل با جهش ۱۸۷ هزار واحدی به مرز ۸ میلیون نزدیک شد\n🔹\nشاخص کل بورس با افزایش ۱۸۷ هزار و ۲۶۶ واحدی معادل ۲.۴ درصد به سطح ۷ میلیون و ۹۷۷ هزار و ۱۷۳ واحد رسید و بار دیگر به محدوده ۸ میلیون واحد نزدیک شد.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nشاخص کل با جهش ۱۸۷ هزار واحدی به مرز ۸ میلیون نزدیک شد\n🔹\nشاخص کل بورس با افزایش ۱۸۷ هزار و ۲۶۶ واحدی معادل ۲.۴ درصد به سطح ۷ میلیون و ۹۷۷ هزار و ۱۷۳ واحد رسید و بار دیگر به محدوده ۸ میلیون واحد نزدیک شد.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143152",
+        "post_id": 143152,
+        "message_id": 6737,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-06T12:53:18.118574+00:00"
+      },
+      {
+        "fingerprint": "23b0b4b4a9fc8dc1cd99912f65ceee1bc5def9e9c3a83969e929eb26146af121",
+        "media_fingerprint": "1f63e498bef955d9519e1048cf6ea586564857abeb851a82ac638e68a29c4808",
+        "text": "اینجا عسلویه _پایتخت اقتصادی کشور\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "اینجا عسلویه _پایتخت اقتصادی کشور\n@irWonders",
+        "original_link": "https://t.me/irwonders/58381",
+        "post_id": 58381,
+        "message_id": 6738,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-06T12:53:24.351314+00:00"
+      },
+      {
+        "fingerprint": "d3b5551539496d82403ee9ecd83cb094792bf3b8aef53e53143dbaaf4568fafd",
+        "media_fingerprint": "b5e028678bf8f1d9fb9fa5168a12c0cd9750b8ff26f9e5e3a59af06d46f91b0b",
+        "text": "🔨\nمیخ‌کوب دستی؛ یه ابزار کاربردی برای هر خونه و کارگاه!\nبرای نصب، تعمیرات و کارهای فنی دیگه لازم نیست کلی دردسر بکشید!\nبا\nمیخ‌کوب دستی\nسریع و راحت کارتون رو انجام بدید\n💪\n✨\nمناسب برای کارهای DIY، نجاری و تعمیرات\n✨\nاستفاده راحت و سریع\n✨\nکاربردی برای خونه و کارگاه\n💰\nقیمت نقدی: فقط ۱,۶۵۰,۰۰۰ تومان\n💳\nامکان خرید قسطی هم وجود داره!\nالان بخر، هزینه‌ش رو در چند قسط پرداخت کن\n😉\n🛒\nبرای خرید، همین حالا اقدام کنید؛ موجودی محدوده!\nhttps://memarket24.ir/product/fast/57235/180124/",
+        "original_username": "akhbarfars",
+        "original_text": "🔨\nمیخ‌کوب دستی؛ یه ابزار کاربردی برای هر خونه و کارگاه!\nبرای نصب، تعمیرات و کارهای فنی دیگه لازم نیست کلی دردسر بکشید!\nبا\nمیخ‌کوب دستی\nسریع و راحت کارتون رو انجام بدید\n💪\n✨\nمناسب برای کارهای DIY، نجاری و تعمیرات\n✨\nاستفاده راحت و سریع\n✨\nکاربردی برای خونه و کارگاه\n💰\nقیمت نقدی: فقط ۱,۶۵۰,۰۰۰ تومان\n💳\nامکان خرید قسطی هم وجود داره!\nالان بخر، هزینه‌ش رو در چند قسط پرداخت کن\n😉\n🛒\nبرای خرید، همین حالا اقدام کنید؛ موجودی محدوده!\nhttps://memarket24.ir/product/fast/57235/180124/",
+        "original_link": "https://t.me/akhbarfars/143153",
+        "post_id": 143153,
+        "message_id": 6739,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-06T12:53:30.079357+00:00"
       }
     ]
   }
