@@ -1,13 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143172,
+      "last_id": 143179,
       "processed_ids": [
-        142083,
-        142084,
-        142085,
-        142086,
-        142087,
         142088,
         142089,
         142090,
@@ -1002,12 +997,17 @@
         143168,
         143170,
         143171,
-        143172
+        143172,
+        143174,
+        143175,
+        143176,
+        143178,
+        143179
       ],
-      "sent_count": 710
+      "sent_count": 712
     },
     "total_fut": {
-      "last_id": 237321,
+      "last_id": 237324,
       "processed_ids": [
         236405,
         236407,
@@ -1881,15 +1881,15 @@
         237317,
         237318,
         237320,
-        237321
+        237321,
+        237323,
+        237324
       ],
-      "sent_count": 69
+      "sent_count": 70
     },
     "footballvision2": {
-      "last_id": 170495,
+      "last_id": 170497,
       "processed_ids": [
-        169415,
-        169417,
         169418,
         169419,
         169420,
@@ -2887,7 +2887,9 @@
         170492,
         170493,
         170494,
-        170495
+        170495,
+        170496,
+        170497
       ],
       "sent_count": 72
     },
@@ -3109,7 +3111,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67423,
+      "last_id": 67425,
       "processed_ids": [
         66561,
         66565,
@@ -3783,9 +3785,11 @@
         67420,
         67421,
         67422,
-        67423
+        67423,
+        67424,
+        67425
       ],
-      "sent_count": 392
+      "sent_count": 393
     },
     "techtube": {
       "last_id": 18449,
@@ -4254,7 +4258,7 @@
       "sent_count": 80
     },
     "coffeenetmanager": {
-      "last_id": 51744,
+      "last_id": 51745,
       "processed_ids": [
         51537,
         51538,
@@ -4445,7 +4449,8 @@
         51741,
         51742,
         51743,
-        51744
+        51744,
+        51745
       ],
       "sent_count": 71
     },
@@ -5853,7 +5858,7 @@
       "sent_count": 127
     },
     "gizmiztel": {
-      "last_id": 162859,
+      "last_id": 162865,
       "processed_ids": [
         161872,
         161875,
@@ -6745,9 +6750,15 @@
         162856,
         162857,
         162858,
-        162859
+        162859,
+        162860,
+        162861,
+        162862,
+        162863,
+        162864,
+        162865
       ],
-      "sent_count": 584
+      "sent_count": 587
     },
     "dr_salamatx": {
       "last_id": 55358,
@@ -7262,7 +7273,7 @@
       "sent_count": 215
     },
     "ajayebe_jahann": {
-      "last_id": 159562,
+      "last_id": 159569,
       "processed_ids": [
         158956,
         158957,
@@ -7863,9 +7874,12 @@
         159559,
         159560,
         159561,
-        159562
+        159562,
+        159563,
+        159568,
+        159569
       ],
-      "sent_count": 264
+      "sent_count": 266
     },
     "etelaate_omoomi": {
       "last_id": 43128,
@@ -8061,10 +8075,8 @@
       "sent_count": 47
     },
     "ft360_ir": {
-      "last_id": 109132,
+      "last_id": 109134,
       "processed_ids": [
-        108056,
-        108057,
         108058,
         108059,
         108060,
@@ -9062,12 +9074,14 @@
         109129,
         109130,
         109131,
-        109132
+        109132,
+        109133,
+        109134
       ],
-      "sent_count": 63
+      "sent_count": 64
     },
     "varzesh3": {
-      "last_id": 303467,
+      "last_id": 303468,
       "processed_ids": [
         302363,
         302364,
@@ -10064,7 +10078,8 @@
         303464,
         303465,
         303466,
-        303467
+        303467,
+        303468
       ],
       "sent_count": 49
     },
@@ -10684,7 +10699,7 @@
       "sent_count": 34
     },
     "adak_ir_official": {
-      "last_id": 234810,
+      "last_id": 234812,
       "processed_ids": [
         233831,
         233833,
@@ -11645,16 +11660,15 @@
         234807,
         234808,
         234809,
-        234810
+        234810,
+        234811,
+        234812
       ],
       "sent_count": 124
     },
     "futball180tv": {
-      "last_id": 107935,
+      "last_id": 107938,
       "processed_ids": [
-        106919,
-        106920,
-        106921,
         106922,
         106923,
         106924,
@@ -12651,12 +12665,15 @@
         107932,
         107933,
         107934,
-        107935
+        107935,
+        107936,
+        107937,
+        107938
       ],
       "sent_count": 46
     },
     "hattric_official": {
-      "last_id": 84334,
+      "last_id": 84337,
       "processed_ids": [
         83433,
         83434,
@@ -13505,12 +13522,15 @@
         84330,
         84331,
         84333,
-        84334
+        84334,
+        84335,
+        84336,
+        84337
       ],
       "sent_count": 60
     },
     "mazdak_hattrick": {
-      "last_id": 182383,
+      "last_id": 182386,
       "processed_ids": [
         181991,
         181992,
@@ -13898,7 +13918,10 @@
         182380,
         182381,
         182382,
-        182383
+        182383,
+        182384,
+        182385,
+        182386
       ],
       "sent_count": 30
     },
@@ -14013,7 +14036,7 @@
       "sent_count": 5
     },
     "irwonders": {
-      "last_id": 58388,
+      "last_id": 58389,
       "processed_ids": [
         58030,
         58031,
@@ -14329,7 +14352,8 @@
         58385,
         58386,
         58387,
-        58388
+        58388,
+        58389
       ],
       "sent_count": 203
     },
@@ -15880,7 +15904,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306814,
+      "last_id": 306815,
       "processed_ids": [
         306563,
         306564,
@@ -16129,9 +16153,10 @@
         306811,
         306812,
         306813,
-        306814
+        306814,
+        306815
       ],
-      "sent_count": 110
+      "sent_count": 111
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -16478,7 +16503,7 @@
       "sent_count": 39
     },
     "shakhmovie": {
-      "last_id": 4074,
+      "last_id": 4075,
       "processed_ids": [
         4017,
         4018,
@@ -16515,9 +16540,10 @@
         4071,
         4072,
         4073,
-        4074
+        4074,
+        4075
       ],
-      "sent_count": 30
+      "sent_count": 31
     },
     "peach_tweet": {
       "last_id": 2918,
@@ -16628,186 +16654,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "2c0c98effe3355fbc3e5797d9b009836506c5ecbd12d673bbc95f36fe1a3c7b6",
-        "media_fingerprint": "f12373a69f48b5cc0eaf482445924a01cd243e4349cac3a78ef435dc604a7cd4",
-        "text": "آقای رضاپور تو قرعه کشی یکی از فروشگاه ها برنده میشه، بهش میگن یه دقیقه فرصت داری تا هر چی دلت میخواد خرید کنی، این بزرگوارم نامردی نمیکنه میره ۱۲۶ میلیون تومن گوشت برمیداره و کمر مجری و هایپرمارکتو رئیس و کارمندارو باهم میشکنه:\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "آقای رضاپور تو قرعه کشی یکی از فروشگاه ها برنده میشه، بهش میگن یه دقیقه فرصت داری تا هر چی دلت میخواد خرید کنی، این بزرگوارم نامردی نمیکنه میره ۱۲۶ میلیون تومن گوشت برمیداره و کمر مجری و هایپرمارکتو رئیس و کارمندارو باهم میشکنه:\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162689",
-        "post_id": 162689,
-        "message_id": 5726,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-03T07:49:53.501962+00:00"
-      },
-      {
-        "fingerprint": "0a6c925394a8ea19b21d6e155c2f4d2d91b31359d025365a5cd2e16eea3fb3f9",
-        "media_fingerprint": "473131d5f0fd31fc26e114b3bae981af5a688d8d8f8bdfd129f0b7a9861cc28c",
-        "text": "اسامی رتبه‌ های برتر کنکور ۱۴۰۵ اعلام شد و تا فردا نتیجه همه میاد؛\nنتایج نهایی اواسط آبان ماه اعلام میشه\nرشته ریاضی ۱۰ نفر برتر: ۹ پسر ۱ دختر\nرشته تجربی ۱۰ نفر برتر: ۹ پسر ۱ دختر\nزشته انسانی ۱۰ نفر برتر: ۴ پسر ۶ دختر\nرشته هنر ۵ نفر برتر: همگی دختر\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "اسامی رتبه‌ های برتر کنکور ۱۴۰۵ اعلام شد و تا فردا نتیجه همه میاد؛\nنتایج نهایی اواسط آبان ماه اعلام میشه\nرشته ریاضی ۱۰ نفر برتر: ۹ پسر ۱ دختر\nرشته تجربی ۱۰ نفر برتر: ۹ پسر ۱ دختر\nزشته انسانی ۱۰ نفر برتر: ۴ پسر ۶ دختر\nرشته هنر ۵ نفر برتر: همگی دختر\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162690",
-        "post_id": 162690,
-        "message_id": 5727,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-03T07:49:59.227352+00:00"
-      },
-      {
-        "fingerprint": "81c85929659bd29d310afe9914cd8e7ced1a84207fbdd9126cbb6ea2b47c1a8f",
-        "media_fingerprint": "",
-        "text": "🔴\nسازمان سنجش:\nلیست 10 نفر آخر هر رشته هم به زودی قراره اعلام بشه، لطفا تلفن‌هاتون رو در دسترس قرار بدید.\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nسازمان سنجش:\nلیست 10 نفر آخر هر رشته هم به زودی قراره اعلام بشه، لطفا تلفن‌هاتون رو در دسترس قرار بدید.\n@DrTeL",
-        "original_link": "https://t.me/drtel/67263",
-        "post_id": 67263,
-        "message_id": 5729,
-        "message_kind": "text",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-03T08:04:01.110432+00:00"
-      },
-      {
-        "fingerprint": "ebcc62c19b3ad611f0707c3308be6711e538d5acb4e9aac24a799ae14df98833",
-        "media_fingerprint": "185b0b7323d05df53f4d1db862ba3c04f6fa8ad73c332aea102558dca4fc123a",
-        "text": "عاشق این بانو شدمممم\n🤤\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "عاشق این بانو شدمممم\n🤤\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/2814",
-        "post_id": 2814,
-        "message_id": 5730,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-03T08:04:08.673290+00:00"
-      },
-      {
-        "fingerprint": "62d351433b2add6429617d6a30af9f7728c9a7c8d7579898968e9c5cb7544212",
-        "media_fingerprint": "6927d5c93f05c84fca99db3d771557cd1447bbe3c90b6c915e5962ef1633f5d6",
-        "text": "🔴\n©️\nپیام نیازمند دیروز کاپیتان پرسپولیس بود.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🔴\n©️\nپیام نیازمند دیروز کاپیتان پرسپولیس بود.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/234612",
-        "post_id": 234612,
-        "message_id": 5731,
-        "message_kind": "caption",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-03T08:04:12.944915+00:00"
-      },
-      {
-        "fingerprint": "0825e6ee9a46de93c3e4ac9f4b74e386bd96d99fcf8c2a8c7073d14f4b0e8320",
-        "media_fingerprint": "73a36ee29210a23f887d39dad39a78759b10158619043ddf1038129b8063b6eb",
-        "text": "🔹\nهر گرم طلا از ۲۶ میلیون تومان عبور کرد\n▫️\nسایت رسمی اتحادیه طلا",
-        "original_username": "fars_today",
-        "original_text": "🔹\nهر گرم طلا از ۲۶ میلیون تومان عبور کرد\n▫️\nسایت رسمی اتحادیه طلا",
-        "original_link": "https://t.me/Fars_today/132112",
-        "post_id": 132112,
-        "message_id": 5732,
-        "message_kind": "caption",
-        "sources": [
-          "fars_today"
-        ],
-        "created_at": "2026-10-03T08:04:17.739253+00:00"
-      },
-      {
-        "fingerprint": "dc04fddf52704d8ed993d734b0b969a40a5234ea4b35f460c69c8dc11ef9e40e",
-        "media_fingerprint": "db708f5167708dddcc487684d7564631ce033b1ebb65ffbed9179f354629691d",
-        "text": "خرما اولین و قوی ترین داروی ضد سرطان است !\nعلاوه بر اون گفته شده که اگر هر شخص روزانه 10 الی 15 مغز بادام را با 3 تا 5 عدد خرما بخورد تا آخر عمرش نه سایدگی استخوان سراغش می آید و نه آرترز میگیرد\n👌\n@Midanesti",
-        "original_username": "midanesti",
-        "original_text": "خرما اولین و قوی ترین داروی ضد سرطان است !\nعلاوه بر اون گفته شده که اگر هر شخص روزانه 10 الی 15 مغز بادام را با 3 تا 5 عدد خرما بخورد تا آخر عمرش نه سایدگی استخوان سراغش می آید و نه آرترز میگیرد\n👌\n@Midanesti",
-        "original_link": "https://t.me/midanesti/73240",
-        "post_id": 73240,
-        "message_id": 5733,
-        "message_kind": "caption",
-        "sources": [
-          "midanesti"
-        ],
-        "created_at": "2026-10-03T08:04:22.406368+00:00"
-      },
-      {
-        "fingerprint": "4d6d29330e5b570d756404b24ac0fce0acd2a51b434d79f01ca870d96d57f0d9",
-        "media_fingerprint": "ad39a734de816ff47ab72cb744ea94ecf905850ff9893ffe4b601fcfc12bce23",
-        "text": "🔴\nروایت محمد عمری از سختی‌هایی که در شروع فوتبال کشید؛ زندگی در اتاق یک در یک!\n🆔\n@mazdak_hattrick",
-        "original_username": "mazdak_hattrick",
-        "original_text": "🔴\nروایت محمد عمری از سختی‌هایی که در شروع فوتبال کشید؛ زندگی در اتاق یک در یک!\n🆔\n@mazdak_hattrick",
-        "original_link": "https://t.me/mazdak_hattrick/182306",
-        "post_id": 182306,
-        "message_id": 5734,
-        "message_kind": "caption",
-        "sources": [
-          "mazdak_hattrick"
-        ],
-        "created_at": "2026-10-03T08:04:28.992428+00:00"
-      },
-      {
-        "fingerprint": "259b999ee13ae7da75c4960a10eece796714bc2213c5dc36d687ea9afbae31d0",
-        "media_fingerprint": "",
-        "text": "♦️\nانتخاب رشته کنکور سراسری از روز دوشنبه آغاز خواهد شد\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nانتخاب رشته کنکور سراسری از روز دوشنبه آغاز خواهد شد\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142923",
-        "post_id": 142923,
-        "message_id": 5735,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-03T08:04:31.530319+00:00"
-      },
-      {
-        "fingerprint": "1200dbd9ea734ab56062e511a85c5c9152d7818eab6323a260a0925d8bfe3eed",
-        "media_fingerprint": "d240ec1bc22d958ddd8d26d84d0e3f4224b1510d70123f8f89fafaa690e98bc9",
-        "text": "امروز روز جهانی دوست پسره.\n@comentiat",
-        "original_username": "comentiat",
-        "original_text": "امروز روز جهانی دوست پسره.\n@comentiat",
-        "original_link": "https://t.me/Comentiat/26250",
-        "post_id": 26250,
-        "message_id": 5736,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-03T08:27:25.303486+00:00"
-      },
-      {
-        "fingerprint": "83fa97bfc6aadd72ff5f41cf28a5bd23a09a6efbc93afea94375884a2a796c3a",
-        "media_fingerprint": "68b4def2c4ea7d2d1381a478391ed5d3a314fe1076b8f8437420e773010e8756",
-        "text": "♦️\nتلاش نجاتگران برای انتقال پیکر فرد جانباخته در ارتفاعات شهرستان زرین دشت\nرئیس شعبه جمعیت هلال احمر زرین دشت:\n🔹\nدر گزارشی مبنی بر پیدا شدن پیکر مرد ۳۸ ساله در ارتفاعات کوه‌های روستای چاه سبز این شهرستان به هلال احمر، نجاتگران به محل حادثه اعزام شدند ، پس از سه ساعت پیمایش در ارتفاعات به پیکر مرد۳۸ ساله دسترسی پیدا کردند و پس از انتقال آن به دامنه کوه پیکر وی را به عوامل انتظامی تحویل دادند.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nتلاش نجاتگران برای انتقال پیکر فرد جانباخته در ارتفاعات شهرستان زرین دشت\nرئیس شعبه جمعیت هلال احمر زرین دشت:\n🔹\nدر گزارشی مبنی بر پیدا شدن پیکر مرد ۳۸ ساله در ارتفاعات کوه‌های روستای چاه سبز این شهرستان به هلال احمر، نجاتگران به محل حادثه اعزام شدند ، پس از سه ساعت پیمایش در ارتفاعات به پیکر مرد۳۸ ساله دسترسی پیدا کردند و پس از انتقال آن به دامنه کوه پیکر وی را به عوامل انتظامی تحویل دادند.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142924",
-        "post_id": 142924,
-        "message_id": 5737,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-03T08:27:30.087381+00:00"
-      },
-      {
-        "fingerprint": "35fafc43823179bed420a6ad5eed8822710273b2a5e72dbb0d38025509d9ae3b",
-        "media_fingerprint": "",
-        "text": "🔹\nروایت محمد عمری از سختی‌هایی که در شروع فوتبال کشید\n🔘\n@Navadnewstelegram",
-        "original_username": "footballvision2",
-        "original_text": "🔹\nروایت محمد عمری از سختی‌هایی که در شروع فوتبال کشید\n🔘\n@Navadnewstelegram",
-        "original_link": "https://t.me/footballvision2/170162",
-        "post_id": 170162,
-        "message_id": 5738,
-        "message_kind": "text",
-        "sources": [
-          "footballvision2"
-        ],
-        "created_at": "2026-10-03T08:27:33.154697+00:00"
-      },
       {
         "fingerprint": "bcc56487bfcc32eef57110316807e25eff14b180c5ec1520ce320b04ffa1725e",
         "media_fingerprint": "64caa5d3bdf949bb24af1b529475776d4790c66abf9ee63f452c0718a97cf823",
@@ -28872,7 +28718,8 @@
         "message_id": 6598,
         "message_kind": "caption",
         "sources": [
-          "drtel"
+          "drtel",
+          "gizmiztel"
         ],
         "created_at": "2026-10-05T22:07:14.341591+00:00"
       },
@@ -31478,7 +31325,8 @@
         "message_id": 6776,
         "message_kind": "text",
         "sources": [
-          "drtel"
+          "drtel",
+          "gizmiztel"
         ],
         "created_at": "2026-10-06T14:50:30.394952+00:00"
       },
@@ -31707,6 +31555,186 @@
           "adak_ir_official"
         ],
         "created_at": "2026-10-06T15:49:37.450246+00:00"
+      },
+      {
+        "fingerprint": "6a21c3239cab930ef015b1a0c398244b322cd0db225b4e7ca487c38ab6619210",
+        "media_fingerprint": "eb214aab2accdf38652c0538cc895b6aaa1c9c697ac89011fc75de60f2d42d21",
+        "text": "🎞\nگل برتری تاجیکستان مقابل چین در بازی دوستانه توسط وحدت هنانوف، بازیکن سابق پرسپولیس\nو سپاهان\n@Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "🎞\nگل برتری تاجیکستان مقابل چین در بازی دوستانه توسط وحدت هنانوف، بازیکن سابق پرسپولیس\nو سپاهان\n@Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/109133",
+        "post_id": 109133,
+        "message_id": 6792,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-06T16:22:38.782984+00:00"
+      },
+      {
+        "fingerprint": "565d240f5343e625ae579a4d45a770f1f02c6368b5ed4d06da4fbe6f47c28866",
+        "media_fingerprint": "",
+        "text": "",
+        "original_username": "ajayebe_jahann",
+        "original_text": "",
+        "original_link": "https://t.me/Ajayebe_jahann/159568",
+        "post_id": 159568,
+        "message_id": 6793,
+        "message_kind": "text",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-06T16:22:41.389282+00:00"
+      },
+      {
+        "fingerprint": "bfa31fe3eef58e2eb1c7609cf6946b78294c7d089c41630129d8efa29b8ea2a2",
+        "media_fingerprint": "1f2079cb4ec8bc67488befe7c3f330911c2f7379a88c25b3d732fc5e2f4111ec",
+        "text": "توی ساختمون‌های بالاشهر تهران حتی کارواش اختصاصی هم دارن.\nپول میتونه دنیای یک آدم رو عوض کنه.\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "توی ساختمون‌های بالاشهر تهران حتی کارواش اختصاصی هم دارن.\nپول میتونه دنیای یک آدم رو عوض کنه.\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162861",
+        "post_id": 162861,
+        "message_id": 6794,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-06T16:22:48.261669+00:00"
+      },
+      {
+        "fingerprint": "4b3859c49be5559ea7f82239e9f5dec4e5d0e886cb4f4f874b84ff15503bfe10",
+        "media_fingerprint": "c4b5bcb5d93bea276732e342cee66efe5235922bae096adc4234a04fe77a60a2",
+        "text": "گیر افتادن مختار و جومونگ موقع گشت ‌زنی بیرانوند\n😂\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "گیر افتادن مختار و جومونگ موقع گشت ‌زنی بیرانوند\n😂\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162862",
+        "post_id": 162862,
+        "message_id": 6795,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-06T16:22:53.676230+00:00"
+      },
+      {
+        "fingerprint": "579e9245e1c749a08dab3277d54679cbdc967dfdea9b821abb4e856ef745ca8c",
+        "media_fingerprint": "6259373519d317794af114990037f2a526ae8a7fd332428a132cb1563bef30f9",
+        "text": "شرایط برای همه یکسان نیست رفیق\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "شرایط برای همه یکسان نیست رفیق\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162864",
+        "post_id": 162864,
+        "message_id": 6796,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-06T16:23:00.595019+00:00"
+      },
+      {
+        "fingerprint": "f601e0d00ea2bcb0e535dbe44b1c14b076851f52f061c62e68ec3c75bb6e9cd7",
+        "media_fingerprint": "fe630b077491837a6e18cdb31f00005ad86a8ba997c1cd37c492efadde7b8673",
+        "text": "♦️\nاین گاو کاملا واقعی است، بدون هیچ فتوشاپی. این نژاد که \"آبی بلژیکی\" نام گذاری شده اند. به علت جهش ژنتیکی‌ به این جثه می رسد.\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "♦️\nاین گاو کاملا واقعی است، بدون هیچ فتوشاپی. این نژاد که \"آبی بلژیکی\" نام گذاری شده اند. به علت جهش ژنتیکی‌ به این جثه می رسد.\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/159569",
+        "post_id": 159569,
+        "message_id": 6797,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-06T16:23:05.663360+00:00"
+      },
+      {
+        "fingerprint": "4a32af10795c9aeae43f1f7887cc2791b1cd99b54686cda996e4bb98577be11c",
+        "media_fingerprint": "",
+        "text": "♦️\nسازمان جهانی بهداشت: نشانه‌ای از طاعون در روسیه مشاهده نشده است و خطر شیوع این بیماری برای مردم پایین ارزیابی می‌شود\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nسازمان جهانی بهداشت: نشانه‌ای از طاعون در روسیه مشاهده نشده است و خطر شیوع این بیماری برای مردم پایین ارزیابی می‌شود\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143174",
+        "post_id": 143174,
+        "message_id": 6798,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-06T16:23:08.684251+00:00"
+      },
+      {
+        "fingerprint": "a1bd5fc904def27c00093b01180a0778a9df2e008164e910009095a881ddc871",
+        "media_fingerprint": "",
+        "text": "♦️\nعملیات پیشگیرانه برای مهار سیلاب در نقاط پرخطر شیراز\n🔹\nسازمان عمران شهرداری شیراز با اجرای عملیات لایروبی، پاکسازی مسیل‌ها و احداث سازه‌های حفاظتی، آماده‌سازی نقاط مستعد آب‌گرفتگی و سیلاب را برای کاهش مخاطرات بارش‌های پیش‌رو در دستور کار قرار داده است.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nعملیات پیشگیرانه برای مهار سیلاب در نقاط پرخطر شیراز\n🔹\nسازمان عمران شهرداری شیراز با اجرای عملیات لایروبی، پاکسازی مسیل‌ها و احداث سازه‌های حفاظتی، آماده‌سازی نقاط مستعد آب‌گرفتگی و سیلاب را برای کاهش مخاطرات بارش‌های پیش‌رو در دستور کار قرار داده است.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143175",
+        "post_id": 143175,
+        "message_id": 6799,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-06T16:23:11.655712+00:00"
+      },
+      {
+        "fingerprint": "aeddaa2484b86d79292a2e61ef49973f106babab868f685ed519b2f2c536bbc9",
+        "media_fingerprint": "94ef020c65f47a1b57eca5c05b47abe524e75ef1fd3869c5b029dc0493423afd",
+        "text": "تا اخر ببین استاد میگه برای اینکه عنشون بدرخشه چکار کنن\n😂\n😂\n😂\n⁩\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "تا اخر ببین استاد میگه برای اینکه عنشون بدرخشه چکار کنن\n😂\n😂\n😂\n⁩\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306815",
+        "post_id": 306815,
+        "message_id": 6800,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-06T16:23:17.343444+00:00"
+      },
+      {
+        "fingerprint": "dee637e4a6a008cd84d9ff66f168c2ac30d7d6099700d976bcf5d90eeacafc2f",
+        "media_fingerprint": "",
+        "text": "🎖️\n#اختصاصی_توتال\n🥇\nفراز امامعلی با عقد قراردادی به نساجی مازندران پیوست.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_username": "total_fut",
+        "original_text": "🎖️\n#اختصاصی_توتال\n🥇\nفراز امامعلی با عقد قراردادی به نساجی مازندران پیوست.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_link": "https://t.me/total_fut/237324",
+        "post_id": 237324,
+        "message_id": 6801,
+        "message_kind": "text",
+        "sources": [
+          "total_fut"
+        ],
+        "created_at": "2026-10-06T16:23:20.513000+00:00"
+      },
+      {
+        "fingerprint": "bcf112a1a93ead7aa5d121b82cf125e784153ad0ea8a25feefa9092ffb74a64c",
+        "media_fingerprint": "8075711707a983cef43dd707579df4419bca9801347dfb7dbf6a34e06d914e7c",
+        "text": "جان سینا و همسر ایرانیش در اکران فیلم Matchbox: The Movie تو نیویورک\n📷\n|\n@ShakhMovie",
+        "original_username": "shakhmovie",
+        "original_text": "جان سینا و همسر ایرانیش در اکران فیلم Matchbox: The Movie تو نیویورک\n📷\n|\n@ShakhMovie",
+        "original_link": "https://t.me/Shakhmovie/4075",
+        "post_id": 4075,
+        "message_id": 6802,
+        "message_kind": "caption",
+        "sources": [
+          "shakhmovie"
+        ],
+        "created_at": "2026-10-06T16:23:35.208347+00:00"
+      },
+      {
+        "fingerprint": "386785491bd479bb785787c14f0412a5ab619c5946077d43c661444abee70b90",
+        "media_fingerprint": "87f09df52d884e396d9b7cf4df2c31becd6fad78d3e2aea1125250152f3d13b1",
+        "text": "🔴\nتا حالا انقدر از باز شدن یه دَر، ناراحت نشده بودم...\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nتا حالا انقدر از باز شدن یه دَر، ناراحت نشده بودم...\n@DrTeL",
+        "original_link": "https://t.me/drtel/67425",
+        "post_id": 67425,
+        "message_id": 6804,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-06T16:23:40.754609+00:00"
       }
     ]
   }
