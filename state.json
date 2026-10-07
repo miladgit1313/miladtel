@@ -1007,7 +1007,7 @@
       "sent_count": 742
     },
     "total_fut": {
-      "last_id": 237385,
+      "last_id": 237389,
       "processed_ids": [
         236405,
         236407,
@@ -1942,14 +1942,17 @@
         237382,
         237383,
         237384,
-        237385
+        237385,
+        237386,
+        237387,
+        237388,
+        237389
       ],
-      "sent_count": 77
+      "sent_count": 78
     },
     "footballvision2": {
-      "last_id": 170581,
+      "last_id": 170582,
       "processed_ids": [
-        169503,
         169504,
         169505,
         169506,
@@ -2948,7 +2951,8 @@
         170578,
         170579,
         170580,
-        170581
+        170581,
+        170582
       ],
       "sent_count": 72
     },
@@ -3187,7 +3191,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67457,
+      "last_id": 67458,
       "processed_ids": [
         66561,
         66565,
@@ -3895,12 +3899,13 @@
         67454,
         67455,
         67456,
-        67457
+        67457,
+        67458
       ],
       "sent_count": 408
     },
     "techtube": {
-      "last_id": 18457,
+      "last_id": 18458,
       "processed_ids": [
         18261,
         18262,
@@ -4027,7 +4032,8 @@
         18449,
         18450,
         18451,
-        18457
+        18457,
+        18458
       ],
       "sent_count": 47
     },
@@ -6084,7 +6090,7 @@
       "sent_count": 136
     },
     "gizmiztel": {
-      "last_id": 162931,
+      "last_id": 162940,
       "processed_ids": [
         161872,
         161875,
@@ -7041,9 +7047,18 @@
         162928,
         162929,
         162930,
-        162931
+        162931,
+        162932,
+        162933,
+        162934,
+        162935,
+        162936,
+        162937,
+        162938,
+        162939,
+        162940
       ],
-      "sent_count": 632
+      "sent_count": 637
     },
     "dr_salamatx": {
       "last_id": 55367,
@@ -7588,7 +7603,7 @@
       "sent_count": 227
     },
     "ajayebe_jahann": {
-      "last_id": 159603,
+      "last_id": 159608,
       "processed_ids": [
         158956,
         158957,
@@ -8226,9 +8241,14 @@
         159600,
         159601,
         159602,
-        159603
+        159603,
+        159604,
+        159605,
+        159606,
+        159607,
+        159608
       ],
-      "sent_count": 277
+      "sent_count": 278
     },
     "etelaate_omoomi": {
       "last_id": 43128,
@@ -8427,9 +8447,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109260,
+      "last_id": 109261,
       "processed_ids": [
-        108180,
         108181,
         108182,
         108184,
@@ -9428,14 +9447,14 @@
         109257,
         109258,
         109259,
-        109260
+        109260,
+        109261
       ],
       "sent_count": 70
     },
     "varzesh3": {
-      "last_id": 303543,
+      "last_id": 303544,
       "processed_ids": [
-        302441,
         302442,
         302443,
         302444,
@@ -10434,12 +10453,13 @@
         303540,
         303541,
         303542,
-        303543
+        303543,
+        303544
       ],
       "sent_count": 51
     },
     "totalfut_plus": {
-      "last_id": 26540,
+      "last_id": 26542,
       "processed_ids": [
         25870,
         25871,
@@ -11090,14 +11110,15 @@
         26537,
         26538,
         26539,
-        26540
+        26540,
+        26541,
+        26542
       ],
       "sent_count": 39
     },
     "adak_ir_official": {
-      "last_id": 234889,
+      "last_id": 234890,
       "processed_ids": [
-        233866,
         233867,
         233868,
         233869,
@@ -12096,7 +12117,8 @@
         234886,
         234887,
         234888,
-        234889
+        234889,
+        234890
       ],
       "sent_count": 135
     },
@@ -13107,7 +13129,7 @@
       "sent_count": 47
     },
     "hattric_official": {
-      "last_id": 84404,
+      "last_id": 84406,
       "processed_ids": [
         83433,
         83434,
@@ -14024,12 +14046,14 @@
         84401,
         84402,
         84403,
-        84404
+        84404,
+        84405,
+        84406
       ],
       "sent_count": 64
     },
     "mazdak_hattrick": {
-      "last_id": 182416,
+      "last_id": 182418,
       "processed_ids": [
         181991,
         181992,
@@ -14447,7 +14471,9 @@
         182413,
         182414,
         182415,
-        182416
+        182416,
+        182417,
+        182418
       ],
       "sent_count": 33
     },
@@ -14568,7 +14594,7 @@
       "sent_count": 5
     },
     "irwonders": {
-      "last_id": 58440,
+      "last_id": 58441,
       "processed_ids": [
         58030,
         58031,
@@ -14934,9 +14960,10 @@
         58437,
         58438,
         58439,
-        58440
+        58440,
+        58441
       ],
-      "sent_count": 233
+      "sent_count": 234
     },
     "razcom": {
       "last_id": 70485,
@@ -17327,126 +17354,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "0b110da7594ff663f632e319425711f45d8e7b78361b8e845dd47d4b7785aff2",
-        "media_fingerprint": "5cbed3c49943d93c5721d55bc4f385871f44e2b7cbcc596cc027560f3c4c5691",
-        "text": "کمیسیون اتحادیه اروپا برای استقلال دیجیتال از نرم افزار چت سازمانی امریکایی مایکروسافت Teams به نرم افزار دیگه ای مهاجرت کرده ولی این اقدام با واکنش منفی مقامات اروپایی منجر شده.\nاین کمیسیون چتها و سیستم ویدیو کنفرانسش رو از مایکروسافت Teams به نرم افزار Element Pro (همون اپی که برای اتصال به سرورهای ماتریس استفاده میکردیم) منتقل کرده و برای سرورها هم از سرورهای این کمیسیون استفاده شده.\nاما مقامات مختلف کمیسیون اروپا از این نرم افزار اصلا راضی نبودن و برخی اون رو اشغال به تمام معنا خطاب کردن و برخی ارزش افزوده مهاجرت به این نرم افزار رو زیر سوال بردن. با اینکه مایکروسافت Teams هم نرم افزار منفوری هست، ولی این مقامات حتی اون رو هم به Element Pro ترجیح میدن.\n🔎\npolitico\n📍\n@TechTube",
-        "original_username": "techtube",
-        "original_text": "کمیسیون اتحادیه اروپا برای استقلال دیجیتال از نرم افزار چت سازمانی امریکایی مایکروسافت Teams به نرم افزار دیگه ای مهاجرت کرده ولی این اقدام با واکنش منفی مقامات اروپایی منجر شده.\nاین کمیسیون چتها و سیستم ویدیو کنفرانسش رو از مایکروسافت Teams به نرم افزار Element Pro (همون اپی که برای اتصال به سرورهای ماتریس استفاده میکردیم) منتقل کرده و برای سرورها هم از سرورهای این کمیسیون استفاده شده.\nاما مقامات مختلف کمیسیون اروپا از این نرم افزار اصلا راضی نبودن و برخی اون رو اشغال به تمام معنا خطاب کردن و برخی ارزش افزوده مهاجرت به این نرم افزار رو زیر سوال بردن. با اینکه مایکروسافت Teams هم نرم افزار منفوری هست، ولی این مقامات حتی اون رو هم به Element Pro ترجیح میدن.\n🔎\npolitico\n📍\n@TechTube",
-        "original_link": "https://t.me/TechTube/18427",
-        "post_id": 18427,
-        "message_id": 6070,
-        "message_kind": "caption",
-        "sources": [
-          "techtube"
-        ],
-        "created_at": "2026-10-04T09:50:36.846551+00:00"
-      },
-      {
-        "fingerprint": "a8d15863c6ae7b7533253c605d864e9027e13a27cef653639ae44f7bb3850976",
-        "media_fingerprint": "7e6af04b9ba21b147cedbc25d3aa0ebe032ce006e09ac9359db66cb9eea0add2",
-        "text": "🔴\n35 هزار اصله درخت رو توی بوستان چیتگر خشک کردن!\nبوستان چیتگر تهران که یه زمانی کلی سرسبز و پر از درخت بود، حالا با عدم رسیدگی، تبدیل به یه کویرِ خشک و خالی شده و درحال حاضر حدود 35 هزارتا درخت خشک شدن.\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\n35 هزار اصله درخت رو توی بوستان چیتگر خشک کردن!\nبوستان چیتگر تهران که یه زمانی کلی سرسبز و پر از درخت بود، حالا با عدم رسیدگی، تبدیل به یه کویرِ خشک و خالی شده و درحال حاضر حدود 35 هزارتا درخت خشک شدن.\n@DrTeL",
-        "original_link": "https://t.me/drtel/67322",
-        "post_id": 67322,
-        "message_id": 6071,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-04T09:50:44.927569+00:00"
-      },
-      {
-        "fingerprint": "bc19c56bff5131be275cba4ef2503b66c246d039ae48d1a0fa7df1d8173a9cec",
-        "media_fingerprint": "",
-        "text": "♦️\nهشدار زرد هواشناسی فارس برای رگبار و رعدوبرق؛ احتمال سیلابی شدن مسیل‌ها\nمدیرکل هواشناسی فارس:\n🔹️\nسامانه ناپایدار جوی از بعدازظهر یکشنبه ۱۲ مهر در برخی مناطق فارس فعال می‌شود و فعالیت آن تا اواخر وقت دوشنبه ۱۳ مهر ادامه خواهد داشت.\n🔹️\nاین سامانه با رگبار باران، رعدوبرق و وزش باد همراه است و مناطق مختلفی از استان فارس را تحت تأثیر قرار می‌دهد.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nهشدار زرد هواشناسی فارس برای رگبار و رعدوبرق؛ احتمال سیلابی شدن مسیل‌ها\nمدیرکل هواشناسی فارس:\n🔹️\nسامانه ناپایدار جوی از بعدازظهر یکشنبه ۱۲ مهر در برخی مناطق فارس فعال می‌شود و فعالیت آن تا اواخر وقت دوشنبه ۱۳ مهر ادامه خواهد داشت.\n🔹️\nاین سامانه با رگبار باران، رعدوبرق و وزش باد همراه است و مناطق مختلفی از استان فارس را تحت تأثیر قرار می‌دهد.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143016",
-        "post_id": 143016,
-        "message_id": 6072,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-04T09:50:48.121222+00:00"
-      },
-      {
-        "fingerprint": "4ba41755eb4491fd60b82c986670ded977c69aeb760d804779cb90080b5c4a31",
-        "media_fingerprint": "83232d04010f5fbc3bedbff164cc283cc0264af703b230403a5a3c0b8ec91b66",
-        "text": "وقتی قرار بود برید جاذبه های طبیعت ببینید الان فقط تو داری میبینی و اون چیزه دیگه ای مییبینه:\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "وقتی قرار بود برید جاذبه های طبیعت ببینید الان فقط تو داری میبینی و اون چیزه دیگه ای مییبینه:\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/2847",
-        "post_id": 2847,
-        "message_id": 6073,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-04T16:06:37.410561+00:00"
-      },
-      {
-        "fingerprint": "5d8f1c4f56644d5bccedd8aa1de011687c964565b490a7b81fa1dc66bd356a7c",
-        "media_fingerprint": "",
-        "text": "🏅\nمیزان زیان انباشته ۱۰ باشگاه لیگ برتری\n⚪️\nمیزان زیان انباشته باشگاه‌های لیگ برتر در ۴ فصل پیاپی به شرح زیر است که روند صعودی داشته.  مسئولان فدراسیون فوتبال و کمیته صدور مجوز حرفه‌ای در تلاش هستند این روند صعودی را متوقف کنند.\n⚪️\nسال ۱۴۰۱ زیان انباشته ۸۴۰ میلیارد تومان\n⚪️\nسال ۱۴۰۲ زیان انباشته ۱۷۰۰ میلیارد تومان\n⚪️\nسال ۱۴۰۳ زیان انباشته ۲۱۳۸ میلیارد تومان\n⚪️\nسال ۱۴۰۴ زیان انباشته ۳۱۳۶ میلیارد تومان\n🆔\n@mazdak_hattrick",
-        "original_username": "mazdak_hattrick",
-        "original_text": "🏅\nمیزان زیان انباشته ۱۰ باشگاه لیگ برتری\n⚪️\nمیزان زیان انباشته باشگاه‌های لیگ برتر در ۴ فصل پیاپی به شرح زیر است که روند صعودی داشته.  مسئولان فدراسیون فوتبال و کمیته صدور مجوز حرفه‌ای در تلاش هستند این روند صعودی را متوقف کنند.\n⚪️\nسال ۱۴۰۱ زیان انباشته ۸۴۰ میلیارد تومان\n⚪️\nسال ۱۴۰۲ زیان انباشته ۱۷۰۰ میلیارد تومان\n⚪️\nسال ۱۴۰۳ زیان انباشته ۲۱۳۸ میلیارد تومان\n⚪️\nسال ۱۴۰۴ زیان انباشته ۳۱۳۶ میلیارد تومان\n🆔\n@mazdak_hattrick",
-        "original_link": "https://t.me/mazdak_hattrick/182333",
-        "post_id": 182333,
-        "message_id": 6074,
-        "message_kind": "text",
-        "sources": [
-          "mazdak_hattrick"
-        ],
-        "created_at": "2026-10-04T16:06:40.775764+00:00"
-      },
-      {
-        "fingerprint": "a26f8cd450e5ef9f5aa0024f8b09f922fc8bac07b4ab2d668d442670cc51ffd3",
-        "media_fingerprint": "",
-        "text": "لحظه نجات یک زن گرفتار در سیل ایذه\n🔹\nاین حادثه روز گذشته رخ داده و در تصاویر دیده می‌شود این زن در میان جریان آب گرفتار شده است.\n🔹\nدر ادامه، تعدادی از مردم حاضر در محل برای کمک وارد عمل می‌شوند و پس از تلاش، او را از میان سیلاب خارج کرده و نجات می‌دهند.\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "لحظه نجات یک زن گرفتار در سیل ایذه\n🔹\nاین حادثه روز گذشته رخ داده و در تصاویر دیده می‌شود این زن در میان جریان آب گرفتار شده است.\n🔹\nدر ادامه، تعدادی از مردم حاضر در محل برای کمک وارد عمل می‌شوند و پس از تلاش، او را از میان سیلاب خارج کرده و نجات می‌دهند.\n@irWonders",
-        "original_link": "https://t.me/irwonders/58298",
-        "post_id": 58298,
-        "message_id": 6075,
-        "message_kind": "text",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-04T16:06:43.999689+00:00"
-      },
-      {
-        "fingerprint": "197b9c1abba8875b0f6abfe07aef8d434ea4d8643066981c32f9728e7cbfcebc",
-        "media_fingerprint": "bd4a864437f78f5c7239d00fb04cbee43ec8e321c778d6fdb300d878c38715d9",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26281",
-        "post_id": 26281,
-        "message_id": 6076,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-04T16:06:47.910338+00:00"
-      },
-      {
-        "fingerprint": "656772870521d6685ceb7f93403d0944fe9a226b61c33e55f7766d31debe633b",
-        "media_fingerprint": "aca53536d2de029cc4cc9d8dfe61bbeb5daf8920f5d9adf1c3f1aeaaea30302e",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26283",
-        "post_id": 26283,
-        "message_id": 6077,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-04T16:06:52.159519+00:00"
-      },
       {
         "fingerprint": "e7fc4a7beef7ac295d3744b01186ecffa06ab116bb2861ef3e53786ecea45921",
         "media_fingerprint": "5077669b45526b7a1f9b791cc35b48a1fbd08c5bbc34d28e10b0762d1bde0f9d",
@@ -32424,6 +32331,126 @@
           "majalepezeshki"
         ],
         "created_at": "2026-10-07T19:47:35.581894+00:00"
+      },
+      {
+        "fingerprint": "03e9fb69c869ee7e9ff9fd2d1443b6a759864fe1379e1d6648626d38ff89230b",
+        "media_fingerprint": "f314451cda237f93eac268d3eb4d5d04ee9a63756ba435415ce26aa3e15a6545",
+        "text": "اگامای صخره ای لکه قرمز یکی از مشهور ترین خزندگان و مارمولک های دنیاست. کنتراست میان چهره سرخ و بدن آبی این مارمولک شگفت انگیز باعث شده با نام مرد عنکبوتی مشهور شود.\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "اگامای صخره ای لکه قرمز یکی از مشهور ترین خزندگان و مارمولک های دنیاست. کنتراست میان چهره سرخ و بدن آبی این مارمولک شگفت انگیز باعث شده با نام مرد عنکبوتی مشهور شود.\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/159606",
+        "post_id": 159606,
+        "message_id": 7137,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-07T20:20:09.805190+00:00"
+      },
+      {
+        "fingerprint": "a329d9eb309172a773100b97f1b236644e06e0e3408613aa3e9cf1b083b8dc1f",
+        "media_fingerprint": "a4dd3269035debbaee42eb60391d7135798b55d918db809a58139fbcb700e9e6",
+        "text": "منظم‌ترین روستای خشتی جهان در اصفها\nن\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "منظم‌ترین روستای خشتی جهان در اصفها\nن\n@irWonders",
+        "original_link": "https://t.me/irwonders/58441",
+        "post_id": 58441,
+        "message_id": 7138,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-07T20:20:16.151269+00:00"
+      },
+      {
+        "fingerprint": "3a918f2f472da091c6f65de4c0574fdbca9b81bbb37d859d3d55b971dbd3797f",
+        "media_fingerprint": "",
+        "text": "به نظر من، یه مرد باید همیشه کار کنه.\nمسئله اصلاً این نیست که چه‌قدر پول درمیاره یا اصلاً پولی درمیاره یا نه. من معتقدم کار کردن، مرد رو سرپا نگه می‌داره. مردی که کار نمی‌ کنه، یا گرفتار افسردگی و بحران می‌شه، یا بیمار می‌شه، یا به عادت‌ها و رفتارهای بی‌معنی و عجیب‌وغریب رو میاره.\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "به نظر من، یه مرد باید همیشه کار کنه.\nمسئله اصلاً این نیست که چه‌قدر پول درمیاره یا اصلاً پولی درمیاره یا نه. من معتقدم کار کردن، مرد رو سرپا نگه می‌داره. مردی که کار نمی‌ کنه، یا گرفتار افسردگی و بحران می‌شه، یا بیمار می‌شه، یا به عادت‌ها و رفتارهای بی‌معنی و عجیب‌وغریب رو میاره.\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162932",
+        "post_id": 162932,
+        "message_id": 7139,
+        "message_kind": "text",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-07T20:20:19.405097+00:00"
+      },
+      {
+        "fingerprint": "2a007545758db320c45519ea282a9e99d6c4eee563ed9bdbc24c85da578b7d66",
+        "media_fingerprint": "",
+        "text": "وقتی زیردریایی آمریکایی «حامله» می‌شود\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "وقتی زیردریایی آمریکایی «حامله» می‌شود\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162934",
+        "post_id": 162934,
+        "message_id": 7140,
+        "message_kind": "text",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-07T20:20:22.087606+00:00"
+      },
+      {
+        "fingerprint": "109e0dae8b72311ff112a04c68006795505d0d5b81b733d4f11bb5d9754ac438",
+        "media_fingerprint": "ae077d05074c8b697251e2889bdcd856de78565aaf20aa9f6c649ae30d37a300",
+        "text": "پزشکیان: من یک دانش‌ آموز شلوغ و بازیگوش بودم و درس هم نمی‌خواندم اما وقتی وارد جامعه و نامردی‌ها را دیدم تصمیم گرفتم درس بخوانم\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "پزشکیان: من یک دانش‌ آموز شلوغ و بازیگوش بودم و درس هم نمی‌خواندم اما وقتی وارد جامعه و نامردی‌ها را دیدم تصمیم گرفتم درس بخوانم\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162936",
+        "post_id": 162936,
+        "message_id": 7141,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-07T20:20:29.043414+00:00"
+      },
+      {
+        "fingerprint": "bbba9bbee34cc572c1b0d968ce36f2d92f2dffc359f1b3f4e7ab7dc065e455ca",
+        "media_fingerprint": "3f764fd7406b2b7bdea384c05f0c03c504ecac2dfcabdd70d99f6bba385d3901",
+        "text": "عکسی از کنکور که در رسانه‌های خارجی وایرال شد\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "عکسی از کنکور که در رسانه‌های خارجی وایرال شد\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162938",
+        "post_id": 162938,
+        "message_id": 7142,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-07T20:20:33.122298+00:00"
+      },
+      {
+        "fingerprint": "c6f60f1fa06b8fb660b7cfeef49389625716d9a8c72137439d598cd7f139c40d",
+        "media_fingerprint": "4802d5004f0463b43bf37a5b042471003cc7fa7bcc1fb8e5275eaaf9e17bbeaf",
+        "text": "اختلاف مختار و عبدالله زبیر از همینجا شروع شد\n😂\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "اختلاف مختار و عبدالله زبیر از همینجا شروع شد\n😂\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162940",
+        "post_id": 162940,
+        "message_id": 7143,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-07T20:20:39.046533+00:00"
+      },
+      {
+        "fingerprint": "b42ac3019c548807e8e41ff0542bd9ee63dc16c477b264334005a1155364c8fc",
+        "media_fingerprint": "",
+        "text": "🎖️\n#اختصاصی_توتال\n🏅\nترکیب استقلال در دیدار فردا برابر تراکتور\n🔺\nسیستم پایه ۳۵۲\n🔺\nحبیب فرعباسی\n🔺\nرستم آشرماتوف\n🔺\nسامان فلاح\n🔺\nعارف آقاسی\n🔺\nحسین گودرزی\n🔺\nصالح حردانی\n🔺\nامیرمحمد رزاقی‌نیا\n🔺\nروزبه چشمی\n🔺\nیاسر آسانی\n🔺\nعلیرضا کوشکی\n🔺\nسعید سحرخیزان\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_username": "total_fut",
+        "original_text": "🎖️\n#اختصاصی_توتال\n🏅\nترکیب استقلال در دیدار فردا برابر تراکتور\n🔺\nسیستم پایه ۳۵۲\n🔺\nحبیب فرعباسی\n🔺\nرستم آشرماتوف\n🔺\nسامان فلاح\n🔺\nعارف آقاسی\n🔺\nحسین گودرزی\n🔺\nصالح حردانی\n🔺\nامیرمحمد رزاقی‌نیا\n🔺\nروزبه چشمی\n🔺\nیاسر آسانی\n🔺\nعلیرضا کوشکی\n🔺\nسعید سحرخیزان\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_link": "https://t.me/total_fut/237389",
+        "post_id": 237389,
+        "message_id": 7144,
+        "message_kind": "text",
+        "sources": [
+          "total_fut"
+        ],
+        "created_at": "2026-10-07T20:20:42.183339+00:00"
       }
     ]
   }
