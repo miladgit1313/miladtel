@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143215,
+      "last_id": 143217,
       "processed_ids": [
-        142115,
-        142116,
         142117,
         142118,
         142119,
@@ -1002,12 +1000,14 @@
         143212,
         143213,
         143214,
-        143215
+        143215,
+        143216,
+        143217
       ],
-      "sent_count": 717
+      "sent_count": 719
     },
     "total_fut": {
-      "last_id": 237346,
+      "last_id": 237347,
       "processed_ids": [
         236405,
         236407,
@@ -1903,14 +1903,14 @@
         237342,
         237344,
         237345,
-        237346
+        237346,
+        237347
       ],
       "sent_count": 71
     },
     "footballvision2": {
-      "last_id": 170534,
+      "last_id": 170535,
       "processed_ids": [
-        169456,
         169457,
         169458,
         169459,
@@ -2909,7 +2909,8 @@
         170531,
         170532,
         170533,
-        170534
+        170534,
+        170535
       ],
       "sent_count": 72
     },
@@ -4501,7 +4502,7 @@
       "sent_count": 71
     },
     "roidbest": {
-      "last_id": 21796,
+      "last_id": 21797,
       "processed_ids": [
         21613,
         21614,
@@ -4679,12 +4680,13 @@
         21792,
         21793,
         21795,
-        21796
+        21796,
+        21797
       ],
-      "sent_count": 109
+      "sent_count": 110
     },
     "akhbar_cafenet": {
-      "last_id": 23051,
+      "last_id": 23054,
       "processed_ids": [
         22432,
         22433,
@@ -5276,7 +5278,10 @@
         23048,
         23049,
         23050,
-        23051
+        23051,
+        23052,
+        23053,
+        23054
       ],
       "sent_count": 330
     },
@@ -6848,7 +6853,7 @@
       "sent_count": 602
     },
     "dr_salamatx": {
-      "last_id": 55361,
+      "last_id": 55362,
       "processed_ids": [
         55270,
         55271,
@@ -6941,9 +6946,10 @@
         55358,
         55359,
         55360,
-        55361
+        55361,
+        55362
       ],
-      "sent_count": 58
+      "sent_count": 59
     },
     "jaleb": {
       "last_id": 52737,
@@ -8185,10 +8191,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109216,
+      "last_id": 109218,
       "processed_ids": [
-        108135,
-        108136,
         108137,
         108138,
         108139,
@@ -9186,14 +9190,15 @@
         109213,
         109214,
         109215,
-        109216
+        109216,
+        109217,
+        109218
       ],
       "sent_count": 65
     },
     "varzesh3": {
-      "last_id": 303509,
+      "last_id": 303510,
       "processed_ids": [
-        302407,
         302408,
         302410,
         302411,
@@ -10192,12 +10197,13 @@
         303506,
         303507,
         303508,
-        303509
+        303509,
+        303510
       ],
       "sent_count": 49
     },
     "totalfut_plus": {
-      "last_id": 26508,
+      "last_id": 26509,
       "processed_ids": [
         25870,
         25871,
@@ -10818,7 +10824,8 @@
         26505,
         26506,
         26507,
-        26508
+        26508,
+        26509
       ],
       "sent_count": 34
     },
@@ -11810,9 +11817,8 @@
       "sent_count": 128
     },
     "futball180tv": {
-      "last_id": 107983,
+      "last_id": 107984,
       "processed_ids": [
-        106966,
         106967,
         106968,
         106969,
@@ -12811,12 +12817,13 @@
         107979,
         107980,
         107981,
-        107983
+        107983,
+        107984
       ],
       "sent_count": 46
     },
     "hattric_official": {
-      "last_id": 84359,
+      "last_id": 84360,
       "processed_ids": [
         83433,
         83434,
@@ -13689,12 +13696,13 @@
         84356,
         84357,
         84358,
-        84359
+        84359,
+        84360
       ],
       "sent_count": 61
     },
     "mazdak_hattrick": {
-      "last_id": 182393,
+      "last_id": 182394,
       "processed_ids": [
         181991,
         181992,
@@ -14092,7 +14100,8 @@
         182390,
         182391,
         182392,
-        182393
+        182393,
+        182394
       ],
       "sent_count": 31
     },
@@ -14211,7 +14220,7 @@
       "sent_count": 5
     },
     "irwonders": {
-      "last_id": 58401,
+      "last_id": 58402,
       "processed_ids": [
         58030,
         58031,
@@ -14538,7 +14547,8 @@
         58398,
         58399,
         58400,
-        58401
+        58401,
+        58402
       ],
       "sent_count": 210
     },
@@ -16862,66 +16872,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "c3272341e100cdbb6331bad0f8fd414a5a2cf129ddd16e8beedc3d19688ec6c0",
-        "media_fingerprint": "23e1bc5d52a72a6dc875a174806d02903f5a6f8d3686452e692d151a7444fc72",
-        "text": "سلام به دانشکده 05 کرمان\n✌️",
-        "original_username": "drtel",
-        "original_text": "سلام به دانشکده 05 کرمان\n✌️",
-        "original_link": "https://t.me/drtel/67283",
-        "post_id": 67283,
-        "message_id": 5835,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-03T14:37:32.119808+00:00"
-      },
-      {
-        "fingerprint": "e7f691935d7628e28d5e80b178d732eb4ff626673f36bf3bd0f2678232e6b071",
-        "media_fingerprint": "106c616540041b4afc157f2874854eece915b646cdb83b44f576ae1963656ae5",
-        "text": "🔥\nست هودی و شلوار بخر، کفش ورزشی هدیه بگیر!\n👟\n🎁\nسوییشرت + شلوار مدل Mpower\nرو بخر و یک جفت\nکفش ورزشی مدل Pavlo\nهم هدیه بگیر!\n💳\nپرداخت در\n۴ قسط ۵۵۰ هزار تومنی\n💰\nپرداخت نقدی فقط\n۱,۹۵۰,۰۰۰ تومان\n🏠\nپرداخت درب منزل\n🔄\nضمانت تعویض ۳ روزه کالا\n📌\nمشخصات محصول:\n🧥\nست سوییشرت و شلوار Mpower\n• جنس: پلی‌استر سبک و باکیفیت\n• مناسب سایز\nL / XL\n• مناسب برای هوای خنک بهاری\n👟\nکفش ورزشی Pavlo\n• سایزهای\n۴۱ تا ۴۴\n• زیره\nPU\nنرم و راحت\nخرید تلفنی\n👇\nhttps://memarket24.ir/product/fast/58354/180124/",
-        "original_username": "akhbarfars",
-        "original_text": "🔥\nست هودی و شلوار بخر، کفش ورزشی هدیه بگیر!\n👟\n🎁\nسوییشرت + شلوار مدل Mpower\nرو بخر و یک جفت\nکفش ورزشی مدل Pavlo\nهم هدیه بگیر!\n💳\nپرداخت در\n۴ قسط ۵۵۰ هزار تومنی\n💰\nپرداخت نقدی فقط\n۱,۹۵۰,۰۰۰ تومان\n🏠\nپرداخت درب منزل\n🔄\nضمانت تعویض ۳ روزه کالا\n📌\nمشخصات محصول:\n🧥\nست سوییشرت و شلوار Mpower\n• جنس: پلی‌استر سبک و باکیفیت\n• مناسب سایز\nL / XL\n• مناسب برای هوای خنک بهاری\n👟\nکفش ورزشی Pavlo\n• سایزهای\n۴۱ تا ۴۴\n• زیره\nPU\nنرم و راحت\nخرید تلفنی\n👇\nhttps://memarket24.ir/product/fast/58354/180124/",
-        "original_link": "https://t.me/akhbarfars/142948",
-        "post_id": 142948,
-        "message_id": 5836,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-03T14:37:37.288215+00:00"
-      },
-      {
-        "fingerprint": "aecb62e2f58eebb0f4c94ada87051415c023ce648ab61243e4d7a66fb7358afc",
-        "media_fingerprint": "464b367a85d207503a9d24f80d15a40eed2c6a96bdb102b3f32a5f1692b24e02",
-        "text": "عمو مگه قرار نبود به اینجور ادما کمک کنیم دِآخه حرومزادههههههه\n😂\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "عمو مگه قرار نبود به اینجور ادما کمک کنیم دِآخه حرومزادههههههه\n😂\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/2823",
-        "post_id": 2823,
-        "message_id": 5837,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-03T14:37:41.906206+00:00"
-      },
-      {
-        "fingerprint": "b6b46ac26ab9da037ce0d0be312af5bcfb59e700e4c5748693a9ec515cc6c1f2",
-        "media_fingerprint": "",
-        "text": "🚨\n🔴\nیاسین سلمانی در تلاش است به روزهای اوج خود برگردد و در بازی دوستانه دیروز پرسپولیس هم یک ضربه ایستگاهی به تیر دروازه گل‌گهر زد.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n🔴\nیاسین سلمانی در تلاش است به روزهای اوج خود برگردد و در بازی دوستانه دیروز پرسپولیس هم یک ضربه ایستگاهی به تیر دروازه گل‌گهر زد.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/234628",
-        "post_id": 234628,
-        "message_id": 5838,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-03T14:37:44.804979+00:00"
-      },
       {
         "fingerprint": "1cd6da4fe8a8c735eb710c08e324a74d5d8f1d04d64407fe9990fc5fac88b593",
         "media_fingerprint": "6326245bd3f78a4ea66ea7115ca4a34f7207dcca450fd148f0786baaaca1271e",
@@ -31932,7 +31882,8 @@
         "message_id": 6894,
         "message_kind": "caption",
         "sources": [
-          "jaleb"
+          "jaleb",
+          "irwonders"
         ],
         "created_at": "2026-10-07T05:20:56.499252+00:00"
       },
@@ -31950,6 +31901,66 @@
           "khandehabadd"
         ],
         "created_at": "2026-10-07T05:21:07.119300+00:00"
+      },
+      {
+        "fingerprint": "c513087e5c0cffa6b96dbf122143d47631429de34210b86e1baee7bbb4611e14",
+        "media_fingerprint": "",
+        "text": "♦️\n#چند_خبر_کوتاه\n🔹\nتعدادی تجهیزات پزشکی به بانک امانات جمعیت هلال‌احمر فراشبند اهدا شد.\n🔹\nدستانِ پرمهر جهادگران بسیج دامپزشکی، این بار در روستا‌های بخش مرکزی جهرم به یاری دامداران شتافت.\n🔹\nمردم نیکوکار شهرستان قیروکارزین، ۵۴ واحد خون به بیماران نیازمند اهدا کردند.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\n#چند_خبر_کوتاه\n🔹\nتعدادی تجهیزات پزشکی به بانک امانات جمعیت هلال‌احمر فراشبند اهدا شد.\n🔹\nدستانِ پرمهر جهادگران بسیج دامپزشکی، این بار در روستا‌های بخش مرکزی جهرم به یاری دامداران شتافت.\n🔹\nمردم نیکوکار شهرستان قیروکارزین، ۵۴ واحد خون به بیماران نیازمند اهدا کردند.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143216",
+        "post_id": 143216,
+        "message_id": 6896,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-07T05:49:17.661982+00:00"
+      },
+      {
+        "fingerprint": "4be1fd06c762dfc0141c1a6c108ab4d6d0e34ddacfc60ffb3cd0c9742847482d",
+        "media_fingerprint": "0914401a63dc77114435cb9befec31fe7000dd48596964abc9f553bf000f7797",
+        "text": "👨‍🔬\nکنجد؛ دانه‌ای کوچک با کلسیم فراوان\n🤩\nکنجد علاوه بر چربی‌های مفید، حاوی کلسیم، منیزیم و آهن است. استفاده متعادل از آن روی سالاد، نان یا غذاهای خانگی می‌تواند تنوع مواد مغذی رژیم غذایی را افزایش دهد.\n🌐\nfdc.nal.usda.gov\n#تغذیه_و_رژیم\n#کنجد\n🖥\n@Dr_SalamatX",
+        "original_username": "dr_salamatx",
+        "original_text": "👨‍🔬\nکنجد؛ دانه‌ای کوچک با کلسیم فراوان\n🤩\nکنجد علاوه بر چربی‌های مفید، حاوی کلسیم، منیزیم و آهن است. استفاده متعادل از آن روی سالاد، نان یا غذاهای خانگی می‌تواند تنوع مواد مغذی رژیم غذایی را افزایش دهد.\n🌐\nfdc.nal.usda.gov\n#تغذیه_و_رژیم\n#کنجد\n🖥\n@Dr_SalamatX",
+        "original_link": "https://t.me/Dr_SalamatX/55362",
+        "post_id": 55362,
+        "message_id": 6897,
+        "message_kind": "caption",
+        "sources": [
+          "dr_salamatx"
+        ],
+        "created_at": "2026-10-07T05:49:22.699829+00:00"
+      },
+      {
+        "fingerprint": "935f6f77d856022a087385c470b16991a2fe6a00736e3d99b285a3e0a6a7e45b",
+        "media_fingerprint": "cb4b97e61c12e9a976bc03475c12a77d82f78c9c54b1c2b5ce452d6a7f7980e1",
+        "text": "تنها کسی که تو زندگی نگرانم بود همین بزرگوار بود\n😭\n@RoidBest",
+        "original_username": "roidbest",
+        "original_text": "تنها کسی که تو زندگی نگرانم بود همین بزرگوار بود\n😭\n@RoidBest",
+        "original_link": "https://t.me/RoidBest/21797",
+        "post_id": 21797,
+        "message_id": 6898,
+        "message_kind": "caption",
+        "sources": [
+          "roidbest"
+        ],
+        "created_at": "2026-10-07T05:49:26.588184+00:00"
+      },
+      {
+        "fingerprint": "ad9e9e7fffd480d61646b4dc05a3d2233f9b1211908b1790b796e033b3185af3",
+        "media_fingerprint": "",
+        "text": "♦️\nیمن: با موشک بالستیک فرودگاه عدن را هدف قرار دادیم\n🔹\nنیروهای مسلح یمن با صدور بیانیه‌ای اعلام کردند که با استفاده از موشک‌های بالستیک، محموله تجهیزات و اقلام نظامی عربستان را که به اردوگاه «بدر» در مجاورت فرودگاه بین‌المللی عدن رسیده بود، هدف قرار داده‌اند.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nیمن: با موشک بالستیک فرودگاه عدن را هدف قرار دادیم\n🔹\nنیروهای مسلح یمن با صدور بیانیه‌ای اعلام کردند که با استفاده از موشک‌های بالستیک، محموله تجهیزات و اقلام نظامی عربستان را که به اردوگاه «بدر» در مجاورت فرودگاه بین‌المللی عدن رسیده بود، هدف قرار داده‌اند.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143217",
+        "post_id": 143217,
+        "message_id": 6899,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-07T05:49:29.561438+00:00"
       }
     ]
   }
