@@ -1007,7 +1007,7 @@
       "sent_count": 725
     },
     "total_fut": {
-      "last_id": 237356,
+      "last_id": 237359,
       "processed_ids": [
         236405,
         236407,
@@ -1913,7 +1913,10 @@
         237353,
         237354,
         237355,
-        237356
+        237356,
+        237357,
+        237358,
+        237359
       ],
       "sent_count": 74
     },
@@ -4705,7 +4708,7 @@
       "sent_count": 111
     },
     "akhbar_cafenet": {
-      "last_id": 23063,
+      "last_id": 23064,
       "processed_ids": [
         22432,
         22433,
@@ -5308,7 +5311,8 @@
         23060,
         23061,
         23062,
-        23063
+        23063,
+        23064
       ],
       "sent_count": 333
     },
@@ -5962,7 +5966,7 @@
       "sent_count": 130
     },
     "gizmiztel": {
-      "last_id": 162895,
+      "last_id": 162904,
       "processed_ids": [
         161872,
         161875,
@@ -6889,9 +6893,15 @@
         162892,
         162893,
         162894,
-        162895
+        162895,
+        162896,
+        162897,
+        162898,
+        162902,
+        162903,
+        162904
       ],
-      "sent_count": 610
+      "sent_count": 614
     },
     "dr_salamatx": {
       "last_id": 55362,
@@ -8243,9 +8253,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109226,
+      "last_id": 109227,
       "processed_ids": [
-        108145,
         108146,
         108147,
         108148,
@@ -9244,7 +9253,8 @@
         109223,
         109224,
         109225,
-        109226
+        109226,
+        109227
       ],
       "sent_count": 66
     },
@@ -10255,7 +10265,7 @@
       "sent_count": 49
     },
     "totalfut_plus": {
-      "last_id": 26519,
+      "last_id": 26521,
       "processed_ids": [
         25870,
         25871,
@@ -10886,12 +10896,14 @@
         26515,
         26517,
         26518,
-        26519
+        26519,
+        26520,
+        26521
       ],
       "sent_count": 34
     },
     "adak_ir_official": {
-      "last_id": 234849,
+      "last_id": 234851,
       "processed_ids": [
         233831,
         233833,
@@ -11887,15 +11899,15 @@
         234846,
         234847,
         234848,
-        234849
+        234849,
+        234850,
+        234851
       ],
       "sent_count": 129
     },
     "futball180tv": {
-      "last_id": 108006,
+      "last_id": 108008,
       "processed_ids": [
-        106986,
-        106987,
         106988,
         106989,
         106990,
@@ -12893,12 +12905,14 @@
         108003,
         108004,
         108005,
-        108006
+        108006,
+        108007,
+        108008
       ],
       "sent_count": 46
     },
     "hattric_official": {
-      "last_id": 84370,
+      "last_id": 84372,
       "processed_ids": [
         83433,
         83434,
@@ -13781,7 +13795,9 @@
         84367,
         84368,
         84369,
-        84370
+        84370,
+        84371,
+        84372
       ],
       "sent_count": 62
     },
@@ -14310,7 +14326,7 @@
       "sent_count": 5
     },
     "irwonders": {
-      "last_id": 58411,
+      "last_id": 58413,
       "processed_ids": [
         58030,
         58031,
@@ -14647,7 +14663,9 @@
         58408,
         58409,
         58410,
-        58411
+        58411,
+        58412,
+        58413
       ],
       "sent_count": 218
     },
@@ -16526,7 +16544,7 @@
       "sent_count": 8
     },
     "cinematicketorg": {
-      "last_id": 24390,
+      "last_id": 24391,
       "processed_ids": [
         24353,
         24354,
@@ -16553,9 +16571,10 @@
         24387,
         24388,
         24389,
-        24390
+        24390,
+        24391
       ],
-      "sent_count": 18
+      "sent_count": 19
     },
     "cinemadaily": {
       "last_id": 20749,
@@ -16627,7 +16646,7 @@
       "sent_count": 40
     },
     "yejoorayi": {
-      "last_id": 502,
+      "last_id": 503,
       "processed_ids": [
         426,
         427,
@@ -16704,9 +16723,10 @@
         499,
         500,
         501,
-        502
+        502,
+        503
       ],
-      "sent_count": 68
+      "sent_count": 69
     },
     "onlinecofe_ir": {
       "last_id": 2887,
@@ -16822,7 +16842,7 @@
       "sent_count": 39
     },
     "shakhmovie": {
-      "last_id": 4078,
+      "last_id": 4079,
       "processed_ids": [
         4017,
         4018,
@@ -16862,12 +16882,13 @@
         4074,
         4075,
         4077,
-        4078
+        4078,
+        4079
       ],
-      "sent_count": 33
+      "sent_count": 34
     },
     "peach_tweet": {
-      "last_id": 2925,
+      "last_id": 2926,
       "processed_ids": [
         2745,
         2749,
@@ -16975,118 +16996,14 @@
         2922,
         2923,
         2924,
-        2925
+        2925,
+        2926
       ],
       "sent_count": 68
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "3e2786480a7fff0f4ba957b122987938907d877b5f339ae14b17e552e92de8d2",
-        "media_fingerprint": "8eefd44d71d05fd8c79ebd4b541398be3dd948cbffbd1ca1f6da1680306ad5ee",
-        "text": "ممکنه دفتر نُت موسیقی دیده باشید ولی ندونید چیه\nاین ویدیو کمک میکنه تا کشش زمانی نُت‌ها یا مدت زمانی که یک صدا یا نت ادامه می‌ یابد رو راحت متوجه شید\nو به هر کدوم از این نت ها چنگ، دولاچنگ، سه‌لاچنگ و ... میگن\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "ممکنه دفتر نُت موسیقی دیده باشید ولی ندونید چیه\nاین ویدیو کمک میکنه تا کشش زمانی نُت‌ها یا مدت زمانی که یک صدا یا نت ادامه می‌ یابد رو راحت متوجه شید\nو به هر کدوم از این نت ها چنگ، دولاچنگ، سه‌لاچنگ و ... میگن\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162707",
-        "post_id": 162707,
-        "message_id": 5888,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-03T18:40:11.647080+00:00"
-      },
-      {
-        "fingerprint": "8d8018843602088bb173d68e206261684c4011824b52efd067d33b3fe71a1b14",
-        "media_fingerprint": "",
-        "text": "استخاره آنلاین\n; مرجع استخاره واقعی با قرآن\nتوسط اساتید حوزوی علوم قرآنی و دارای اذن استخاره.\nدیگر لازم نیست برای گرفتن استخاره از اساتید معتبر به شهرهای مذهبی مانند قم، مشهد و...سفر نمایید.\nاستخاره برای:\nازدواج.\nمعامله.\nایجاد کسب و کار.\nسفر و مهاجرت.\nموضوعات درخواستی.\nو.....\nدر هنگام کار با سایت جهت دریافت کد ورود به سایت لطفاً\nفیلتر شکن\nخود را\nخاموش\nکنید.\nآدرس سایت مجموعه جهت درخواست استخاره:\nhttps://estekhare.online/\nلینک کانال مجموعه در تلگرام:\nhttps://t.me/EstekhareOnline1403\n🌐\nhttps://estekhare.online/\n🆔\n@EstekhareOnline1403",
-        "original_username": "gizmiztel",
-        "original_text": "استخاره آنلاین\n; مرجع استخاره واقعی با قرآن\nتوسط اساتید حوزوی علوم قرآنی و دارای اذن استخاره.\nدیگر لازم نیست برای گرفتن استخاره از اساتید معتبر به شهرهای مذهبی مانند قم، مشهد و...سفر نمایید.\nاستخاره برای:\nازدواج.\nمعامله.\nایجاد کسب و کار.\nسفر و مهاجرت.\nموضوعات درخواستی.\nو.....\nدر هنگام کار با سایت جهت دریافت کد ورود به سایت لطفاً\nفیلتر شکن\nخود را\nخاموش\nکنید.\nآدرس سایت مجموعه جهت درخواست استخاره:\nhttps://estekhare.online/\nلینک کانال مجموعه در تلگرام:\nhttps://t.me/EstekhareOnline1403\n🌐\nhttps://estekhare.online/\n🆔\n@EstekhareOnline1403",
-        "original_link": "https://t.me/gizmiztel/162708",
-        "post_id": 162708,
-        "message_id": 5889,
-        "message_kind": "text",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-03T18:40:22.948608+00:00"
-      },
-      {
-        "fingerprint": "b3c233c06483a5356894d75cb835f3c7d073fd0299b12d0b36a9a066f3fffc29",
-        "media_fingerprint": "c12434fbd38e2b2c1416941b5c53cd6c9a7a00fa1de2341c0b647e94bf7c139c",
-        "text": "قول بده خوب شدى پاشى خيابون ببندى\n😂\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "قول بده خوب شدى پاشى خيابون ببندى\n😂\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162709",
-        "post_id": 162709,
-        "message_id": 5890,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-03T18:40:28.430362+00:00"
-      },
-      {
-        "fingerprint": "8370c5ad3579dd88a4abd5daa1ea3d23cc083d464442fb77f2ce6c5ac2d8e7bf",
-        "media_fingerprint": "dd83a742b042f7bd05e929b429b8bd45b973f6463cbeed6e85b32c637c6a517a",
-        "text": "این خونه زندگی دیگه خونه زندگی نمیشه فقط باید آتیشش زد\n😂\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "این خونه زندگی دیگه خونه زندگی نمیشه فقط باید آتیشش زد\n😂\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162710",
-        "post_id": 162710,
-        "message_id": 5891,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-03T18:40:34.065838+00:00"
-      },
-      {
-        "fingerprint": "31741da440422fd2614ebee50682883f82027682c10512fc25225ad5c62a1829",
-        "media_fingerprint": "",
-        "text": "🔹\nصدور هشدار زرد هواشناسی برای رگبار باران و رعدوبرق در جنوب و جنوب‌شرق فارس\nمدیرکل هواشناسی فارس از صدور هشدار زرد این استان خبر داد و گفت: از بعدازظهر شنبه ۱۱ مهر، ناپایداری‌های جوی در فارس ادامه خواهد داشت و در مناطق جنوب و جنوب‌شرق استان، رگبار باران، رعدوبرق و وزش باد پیش‌بینی می‌شود.\n---------------------‐------\n♦️\nآخرین خبر فارس و شیراز\n●  تلگرام:\nt.me/Fars_today\n●  بله:\nble.ir/fars_online",
-        "original_username": "fars_today",
-        "original_text": "🔹\nصدور هشدار زرد هواشناسی برای رگبار باران و رعدوبرق در جنوب و جنوب‌شرق فارس\nمدیرکل هواشناسی فارس از صدور هشدار زرد این استان خبر داد و گفت: از بعدازظهر شنبه ۱۱ مهر، ناپایداری‌های جوی در فارس ادامه خواهد داشت و در مناطق جنوب و جنوب‌شرق استان، رگبار باران، رعدوبرق و وزش باد پیش‌بینی می‌شود.\n---------------------‐------\n♦️\nآخرین خبر فارس و شیراز\n●  تلگرام:\nt.me/Fars_today\n●  بله:\nble.ir/fars_online",
-        "original_link": "https://t.me/Fars_today/132118",
-        "post_id": 132118,
-        "message_id": 5892,
-        "message_kind": "text",
-        "sources": [
-          "fars_today"
-        ],
-        "created_at": "2026-10-03T18:40:37.223710+00:00"
-      },
-      {
-        "fingerprint": "6ff2fcd89331ba315732a89a17f349e5616c9a6eb94a8583d37e60953e19c34c",
-        "media_fingerprint": "",
-        "text": "🏅\nگل‌های پرسپولیس در بازی تدارکاتی دیروز\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_username": "total_fut",
-        "original_text": "🏅\nگل‌های پرسپولیس در بازی تدارکاتی دیروز\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_link": "https://t.me/total_fut/237176",
-        "post_id": 237176,
-        "message_id": 5893,
-        "message_kind": "text",
-        "sources": [
-          "total_fut"
-        ],
-        "created_at": "2026-10-03T18:40:40.093784+00:00"
-      },
-      {
-        "fingerprint": "1859a37ffc059d713797287b38bdb26edac5df1a7cf7c4034fc7550d62b36df1",
-        "media_fingerprint": "b677f9e9b47f537cd24ee7cd0503438277e5d86e228fc863c76c236318446994",
-        "text": "یه حسی بهم میگه اسمش امیره\n🆔\n@YeJoorayi",
-        "original_username": "yejoorayi",
-        "original_text": "یه حسی بهم میگه اسمش امیره\n🆔\n@YeJoorayi",
-        "original_link": "https://t.me/YeJoorayi/476",
-        "post_id": 476,
-        "message_id": 5894,
-        "message_kind": "caption",
-        "sources": [
-          "yejoorayi"
-        ],
-        "created_at": "2026-10-03T18:40:43.962230+00:00"
-      },
       {
         "fingerprint": "ee5223ee9aaf4af502e3763befd8786ad584a37a689aa71efb81d4723948f3db",
         "media_fingerprint": "d55e50ca3622472065dcb1f4541f61d951a5bfdb721daac8412990a0cb5ccc91",
@@ -32043,7 +31960,8 @@
         "message_id": 6949,
         "message_kind": "text",
         "sources": [
-          "total_fut"
+          "total_fut",
+          "totalfut_plus"
         ],
         "created_at": "2026-10-07T09:21:53.846873+00:00"
       },
@@ -32076,6 +31994,111 @@
           "irwonders"
         ],
         "created_at": "2026-10-07T09:22:06.068636+00:00"
+      },
+      {
+        "fingerprint": "f73063a2f5f464f006642a3a1d2e0de3c8eb49c40575916f469705ad27abbf9c",
+        "media_fingerprint": "363e523846d60584dd57862b55837be67ce7057c7da3a938e26675b519cea52d",
+        "text": "تهران قشنگم\n❤️\n📅\n۱۴ مهر، روز تهران مبارک\n🏙\nاز خیابان‌های شلوغ و کافه‌های قدیمی تا سینماهایی که بخشی از خاطرات چند نسل‌اند؛\n✨\nتهران بارها لوکیشن قصه‌هایی شده که با آن‌ها خندیدیم، گریه کردیم و خاطره ساختیم.\nشما کدوم فیلم رو با حال‌وهوای تهران به یاد میارید؟\n🥹\n@cinematicketorg",
+        "original_username": "cinematicketorg",
+        "original_text": "تهران قشنگم\n❤️\n📅\n۱۴ مهر، روز تهران مبارک\n🏙\nاز خیابان‌های شلوغ و کافه‌های قدیمی تا سینماهایی که بخشی از خاطرات چند نسل‌اند؛\n✨\nتهران بارها لوکیشن قصه‌هایی شده که با آن‌ها خندیدیم، گریه کردیم و خاطره ساختیم.\nشما کدوم فیلم رو با حال‌وهوای تهران به یاد میارید؟\n🥹\n@cinematicketorg",
+        "original_link": "https://t.me/cinematicketorg/24391",
+        "post_id": 24391,
+        "message_id": 6952,
+        "message_kind": "caption",
+        "sources": [
+          "cinematicketorg"
+        ],
+        "created_at": "2026-10-07T09:50:45.961876+00:00"
+      },
+      {
+        "fingerprint": "c8ff8220646fface7d18a5cd77acc4f1f538329196cee277800eed28af6bef9b",
+        "media_fingerprint": "cb3bf8fef35c3d8942a088609b1f440b7a9f4ed57514b257de65170234955de6",
+        "text": "🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/503",
+        "post_id": 503,
+        "message_id": 6953,
+        "message_kind": "caption",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-07T09:50:49.909062+00:00"
+      },
+      {
+        "fingerprint": "34a113e62e95e354846ad63a641c5bf60fbf628cc3800d1760f27af81bfde88f",
+        "media_fingerprint": "",
+        "text": "نتانیاهو خطاب به شهروندان اسرائیلی مدعی شد:\nبه شما قول می‌دم، ایران قبل انتخابات (۵آبان) به ما حمله می‌کنه!\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "نتانیاهو خطاب به شهروندان اسرائیلی مدعی شد:\nبه شما قول می‌دم، ایران قبل انتخابات (۵آبان) به ما حمله می‌کنه!\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162896",
+        "post_id": 162896,
+        "message_id": 6954,
+        "message_kind": "text",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-07T09:50:53.262066+00:00"
+      },
+      {
+        "fingerprint": "ad73d8bc260c731ed075ea92379d2e018a593d98c84640046d6acbe620bc15f5",
+        "media_fingerprint": "055b8d3a0a609217fae55b43e6d9caf938b43b685a6db605682accbd656fa368",
+        "text": "پزشکیان: از روزی می‌ترسم که خدا از من سوال کند که چه‌ کار کردی؟\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "پزشکیان: از روزی می‌ترسم که خدا از من سوال کند که چه‌ کار کردی؟\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162897",
+        "post_id": 162897,
+        "message_id": 6955,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-07T09:50:59.603593+00:00"
+      },
+      {
+        "fingerprint": "218b05a6710dd318977a2676ded8fa4fb73f9b417b0d34e07963ffdda8447adf",
+        "media_fingerprint": "899045b825387e93d3fb336432b203ef82fadd25370df638747d8a36ffc140e2",
+        "text": "آموزش شلیک با ضدهوایی به بانوان در میدان هفت تیر\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "آموزش شلیک با ضدهوایی به بانوان در میدان هفت تیر\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162898",
+        "post_id": 162898,
+        "message_id": 6956,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-07T09:51:10.633801+00:00"
+      },
+      {
+        "fingerprint": "cd7a03a8595fc8e350914a3912347296bc99ad71b69911589fc7f4a920872ef0",
+        "media_fingerprint": "3d5ed8ba2c5dc667aba30652b3ba991b18a2691c400bf812b7052acd6025f339",
+        "text": "ویدیو منتشر شده از مراسم ختم خواهر آقای عراقچی در مسجد نور\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "ویدیو منتشر شده از مراسم ختم خواهر آقای عراقچی در مسجد نور\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162902",
+        "post_id": 162902,
+        "message_id": 6960,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-07T09:51:17.475180+00:00"
+      },
+      {
+        "fingerprint": "0abdaf068b990269f6b6db76087bec06c95b6a919ff028ee85d88854b6a48719",
+        "media_fingerprint": "c890858b7041e6d4d20c5fd9a0f6fe54b30c2abe369a1e077953b5501766bdb6",
+        "text": "فیلم‌های برتر سال 2014 تو ژانر ترسناک:\n▪️\nAnnabelle\n▫️\nDracula Untold\n▪️\nThe Babadook\n▫️\nDeliver Us From Evil\n▪️\nI, Frankenstein\n▫️\nOuija\n▪️\nIt Follows\n▫️\nGirl House\n▪️\nCreep\n▫️\nExists\n▪️\nJessabelle\n▫️\nWrong Turn 6\n▪️\n7500\n▫️\nSpring\n▪️\nParanormal Activity: The Marked Ones\n▫️\nThe Taking of Deborah Logan\n▪️\nZombeavers\n▫️\nAs Above, So Below\n📷\n|\n@ShakhMovie",
+        "original_username": "shakhmovie",
+        "original_text": "فیلم‌های برتر سال 2014 تو ژانر ترسناک:\n▪️\nAnnabelle\n▫️\nDracula Untold\n▪️\nThe Babadook\n▫️\nDeliver Us From Evil\n▪️\nI, Frankenstein\n▫️\nOuija\n▪️\nIt Follows\n▫️\nGirl House\n▪️\nCreep\n▫️\nExists\n▪️\nJessabelle\n▫️\nWrong Turn 6\n▪️\n7500\n▫️\nSpring\n▪️\nParanormal Activity: The Marked Ones\n▫️\nThe Taking of Deborah Logan\n▪️\nZombeavers\n▫️\nAs Above, So Below\n📷\n|\n@ShakhMovie",
+        "original_link": "https://t.me/Shakhmovie/4079",
+        "post_id": 4079,
+        "message_id": 6961,
+        "message_kind": "caption",
+        "sources": [
+          "shakhmovie"
+        ],
+        "created_at": "2026-10-07T09:51:21.988557+00:00"
       }
     ]
   }
