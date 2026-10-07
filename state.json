@@ -1,11 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143240,
+      "last_id": 143244,
       "processed_ids": [
-        142136,
-        142138,
-        142139,
         142140,
         142142,
         142143,
@@ -1002,12 +999,15 @@
         143236,
         143238,
         143239,
-        143240
+        143240,
+        143241,
+        143243,
+        143244
       ],
-      "sent_count": 732
+      "sent_count": 733
     },
     "total_fut": {
-      "last_id": 237370,
+      "last_id": 237371,
       "processed_ids": [
         236405,
         236407,
@@ -1927,15 +1927,14 @@
         237367,
         237368,
         237369,
-        237370
+        237370,
+        237371
       ],
-      "sent_count": 74
+      "sent_count": 75
     },
     "footballvision2": {
-      "last_id": 170560,
+      "last_id": 170562,
       "processed_ids": [
-        169482,
-        169483,
         169484,
         169485,
         169486,
@@ -2933,7 +2932,9 @@
         170557,
         170558,
         170559,
-        170560
+        170560,
+        170561,
+        170562
       ],
       "sent_count": 72
     },
@@ -5791,7 +5792,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38648,
+      "last_id": 38649,
       "processed_ids": [
         38432,
         38433,
@@ -6006,9 +6007,10 @@
         38645,
         38646,
         38647,
-        38648
+        38648,
+        38649
       ],
-      "sent_count": 131
+      "sent_count": 132
     },
     "gizmiztel": {
       "last_id": 162904,
@@ -8306,10 +8308,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109240,
+      "last_id": 109242,
       "processed_ids": [
-        108158,
-        108159,
         108160,
         108161,
         108162,
@@ -9307,14 +9307,15 @@
         109237,
         109238,
         109239,
-        109240
+        109240,
+        109241,
+        109242
       ],
       "sent_count": 69
     },
     "varzesh3": {
-      "last_id": 303529,
+      "last_id": 303530,
       "processed_ids": [
-        302428,
         302429,
         302430,
         302431,
@@ -10313,12 +10314,13 @@
         303526,
         303527,
         303528,
-        303529
+        303529,
+        303530
       ],
       "sent_count": 49
     },
     "totalfut_plus": {
-      "last_id": 26527,
+      "last_id": 26530,
       "processed_ids": [
         25870,
         25871,
@@ -10957,7 +10959,9 @@
         26524,
         26525,
         26526,
-        26527
+        26527,
+        26528,
+        26530
       ],
       "sent_count": 36
     },
@@ -11968,9 +11972,8 @@
       "sent_count": 130
     },
     "futball180tv": {
-      "last_id": 108017,
+      "last_id": 108018,
       "processed_ids": [
-        106997,
         106998,
         106999,
         107000,
@@ -12969,12 +12972,13 @@
         108014,
         108015,
         108016,
-        108017
+        108017,
+        108018
       ],
       "sent_count": 47
     },
     "hattric_official": {
-      "last_id": 84382,
+      "last_id": 84384,
       "processed_ids": [
         83433,
         83434,
@@ -13869,12 +13873,14 @@
         84379,
         84380,
         84381,
-        84382
+        84382,
+        84383,
+        84384
       ],
-      "sent_count": 62
+      "sent_count": 63
     },
     "mazdak_hattrick": {
-      "last_id": 182407,
+      "last_id": 182408,
       "processed_ids": [
         181991,
         181992,
@@ -14283,7 +14289,8 @@
         182401,
         182402,
         182406,
-        182407
+        182407,
+        182408
       ],
       "sent_count": 33
     },
@@ -14320,7 +14327,7 @@
       "sent_count": 1
     },
     "cafenet_zarjooyi": {
-      "last_id": 2094,
+      "last_id": 2095,
       "processed_ids": [
         2082,
         2083,
@@ -14330,7 +14337,8 @@
         2087,
         2088,
         2093,
-        2094
+        2094,
+        2095
       ],
       "sent_count": 3
     },
@@ -14403,7 +14411,7 @@
       "sent_count": 5
     },
     "irwonders": {
-      "last_id": 58421,
+      "last_id": 58423,
       "processed_ids": [
         58030,
         58031,
@@ -14750,9 +14758,11 @@
         58418,
         58419,
         58420,
-        58421
+        58421,
+        58422,
+        58423
       ],
-      "sent_count": 224
+      "sent_count": 225
     },
     "razcom": {
       "last_id": 70483,
@@ -16613,7 +16623,7 @@
       "sent_count": 1
     },
     "film_news": {
-      "last_id": 14992,
+      "last_id": 14993,
       "processed_ids": [
         14976,
         14978,
@@ -16629,7 +16639,8 @@
         14989,
         14990,
         14991,
-        14992
+        14992,
+        14993
       ],
       "sent_count": 8
     },
@@ -16738,7 +16749,7 @@
       "sent_count": 42
     },
     "yejoorayi": {
-      "last_id": 504,
+      "last_id": 506,
       "processed_ids": [
         426,
         427,
@@ -16817,9 +16828,10 @@
         501,
         502,
         503,
-        504
+        504,
+        506
       ],
-      "sent_count": 70
+      "sent_count": 71
     },
     "onlinecofe_ir": {
       "last_id": 2887,
@@ -17102,97 +17114,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "e3f27a218a3a3572549d7f8193e54727a3a1d1d9abbc98ce065d0bb776fa49e2",
-        "media_fingerprint": "37d7f89503b94a696b70aeb6307936ee36f740bb8e9cb23197525839209cae9f",
-        "text": "این ویدیو حسابی داره تو کل دنیا وایرال میشه. تو کنسرت سابرینا کارپنتر، خواننده‌ی معروف آمریکایی یه پسر ایرانی به اسم حسین رو میبینه، سابرینا بهش میگه از اولش که دیدمت نمیتونم از چشم بردارم و عاشقت شدم، بنظرم واسه باقی عمر میتونیم زندگی عاشقانه ای باهم داشته باشیم. بعد بهش میگه اهل کجایی؟ حسین میگه اهل ایرانم.\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "این ویدیو حسابی داره تو کل دنیا وایرال میشه. تو کنسرت سابرینا کارپنتر، خواننده‌ی معروف آمریکایی یه پسر ایرانی به اسم حسین رو میبینه، سابرینا بهش میگه از اولش که دیدمت نمیتونم از چشم بردارم و عاشقت شدم، بنظرم واسه باقی عمر میتونیم زندگی عاشقانه ای باهم داشته باشیم. بعد بهش میگه اهل کجایی؟ حسین میگه اهل ایرانم.\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/2836",
-        "post_id": 2836,
-        "message_id": 5948,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-03T18:45:52.609309+00:00"
-      },
-      {
-        "fingerprint": "15c7ee0fbc86607df519e5deda76fb9bda0a8eb095a22e0c36994b4748d779ed",
-        "media_fingerprint": "",
-        "text": "انهدام تیم تروریستی مرتبط با سلطنت‌طلبان در فارس\n🔹\nیک تیم تروریستی مرتبط با جریان سلطنت‌طلب در شهرستان نورآباد استان فارس توسط سربازان گمنام امام زمان(عج) شناسایی و منهدم شد.\n🔹\nاعضای این تیم علاوه بر تبلیغ و تحریک به خرابکاری، در حمله به زیرساخت‌های خدماتی و تخریب اموال عمومی در حوادث دی‌ماه ۱۴۰۴ نورآباد نقش داشته‌اند.",
-        "original_username": "fars_today",
-        "original_text": "انهدام تیم تروریستی مرتبط با سلطنت‌طلبان در فارس\n🔹\nیک تیم تروریستی مرتبط با جریان سلطنت‌طلب در شهرستان نورآباد استان فارس توسط سربازان گمنام امام زمان(عج) شناسایی و منهدم شد.\n🔹\nاعضای این تیم علاوه بر تبلیغ و تحریک به خرابکاری، در حمله به زیرساخت‌های خدماتی و تخریب اموال عمومی در حوادث دی‌ماه ۱۴۰۴ نورآباد نقش داشته‌اند.",
-        "original_link": "https://t.me/Fars_today/132120",
-        "post_id": 132120,
-        "message_id": 5949,
-        "message_kind": "text",
-        "sources": [
-          "fars_today",
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-03T18:45:55.597245+00:00"
-      },
-      {
-        "fingerprint": "12075b1903a4ffc6f6894d4765bf9adfe1d638905438218c51eb9a503a0c4486",
-        "media_fingerprint": "9adeb0f8ffe4aa1532deac652926cc31a99f2986412244e1a7a8ea76db37bbfd",
-        "text": "مالیدن چشم‌ها می‌تواند منجر به پیوند قرنیه شود!\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "مالیدن چشم‌ها می‌تواند منجر به پیوند قرنیه شود!\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162712",
-        "post_id": 162712,
-        "message_id": 5950,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-03T18:46:01.991445+00:00"
-      },
-      {
-        "fingerprint": "92221293484f6aa101d34f19ab43ed58c28fac9f5502cb4860e5cb8fa3a27303",
-        "media_fingerprint": "82e73d2aa1f447e31a42b6db630000379c075ac637f77362eb3fbc74712141a8",
-        "text": "درگیری آسمان تهران با برج‌میلاد امروز\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "درگیری آسمان تهران با برج‌میلاد امروز\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162716",
-        "post_id": 162716,
-        "message_id": 5951,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-03T18:46:08.673118+00:00"
-      },
-      {
-        "fingerprint": "ac0fd67b0cd7ca25e67470f8fc473e11fd8c76c672dfb66cc2a18029246cbcf9",
-        "media_fingerprint": "71983872318490474d8bedcb573f37cb727d4f98ed328ceb3f56b9dc6c8f46b3",
-        "text": "نون تو دلالیه\n😂\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "نون تو دلالیه\n😂\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162719",
-        "post_id": 162719,
-        "message_id": 5952,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-03T18:46:14.047153+00:00"
-      },
-      {
-        "fingerprint": "fbc90693e6efa536ef867d2e4757a5a94fc89860698aa039bf35c92ab8572b1a",
-        "media_fingerprint": "994892a066ebde49a11bc9f6bbd08604606b6408d2fb60844bef1207487fb6d9",
-        "text": "🎖️\n#توتال_گرافیک\n🏅\nوضعیت پیچیده خط دفاعی پرسپولیس!\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_username": "total_fut",
-        "original_text": "🎖️\n#توتال_گرافیک\n🏅\nوضعیت پیچیده خط دفاعی پرسپولیس!\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_link": "https://t.me/total_fut/237185",
-        "post_id": 237185,
-        "message_id": 5953,
-        "message_kind": "caption",
-        "sources": [
-          "total_fut"
-        ],
-        "created_at": "2026-10-03T18:46:30.115431+00:00"
-      },
       {
         "fingerprint": "4088c07b85b7af96d45f9b08f30eb83d025e9185263840de26facb4e4e26c770",
         "media_fingerprint": "",
@@ -32197,6 +32118,96 @@
           "bajefilm"
         ],
         "created_at": "2026-10-07T13:23:36.845008+00:00"
+      },
+      {
+        "fingerprint": "c5f31198ffc6030acde70241a1516a71d50602b427b3e8f939bb59917b06b816",
+        "media_fingerprint": "2f54aa546cca67c0f41772fb5c6e1d67cb3f796861abda7657ff98b05db1f155",
+        "text": "هر نوع درد دندان نشانه چیست!\n🦷\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "هر نوع درد دندان نشانه چیست!\n🦷\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38649",
+        "post_id": 38649,
+        "message_id": 7013,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-07T13:50:21.067042+00:00"
+      },
+      {
+        "fingerprint": "785d833565a31fbdc209ca852d0f8a842b10c49bc298371f3eb0acbd06492979",
+        "media_fingerprint": "91dd623cb6752316c67d08e9484bd6f0b87eb47cad8f82b767238537a8b8241f",
+        "text": "با مفهوم علائم درج‌شده روی برچسب لباس‌ها آشنا شوید\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "با مفهوم علائم درج‌شده روی برچسب لباس‌ها آشنا شوید\n@irWonders",
+        "original_link": "https://t.me/irwonders/58422",
+        "post_id": 58422,
+        "message_id": 7014,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-07T13:50:28.135561+00:00"
+      },
+      {
+        "fingerprint": "a33a7b953f525707c7018b29b537f07204cb16776bd6acf6e09b9783d1048637",
+        "media_fingerprint": "954b807e3a9eb97c9a73d5dd2fb3ff4bfe97528f19f6d91dd2ad6ec87ee76847",
+        "text": "🎖️\n#اختصاصی_توتال  #تکمیلی\n🏅\nامتیاز پادیاب خلخال با عقد قرارداد رسمی به باشگاه پرسپولیس انتقال یافت.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی | @Total_pishbinibot  @total_fut",
+        "original_username": "total_fut",
+        "original_text": "🎖️\n#اختصاصی_توتال  #تکمیلی\n🏅\nامتیاز پادیاب خلخال با عقد قرارداد رسمی به باشگاه پرسپولیس انتقال یافت.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی | @Total_pishbinibot  @total_fut",
+        "original_link": "https://t.me/total_fut/237371",
+        "post_id": 237371,
+        "message_id": 7015,
+        "message_kind": "caption",
+        "sources": [
+          "total_fut"
+        ],
+        "created_at": "2026-10-07T13:50:32.739028+00:00"
+      },
+      {
+        "fingerprint": "f394b4a9a4e3e7ee0b86476fb035d1c4ba509851502b72e22a140d2218b02e2d",
+        "media_fingerprint": "347e3bc4676a6d8bb44909cf7513855f96891f8b3c72059a072f240249b4c2ea",
+        "text": "آدم حسابی\n🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "آدم حسابی\n🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/506",
+        "post_id": 506,
+        "message_id": 7016,
+        "message_kind": "caption",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-07T13:50:36.777591+00:00"
+      },
+      {
+        "fingerprint": "5f802cbe981fe83dfed6859192e67f56d09f32bf608e439e72adae3f0042f153",
+        "media_fingerprint": "",
+        "text": "⚽\nبا اعلام باشگاه پرسپولیس این باشگاه امتیاز تیم پادیاب خلخال را خریداری کرده است.\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "⚽\nبا اعلام باشگاه پرسپولیس این باشگاه امتیاز تیم پادیاب خلخال را خریداری کرده است.\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/84384",
+        "post_id": 84384,
+        "message_id": 7017,
+        "message_kind": "text",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-07T13:50:39.732230+00:00"
+      },
+      {
+        "fingerprint": "4e4d439cab3c680b148dcf462cd31c1ec5ca02016816032d01688f5a266b4b5d",
+        "media_fingerprint": "",
+        "text": "♦️\nخانواده‌های ۳ فرزند و بیشتر مشمول تخفیف اجاره اراضی دولتی شدند\nمدیر امور اراضی سازمان جهاد کشاورزی استان فارس:\n🔹\nدر اجاره‌بها و هزینه انتقال قطعی اراضی دولتی برای خانواده‌های دارای سه فرزند و بیشتر  اعمال تخفیف خواهد شد\n🔹\nبر اساس ماده ۱۴ این قانون و تبصره ۲ ماده ۲۳ دستورالعمل اصلاحی ضوابط واگذاری اراضی ملی و دولتی، مشمولان از تخفیف‌های پیش‌بینی‌شده در واگذاری اراضی برخوردار می‌شوند.\n🔹\nبر این اساس، ۲۵ درصد تخفیف در اجاره‌بهای اراضی و ۱۰ درصد کاهش در هزینه‌های انتقال قطعی زمین برای خانواده‌های واجد شرایط اعمال خواهد شد.\n@Akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nخانواده‌های ۳ فرزند و بیشتر مشمول تخفیف اجاره اراضی دولتی شدند\nمدیر امور اراضی سازمان جهاد کشاورزی استان فارس:\n🔹\nدر اجاره‌بها و هزینه انتقال قطعی اراضی دولتی برای خانواده‌های دارای سه فرزند و بیشتر  اعمال تخفیف خواهد شد\n🔹\nبر اساس ماده ۱۴ این قانون و تبصره ۲ ماده ۲۳ دستورالعمل اصلاحی ضوابط واگذاری اراضی ملی و دولتی، مشمولان از تخفیف‌های پیش‌بینی‌شده در واگذاری اراضی برخوردار می‌شوند.\n🔹\nبر این اساس، ۲۵ درصد تخفیف در اجاره‌بهای اراضی و ۱۰ درصد کاهش در هزینه‌های انتقال قطعی زمین برای خانواده‌های واجد شرایط اعمال خواهد شد.\n@Akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143244",
+        "post_id": 143244,
+        "message_id": 7018,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-07T13:50:43.019829+00:00"
       }
     ]
   }
