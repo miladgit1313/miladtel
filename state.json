@@ -1953,9 +1953,8 @@
       "sent_count": 78
     },
     "footballvision2": {
-      "last_id": 170589,
+      "last_id": 170590,
       "processed_ids": [
-        169510,
         169511,
         169512,
         169513,
@@ -2954,7 +2953,8 @@
         170585,
         170586,
         170587,
-        170589
+        170589,
+        170590
       ],
       "sent_count": 72
     },
@@ -3193,7 +3193,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67462,
+      "last_id": 67463,
       "processed_ids": [
         66561,
         66565,
@@ -3906,9 +3906,10 @@
         67459,
         67460,
         67461,
-        67462
+        67462,
+        67463
       ],
-      "sent_count": 412
+      "sent_count": 413
     },
     "techtube": {
       "last_id": 18458,
@@ -17378,21 +17379,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "3753eb55339fb875df423aeca062e896e1ac3603721e9277879779157aeb4fec",
-        "media_fingerprint": "f01e655b071982785c32de7aa8f32a734c92a6a61688f3e0d2d49fcc18935b4c",
-        "text": "والا\n@comentiat",
-        "original_username": "comentiat",
-        "original_text": "والا\n@comentiat",
-        "original_link": "https://t.me/Comentiat/26293",
-        "post_id": 26293,
-        "message_id": 6089,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-04T16:08:01.315155+00:00"
-      },
       {
         "fingerprint": "2f6e18327413fac69f66cea90a3d6177d72ce1fa9e45dcaac2a6e9204f759152",
         "media_fingerprint": "ebf84755338f137cf2e53208122d7054a9f978fe777070fa05baabfaa51a2fad",
@@ -32474,6 +32460,21 @@
           "drtel"
         ],
         "created_at": "2026-10-07T21:49:15.537845+00:00"
+      },
+      {
+        "fingerprint": "784a2f57a695766a987b0db43a2c5d85d4ac303bfc54767f156eaf7c41b204f7",
+        "media_fingerprint": "d2b83be46652ee3a91720db35e3e6e60cd3fcb3ab9c72fe8fef4b6c55feffec2",
+        "text": "🔴\nاینستاگرام رو که باز میکنی میفهمی غیر از این ایرانی که ما توش زندگی میکنیم، یه ایرانِ دیگه هم وجود داره که برا بچه پولداراس :\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nاینستاگرام رو که باز میکنی میفهمی غیر از این ایرانی که ما توش زندگی میکنیم، یه ایرانِ دیگه هم وجود داره که برا بچه پولداراس :\n@DrTeL",
+        "original_link": "https://t.me/drtel/67463",
+        "post_id": 67463,
+        "message_id": 7157,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-07T22:17:37.828406+00:00"
       }
     ]
   }
