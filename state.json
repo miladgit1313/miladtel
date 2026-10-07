@@ -1,11 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143217,
+      "last_id": 143220,
       "processed_ids": [
-        142117,
-        142118,
-        142119,
         142120,
         142121,
         142122,
@@ -1002,12 +999,15 @@
         143214,
         143215,
         143216,
-        143217
+        143217,
+        143218,
+        143219,
+        143220
       ],
-      "sent_count": 719
+      "sent_count": 720
     },
     "total_fut": {
-      "last_id": 237347,
+      "last_id": 237348,
       "processed_ids": [
         236405,
         236407,
@@ -1904,16 +1904,14 @@
         237344,
         237345,
         237346,
-        237347
+        237347,
+        237348
       ],
       "sent_count": 71
     },
     "footballvision2": {
-      "last_id": 170535,
+      "last_id": 170538,
       "processed_ids": [
-        169457,
-        169458,
-        169459,
         169460,
         169461,
         169462,
@@ -2910,7 +2908,10 @@
         170532,
         170533,
         170534,
-        170535
+        170535,
+        170536,
+        170537,
+        170538
       ],
       "sent_count": 72
     },
@@ -4686,7 +4687,7 @@
       "sent_count": 110
     },
     "akhbar_cafenet": {
-      "last_id": 23054,
+      "last_id": 23055,
       "processed_ids": [
         22432,
         22433,
@@ -5281,7 +5282,8 @@
         23051,
         23052,
         23053,
-        23054
+        23054,
+        23055
       ],
       "sent_count": 330
     },
@@ -6952,7 +6954,7 @@
       "sent_count": 59
     },
     "jaleb": {
-      "last_id": 52737,
+      "last_id": 52738,
       "processed_ids": [
         52261,
         52262,
@@ -7373,9 +7375,10 @@
         52734,
         52735,
         52736,
-        52737
+        52737,
+        52738
       ],
-      "sent_count": 222
+      "sent_count": 223
     },
     "ajayebe_jahann": {
       "last_id": 159577,
@@ -8191,9 +8194,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109218,
+      "last_id": 109219,
       "processed_ids": [
-        108137,
         108138,
         108139,
         108140,
@@ -9192,7 +9194,8 @@
         109215,
         109216,
         109217,
-        109218
+        109218,
+        109219
       ],
       "sent_count": 65
     },
@@ -10203,7 +10206,7 @@
       "sent_count": 49
     },
     "totalfut_plus": {
-      "last_id": 26509,
+      "last_id": 26510,
       "processed_ids": [
         25870,
         25871,
@@ -10825,12 +10828,13 @@
         26506,
         26507,
         26508,
-        26509
+        26509,
+        26510
       ],
       "sent_count": 34
     },
     "adak_ir_official": {
-      "last_id": 234831,
+      "last_id": 234839,
       "processed_ids": [
         233831,
         233833,
@@ -11812,15 +11816,17 @@
         234828,
         234829,
         234830,
-        234831
+        234831,
+        234836,
+        234837,
+        234838,
+        234839
       ],
       "sent_count": 128
     },
     "futball180tv": {
-      "last_id": 107984,
+      "last_id": 107986,
       "processed_ids": [
-        106967,
-        106968,
         106969,
         106970,
         106971,
@@ -12818,12 +12824,14 @@
         107980,
         107981,
         107983,
-        107984
+        107984,
+        107985,
+        107986
       ],
       "sent_count": 46
     },
     "hattric_official": {
-      "last_id": 84360,
+      "last_id": 84361,
       "processed_ids": [
         83433,
         83434,
@@ -13697,12 +13705,13 @@
         84357,
         84358,
         84359,
-        84360
+        84360,
+        84361
       ],
       "sent_count": 61
     },
     "mazdak_hattrick": {
-      "last_id": 182394,
+      "last_id": 182397,
       "processed_ids": [
         181991,
         181992,
@@ -14101,7 +14110,10 @@
         182391,
         182392,
         182393,
-        182394
+        182394,
+        182395,
+        182396,
+        182397
       ],
       "sent_count": 31
     },
@@ -14220,7 +14232,7 @@
       "sent_count": 5
     },
     "irwonders": {
-      "last_id": 58402,
+      "last_id": 58403,
       "processed_ids": [
         58030,
         58031,
@@ -14548,9 +14560,10 @@
         58399,
         58400,
         58401,
-        58402
+        58402,
+        58403
       ],
-      "sent_count": 210
+      "sent_count": 211
     },
     "razcom": {
       "last_id": 70483,
@@ -14589,7 +14602,7 @@
       "sent_count": 8
     },
     "midanesti": {
-      "last_id": 73257,
+      "last_id": 73258,
       "processed_ids": [
         73193,
         73194,
@@ -14651,7 +14664,8 @@
         73254,
         73255,
         73256,
-        73257
+        73257,
+        73258
       ],
       "sent_count": 32
     },
@@ -16100,7 +16114,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306823,
+      "last_id": 306826,
       "processed_ids": [
         306563,
         306564,
@@ -16357,7 +16371,10 @@
         306819,
         306820,
         306821,
-        306823
+        306823,
+        306824,
+        306825,
+        306826
       ],
       "sent_count": 114
     },
@@ -16872,51 +16889,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "1cd6da4fe8a8c735eb710c08e324a74d5d8f1d04d64407fe9990fc5fac88b593",
-        "media_fingerprint": "6326245bd3f78a4ea66ea7115ca4a34f7207dcca450fd148f0786baaaca1271e",
-        "text": "سال بعد انشالله.\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "سال بعد انشالله.\n@DrTeL",
-        "original_link": "https://t.me/drtel/67284",
-        "post_id": 67284,
-        "message_id": 5839,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-03T14:37:49.400801+00:00"
-      },
-      {
-        "fingerprint": "6892051b35676928e26c53b7ef26a4e7f0145ea8576946c6442e0a782cc15cfd",
-        "media_fingerprint": "94346118f92e5d7c20a84741bfaead7846adb7988793f8790fd61b5da19fae3e",
-        "text": "بزرگ‌ترین شرکت‌های خصوصی AI در جها\nن\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "بزرگ‌ترین شرکت‌های خصوصی AI در جها\nن\n@irWonders",
-        "original_link": "https://t.me/irwonders/58267",
-        "post_id": 58267,
-        "message_id": 5840,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-03T14:37:53.626092+00:00"
-      },
-      {
-        "fingerprint": "d7fa935bfc033189784d2aa07e46329365ff1529e4d2950021eb3ae93c2e2038",
-        "media_fingerprint": "ebb9fd3d7f3fdc288139b61c8a84bfb2586ce00cb4bd4d518b0d8a6bd7b71a03",
-        "text": "♦️\nهم‌اکنون، سیلاب شدید در اوز ؛جنوب استان فارس\n#اخبار_فارس\nدر فضای مجازی\n👇\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nهم‌اکنون، سیلاب شدید در اوز ؛جنوب استان فارس\n#اخبار_فارس\nدر فضای مجازی\n👇\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142949",
-        "post_id": 142949,
-        "message_id": 5841,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-03T14:38:00.406107+00:00"
-      },
       {
         "fingerprint": "382592fc971fdfd5bb0da54bce7f261541f24157150929f82aedd1edae9b69e3",
         "media_fingerprint": "1de96b6d841657946e2e5204832a2e0a5270f86fd9c747ddd2c353692343c3da",
@@ -31610,7 +31582,8 @@
         "message_id": 6876,
         "message_kind": "caption",
         "sources": [
-          "irwonders"
+          "irwonders",
+          "khandehabadd"
         ],
         "created_at": "2026-10-06T20:48:56.319289+00:00"
       },
@@ -31961,6 +31934,51 @@
           "akhbarfars"
         ],
         "created_at": "2026-10-07T05:49:29.561438+00:00"
+      },
+      {
+        "fingerprint": "cd3d7fefd5630f821e543404be4ce6a9465518f59e692f08d3291a27c69a71cd",
+        "media_fingerprint": "",
+        "text": "جی دی ونس : ایالات متحده با مسعود پزشکیان، رئیس‌جمهور ایران، و عباس عراقچی، وزیر امور خارجه،  گفتگو کرد، «اما مشخص نیست که تصمیم‌گیری‌ها در آنجا چگونه انجام می‌شود\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "جی دی ونس : ایالات متحده با مسعود پزشکیان، رئیس‌جمهور ایران، و عباس عراقچی، وزیر امور خارجه،  گفتگو کرد، «اما مشخص نیست که تصمیم‌گیری‌ها در آنجا چگونه انجام می‌شود\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52738",
+        "post_id": 52738,
+        "message_id": 6900,
+        "message_kind": "text",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-07T06:24:40.253170+00:00"
+      },
+      {
+        "fingerprint": "6c5afe0f075441c2f6b9cb4a48228b6871773624916bfc47467dfcb2bd589a76",
+        "media_fingerprint": "3a59c7ab57b04b64e30bc2da1a580fa756498751d1b60b15fb9b11f2d7f90c0b",
+        "text": "برای اینکه فصل سرما کمتر سراغت بیاد، این چند نکته ساده رو یادت باشه!\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "برای اینکه فصل سرما کمتر سراغت بیاد، این چند نکته ساده رو یادت باشه!\n@irWonders",
+        "original_link": "https://t.me/irwonders/58403",
+        "post_id": 58403,
+        "message_id": 6901,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-07T06:24:45.540051+00:00"
+      },
+      {
+        "fingerprint": "62df7ff6040f47d41e7bface6424ac94027eb2b3e3f07b4afa2968ed2b46adb1",
+        "media_fingerprint": "",
+        "text": "♦️\nبورس به رکورد ۸ میلیون رسید\n🔹\nشاخص کل بورس با جهش ۱۴۱ هزار واحدی به ۸ میلیون و ۱۱۸ هزار واحد رسید.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nبورس به رکورد ۸ میلیون رسید\n🔹\nشاخص کل بورس با جهش ۱۴۱ هزار واحدی به ۸ میلیون و ۱۱۸ هزار واحد رسید.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143220",
+        "post_id": 143220,
+        "message_id": 6902,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-07T06:24:49.200591+00:00"
       }
     ]
   }
