@@ -1,9 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143234,
+      "last_id": 143235,
       "processed_ids": [
-        142131,
         142132,
         142133,
         142134,
@@ -1002,12 +1001,13 @@
         143230,
         143232,
         143233,
-        143234
+        143234,
+        143235
       ],
       "sent_count": 729
     },
     "total_fut": {
-      "last_id": 237364,
+      "last_id": 237365,
       "processed_ids": [
         236405,
         236407,
@@ -1921,14 +1921,14 @@
         237361,
         237362,
         237363,
-        237364
+        237364,
+        237365
       ],
       "sent_count": 74
     },
     "footballvision2": {
-      "last_id": 170552,
+      "last_id": 170553,
       "processed_ids": [
-        169474,
         169475,
         169476,
         169477,
@@ -2927,7 +2927,8 @@
         170549,
         170550,
         170551,
-        170552
+        170552,
+        170553
       ],
       "sent_count": 72
     },
@@ -4723,7 +4724,7 @@
       "sent_count": 111
     },
     "akhbar_cafenet": {
-      "last_id": 23067,
+      "last_id": 23069,
       "processed_ids": [
         22432,
         22433,
@@ -5330,12 +5331,14 @@
         23064,
         23065,
         23066,
-        23067
+        23067,
+        23068,
+        23069
       ],
-      "sent_count": 335
+      "sent_count": 336
     },
     "comentiat": {
-      "last_id": 26361,
+      "last_id": 26364,
       "processed_ids": [
         25844,
         25845,
@@ -5755,9 +5758,12 @@
         26358,
         26359,
         26360,
-        26361
+        26361,
+        26362,
+        26363,
+        26364
       ],
-      "sent_count": 304
+      "sent_count": 306
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -5767,7 +5773,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38646,
+      "last_id": 38647,
       "processed_ids": [
         38432,
         38433,
@@ -5980,9 +5986,10 @@
         38643,
         38644,
         38645,
-        38646
+        38646,
+        38647
       ],
-      "sent_count": 130
+      "sent_count": 131
     },
     "gizmiztel": {
       "last_id": 162904,
@@ -7454,7 +7461,7 @@
       "sent_count": 225
     },
     "ajayebe_jahann": {
-      "last_id": 159585,
+      "last_id": 159588,
       "processed_ids": [
         158956,
         158957,
@@ -8074,7 +8081,10 @@
         159582,
         159583,
         159584,
-        159585
+        159585,
+        159586,
+        159587,
+        159588
       ],
       "sent_count": 271
     },
@@ -8275,10 +8285,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109232,
+      "last_id": 109234,
       "processed_ids": [
-        108150,
-        108151,
         108152,
         108153,
         108154,
@@ -9276,14 +9284,15 @@
         109228,
         109229,
         109231,
-        109232
+        109232,
+        109233,
+        109234
       ],
-      "sent_count": 66
+      "sent_count": 67
     },
     "varzesh3": {
-      "last_id": 303521,
+      "last_id": 303522,
       "processed_ids": [
-        302420,
         302421,
         302423,
         302424,
@@ -10282,7 +10291,8 @@
         303518,
         303519,
         303520,
-        303521
+        303521,
+        303522
       ],
       "sent_count": 49
     },
@@ -10927,10 +10937,8 @@
       "sent_count": 35
     },
     "adak_ir_official": {
-      "last_id": 234854,
+      "last_id": 234856,
       "processed_ids": [
-        233831,
-        233833,
         233834,
         233835,
         233836,
@@ -11928,7 +11936,9 @@
         234851,
         234852,
         234853,
-        234854
+        234854,
+        234855,
+        234856
       ],
       "sent_count": 130
     },
@@ -12939,7 +12949,7 @@
       "sent_count": 46
     },
     "hattric_official": {
-      "last_id": 84375,
+      "last_id": 84378,
       "processed_ids": [
         83433,
         83434,
@@ -13827,12 +13837,15 @@
         84372,
         84373,
         84374,
-        84375
+        84375,
+        84376,
+        84377,
+        84378
       ],
       "sent_count": 62
     },
     "mazdak_hattrick": {
-      "last_id": 182400,
+      "last_id": 182401,
       "processed_ids": [
         181991,
         181992,
@@ -14237,7 +14250,8 @@
         182397,
         182398,
         182399,
-        182400
+        182400,
+        182401
       ],
       "sent_count": 32
     },
@@ -14357,7 +14371,7 @@
       "sent_count": 5
     },
     "irwonders": {
-      "last_id": 58416,
+      "last_id": 58417,
       "processed_ids": [
         58030,
         58031,
@@ -14699,9 +14713,10 @@
         58413,
         58414,
         58415,
-        58416
+        58416,
+        58417
       ],
-      "sent_count": 221
+      "sent_count": 222
     },
     "razcom": {
       "last_id": 70483,
@@ -16925,7 +16940,7 @@
       "sent_count": 34
     },
     "peach_tweet": {
-      "last_id": 2927,
+      "last_id": 2928,
       "processed_ids": [
         2745,
         2749,
@@ -17035,104 +17050,14 @@
         2924,
         2925,
         2926,
-        2927
+        2927,
+        2928
       ],
       "sent_count": 69
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "c89987bdb0307f4e7405104206f39441e8ceaee2f759de991b8fa7771ac1e99b",
-        "media_fingerprint": "",
-        "text": "🚨\n🔴\nبا توجه مصدومیت‌ها و خستگی ملی‌پوشان، چند بازیکن جوان آکادمی پرسپولیس، این شانس را دارند که در بازی بعدی در لیست پرسپولیس باشند.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n🔴\nبا توجه مصدومیت‌ها و خستگی ملی‌پوشان، چند بازیکن جوان آکادمی پرسپولیس، این شانس را دارند که در بازی بعدی در لیست پرسپولیس باشند.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/234638",
-        "post_id": 234638,
-        "message_id": 5915,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-03T18:42:30.272614+00:00"
-      },
-      {
-        "fingerprint": "2c29dd3fd3f7a9fca69af9d1099835a31814dac8d5d7448ec3e971a39f72f75b",
-        "media_fingerprint": "9af635da69316886463de623548c32f230e221d1229c354e33f877c354727b12",
-        "text": "خرید طلا و نقره‌ی بدون کارمزد با پشتوانه‌ی واقعی!\n🪙\n✨\n🤩\nبا اسنپ‌سرمایه، فرصت خرید طلا و نقره‌ ی بدون کارمزد رو تا ۱۷ مهر از دست نده.\n😎\nاگه قراره سرمایه‌گذاری کنی، این بار با دستِ پُر شروع کن\nچون\nاسنپ‌سرمایه، جفت دستش پره!\n💛\n🩶\n‼️\nتا ۱۷ مهر، فرصت خرید بدون کارمزد رو از دست نده.\nhttps://l.snpy.ir/tmgfr\nhttps://l.snpy.ir/tmgfr\nhttps://l.snpy.ir/tmgfr",
-        "original_username": "irwonders",
-        "original_text": "خرید طلا و نقره‌ی بدون کارمزد با پشتوانه‌ی واقعی!\n🪙\n✨\n🤩\nبا اسنپ‌سرمایه، فرصت خرید طلا و نقره‌ ی بدون کارمزد رو تا ۱۷ مهر از دست نده.\n😎\nاگه قراره سرمایه‌گذاری کنی، این بار با دستِ پُر شروع کن\nچون\nاسنپ‌سرمایه، جفت دستش پره!\n💛\n🩶\n‼️\nتا ۱۷ مهر، فرصت خرید بدون کارمزد رو از دست نده.\nhttps://l.snpy.ir/tmgfr\nhttps://l.snpy.ir/tmgfr\nhttps://l.snpy.ir/tmgfr",
-        "original_link": "https://t.me/irwonders/58276",
-        "post_id": 58276,
-        "message_id": 5916,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders",
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-03T18:42:34.792988+00:00"
-      },
-      {
-        "fingerprint": "b201231463267a9ed730382a999ec8a6137b356516d078e30ed33173adecd5b5",
-        "media_fingerprint": "ee357a064a99b04d09e0e17478910459816826d368a74c37bf89dc95ede18cf2",
-        "text": "سلفی‌های جدید قرمه سبزی ورگارا\n🍒\n📷\n|\n@ShakhMovie",
-        "original_username": "shakhmovie",
-        "original_text": "سلفی‌های جدید قرمه سبزی ورگارا\n🍒\n📷\n|\n@ShakhMovie",
-        "original_link": "https://t.me/Shakhmovie/4039",
-        "post_id": 4039,
-        "message_id": 5917,
-        "message_kind": "caption",
-        "sources": [
-          "shakhmovie"
-        ],
-        "created_at": "2026-10-03T18:42:40.760602+00:00"
-      },
-      {
-        "fingerprint": "8cd1926a92a1f3662040aac2416cce27d2c0b893442f40dc4b88171715b813d8",
-        "media_fingerprint": "75b873a35a54a60cdfd573ed774f27e0f2d7a0c9f127fb069f87aff290a7abfd",
-        "text": "سازه در تصویر کوه نیست بلکه یک قلعه دو هزار ساله است!\n🔸\nقلعه لوهاگاد، واقع در ماهاراشترا، هند، قلعه ای تپه ای است که قدمت آن به بیش از 2000 سال می رسد و منشأ آن به دوره ساتاواهانا در حدود قرن 1 تا 2 قبل از میلاد بازمی گردد. با ارتفاع 1033 متری، به عنوان یک دژ استراتژیک برای سلسله های متعدد عمل کرد و بعدها در قرن هفدهم در زمان چاتراپاتی شیواجی نقش مهمی ایفا کرد. این قلعه دارای دیوارهای سنگی عظیم، دروازه‌های مستحکم و مخازن آب است که بارزترین ویژگی آن، وینچو کاتا، شبیه دم عقرب است.\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "سازه در تصویر کوه نیست بلکه یک قلعه دو هزار ساله است!\n🔸\nقلعه لوهاگاد، واقع در ماهاراشترا، هند، قلعه ای تپه ای است که قدمت آن به بیش از 2000 سال می رسد و منشأ آن به دوره ساتاواهانا در حدود قرن 1 تا 2 قبل از میلاد بازمی گردد. با ارتفاع 1033 متری، به عنوان یک دژ استراتژیک برای سلسله های متعدد عمل کرد و بعدها در قرن هفدهم در زمان چاتراپاتی شیواجی نقش مهمی ایفا کرد. این قلعه دارای دیوارهای سنگی عظیم، دروازه‌های مستحکم و مخازن آب است که بارزترین ویژگی آن، وینچو کاتا، شبیه دم عقرب است.\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159486",
-        "post_id": 159486,
-        "message_id": 5919,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-03T18:42:47.980108+00:00"
-      },
-      {
-        "fingerprint": "f5b0d09314e3d3beaf433e8e68039b56591825276aec86d13cbf846bdb327218",
-        "media_fingerprint": "cd84c2e4236bd170e36bd10ad11ea000f500d8d45bf68c3097b49e84bccdb914",
-        "text": "♦️\nخوراک‌گوشت‌وبادمجون خوشمزه\n😍\n😋\nمواد لازم:\n🔹️\nبرای سس گوشت\n🔹️\nگوشت چرخ شده\n🔹️\nپیاز\n🔹️\nفلفل دلمه رنگی\n🔹️\nربگوجه\n🔹️\nفلفل سیاه.نمک.جوزهندی\n🔹️\nبرای سس ربگوجه\n🔹️\nرب‌گوجه\n🔹️\nفلفل سیاه\n🔹️\nنمک\nبرای تلخی گیری‌بادمجون هارو نیم‌ساعت توی آب نمک بزارید بعد بادستمال کاملا خشک کنید که روغن روجذب نکند.\n#آشپزی\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nخوراک‌گوشت‌وبادمجون خوشمزه\n😍\n😋\nمواد لازم:\n🔹️\nبرای سس گوشت\n🔹️\nگوشت چرخ شده\n🔹️\nپیاز\n🔹️\nفلفل دلمه رنگی\n🔹️\nربگوجه\n🔹️\nفلفل سیاه.نمک.جوزهندی\n🔹️\nبرای سس ربگوجه\n🔹️\nرب‌گوجه\n🔹️\nفلفل سیاه\n🔹️\nنمک\nبرای تلخی گیری‌بادمجون هارو نیم‌ساعت توی آب نمک بزارید بعد بادستمال کاملا خشک کنید که روغن روجذب نکند.\n#آشپزی\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/142968",
-        "post_id": 142968,
-        "message_id": 5920,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-03T18:42:55.274012+00:00"
-      },
-      {
-        "fingerprint": "68b0ffbe025f2c1a19422288b6077811ea918a2737172206aa66cd5f69afd09a",
-        "media_fingerprint": "a0f13bcc3b24cfe9aa8f071e2547118f2d0f7a09aec654263f79ae3ecec8438f",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26266",
-        "post_id": 26266,
-        "message_id": 5921,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-03T18:42:59.320983+00:00"
-      },
       {
         "fingerprint": "ad4bbc762010bb8f82ed18f328a31ffc502a6157fd8190fe8694a84047bab720",
         "media_fingerprint": "ac065a9a8e6645966dfda0e12ddcb7d383460437ba05640708104fa08a8f97e3",
@@ -32136,6 +32061,96 @@
           "akhbar_cafenet"
         ],
         "created_at": "2026-10-07T10:49:57.114628+00:00"
+      },
+      {
+        "fingerprint": "4e153c07577ffcd90bb8758a6ee643b9a9dc8a4bd95d26d097430e6ba5b0088b",
+        "media_fingerprint": "7f9c6d55d2a70335f8213c3e64c5442d2b2ed96fbdda1ad930637fe7ec885bf5",
+        "text": "✅\nتشکیل پرسپولیس «ب» در مشهد\n🔸\nباشگاه پرسپولیس امتیاز تیم پادیاب خلخال را خریده و از این فصل در لیگ دسته دوم تیم‌داری می‌کند.\n☄️\nتیم پرسپولیس «ب» این فصل با نام پرسپولیس مشهد در مسابقات حاضر می‌شود.\n@Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "✅\nتشکیل پرسپولیس «ب» در مشهد\n🔸\nباشگاه پرسپولیس امتیاز تیم پادیاب خلخال را خریده و از این فصل در لیگ دسته دوم تیم‌داری می‌کند.\n☄️\nتیم پرسپولیس «ب» این فصل با نام پرسپولیس مشهد در مسابقات حاضر می‌شود.\n@Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/109233",
+        "post_id": 109233,
+        "message_id": 6980,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-07T11:19:48.158580+00:00"
+      },
+      {
+        "fingerprint": "58696a06cd4989a4df24f143a68a27ceff91c230eff92d6eb1575e90f67f1f74",
+        "media_fingerprint": "5a93a22ae26555397442ba622b2e4d8613a1a1bec2882b026adc9f976150378b",
+        "text": "طاعون واقعا برگشته؟\n◽️\nماجرای «بازگشت طاعون» پس از مرگ یک زن ۲۸ ساله شاغل در یک مؤسسه تحقیقاتی مرتبط با طاعون در روسیه مطرح شد. برخی رسانه‌ها احتمال حادثه آزمایشگاهی را مطرح کرده‌اند، اما این موضوع تأیید نشده و علت مرگ همچنان در دست بررسی است. حدود ۲۰۰ نفر…",
+        "original_username": "majalepezeshki",
+        "original_text": "طاعون واقعا برگشته؟\n◽️\nماجرای «بازگشت طاعون» پس از مرگ یک زن ۲۸ ساله شاغل در یک مؤسسه تحقیقاتی مرتبط با طاعون در روسیه مطرح شد. برخی رسانه‌ها احتمال حادثه آزمایشگاهی را مطرح کرده‌اند، اما این موضوع تأیید نشده و علت مرگ همچنان در دست بررسی است. حدود ۲۰۰ نفر…",
+        "original_link": "https://t.me/MajalePezeshki/38647",
+        "post_id": 38647,
+        "message_id": 6981,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-07T11:19:52.781105+00:00"
+      },
+      {
+        "fingerprint": "6c386934c2bcf0b0e366cc6a07eb4c1b291daa2ea2b2093bb49e8f0e979da876",
+        "media_fingerprint": "abef002e42bd65bbb0a1026dc5ec14b612165e7595167f53e49ca0ee70ca4e08",
+        "text": "🚘\nلیست قیمت محصولات ایران خودرو ویژه مهر ماه ۱۴۰۵\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🚘\nلیست قیمت محصولات ایران خودرو ویژه مهر ماه ۱۴۰۵\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23068",
+        "post_id": 23068,
+        "message_id": 6982,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-07T11:19:56.624485+00:00"
+      },
+      {
+        "fingerprint": "192a1a46b9d8fb6106d5f39e4a1b8e3e0205f9796c09bc923155cfd2700848e4",
+        "media_fingerprint": "da12d2589b3f595a537ec9ab18d4c21f6b6a4756f3fe977e61f4f3e0d344a26c",
+        "text": "یعنی\nسکس\nرو همه‌جا می‌شه پیدا کرد، ولی اون حس و جرقه‌ی خاص بین دو نفر (chemistry) رو نه.\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "یعنی\nسکس\nرو همه‌جا می‌شه پیدا کرد، ولی اون حس و جرقه‌ی خاص بین دو نفر (chemistry) رو نه.\n@comentiat",
+        "original_link": "https://t.me/Comentiat/26363",
+        "post_id": 26363,
+        "message_id": 6983,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-07T11:20:00.837507+00:00"
+      },
+      {
+        "fingerprint": "53105ca37bb52e40c060eb26aea3f2e49ebf993aad137e610b824e39f0ece77c",
+        "media_fingerprint": "3f6bce08afad61f04373c4cd1f579aa9616ca77af615039223860e424f627138",
+        "text": "پیتزای ایرانی یک شاهکار بود که به دلیل چسی جاشو به نون سوخته، علف، یکم گوشت و پنیر داد.\n> امیر\n@Comentiat",
+        "original_username": "comentiat",
+        "original_text": "پیتزای ایرانی یک شاهکار بود که به دلیل چسی جاشو به نون سوخته، علف، یکم گوشت و پنیر داد.\n> امیر\n@Comentiat",
+        "original_link": "https://t.me/Comentiat/26364",
+        "post_id": 26364,
+        "message_id": 6984,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-07T11:20:04.889772+00:00"
+      },
+      {
+        "fingerprint": "7406d10e65ba09b59a0e1eafa7941e1b20daa7daf325afccbc49f7dde7dd4f2e",
+        "media_fingerprint": "40cc0bf927ace6a27c8b9fd97adfd09b8c8b246796a42b20ecf58c8ad538b773",
+        "text": "پله برقی خطرناک تر از اون چیزیه که تصور می‌کنید...\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "پله برقی خطرناک تر از اون چیزیه که تصور می‌کنید...\n@irWonders",
+        "original_link": "https://t.me/irwonders/58417",
+        "post_id": 58417,
+        "message_id": 6985,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-07T11:20:10.540832+00:00"
       }
     ]
   }
