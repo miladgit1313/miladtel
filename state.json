@@ -3264,7 +3264,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67490,
+      "last_id": 67491,
       "processed_ids": [
         66561,
         66565,
@@ -4004,9 +4004,10 @@
         67487,
         67488,
         67489,
-        67490
+        67490,
+        67491
       ],
-      "sent_count": 425
+      "sent_count": 426
     },
     "techtube": {
       "last_id": 18471,
@@ -8755,10 +8756,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109417,
+      "last_id": 109419,
       "processed_ids": [
-        108339,
-        108340,
         108341,
         108342,
         108343,
@@ -9756,7 +9755,9 @@
         109414,
         109415,
         109416,
-        109417
+        109417,
+        109418,
+        109419
       ],
       "sent_count": 85
     },
@@ -17973,21 +17974,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "8c0b5e79239935e95d954505dc8f06edf78cc5c09ed3b5317431794db7006223",
-        "media_fingerprint": "61fc1afe619c7de8d4e87b3736dbd96adfb49a938c14345ca973cfa8497c14f3",
-        "text": "🎖️\n📊\nتاریخچه تقابل‌های دوتیم بانوان رئال مادریدبارسلونا !\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_username": "totalfut_plus",
-        "original_text": "🎖️\n📊\nتاریخچه تقابل‌های دوتیم بانوان رئال مادریدبارسلونا !\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_link": "https://t.me/totalfut_plus/26460",
-        "post_id": 26460,
-        "message_id": 6452,
-        "message_kind": "caption",
-        "sources": [
-          "totalfut_plus"
-        ],
-        "created_at": "2026-10-05T14:48:24.874584+00:00"
-      },
       {
         "fingerprint": "0be7c66e113192d551bad326a78b8dc6b3fd2d69be643f2303afe8c0b47ec827",
         "media_fingerprint": "",
@@ -33067,6 +33053,21 @@
           "gizmiztel"
         ],
         "created_at": "2026-10-08T21:50:15.433237+00:00"
+      },
+      {
+        "fingerprint": "36771f58a5a2b2d7695f76e551738cd98ee0d8ac245c00e8d54192ce4fe3570f",
+        "media_fingerprint": "b5ec0be25a69c70eba31cd02f860d14c488d1af480e470bd2353fbed27b32b42",
+        "text": "",
+        "original_username": "drtel",
+        "original_text": "",
+        "original_link": "https://t.me/drtel/67491",
+        "post_id": 67491,
+        "message_id": 7496,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-08T22:49:25.496167+00:00"
       }
     ]
   }
