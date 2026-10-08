@@ -1,12 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143275,
+      "last_id": 143279,
       "processed_ids": [
-        142174,
-        142175,
-        142176,
-        142177,
         142178,
         142179,
         142180,
@@ -1002,12 +998,16 @@
         143272,
         143273,
         143274,
-        143275
+        143275,
+        143276,
+        143277,
+        143278,
+        143279
       ],
-      "sent_count": 748
+      "sent_count": 751
     },
     "total_fut": {
-      "last_id": 237399,
+      "last_id": 237403,
       "processed_ids": [
         236405,
         236407,
@@ -1956,18 +1956,17 @@
         237396,
         237397,
         237398,
-        237399
+        237399,
+        237400,
+        237401,
+        237402,
+        237403
       ],
       "sent_count": 80
     },
     "footballvision2": {
-      "last_id": 170599,
+      "last_id": 170604,
       "processed_ids": [
-        169519,
-        169520,
-        169521,
-        169522,
-        169523,
         169524,
         169525,
         169526,
@@ -2962,7 +2961,12 @@
         170594,
         170595,
         170596,
-        170599
+        170599,
+        170600,
+        170601,
+        170602,
+        170603,
+        170604
       ],
       "sent_count": 74
     },
@@ -4413,7 +4417,7 @@
       "sent_count": 85
     },
     "coffeenetmanager": {
-      "last_id": 51770,
+      "last_id": 51771,
       "processed_ids": [
         51537,
         51538,
@@ -4629,7 +4633,8 @@
         51767,
         51768,
         51769,
-        51770
+        51770,
+        51771
       ],
       "sent_count": 76
     },
@@ -4825,7 +4830,7 @@
       "sent_count": 116
     },
     "akhbar_cafenet": {
-      "last_id": 23095,
+      "last_id": 23099,
       "processed_ids": [
         22432,
         22433,
@@ -5460,7 +5465,10 @@
         23092,
         23093,
         23094,
-        23095
+        23095,
+        23096,
+        23097,
+        23099
       ],
       "sent_count": 350
     },
@@ -8528,9 +8536,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109270,
+      "last_id": 109271,
       "processed_ids": [
-        108191,
         108192,
         108193,
         108194,
@@ -9529,15 +9536,14 @@
         109267,
         109268,
         109269,
-        109270
+        109270,
+        109271
       ],
       "sent_count": 72
     },
     "varzesh3": {
-      "last_id": 303551,
+      "last_id": 303553,
       "processed_ids": [
-        302448,
-        302451,
         302452,
         302454,
         302455,
@@ -10535,12 +10541,14 @@
         303547,
         303548,
         303550,
-        303551
+        303551,
+        303552,
+        303553
       ],
-      "sent_count": 51
+      "sent_count": 53
     },
     "totalfut_plus": {
-      "last_id": 26549,
+      "last_id": 26551,
       "processed_ids": [
         25870,
         25871,
@@ -11200,14 +11208,15 @@
         26546,
         26547,
         26548,
-        26549
+        26549,
+        26550,
+        26551
       ],
       "sent_count": 39
     },
     "adak_ir_official": {
-      "last_id": 234901,
+      "last_id": 234902,
       "processed_ids": [
-        233878,
         233879,
         233880,
         233881,
@@ -12206,14 +12215,14 @@
         234898,
         234899,
         234900,
-        234901
+        234901,
+        234902
       ],
       "sent_count": 136
     },
     "futball180tv": {
-      "last_id": 108054,
+      "last_id": 108055,
       "processed_ids": [
-        107034,
         107035,
         107036,
         107037,
@@ -13212,12 +13221,13 @@
         108051,
         108052,
         108053,
-        108054
+        108054,
+        108055
       ],
       "sent_count": 48
     },
     "hattric_official": {
-      "last_id": 84417,
+      "last_id": 84418,
       "processed_ids": [
         83433,
         83434,
@@ -14147,7 +14157,8 @@
         84414,
         84415,
         84416,
-        84417
+        84417,
+        84418
       ],
       "sent_count": 65
     },
@@ -14682,7 +14693,7 @@
       "sent_count": 0
     },
     "khooroosjangi": {
-      "last_id": 85739,
+      "last_id": 85740,
       "processed_ids": [
         85726,
         85727,
@@ -14697,9 +14708,10 @@
         85736,
         85737,
         85738,
-        85739
+        85739,
+        85740
       ],
-      "sent_count": 6
+      "sent_count": 7
     },
     "irwonders": {
       "last_id": 58452,
@@ -16642,7 +16654,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306848,
+      "last_id": 306851,
       "processed_ids": [
         306563,
         306564,
@@ -16924,9 +16936,12 @@
         306845,
         306846,
         306847,
-        306848
+        306848,
+        306849,
+        306850,
+        306851
       ],
-      "sent_count": 125
+      "sent_count": 126
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -17354,7 +17369,7 @@
       "sent_count": 39
     },
     "peach_tweet": {
-      "last_id": 2941,
+      "last_id": 2944,
       "processed_ids": [
         2745,
         2749,
@@ -17477,164 +17492,16 @@
         2938,
         2939,
         2940,
-        2941
+        2941,
+        2942,
+        2943,
+        2944
       ],
-      "sent_count": 78
+      "sent_count": 81
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "f25ea4f544901bae850d248bb2eadec6a3dc65bfaf56a2d85b3e3f709aae772a",
-        "media_fingerprint": "bda8976e3ad58521f6307e5900993ca8d797aabf574c0757422521d13723f2ac",
-        "text": "👨‍🎓\nسامانه انتخاب رشته مجازی کنکور فعال شد\n🔗\nلینک سامانه\n🔗\nلینک خرید سریال\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "👨‍🎓\nسامانه انتخاب رشته مجازی کنکور فعال شد\n🔗\nلینک سامانه\n🔗\nلینک خرید سریال\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22955",
-        "post_id": 22955,
-        "message_id": 6150,
-        "message_kind": "caption",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-04T16:13:44.248201+00:00"
-      },
-      {
-        "fingerprint": "a68d619cfcdf3d0e98613fae8ea092e7820929e66080c41b49672704b28983f2",
-        "media_fingerprint": "",
-        "text": "♦️\nمعاون عراقچی: آمریکا پاسخ طرح ۷ روزه ایران را ارسال کرد و ما در حال بررسی هستیم\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nمعاون عراقچی: آمریکا پاسخ طرح ۷ روزه ایران را ارسال کرد و ما در حال بررسی هستیم\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143038",
-        "post_id": 143038,
-        "message_id": 6151,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-04T16:13:46.928456+00:00"
-      },
-      {
-        "fingerprint": "920515bbd031b2cf622f8d5ae59f466bedd00e88edad981d88cf2f7389acfa01",
-        "media_fingerprint": "",
-        "text": "🎖️\n🏅\nکنعانی زادگان و ایری غایبان قطعی پرسپولیس در دیدار مقابل نفت آبادان هستند.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_username": "totalfut_plus",
-        "original_text": "🎖️\n🏅\nکنعانی زادگان و ایری غایبان قطعی پرسپولیس در دیدار مقابل نفت آبادان هستند.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_link": "https://t.me/totalfut_plus/26422",
-        "post_id": 26422,
-        "message_id": 6152,
-        "message_kind": "text",
-        "sources": [
-          "totalfut_plus"
-        ],
-        "created_at": "2026-10-04T16:13:49.814027+00:00"
-      },
-      {
-        "fingerprint": "9d5364e5a7d3019ec4d7e612c23ab6f8ad04d49cf7587e477f0c1663330ef007",
-        "media_fingerprint": "",
-        "text": "🎖️\n⚽️\nمارکا ( نشریه نزدیک به رئال ) : احتمال داره یوفا بارسلونا رو از چمپیونزلیگ این فصل اخراج کنه تا تکلیف پرونده نگریرا مشخص شه!\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_username": "totalfut_plus",
-        "original_text": "🎖️\n⚽️\nمارکا ( نشریه نزدیک به رئال ) : احتمال داره یوفا بارسلونا رو از چمپیونزلیگ این فصل اخراج کنه تا تکلیف پرونده نگریرا مشخص شه!\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_link": "https://t.me/totalfut_plus/26424",
-        "post_id": 26424,
-        "message_id": 6153,
-        "message_kind": "text",
-        "sources": [
-          "totalfut_plus"
-        ],
-        "created_at": "2026-10-04T16:13:52.956042+00:00"
-      },
-      {
-        "fingerprint": "c27ca3f339fd870819ea3c1dddd2f32954d870417b82cac7ab15e33ac8d4b490",
-        "media_fingerprint": "",
-        "text": "👨‍🎓\nرئیس سازمان سنجش: فرصت انتخاب رشته تا پنج‌شنبه است؛ شروع ترم تحصیلی دانشجویان جدیدالورود، نیمه دوم آبان خواهد بود.\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "👨‍🎓\nرئیس سازمان سنجش: فرصت انتخاب رشته تا پنج‌شنبه است؛ شروع ترم تحصیلی دانشجویان جدیدالورود، نیمه دوم آبان خواهد بود.\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22956",
-        "post_id": 22956,
-        "message_id": 6154,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-04T16:13:55.753011+00:00"
-      },
-      {
-        "fingerprint": "425f38a43c4de1b47432ac9ef33815767f84547d8767ea04589522284178edf5",
-        "media_fingerprint": "1bb9dd1eb2e511904e94f221efaed68f4d8c118049f4a441cb7edcd1b675afe4",
-        "text": "🎥\nداوطلبان کنکور برای استفاده از سامانه راهنمای انتخاب رشته چه کاری باید انجام دهند؟\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🎥\nداوطلبان کنکور برای استفاده از سامانه راهنمای انتخاب رشته چه کاری باید انجام دهند؟\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22957",
-        "post_id": 22957,
-        "message_id": 6155,
-        "message_kind": "caption",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-04T16:14:01.876005+00:00"
-      },
-      {
-        "fingerprint": "f35154ad5e693d3b58a77c5c8d361d702e0bfbf3ee4fe4a8c03380412b4075e6",
-        "media_fingerprint": "0412640ddd3d6440398688c3d39a351f623e83118074863cebe73c51adc5fc4a",
-        "text": "🔸\nرکورد گینس بلند کردن ماشین با سر به نام جان ایوانس است که تا به حال چند بار رکورد نگه داشتن بیشترین وزن را روی سر جا به جا کرده است و جالب اینجاست هیچ رقیبی در این کار ندارد.\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "🔸\nرکورد گینس بلند کردن ماشین با سر به نام جان ایوانس است که تا به حال چند بار رکورد نگه داشتن بیشترین وزن را روی سر جا به جا کرده است و جالب اینجاست هیچ رقیبی در این کار ندارد.\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159511",
-        "post_id": 159511,
-        "message_id": 6156,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann",
-          "irwonders"
-        ],
-        "created_at": "2026-10-04T16:14:06.061104+00:00"
-      },
-      {
-        "fingerprint": "de9d1b50d0970e18edc2684bbab172955bb212e8c4a60eaa21dfd634057ee0bb",
-        "media_fingerprint": "",
-        "text": "♦️\nساعت ۱۷:۵۹ ، اذان مغرب به افق مرکز استان\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nساعت ۱۷:۵۹ ، اذان مغرب به افق مرکز استان\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143039",
-        "post_id": 143039,
-        "message_id": 6157,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-04T16:14:08.835221+00:00"
-      },
-      {
-        "fingerprint": "558414ac8d8dc3b6e2d6c0bd9b66d6ec1b05711f39c728eeb14acd4b21bd60ff",
-        "media_fingerprint": "279bc37d8ba91974288f33c6df3deabf85424396ef8a04fa66b624437c0b3261",
-        "text": "نیویورک بهترین شهر جهان در سال ۲۰۲۶ اعلام شد\n🌐\n@ScienticNews",
-        "original_username": "scienticnews",
-        "original_text": "نیویورک بهترین شهر جهان در سال ۲۰۲۶ اعلام شد\n🌐\n@ScienticNews",
-        "original_link": "https://t.me/ScienticNews/22545",
-        "post_id": 22545,
-        "message_id": 6158,
-        "message_kind": "caption",
-        "sources": [
-          "scienticnews"
-        ],
-        "created_at": "2026-10-04T16:14:15.507409+00:00"
-      },
-      {
-        "fingerprint": "82ab48d23d74f836a230552f007b18e9bb90200c2ef58668f4d7dededfd0031a",
-        "media_fingerprint": "724e5383818a48355fa2496a2c78ba2cf3d4de0f36781ae71dd9d1783020d764",
-        "text": "🚀\nاکانت Gemini Pro ـ ۱۸ ماهه\n🔥\nاکانت فمیلی اونر با قابلیت دعوت ۵ نفر\n🔹\nدسترسی به قابلیت‌ها و مدل‌های پیشرفته Gemini\n🔹\nمناسب برای برنامه‌نویسی، تولید محتوا، تحلیل و کارهای روزمره\n💰\nقیمت:\nفقط ۳۸۵ هزار تومان\n⚡\nظرفیت محدود — برای دریافت و خرید به بات مراجعه کنید.\n🛒\nخرید از بات:\n@aiaccountshopbot\n📢\nکانال:\n@aiaccountshopchannel",
-        "original_username": "techtube",
-        "original_text": "🚀\nاکانت Gemini Pro ـ ۱۸ ماهه\n🔥\nاکانت فمیلی اونر با قابلیت دعوت ۵ نفر\n🔹\nدسترسی به قابلیت‌ها و مدل‌های پیشرفته Gemini\n🔹\nمناسب برای برنامه‌نویسی، تولید محتوا، تحلیل و کارهای روزمره\n💰\nقیمت:\nفقط ۳۸۵ هزار تومان\n⚡\nظرفیت محدود — برای دریافت و خرید به بات مراجعه کنید.\n🛒\nخرید از بات:\n@aiaccountshopbot\n📢\nکانال:\n@aiaccountshopchannel",
-        "original_link": "https://t.me/TechTube/18429",
-        "post_id": 18429,
-        "message_id": 6159,
-        "message_kind": "caption",
-        "sources": [
-          "techtube"
-        ],
-        "created_at": "2026-10-04T16:14:19.891862+00:00"
-      },
       {
         "fingerprint": "0e7cd5faf22e9bda5522408d3eaad8583d5ceba5ca1a73764efb0b06778fb496",
         "media_fingerprint": "54a40490737d49fd105803c9e35ca225eed7dbeba71f45eac610e797a87c1da0",
@@ -32581,6 +32448,156 @@
           "irwonders"
         ],
         "created_at": "2026-10-08T07:51:28.675525+00:00"
+      },
+      {
+        "fingerprint": "ed9101a369d7b30d707e09e4df385d655779180c8f095e58a0667855f139321d",
+        "media_fingerprint": "",
+        "text": "👍\nدانشگاه افسری امام علی(ع) آجا در رشته خلبانی بالگرد دانشجو می‌پذیرد.\n👍\nشرایط و ضوابط عمومی و اختصاصی و امتیازات داوطلبان در وبگاه زیر قابل مشاهده است:\nhttps://GOZINESH.AJA.IR\n👍\nجهت آشنایی با دانشگاه‌های افسری ارتش به سایت مسیر افتخار به آدرس زیر مراجعه نمایید:\nhttps://masire-eftekhar.ir\n💳\n@Avandcartaja\n| آوند کارت",
+        "original_username": "akhbarfars",
+        "original_text": "👍\nدانشگاه افسری امام علی(ع) آجا در رشته خلبانی بالگرد دانشجو می‌پذیرد.\n👍\nشرایط و ضوابط عمومی و اختصاصی و امتیازات داوطلبان در وبگاه زیر قابل مشاهده است:\nhttps://GOZINESH.AJA.IR\n👍\nجهت آشنایی با دانشگاه‌های افسری ارتش به سایت مسیر افتخار به آدرس زیر مراجعه نمایید:\nhttps://masire-eftekhar.ir\n💳\n@Avandcartaja\n| آوند کارت",
+        "original_link": "https://t.me/akhbarfars/143276",
+        "post_id": 143276,
+        "message_id": 7213,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-08T08:22:41.881953+00:00"
+      },
+      {
+        "fingerprint": "85e116b95ab0ca706b01f85a8e999046942ba9ce81d4f6368ba70ea6345d026a",
+        "media_fingerprint": "6e4ad1927b27b1779bf2753ed9f66f295187f3722d18b976facf954518abbe67",
+        "text": "⚠️\n🟠\nاختصاصی - فولاد از کسر شش امتیاز فرار کرد\n❗️\nمدیران فولاد خوزستان در روزهای گذشته مانع اجرای حکم کسر شش امتیاز از این تیم شدند تا شاگردان حمید مطهری بدون این نگرانی به مصاف مس شهر بابک بروند.\n👇\n👇\n👇\n👇\n👇\n👇\nvarzesh3.com/news/2434641\n➖\n➖\n➖\n➖\n➖\n➖\n🆔\n@varzesh3",
+        "original_username": "varzesh3",
+        "original_text": "⚠️\n🟠\nاختصاصی - فولاد از کسر شش امتیاز فرار کرد\n❗️\nمدیران فولاد خوزستان در روزهای گذشته مانع اجرای حکم کسر شش امتیاز از این تیم شدند تا شاگردان حمید مطهری بدون این نگرانی به مصاف مس شهر بابک بروند.\n👇\n👇\n👇\n👇\n👇\n👇\nvarzesh3.com/news/2434641\n➖\n➖\n➖\n➖\n➖\n➖\n🆔\n@varzesh3",
+        "original_link": "https://t.me/varzesh3/303552",
+        "post_id": 303552,
+        "message_id": 7214,
+        "message_kind": "caption",
+        "sources": [
+          "varzesh3"
+        ],
+        "created_at": "2026-10-08T08:22:47.025782+00:00"
+      },
+      {
+        "fingerprint": "9f8104849e3f228faecbad548e24f03257528d2cbcb88b9fc349d9669482d672",
+        "media_fingerprint": "3b878476017fabdaf5bfe632e040e41a7d71858b865955752149b88de441cac2",
+        "text": "",
+        "original_username": "peach_tweet",
+        "original_text": "",
+        "original_link": "https://t.me/peach_tweet/2942",
+        "post_id": 2942,
+        "message_id": 7215,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-08T08:22:54.259809+00:00"
+      },
+      {
+        "fingerprint": "a44913e3241f73c6cfd45a81fb25895b69fca1e2c394dda7bfde0c18e31b5d3b",
+        "media_fingerprint": "",
+        "text": "«دوستان این کانال رو چک کردید؟ تحلیل بازی‌های امشب رو گذاشته، فرم‌های رایگانش واقعا حرف نداره. جا نمونید:\n⚽️\nورود به کانال:\nhttps://t.me/+-M99R2qSbdVhOGI0\n⚽️\nورود به گروه:\nhttps://t.me/+M_YAiGu22l05YzM0",
+        "original_username": "peach_tweet",
+        "original_text": "«دوستان این کانال رو چک کردید؟ تحلیل بازی‌های امشب رو گذاشته، فرم‌های رایگانش واقعا حرف نداره. جا نمونید:\n⚽️\nورود به کانال:\nhttps://t.me/+-M99R2qSbdVhOGI0\n⚽️\nورود به گروه:\nhttps://t.me/+M_YAiGu22l05YzM0",
+        "original_link": "https://t.me/peach_tweet/2943",
+        "post_id": 2943,
+        "message_id": 7216,
+        "message_kind": "text",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-08T08:22:57.004466+00:00"
+      },
+      {
+        "fingerprint": "91015ea72ed059b8bd1943a8c3e1f3e617ada75f761f5690ed934145daa8cdb8",
+        "media_fingerprint": "7a0f98337150651e52c187e5fab5c5649166a94daf69ebc31b0f11c0e112600d",
+        "text": "عجب پوزیشنی هست برا تتو:))))\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "عجب پوزیشنی هست برا تتو:))))\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/2944",
+        "post_id": 2944,
+        "message_id": 7217,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-08T08:23:03.710114+00:00"
+      },
+      {
+        "fingerprint": "1111e997979b92f5f9ef0856688bea2616f0796d3bd2edc26d1577f0cd677af3",
+        "media_fingerprint": "0ec7acb08542727e6b6fb8ec8885b769600317c26a7158d24ed68a2388ec8d8c",
+        "text": "جوری که ناصرالدین شاه قاجار عاشق میشد:\nchannel➣\n🐓\n@khooroosjangi",
+        "original_username": "khooroosjangi",
+        "original_text": "جوری که ناصرالدین شاه قاجار عاشق میشد:\nchannel➣\n🐓\n@khooroosjangi",
+        "original_link": "https://t.me/khooroosjangi/85740",
+        "post_id": 85740,
+        "message_id": 7218,
+        "message_kind": "caption",
+        "sources": [
+          "khooroosjangi"
+        ],
+        "created_at": "2026-10-08T08:23:09.802861+00:00"
+      },
+      {
+        "fingerprint": "7caa0b720e5dfd97fee88916ef5de54f660807fc195c8653268c768ab5af4e04",
+        "media_fingerprint": "dda3377e28076580de6de73e1dc72572523ec62ee85acbe1f7249ba71150ea2a",
+        "text": "وقتی به پرندش میخنده ادای خندشو درمیاره\n🐣\n😂\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "وقتی به پرندش میخنده ادای خندشو درمیاره\n🐣\n😂\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306851",
+        "post_id": 306851,
+        "message_id": 7219,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-08T08:23:16.975456+00:00"
+      },
+      {
+        "fingerprint": "5db2234a628f05beaaa8497cac14e67eebb7ad1e2a66a39cbe0c167964185861",
+        "media_fingerprint": "25418cc52cd222d1d40e2280af76bed9b9cbb424912521d565c38ff53013453a",
+        "text": "👀\nدیدار گابریل کالدرون سرمربی سابق پرسپولیس با ارلینگ هالند\n🆔\n@varzesh3",
+        "original_username": "varzesh3",
+        "original_text": "👀\nدیدار گابریل کالدرون سرمربی سابق پرسپولیس با ارلینگ هالند\n🆔\n@varzesh3",
+        "original_link": "https://t.me/varzesh3/303553",
+        "post_id": 303553,
+        "message_id": 7220,
+        "message_kind": "caption",
+        "sources": [
+          "varzesh3"
+        ],
+        "created_at": "2026-10-08T08:23:21.628213+00:00"
+      },
+      {
+        "fingerprint": "eb541042e2bfe1651b892228d87e737ac24c846a1ff7cd87a7e9017ad758e3b0",
+        "media_fingerprint": "",
+        "text": "♦️\nکپلر: طی سه شنبه گذشته تنها ۷ کشتی تجاری از تنگه هرمز عبور کردند که کمترین تعداد طی دو ماه گذشته به شمار می‌رود\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nکپلر: طی سه شنبه گذشته تنها ۷ کشتی تجاری از تنگه هرمز عبور کردند که کمترین تعداد طی دو ماه گذشته به شمار می‌رود\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143278",
+        "post_id": 143278,
+        "message_id": 7221,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-08T08:23:25.745731+00:00"
+      },
+      {
+        "fingerprint": "887035a0a4a8c56ff462231334ef0c1c60d7680ee7a689b56d9b15637bdda5f1",
+        "media_fingerprint": "",
+        "text": "♦️\nساعت ۱۱:۴۷ هنگام اذان ظهر به افق مرکز استان\n🌱\nمارا از دعا فراموش نکنید\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nساعت ۱۱:۴۷ هنگام اذان ظهر به افق مرکز استان\n🌱\nمارا از دعا فراموش نکنید\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143279",
+        "post_id": 143279,
+        "message_id": 7222,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-08T08:23:28.627593+00:00"
       }
     ]
   }
