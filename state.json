@@ -1,9 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143270,
+      "last_id": 143272,
       "processed_ids": [
-        142169,
         142170,
         142171,
         142173,
@@ -1002,12 +1001,13 @@
         143267,
         143268,
         143269,
-        143270
+        143270,
+        143272
       ],
-      "sent_count": 746
+      "sent_count": 747
     },
     "total_fut": {
-      "last_id": 237394,
+      "last_id": 237397,
       "processed_ids": [
         236405,
         236407,
@@ -1951,15 +1951,16 @@
         237391,
         237392,
         237393,
-        237394
+        237394,
+        237395,
+        237396,
+        237397
       ],
       "sent_count": 79
     },
     "footballvision2": {
-      "last_id": 170594,
+      "last_id": 170596,
       "processed_ids": [
-        169515,
-        169517,
         169518,
         169519,
         169520,
@@ -2957,7 +2958,9 @@
         170591,
         170592,
         170593,
-        170594
+        170594,
+        170595,
+        170596
       ],
       "sent_count": 74
     },
@@ -4405,7 +4408,7 @@
       "sent_count": 85
     },
     "coffeenetmanager": {
-      "last_id": 51768,
+      "last_id": 51770,
       "processed_ids": [
         51537,
         51538,
@@ -4619,9 +4622,11 @@
         51765,
         51766,
         51767,
-        51768
+        51768,
+        51769,
+        51770
       ],
-      "sent_count": 75
+      "sent_count": 76
     },
     "roidbest": {
       "last_id": 21808,
@@ -4815,7 +4820,7 @@
       "sent_count": 116
     },
     "akhbar_cafenet": {
-      "last_id": 23092,
+      "last_id": 23093,
       "processed_ids": [
         22432,
         22433,
@@ -5447,9 +5452,10 @@
         23089,
         23090,
         23091,
-        23092
+        23092,
+        23093
       ],
-      "sent_count": 349
+      "sent_count": 350
     },
     "comentiat": {
       "last_id": 26374,
@@ -7656,7 +7662,7 @@
       "sent_count": 229
     },
     "ajayebe_jahann": {
-      "last_id": 159610,
+      "last_id": 159614,
       "processed_ids": [
         158956,
         158957,
@@ -8301,7 +8307,11 @@
         159607,
         159608,
         159609,
-        159610
+        159610,
+        159611,
+        159612,
+        159613,
+        159614
       ],
       "sent_count": 280
     },
@@ -8502,10 +8512,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109266,
+      "last_id": 109268,
       "processed_ids": [
-        108187,
-        108188,
         108189,
         108190,
         108191,
@@ -9503,14 +9511,15 @@
         109263,
         109264,
         109265,
-        109266
+        109266,
+        109267,
+        109268
       ],
       "sent_count": 70
     },
     "varzesh3": {
-      "last_id": 303548,
+      "last_id": 303550,
       "processed_ids": [
-        302446,
         302447,
         302448,
         302451,
@@ -10509,12 +10518,13 @@
         303545,
         303546,
         303547,
-        303548
+        303548,
+        303550
       ],
       "sent_count": 51
     },
     "totalfut_plus": {
-      "last_id": 26546,
+      "last_id": 26548,
       "processed_ids": [
         25870,
         25871,
@@ -11171,14 +11181,15 @@
         26543,
         26544,
         26545,
-        26546
+        26546,
+        26547,
+        26548
       ],
       "sent_count": 39
     },
     "adak_ir_official": {
-      "last_id": 234898,
+      "last_id": 234899,
       "processed_ids": [
-        233875,
         233876,
         233877,
         233878,
@@ -12177,15 +12188,14 @@
         234895,
         234896,
         234897,
-        234898
+        234898,
+        234899
       ],
       "sent_count": 136
     },
     "futball180tv": {
-      "last_id": 108047,
+      "last_id": 108049,
       "processed_ids": [
-        107027,
-        107028,
         107029,
         107030,
         107031,
@@ -13183,12 +13193,14 @@
         108044,
         108045,
         108046,
-        108047
+        108047,
+        108048,
+        108049
       ],
-      "sent_count": 47
+      "sent_count": 48
     },
     "hattric_official": {
-      "last_id": 84412,
+      "last_id": 84413,
       "processed_ids": [
         83433,
         83434,
@@ -14113,7 +14125,8 @@
         84409,
         84410,
         84411,
-        84412
+        84412,
+        84413
       ],
       "sent_count": 65
     },
@@ -14664,7 +14677,7 @@
       "sent_count": 6
     },
     "irwonders": {
-      "last_id": 58448,
+      "last_id": 58449,
       "processed_ids": [
         58030,
         58031,
@@ -15038,9 +15051,10 @@
         58445,
         58446,
         58447,
-        58448
+        58448,
+        58449
       ],
-      "sent_count": 236
+      "sent_count": 237
     },
     "razcom": {
       "last_id": 70485,
@@ -17439,81 +17453,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "395ab2c8be699bc055dfc8ffd7e8b4a5e5cbd32072c21037864dc62e43e2211c",
-        "media_fingerprint": "e0dddd34281bc3f7da8143a839f8cb584f62e43c59e75ae175052cf90f3942af",
-        "text": "طریقه درست رفتار با پارتنر جیشو :\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "طریقه درست رفتار با پارتنر جیشو :\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/2852",
-        "post_id": 2852,
-        "message_id": 6126,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-04T16:11:22.958886+00:00"
-      },
-      {
-        "fingerprint": "4da6c7c959b67450cc7700087afd0262889ebe514dfc340ceb6f2052a3d7ae7b",
-        "media_fingerprint": "5c794cf1ebe6f169c0c4096586c62618cf8a69276f884fca7bcba9c86510abc9",
-        "text": "این موجودات عجیب نه گیاهن، نه اژدهای افسانه‌ای؛ بلکه از خانواده اسب‌های دریایی‌ان!\n🐉\nظاهر برگ‌مانندشون یه استتار فوق‌العاده‌ست که کمک می‌کنه بین جلبک‌ها قایم بشن و از چشم شکارچی‌ها دور بمونن!\nطبیعت واقعاً از هر تخیلی عجیب‌تره!\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "این موجودات عجیب نه گیاهن، نه اژدهای افسانه‌ای؛ بلکه از خانواده اسب‌های دریایی‌ان!\n🐉\nظاهر برگ‌مانندشون یه استتار فوق‌العاده‌ست که کمک می‌کنه بین جلبک‌ها قایم بشن و از چشم شکارچی‌ها دور بمونن!\nطبیعت واقعاً از هر تخیلی عجیب‌تره!\n@irWonders",
-        "original_link": "https://t.me/irwonders/58304",
-        "post_id": 58304,
-        "message_id": 6127,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-04T16:11:38.310441+00:00"
-      },
-      {
-        "fingerprint": "400b44f7313fec9bd1ed7fb189a004141e9365481ca9cae044f069576ee16651",
-        "media_fingerprint": "9c88f5d045d211cba47fc119c45bfd2e8e1756e5e3a8e25a400a224fcf88630a",
-        "text": "👨‍🎓\nمراحل انتخاب رشته آزمون سراسری و دانشجو_معلم سال ۱۴۰۵\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "👨‍🎓\nمراحل انتخاب رشته آزمون سراسری و دانشجو_معلم سال ۱۴۰۵\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22949",
-        "post_id": 22949,
-        "message_id": 6128,
-        "message_kind": "caption",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-04T16:11:42.434691+00:00"
-      },
-      {
-        "fingerprint": "3584601db65cb1367bef4bf109d9a4d25d786aca3df03ddbfa1db227183fa317",
-        "media_fingerprint": "e42308e8184e9919d94609b31170f048dd6a21cc5737672b7067d7ffb12d3369",
-        "text": "آقا دیگه هرچی تو آسمون دیدید که نباید به اسم پهپاد بهش شلیک کنید\n🤦🏻‍♂\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "آقا دیگه هرچی تو آسمون دیدید که نباید به اسم پهپاد بهش شلیک کنید\n🤦🏻‍♂\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162744",
-        "post_id": 162744,
-        "message_id": 6129,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-04T16:11:48.823540+00:00"
-      },
-      {
-        "fingerprint": "1fc30b8fe4b549d8fb5c8f06ff7a72be72d687cb920ccfe3c1135dc2aa3beee2",
-        "media_fingerprint": "",
-        "text": "🌐\nسهم سوابق تحصیلی و کنکور در سال آینده تغییر نمی‌کند\n👨‍🎓\nاحسان جمالی، معاون فنی و آماری سازمان سنجش آموزش کشور: بر اساس مصوبات فعلی، سهم سوابق تحصیلی در پذیرش دانشگاه‌ها ۶۰ درصد و سهم آزمون اختصاصی کنکور ۴۰ درصد خواهد بود.\n⭕️\nبر اساس مصوبات موجود، تأثیر سوابق تحصیلی پایه یازدهم قطعی است؛ مگر اینکه شورای عالی انقلاب فرهنگی، مشابه آنچه در سال جاری اتفاق افتاد، مجوز جدیدی صادر کند و نحوه تأثیر این سوابق را از قطعی به غیرقطعی تغییر دهد.\n🔸\nهرگونه تغییر در نحوه اعمال سوابق تحصیلی پایه یازدهم، منوط به تصمیم و مصوبه جدید شورای عالی انقلاب فرهنگی است و تا آن زمان، مصوبات فعلی مبنای عمل خواهد بود.\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🌐\nسهم سوابق تحصیلی و کنکور در سال آینده تغییر نمی‌کند\n👨‍🎓\nاحسان جمالی، معاون فنی و آماری سازمان سنجش آموزش کشور: بر اساس مصوبات فعلی، سهم سوابق تحصیلی در پذیرش دانشگاه‌ها ۶۰ درصد و سهم آزمون اختصاصی کنکور ۴۰ درصد خواهد بود.\n⭕️\nبر اساس مصوبات موجود، تأثیر سوابق تحصیلی پایه یازدهم قطعی است؛ مگر اینکه شورای عالی انقلاب فرهنگی، مشابه آنچه در سال جاری اتفاق افتاد، مجوز جدیدی صادر کند و نحوه تأثیر این سوابق را از قطعی به غیرقطعی تغییر دهد.\n🔸\nهرگونه تغییر در نحوه اعمال سوابق تحصیلی پایه یازدهم، منوط به تصمیم و مصوبه جدید شورای عالی انقلاب فرهنگی است و تا آن زمان، مصوبات فعلی مبنای عمل خواهد بود.\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22950",
-        "post_id": 22950,
-        "message_id": 6130,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-04T16:11:52.549005+00:00"
-      },
       {
         "fingerprint": "016a5ad616505603e7df2093dad514fbbe682863733266ca171ae3ff039728e1",
         "media_fingerprint": "",
@@ -28888,7 +28827,8 @@
         "message_kind": "caption",
         "sources": [
           "irwonders",
-          "jaleb"
+          "jaleb",
+          "ajayebe_jahann"
         ],
         "created_at": "2026-10-07T08:23:52.276031+00:00"
       },
@@ -32538,6 +32478,81 @@
           "midanesti"
         ],
         "created_at": "2026-10-08T06:27:44.643442+00:00"
+      },
+      {
+        "fingerprint": "a098534cab3775721954bdef973c637e24d21062a9788b71a5739f5e7cd1c4c9",
+        "media_fingerprint": "8c9706bde52eb3b271bbb57c16851e23a127bdee346977541b86253231e69b6a",
+        "text": "کارت اعتباری آزمون وکالت(مرکز وکلا)\nجعفری\n09118470832",
+        "original_username": "coffeenetmanager",
+        "original_text": "کارت اعتباری آزمون وکالت(مرکز وکلا)\nجعفری\n09118470832",
+        "original_link": "https://t.me/CoffeenetManager/51769",
+        "post_id": 51769,
+        "message_id": 7190,
+        "message_kind": "caption",
+        "sources": [
+          "coffeenetmanager"
+        ],
+        "created_at": "2026-10-08T06:56:22.595782+00:00"
+      },
+      {
+        "fingerprint": "deab0845717e1780f0c73b7498e829e1960f7d6f6f637e97133f77932181727e",
+        "media_fingerprint": "59231c989ef636dca69a121f4d4ee6915e7c4be1b23bc6d3edd9cde31b82600b",
+        "text": "⚽️\n🚨\n‼️\nبیلد المان :\n⚽️\nبایرن مونیخ آماده است برای جذب دنی اولمو اقدام کند. بارسلونا ارزش این هافبک را حدود ۸۰ تا ۹۰ میلیون یورو تعیین کرده است. با این حال، هنوز هیچ پیشنهاد رسمی‌ای ارائه نشده و اولمو هیچ قصدی برای ترک بارسلونا ندارد.\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "⚽️\n🚨\n‼️\nبیلد المان :\n⚽️\nبایرن مونیخ آماده است برای جذب دنی اولمو اقدام کند. بارسلونا ارزش این هافبک را حدود ۸۰ تا ۹۰ میلیون یورو تعیین کرده است. با این حال، هنوز هیچ پیشنهاد رسمی‌ای ارائه نشده و اولمو هیچ قصدی برای ترک بارسلونا ندارد.\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/108048",
+        "post_id": 108048,
+        "message_id": 7191,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-08T06:56:27.442532+00:00"
+      },
+      {
+        "fingerprint": "d682091d39a3f55c6e9bded50cc3d018d05107ab06bc0b4c9a083492378001d6",
+        "media_fingerprint": "c45466c324ac5d43721594208ef9c8216faa9137e28262b1a935cfdf49645999",
+        "text": "♦️\nخوشمزه‌ترین روش برای تهیه ترشی کلم\nمواد لازم:\n🔹\nشوید: ۵۰ گرم\n🔹\nبرگ بو: ۱۲ عدد\n🔹\nسیر: ۶۰ گرم\n🔹\nدانه فلفل سیاه: ۳ گرم\n🔹\nدانه‌های فلفل فرنگی: ۳ گرم\n🔹\nجعفری: ۶۰ گرم\n🔹\nگوجه‌فرنگی: ۴ کیلوگرم\n🔹\nکلم: ۱.۵ کیلوگرم\n🔹\nفلفل دلمه‌ای قرمز: ۲ عدد\n🔹\nفلفل دلمه‌ای زرد: ۱ عدد\n🔹\nهویج: ۲ عدد\n🔹\nنمک: ۱۲۰ گرم\n🔹\nشکر: ۲۰۰ گرم\n🔹\nسرکه: ۱۵۰میلی‌لیتر\n#آشپزی\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nخوشمزه‌ترین روش برای تهیه ترشی کلم\nمواد لازم:\n🔹\nشوید: ۵۰ گرم\n🔹\nبرگ بو: ۱۲ عدد\n🔹\nسیر: ۶۰ گرم\n🔹\nدانه فلفل سیاه: ۳ گرم\n🔹\nدانه‌های فلفل فرنگی: ۳ گرم\n🔹\nجعفری: ۶۰ گرم\n🔹\nگوجه‌فرنگی: ۴ کیلوگرم\n🔹\nکلم: ۱.۵ کیلوگرم\n🔹\nفلفل دلمه‌ای قرمز: ۲ عدد\n🔹\nفلفل دلمه‌ای زرد: ۱ عدد\n🔹\nهویج: ۲ عدد\n🔹\nنمک: ۱۲۰ گرم\n🔹\nشکر: ۲۰۰ گرم\n🔹\nسرکه: ۱۵۰میلی‌لیتر\n#آشپزی\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143272",
+        "post_id": 143272,
+        "message_id": 7192,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-08T06:56:37.048525+00:00"
+      },
+      {
+        "fingerprint": "536cd156c93dd211afc1136d88b31529ef244bcfd8dee55153aa1fb8801d289f",
+        "media_fingerprint": "2d6664e90256c7dbad5967527f77622c0574804410096b38a0612f6c46ff1e18",
+        "text": "نمونه یک سنگ اورانیوم، و مقدار استفاده ای که از آن می شود جقدر است\n؟\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "نمونه یک سنگ اورانیوم، و مقدار استفاده ای که از آن می شود جقدر است\n؟\n@irWonders",
+        "original_link": "https://t.me/irwonders/58449",
+        "post_id": 58449,
+        "message_id": 7193,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-08T06:56:44.524298+00:00"
+      },
+      {
+        "fingerprint": "9036849cc1ccca69f228ffa630f618fb9e30644e5554c85a1829844359868225",
+        "media_fingerprint": "",
+        "text": "⭕️\nبراساس اعلام سازمان سنجش امروز؛ آخرین مهلت انتخاب رشته کنکور ۱۴۰۵ است\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "⭕️\nبراساس اعلام سازمان سنجش امروز؛ آخرین مهلت انتخاب رشته کنکور ۱۴۰۵ است\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23093",
+        "post_id": 23093,
+        "message_id": 7194,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-08T06:56:47.402893+00:00"
       }
     ]
   }
