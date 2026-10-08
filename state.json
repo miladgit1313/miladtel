@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143325,
+      "last_id": 143327,
       "processed_ids": [
-        142221,
-        142222,
         142223,
         142224,
         142225,
@@ -1002,16 +1000,15 @@
         143322,
         143323,
         143324,
-        143325
+        143325,
+        143326,
+        143327
       ],
-      "sent_count": 777
+      "sent_count": 778
     },
     "total_fut": {
-      "last_id": 237509,
+      "last_id": 237512,
       "processed_ids": [
-        236465,
-        236466,
-        236467,
         236468,
         236469,
         236470,
@@ -2008,15 +2005,16 @@
         237506,
         237507,
         237508,
-        237509
+        237509,
+        237510,
+        237511,
+        237512
       ],
-      "sent_count": 87
+      "sent_count": 89
     },
     "footballvision2": {
-      "last_id": 170764,
+      "last_id": 170766,
       "processed_ids": [
-        169667,
-        169668,
         169669,
         169670,
         169671,
@@ -3014,7 +3012,9 @@
         170761,
         170762,
         170763,
-        170764
+        170764,
+        170765,
+        170766
       ],
       "sent_count": 81
     },
@@ -7394,7 +7394,7 @@
       "sent_count": 63
     },
     "jaleb": {
-      "last_id": 52769,
+      "last_id": 52773,
       "processed_ids": [
         52261,
         52262,
@@ -7847,9 +7847,12 @@
         52766,
         52767,
         52768,
-        52769
+        52769,
+        52771,
+        52772,
+        52773
       ],
-      "sent_count": 235
+      "sent_count": 237
     },
     "ajayebe_jahann": {
       "last_id": 159640,
@@ -8728,11 +8731,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109402,
+      "last_id": 109405,
       "processed_ids": [
-        108321,
-        108322,
-        108323,
         108324,
         108325,
         108326,
@@ -9729,14 +9729,16 @@
         109399,
         109400,
         109401,
-        109402
+        109402,
+        109403,
+        109404,
+        109405
       ],
-      "sent_count": 84
+      "sent_count": 85
     },
     "varzesh3": {
-      "last_id": 303640,
+      "last_id": 303641,
       "processed_ids": [
-        302543,
         302545,
         302546,
         302547,
@@ -10735,12 +10737,13 @@
         303637,
         303638,
         303639,
-        303640
+        303640,
+        303641
       ],
       "sent_count": 56
     },
     "totalfut_plus": {
-      "last_id": 26584,
+      "last_id": 26586,
       "processed_ids": [
         25870,
         25871,
@@ -11433,15 +11436,15 @@
         26581,
         26582,
         26583,
-        26584
+        26584,
+        26585,
+        26586
       ],
       "sent_count": 40
     },
     "adak_ir_official": {
-      "last_id": 234985,
+      "last_id": 234987,
       "processed_ids": [
-        233958,
-        233959,
         233960,
         233961,
         233962,
@@ -12439,7 +12442,9 @@
         234982,
         234983,
         234984,
-        234985
+        234985,
+        234986,
+        234987
       ],
       "sent_count": 142
     },
@@ -13450,11 +13455,8 @@
       "sent_count": 56
     },
     "hattric_official": {
-      "last_id": 84504,
+      "last_id": 84507,
       "processed_ids": [
-        83450,
-        83451,
-        83452,
         83453,
         83454,
         83455,
@@ -14451,7 +14453,10 @@
         84501,
         84502,
         84503,
-        84504
+        84504,
+        84505,
+        84506,
+        84507
       ],
       "sent_count": 69
     },
@@ -15009,7 +15014,7 @@
       "sent_count": 0
     },
     "khooroosjangi": {
-      "last_id": 85748,
+      "last_id": 85749,
       "processed_ids": [
         85726,
         85727,
@@ -15033,12 +15038,13 @@
         85745,
         85746,
         85747,
-        85748
+        85748,
+        85749
       ],
-      "sent_count": 12
+      "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58487,
+      "last_id": 58488,
       "processed_ids": [
         58030,
         58031,
@@ -15450,9 +15456,10 @@
         58484,
         58485,
         58486,
-        58487
+        58487,
+        58488
       ],
-      "sent_count": 260
+      "sent_count": 261
     },
     "razcom": {
       "last_id": 70485,
@@ -17359,7 +17366,7 @@
       "sent_count": 1
     },
     "film_news": {
-      "last_id": 14994,
+      "last_id": 14995,
       "processed_ids": [
         14976,
         14978,
@@ -17377,9 +17384,10 @@
         14991,
         14992,
         14993,
-        14994
+        14994,
+        14995
       ],
-      "sent_count": 8
+      "sent_count": 9
     },
     "cinematicketorg": {
       "last_id": 24394,
@@ -17912,141 +17920,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "ea811ed7da76e81fe9d3b47c6b528895a406e4a4944d03c1509251a4f03f6306",
-        "media_fingerprint": "138d178c1607da28be8eb5049ef8111564f25c33c3e8f5ca737ab1070077bca0",
-        "text": "کاربردی و تاثیرگذار‌ترین ویدیویی هست که امروز دیدم همین بود.\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "کاربردی و تاثیرگذار‌ترین ویدیویی هست که امروز دیدم همین بود.\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162796",
-        "post_id": 162796,
-        "message_id": 6399,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-05T11:08:05.069589+00:00"
-      },
-      {
-        "fingerprint": "161359f3a35d66763702c3678f41314b3c5e414819662d64279b643fca493ac5",
-        "media_fingerprint": "b942828a2df1931c382ca177d73c35dd62dec1bed492cb2871a5f1b5ba8ed540",
-        "text": "وضعیت چین در سال ۱۹۲۰ و  ۲۰۲۶\n🌐\n@ScienticNews",
-        "original_username": "scienticnews",
-        "original_text": "وضعیت چین در سال ۱۹۲۰ و  ۲۰۲۶\n🌐\n@ScienticNews",
-        "original_link": "https://t.me/ScienticNews/22551",
-        "post_id": 22551,
-        "message_id": 6400,
-        "message_kind": "caption",
-        "sources": [
-          "scienticnews"
-        ],
-        "created_at": "2026-10-05T11:08:10.597321+00:00"
-      },
-      {
-        "fingerprint": "b094e239965107b4dc0421fa1e5ce2ffd0b87d328e3310b557dcfd97c5c580fb",
-        "media_fingerprint": "2ce57fce624e93b6091a32557de3f69f1b5a5586ae3aa83d9d7daa9f29933a75",
-        "text": "🚗\nقیمت روز خودرو در بازار\n۱۳ مهر ۱۴۰۵\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "🚗\nقیمت روز خودرو در بازار\n۱۳ مهر ۱۴۰۵\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143092",
-        "post_id": 143092,
-        "message_id": 6401,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-05T11:47:08.229949+00:00"
-      },
-      {
-        "fingerprint": "e325fb0227e0765187af23e4a6cf4067d5d2ce7179a0bab677b562adbdf73c62",
-        "media_fingerprint": "0d87ada767ae22cc69336fad128aebd3ed7c2f6fa867f2cd30f00f9295756b02",
-        "text": "🔴\nسال 2023 یه میم به نام Opium Bird خیلی وایرال شد که یه موجود بزرگ و پرنده‌مانند تو کوه‌های برفی رو نشون می‌داد و سازنده‌اش گفته بود که سال 2027 (۲ ماه و ۲۷ روز دیگه) می‌فهمید یعنی چی؛  حالا شباهت Opium Bird و طاعون\n👺\nو همچنین لوکیشن برفی اون میم و آب و هوای…",
-        "original_username": "drtel",
-        "original_text": "🔴\nسال 2023 یه میم به نام Opium Bird خیلی وایرال شد که یه موجود بزرگ و پرنده‌مانند تو کوه‌های برفی رو نشون می‌داد و سازنده‌اش گفته بود که سال 2027 (۲ ماه و ۲۷ روز دیگه) می‌فهمید یعنی چی؛  حالا شباهت Opium Bird و طاعون\n👺\nو همچنین لوکیشن برفی اون میم و آب و هوای…",
-        "original_link": "https://t.me/drtel/67368",
-        "post_id": 67368,
-        "message_id": 6402,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-05T11:47:16.217145+00:00"
-      },
-      {
-        "fingerprint": "6bd6f40aa69c8b6ba6bfdeb660fd16610d3df863bfe2c915918514d1d5c205ae",
-        "media_fingerprint": "f0b8bab8d4956c4a1ec0261ba4dd011f7935103ce61ef9daa84246a768749355",
-        "text": "",
-        "original_username": "drtel",
-        "original_text": "",
-        "original_link": "https://t.me/drtel/67372",
-        "post_id": 67372,
-        "message_id": 6405,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-05T11:47:21.158111+00:00"
-      },
-      {
-        "fingerprint": "71f08f4fe087ae23eb5c1eb928775ac7960e3c55e0d7945a6e20d306c8f892dd",
-        "media_fingerprint": "51c6624fb80ceb37d27802a8c5f583b3fc559ec902ab6a27996dd417550c115c",
-        "text": "شما چطوری هم تو رابطه اید هم سه رقمی میشید؟ من سال کنکور یه مدت به یکی فقط “فکر” میکردم، یک ماه از برنامه مشاور عقب افتادم.\n> هانی\n@comentiat",
-        "original_username": "comentiat",
-        "original_text": "شما چطوری هم تو رابطه اید هم سه رقمی میشید؟ من سال کنکور یه مدت به یکی فقط “فکر” میکردم، یک ماه از برنامه مشاور عقب افتادم.\n> هانی\n@comentiat",
-        "original_link": "https://t.me/Comentiat/26321",
-        "post_id": 26321,
-        "message_id": 6406,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-05T11:47:24.882171+00:00"
-      },
-      {
-        "fingerprint": "e6349fde311d64a973ac80d342509a98363114de9e3cf91feb31a6a75f380771",
-        "media_fingerprint": "f8e80538b1e8bf92033362afad8ac53749d9bf35803a64c3a1373a62e6ebe0fc",
-        "text": "وقتی ازت پیام دریافت می‌کنم:\n@comentiat",
-        "original_username": "comentiat",
-        "original_text": "وقتی ازت پیام دریافت می‌کنم:\n@comentiat",
-        "original_link": "https://t.me/Comentiat/26322",
-        "post_id": 26322,
-        "message_id": 6407,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-05T11:47:30.697431+00:00"
-      },
-      {
-        "fingerprint": "6db88e9dc1e4d8e0b71a2b241ccf47b4607b117f476c86f790067dd4cb3ed000",
-        "media_fingerprint": "",
-        "text": "خیلی به پرسپولیس نزدیکه",
-        "original_username": "adak_ir_official",
-        "original_text": "خیلی به پرسپولیس نزدیکه",
-        "original_link": "https://t.me/ADAK_IR_official/234744",
-        "post_id": 234744,
-        "message_id": 6408,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-05T11:47:33.196740+00:00"
-      },
-      {
-        "fingerprint": "3a2d5ab9969405d8f00f268ea23fa3de8c3b84f5cda9cc76166313622a1a73b0",
-        "media_fingerprint": "9823369874b94f58e1d901f948f1821629e283aad9eb56f4d379e00647570625",
-        "text": "‼️\n⚽\nسعید شیرینی، سرپرست سابق پرسپولیس، از مطالبات حدود ۷۳ میلیارد تومانی خود از این باشگاه گذشت.\n🔴\nبر اساس اعلام پرسپولیس، این موضوع مربوط به دو پرونده حقوقی بوده که یکی از آنها بیش از ۴۱ میلیارد تومان و دیگری ۸ میلیارد تومان مطالبه به‌همراه خسارت تأخیر تأدیه داشته است. با اعلام رضایت شیرینی، مجموعاً حدود ۷۳ میلیارد تومان از خروج منابع مالی باشگاه جلوگیری و پرونده‌ها برای مختومه شدن ارسال شدند.\n⚽️\n@Hattric_Official",
-        "original_username": "hattric_official",
-        "original_text": "‼️\n⚽\nسعید شیرینی، سرپرست سابق پرسپولیس، از مطالبات حدود ۷۳ میلیارد تومانی خود از این باشگاه گذشت.\n🔴\nبر اساس اعلام پرسپولیس، این موضوع مربوط به دو پرونده حقوقی بوده که یکی از آنها بیش از ۴۱ میلیارد تومان و دیگری ۸ میلیارد تومان مطالبه به‌همراه خسارت تأخیر تأدیه داشته است. با اعلام رضایت شیرینی، مجموعاً حدود ۷۳ میلیارد تومان از خروج منابع مالی باشگاه جلوگیری و پرونده‌ها برای مختومه شدن ارسال شدند.\n⚽️\n@Hattric_Official",
-        "original_link": "https://t.me/Hattric_Official/84272",
-        "post_id": 84272,
-        "message_id": 6409,
-        "message_kind": "caption",
-        "sources": [
-          "hattric_official"
-        ],
-        "created_at": "2026-10-05T11:47:37.954891+00:00"
-      },
       {
         "fingerprint": "e394745089c3e6a408f33ce2d50f3f12728fa8fd2162b0169e3a76cbb7ba4e63",
         "media_fingerprint": "796dcd2fa1466f5496ea273cf9372a7f06a8b7bb062e1fdae20ae7a4b457c621",
@@ -33004,6 +32877,142 @@
           "khandehabadd"
         ],
         "created_at": "2026-10-08T18:55:16.658443+00:00"
+      },
+      {
+        "fingerprint": "1cd08d2ad887b5e8534fc5776ed2538a167ded08462f509978fadc1705d4a460",
+        "media_fingerprint": "ad8652ed073a0be9f94b1a7a405d3a2bd34f961fbf6be6707f6ce934d5b3dc79",
+        "text": "✅\nرسمی: قرارداد پدیده جدید لاماسیا تمدید شد\n🔸\nژاوی اسپارت، فول‌بک ۱۹ ساله اسپانیایی، قراردادش را تا سال ۲۰۳۰ با بارسلونا تمدید کرد.\n📊\nاسپارت ۱۱ بار برای آبی‌اناری‌ها به میدان رفته و توانسته جایگاه بالده را تصاحب کند.\n@Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "✅\nرسمی: قرارداد پدیده جدید لاماسیا تمدید شد\n🔸\nژاوی اسپارت، فول‌بک ۱۹ ساله اسپانیایی، قراردادش را تا سال ۲۰۳۰ با بارسلونا تمدید کرد.\n📊\nاسپارت ۱۱ بار برای آبی‌اناری‌ها به میدان رفته و توانسته جایگاه بالده را تصاحب کند.\n@Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/109403",
+        "post_id": 109403,
+        "message_id": 7448,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-08T19:20:22.581154+00:00"
+      },
+      {
+        "fingerprint": "0891139a9cb21a80c0d03c07a4477b1c9b73bf08d280dddaf597639b2862911d",
+        "media_fingerprint": "28f1ceb63e171584d1a2a2b903fa6227734cfe7cfa4f4538cd5e5511bcd72d83",
+        "text": "هنر همگانی\n😂\nchannel➣\n🐓\n@khooroosjangi",
+        "original_username": "khooroosjangi",
+        "original_text": "هنر همگانی\n😂\nchannel➣\n🐓\n@khooroosjangi",
+        "original_link": "https://t.me/khooroosjangi/85749",
+        "post_id": 85749,
+        "message_id": 7449,
+        "message_kind": "caption",
+        "sources": [
+          "khooroosjangi"
+        ],
+        "created_at": "2026-10-08T19:20:30.213293+00:00"
+      },
+      {
+        "fingerprint": "0ba1a27e52f6db694787aaf393adb0b998cf55be2091c5ad0145f1cfe08f992b",
+        "media_fingerprint": "",
+        "text": "🎖️\n#اختصاصی_توتال\n🏅\nانتصاب غیرقانونی در استقلال/حراست فدراسیون پاسخگو باشد!\n⏺\nبه گزارش توتال فوتبال در روزهای اخیر «محمد عزيزی» از اعضای كميته تعيين وضعيت فدراسيون، در اقدامی عجيب بعنوان مدير حقوقی باشگاه استقلال منصوب شده است.\n⏺\nنكته جالب توجه اينجاست كه وی از نزديكان نورشرق رييس كميته تعيين وضعيت است كه شايعات زيادی درباره وی در جامعه فوتبال مطرح است.\n⁉️\nفدراسيون فوتبال بايد پاسخ دهد كه آیا عزيزی همچنان عضو كميته تعيين وضعيت فدراسيون هست يا خير!؟\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_username": "total_fut",
+        "original_text": "🎖️\n#اختصاصی_توتال\n🏅\nانتصاب غیرقانونی در استقلال/حراست فدراسیون پاسخگو باشد!\n⏺\nبه گزارش توتال فوتبال در روزهای اخیر «محمد عزيزی» از اعضای كميته تعيين وضعيت فدراسيون، در اقدامی عجيب بعنوان مدير حقوقی باشگاه استقلال منصوب شده است.\n⏺\nنكته جالب توجه اينجاست كه وی از نزديكان نورشرق رييس كميته تعيين وضعيت است كه شايعات زيادی درباره وی در جامعه فوتبال مطرح است.\n⁉️\nفدراسيون فوتبال بايد پاسخ دهد كه آیا عزيزی همچنان عضو كميته تعيين وضعيت فدراسيون هست يا خير!؟\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_link": "https://t.me/total_fut/237511",
+        "post_id": 237511,
+        "message_id": 7450,
+        "message_kind": "text",
+        "sources": [
+          "total_fut"
+        ],
+        "created_at": "2026-10-08T19:20:33.800123+00:00"
+      },
+      {
+        "fingerprint": "4a77b69899629393e3c7456c8a570a28c0f91e6f38c1f28b7b9fd96ed9a740ef",
+        "media_fingerprint": "4575ee74892a41a092deda4fcc01bed11b95040e3fae02fe0951eaa39f4d9baa",
+        "text": "شیخ‌الرئیس در قاب سیما\nداستان یک سریال | قسمت نهم | بررسی متن و حاشیه سریال «بوعلی سینا»\nسریال «بوعلی سینا» به کارگردانی کیهان رهگذار، نخستین‌بار در سال ۱۳۶۴ از شبکه دو پخش شد و پس از آن بارها روی آنتن رفت. امین تارخ که پیش‌تر با «سربداران» شناخته شده بود، در این مجموعه نقش ابن‌سینا را بازی کرد و یکی از ماندگارترین چهره‌های تاریخی تلویزیون دهه شصت را ساخت. «بوعلی سینا» علاوه بر روایت زندگی یکی از مهم‌ترین دانشمندان ایرانی، محصول همکاری گروهی از چهره‌های مهم آن دوره بود؛ از فرهاد فخرالدینی و فرخ مجیدی تا امیر اسکندری و منوچهر محمدی. در این مطلب، از انتخاب بازیگران و شیوه شخصیت‌پردازی تا تولید، حواشی و سرنوشت کارگردان و ماجرای دوبله سریال را مرور کرده‌ایم.\nمتن کامل را در پیج «فیلم‌نیوز سریال» بخوانید\nhttps://B2n.ir/pw9991",
+        "original_username": "film_news",
+        "original_text": "شیخ‌الرئیس در قاب سیما\nداستان یک سریال | قسمت نهم | بررسی متن و حاشیه سریال «بوعلی سینا»\nسریال «بوعلی سینا» به کارگردانی کیهان رهگذار، نخستین‌بار در سال ۱۳۶۴ از شبکه دو پخش شد و پس از آن بارها روی آنتن رفت. امین تارخ که پیش‌تر با «سربداران» شناخته شده بود، در این مجموعه نقش ابن‌سینا را بازی کرد و یکی از ماندگارترین چهره‌های تاریخی تلویزیون دهه شصت را ساخت. «بوعلی سینا» علاوه بر روایت زندگی یکی از مهم‌ترین دانشمندان ایرانی، محصول همکاری گروهی از چهره‌های مهم آن دوره بود؛ از فرهاد فخرالدینی و فرخ مجیدی تا امیر اسکندری و منوچهر محمدی. در این مطلب، از انتخاب بازیگران و شیوه شخصیت‌پردازی تا تولید، حواشی و سرنوشت کارگردان و ماجرای دوبله سریال را مرور کرده‌ایم.\nمتن کامل را در پیج «فیلم‌نیوز سریال» بخوانید\nhttps://B2n.ir/pw9991",
+        "original_link": "https://t.me/Film_news/14995",
+        "post_id": 14995,
+        "message_id": 7451,
+        "message_kind": "caption",
+        "sources": [
+          "film_news"
+        ],
+        "created_at": "2026-10-08T19:20:39.426620+00:00"
+      },
+      {
+        "fingerprint": "2d4b5ac39012a1f7dd0b88a0ecc5aabd4ef06bd7ba6d89b17598b8fe54173f58",
+        "media_fingerprint": "d1d0659d563ce7216c56850b80311f20bf321eb0f45f0ca07247c619e22aa4bf",
+        "text": "🔴\nرنجبران؛ وکیل پایه یک دادگستری :\nپست و استوری سیاسی تو اینستاگرام و تلگرام نزارید، جرمه.\nموکل من فقط به خاطر یک استوری، توسط دادگاه انقلاب به ۱۲ سال حبس محکوم شد.\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "🔴\nرنجبران؛ وکیل پایه یک دادگستری :\nپست و استوری سیاسی تو اینستاگرام و تلگرام نزارید، جرمه.\nموکل من فقط به خاطر یک استوری، توسط دادگاه انقلاب به ۱۲ سال حبس محکوم شد.\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52772",
+        "post_id": 52772,
+        "message_id": 7452,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-08T19:20:45.401737+00:00"
+      },
+      {
+        "fingerprint": "a9ffcfb8d6c6cf397835eee41381ccde9724cb0f4febc3efa66792e5ae898f1c",
+        "media_fingerprint": "a4cc24d2fc7ea620019a0afdbbd07c10487ff32a9d5e554e97a77ffd7acffa4c",
+        "text": "🔴\nمیدونستید چیرو (Ciro)، کوچک‌ترین پسر لیونل مسی، اسمش تو زبان‌های لاتین همون Cyrus هست و معادل فارسیش میشه کوروش؟\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "🔴\nمیدونستید چیرو (Ciro)، کوچک‌ترین پسر لیونل مسی، اسمش تو زبان‌های لاتین همون Cyrus هست و معادل فارسیش میشه کوروش؟\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52773",
+        "post_id": 52773,
+        "message_id": 7453,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-08T19:20:51.604252+00:00"
+      },
+      {
+        "fingerprint": "7326cbc2545851b9041bfda355518a879f9a13cbc43e515f2c5237abc85713ca",
+        "media_fingerprint": "a07e92db39801cd051b0ac25da250ba787e87ea29cba26fa597a0a3d510838bd",
+        "text": "♦️\nروز جهانی کودک بر ۴۳۰ کودک ایرانی که به‌دست آمریکا و رژیم صهیونسیتی به شهادت رسیدند، مبارک\n🖤\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nروز جهانی کودک بر ۴۳۰ کودک ایرانی که به‌دست آمریکا و رژیم صهیونسیتی به شهادت رسیدند، مبارک\n🖤\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143326",
+        "post_id": 143326,
+        "message_id": 7455,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-08T19:20:56.169655+00:00"
+      },
+      {
+        "fingerprint": "be91743e4ce7a42be700cf235e34338e8c08460a2b395373b9cb619c219f72ef",
+        "media_fingerprint": "",
+        "text": "🎖️\n#اختصاصی_توتال\n🏅\nمارکو باکیچ و دنیل گرا دو بازیکن خارجی پرسپولیس از لیست سرخپوشان برای دیدار فردا برابر نفت آبادان خط خوردند.\n❌\nپ.ن:عوضش ایجنت دنیل گرا به عنوان سرپرست تیم روی نیمکت حضور داره…\n@total_fut",
+        "original_username": "total_fut",
+        "original_text": "🎖️\n#اختصاصی_توتال\n🏅\nمارکو باکیچ و دنیل گرا دو بازیکن خارجی پرسپولیس از لیست سرخپوشان برای دیدار فردا برابر نفت آبادان خط خوردند.\n❌\nپ.ن:عوضش ایجنت دنیل گرا به عنوان سرپرست تیم روی نیمکت حضور داره…\n@total_fut",
+        "original_link": "https://t.me/total_fut/237512",
+        "post_id": 237512,
+        "message_id": 7456,
+        "message_kind": "text",
+        "sources": [
+          "total_fut",
+          "totalfut_plus"
+        ],
+        "created_at": "2026-10-08T19:20:59.342175+00:00"
+      },
+      {
+        "fingerprint": "2b7f2269bdbee27b2879aee9f4231185cc98adb7607e9153738783ac50466ea8",
+        "media_fingerprint": "d0336fe0e284fee61c56a406764d6fc8e49faa6bfc356a161e6ee10e3944ed56",
+        "text": "5 کد مخفی ChatGPT\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "5 کد مخفی ChatGPT\n@irWonders",
+        "original_link": "https://t.me/irwonders/58488",
+        "post_id": 58488,
+        "message_id": 7457,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-08T19:21:06.503031+00:00"
       }
     ]
   }
