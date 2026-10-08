@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143300,
+      "last_id": 143303,
       "processed_ids": [
-        142198,
-        142199,
         142200,
         142201,
         142202,
@@ -1002,20 +1000,15 @@
         143297,
         143298,
         143299,
-        143300
+        143300,
+        143301,
+        143303
       ],
-      "sent_count": 763
+      "sent_count": 765
     },
     "total_fut": {
-      "last_id": 237452,
+      "last_id": 237462,
       "processed_ids": [
-        236405,
-        236407,
-        236408,
-        236410,
-        236411,
-        236412,
-        236413,
         236414,
         236415,
         236417,
@@ -2006,19 +1999,22 @@
         237449,
         237450,
         237451,
-        237452
+        237452,
+        237453,
+        237454,
+        237456,
+        237457,
+        237458,
+        237459,
+        237460,
+        237461,
+        237462
       ],
       "sent_count": 86
     },
     "footballvision2": {
-      "last_id": 170668,
+      "last_id": 170674,
       "processed_ids": [
-        169587,
-        169588,
-        169589,
-        169590,
-        169592,
-        169593,
         169594,
         169595,
         169596,
@@ -3012,7 +3008,13 @@
         170665,
         170666,
         170667,
-        170668
+        170668,
+        170669,
+        170670,
+        170671,
+        170672,
+        170673,
+        170674
       ],
       "sent_count": 77
     },
@@ -3040,7 +3042,7 @@
       "sent_count": 4
     },
     "fars_today": {
-      "last_id": 132160,
+      "last_id": 132161,
       "processed_ids": [
         131975,
         131976,
@@ -3223,7 +3225,8 @@
         132157,
         132158,
         132159,
-        132160
+        132160,
+        132161
       ],
       "sent_count": 106
     },
@@ -3987,7 +3990,7 @@
       "sent_count": 417
     },
     "techtube": {
-      "last_id": 18465,
+      "last_id": 18467,
       "processed_ids": [
         18261,
         18262,
@@ -4117,7 +4120,8 @@
         18457,
         18458,
         18464,
-        18465
+        18465,
+        18467
       ],
       "sent_count": 47
     },
@@ -4481,7 +4485,7 @@
       "sent_count": 87
     },
     "coffeenetmanager": {
-      "last_id": 51779,
+      "last_id": 51780,
       "processed_ids": [
         51537,
         51538,
@@ -4706,12 +4710,13 @@
         51776,
         51777,
         51778,
-        51779
+        51779,
+        51780
       ],
       "sent_count": 78
     },
     "roidbest": {
-      "last_id": 21811,
+      "last_id": 21812,
       "processed_ids": [
         21613,
         21614,
@@ -4900,9 +4905,10 @@
         21808,
         21809,
         21810,
-        21811
+        21811,
+        21812
       ],
-      "sent_count": 116
+      "sent_count": 117
     },
     "akhbar_cafenet": {
       "last_id": 23115,
@@ -6010,7 +6016,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38664,
+      "last_id": 38665,
       "processed_ids": [
         38432,
         38433,
@@ -6241,7 +6247,8 @@
         38661,
         38662,
         38663,
-        38664
+        38664,
+        38665
       ],
       "sent_count": 140
     },
@@ -8671,20 +8678,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109320,
+      "last_id": 109332,
       "processed_ids": [
-        108240,
-        108242,
-        108243,
-        108244,
-        108245,
-        108246,
-        108247,
-        108248,
-        108249,
-        108250,
-        108251,
-        108252,
         108253,
         108254,
         108255,
@@ -9672,20 +9667,25 @@
         109317,
         109318,
         109319,
-        109320
+        109320,
+        109321,
+        109322,
+        109323,
+        109324,
+        109325,
+        109326,
+        109327,
+        109328,
+        109329,
+        109330,
+        109331,
+        109332
       ],
       "sent_count": 79
     },
     "varzesh3": {
-      "last_id": 303588,
+      "last_id": 303595,
       "processed_ids": [
-        302488,
-        302489,
-        302490,
-        302491,
-        302492,
-        302493,
-        302494,
         302495,
         302496,
         302497,
@@ -10678,12 +10678,19 @@
         303585,
         303586,
         303587,
-        303588
+        303588,
+        303589,
+        303590,
+        303591,
+        303592,
+        303593,
+        303594,
+        303595
       ],
       "sent_count": 55
     },
     "totalfut_plus": {
-      "last_id": 26568,
+      "last_id": 26570,
       "processed_ids": [
         25870,
         25871,
@@ -11360,20 +11367,15 @@
         26563,
         26566,
         26567,
-        26568
+        26568,
+        26569,
+        26570
       ],
       "sent_count": 39
     },
     "adak_ir_official": {
-      "last_id": 234935,
+      "last_id": 234942,
       "processed_ids": [
-        233910,
-        233911,
-        233912,
-        233913,
-        233914,
-        233915,
-        233916,
         233917,
         233918,
         233919,
@@ -12366,17 +12368,20 @@
         234932,
         234933,
         234934,
-        234935
+        234935,
+        234936,
+        234937,
+        234938,
+        234939,
+        234940,
+        234941,
+        234942
       ],
       "sent_count": 140
     },
     "futball180tv": {
-      "last_id": 108099,
+      "last_id": 108103,
       "processed_ids": [
-        107080,
-        107081,
-        107082,
-        107083,
         107084,
         107085,
         107086,
@@ -13372,12 +13377,16 @@
         108096,
         108097,
         108098,
-        108099
+        108099,
+        108100,
+        108101,
+        108102,
+        108103
       ],
       "sent_count": 53
     },
     "hattric_official": {
-      "last_id": 84448,
+      "last_id": 84450,
       "processed_ids": [
         83433,
         83434,
@@ -14336,12 +14345,14 @@
         84445,
         84446,
         84447,
-        84448
+        84448,
+        84449,
+        84450
       ],
       "sent_count": 68
     },
     "mazdak_hattrick": {
-      "last_id": 182433,
+      "last_id": 182434,
       "processed_ids": [
         181991,
         181992,
@@ -14776,7 +14787,8 @@
         182430,
         182431,
         182432,
-        182433
+        182433,
+        182434
       ],
       "sent_count": 36
     },
@@ -14907,7 +14919,7 @@
       "sent_count": 10
     },
     "irwonders": {
-      "last_id": 58468,
+      "last_id": 58469,
       "processed_ids": [
         58030,
         58031,
@@ -15301,9 +15313,10 @@
         58465,
         58466,
         58467,
-        58468
+        58468,
+        58469
       ],
-      "sent_count": 251
+      "sent_count": 252
     },
     "razcom": {
       "last_id": 70485,
@@ -17548,7 +17561,7 @@
       "sent_count": 39
     },
     "shakhmovie": {
-      "last_id": 4100,
+      "last_id": 4101,
       "processed_ids": [
         4017,
         4018,
@@ -17599,9 +17612,10 @@
         4088,
         4098,
         4099,
-        4100
+        4100,
+        4101
       ],
-      "sent_count": 44
+      "sent_count": 45
     },
     "peach_tweet": {
       "last_id": 2952,
@@ -17743,81 +17757,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "3fd8be438893d24166c276df88545e1dddc0d7126a35750a8974cd2a6765693d",
-        "media_fingerprint": "86c6ec2bf0a0057500f93da328aa65735945a0f57b603015285f773f81df7325",
-        "text": "فوتبال بانوان عالیه\n😂\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "فوتبال بانوان عالیه\n😂\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162774",
-        "post_id": 162774,
-        "message_id": 6296,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-05T05:06:01.376956+00:00"
-      },
-      {
-        "fingerprint": "34314e8840f43e3ff71c0e5d12269611f79b8ed3172642a7d9cc20c1b02d5465",
-        "media_fingerprint": "",
-        "text": "🚨\n🔴\nمحمد نصرتی، محسن بنگر، اسماعیل حلالی و حمید درخشان، گزینه سرمربیگری تیم دوم پرسپولیس هستند.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n🔴\nمحمد نصرتی، محسن بنگر، اسماعیل حلالی و حمید درخشان، گزینه سرمربیگری تیم دوم پرسپولیس هستند.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/234724",
-        "post_id": 234724,
-        "message_id": 6297,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-05T05:06:04.153527+00:00"
-      },
-      {
-        "fingerprint": "181784f8a641c34029b141719aa363f4c9ac0a3c2c856d2f2cd7c44d637c656d",
-        "media_fingerprint": "2cd83663f0ca3b8c389e3ad2ccc04961a9b1a05a3dbedfecd84bc00697701817",
-        "text": "😺\nاحتمالاً مدل GPT-6.1 Astra هفته آینده عرضه خواهد شد!\n📰\nتیبو و سایر توسعه‌دهندگان OpenAI سرنخ‌هایی از عرضه این مدل ارائه داده‌اند.\n📰\nمدل GPT-6.1 Astra، یا یک مدل قدرتمند دیگر، قرار بود در رویداد DevDay معرفی شود، اما به دلایل ایمنی به تعویق افتاد.\n@RoidBest",
-        "original_username": "roidbest",
-        "original_text": "😺\nاحتمالاً مدل GPT-6.1 Astra هفته آینده عرضه خواهد شد!\n📰\nتیبو و سایر توسعه‌دهندگان OpenAI سرنخ‌هایی از عرضه این مدل ارائه داده‌اند.\n📰\nمدل GPT-6.1 Astra، یا یک مدل قدرتمند دیگر، قرار بود در رویداد DevDay معرفی شود، اما به دلایل ایمنی به تعویق افتاد.\n@RoidBest",
-        "original_link": "https://t.me/RoidBest/21779",
-        "post_id": 21779,
-        "message_id": 6298,
-        "message_kind": "caption",
-        "sources": [
-          "roidbest"
-        ],
-        "created_at": "2026-10-05T05:06:16.435674+00:00"
-      },
-      {
-        "fingerprint": "ced97a8254c7fc232f50422ef082d078c4f3759988ffb470cf8bdcab822ff8bc",
-        "media_fingerprint": "05a2f021ada18e08793a50244e679f6a965978c17078e6e6c0faf79eafbe4865",
-        "text": "باورهای اشتباه درباره تخم‌مرغ\n◽️\nهر چیزی که شنیدی درست نیست! واقعیت‌های علمی درباره تخم‌مرغ رو بشناس.\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_username": "majalepezeshki",
-        "original_text": "باورهای اشتباه درباره تخم‌مرغ\n◽️\nهر چیزی که شنیدی درست نیست! واقعیت‌های علمی درباره تخم‌مرغ رو بشناس.\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_link": "https://t.me/MajalePezeshki/38616",
-        "post_id": 38616,
-        "message_id": 6299,
-        "message_kind": "caption",
-        "sources": [
-          "majalepezeshki"
-        ],
-        "created_at": "2026-10-05T05:06:21.185995+00:00"
-      },
-      {
-        "fingerprint": "c67eb732ed3fa72bfdc6d7ea7f8019caae3e08b0b64ee715bce7f131c3228734",
-        "media_fingerprint": "",
-        "text": "♦️\nپیش بینی ادامه بارش ها در برخی نواحی کشور\nسازمان هواشناسی:\n🔹\nامروز دوشنبه در ساعات بعد از ظهر در مناطقی از استان های کرمانشاه، ایلام، لرستان، جنوب همدان، مرکزی، چهار محال و بختیاری، غرب اصفهان ، ارتفاعات جنوب کرمان ، شمال و شرق هرمزگان، جنوب شرق فارس و جنوب سیستان و بلوچستان افزایش ابر، وزش باد ، گاهی همراه با رگبار و رعد و برق رخ خواهد داد.\n🔹\nسه شنبه نیز سامانه بارشی جدید از شمال غرب وارد کشور خواهد شد.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nپیش بینی ادامه بارش ها در برخی نواحی کشور\nسازمان هواشناسی:\n🔹\nامروز دوشنبه در ساعات بعد از ظهر در مناطقی از استان های کرمانشاه، ایلام، لرستان، جنوب همدان، مرکزی، چهار محال و بختیاری، غرب اصفهان ، ارتفاعات جنوب کرمان ، شمال و شرق هرمزگان، جنوب شرق فارس و جنوب سیستان و بلوچستان افزایش ابر، وزش باد ، گاهی همراه با رگبار و رعد و برق رخ خواهد داد.\n🔹\nسه شنبه نیز سامانه بارشی جدید از شمال غرب وارد کشور خواهد شد.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143064",
-        "post_id": 143064,
-        "message_id": 6300,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-05T05:06:25.185683+00:00"
-      },
       {
         "fingerprint": "c2d01d8007150233c848d23d190c51e30fbfecaebf8f43169c774a23116abe78",
         "media_fingerprint": "71d168b37fd18f8361cd3c7422f36eab138ee00c5cfa80d31e52ddb0fdee8e66",
@@ -32832,6 +32771,81 @@
           "comentiat"
         ],
         "created_at": "2026-10-08T14:24:35.392787+00:00"
+      },
+      {
+        "fingerprint": "0bf2ef58197b38cf7e3ff61e1cacf185984734163723be5cc32067da76580fba",
+        "media_fingerprint": "",
+        "text": "♦️\nساعت ۱۷:۵۴ ، اذان مغرب به افق مرکز استان\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nساعت ۱۷:۵۴ ، اذان مغرب به افق مرکز استان\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143301",
+        "post_id": 143301,
+        "message_id": 7358,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-08T14:52:03.045080+00:00"
+      },
+      {
+        "fingerprint": "ee2bce079f73145db83dafa61abc9cf413c1fcc312518f5f7f157278a76aebab",
+        "media_fingerprint": "4965db400d450724ae64b8d42fa3feb9288438674004e210c1ba73043c279b04",
+        "text": "بامزه‌‌ترین چیزی که امروز میبینی،\nچپوندن گل به لپ‌های یه سنجابه\n😂\n😍\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "بامزه‌‌ترین چیزی که امروز میبینی،\nچپوندن گل به لپ‌های یه سنجابه\n😂\n😍\n@irWonders",
+        "original_link": "https://t.me/irwonders/58469",
+        "post_id": 58469,
+        "message_id": 7359,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-08T14:52:09.381061+00:00"
+      },
+      {
+        "fingerprint": "ad45474a2bcfb0cae579ed9c291483c7d8423eba1576021342015a65160ea9ae",
+        "media_fingerprint": "a97bd65ea52320325e75f2e3d1a41fd400780c88113dc066f40e23c7cbe69c79",
+        "text": "دیگه حتی نمیشه جلوی خانواده فیلم ایرانی دید؛\nچون هر لحظه ممکنه بگا برید.\n🎥\nفیلم «آنتیک»\n💠\nنسخه اکران آنلاین\n🤩\n🔰\nژانر: کمدی | تاریخی\n📆\nسال تولید: 1403\n📆\nسال انتشار: 1405\n📥\nDownload\n360\n📥\nDownload\n480\n📥\nDownload\n720\n📥\nDownload\n1080\n📹\n|\n@ShakhMovie",
+        "original_username": "shakhmovie",
+        "original_text": "دیگه حتی نمیشه جلوی خانواده فیلم ایرانی دید؛\nچون هر لحظه ممکنه بگا برید.\n🎥\nفیلم «آنتیک»\n💠\nنسخه اکران آنلاین\n🤩\n🔰\nژانر: کمدی | تاریخی\n📆\nسال تولید: 1403\n📆\nسال انتشار: 1405\n📥\nDownload\n360\n📥\nDownload\n480\n📥\nDownload\n720\n📥\nDownload\n1080\n📹\n|\n@ShakhMovie",
+        "original_link": "https://t.me/Shakhmovie/4101",
+        "post_id": 4101,
+        "message_id": 7360,
+        "message_kind": "caption",
+        "sources": [
+          "shakhmovie"
+        ],
+        "created_at": "2026-10-08T14:52:14.778836+00:00"
+      },
+      {
+        "fingerprint": "917b33d2fe1f40f0808ab6cb570a729a236fc5d185b99c19afd42679568ff0fc",
+        "media_fingerprint": "0e4415baa857e8624693f5248f9bc2b5865c535de7a4577e4fcc275d52cd40d3",
+        "text": "- توییت عجیب حساب رسمی تلگرام در X :\nhow it feels to be the only mfs defending democracy\nچه حسیه وقتی انگار فقط خودت داری از دموکراسی دفاع میکنی؟\n@RoidBest",
+        "original_username": "roidbest",
+        "original_text": "- توییت عجیب حساب رسمی تلگرام در X :\nhow it feels to be the only mfs defending democracy\nچه حسیه وقتی انگار فقط خودت داری از دموکراسی دفاع میکنی؟\n@RoidBest",
+        "original_link": "https://t.me/RoidBest/21812",
+        "post_id": 21812,
+        "message_id": 7361,
+        "message_kind": "caption",
+        "sources": [
+          "roidbest"
+        ],
+        "created_at": "2026-10-08T14:52:22.005386+00:00"
+      },
+      {
+        "fingerprint": "cc96660fb9a8430ebc57dd99ffabdb7116a4605480cabcd1325026c2148a6d81",
+        "media_fingerprint": "7e04f07f1fe1aa50e4c37f1669f05438bdc4a772f6f6ee2e0aa68c80af1b8d99",
+        "text": "♦️\nهمایون شجریان پس از نزدیک به چهار سال دوری از صحنه کنسرت‌ها در کشور، در شیراز به روي صحنه رفت\nما را در اینستاگرام دنبال کنید\n👇\nhttps://www.instagram.com/reel/DeO9l1kKX18/?stkn=bjh3bHJrcDh0ZGd0",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nهمایون شجریان پس از نزدیک به چهار سال دوری از صحنه کنسرت‌ها در کشور، در شیراز به روي صحنه رفت\nما را در اینستاگرام دنبال کنید\n👇\nhttps://www.instagram.com/reel/DeO9l1kKX18/?stkn=bjh3bHJrcDh0ZGd0",
+        "original_link": "https://t.me/akhbarfars/143303",
+        "post_id": 143303,
+        "message_id": 7362,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-08T14:52:28.080089+00:00"
       }
     ]
   }
