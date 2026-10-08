@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143287,
+      "last_id": 143289,
       "processed_ids": [
-        142186,
-        142187,
         142188,
         142189,
         142190,
@@ -1002,12 +1000,14 @@
         143284,
         143285,
         143286,
-        143287
+        143287,
+        143288,
+        143289
       ],
-      "sent_count": 756
+      "sent_count": 757
     },
     "total_fut": {
-      "last_id": 237419,
+      "last_id": 237423,
       "processed_ids": [
         236405,
         236407,
@@ -1974,14 +1974,17 @@
         237415,
         237416,
         237417,
-        237419
+        237419,
+        237420,
+        237421,
+        237422,
+        237423
       ],
-      "sent_count": 82
+      "sent_count": 85
     },
     "footballvision2": {
-      "last_id": 170610,
+      "last_id": 170611,
       "processed_ids": [
-        169530,
         169531,
         169532,
         169533,
@@ -2980,7 +2983,8 @@
         170607,
         170608,
         170609,
-        170610
+        170610,
+        170611
       ],
       "sent_count": 75
     },
@@ -3224,7 +3228,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67471,
+      "last_id": 67473,
       "processed_ids": [
         66561,
         66565,
@@ -3945,7 +3949,9 @@
         67468,
         67469,
         67470,
-        67471
+        67471,
+        67472,
+        67473
       ],
       "sent_count": 417
     },
@@ -4860,7 +4866,7 @@
       "sent_count": 116
     },
     "akhbar_cafenet": {
-      "last_id": 23106,
+      "last_id": 23107,
       "processed_ids": [
         22432,
         22433,
@@ -5501,9 +5507,10 @@
         23099,
         23100,
         23101,
-        23106
+        23106,
+        23107
       ],
-      "sent_count": 352
+      "sent_count": 353
     },
     "comentiat": {
       "last_id": 26379,
@@ -6190,7 +6197,7 @@
       "sent_count": 140
     },
     "gizmiztel": {
-      "last_id": 162958,
+      "last_id": 162964,
       "processed_ids": [
         161872,
         161875,
@@ -7173,12 +7180,17 @@
         162955,
         162956,
         162957,
-        162958
+        162958,
+        162959,
+        162960,
+        162962,
+        162963,
+        162964
       ],
-      "sent_count": 649
+      "sent_count": 654
     },
     "dr_salamatx": {
-      "last_id": 55369,
+      "last_id": 55370,
       "processed_ids": [
         55270,
         55271,
@@ -7279,9 +7291,10 @@
         55366,
         55367,
         55368,
-        55369
+        55369,
+        55370
       ],
-      "sent_count": 61
+      "sent_count": 62
     },
     "jaleb": {
       "last_id": 52764,
@@ -8597,9 +8610,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109279,
+      "last_id": 109280,
       "processed_ids": [
-        108199,
         108200,
         108201,
         108202,
@@ -9598,16 +9610,14 @@
         109275,
         109276,
         109278,
-        109279
+        109279,
+        109280
       ],
-      "sent_count": 74
+      "sent_count": 75
     },
     "varzesh3": {
-      "last_id": 303560,
+      "last_id": 303564,
       "processed_ids": [
-        302461,
-        302462,
-        302463,
         302464,
         302465,
         302466,
@@ -10604,12 +10614,15 @@
         303556,
         303557,
         303559,
-        303560
+        303560,
+        303561,
+        303563,
+        303564
       ],
-      "sent_count": 53
+      "sent_count": 54
     },
     "totalfut_plus": {
-      "last_id": 26556,
+      "last_id": 26557,
       "processed_ids": [
         25870,
         25871,
@@ -11276,15 +11289,14 @@
         26553,
         26554,
         26555,
-        26556
+        26556,
+        26557
       ],
       "sent_count": 39
     },
     "adak_ir_official": {
-      "last_id": 234912,
+      "last_id": 234914,
       "processed_ids": [
-        233889,
-        233890,
         233891,
         233892,
         233893,
@@ -12282,18 +12294,15 @@
         234909,
         234910,
         234911,
-        234912
+        234912,
+        234913,
+        234914
       ],
       "sent_count": 138
     },
     "futball180tv": {
-      "last_id": 108068,
+      "last_id": 108073,
       "processed_ids": [
-        107048,
-        107049,
-        107050,
-        107051,
-        107052,
         107053,
         107054,
         107055,
@@ -13288,12 +13297,17 @@
         108065,
         108066,
         108067,
-        108068
+        108068,
+        108069,
+        108070,
+        108071,
+        108072,
+        108073
       ],
-      "sent_count": 49
+      "sent_count": 52
     },
     "hattric_official": {
-      "last_id": 84422,
+      "last_id": 84426,
       "processed_ids": [
         83433,
         83434,
@@ -14228,12 +14242,16 @@
         84419,
         84420,
         84421,
-        84422
+        84422,
+        84423,
+        84424,
+        84425,
+        84426
       ],
-      "sent_count": 66
+      "sent_count": 68
     },
     "mazdak_hattrick": {
-      "last_id": 182428,
+      "last_id": 182429,
       "processed_ids": [
         181991,
         181992,
@@ -14663,7 +14681,8 @@
         182425,
         182426,
         182427,
-        182428
+        182428,
+        182429
       ],
       "sent_count": 34
     },
@@ -14791,7 +14810,7 @@
       "sent_count": 8
     },
     "irwonders": {
-      "last_id": 58459,
+      "last_id": 58461,
       "processed_ids": [
         58030,
         58031,
@@ -15176,9 +15195,11 @@
         58456,
         58457,
         58458,
-        58459
+        58459,
+        58460,
+        58461
       ],
-      "sent_count": 245
+      "sent_count": 246
     },
     "razcom": {
       "last_id": 70485,
@@ -17209,7 +17230,7 @@
       "sent_count": 49
     },
     "yejoorayi": {
-      "last_id": 512,
+      "last_id": 513,
       "processed_ids": [
         426,
         427,
@@ -17295,9 +17316,10 @@
         509,
         510,
         511,
-        512
+        512,
+        513
       ],
-      "sent_count": 77
+      "sent_count": 78
     },
     "onlinecofe_ir": {
       "last_id": 2887,
@@ -17467,7 +17489,7 @@
       "sent_count": 42
     },
     "peach_tweet": {
-      "last_id": 2947,
+      "last_id": 2950,
       "processed_ids": [
         2745,
         2749,
@@ -17595,344 +17617,15 @@
         2943,
         2944,
         2945,
-        2947
+        2947,
+        2949,
+        2950
       ],
-      "sent_count": 83
+      "sent_count": 85
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "bef63e6e2450f87b82d9844301b551044f84b725b18ce67d265c8f93722624f5",
-        "media_fingerprint": "53af791ff4bb20e56b718b4b6aadd3b5e01beb64969f095f066b5d476d1f4aec",
-        "text": "🔴\n✔️\nاختصاصی - حدادی: قرارداد علی علیپور با پرسپولیس تمدید شد\n▶️\nپخش برنامه در یوتیوب\n👈\n(لینک)\n📡\nپخش برنامه در آنتن\n👈\n(لینک)\n🆔\n@varzesh3",
-        "original_username": "varzesh3",
-        "original_text": "🔴\n✔️\nاختصاصی - حدادی: قرارداد علی علیپور با پرسپولیس تمدید شد\n▶️\nپخش برنامه در یوتیوب\n👈\n(لینک)\n📡\nپخش برنامه در آنتن\n👈\n(لینک)\n🆔\n@varzesh3",
-        "original_link": "https://t.me/varzesh3/303362",
-        "post_id": 303362,
-        "message_id": 6220,
-        "message_kind": "caption",
-        "sources": [
-          "varzesh3"
-        ],
-        "created_at": "2026-10-04T21:02:57.973088+00:00"
-      },
-      {
-        "fingerprint": "78931cec053a306613912689a96fa9c5e1aff2d715f8f58ba551da38499dd3f6",
-        "media_fingerprint": "7dceff23a5df3300182ff489354add2ccfd9f5cb4f4c351385592662b6f831d0",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26304",
-        "post_id": 26304,
-        "message_id": 6221,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-04T21:03:01.921326+00:00"
-      },
-      {
-        "fingerprint": "0a221ba46b8761fba6773660359661aedae51c2a7b260e1c6fddb823658eee44",
-        "media_fingerprint": "",
-        "text": "♦️\nوزیر نفت استعفا داد\nمعاون دفتر پزشکیان:\n🔹\nبا پذیرش استعفای محسن پاک نژاد طی حکمی از سوی دکتر پزشکیان رئیس جمهور، حمید بورد به عنوان سرپرست وزارت نفت منصوب شد./ تسنیم\n---------------------‐------\n♦️\nآخرین خبر فارس و شیراز\n●  تلگرام:\nt.me/Fars_today\n●  بله:\nble.ir/fars_online",
-        "original_username": "fars_today",
-        "original_text": "♦️\nوزیر نفت استعفا داد\nمعاون دفتر پزشکیان:\n🔹\nبا پذیرش استعفای محسن پاک نژاد طی حکمی از سوی دکتر پزشکیان رئیس جمهور، حمید بورد به عنوان سرپرست وزارت نفت منصوب شد./ تسنیم\n---------------------‐------\n♦️\nآخرین خبر فارس و شیراز\n●  تلگرام:\nt.me/Fars_today\n●  بله:\nble.ir/fars_online",
-        "original_link": "https://t.me/Fars_today/132125",
-        "post_id": 132125,
-        "message_id": 6222,
-        "message_kind": "text",
-        "sources": [
-          "fars_today"
-        ],
-        "created_at": "2026-10-04T21:03:04.835746+00:00"
-      },
-      {
-        "fingerprint": "7ecf6e5e555aa1836462fb6ebaa7e5e327e419e675f744bb0d2e1f816cbc2533",
-        "media_fingerprint": "",
-        "text": "🌐\nنماینده مجلس: مبلغ کالابرگ و یارانه باید حداقل ۳ برابر شود\n🔵\nابراهیمی، نماینده مردم اراک در مجلس شورای اسلامی گفت: افزایش درآمد مردم صرفاً یک سیاست رفاهی نیست، بلکه اقدامی اقتصادی و تولیدی است و بر همین اساس، به استناد قانون برنامه، حقوق‌ها باید افزایش یابد و مبلغ کالابرگ و یارانه حداقل سه برابر شود./ ایلنا\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🌐\nنماینده مجلس: مبلغ کالابرگ و یارانه باید حداقل ۳ برابر شود\n🔵\nابراهیمی، نماینده مردم اراک در مجلس شورای اسلامی گفت: افزایش درآمد مردم صرفاً یک سیاست رفاهی نیست، بلکه اقدامی اقتصادی و تولیدی است و بر همین اساس، به استناد قانون برنامه، حقوق‌ها باید افزایش یابد و مبلغ کالابرگ و یارانه حداقل سه برابر شود./ ایلنا\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/22964",
-        "post_id": 22964,
-        "message_id": 6223,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-04T21:03:07.908470+00:00"
-      },
-      {
-        "fingerprint": "8709c8dc29be64dc3f6d898697c8670dc46ed2281e198d4a3e400a5151fa782a",
-        "media_fingerprint": "f0d504e3501fa1e81bb359bbfec0a32ca576ad96c7226c2b0d06a92eaba94b7e",
-        "text": "🧠\nذهنت هم به «فضای خالی» نیاز دارد\n✅\nاگر هر دقیقه روز را با موبایل، موسیقی، پیام یا ویدئو پر کنیم، مغز فرصت پردازش اتفاقات را از دست می‌دهد. چند دقیقه سکوت، قدم زدن یا نگاه کردن به طبیعت می‌تواند به آرامش ذهن و افزایش تمرکز کمک کند.\n🌐\nwww.apa.org/topics/mindfulness\n#روانشناسی_و_سبک_زندگی\n#آرامش_ذهن\n🖥\n@Dr_SalamatX",
-        "original_username": "dr_salamatx",
-        "original_text": "🧠\nذهنت هم به «فضای خالی» نیاز دارد\n✅\nاگر هر دقیقه روز را با موبایل، موسیقی، پیام یا ویدئو پر کنیم، مغز فرصت پردازش اتفاقات را از دست می‌دهد. چند دقیقه سکوت، قدم زدن یا نگاه کردن به طبیعت می‌تواند به آرامش ذهن و افزایش تمرکز کمک کند.\n🌐\nwww.apa.org/topics/mindfulness\n#روانشناسی_و_سبک_زندگی\n#آرامش_ذهن\n🖥\n@Dr_SalamatX",
-        "original_link": "https://t.me/Dr_SalamatX/55348",
-        "post_id": 55348,
-        "message_id": 6224,
-        "message_kind": "caption",
-        "sources": [
-          "dr_salamatx"
-        ],
-        "created_at": "2026-10-04T21:03:12.199818+00:00"
-      },
-      {
-        "fingerprint": "5d84daaef268c18af89d3308243783ac9b35805ce16a0652c22cd3bff630a145",
-        "media_fingerprint": "a5dbbf967ea0945a8f43ae0b44b7e4caf73a687f464e578b527c2a5c759958d9",
-        "text": "🔻\nدو تصویر از آینده؛ آمریکا یا چین؟\nدو مترو، دو سبک زندگی\n🔸\nیکی حال‌ و هوای آخرالزمانی،\n🔸\nیکی شبیه صحنه‌ای از آینده!\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "🔻\nدو تصویر از آینده؛ آمریکا یا چین؟\nدو مترو، دو سبک زندگی\n🔸\nیکی حال‌ و هوای آخرالزمانی،\n🔸\nیکی شبیه صحنه‌ای از آینده!\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159512",
-        "post_id": 159512,
-        "message_id": 6225,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-04T21:03:18.159283+00:00"
-      },
-      {
-        "fingerprint": "582f8742805262273627398939b8ee43c3a3ddd054b015f5d0971d501c86e4b2",
-        "media_fingerprint": "b48d8d272fe451d61a2d4b02a3dac02891b8080e7ac767c8fe4be3760cb24266",
-        "text": "ولی من هنوز قوی بودم؛\n+ ویدیو خفنی که از انیمیشن‌\nماشین‌ها\nتو سوشال مدیا داره وایرال میشه.\n📷\n|\n@ShakhMovie",
-        "original_username": "shakhmovie",
-        "original_text": "ولی من هنوز قوی بودم؛\n+ ویدیو خفنی که از انیمیشن‌\nماشین‌ها\nتو سوشال مدیا داره وایرال میشه.\n📷\n|\n@ShakhMovie",
-        "original_link": "https://t.me/Shakhmovie/4050",
-        "post_id": 4050,
-        "message_id": 6226,
-        "message_kind": "caption",
-        "sources": [
-          "shakhmovie"
-        ],
-        "created_at": "2026-10-04T21:03:25.094447+00:00"
-      },
-      {
-        "fingerprint": "8e5f19f2d772e22af31a8c3dd46b13b65266227bcff3fabfec708402cc77dd0c",
-        "media_fingerprint": "",
-        "text": "♦️\nگزارش وضعیت ایمنی مراکز درمانی دانشگاه علوم پزشکی شیراز\n🔹\nدانشگاه علوم پزشکی شیراز رویکرد جامعی برای ایمنی بیمارستان‌ها در پیش گرفته که فراتر از عمر بنا، شامل سازه، تأسیسات، سیستم‌های حریق، گازهای طبی و پدافندی می‌شود، هیچ مرکزی به‌صورت رسمی «ناایمن» اعلام نشده و پروژه‌های بهسازی به‌صورت زون‌بندی‌شده و بدون توقف خدمات درمانی اجرا می‌شوند.\n🔹\nبیمارستان حضرت زینب (س): مقاوم‌سازی کامل شده؛ زون‌بندی ضد دود و حریق، ایمن‌سازی خروجی‌ها، ارتقای زیرساخت حریق ویژه NICU و تأیید عملکرد دیزل‌ژنراتورها.\n🔹\nبیمارستان شهید فقیهی (سعدی): مطالعات لرزه‌ای تکمیل شده؛ پیاده‌سازی «منطقه امن» با تخلیه افقی و مرحله‌ای و مدیریت محدودیت‌های ترافیکی از طریق هیدرانت‌های فنی.\n🔹\nمجتمع درمانی نمازی: تجهیز بر اساس استانداردهای «کتاب بیمارستان‌های ایمن»، برگزاری مانورهای دوره‌ای و نوسازی مستمر شبکه گازهای طبی و پست‌های برق.\n‼️\nچالش اصلی: هزینه‌های بالای بهسازی با میانگین پیشرفت سالانه ۱۰ تا ۱۵ درصد که نیازمند اعتبارات ملی است.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nگزارش وضعیت ایمنی مراکز درمانی دانشگاه علوم پزشکی شیراز\n🔹\nدانشگاه علوم پزشکی شیراز رویکرد جامعی برای ایمنی بیمارستان‌ها در پیش گرفته که فراتر از عمر بنا، شامل سازه، تأسیسات، سیستم‌های حریق، گازهای طبی و پدافندی می‌شود، هیچ مرکزی به‌صورت رسمی «ناایمن» اعلام نشده و پروژه‌های بهسازی به‌صورت زون‌بندی‌شده و بدون توقف خدمات درمانی اجرا می‌شوند.\n🔹\nبیمارستان حضرت زینب (س): مقاوم‌سازی کامل شده؛ زون‌بندی ضد دود و حریق، ایمن‌سازی خروجی‌ها، ارتقای زیرساخت حریق ویژه NICU و تأیید عملکرد دیزل‌ژنراتورها.\n🔹\nبیمارستان شهید فقیهی (سعدی): مطالعات لرزه‌ای تکمیل شده؛ پیاده‌سازی «منطقه امن» با تخلیه افقی و مرحله‌ای و مدیریت محدودیت‌های ترافیکی از طریق هیدرانت‌های فنی.\n🔹\nمجتمع درمانی نمازی: تجهیز بر اساس استانداردهای «کتاب بیمارستان‌های ایمن»، برگزاری مانورهای دوره‌ای و نوسازی مستمر شبکه گازهای طبی و پست‌های برق.\n‼️\nچالش اصلی: هزینه‌های بالای بهسازی با میانگین پیشرفت سالانه ۱۰ تا ۱۵ درصد که نیازمند اعتبارات ملی است.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143052",
-        "post_id": 143052,
-        "message_id": 6227,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-04T21:03:29.086894+00:00"
-      },
-      {
-        "fingerprint": "01dfe892b0166e367f0a3a0ff1da41c8c09f29a58c749a777fd73a01e2bcb24e",
-        "media_fingerprint": "1b2edf5edf2b0e33d0883bb71f28addd30804ad5bde64d1bdcf987127648a1ab",
-        "text": "استقلال 50% بیشتر پرداختی داشت؛\n‼️\nافشاگری حدادی از پیشنهاد پرسپولیس به عارف آقاسی\n🆔\n@varzesh3",
-        "original_username": "varzesh3",
-        "original_text": "استقلال 50% بیشتر پرداختی داشت؛\n‼️\nافشاگری حدادی از پیشنهاد پرسپولیس به عارف آقاسی\n🆔\n@varzesh3",
-        "original_link": "https://t.me/varzesh3/303364",
-        "post_id": 303364,
-        "message_id": 6228,
-        "message_kind": "caption",
-        "sources": [
-          "varzesh3"
-        ],
-        "created_at": "2026-10-04T21:03:35.716193+00:00"
-      },
-      {
-        "fingerprint": "b5f3d4a3343b9407fc9978bb09d4aefbf3e8f27cdf378213c1307366cd71a1ba",
-        "media_fingerprint": "dbfffe94ab652d49bb820bafc2b7ce6130e81e390aa31e1e41f5392d9014da38",
-        "text": "⁉️\nچرا خداداد عزیزی منتفی شد؟\n🎙\nحدادی: سیاست پرسپولیس و تراکتور فرق دارد\n🆔\n@varzesh3",
-        "original_username": "varzesh3",
-        "original_text": "⁉️\nچرا خداداد عزیزی منتفی شد؟\n🎙\nحدادی: سیاست پرسپولیس و تراکتور فرق دارد\n🆔\n@varzesh3",
-        "original_link": "https://t.me/varzesh3/303366",
-        "post_id": 303366,
-        "message_id": 6229,
-        "message_kind": "caption",
-        "sources": [
-          "varzesh3"
-        ],
-        "created_at": "2026-10-04T21:03:42.421221+00:00"
-      },
-      {
-        "fingerprint": "593996bd278df74f4b4798b4ed611744f58adb6a1fc7d48338ff583f40b9658c",
-        "media_fingerprint": "",
-        "text": "اقتصاد بهم ریخته و فرهنگ...\nدر قسمت هفتم «ستاره‌بازی»، آرمین قدرتی میزبان فرزین محدث است؛\n🎬\n«ستاره‌بازی»؛ سه‌شنبه ها به‌طور اختصاصی در پلتفرم ایده‌نما\n@BajeFilm",
-        "original_username": "bajefilm",
-        "original_text": "اقتصاد بهم ریخته و فرهنگ...\nدر قسمت هفتم «ستاره‌بازی»، آرمین قدرتی میزبان فرزین محدث است؛\n🎬\n«ستاره‌بازی»؛ سه‌شنبه ها به‌طور اختصاصی در پلتفرم ایده‌نما\n@BajeFilm",
-        "original_link": "https://t.me/bajefilm/11588",
-        "post_id": 11588,
-        "message_id": 6230,
-        "message_kind": "text",
-        "sources": [
-          "bajefilm"
-        ],
-        "created_at": "2026-10-04T21:03:45.251587+00:00"
-      },
-      {
-        "fingerprint": "891f661c6818137225429a8443389df0391dd1d8ee14e6941232d1931f77fee9",
-        "media_fingerprint": "",
-        "text": "دفترچه های انتخاب رشته کنکور سراسری 1405",
-        "original_username": "amozesh_cafenet",
-        "original_text": "دفترچه های انتخاب رشته کنکور سراسری 1405",
-        "original_link": "https://t.me/amozesh_cafenet/3121",
-        "post_id": 3121,
-        "message_id": 6231,
-        "message_kind": "text",
-        "sources": [
-          "amozesh_cafenet"
-        ],
-        "created_at": "2026-10-04T21:03:47.750873+00:00"
-      },
-      {
-        "fingerprint": "b62cc15aa1a7ffd53bba027b5c33bb73d0e835a1c399d823cc6562273287b570",
-        "media_fingerprint": "d31c7f53dac46518bd84bb32209287b1105628b18096244d041d6332300ce6b8",
-        "text": "۱۵ گیاه که میشه از برگ تکسیرشون کرد\n@Midanesti",
-        "original_username": "midanesti",
-        "original_text": "۱۵ گیاه که میشه از برگ تکسیرشون کرد\n@Midanesti",
-        "original_link": "https://t.me/midanesti/73249",
-        "post_id": 73249,
-        "message_id": 6232,
-        "message_kind": "caption",
-        "sources": [
-          "midanesti"
-        ],
-        "created_at": "2026-10-04T21:03:57.365271+00:00"
-      },
-      {
-        "fingerprint": "c9bd488842978b0036acb01764f9352862c1b29f66f54fcb927efe48285c6947",
-        "media_fingerprint": "aa0f0affaa213f36e82bc6c73b291622d9a2e0ec79556f88490ba391bc1c528f",
-        "text": "وایب خوب این کلیپ از پدران ایرانی:\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "وایب خوب این کلیپ از پدران ایرانی:\n@irWonders",
-        "original_link": "https://t.me/irwonders/58317",
-        "post_id": 58317,
-        "message_id": 6233,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-04T21:04:24.824407+00:00"
-      },
-      {
-        "fingerprint": "ed237e5dc11713e5d607ec8637369b17b1ecd8ecbe98249bb74f121cc44bd204",
-        "media_fingerprint": "",
-        "text": "💣\n❤️\nدرگیری شدید و خونین در لیگ برتر زیر ۱۸ سال کشور\nچه بزن بزنییییه\n😂\n😂\n😐\n⚽️\n@Hattric_Official",
-        "original_username": "hattric_official",
-        "original_text": "💣\n❤️\nدرگیری شدید و خونین در لیگ برتر زیر ۱۸ سال کشور\nچه بزن بزنییییه\n😂\n😂\n😐\n⚽️\n@Hattric_Official",
-        "original_link": "https://t.me/Hattric_Official/84249",
-        "post_id": 84249,
-        "message_id": 6234,
-        "message_kind": "text",
-        "sources": [
-          "hattric_official"
-        ],
-        "created_at": "2026-10-04T21:04:27.806807+00:00"
-      },
-      {
-        "fingerprint": "6d2c2379b90622cbb97ab9f42b2ffd47b087754303cd1a96ee9d1df0632a5534",
-        "media_fingerprint": "bd1d6054a720cb16fdb5e492abc41a5a010b7d1e195e4d9b458bb572f660a02c",
-        "text": "🔴\nسطح تبلیغات محصولات داخلی، به طرز چشم‌گیری داره به فیلم‌های پورن‌هاب نزدیک میشه :\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nسطح تبلیغات محصولات داخلی، به طرز چشم‌گیری داره به فیلم‌های پورن‌هاب نزدیک میشه :\n@DrTeL",
-        "original_link": "https://t.me/drtel/67341",
-        "post_id": 67341,
-        "message_id": 6235,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-04T21:04:32.905407+00:00"
-      },
-      {
-        "fingerprint": "1858a8f9f7c086c73227f0807264ba01e671c17b710bb57f43d5d5356d7149d2",
-        "media_fingerprint": "af2e96a88178a6e7032d9ad7d4875d29bf8f979851fa33fda7d26718131db61b",
-        "text": "کارشناس صداسیما:\nما یه جنتی داریم عمرش از خود اسرائیل بیشتره\nمجری منفجر شد از‌ خنده\n😄\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "کارشناس صداسیما:\nما یه جنتی داریم عمرش از خود اسرائیل بیشتره\nمجری منفجر شد از‌ خنده\n😄\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162755",
-        "post_id": 162755,
-        "message_id": 6236,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel",
-          "jaleb"
-        ],
-        "created_at": "2026-10-04T21:04:39.615484+00:00"
-      },
-      {
-        "fingerprint": "0888dd4e5ef663301c71c9d2558c79a188bae9febee80584f06e3bf1b651b952",
-        "media_fingerprint": "f724e8971ab4fe9ae0896517c65fa801fcf829ebaf85e27fc3ce3de2ed2c81f8",
-        "text": "درخواست خانوما: لطفا این کلاس رو سراسری در کل کشور برگزار کنید\n😂\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "درخواست خانوما: لطفا این کلاس رو سراسری در کل کشور برگزار کنید\n😂\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162756",
-        "post_id": 162756,
-        "message_id": 6237,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-04T21:04:45.729734+00:00"
-      },
-      {
-        "fingerprint": "1b5fde569c20edc0c99a067d598e01c8f13426fc8caa3a67c0012770740896d4",
-        "media_fingerprint": "1debf10f07bdc795083b8ff101fe9c4b09e7270878ddb18bdf18fd2b5de70b90",
-        "text": "تو یکی از تجمعات شبانه به یک دختر بچه گفتن بیا شعر بخون و اونم این شعر رو خونده:\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "تو یکی از تجمعات شبانه به یک دختر بچه گفتن بیا شعر بخون و اونم این شعر رو خونده:\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162757",
-        "post_id": 162757,
-        "message_id": 6238,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-04T21:04:51.219909+00:00"
-      },
-      {
-        "fingerprint": "a34d27abefa34ec7e538fe7af7fd9286f766e246ede707c02e8a9d346f54ff8f",
-        "media_fingerprint": "7a12604c72e0a1e2c586ea0962a759f4eefbc883b9ddc43c722ed9361b6d42c5",
-        "text": "🥇\nارزان سرای انواع هوش مصنوعی\n(دیگه هوش مصنوعی گرون نخر)\n🧠\nاکانت ChatGPT Plus فقط 399 تومن\n📱\nجمینای پرو فقط 299 هزار تومان\n📱\nپرپکلیسی پرو فقط 499 هزار تومن\n📺\nو کلی آفر دیگر ......\n📄\nدارای نماد اعتماد الکترونیکی ، و ضمانت بازگشت وجه در صورت عدم رضایت شما\n🤖\nفروشگاه AiBaMa مرکز تخصصی هوش مصنوعی در ایران\n🔥\n🔥\n🔥\n🔥\n🔥\n🔥\n🔥\n🔥\n📱\nhttps://t.me/Ai_Bama_me",
-        "original_username": "gizmiztel",
-        "original_text": "🥇\nارزان سرای انواع هوش مصنوعی\n(دیگه هوش مصنوعی گرون نخر)\n🧠\nاکانت ChatGPT Plus فقط 399 تومن\n📱\nجمینای پرو فقط 299 هزار تومان\n📱\nپرپکلیسی پرو فقط 499 هزار تومن\n📺\nو کلی آفر دیگر ......\n📄\nدارای نماد اعتماد الکترونیکی ، و ضمانت بازگشت وجه در صورت عدم رضایت شما\n🤖\nفروشگاه AiBaMa مرکز تخصصی هوش مصنوعی در ایران\n🔥\n🔥\n🔥\n🔥\n🔥\n🔥\n🔥\n🔥\n📱\nhttps://t.me/Ai_Bama_me",
-        "original_link": "https://t.me/gizmiztel/162758",
-        "post_id": 162758,
-        "message_id": 6239,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-04T21:04:55.499257+00:00"
-      },
-      {
-        "fingerprint": "0c275083b229076b1a6a3c1624bf61371be2a281f7cc7b14eacebc43d48010c0",
-        "media_fingerprint": "3e5aae533560f31784dabe7e4dddc2602f8baf229b5ab3237e3d2dca41e37fb0",
-        "text": "چرا تموم نمی‌کنید این بازی کثیفو\n😂\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "چرا تموم نمی‌کنید این بازی کثیفو\n😂\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162760",
-        "post_id": 162760,
-        "message_id": 6240,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-04T21:05:00.760138+00:00"
-      },
-      {
-        "fingerprint": "f3e7cc1efead7b97859c9919c92280a24327a258a17f29631b471eba5b5683d9",
-        "media_fingerprint": "32b728ed97958fbc99d9a8583402e36399eae11544e312c3a6253c6cad60a821",
-        "text": "جوری که خوشبختی تو اوج منو رها میکنه\n😂\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "جوری که خوشبختی تو اوج منو رها میکنه\n😂\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/306757",
-        "post_id": 306757,
-        "message_id": 6241,
-        "message_kind": "caption",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-04T21:05:05.768910+00:00"
-      },
       {
         "fingerprint": "1c399ee4a2c38258117e97e0a3d03419a8475a004852c05a5414015465a90421",
         "media_fingerprint": "",
@@ -31371,7 +31064,8 @@
         "message_id": 7189,
         "message_kind": "caption",
         "sources": [
-          "midanesti"
+          "midanesti",
+          "irwonders"
         ],
         "created_at": "2026-10-08T06:27:44.643442+00:00"
       },
@@ -32698,6 +32392,336 @@
           "khandehabadd"
         ],
         "created_at": "2026-10-08T11:21:51.041831+00:00"
+      },
+      {
+        "fingerprint": "d73756f0cb8e7afbeaab641219acb1256bdb95db39c35ebbd262c93b26d563e8",
+        "media_fingerprint": "",
+        "text": "⚽\n✅\n⚽️\nبلیط‌فروشی\nدیدار پرسپولیس-صنعت نفت آبادان آغاز شد\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "⚽\n✅\n⚽️\nبلیط‌فروشی\nدیدار پرسپولیس-صنعت نفت آبادان آغاز شد\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/84423",
+        "post_id": 84423,
+        "message_id": 7285,
+        "message_kind": "text",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-08T11:49:14.766949+00:00"
+      },
+      {
+        "fingerprint": "a5eb695fe9e461699af2c5cb061dc12ee4dfc80e8704df0e26846aa85a9f84ff",
+        "media_fingerprint": "",
+        "text": "‼️\n⚽\nعلی تاجرنیا، رئیس هیئت‌مدیره استقلال، با پیوستن به کارزار ۱۰ میلیونی هواداران این باشگاه، خواستار معرفی استقلال به‌عنوان قهرمان فصل گذشته لیگ برتر شد.\n🔵\nدر این کارزار از فدراسیون فوتبال خواسته شده استقلال را قهرمان بیست‌وپنجمین دوره لیگ برتر معرفی کند و جام قهرمانی را نیز به این باشگاه اهدا کند. تاجرنیا هم با امضای الکترونیکی این طومار، به این درخواست پیوست.\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "‼️\n⚽\nعلی تاجرنیا، رئیس هیئت‌مدیره استقلال، با پیوستن به کارزار ۱۰ میلیونی هواداران این باشگاه، خواستار معرفی استقلال به‌عنوان قهرمان فصل گذشته لیگ برتر شد.\n🔵\nدر این کارزار از فدراسیون فوتبال خواسته شده استقلال را قهرمان بیست‌وپنجمین دوره لیگ برتر معرفی کند و جام قهرمانی را نیز به این باشگاه اهدا کند. تاجرنیا هم با امضای الکترونیکی این طومار، به این درخواست پیوست.\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/84424",
+        "post_id": 84424,
+        "message_id": 7286,
+        "message_kind": "text",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-08T11:49:17.886199+00:00"
+      },
+      {
+        "fingerprint": "3f65c4f0b84fa2125516fe5cc862ee831a49bbd628fa961464c2d7d7865c3f5f",
+        "media_fingerprint": "b74584e88f697e0db9b7b40da8a7e987637678203ed8dc305b3bb0439b5bb9f1",
+        "text": "🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/513",
+        "post_id": 513,
+        "message_id": 7287,
+        "message_kind": "caption",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-08T11:49:22.263024+00:00"
+      },
+      {
+        "fingerprint": "5e8501e97e13d2c2113f27604a5d5ec1cc458dbbc3bd0f4a25e6b9f80a2e4c6a",
+        "media_fingerprint": "26d6df7302e1c87113e2667d31f9a1c5e922efd89bf21864418927158452e5f0",
+        "text": "به بانوان مدال‌آور نگاه ویژه‌ای داشتند؛\n🎙\nساغر مرادی: سردار با ما تماس گرفت و تبریک گفت\n🎙\nمصاحبه اختصاصی با ستارگان #تکواندو\n▶️\nمصاحبه کامل در یوتیوب\n🆔\n@varzesh3",
+        "original_username": "varzesh3",
+        "original_text": "به بانوان مدال‌آور نگاه ویژه‌ای داشتند؛\n🎙\nساغر مرادی: سردار با ما تماس گرفت و تبریک گفت\n🎙\nمصاحبه اختصاصی با ستارگان #تکواندو\n▶️\nمصاحبه کامل در یوتیوب\n🆔\n@varzesh3",
+        "original_link": "https://t.me/varzesh3/303561",
+        "post_id": 303561,
+        "message_id": 7288,
+        "message_kind": "caption",
+        "sources": [
+          "varzesh3"
+        ],
+        "created_at": "2026-10-08T11:49:29.465927+00:00"
+      },
+      {
+        "fingerprint": "ae6b5d002890d839e91abd9aab099e5ff2f5ada699975268f5dcc140f78fb255",
+        "media_fingerprint": "5a58e3f76339af735ffcb31c042542a161a7a3aaa523492f9929d70d3f058351",
+        "text": "🚨\n‼️\n🇮🇷\n🇮🇷\n🇮🇷\nهوادار تراکتور: استقلال و پرسپولیس در تبریز کلا ۱۰ نفر هوادار دارند!\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "🚨\n‼️\n🇮🇷\n🇮🇷\n🇮🇷\nهوادار تراکتور: استقلال و پرسپولیس در تبریز کلا ۱۰ نفر هوادار دارند!\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/108071",
+        "post_id": 108071,
+        "message_id": 7289,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-08T11:49:35.518174+00:00"
+      },
+      {
+        "fingerprint": "09dd6fac7b77e4a58490b6e1b4e6a9ae7eb4249a0d68f9c217c012db6fb8dc42",
+        "media_fingerprint": "",
+        "text": "شکست‌ناپذیری استقلال با یاسر در بازی‌های بزرگ\n✅\nآسانی و رویای گلزنی مقابل سومین مدعی\n🔸\nیاسر آسانی امروز درحالی اولین بازی خود مقابل تراکتور را انجام می‌دهد که در بازی‌های بزرگ آمار خوبی دارد.\n⚽️\nاو به همراه استقلال ۴ بار به مصاف پرسپولیس و سپاهان رفته و…",
+        "original_username": "ft360_ir",
+        "original_text": "شکست‌ناپذیری استقلال با یاسر در بازی‌های بزرگ\n✅\nآسانی و رویای گلزنی مقابل سومین مدعی\n🔸\nیاسر آسانی امروز درحالی اولین بازی خود مقابل تراکتور را انجام می‌دهد که در بازی‌های بزرگ آمار خوبی دارد.\n⚽️\nاو به همراه استقلال ۴ بار به مصاف پرسپولیس و سپاهان رفته و…",
+        "original_link": "https://t.me/ft360_ir/109280",
+        "post_id": 109280,
+        "message_id": 7290,
+        "message_kind": "text",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-08T11:49:38.491442+00:00"
+      },
+      {
+        "fingerprint": "e8747f4c07c15b575f337ffd60a46d4c349117b45ef6577983d9c257add9d1dd",
+        "media_fingerprint": "",
+        "text": "🚨\n🇮🇷\n🇮🇷\n#اختصاصی_فوتبال‌180 #فوری\n❌\nمدیران پرسپولیس صبح امروز با حجت‌ کریمی مدیرعامل تراکتور تماس گرفته و اعلام داشته‌اند که اگر در بازی امروز مقابل استقلال موفق به برتری نشدند، می‌توانند با همکاری و تعامل با استناد به این نامه(صحت یا عدم صحت آن مورد تأیید رسانه‌ما…",
+        "original_username": "futball180tv",
+        "original_text": "🚨\n🇮🇷\n🇮🇷\n#اختصاصی_فوتبال‌180 #فوری\n❌\nمدیران پرسپولیس صبح امروز با حجت‌ کریمی مدیرعامل تراکتور تماس گرفته و اعلام داشته‌اند که اگر در بازی امروز مقابل استقلال موفق به برتری نشدند، می‌توانند با همکاری و تعامل با استناد به این نامه(صحت یا عدم صحت آن مورد تأیید رسانه‌ما…",
+        "original_link": "https://t.me/Futball180TV/108072",
+        "post_id": 108072,
+        "message_id": 7291,
+        "message_kind": "text",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-08T11:49:41.908725+00:00"
+      },
+      {
+        "fingerprint": "b0b189af6a1f335e97c2272e9791bcb9bff895531ee5de5626b94783da2bb2ec",
+        "media_fingerprint": "",
+        "text": "🥇\nمحمد نوری سرمربی صنعت نفت آبادان:\n⏺\nشرایط بدنی و فنی تیم خیلی بهتر شده است/ فردا یک بازی سخت مقابل پرسپولیس داریم\n⏺\nافتخار داشتم 5 سال پیراهن تیم بزرگ پرسپولیس را به تن داشتم\n⏺\nفردا یک بازی هجومی را از صنعت نفت خواهید دید و پابه پای پرسپولیس بازی خواهیم کرد.\n⏺\nاعتصاب بازیکنان؟ هیچ اعتصابی در کار نبود فقط یک مشکل خانوادگی داشتیم\n⏺\nتارتار مربی بزرگی است و در حال حاضر پرسپولیس با اختلاف بهترین تیم ایران است.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_username": "total_fut",
+        "original_text": "🥇\nمحمد نوری سرمربی صنعت نفت آبادان:\n⏺\nشرایط بدنی و فنی تیم خیلی بهتر شده است/ فردا یک بازی سخت مقابل پرسپولیس داریم\n⏺\nافتخار داشتم 5 سال پیراهن تیم بزرگ پرسپولیس را به تن داشتم\n⏺\nفردا یک بازی هجومی را از صنعت نفت خواهید دید و پابه پای پرسپولیس بازی خواهیم کرد.\n⏺\nاعتصاب بازیکنان؟ هیچ اعتصابی در کار نبود فقط یک مشکل خانوادگی داشتیم\n⏺\nتارتار مربی بزرگی است و در حال حاضر پرسپولیس با اختلاف بهترین تیم ایران است.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_link": "https://t.me/total_fut/237420",
+        "post_id": 237420,
+        "message_id": 7292,
+        "message_kind": "text",
+        "sources": [
+          "total_fut"
+        ],
+        "created_at": "2026-10-08T11:49:45.023226+00:00"
+      },
+      {
+        "fingerprint": "484be146441473d3cd9ddad1e6be1afbf9b01e6e29c9da2e5ac873609202def8",
+        "media_fingerprint": "850eae8d1dd239ea7569324aea5961ab4098f059c9bd23faba8a4535600f5c94",
+        "text": "👂\nوزوز گوش همیشه به معنی کاهش شنوایی نیست\n🎚\nصدایی مانند سوت، زنگ یا خش‌خش در گوش که منبع خارجی ندارد، می‌تواند نشانه وزوز گوش باشد. این علامت دلایل مختلفی دارد و اگر ادامه‌دار باشد، بررسی توسط پزشک اهمیت دارد.\n🌐\nwww.nidcd.nih.gov\n#شناخت_بیماری‌ها\n#وزوز_گوش\n🖥\n@Dr_SalamatX",
+        "original_username": "dr_salamatx",
+        "original_text": "👂\nوزوز گوش همیشه به معنی کاهش شنوایی نیست\n🎚\nصدایی مانند سوت، زنگ یا خش‌خش در گوش که منبع خارجی ندارد، می‌تواند نشانه وزوز گوش باشد. این علامت دلایل مختلفی دارد و اگر ادامه‌دار باشد، بررسی توسط پزشک اهمیت دارد.\n🌐\nwww.nidcd.nih.gov\n#شناخت_بیماری‌ها\n#وزوز_گوش\n🖥\n@Dr_SalamatX",
+        "original_link": "https://t.me/Dr_SalamatX/55370",
+        "post_id": 55370,
+        "message_id": 7293,
+        "message_kind": "caption",
+        "sources": [
+          "dr_salamatx"
+        ],
+        "created_at": "2026-10-08T11:49:49.441703+00:00"
+      },
+      {
+        "fingerprint": "4439d3e79f1b86dc0b6c302af5308c4ed2274f2c228e7c544d922d0ea19cb78f",
+        "media_fingerprint": "96e1564d665c2fde8677e42c898e66cfcc69a0329584823b8dfb45e031753888",
+        "text": "🔴\nولی اونایی که دیدن میدونن این کلیپ یکی از عجیب‌ترین و دارک‌ترین پدیده‌های مملکت بود. یارو حین کون دادن داشت نصیحت میکرد درس زندگی میداد و لا‌به‌لاش هم شاخ‌وشونه میکشید‌.\n+ احیانا اگه فیلمشو ندیدید به هیچ‌وجه از دستش ندید پاره میشید از خنده\n😂\n😂\n😂\n📥\nمشاهده کامل فیلم\n@TopTel",
+        "original_username": "peach_tweet",
+        "original_text": "🔴\nولی اونایی که دیدن میدونن این کلیپ یکی از عجیب‌ترین و دارک‌ترین پدیده‌های مملکت بود. یارو حین کون دادن داشت نصیحت میکرد درس زندگی میداد و لا‌به‌لاش هم شاخ‌وشونه میکشید‌.\n+ احیانا اگه فیلمشو ندیدید به هیچ‌وجه از دستش ندید پاره میشید از خنده\n😂\n😂\n😂\n📥\nمشاهده کامل فیلم\n@TopTel",
+        "original_link": "https://t.me/peach_tweet/2949",
+        "post_id": 2949,
+        "message_id": 7294,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-08T11:49:53.286678+00:00"
+      },
+      {
+        "fingerprint": "b8dec665e71a5f11e6be3e8c11b01dc61e5a2936c4d4d0881aba624d7aeddda8",
+        "media_fingerprint": "78ec94cf9669d1e77e238203c5985d22d10700bfbad6ad44ad7279daae430362",
+        "text": "نمایی بی نظیر از شهر نوشهر، ابرهای درحال بارش بر روی دریا از نمای دوردست\n🥲\n🥹\n❤️\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "نمایی بی نظیر از شهر نوشهر، ابرهای درحال بارش بر روی دریا از نمای دوردست\n🥲\n🥹\n❤️\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162959",
+        "post_id": 162959,
+        "message_id": 7295,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-08T11:49:57.494557+00:00"
+      },
+      {
+        "fingerprint": "bc52886ebeb6c84a81ed8a2decb1e296b531ca66ae0b767aa0b595396e0227d0",
+        "media_fingerprint": "5754c963fcbd6a9c42de0711ad38b9b6f480ac20d81461872a24a762fbc56eae",
+        "text": "کوچه پس کوچه های تهران :\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "کوچه پس کوچه های تهران :\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162960",
+        "post_id": 162960,
+        "message_id": 7296,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-08T11:50:04.096777+00:00"
+      },
+      {
+        "fingerprint": "07ff15ce64a1bbe1438178b750f486a1aad41a124f8a06a7f4b3a02d7bcd494c",
+        "media_fingerprint": "485064522626ee505ecd00d8ef12a668caabde3f7a4818b0bd495c4019c5910d",
+        "text": "دیدین باز زود قضاوت کردین ؟\nاین مرد برق صندلی تیمش قطع شده بود که باخت\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "دیدین باز زود قضاوت کردین ؟\nاین مرد برق صندلی تیمش قطع شده بود که باخت\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162962",
+        "post_id": 162962,
+        "message_id": 7297,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-08T11:50:17.142608+00:00"
+      },
+      {
+        "fingerprint": "5d858e2a66b3b27b98665c802552665e6c6495e919eebb94a9d371432e88249c",
+        "media_fingerprint": "f8d97662364e0f70988ddf29359aa49d51e3f167a90527ae202d357582821f13",
+        "text": "قبول نیس ما منتظر زامبی بودیم قرار بود اون مرحله آخر باشه\n🤨\n🫤\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "قبول نیس ما منتظر زامبی بودیم قرار بود اون مرحله آخر باشه\n🤨\n🫤\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162963",
+        "post_id": 162963,
+        "message_id": 7298,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-08T11:50:22.177705+00:00"
+      },
+      {
+        "fingerprint": "e2e6e7ea3a305083e6770d6595d4903b3221fb0035533880377123bbc36a42ae",
+        "media_fingerprint": "e8a8dac1c1ed06971d9097c51af17f8e22c9ca5273bdcbad0b2fc32388d7e087",
+        "text": "رضا گلزار هم به جمع سی‌سی‌ها پیوست\nمنم مثل تو زن ذلیلم امیرحسین\n😂\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "رضا گلزار هم به جمع سی‌سی‌ها پیوست\nمنم مثل تو زن ذلیلم امیرحسین\n😂\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/2950",
+        "post_id": 2950,
+        "message_id": 7299,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-08T11:50:28.513559+00:00"
+      },
+      {
+        "fingerprint": "aebb3446f8803ec85d0c007c0f38c33a54782b879d4e21a21f604fc61169a382",
+        "media_fingerprint": "18adbf4bb6349dc93e91a503c6ce42388e6e0e90af01b9006cc8ffa32f87a91e",
+        "text": "عقل کی میرسید خدایی\n😄\nاین واسه کنکورشم یه برنامه همینطوری اجرا میکنه\n😁\nشغل آینده‌شو از الان میشه حدس زد\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "عقل کی میرسید خدایی\n😄\nاین واسه کنکورشم یه برنامه همینطوری اجرا میکنه\n😁\nشغل آینده‌شو از الان میشه حدس زد\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/162964",
+        "post_id": 162964,
+        "message_id": 7300,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-08T11:50:34.534427+00:00"
+      },
+      {
+        "fingerprint": "7456e397055c3ea9927d878807fc3472eae4d1ed7991ddada93648ae6cf498f4",
+        "media_fingerprint": "f2d586dd825eee903a7ff3e13c2d5e60a7f79c63af2bcb42515286e40c6b6525",
+        "text": "🏅\nمهدی تارتار، سرمربی پرسپولیس: فردا بازی داریم که دوست نداشتیم با این شرایط روبروی هم قرار بگیریم. اعضای کادرفنی نفت آبادان سالیان سال بازیکنان من بوده اند و از همکاران و شاگردان خوب من بوده اند. الان هم که مربی شده اند می توانند کار من را سخت کنند\n⏺\nما محکوم به بردن هستیم و آنها برای فرار از منطقه پایین جدول می خواهند ما را متوقف کنند\n⏺\nبه محمد نوری اطمینان شود می توانند نفت را از این وضعیت نجات دهند\n⏺\nنفت آبادان بازیکنان خوبی دارد و این تیم دیر شکل گرفته است. این تعطیلات به تیمی مثل نفت کمک کرد تا انسجام بهتری پیدا کنند. آنها قطعا انگیزه بالایی مقابل پرسپولیس دارند و قطعا ما بازی آسانی نداریم\n⏺\nخیلی تیم خود را در اختیار نداشتیم و بازیکنان خارجی هم نداشتیم. در یک هفته اخیر کامل شدیم و یک بازی دوستانه خوب هم انجام دادیم. فردا هر طور شده باید برنده باشیم.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_username": "total_fut",
+        "original_text": "🏅\nمهدی تارتار، سرمربی پرسپولیس: فردا بازی داریم که دوست نداشتیم با این شرایط روبروی هم قرار بگیریم. اعضای کادرفنی نفت آبادان سالیان سال بازیکنان من بوده اند و از همکاران و شاگردان خوب من بوده اند. الان هم که مربی شده اند می توانند کار من را سخت کنند\n⏺\nما محکوم به بردن هستیم و آنها برای فرار از منطقه پایین جدول می خواهند ما را متوقف کنند\n⏺\nبه محمد نوری اطمینان شود می توانند نفت را از این وضعیت نجات دهند\n⏺\nنفت آبادان بازیکنان خوبی دارد و این تیم دیر شکل گرفته است. این تعطیلات به تیمی مثل نفت کمک کرد تا انسجام بهتری پیدا کنند. آنها قطعا انگیزه بالایی مقابل پرسپولیس دارند و قطعا ما بازی آسانی نداریم\n⏺\nخیلی تیم خود را در اختیار نداشتیم و بازیکنان خارجی هم نداشتیم. در یک هفته اخیر کامل شدیم و یک بازی دوستانه خوب هم انجام دادیم. فردا هر طور شده باید برنده باشیم.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_link": "https://t.me/total_fut/237421",
+        "post_id": 237421,
+        "message_id": 7301,
+        "message_kind": "caption",
+        "sources": [
+          "total_fut"
+        ],
+        "created_at": "2026-10-08T11:50:41.967391+00:00"
+      },
+      {
+        "fingerprint": "0afad093f6baed1e48bc1808da4301d8e20a4284d2749529d024fdd015c05c0d",
+        "media_fingerprint": "fb4ce38d670ab70f00aefd517dc39fad9455fdaee4b3828f95156aa694f19fd5",
+        "text": "♦️\nهمایون شجریان پس از نزدیک به چهار سال دوری از صحنه کنسرت‌ها در کشور، در شیراز به روي صحنه رفت\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nهمایون شجریان پس از نزدیک به چهار سال دوری از صحنه کنسرت‌ها در کشور، در شیراز به روي صحنه رفت\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143289",
+        "post_id": 143289,
+        "message_id": 7302,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-08T11:50:47.822103+00:00"
+      },
+      {
+        "fingerprint": "95de4465cf2a2ca95933c9312826f4296fa9894210bdcdd55e3af965c10ee5bb",
+        "media_fingerprint": "",
+        "text": "🚘\nاعلام شرایط فروش فوری  نقدی وانت آریسان ۲ گانه سوز/ نمایندگی\n⌛️\nموعد تحویل: ٣٠ روز\n🗓\nتاریخ: یکشنبه ١٩ مهرماه ساعت ٩\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🚘\nاعلام شرایط فروش فوری  نقدی وانت آریسان ۲ گانه سوز/ نمایندگی\n⌛️\nموعد تحویل: ٣٠ روز\n🗓\nتاریخ: یکشنبه ١٩ مهرماه ساعت ٩\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23107",
+        "post_id": 23107,
+        "message_id": 7303,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-08T11:50:50.696037+00:00"
+      },
+      {
+        "fingerprint": "58d50e719745bbfb1e1f948133062592dfef979f19d43195f4a73d6b0a5cdcec",
+        "media_fingerprint": "399c30f3c7e34433186a1bbecf7051294c2bf92f8e80fb2bd69916ed9f3b9d5f",
+        "text": "عجیب ترین وسیله هایی که از گذشته پیدا شده\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "عجیب ترین وسیله هایی که از گذشته پیدا شده\n@irWonders",
+        "original_link": "https://t.me/irwonders/58461",
+        "post_id": 58461,
+        "message_id": 7304,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-08T11:50:57.423522+00:00"
+      },
+      {
+        "fingerprint": "f3ae5b612a1d13ec21f60a24cea73ff0d4a78edf82b9ba46c3928f276347636c",
+        "media_fingerprint": "5782ea655afc5559f870ea5e110c54c119dd1b3d9a28857888ba72ec0c523676",
+        "text": "🚨\n‼️\n🔴\nمهدی تارتار، سرمربی پرسپولیس:\nجام حذفی را می توانیم بدون ملی پوشان برگزار کنیم به جایش از جوان ها استفاده کنیم. مگر یک بار قشقایی پرسپولیس را حذف نکرد؟ چه اشکالی دارد که جام‌حذفی برگزار شود؟\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "🚨\n‼️\n🔴\nمهدی تارتار، سرمربی پرسپولیس:\nجام حذفی را می توانیم بدون ملی پوشان برگزار کنیم به جایش از جوان ها استفاده کنیم. مگر یک بار قشقایی پرسپولیس را حذف نکرد؟ چه اشکالی دارد که جام‌حذفی برگزار شود؟\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/108073",
+        "post_id": 108073,
+        "message_id": 7305,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-08T11:51:04.580186+00:00"
+      },
+      {
+        "fingerprint": "2d50b2b48fd498e1443057a23999d4ee9fa8e9593582439c2b1607e572ed8f30",
+        "media_fingerprint": "3bb5502ad5bed833f5c81f892f62bd26df481eab682a26b91876029500d8cc95",
+        "text": "🏅\nمهدی تارتار: جام حذفی را می توانیم بدون ملی پوشان برگزار کنیم به جایش از جوان ها استفاده کنیم.\n⏺\nجام حذفی به کادرفنی تیم ملی ارتباطی ندارد و به فدراسیون ارتباط دارد. ما به فدراسیون نامه زدیم حاضریم بدون ملی پوشان بازی کنیم.\n⏺\nمگر در جام حذفی تیمی سقوط می کند که نگران باشیم؟ مگر قشقایی یک بار پرسپولیس را حذف نکرده است؟ چرا باید 50 روز بازی ها تعطیل باشد؟باید پای کار باشیم اگر می خواهیم به فوتبال کمک کنیم.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_username": "total_fut",
+        "original_text": "🏅\nمهدی تارتار: جام حذفی را می توانیم بدون ملی پوشان برگزار کنیم به جایش از جوان ها استفاده کنیم.\n⏺\nجام حذفی به کادرفنی تیم ملی ارتباطی ندارد و به فدراسیون ارتباط دارد. ما به فدراسیون نامه زدیم حاضریم بدون ملی پوشان بازی کنیم.\n⏺\nمگر در جام حذفی تیمی سقوط می کند که نگران باشیم؟ مگر قشقایی یک بار پرسپولیس را حذف نکرده است؟ چرا باید 50 روز بازی ها تعطیل باشد؟باید پای کار باشیم اگر می خواهیم به فوتبال کمک کنیم.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_link": "https://t.me/total_fut/237423",
+        "post_id": 237423,
+        "message_id": 7306,
+        "message_kind": "text",
+        "sources": [
+          "total_fut"
+        ],
+        "created_at": "2026-10-08T11:51:08.590947+00:00"
       }
     ]
   }
