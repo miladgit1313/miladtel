@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143293,
+      "last_id": 143295,
       "processed_ids": [
-        142191,
-        142192,
         142193,
         142194,
         142195,
@@ -1002,12 +1000,14 @@
         143289,
         143291,
         143292,
-        143293
+        143293,
+        143294,
+        143295
       ],
-      "sent_count": 759
+      "sent_count": 760
     },
     "total_fut": {
-      "last_id": 237431,
+      "last_id": 237437,
       "processed_ids": [
         236405,
         236407,
@@ -1986,15 +1986,18 @@
         237428,
         237429,
         237430,
-        237431
+        237431,
+        237432,
+        237433,
+        237435,
+        237436,
+        237437
       ],
       "sent_count": 86
     },
     "footballvision2": {
-      "last_id": 170620,
+      "last_id": 170622,
       "processed_ids": [
-        169540,
-        169541,
         169542,
         169543,
         169544,
@@ -2992,7 +2995,9 @@
         170617,
         170618,
         170619,
-        170620
+        170620,
+        170621,
+        170622
       ],
       "sent_count": 77
     },
@@ -4879,7 +4884,7 @@
       "sent_count": 116
     },
     "akhbar_cafenet": {
-      "last_id": 23110,
+      "last_id": 23112,
       "processed_ids": [
         22432,
         22433,
@@ -5523,12 +5528,14 @@
         23106,
         23107,
         23108,
-        23110
+        23110,
+        23111,
+        23112
       ],
-      "sent_count": 355
+      "sent_count": 356
     },
     "comentiat": {
-      "last_id": 26379,
+      "last_id": 26380,
       "processed_ids": [
         25844,
         25845,
@@ -5965,9 +5972,10 @@
         26376,
         26377,
         26378,
-        26379
+        26379,
+        26380
       ],
-      "sent_count": 316
+      "sent_count": 317
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -5977,7 +5985,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38663,
+      "last_id": 38664,
       "processed_ids": [
         38432,
         38433,
@@ -6207,7 +6215,8 @@
         38660,
         38661,
         38662,
-        38663
+        38663,
+        38664
       ],
       "sent_count": 140
     },
@@ -7314,7 +7323,7 @@
       "sent_count": 62
     },
     "jaleb": {
-      "last_id": 52764,
+      "last_id": 52765,
       "processed_ids": [
         52261,
         52262,
@@ -7762,7 +7771,8 @@
         52761,
         52762,
         52763,
-        52764
+        52764,
+        52765
       ],
       "sent_count": 235
     },
@@ -8627,19 +8637,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109286,
+      "last_id": 109298,
       "processed_ids": [
-        108206,
-        108207,
-        108208,
-        108209,
-        108210,
-        108211,
-        108212,
-        108213,
-        108214,
-        108216,
-        108217,
         108218,
         108219,
         108220,
@@ -9628,18 +9627,24 @@
         109283,
         109284,
         109285,
-        109286
+        109286,
+        109287,
+        109288,
+        109289,
+        109290,
+        109291,
+        109292,
+        109293,
+        109294,
+        109295,
+        109297,
+        109298
       ],
-      "sent_count": 77
+      "sent_count": 79
     },
     "varzesh3": {
-      "last_id": 303567,
+      "last_id": 303572,
       "processed_ids": [
-        302467,
-        302468,
-        302469,
-        302470,
-        302472,
         302473,
         302474,
         302475,
@@ -10634,12 +10639,17 @@
         303564,
         303565,
         303566,
-        303567
+        303567,
+        303568,
+        303569,
+        303570,
+        303571,
+        303572
       ],
       "sent_count": 54
     },
     "totalfut_plus": {
-      "last_id": 26557,
+      "last_id": 26558,
       "processed_ids": [
         25870,
         25871,
@@ -11307,14 +11317,14 @@
         26554,
         26555,
         26556,
-        26557
+        26557,
+        26558
       ],
       "sent_count": 39
     },
     "adak_ir_official": {
-      "last_id": 234920,
+      "last_id": 234921,
       "processed_ids": [
-        233897,
         233898,
         233899,
         233900,
@@ -12313,18 +12323,14 @@
         234917,
         234918,
         234919,
-        234920
+        234920,
+        234921
       ],
       "sent_count": 140
     },
     "futball180tv": {
-      "last_id": 108076,
+      "last_id": 108081,
       "processed_ids": [
-        107056,
-        107057,
-        107058,
-        107059,
-        107060,
         107061,
         107062,
         107063,
@@ -13319,12 +13325,17 @@
         108073,
         108074,
         108075,
-        108076
+        108076,
+        108077,
+        108078,
+        108079,
+        108080,
+        108081
       ],
       "sent_count": 52
     },
     "hattric_official": {
-      "last_id": 84432,
+      "last_id": 84434,
       "processed_ids": [
         83433,
         83434,
@@ -14268,12 +14279,14 @@
         84428,
         84430,
         84431,
-        84432
+        84432,
+        84433,
+        84434
       ],
       "sent_count": 68
     },
     "mazdak_hattrick": {
-      "last_id": 182429,
+      "last_id": 182432,
       "processed_ids": [
         181991,
         181992,
@@ -14704,9 +14717,12 @@
         182426,
         182427,
         182428,
-        182429
+        182429,
+        182430,
+        182431,
+        182432
       ],
-      "sent_count": 34
+      "sent_count": 36
     },
     "djharmony": {
       "last_id": 0,
@@ -14833,7 +14849,7 @@
       "sent_count": 9
     },
     "irwonders": {
-      "last_id": 58462,
+      "last_id": 58464,
       "processed_ids": [
         58030,
         58031,
@@ -15221,9 +15237,11 @@
         58459,
         58460,
         58461,
-        58462
+        58462,
+        58463,
+        58464
       ],
-      "sent_count": 246
+      "sent_count": 247
     },
     "razcom": {
       "last_id": 70485,
@@ -17514,7 +17532,7 @@
       "sent_count": 43
     },
     "peach_tweet": {
-      "last_id": 2950,
+      "last_id": 2951,
       "processed_ids": [
         2745,
         2749,
@@ -17644,148 +17662,14 @@
         2945,
         2947,
         2949,
-        2950
+        2950,
+        2951
       ],
-      "sent_count": 85
+      "sent_count": 86
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "094ad22e180314602734b4dd8bb99cd53f1d6c9a79edc337314bcb3f64c3e742",
-        "media_fingerprint": "0d9f77dbdc12dd83d801559e078f2d6cd5430f304ed14d8bc8a6d30fa6f3174c",
-        "text": "♦️\nاوقات شرعی فردا به افق مرکز استان (احتیاط یک تا دو دقیقه‌ای لحاظ شود)\n🌱\nوقت دعا ما رو هم به خاطر داشته باشید\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nاوقات شرعی فردا به افق مرکز استان (احتیاط یک تا دو دقیقه‌ای لحاظ شود)\n🌱\nوقت دعا ما رو هم به خاطر داشته باشید\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143059",
-        "post_id": 143059,
-        "message_id": 6260,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-04T21:06:40.642857+00:00"
-      },
-      {
-        "fingerprint": "a56316599aa7551d4bdb19a5c6728284399f1faae5f9ed1edbb318afaa0426a7",
-        "media_fingerprint": "123ca0cab824571c307f43d3b99daee2985a26f31911126d8f33672bfed7ca1d",
-        "text": "ترتیب تولد و تاثیر آن بر شخصیت(\n☝️🏻\n)\nروانشناسان معتقدند کوچکتر و بزرگتر بودن و نگرش متفاوت والدین، شرایط کودکی متفاوتی به وجود می آورد که براساس آن شخصیت شکل میگیرد\nشما فرزند چندم هستید\n🤔\n⁉️\n@Midanesti",
-        "original_username": "midanesti",
-        "original_text": "ترتیب تولد و تاثیر آن بر شخصیت(\n☝️🏻\n)\nروانشناسان معتقدند کوچکتر و بزرگتر بودن و نگرش متفاوت والدین، شرایط کودکی متفاوتی به وجود می آورد که براساس آن شخصیت شکل میگیرد\nشما فرزند چندم هستید\n🤔\n⁉️\n@Midanesti",
-        "original_link": "https://t.me/midanesti/73250",
-        "post_id": 73250,
-        "message_id": 6261,
-        "message_kind": "caption",
-        "sources": [
-          "midanesti"
-        ],
-        "created_at": "2026-10-04T21:06:44.913780+00:00"
-      },
-      {
-        "fingerprint": "16ceb51def6467b0f40c0eb1b18f881d500c8bcc464d72edbd5baaee961f4f30",
-        "media_fingerprint": "457ca4c45dce4f919201d42275146096ebd1cc438792650dcdc6ebf71c3a44e8",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26305",
-        "post_id": 26305,
-        "message_id": 6262,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-04T21:07:02.530340+00:00"
-      },
-      {
-        "fingerprint": "76ae20675b41765889c0e869d798e91581d573e7fba69c3be7bbd18141055fe1",
-        "media_fingerprint": "0ef90d11fc6476688323a4ef985a9d56a8a36bbc5975f07ea372ef7faf841e71",
-        "text": "🔺\nدر جریان دیدار امشب پرتغال؛\nکریستیانو رونالدو همراه با فرزندانش در مسیر بازگشت به عربستان با جت شخصی\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "🔺\nدر جریان دیدار امشب پرتغال؛\nکریستیانو رونالدو همراه با فرزندانش در مسیر بازگشت به عربستان با جت شخصی\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52675",
-        "post_id": 52675,
-        "message_id": 6263,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-04T21:07:06.383985+00:00"
-      },
-      {
-        "fingerprint": "fc9cb1210e096731d4a46dee2e290926081104860704d249063f46f2a714c395",
-        "media_fingerprint": "8ccbce7677d131ed3dc68b1418b5bb372ca773a5c522280c7733f67001f03cae",
-        "text": "🔺\nهزینه ریجستر گوشی ورتو آلفا فولد فقط ۷۳۵میلیون تومان\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "🔺\nهزینه ریجستر گوشی ورتو آلفا فولد فقط ۷۳۵میلیون تومان\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52676",
-        "post_id": 52676,
-        "message_id": 6264,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-04T21:07:11.488941+00:00"
-      },
-      {
-        "fingerprint": "ccca022f0dbdb065f1489b7b8c572cfad6abe4448ef78070c229d1e8a4fcefcf",
-        "media_fingerprint": "",
-        "text": "🚨\n🟠\nباشگاه فولاد: رامین رضاییان در سه دیدار برابر مس، ملوان و نساجی غایب خواهد بود و به دیدار سوم آبان برابر پرسپولیس خواهد رسید.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n🟠\nباشگاه فولاد: رامین رضاییان در سه دیدار برابر مس، ملوان و نساجی غایب خواهد بود و به دیدار سوم آبان برابر پرسپولیس خواهد رسید.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/234719",
-        "post_id": 234719,
-        "message_id": 6265,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-04T21:07:14.594424+00:00"
-      },
-      {
-        "fingerprint": "1ab3612ea61ef7aa76a6a95e02c91cdd55e8a5e4ad5459f0fa480a9f2d299f6c",
-        "media_fingerprint": "e7bed38c458a0eaacc41c339bc98d62b44fef32064273cd806d26f4c4f2dbfc8",
-        "text": "صدا و سیما وقتی میبینه نمیتونه پوشش بده\n😂",
-        "original_username": "drtel",
-        "original_text": "صدا و سیما وقتی میبینه نمیتونه پوشش بده\n😂",
-        "original_link": "https://t.me/drtel/67350",
-        "post_id": 67350,
-        "message_id": 6266,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-04T21:07:18.115579+00:00"
-      },
-      {
-        "fingerprint": "e6e48f84fb1150d8ef5b328ddaa9bad6dd9206430dd2feb51cd75940c68eb83d",
-        "media_fingerprint": "d482089ce85df68fda88df98406e995247c172aaeef2032388adcfae02cc46ca",
-        "text": "⁨ بنام خداااا\nمیخوام سوره کوثر بخونم\n🥴\n😂\nریمیکس کوثر و ناس\n🥴\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "⁨ بنام خداااا\nمیخوام سوره کوثر بخونم\n🥴\n😂\nریمیکس کوثر و ناس\n🥴\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/306760",
-        "post_id": 306760,
-        "message_id": 6267,
-        "message_kind": "caption",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-04T21:07:24.712926+00:00"
-      },
-      {
-        "fingerprint": "5f38a05dc6b0fd64fc67bdd06165f12796194fefb51e529e542e1ca1c3680506",
-        "media_fingerprint": "ff5567884fb92722b245a3e2b7c02e44754ada991059339dfd8fdb14e57e63de",
-        "text": "پارتی جهنمه؟\n😄\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "پارتی جهنمه؟\n😄\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162767",
-        "post_id": 162767,
-        "message_id": 6268,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-04T21:07:30.790839+00:00"
-      },
       {
         "fingerprint": "c2469f1c44f84cbdd01bed8f9c70436f49212f0955c59bab1b963143d469d054",
         "media_fingerprint": "92b07b30a8bf00b055a93f8358064d358aaa1d9bedea61140c5512aeb98e873c",
@@ -29449,7 +29333,8 @@
         "message_id": 7092,
         "message_kind": "caption",
         "sources": [
-          "ajayebe_jahann"
+          "ajayebe_jahann",
+          "irwonders"
         ],
         "created_at": "2026-10-07T18:24:07.325322+00:00"
       },
@@ -32748,6 +32633,141 @@
           "gizmiztel"
         ],
         "created_at": "2026-10-08T12:27:59.510050+00:00"
+      },
+      {
+        "fingerprint": "36aa0cdfd7c9be4061d0b6e58f71ecce27b8136b97214d3cf51f304e4c4fd44c",
+        "media_fingerprint": "9ad5329f104c58d2506fa629ba22ac4632b7714bfb0e4609646a34bb0049ab79",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26380",
+        "post_id": 26380,
+        "message_id": 7324,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-08T12:56:27.494877+00:00"
+      },
+      {
+        "fingerprint": "997b311bc0ab9af354762be68c990c9b4c4fb6b2eb9c906a20be49918e85ec21",
+        "media_fingerprint": "559b17feff412c98383bfa633042c73a58d68d59ef67dccc005547bf7543b6f3",
+        "text": "بازی سختی در پیش داریم\n🎙\nنوری، در نشست خبری پیش از دیدار با پرسپولیس\n💬\nتنها قولی که به باشگاه دادم، حفظ تیم در لیگ برتر بود.\n💬\nباشگاهی که می‌خواهد در لیگ برتر موفق باشد، باید از زیرساخت‌های بسیار قوی برخوردار باشد.\n💬\n۶ هفته‌ای که در خدمت باشگاه صنعت‌نفت…",
+        "original_username": "ft360_ir",
+        "original_text": "بازی سختی در پیش داریم\n🎙\nنوری، در نشست خبری پیش از دیدار با پرسپولیس\n💬\nتنها قولی که به باشگاه دادم، حفظ تیم در لیگ برتر بود.\n💬\nباشگاهی که می‌خواهد در لیگ برتر موفق باشد، باید از زیرساخت‌های بسیار قوی برخوردار باشد.\n💬\n۶ هفته‌ای که در خدمت باشگاه صنعت‌نفت…",
+        "original_link": "https://t.me/ft360_ir/109290",
+        "post_id": 109290,
+        "message_id": 7325,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-08T12:56:35.976123+00:00"
+      },
+      {
+        "fingerprint": "b55884d0c753abc082eb0c375c4fa373a8e49b579a8fbfc5d73b291cb0f7af5f",
+        "media_fingerprint": "",
+        "text": "🌐\n‌\nوزیر اقتصاد: مردم فعلا برای افزایش رقم کالابرگ صبر کنند\n🔵\nوزیر امور اقتصادی و دارایی با اشاره به اینکه تصمیم نهایی درباره افزایش رقم کالابرگ هنوز اتخاذ نشده است، از مردم خواست فعلا در این زمینه صبر کنند گفت: اقداماتی از سوی دولت در حال انجام است که در صورت تصویب، می‌تواند اخبار خوبی برای مردم به همراه داشته باشد.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🌐\n‌\nوزیر اقتصاد: مردم فعلا برای افزایش رقم کالابرگ صبر کنند\n🔵\nوزیر امور اقتصادی و دارایی با اشاره به اینکه تصمیم نهایی درباره افزایش رقم کالابرگ هنوز اتخاذ نشده است، از مردم خواست فعلا در این زمینه صبر کنند گفت: اقداماتی از سوی دولت در حال انجام است که در صورت تصویب، می‌تواند اخبار خوبی برای مردم به همراه داشته باشد.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23112",
+        "post_id": 23112,
+        "message_id": 7326,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-08T12:56:39.115444+00:00"
+      },
+      {
+        "fingerprint": "ba457b8ea8835c298311a6e43a8846f7a98d18e66e7414f980ed34edf8a928ad",
+        "media_fingerprint": "",
+        "text": "🏅\nلیگ برتر | هفته هشتم\n🥇\nترکیب نساجی برابر ذوب‌آهن\n⏺\nعلیرضا جعفرپور، ابوالفضل کوهی، هومن ربیع‌زاده، بهروز نوروزی‌فرد، علیرضا آراسته، علی نصیری، پوریا رضازاده، امیرمسعود سرآبادانی، علی‌اصغر اعرابی، جواد آقایی‌پور و افشین صادقی\n🏅\nترکیب ذوب‌آهن برابر نساجی\n⏺\nداوود نوشی‌صوفیانی، آرش قادری، سیدمحمدحسینی، علی شجاعی، ابوالفضل حسینی‌فر، امیرحسین جدی، محمود قائدرحمتی، پویا مختاری، امین جهان‌کهن، رحمان جعفری و امید لطیفی\n⏰\n16:00\n🆔\n@mazdak_hattrick",
+        "original_username": "mazdak_hattrick",
+        "original_text": "🏅\nلیگ برتر | هفته هشتم\n🥇\nترکیب نساجی برابر ذوب‌آهن\n⏺\nعلیرضا جعفرپور، ابوالفضل کوهی، هومن ربیع‌زاده، بهروز نوروزی‌فرد، علیرضا آراسته، علی نصیری، پوریا رضازاده، امیرمسعود سرآبادانی، علی‌اصغر اعرابی، جواد آقایی‌پور و افشین صادقی\n🏅\nترکیب ذوب‌آهن برابر نساجی\n⏺\nداوود نوشی‌صوفیانی، آرش قادری، سیدمحمدحسینی، علی شجاعی، ابوالفضل حسینی‌فر، امیرحسین جدی، محمود قائدرحمتی، پویا مختاری، امین جهان‌کهن، رحمان جعفری و امید لطیفی\n⏰\n16:00\n🆔\n@mazdak_hattrick",
+        "original_link": "https://t.me/mazdak_hattrick/182431",
+        "post_id": 182431,
+        "message_id": 7327,
+        "message_kind": "text",
+        "sources": [
+          "mazdak_hattrick"
+        ],
+        "created_at": "2026-10-08T12:56:42.165595+00:00"
+      },
+      {
+        "fingerprint": "8985e005c812932759489aec38ef363e66cd7b65a5cf99cb5ed11550c2caa748",
+        "media_fingerprint": "",
+        "text": "🏅\nلیگ برتر | هفته هشتم\n🏅\nترکیب آلومینیوم برابر ملوان\n⏺\nمحمد خلیفه، امیرمحمد هوشمند، امیر نوری، ابوالفضل قنبری، رضا جبیره، علی وطن‌دوست، سیدمهدی مهدوی، سیدمهران موسوی، ساسان جعفری‌کیا، سعید صادقی و حامد بحیرایی\n🏅\nترکیب ملوان برابر آلومینیوم\n⏺\nافشار صداقت، ضرغام سعداوی، امیررضا افسرده، سعید کریمی، جعفر حسین‌پور، قائم اسلامی‌خواه، افشین صادقی، امیرمحمد نسایی، عرفان شهریاری، ماهان بهشتی و علیرضا رمضانی\n⏰\n16:00\n🆔\n@mazdak_hattrick",
+        "original_username": "mazdak_hattrick",
+        "original_text": "🏅\nلیگ برتر | هفته هشتم\n🏅\nترکیب آلومینیوم برابر ملوان\n⏺\nمحمد خلیفه، امیرمحمد هوشمند، امیر نوری، ابوالفضل قنبری، رضا جبیره، علی وطن‌دوست، سیدمهدی مهدوی، سیدمهران موسوی، ساسان جعفری‌کیا، سعید صادقی و حامد بحیرایی\n🏅\nترکیب ملوان برابر آلومینیوم\n⏺\nافشار صداقت، ضرغام سعداوی، امیررضا افسرده، سعید کریمی، جعفر حسین‌پور، قائم اسلامی‌خواه، افشین صادقی، امیرمحمد نسایی، عرفان شهریاری، ماهان بهشتی و علیرضا رمضانی\n⏰\n16:00\n🆔\n@mazdak_hattrick",
+        "original_link": "https://t.me/mazdak_hattrick/182432",
+        "post_id": 182432,
+        "message_id": 7328,
+        "message_kind": "text",
+        "sources": [
+          "mazdak_hattrick"
+        ],
+        "created_at": "2026-10-08T12:56:45.458483+00:00"
+      },
+      {
+        "fingerprint": "a8414ef0d104bd757ea7533e509dc92b72ad59ff448f436133150913fbceced6",
+        "media_fingerprint": "b1586dd85aec030dba4530f70798961b64d522b866922f8eae0151239adc2416",
+        "text": "♦️\nشانزدهم مهرماه روز بزرگداشت داریوش بزرگ است\n🔹\nروایت است داریوش هخامنشی در سال ۵۲۲ پیش از میلاد در چنین روزی تاج‌گذاری کرد و به صورت رسمی شاه ایران شد.\n🔹\nکتیبه بیستون مهم‌ترین متن تاریخی در زمان هخامنشیان است که شرح پیروزی داریوش بزرگ را بر گئومات و به بند کشیدن یاغیان را نشان می‌دهد.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nشانزدهم مهرماه روز بزرگداشت داریوش بزرگ است\n🔹\nروایت است داریوش هخامنشی در سال ۵۲۲ پیش از میلاد در چنین روزی تاج‌گذاری کرد و به صورت رسمی شاه ایران شد.\n🔹\nکتیبه بیستون مهم‌ترین متن تاریخی در زمان هخامنشیان است که شرح پیروزی داریوش بزرگ را بر گئومات و به بند کشیدن یاغیان را نشان می‌دهد.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143295",
+        "post_id": 143295,
+        "message_id": 7329,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-08T12:56:51.967386+00:00"
+      },
+      {
+        "fingerprint": "6a1b590e7bcca5737054cd96a6eb861e52803c3e5fa9a2686164185e39cf4a05",
+        "media_fingerprint": "3e38e755f9f6e84c34011166dcce8ccceaaac7e23469f9d8492042e150094b65",
+        "text": "عزیزم پاتو از زندگی شوهرت و دختر خالت بکش بیرون:))))\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "عزیزم پاتو از زندگی شوهرت و دختر خالت بکش بیرون:))))\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/2951",
+        "post_id": 2951,
+        "message_id": 7330,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-08T12:56:59.117243+00:00"
+      },
+      {
+        "fingerprint": "8c02f4ac68cffdbe596f3b25de34eec76699a7aa1cb314ffc006c010822fdd5d",
+        "media_fingerprint": "",
+        "text": "عجیب ترین چیزهایی که از داخل بدن انسان پیدا کرده اند\n.\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "عجیب ترین چیزهایی که از داخل بدن انسان پیدا کرده اند\n.\n@irWonders",
+        "original_link": "https://t.me/irwonders/58464",
+        "post_id": 58464,
+        "message_id": 7331,
+        "message_kind": "text",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-08T12:57:01.935563+00:00"
+      },
+      {
+        "fingerprint": "bdbd8dfa9de768cbbdae8a7dd96334580a723dc84d5f67cc68bad99257c6208f",
+        "media_fingerprint": "2d409ad81abe18217e7d317fe99724cc74f0b8cd587787725100b33fd7aefcc2",
+        "text": "🔸\nترکیب استقلال مقابل تراکتور\n🔸\nهفته ۸ لیگ برتر\n🕔\nساعت ۱۷:۰۰  @Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "🔸\nترکیب استقلال مقابل تراکتور\n🔸\nهفته ۸ لیگ برتر\n🕔\nساعت ۱۷:۰۰  @Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/109297",
+        "post_id": 109297,
+        "message_id": 7332,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-08T12:57:06.285345+00:00"
       }
     ]
   }
