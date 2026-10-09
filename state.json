@@ -1,11 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143385,
+      "last_id": 143390,
       "processed_ids": [
-        142284,
-        142285,
-        142286,
         142287,
         142288,
         142289,
@@ -1002,14 +999,16 @@
         143382,
         143383,
         143384,
-        143385
+        143385,
+        143388,
+        143389,
+        143390
       ],
-      "sent_count": 812
+      "sent_count": 814
     },
     "total_fut": {
-      "last_id": 237600,
+      "last_id": 237601,
       "processed_ids": [
-        236548,
         236549,
         236550,
         236551,
@@ -2008,15 +2007,14 @@
         237597,
         237598,
         237599,
-        237600
+        237600,
+        237601
       ],
       "sent_count": 109
     },
     "footballvision2": {
-      "last_id": 170889,
+      "last_id": 170891,
       "processed_ids": [
-        169792,
-        169793,
         169794,
         169796,
         169797,
@@ -3014,7 +3012,9 @@
         170886,
         170887,
         170888,
-        170889
+        170889,
+        170890,
+        170891
       ],
       "sent_count": 115
     },
@@ -4979,7 +4979,7 @@
       "sent_count": 125
     },
     "akhbar_cafenet": {
-      "last_id": 23141,
+      "last_id": 23142,
       "processed_ids": [
         22432,
         22433,
@@ -5649,12 +5649,13 @@
         23138,
         23139,
         23140,
-        23141
+        23141,
+        23142
       ],
-      "sent_count": 369
+      "sent_count": 370
     },
     "comentiat": {
-      "last_id": 26397,
+      "last_id": 26400,
       "processed_ids": [
         25844,
         25845,
@@ -6108,9 +6109,11 @@
         26394,
         26395,
         26396,
-        26397
+        26397,
+        26399,
+        26400
       ],
-      "sent_count": 329
+      "sent_count": 330
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -6120,7 +6123,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38681,
+      "last_id": 38682,
       "processed_ids": [
         38432,
         38433,
@@ -6368,21 +6371,14 @@
         38678,
         38679,
         38680,
-        38681
+        38681,
+        38682
       ],
-      "sent_count": 148
+      "sent_count": 149
     },
     "gizmiztel": {
-      "last_id": 163025,
+      "last_id": 163033,
       "processed_ids": [
-        161918,
-        161919,
-        161920,
-        161921,
-        161923,
-        161924,
-        161925,
-        161926,
         161927,
         161928,
         161929,
@@ -7374,9 +7370,17 @@
         163022,
         163023,
         163024,
-        163025
+        163025,
+        163026,
+        163027,
+        163028,
+        163029,
+        163030,
+        163031,
+        163032,
+        163033
       ],
-      "sent_count": 698
+      "sent_count": 704
     },
     "dr_salamatx": {
       "last_id": 55374,
@@ -7490,7 +7494,7 @@
       "sent_count": 65
     },
     "jaleb": {
-      "last_id": 52796,
+      "last_id": 52798,
       "processed_ids": [
         52261,
         52262,
@@ -7965,12 +7969,14 @@
         52793,
         52794,
         52795,
-        52796
+        52796,
+        52797,
+        52798
       ],
-      "sent_count": 243
+      "sent_count": 244
     },
     "ajayebe_jahann": {
-      "last_id": 159670,
+      "last_id": 159672,
       "processed_ids": [
         158956,
         158957,
@@ -8675,7 +8681,9 @@
         159667,
         159668,
         159669,
-        159670
+        159670,
+        159671,
+        159672
       ],
       "sent_count": 299
     },
@@ -8876,10 +8884,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109500,
+      "last_id": 109502,
       "processed_ids": [
-        108423,
-        108424,
         108425,
         108426,
         108427,
@@ -9877,14 +9883,15 @@
         109497,
         109498,
         109499,
-        109500
+        109500,
+        109501,
+        109502
       ],
       "sent_count": 109
     },
     "varzesh3": {
-      "last_id": 303715,
+      "last_id": 303717,
       "processed_ids": [
-        302626,
         302631,
         302632,
         302633,
@@ -10883,12 +10890,13 @@
         303712,
         303713,
         303714,
-        303715
+        303715,
+        303717
       ],
       "sent_count": 79
     },
     "totalfut_plus": {
-      "last_id": 26622,
+      "last_id": 26623,
       "processed_ids": [
         25870,
         25871,
@@ -11618,14 +11626,14 @@
         26619,
         26620,
         26621,
-        26622
+        26622,
+        26623
       ],
       "sent_count": 47
     },
     "adak_ir_official": {
-      "last_id": 235073,
+      "last_id": 235074,
       "processed_ids": [
-        234045,
         234046,
         234047,
         234048,
@@ -12624,16 +12632,14 @@
         235070,
         235071,
         235072,
-        235073
+        235073,
+        235074
       ],
-      "sent_count": 164
+      "sent_count": 165
     },
     "futball180tv": {
-      "last_id": 108210,
+      "last_id": 108213,
       "processed_ids": [
-        107192,
-        107193,
-        107194,
         107195,
         107196,
         107197,
@@ -13630,15 +13636,16 @@
         108207,
         108208,
         108209,
-        108210
+        108210,
+        108211,
+        108212,
+        108213
       ],
-      "sent_count": 70
+      "sent_count": 72
     },
     "hattric_official": {
-      "last_id": 84600,
+      "last_id": 84603,
       "processed_ids": [
-        83550,
-        83551,
         83552,
         83553,
         83554,
@@ -14636,9 +14643,11 @@
         84597,
         84598,
         84599,
-        84600
+        84600,
+        84602,
+        84603
       ],
-      "sent_count": 111
+      "sent_count": 112
     },
     "mazdak_hattrick": {
       "last_id": 182469,
@@ -15742,7 +15751,7 @@
       "sent_count": 9
     },
     "midanesti": {
-      "last_id": 73271,
+      "last_id": 73273,
       "processed_ids": [
         73193,
         73194,
@@ -15818,9 +15827,10 @@
         73268,
         73269,
         73270,
-        73271
+        73271,
+        73273
       ],
-      "sent_count": 37
+      "sent_count": 38
     },
     "gilin_gilin": {
       "last_id": 284180,
@@ -17267,7 +17277,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306893,
+      "last_id": 306896,
       "processed_ids": [
         306563,
         306564,
@@ -17594,9 +17604,12 @@
         306890,
         306891,
         306892,
-        306893
+        306893,
+        306894,
+        306895,
+        306896
       ],
-      "sent_count": 144
+      "sent_count": 145
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -18075,7 +18088,7 @@
       "sent_count": 50
     },
     "peach_tweet": {
-      "last_id": 3096,
+      "last_id": 3123,
       "processed_ids": [
         2745,
         2749,
@@ -18269,9 +18282,21 @@
         3085,
         3089,
         3095,
-        3096
+        3096,
+        3100,
+        3104,
+        3111,
+        3114,
+        3115,
+        3116,
+        3117,
+        3118,
+        3119,
+        3120,
+        3121,
+        3123
       ],
-      "sent_count": 121
+      "sent_count": 127
     },
     "funy_khand": {
       "last_id": 25731,
@@ -18310,366 +18335,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "8c5dd315732dad77aedd70d78084d9d43344e2a8625bf3c7ca5df97ee131a2bd",
-        "media_fingerprint": "bcb2b5900a11ea99bc097e9b1f3d0db3b4ed49f928dfc3867c90a316ec128d21",
-        "text": "نو کپشن\n😭\n@RoidBest",
-        "original_username": "roidbest",
-        "original_text": "نو کپشن\n😭\n@RoidBest",
-        "original_link": "https://t.me/RoidBest/21796",
-        "post_id": 21796,
-        "message_id": 6845,
-        "message_kind": "caption",
-        "sources": [
-          "roidbest"
-        ],
-        "created_at": "2026-10-06T18:52:36.661623+00:00"
-      },
-      {
-        "fingerprint": "ee70937991fb6638d5d81bf75d9b52ba46368a417fa97f30efbb7b143aa9fbcb",
-        "media_fingerprint": "944b35ba937aa7370fc276768b097bfc8959575dab70442bfbfd49518e28ef08",
-        "text": "اون ماسک‌های منقاری پزشکای طاعون رو دیدین؟ درازیش اصلاً واسه قشنگی یا ترسوندن نبوده!\nاون زمان فکر می‌کردن طاعون از بوی بد و «هوای فاسد» منتقل میشه. واسه همین توی اون منقار ۱۵-۲۰ سانتی‌متری رو پر از گل رز، اسطوخودوس، نعناع، دارچین و پارچه سرکه‌ای می‌کردن تا بوی تعفن رو بگیره و مثل یه فیلتر هوا عمل کنه.\nاز طرفی خودِ طولِ منقار باعث می‌شد صورت و نفس پزشک از هوای اطراف بیمار فاصله بگیره و یه جورایی فاصله‌گذاری اجتماعی رو هم رعایت کرده باشه!\nخلاصه که رسماً اولین نسل ماسک‌های فیلتردار دنیا بودن، منتها با تم قرون وسطایی!\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "اون ماسک‌های منقاری پزشکای طاعون رو دیدین؟ درازیش اصلاً واسه قشنگی یا ترسوندن نبوده!\nاون زمان فکر می‌کردن طاعون از بوی بد و «هوای فاسد» منتقل میشه. واسه همین توی اون منقار ۱۵-۲۰ سانتی‌متری رو پر از گل رز، اسطوخودوس، نعناع، دارچین و پارچه سرکه‌ای می‌کردن تا بوی تعفن رو بگیره و مثل یه فیلتر هوا عمل کنه.\nاز طرفی خودِ طولِ منقار باعث می‌شد صورت و نفس پزشک از هوای اطراف بیمار فاصله بگیره و یه جورایی فاصله‌گذاری اجتماعی رو هم رعایت کرده باشه!\nخلاصه که رسماً اولین نسل ماسک‌های فیلتردار دنیا بودن، منتها با تم قرون وسطایی!\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52730",
-        "post_id": 52730,
-        "message_id": 6846,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-06T18:52:41.384449+00:00"
-      },
-      {
-        "fingerprint": "f813856e6017631449e7f6493e21ef78ceb640c8c7057603dd0108121f7fe1cc",
-        "media_fingerprint": "73828ef20e703fffee57c4a4ed5a3659bdf8177dc4ed3353a3479892686620e4",
-        "text": "🔴\nسیل عظیمی از هواداران مسی برای خداحافظی او در آستانه آخرین بازی‌اش برای تیم ملی آرژانتین :\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "🔴\nسیل عظیمی از هواداران مسی برای خداحافظی او در آستانه آخرین بازی‌اش برای تیم ملی آرژانتین :\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52731",
-        "post_id": 52731,
-        "message_id": 6847,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-06T18:52:46.685527+00:00"
-      },
-      {
-        "fingerprint": "da850f1a8a71a907f192122293a5e4cc0736b3743362a767ebdda4da5b1346f4",
-        "media_fingerprint": "",
-        "text": "چیزی که سال پیش برات مهم بود، ممکنه امروز نباشه.\nرابطه‌ای که زمانی برات مناسب بود، ممکنه دیگه نباشه.\nشغلی که زمانی رؤیات بود، ممکنه دیگه خوشحالت نکنه.\nحتی تصویری که از خودِ ایده‌آلت داشتی، ممکنه تغییر کنه.\nتغییر کردن همیشه نشونه گم کردن خودت نیست. گاهی بخشی از پیدا کردن خودته.\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "چیزی که سال پیش برات مهم بود، ممکنه امروز نباشه.\nرابطه‌ای که زمانی برات مناسب بود، ممکنه دیگه نباشه.\nشغلی که زمانی رؤیات بود، ممکنه دیگه خوشحالت نکنه.\nحتی تصویری که از خودِ ایده‌آلت داشتی، ممکنه تغییر کنه.\nتغییر کردن همیشه نشونه گم کردن خودت نیست. گاهی بخشی از پیدا کردن خودته.\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/306820",
-        "post_id": 306820,
-        "message_id": 6848,
-        "message_kind": "text",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-06T19:18:36.969063+00:00"
-      },
-      {
-        "fingerprint": "f21cb555b5be3263316c5306e7cd3c0257f323cae2427cace0e3be262133a651",
-        "media_fingerprint": "81428cdf05ef8f5fd18439afd51f57ac8f706f6111257940ec701d17c4716aa5",
-        "text": "هشدار متخصص عفونی درباره پیک پاییزی بیماری‌های تنفسی\n◽️\nآنتی‌بیوتیک، درمان عفونت‌های ویروسی نیست؛تب و بدن درد ناگهانی را جدی بگیرید.\n◽️\nمتخصص بیماری‌های عفونی و گرمسیری با تأکید بر ضرورت پرهیز از مصرف خودسرانه آنتی‌بیوتیک‌ها گفت:بخش قابل توجهی از عفونت‌های حاد تنفسی منشأ ویروسی دارند و آنتی‌بیوتیک‌ها در درمان این بیماری‌ها مؤثر نیستند.\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_username": "majalepezeshki",
-        "original_text": "هشدار متخصص عفونی درباره پیک پاییزی بیماری‌های تنفسی\n◽️\nآنتی‌بیوتیک، درمان عفونت‌های ویروسی نیست؛تب و بدن درد ناگهانی را جدی بگیرید.\n◽️\nمتخصص بیماری‌های عفونی و گرمسیری با تأکید بر ضرورت پرهیز از مصرف خودسرانه آنتی‌بیوتیک‌ها گفت:بخش قابل توجهی از عفونت‌های حاد تنفسی منشأ ویروسی دارند و آنتی‌بیوتیک‌ها در درمان این بیماری‌ها مؤثر نیستند.\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_link": "https://t.me/MajalePezeshki/38642",
-        "post_id": 38642,
-        "message_id": 6849,
-        "message_kind": "caption",
-        "sources": [
-          "majalepezeshki"
-        ],
-        "created_at": "2026-10-06T19:18:43.034972+00:00"
-      },
-      {
-        "fingerprint": "a0836ba15e98475fb4ccafda72f002fec075b292aa5d3c869fe88c64599012ad",
-        "media_fingerprint": "",
-        "text": "♦️\nسازمان حج و زیارت: اعزام هوایی کاروان‌های عتبات تا ۱۰ روز آینده آغاز می‌شود؛ پروازهای ایران به نجف نیز پس از وقفه‌ای ۱۰ روزه از سر گرفته شده است.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nسازمان حج و زیارت: اعزام هوایی کاروان‌های عتبات تا ۱۰ روز آینده آغاز می‌شود؛ پروازهای ایران به نجف نیز پس از وقفه‌ای ۱۰ روزه از سر گرفته شده است.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143196",
-        "post_id": 143196,
-        "message_id": 6850,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-06T19:18:46.245729+00:00"
-      },
-      {
-        "fingerprint": "3a7db10076c30ce1b8bd1c7a37d9984106c145abb1e93245a9dd66f86b83548e",
-        "media_fingerprint": "e26abcafa9664ccc69c7b75613c94312da953d48146fa2c16ae293f208ac0d6d",
-        "text": "ویدیو وایرال شده از یه صاحب کافه که برای اینکه قلیون هاش از صفری دربیاره با خلاقیتش وصل کرده به جاروبرقی\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "ویدیو وایرال شده از یه صاحب کافه که برای اینکه قلیون هاش از صفری دربیاره با خلاقیتش وصل کرده به جاروبرقی\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162872",
-        "post_id": 162872,
-        "message_id": 6851,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-06T19:18:54.344970+00:00"
-      },
-      {
-        "fingerprint": "f0801bf347926be02d7de328036b28eaa2026ab8a1143e2eb058a926eeb887e6",
-        "media_fingerprint": "772d55042ec9abfdd88ea92dc86052fe320239bef5d1664e1ec56bf55afdd8cf",
-        "text": "این خوب بود\n😁\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "این خوب بود\n😁\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162873",
-        "post_id": 162873,
-        "message_id": 6852,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-06T19:19:01.671887+00:00"
-      },
-      {
-        "fingerprint": "87194dc5cea280b2e07360420a0745638aac78f580ae90a1e46492a35e56b9f4",
-        "media_fingerprint": "b51131e412545d7b7f7b894b952671fe4643173acc30a81d0c1dee1b5a71eb33",
-        "text": "🔴\nهمتی، رئیس بانک مرکزی :\nتو 6 ماه اول سال، اقدام مهم ما کنترل تورم بود.\nهمچنین تلاش کردیم تو شرایط پرفشار، کالاهای اساسی، دارو، معیشت مردم و مواد اولیه کارخانجات رو تأمین کنیم.\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nهمتی، رئیس بانک مرکزی :\nتو 6 ماه اول سال، اقدام مهم ما کنترل تورم بود.\nهمچنین تلاش کردیم تو شرایط پرفشار، کالاهای اساسی، دارو، معیشت مردم و مواد اولیه کارخانجات رو تأمین کنیم.\n@DrTeL",
-        "original_link": "https://t.me/drtel/67429",
-        "post_id": 67429,
-        "message_id": 6853,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-06T19:19:09.045001+00:00"
-      },
-      {
-        "fingerprint": "da5888af818b1ca13882395384ef4492361c1c7238b2f2c7581d068add4d849d",
-        "media_fingerprint": "e1df61d8e94b693ae9692748697a71283f1af0aa0cd5d802e21d346a2a3ab92d",
-        "text": "چند ساعت از روز سرت توی گوشیه؟!\n📱\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "چند ساعت از روز سرت توی گوشیه؟!\n📱\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159575",
-        "post_id": 159575,
-        "message_id": 6854,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-06T19:19:15.972422+00:00"
-      },
-      {
-        "fingerprint": "c349bd61995fa37cf6fa72dfd89f1f4b88daf58edd783ac69cae458cfc344811",
-        "media_fingerprint": "",
-        "text": "🚨\n🚨\n🚨\n#اختصاصی_آداک\n🚨\n🚨\n🔴\nمدیریت پرسپولیس قاطعانه به فدراسیون فوتبال اعلام کرده تا آخر، پرونده آسانی را پیگیری می‌کند.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n🚨\n🚨\n#اختصاصی_آداک\n🚨\n🚨\n🔴\nمدیریت پرسپولیس قاطعانه به فدراسیون فوتبال اعلام کرده تا آخر، پرونده آسانی را پیگیری می‌کند.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/234822",
-        "post_id": 234822,
-        "message_id": 6855,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-06T19:19:19.110219+00:00"
-      },
-      {
-        "fingerprint": "d666938abb796539dcc325c63e2f54f3324ba44fdf61d588d5ac1858fc198938",
-        "media_fingerprint": "733b52df137d99f658eb958de29ff02e08cf5b3e7a9703ab9dcdbf551f2de620",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26352",
-        "post_id": 26352,
-        "message_id": 6856,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-06T19:19:24.716708+00:00"
-      },
-      {
-        "fingerprint": "e6e11ec2d275ef709df35da9de5c11f4debc4aa5efe72948de8cef63e4bc2f2d",
-        "media_fingerprint": "",
-        "text": "همتی: کالابرگ ۴۲ میلیون نفر حداقل ۵۰ درصد افزایش می‌یابد\nرئیس کل بانک مرکزی:\n🔹\nحفظ قدرت خرید مردم، به‌ویژه اقشار کم‌درآمد، در کنار ثبات اقتصادی از اولویت‌های دولت است.\n🔹\nبانک مرکزی نمی‌تواند در برابر افزایش بی‌ضابطه نرخ ارز منفعل باشد و مداخله در بازار با هدف کنترل نوسانات انجام می‌شود.",
-        "original_username": "fars_today",
-        "original_text": "همتی: کالابرگ ۴۲ میلیون نفر حداقل ۵۰ درصد افزایش می‌یابد\nرئیس کل بانک مرکزی:\n🔹\nحفظ قدرت خرید مردم، به‌ویژه اقشار کم‌درآمد، در کنار ثبات اقتصادی از اولویت‌های دولت است.\n🔹\nبانک مرکزی نمی‌تواند در برابر افزایش بی‌ضابطه نرخ ارز منفعل باشد و مداخله در بازار با هدف کنترل نوسانات انجام می‌شود.",
-        "original_link": "https://t.me/Fars_today/132143",
-        "post_id": 132143,
-        "message_id": 6857,
-        "message_kind": "text",
-        "sources": [
-          "fars_today"
-        ],
-        "created_at": "2026-10-06T19:46:57.673079+00:00"
-      },
-      {
-        "fingerprint": "59abe00a7c3df54324a61fa4386d12b2a64fe55438a6c599c4d7792019567ec0",
-        "media_fingerprint": "5939f1872b18c3ecf62868e5fba423367452b7408895a28769e3723bc32b11a8",
-        "text": "⚽\nبرنامه بازی‌های هفته هشتم لیگ برتر فوتبال ایران\n⚪️\n⚽️\n@Hattric_Official",
-        "original_username": "hattric_official",
-        "original_text": "⚽\nبرنامه بازی‌های هفته هشتم لیگ برتر فوتبال ایران\n⚪️\n⚽️\n@Hattric_Official",
-        "original_link": "https://t.me/Hattric_Official/84350",
-        "post_id": 84350,
-        "message_id": 6858,
-        "message_kind": "caption",
-        "sources": [
-          "hattric_official"
-        ],
-        "created_at": "2026-10-06T19:47:04.137032+00:00"
-      },
-      {
-        "fingerprint": "6ee88aab6d930a05140102a9dd7f099ac650185b3b8c47d72285e11fa2522083",
-        "media_fingerprint": "264af45d16d6561ec11ac48fb07f63608188363f7e9172616798d6f9604dc54e",
-        "text": "خدا همچین مشتری نصیب همتون کنه\n😂\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "خدا همچین مشتری نصیب همتون کنه\n😂\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/23049",
-        "post_id": 23049,
-        "message_id": 6859,
-        "message_kind": "caption",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-06T19:47:09.891233+00:00"
-      },
-      {
-        "fingerprint": "d46556169e032d0cea7eaa67dd84f8b1deeefdd49f9258f5260e8c97135752c3",
-        "media_fingerprint": "8fed9694816d499f1b592315d5fe3c0320f8567360d8ca8be26ea0a8fe074d43",
-        "text": "مرد هزار چهره تویی مهران مدیری اداتو د در میاره\n😂\n😂\n😂\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "مرد هزار چهره تویی مهران مدیری اداتو د در میاره\n😂\n😂\n😂\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/2921",
-        "post_id": 2921,
-        "message_id": 6860,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-06T19:47:16.112031+00:00"
-      },
-      {
-        "fingerprint": "947884b411661b5d19f5e8a73e96717065b40275075abe499a47eecd862ad85b",
-        "media_fingerprint": "1257d3db2c2d967592c24b357de0da84e8f1232cf791626bc5442b115621d457",
-        "text": "آبگرفتگی معابر ارومیه پس از بارش باران پاییزی\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "آبگرفتگی معابر ارومیه پس از بارش باران پاییزی\n@irWonders",
-        "original_link": "https://t.me/irwonders/58399",
-        "post_id": 58399,
-        "message_id": 6861,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-06T19:47:21.998381+00:00"
-      },
-      {
-        "fingerprint": "002ba6081460c9956e985960c4e2e3b8202c0b4d950e2727cd1673a10ced6dab",
-        "media_fingerprint": "df5b053be7ff096b6c0dfc18faaae1a70bc151c87424cbcfe68231da562aeaed",
-        "text": "🔴\nناصر نوسان :   مگه بسنت نگفته بود که تا 2 هفته دیگه، اقتصادِ ایران دچار فروپاشی میشه؟  خب الان 10 روز گذشته و اتفاقی نیفتاده.  @DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nناصر نوسان :   مگه بسنت نگفته بود که تا 2 هفته دیگه، اقتصادِ ایران دچار فروپاشی میشه؟  خب الان 10 روز گذشته و اتفاقی نیفتاده.  @DrTeL",
-        "original_link": "https://t.me/drtel/67431",
-        "post_id": 67431,
-        "message_id": 6862,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-06T20:20:26.855866+00:00"
-      },
-      {
-        "fingerprint": "e800f5ed517ad0661804c989420a25a63da9810d3b41e4450e08e3e4ad3ef1b0",
-        "media_fingerprint": "",
-        "text": "عجایب بازار آهن شاداباد _جنوب تهران\n!\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "عجایب بازار آهن شاداباد _جنوب تهران\n!\n@irWonders",
-        "original_link": "https://t.me/irwonders/58400",
-        "post_id": 58400,
-        "message_id": 6863,
-        "message_kind": "text",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-06T20:20:29.623809+00:00"
-      },
-      {
-        "fingerprint": "e87fc78bff9341a1899e20efedcd83d74f6fab19a30040641dd09975c57e612a",
-        "media_fingerprint": "58ac3673b7de4867de970f6276a0eddcc659686dc3a48e7272e2bc6a6e0eff91",
-        "text": "یه استرسم به استرس هامون اضافه شد\n😢\n⚠️\nاینو خانواده ها حتما ببینن\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "یه استرسم به استرس هامون اضافه شد\n😢\n⚠️\nاینو خانواده ها حتما ببینن\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162875",
-        "post_id": 162875,
-        "message_id": 6864,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-06T20:20:37.726022+00:00"
-      },
-      {
-        "fingerprint": "7977cc7c261d1bec1394781e0031a30941e21dfa5457c5bcfd02b4bb9d268a0c",
-        "media_fingerprint": "ea164a1705a4840c5da1853b5f80f1e7ed2a83b588f13a5ef46e375f0eedd561",
-        "text": "کارخانه متوهم سازی اینستاگرام با مغز مردم ما چه می کند؟\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "کارخانه متوهم سازی اینستاگرام با مغز مردم ما چه می کند؟\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162876",
-        "post_id": 162876,
-        "message_id": 6865,
-        "message_kind": "text",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-06T20:20:42.267631+00:00"
-      },
-      {
-        "fingerprint": "90951cd1343f71cc6e1ddb47e6ff3b010f36420a11c5452ff99f8d5a3cae22d0",
-        "media_fingerprint": "8e652c18582266e45959d8b6ab43272f559f543d9f1d8a30fc54820ea3b54f51",
-        "text": "تعقیب و گریز پلیس تو تهران\nتا ۱۰ دقیقه قبلش عقاب بود\nیهو مریض شد\n😂\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "تعقیب و گریز پلیس تو تهران\nتا ۱۰ دقیقه قبلش عقاب بود\nیهو مریض شد\n😂\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162877",
-        "post_id": 162877,
-        "message_id": 6866,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-06T20:20:49.957608+00:00"
-      },
-      {
-        "fingerprint": "4027b98ba1fb1f749a132c77af75bde0785530481de7880419672cb3f9eb6130",
-        "media_fingerprint": "43a4c1c0c1190627a77b76da2b305e26cd9092c99dde1c09ab490068762a81d0",
-        "text": "دست رد به سینه هیشکی نمیزنن\n😄\nانگار هر کیم آروم بدوئه بهش نمیرسه\n😂\nهمدیگرو میگیرن\n😂\nدُخـــ\n🏃‍♂️\n🏃‍♂️\n🏃‍♂️\nذات مردا\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "دست رد به سینه هیشکی نمیزنن\n😄\nانگار هر کیم آروم بدوئه بهش نمیرسه\n😂\nهمدیگرو میگیرن\n😂\nدُخـــ\n🏃‍♂️\n🏃‍♂️\n🏃‍♂️\nذات مردا\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162878",
-        "post_id": 162878,
-        "message_id": 6867,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-06T20:20:58.266173+00:00"
-      },
-      {
-        "fingerprint": "03c1ba201151deb4f1fd58d6ef2f0b34afa3ff1a88620778c4290ae37346fc81",
-        "media_fingerprint": "",
-        "text": "🚨\n🔴\nمصدومیت پوریا پورعلی کامل برطرف شده و او مشکلی برای بازی پرسپولیس برابر نفت آبادان ندارد.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n🔴\nمصدومیت پوریا پورعلی کامل برطرف شده و او مشکلی برای بازی پرسپولیس برابر نفت آبادان ندارد.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/234827",
-        "post_id": 234827,
-        "message_id": 6868,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-06T20:21:01.275526+00:00"
-      },
       {
         "fingerprint": "663f1be2cba4a898e63e147dd85c467163ba7b1fd6eacf3b42cf8f6e9e29e806",
         "media_fingerprint": "cd4af10544fcf4c83694b52bf847f4e106a5b142628f2ae08a749cdc82c3d64d",
@@ -33389,6 +33054,366 @@
           "peach_tweet"
         ],
         "created_at": "2026-10-09T18:53:22.183732+00:00"
+      },
+      {
+        "fingerprint": "95c9cd8e73b66a09183374c7b2c5f1c04b2ed643b9995de0f687892e5879b6d1",
+        "media_fingerprint": "69bad57c13c456a91e5126fd3c4538bedd42e450cefd007a57adce6514812ff2",
+        "text": "♦️\n«صداهای خاموش» فیلمی اجتماعی به کارگردانی سهی‌بانو ذوالقدر است که داستان مهدی، پسربچه ۱۲ ساله‌ای را روایت می‌کند که مادرش نظافتچی پارک است و آشنایی او با پسر یک بلورفروش، ماجراهایی را رقم می‌زند. این فیلم با الهام از واقعیت‌های جامعه و زندگی واقعی ساخته شده و به مسائل اجتماعی و مفهوم حق و حقیقت می‌پردازد.\n🎬\n#معرفی_فیلم\n@akhbar_Kohgiluyevaboyerahmad",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\n«صداهای خاموش» فیلمی اجتماعی به کارگردانی سهی‌بانو ذوالقدر است که داستان مهدی، پسربچه ۱۲ ساله‌ای را روایت می‌کند که مادرش نظافتچی پارک است و آشنایی او با پسر یک بلورفروش، ماجراهایی را رقم می‌زند. این فیلم با الهام از واقعیت‌های جامعه و زندگی واقعی ساخته شده و به مسائل اجتماعی و مفهوم حق و حقیقت می‌پردازد.\n🎬\n#معرفی_فیلم\n@akhbar_Kohgiluyevaboyerahmad",
+        "original_link": "https://t.me/akhbarfars/143388",
+        "post_id": 143388,
+        "message_id": 7887,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-09T19:18:20.905015+00:00"
+      },
+      {
+        "fingerprint": "a9f668614bcec3a16fb89b2827188c4ba08f25469f39e93ac8db5d7a09609856",
+        "media_fingerprint": "45d9988ea861f73f53004592c511b380d0e75b26724c1f83e939fcb8a500d89f",
+        "text": "نماد چشم زخم که برای جلوگیری از چشم خوردن بکار میرود از پر طاووس گرفته شده است\nقدیمی‌ها بر این باور بودند که این فرم در انتهای پرطاووس جلوی چشم خوردن طاووس را میگیرد و نماد خوشبختی است\n@Midanesti",
+        "original_username": "midanesti",
+        "original_text": "نماد چشم زخم که برای جلوگیری از چشم خوردن بکار میرود از پر طاووس گرفته شده است\nقدیمی‌ها بر این باور بودند که این فرم در انتهای پرطاووس جلوی چشم خوردن طاووس را میگیرد و نماد خوشبختی است\n@Midanesti",
+        "original_link": "https://t.me/midanesti/73273",
+        "post_id": 73273,
+        "message_id": 7888,
+        "message_kind": "caption",
+        "sources": [
+          "midanesti"
+        ],
+        "created_at": "2026-10-09T19:18:26.720561+00:00"
+      },
+      {
+        "fingerprint": "e3b8f6fe54d8fbb0dffdae73a2f95af80e14a5370161c06f7a511d23f2ebb4e2",
+        "media_fingerprint": "",
+        "text": "🚨\n🔴\nطبق شنیده‌ها؛ باشگاه پرسپولیس مذاکرات خود را با مدیربرنامه‌های بشار رسن عراقی آغاز کرده تابرای جذب این بازیکن در نیم فصل به توافق برسد.\n🔘\n@Persiana_Pluss",
+        "original_username": "futball180tv",
+        "original_text": "🚨\n🔴\nطبق شنیده‌ها؛ باشگاه پرسپولیس مذاکرات خود را با مدیربرنامه‌های بشار رسن عراقی آغاز کرده تابرای جذب این بازیکن در نیم فصل به توافق برسد.\n🔘\n@Persiana_Pluss",
+        "original_link": "https://t.me/Futball180TV/108211",
+        "post_id": 108211,
+        "message_id": 7889,
+        "message_kind": "text",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-09T19:18:29.546153+00:00"
+      },
+      {
+        "fingerprint": "2f41c7bbc1ed869eb951446096a2c78bc1c1013ee145017de66718447117155a",
+        "media_fingerprint": "",
+        "text": "♦️\nحفارمرد صنعت نفت هنگام برپایی دکل آسمانی شد؛ تشییع شنبه ۱۸مهرماه در نودان\n🔹\nزنده‌یاد اصغر سلیمانی، از کارکنان مدیریت سیالات شرکت ملی حفاری ایران، هنگام انجام وظیفه در دستگاه حفاری ۹۳ فتح، مستقر در محدوده شهر اهواز در استان خوزستان، در پی وقوع سانحه‌ای هنگام برپایی دکل، آسمانی شد.\n🔹\nزمان و مکان تشییع و خاکسپاری: روز شنبه ۱۸ مهرماه، ساعت ۱۵:۳۰، در گلزار شهدای شهر نودان، از توابع شهرستان کوه‌چنار در استان فارس.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nحفارمرد صنعت نفت هنگام برپایی دکل آسمانی شد؛ تشییع شنبه ۱۸مهرماه در نودان\n🔹\nزنده‌یاد اصغر سلیمانی، از کارکنان مدیریت سیالات شرکت ملی حفاری ایران، هنگام انجام وظیفه در دستگاه حفاری ۹۳ فتح، مستقر در محدوده شهر اهواز در استان خوزستان، در پی وقوع سانحه‌ای هنگام برپایی دکل، آسمانی شد.\n🔹\nزمان و مکان تشییع و خاکسپاری: روز شنبه ۱۸ مهرماه، ساعت ۱۵:۳۰، در گلزار شهدای شهر نودان، از توابع شهرستان کوه‌چنار در استان فارس.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143389",
+        "post_id": 143389,
+        "message_id": 7890,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-09T19:18:32.729969+00:00"
+      },
+      {
+        "fingerprint": "babcd18f2c8572af1e3a52cbdfec9d1fc2eca2021f1b8bc4042aeac03a345011",
+        "media_fingerprint": "9b5a724f12e25c35f0af1955219266fdedc3f3dca9b8d5cb547d1556b14b7956",
+        "text": "ماجرای پزشک قلابی اینستاگرامی که با سرم بیهوشی وارد منازل می‌شد\n!\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "ماجرای پزشک قلابی اینستاگرامی که با سرم بیهوشی وارد منازل می‌شد\n!\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38682",
+        "post_id": 38682,
+        "message_id": 7891,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-09T19:18:38.758388+00:00"
+      },
+      {
+        "fingerprint": "25202977e9a75c8238b219537c912d938405205f55670c1b67556f3755b8c1fb",
+        "media_fingerprint": "",
+        "text": "🚨\nدر صورت شکست صنعت نفت آبادان برابر پرسپولیس، محمد نوری از سرمربیگری این تیم اخراج خواهد شد.\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🚨\nدر صورت شکست صنعت نفت آبادان برابر پرسپولیس، محمد نوری از سرمربیگری این تیم اخراج خواهد شد.\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/235074",
+        "post_id": 235074,
+        "message_id": 7892,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-09T19:18:41.440885+00:00"
+      },
+      {
+        "fingerprint": "07835678b92379ed2b8157e48cded6e1a3e65276bd0dd6c91272bccf635c402c",
+        "media_fingerprint": "568a0fc051bef9b97ef84a29aa39a5bfb35c93d2b494c080833c69cae8770977",
+        "text": "این خانوم که میبینید سه تا همسر داره و هر چهارتاشون هم کاملا از این موضوع راضی هستن و باهم زندگی میکنن.\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "این خانوم که میبینید سه تا همسر داره و هر چهارتاشون هم کاملا از این موضوع راضی هستن و باهم زندگی میکنن.\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/3104",
+        "post_id": 3104,
+        "message_id": 7893,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-09T19:18:47.132138+00:00"
+      },
+      {
+        "fingerprint": "2540f31c9fbda02bd1c3c24835a1179406ef90141963d7559f9973f565837f42",
+        "media_fingerprint": "6b42862d202224e3a2710914ae2a03a983f88343bea86b24733dc94c420711e1",
+        "text": "از باهوشای نسل زد هستن\n😄\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "از باهوشای نسل زد هستن\n😄\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163026",
+        "post_id": 163026,
+        "message_id": 7894,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-09T19:18:53.381146+00:00"
+      },
+      {
+        "fingerprint": "67c74d66fbc7b25d62b95753cc52243c3c84a349776c6cb200632fa261d68263",
+        "media_fingerprint": "5582036433ec82cae2151f791a6b28d2e430ec261699f3a639ebf81586610efa",
+        "text": "از شکل‌گیری تا خروج؛ سفری شگفت‌انگیز که یک تخم‌مرغ در بدن مرغ طی می‌کنه\n🥚\n🐔\n+اون وسط یه لحظه نیمرو شد :)\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "از شکل‌گیری تا خروج؛ سفری شگفت‌انگیز که یک تخم‌مرغ در بدن مرغ طی می‌کنه\n🥚\n🐔\n+اون وسط یه لحظه نیمرو شد :)\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163027",
+        "post_id": 163027,
+        "message_id": 7895,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-09T19:19:00.208465+00:00"
+      },
+      {
+        "fingerprint": "a162a7919066f70478bdca5f7cd51a7610e1b0920df9f69bebf2f6c43d91b55f",
+        "media_fingerprint": "b73264b1101e85ebb6eb6ef503ee79e8e9336dc1ffa8ce7d98a94073da30320c",
+        "text": "پناهیان: در تجمعات کسانی که می‌گفتند مذاکرات خیانت به خون شهداست را دستگیر کردند مشخص شد هم ضدانقلاب هستند هم بهایی!\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "پناهیان: در تجمعات کسانی که می‌گفتند مذاکرات خیانت به خون شهداست را دستگیر کردند مشخص شد هم ضدانقلاب هستند هم بهایی!\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163029",
+        "post_id": 163029,
+        "message_id": 7896,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-09T19:19:06.344683+00:00"
+      },
+      {
+        "fingerprint": "999f9798da25b9b35adb4a66e279f448cd6360089b6cfc7cc4ff6cf6afbe4efa",
+        "media_fingerprint": "",
+        "text": "‼️\n⚽️\nمحمد نوری، سرمربی تیم صنعت‌نفت آبادان پس از باخت امشب مقابل پرسپولیس از هدایت صنعت‌نفت برکنار شد\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "‼️\n⚽️\nمحمد نوری، سرمربی تیم صنعت‌نفت آبادان پس از باخت امشب مقابل پرسپولیس از هدایت صنعت‌نفت برکنار شد\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/84602",
+        "post_id": 84602,
+        "message_id": 7897,
+        "message_kind": "text",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-09T19:19:08.961046+00:00"
+      },
+      {
+        "fingerprint": "9b5483e2995769670d4e1709df0526225bfaed3c98039f3d122616cc94a6a2e3",
+        "media_fingerprint": "86e299515a84cd7eba65c169cdac75ab6f2db944a5b03014f0179ad665544733",
+        "text": "اونایی که تو فکر تتو زدن هستن، این ویدئو رو قبلش ببینن\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "اونایی که تو فکر تتو زدن هستن، این ویدئو رو قبلش ببینن\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163030",
+        "post_id": 163030,
+        "message_id": 7898,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-09T19:19:15.446514+00:00"
+      },
+      {
+        "fingerprint": "8f638a2feb42d99a8d90ef590f5db414accd21e9af877c23696f259785f9e8cf",
+        "media_fingerprint": "d6158fb10f6fba8165746de1a3d225c1acad52cb2f9f9fb14e20eb55872d6234",
+        "text": "ویدیوی پربازدید از زد و خورد یک معلم و دانش‌آموز\n+جالبه بدونید تقریبا همه ی کامنت ها در حمایت از معلم بود و حق رو به معلم داده بودن\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "ویدیوی پربازدید از زد و خورد یک معلم و دانش‌آموز\n+جالبه بدونید تقریبا همه ی کامنت ها در حمایت از معلم بود و حق رو به معلم داده بودن\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163031",
+        "post_id": 163031,
+        "message_id": 7899,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-09T19:19:21.138009+00:00"
+      },
+      {
+        "fingerprint": "3eeb230177ae9d5ced9b8504f57dbbcd2133e9a20e7f24fe92d65db6f308144e",
+        "media_fingerprint": "049d765c488d1d9c0d55e2f9901fc56eb38b04d5ba7126414732d8b233d7733a",
+        "text": "رئیس مجلس شورای اسلامی ایران، قالیباف، در پاسخ به سخنرانی  وزیر امور خارجه ایالات متحده، در آکروپولیس، گفت که در طول تاریخ، کسانی که تلاش کرده‌اند ایران را فتح کنند، شکست خورده‌اند\n.\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "رئیس مجلس شورای اسلامی ایران، قالیباف، در پاسخ به سخنرانی  وزیر امور خارجه ایالات متحده، در آکروپولیس، گفت که در طول تاریخ، کسانی که تلاش کرده‌اند ایران را فتح کنند، شکست خورده‌اند\n.\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52797",
+        "post_id": 52797,
+        "message_id": 7900,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-09T19:19:25.087129+00:00"
+      },
+      {
+        "fingerprint": "06c702bfe6e49fa58f11f30ec0297aea5de2da8093034271fb391fc915e48bd2",
+        "media_fingerprint": "5b7bad53f888c87f8816c8edcfffe2169ee4d83c6a8b09c146d4e73660e41df5",
+        "text": "🚨\n🇮🇷\n❌\nمحمد نوری پس از شکست مقابل پرسپولیس از هدایت نفت‌آبادان اخراج شد\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "🚨\n🇮🇷\n❌\nمحمد نوری پس از شکست مقابل پرسپولیس از هدایت نفت‌آبادان اخراج شد\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/108213",
+        "post_id": 108213,
+        "message_id": 7901,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-09T19:19:28.954463+00:00"
+      },
+      {
+        "fingerprint": "86cec3000e3a8e925acc2b4f10b0b39756af2290aab42f8891d63af2c377a70a",
+        "media_fingerprint": "0bcac689fe22aeb3bc640d432f035fc777eff60fc95a5cbddaf5fffd215920ae",
+        "text": "چطور گی میشید واقعا؟\n😍\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "چطور گی میشید واقعا؟\n😍\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/3111",
+        "post_id": 3111,
+        "message_id": 7902,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-09T19:19:32.971537+00:00"
+      },
+      {
+        "fingerprint": "72abf5cfba5c78510c73fac4324f7b814152cbc5f1260a473f7fe6c0147b3368",
+        "media_fingerprint": "",
+        "text": "نمیخوام جو بدم یا ته دل کسی رو خالی کنم ولی این چنلو داشته باشید بدونید چ‌خبره\nآیدیش:\n@khabar",
+        "original_username": "peach_tweet",
+        "original_text": "نمیخوام جو بدم یا ته دل کسی رو خالی کنم ولی این چنلو داشته باشید بدونید چ‌خبره\nآیدیش:\n@khabar",
+        "original_link": "https://t.me/peach_tweet/3114",
+        "post_id": 3114,
+        "message_id": 7903,
+        "message_kind": "text",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-09T19:19:35.663579+00:00"
+      },
+      {
+        "fingerprint": "bf35bdae040dfcd60ee812e8dff9660e3da31a360c2cbd636286e04dc89e8f50",
+        "media_fingerprint": "5c45e85317a626f361a645f1b1cb6aa97b40903590edb1cf3f9da06756d97863",
+        "text": "بنر عجیب در تجمعات شبانه:\nبه یک ۷ اکتبر برای بازپس‌گیری اقتصاد ایران از غرب‌زده‌های اقتصادی نیاز است\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "بنر عجیب در تجمعات شبانه:\nبه یک ۷ اکتبر برای بازپس‌گیری اقتصاد ایران از غرب‌زده‌های اقتصادی نیاز است\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163033",
+        "post_id": 163033,
+        "message_id": 7904,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-09T19:19:39.463502+00:00"
+      },
+      {
+        "fingerprint": "a53bb313651cb401fc0581f105ea0c6042923f7848a788d7c4c5ce4a4d0f9cb2",
+        "media_fingerprint": "8664c4f0745614ad192af8a246ae655e69634f59e240386b50d6642b186a4013",
+        "text": "بچه های مشهد تاییده؟\n😶\n😂\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "بچه های مشهد تاییده؟\n😶\n😂\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306896",
+        "post_id": 306896,
+        "message_id": 7905,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-09T19:19:43.218505+00:00"
+      },
+      {
+        "fingerprint": "827c382d4a3bcf2bd499af8ae13693afea98bb8e81d868eb9629aa1b6f6d60b2",
+        "media_fingerprint": "",
+        "text": "🚨\nفوری از مجری صداوسیما؛",
+        "original_username": "peach_tweet",
+        "original_text": "🚨\nفوری از مجری صداوسیما؛",
+        "original_link": "https://t.me/peach_tweet/3116",
+        "post_id": 3116,
+        "message_id": 7906,
+        "message_kind": "text",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-09T19:19:45.682636+00:00"
+      },
+      {
+        "fingerprint": "a061f55aa7eafb9ba34ff193af7ac4f9c1325f2010613e288f45d4568a2e0809",
+        "media_fingerprint": "bc6ce0e2c010e3a0e17fc063b0b9e4d9e1dfbbd2eb385c5b4e4795bbbecbc154",
+        "text": "کاش عینکتو درنمیاوردی\n😂\n😂\n😂\nداداشمون چه فشاری شده اینهمه به دخترا هیت دادین یبارم اونا به شما هیت دادن\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "کاش عینکتو درنمیاوردی\n😂\n😂\n😂\nداداشمون چه فشاری شده اینهمه به دخترا هیت دادین یبارم اونا به شما هیت دادن\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/3118",
+        "post_id": 3118,
+        "message_id": 7907,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-09T19:19:51.008865+00:00"
+      },
+      {
+        "fingerprint": "61496e53d7f9638604a279b15032a5fad03f753e53fd87983e5cbdd95c02f2da",
+        "media_fingerprint": "",
+        "text": "💳\nراهنمای سریع دریافت دستگاه کارتخوان (۱۴۰۵)\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "💳\nراهنمای سریع دریافت دستگاه کارتخوان (۱۴۰۵)\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23142",
+        "post_id": 23142,
+        "message_id": 7908,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-09T19:19:53.459324+00:00"
+      },
+      {
+        "fingerprint": "5884dfe0df9bc574c893b81e3735fb84807f0c5f320a84b22c7eee774b901932",
+        "media_fingerprint": "d9a4fc3b4dd28fd1143e1a17086170f5cadcaa78a957c811253bb61cb4609c7a",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26400",
+        "post_id": 26400,
+        "message_id": 7909,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-09T19:19:57.072325+00:00"
+      },
+      {
+        "fingerprint": "a1f74e63b6c2cf12ed1c9492dd85c17505226dbd5e1089fce3aa0b1fc1165046",
+        "media_fingerprint": "",
+        "text": "🔴\nلیست شهرای تعطیل فردا:",
+        "original_username": "peach_tweet",
+        "original_text": "🔴\nلیست شهرای تعطیل فردا:",
+        "original_link": "https://t.me/peach_tweet/3121",
+        "post_id": 3121,
+        "message_id": 7910,
+        "message_kind": "text",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-09T19:19:59.895707+00:00"
       }
     ]
   }
