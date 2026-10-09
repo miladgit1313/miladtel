@@ -1,9 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143363,
+      "last_id": 143364,
       "processed_ids": [
-        142260,
         142262,
         142264,
         142265,
@@ -1002,15 +1001,14 @@
         143360,
         143361,
         143362,
-        143363
+        143363,
+        143364
       ],
-      "sent_count": 800
+      "sent_count": 801
     },
     "total_fut": {
-      "last_id": 237554,
+      "last_id": 237556,
       "processed_ids": [
-        236504,
-        236505,
         236506,
         236507,
         236508,
@@ -2008,9 +2006,11 @@
         237551,
         237552,
         237553,
-        237554
+        237554,
+        237555,
+        237556
       ],
-      "sent_count": 94
+      "sent_count": 96
     },
     "footballvision2": {
       "last_id": 170818,
@@ -6098,7 +6098,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38678,
+      "last_id": 38679,
       "processed_ids": [
         38432,
         38433,
@@ -6343,9 +6343,10 @@
         38675,
         38676,
         38677,
-        38678
+        38678,
+        38679
       ],
-      "sent_count": 146
+      "sent_count": 147
     },
     "gizmiztel": {
       "last_id": 163008,
@@ -7354,7 +7355,7 @@
       "sent_count": 685
     },
     "dr_salamatx": {
-      "last_id": 55372,
+      "last_id": 55373,
       "processed_ids": [
         55270,
         55271,
@@ -7458,9 +7459,10 @@
         55369,
         55370,
         55371,
-        55372
+        55372,
+        55373
       ],
-      "sent_count": 64
+      "sent_count": 65
     },
     "jaleb": {
       "last_id": 52790,
@@ -8831,12 +8833,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109445,
+      "last_id": 109449,
       "processed_ids": [
-        108369,
-        108370,
-        108371,
-        108372,
         108373,
         108374,
         108375,
@@ -9832,9 +9830,13 @@
         109442,
         109443,
         109444,
-        109445
+        109445,
+        109446,
+        109447,
+        109448,
+        109449
       ],
-      "sent_count": 87
+      "sent_count": 88
     },
     "varzesh3": {
       "last_id": 303675,
@@ -10843,7 +10845,7 @@
       "sent_count": 64
     },
     "totalfut_plus": {
-      "last_id": 26606,
+      "last_id": 26607,
       "processed_ids": [
         25870,
         25871,
@@ -11557,15 +11559,14 @@
         26603,
         26604,
         26605,
-        26606
+        26606,
+        26607
       ],
       "sent_count": 41
     },
     "adak_ir_official": {
-      "last_id": 235031,
+      "last_id": 235033,
       "processed_ids": [
-        234004,
-        234005,
         234006,
         234007,
         234008,
@@ -12563,17 +12564,15 @@
         235028,
         235029,
         235030,
-        235031
+        235031,
+        235032,
+        235033
       ],
-      "sent_count": 147
+      "sent_count": 149
     },
     "futball180tv": {
-      "last_id": 108186,
+      "last_id": 108190,
       "processed_ids": [
-        107168,
-        107169,
-        107170,
-        107171,
         107172,
         107173,
         107174,
@@ -13569,18 +13568,17 @@
         108183,
         108184,
         108185,
-        108186
+        108186,
+        108187,
+        108188,
+        108189,
+        108190
       ],
-      "sent_count": 59
+      "sent_count": 61
     },
     "hattric_official": {
-      "last_id": 84540,
+      "last_id": 84545,
       "processed_ids": [
-        83488,
-        83489,
-        83490,
-        83491,
-        83492,
         83493,
         83494,
         83495,
@@ -14575,12 +14573,17 @@
         84537,
         84538,
         84539,
-        84540
+        84540,
+        84541,
+        84542,
+        84543,
+        84544,
+        84545
       ],
-      "sent_count": 80
+      "sent_count": 83
     },
     "mazdak_hattrick": {
-      "last_id": 182459,
+      "last_id": 182460,
       "processed_ids": [
         181991,
         181992,
@@ -15041,7 +15044,8 @@
         182456,
         182457,
         182458,
-        182459
+        182459,
+        182460
       ],
       "sent_count": 39
     },
@@ -15181,7 +15185,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58509,
+      "last_id": 58510,
       "processed_ids": [
         58030,
         58031,
@@ -15612,9 +15616,10 @@
         58506,
         58507,
         58508,
-        58509
+        58509,
+        58510
       ],
-      "sent_count": 273
+      "sent_count": 274
     },
     "razcom": {
       "last_id": 70490,
@@ -18142,220 +18147,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "c419263889a9bbd2d09c3c591579ae474e52ac03bf8f61316032a5805c6e496f",
-        "media_fingerprint": "71118ca5c1960af81c8879e38127b37d5267c536bdb043eb57ade05715e93927",
-        "text": "تصویر فردی که گفته می‌شود عامل انتشار طاعون ریوی در روسیه است!  #سلامت #پزشکی  @MajalePezeshki",
-        "original_username": "majalepezeshki",
-        "original_text": "تصویر فردی که گفته می‌شود عامل انتشار طاعون ریوی در روسیه است!  #سلامت #پزشکی  @MajalePezeshki",
-        "original_link": "https://t.me/MajalePezeshki/38631",
-        "post_id": 38631,
-        "message_id": 6595,
-        "message_kind": "caption",
-        "sources": [
-          "majalepezeshki"
-        ],
-        "created_at": "2026-10-05T21:48:24.430608+00:00"
-      },
-      {
-        "fingerprint": "1b8b6180aee665f4e2e86b07652ea82c74822b8ec77f38f0a891354875434493",
-        "media_fingerprint": "b92ecfe408d0c1a4fee50393a21cf1230d7045dbba9659bf506710bb7d1b18f3",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26332",
-        "post_id": 26332,
-        "message_id": 6596,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-05T21:48:28.644306+00:00"
-      },
-      {
-        "fingerprint": "f69b57e5fb82ff043458a70830001678d3002b65026f75abba58526f9eab67c1",
-        "media_fingerprint": "618e6d896748b9189869c586240c1651c118705a29fadecd6366b6a085ca881e",
-        "text": "🔴\nایرانی‌ها دارن چیزهای جدید به هوش مصنوعی یاد میدن :\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nایرانی‌ها دارن چیزهای جدید به هوش مصنوعی یاد میدن :\n@DrTeL",
-        "original_link": "https://t.me/drtel/67394",
-        "post_id": 67394,
-        "message_id": 6597,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-05T21:48:35.078502+00:00"
-      },
-      {
-        "fingerprint": "de5ec7dd49fe73ef7a6abb3ae6344015db1ee3a243eeb95912c826c43c3fdee4",
-        "media_fingerprint": "cada1bbfba59932f33ebc3be62761b352faf7ae7bcea184d7c906554758a9b0b",
-        "text": "🔴\nوزارت آموزش و پرورش ترکیه\n🇹🇷\nتو جلد کتاب درسی جدید خودش، تمام مناطق شمالی و شمال‌غربی ایران رو، جزو نقشه‌ی\"دنیای ترک\" قرار داده :\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nوزارت آموزش و پرورش ترکیه\n🇹🇷\nتو جلد کتاب درسی جدید خودش، تمام مناطق شمالی و شمال‌غربی ایران رو، جزو نقشه‌ی\"دنیای ترک\" قرار داده :\n@DrTeL",
-        "original_link": "https://t.me/drtel/67395",
-        "post_id": 67395,
-        "message_id": 6598,
-        "message_kind": "caption",
-        "sources": [
-          "drtel",
-          "gizmiztel",
-          "yejoorayi",
-          "jaleb"
-        ],
-        "created_at": "2026-10-05T22:07:14.341591+00:00"
-      },
-      {
-        "fingerprint": "bc95c66381629a1e35aeb26d25d6a9bc8c8852603737a7d8a16508d60e9260f1",
-        "media_fingerprint": "a1021ef6b13a57865ec10257b69042b68913a99d9f3246c587e1978d9bd687a0",
-        "text": "«استنطاق» از سارا بهرامی در راه است\nاین سریال آماده انتشار در شبکه خانگی است\nسارا بهرامی که به تازگی انتشار سریال\n«کوری» با بازی او به پایان رسیده، در انتظار رونمایی از سریال دیگرش با نام «استنطاق» است که در ژانر تاریخی تولید شده و آماده انتشار است.\nمتن کامل را در پیج «فیلم‌نیوز سریال» بخوانید\nhttps://B2n.ir/pw9991",
-        "original_username": "film_news",
-        "original_text": "«استنطاق» از سارا بهرامی در راه است\nاین سریال آماده انتشار در شبکه خانگی است\nسارا بهرامی که به تازگی انتشار سریال\n«کوری» با بازی او به پایان رسیده، در انتظار رونمایی از سریال دیگرش با نام «استنطاق» است که در ژانر تاریخی تولید شده و آماده انتشار است.\nمتن کامل را در پیج «فیلم‌نیوز سریال» بخوانید\nhttps://B2n.ir/pw9991",
-        "original_link": "https://t.me/Film_news/14992",
-        "post_id": 14992,
-        "message_id": 6599,
-        "message_kind": "caption",
-        "sources": [
-          "film_news"
-        ],
-        "created_at": "2026-10-05T22:41:38.174826+00:00"
-      },
-      {
-        "fingerprint": "b6610262fe0a8ec56d687df950abca41e5987019463b76ce08edaa9b2ce28317",
-        "media_fingerprint": "048c006727ebbd3992c538f438e7cec5a58239a9b570d68e0725e81a53d4a1a1",
-        "text": "از سری پند های زندگی\n😂\n:\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "از سری پند های زندگی\n😂\n:\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/2902",
-        "post_id": 2902,
-        "message_id": 6600,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-05T22:41:44.776586+00:00"
-      },
-      {
-        "fingerprint": "738882ac1b367c6fc7625c6d4e4393de48b6332ec0e805ff587f73c708c0ab81",
-        "media_fingerprint": "431e0b81700564a9707bf8af03fab664ff740619af9afc87780306507c385080",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26334",
-        "post_id": 26334,
-        "message_id": 6601,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-05T23:05:23.489519+00:00"
-      },
-      {
-        "fingerprint": "ec4a342cc4ce3cfbad843f655f37803323c108018d60ef7c266c4fb8fe78d4f1",
-        "media_fingerprint": "bb79a9271f21309ecb828723cf6467c341683f6020441acffa5be27ac45a9f1a",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26335",
-        "post_id": 26335,
-        "message_id": 6602,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-05T23:40:55.329949+00:00"
-      },
-      {
-        "fingerprint": "0e129e0b0818d9aa38bbd39c580ecadd1a08ab50fb9e018e80bbe7863c1441be",
-        "media_fingerprint": "e219018d8ee64141f5d1c35bc7818eff018844514786d3fa4fd0087606aeee5c",
-        "text": "⚠️\nمراقب کلاهبرداری جدید سودجویان باشید\n➜\n@NiazCom_ir\n|\n🌟\nترفند\n®",
-        "original_username": "niazcom_ir",
-        "original_text": "⚠️\nمراقب کلاهبرداری جدید سودجویان باشید\n➜\n@NiazCom_ir\n|\n🌟\nترفند\n®",
-        "original_link": "https://t.me/niazcom_ir/61611",
-        "post_id": 61611,
-        "message_id": 6603,
-        "message_kind": "caption",
-        "sources": [
-          "niazcom_ir"
-        ],
-        "created_at": "2026-10-06T04:08:11.110914+00:00"
-      },
-      {
-        "fingerprint": "66ad91c3e6e653a0de2386595dad615191429b076b4851e9695d2fe498347902",
-        "media_fingerprint": "",
-        "text": "🔺\n🔻\nصدور هشدار نارنجی برای شمال غرب کشور\nسازمان هواشناسی :\n🔹\nامروز با گذر سامانه بارشی از غرب کشور در مناطقی از شمال غرب، دامنه های زاگرس مرکزی واقع در کرمانشاه، همدان، مرکزی و قم، دامنه‌های جنوبی البرز واقع در استانهای قزوین، البرز و تهران ابرناکی، وزش باد و رگبار و رعد و برق، گاهی وزش باد شدید و گرد و خاک پیش بینی می‌شود.\n🔹\nهمچنین در شرق اردبیل، گیلان و برخی نواحی مازندران و گلستان ابرناکی و بارش رخ می‌دهد.\n🔹\nبا پیش‌بینی شدت فعالیت سامانه بارشی امروز برای شمال غرب هشدار نارنجی صادر شده است.\n🔹\nدر سه روز آینده در برخی مناطق شمال غرب، غرب بخش‌هایی از مرکز و دامنه‌های جنوبی البرز در برخی ساعات وزش باد شدید گاهی گرد و خاک و کاهش کیفیت هوا دور از انتظار نیست.",
-        "original_username": "fars_today",
-        "original_text": "🔺\n🔻\nصدور هشدار نارنجی برای شمال غرب کشور\nسازمان هواشناسی :\n🔹\nامروز با گذر سامانه بارشی از غرب کشور در مناطقی از شمال غرب، دامنه های زاگرس مرکزی واقع در کرمانشاه، همدان، مرکزی و قم، دامنه‌های جنوبی البرز واقع در استانهای قزوین، البرز و تهران ابرناکی، وزش باد و رگبار و رعد و برق، گاهی وزش باد شدید و گرد و خاک پیش بینی می‌شود.\n🔹\nهمچنین در شرق اردبیل، گیلان و برخی نواحی مازندران و گلستان ابرناکی و بارش رخ می‌دهد.\n🔹\nبا پیش‌بینی شدت فعالیت سامانه بارشی امروز برای شمال غرب هشدار نارنجی صادر شده است.\n🔹\nدر سه روز آینده در برخی مناطق شمال غرب، غرب بخش‌هایی از مرکز و دامنه‌های جنوبی البرز در برخی ساعات وزش باد شدید گاهی گرد و خاک و کاهش کیفیت هوا دور از انتظار نیست.",
-        "original_link": "https://t.me/Fars_today/132137",
-        "post_id": 132137,
-        "message_id": 6604,
-        "message_kind": "text",
-        "sources": [
-          "fars_today"
-        ],
-        "created_at": "2026-10-06T04:45:05.944185+00:00"
-      },
-      {
-        "fingerprint": "0c8e7aa7ccc555cdcf075109608a6a1faefe9c62cbc4a04576f2c6c63340a600",
-        "media_fingerprint": "00d9bb79f10b677c8db785d7a61ec5c0661e37b54a7b9b7282b42a30ff0be600",
-        "text": "🆔\n@YeJoorayi",
-        "original_username": "yejoorayi",
-        "original_text": "🆔\n@YeJoorayi",
-        "original_link": "https://t.me/YeJoorayi/493",
-        "post_id": 493,
-        "message_id": 6605,
-        "message_kind": "caption",
-        "sources": [
-          "yejoorayi"
-        ],
-        "created_at": "2026-10-06T04:45:09.814525+00:00"
-      },
-      {
-        "fingerprint": "b20d0f6d21a4b1415bdf1652ab8bd902a65b72930da07e42f39c3244f84c4361",
-        "media_fingerprint": "",
-        "text": "لطفاً از مادربزرگ‌ها به عنوان پرستار بچه استفاده نکنید.\nامروز از پسرخاله کوچولوم پرسیدم چند سالت می‌شه؟\nگفت: اگه خدا بخواد و عمرم به دنیا باشه، ۶ سالم می‌شه\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "لطفاً از مادربزرگ‌ها به عنوان پرستار بچه استفاده نکنید.\nامروز از پسرخاله کوچولوم پرسیدم چند سالت می‌شه؟\nگفت: اگه خدا بخواد و عمرم به دنیا باشه، ۶ سالم می‌شه\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162827",
-        "post_id": 162827,
-        "message_id": 6606,
-        "message_kind": "text",
-        "sources": [
-          "gizmiztel",
-          "yejoorayi"
-        ],
-        "created_at": "2026-10-06T04:45:12.669587+00:00"
-      },
-      {
-        "fingerprint": "55187522d729a133f2084804366feab7de23c878e7db069b5294045dd13054c1",
-        "media_fingerprint": "2db73717436f35b3a00939c6ff19428461384d2da33a7a09066e77fa48b71d11",
-        "text": "محتوای خواب‌هام\n😐\n😂\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "محتوای خواب‌هام\n😐\n😂\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162828",
-        "post_id": 162828,
-        "message_id": 6607,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-06T04:45:17.816042+00:00"
-      },
-      {
-        "fingerprint": "2a0fce758567bce1e71e5c92690e4629d4103bbf96a51b501fa49f50364e8746",
-        "media_fingerprint": "eed54f9dde09fd0d1e1f6e255d4c5133bc2e5a04a091dd01740e2c4aa76880ac",
-        "text": "این رفیق‌مون داشته قهوه اش رو میخورده که به‌صورت اتفاقی این فیلم حال خوب کن رو از یه زوج عاشق میگیره:\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "این رفیق‌مون داشته قهوه اش رو میخورده که به‌صورت اتفاقی این فیلم حال خوب کن رو از یه زوج عاشق میگیره:\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162829",
-        "post_id": 162829,
-        "message_id": 6608,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-06T04:45:23.589890+00:00"
-      },
       {
         "fingerprint": "869fd98c02d222cd1ed4ff579b70c0efb0585bb0bce08f389b89276e8cba6545",
         "media_fingerprint": "2f8568ded3930783ea3b1f8a135acd247f09528fed3f68928ffba060c652d658",
@@ -33231,6 +33022,216 @@
           "futball180tv"
         ],
         "created_at": "2026-10-09T12:56:50.463267+00:00"
+      },
+      {
+        "fingerprint": "8e485cb9affa3c8f84f1a9c14095929c2895796bd41247df70b718b3b48d1bf5",
+        "media_fingerprint": "bdeb7c7a1de3837b0ffb9cbf07593111404cf59722d329622053f3988994d399",
+        "text": "‼️\n🔴\nهوادار اصفهانی پرسپولیس: تیم دسته سومی هم پول زیاد بدهد، بیرانوند قبول می کند\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "‼️\n🔴\nهوادار اصفهانی پرسپولیس: تیم دسته سومی هم پول زیاد بدهد، بیرانوند قبول می کند\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/108187",
+        "post_id": 108187,
+        "message_id": 7638,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-09T13:23:37.056741+00:00"
+      },
+      {
+        "fingerprint": "17f8f7c5b47c2afa44be734c463d62c27b56555dc02153f018f2976f6a46ca89",
+        "media_fingerprint": "30024823c58a513cd5592227fc92709f091304870117b37853fea4d072176b21",
+        "text": "تیکه هوادار پرسپولیس به علیرضا بیرانوند: وجه اشتراکی که ما با تراکتوری‌ها داریم اینه که بعد از 3 سال فهمیدیم بیرانوند چه کاره بوده\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "تیکه هوادار پرسپولیس به علیرضا بیرانوند: وجه اشتراکی که ما با تراکتوری‌ها داریم اینه که بعد از 3 سال فهمیدیم بیرانوند چه کاره بوده\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/84542",
+        "post_id": 84542,
+        "message_id": 7639,
+        "message_kind": "caption",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-09T13:23:44.879781+00:00"
+      },
+      {
+        "fingerprint": "e62ba8a90e1161c94f855cb39364dd3faffb76fca7017c445c8be4b568c902fc",
+        "media_fingerprint": "",
+        "text": "🥇\nترکیب صنعت نفت مقابل پرسپولیس\n⏺\nاحمد گوهری، محمد آقاجان‌پور، طالب ریکانی ، خشایار زبرجد، محسن سیفی، میثم تیموری، محمد عباسی، میثم تهی‌دست، میلاد فخرالدینی، محمدحسین فلاح و سامان مهرابی‌زاده\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_username": "total_fut",
+        "original_text": "🥇\nترکیب صنعت نفت مقابل پرسپولیس\n⏺\nاحمد گوهری، محمد آقاجان‌پور، طالب ریکانی ، خشایار زبرجد، محسن سیفی، میثم تیموری، محمد عباسی، میثم تهی‌دست، میلاد فخرالدینی، محمدحسین فلاح و سامان مهرابی‌زاده\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_link": "https://t.me/total_fut/237555",
+        "post_id": 237555,
+        "message_id": 7640,
+        "message_kind": "text",
+        "sources": [
+          "total_fut"
+        ],
+        "created_at": "2026-10-09T13:23:48.121564+00:00"
+      },
+      {
+        "fingerprint": "15b4789b7f4b3bc4860eedbd490a78265c10b42aa3a778f3cee60ef2fd9f1247",
+        "media_fingerprint": "",
+        "text": "🚨\n🔴\nبازیکنان ذخیره پرسپولیس: امیررضا رفیعی، امیرحسین طاهری، پویا اسمی، ابوالفضل جلالی، علی علیپور، پوریا شهرآبادی، امیرحسین محمودی، محمدحسین صادقی، پویا پورعلی، استون اورونوف، یاسین سلمانی\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🚨\n🔴\nبازیکنان ذخیره پرسپولیس: امیررضا رفیعی، امیرحسین طاهری، پویا اسمی، ابوالفضل جلالی، علی علیپور، پوریا شهرآبادی، امیرحسین محمودی، محمدحسین صادقی، پویا پورعلی، استون اورونوف، یاسین سلمانی\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/235032",
+        "post_id": 235032,
+        "message_id": 7641,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-09T13:23:51.319084+00:00"
+      },
+      {
+        "fingerprint": "4de7af63c43fd0875882df27553e17cf32d15b054da61a03fcfe81b402b52079",
+        "media_fingerprint": "9870f7b51303f75102f5329f8624e7fe3bf0a1a454708be30b6d43be260fdec1",
+        "text": "🚨\n🔴\nتخریب سنگین بیرانوند توسط کودک پرسپولیسی\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🚨\n🔴\nتخریب سنگین بیرانوند توسط کودک پرسپولیسی\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/235033",
+        "post_id": 235033,
+        "message_id": 7642,
+        "message_kind": "caption",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-09T13:24:00.173821+00:00"
+      },
+      {
+        "fingerprint": "8c66c4b412883db68449b468eb0228fae17c88724cd44611c01e481197f70051",
+        "media_fingerprint": "e0c5d470afe0b11906bad2ca68642d1b4ab85fff8e9faadc0ec475ab5f558961",
+        "text": "هوادار پرسپولیس: بیرانوند اگه بره استقلال برامون مهم نیست، چون بخاطر پول هرجایی میره\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "هوادار پرسپولیس: بیرانوند اگه بره استقلال برامون مهم نیست، چون بخاطر پول هرجایی میره\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/84544",
+        "post_id": 84544,
+        "message_id": 7643,
+        "message_kind": "caption",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-09T13:24:09.201224+00:00"
+      },
+      {
+        "fingerprint": "de83fe969f09b486eccf1c9ce2e8d0aa495bb3239245fda7e18dabb286708d83",
+        "media_fingerprint": "d452e2cad03cbf12f01a04335ed9e926f298351ce50b4f09ef2be097239b21b5",
+        "text": "♦️\n۳ گروه متخلف شکار و صید در مناطق ممنوعه فراشبند دستگیر شدند\nرئیس اداره حفاظت محیط زیست شهرستان فراشبند:\n🔹\nمأموران یگان حفاظت محیط زیست شهرستان فراشبند در هفته نخست مهرماه، در جریان پایش و کنترل مناطق تحت مدیریت، سه گروه متخلف را که اقدام به شکار و حمل و نگهداری سلاح کرده بودند، شناسایی و دستگیر کردند.\n🔹\nاز این متخلفان یک قبضه سلاح پنج‌تیرپران غیرمجاز، ۲ قبضه سلاح مجاز و سایر ادوات شکار کشف و ضبط شد.\n@Akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\n۳ گروه متخلف شکار و صید در مناطق ممنوعه فراشبند دستگیر شدند\nرئیس اداره حفاظت محیط زیست شهرستان فراشبند:\n🔹\nمأموران یگان حفاظت محیط زیست شهرستان فراشبند در هفته نخست مهرماه، در جریان پایش و کنترل مناطق تحت مدیریت، سه گروه متخلف را که اقدام به شکار و حمل و نگهداری سلاح کرده بودند، شناسایی و دستگیر کردند.\n🔹\nاز این متخلفان یک قبضه سلاح پنج‌تیرپران غیرمجاز، ۲ قبضه سلاح مجاز و سایر ادوات شکار کشف و ضبط شد.\n@Akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143364",
+        "post_id": 143364,
+        "message_id": 7644,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-09T13:24:14.959242+00:00"
+      },
+      {
+        "fingerprint": "632e003876697ba2fb730cfaf8a5427a77bc5d121bc8c1aa16fafa521b158ad8",
+        "media_fingerprint": "782768edcf43bc84871599bd68a95906b44d7e80f70d3af7be6526902ceb49e8",
+        "text": "یک صبح معمولی در پرو\nخیابان‌های اولانتایتامبو با صدای بوق‌ها و حضور دسته ای از لاماها، زنده شده است. این یک روش بسیار به‌یادماندنی برای شروع روز است.⁠\n⁠\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "یک صبح معمولی در پرو\nخیابان‌های اولانتایتامبو با صدای بوق‌ها و حضور دسته ای از لاماها، زنده شده است. این یک روش بسیار به‌یادماندنی برای شروع روز است.⁠\n⁠\n@irWonders",
+        "original_link": "https://t.me/irwonders/58510",
+        "post_id": 58510,
+        "message_id": 7645,
+        "message_kind": "text",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-09T13:24:19.515374+00:00"
+      },
+      {
+        "fingerprint": "8f81e181e999a3879a839d62741b8e4d0458f0f9347e3c1b63fc1f4caef12ab3",
+        "media_fingerprint": "6a7493672b70dc479a8f0b2d48c32e6c18b2ac3f197fd7cdbf28598aedd7631a",
+        "text": "🔴\nبانوی پرسپولیسی: به خاطر پدرم استقلالی بودم اما زود متوجه بزرگی‌ پرسپولیس شدم!\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "🔴\nبانوی پرسپولیسی: به خاطر پدرم استقلالی بودم اما زود متوجه بزرگی‌ پرسپولیس شدم!\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/108189",
+        "post_id": 108189,
+        "message_id": 7646,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-09T13:24:27.842002+00:00"
+      },
+      {
+        "fingerprint": "f076b596638c0543e0a6535d4679e37dcd7fb28199b9122f43b20fa226c297bc",
+        "media_fingerprint": "",
+        "text": "«آمدم بیرانوند را با خودم به سربازی ببرم»\n🎙\nبخش دوم گفت‌و‌گو با هواداران پرسپولیس  @Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "«آمدم بیرانوند را با خودم به سربازی ببرم»\n🎙\nبخش دوم گفت‌و‌گو با هواداران پرسپولیس  @Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/109448",
+        "post_id": 109448,
+        "message_id": 7647,
+        "message_kind": "text",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-09T13:24:30.931986+00:00"
+      },
+      {
+        "fingerprint": "803128e33f67ab846b26cc959f57ceba4f6766c9259ef20c68341a8f41c49b4e",
+        "media_fingerprint": "a1b32c702e52493bedb77e89a86493cc017ea18eaf6ffb2d46aaab3a801e61ba",
+        "text": "کنایه جالب طرفدار اصفهانی تیم پرسپولیس به بیرانوند: تیم دسته سومی هم پول زیاد بدهد، بیرانوند قبول می کند\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "کنایه جالب طرفدار اصفهانی تیم پرسپولیس به بیرانوند: تیم دسته سومی هم پول زیاد بدهد، بیرانوند قبول می کند\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/84545",
+        "post_id": 84545,
+        "message_id": 7648,
+        "message_kind": "caption",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-09T13:24:38.590398+00:00"
+      },
+      {
+        "fingerprint": "0e12f968aebc7904bdf8a787c92930a13858178eb238a8899338da35ac114265",
+        "media_fingerprint": "ca919a441354d5147881e60f11a2083aca9c5fdcbe2becf137c70fd23b394a43",
+        "text": "نهم اکتبر روز آدم‌هایی که لبخند می‌زنن اما حالشون خوب نیست!\n◽️\nامروز بهانه‌ایه برای اینکه بیشتر حواسمون به حال همدیگه باشه. گاهی پشت یه سکوت طولانی یا یه لبخند ساده، غمی پنهان شده که هیچ‌کس ازش خبر نداره.\n❤️‍🩹\n◽️\nگاهی فقط شنیده شدن و درک شدن، می‌تونه حال یه آدم رو کمی بهتر کنه.\n+ نهم اکتبر روز جهانی افسردگی\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "نهم اکتبر روز آدم‌هایی که لبخند می‌زنن اما حالشون خوب نیست!\n◽️\nامروز بهانه‌ایه برای اینکه بیشتر حواسمون به حال همدیگه باشه. گاهی پشت یه سکوت طولانی یا یه لبخند ساده، غمی پنهان شده که هیچ‌کس ازش خبر نداره.\n❤️‍🩹\n◽️\nگاهی فقط شنیده شدن و درک شدن، می‌تونه حال یه آدم رو کمی بهتر کنه.\n+ نهم اکتبر روز جهانی افسردگی\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38679",
+        "post_id": 38679,
+        "message_id": 7649,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-09T13:24:43.927951+00:00"
+      },
+      {
+        "fingerprint": "96deb38c486fca98bc170ba0ac968e36a23452454bf7e3a81260e19a16eb35ab",
+        "media_fingerprint": "4e41243f82e8373c5a2ebb17b32fdd8ac6220b551403b4d933a82f9e4af76f2f",
+        "text": "✅\nبگذار خودش راه‌حل پیدا کند\n🌟\nاگر کودک هنگام ساخت پازل یا بازی با مشکل روبه‌رو شد، بلافاصله پاسخ را نگویید. کمی فرصت فکر کردن به او بدهید. این کار مهارت حل مسئله و اعتمادبه‌نفس را تقویت می‌کند.\n🌐\nwww.healthychildren.org\n#مادر_و_کودک\n#حل_مسئله\n🖥\n@Dr_SalamatX",
+        "original_username": "dr_salamatx",
+        "original_text": "✅\nبگذار خودش راه‌حل پیدا کند\n🌟\nاگر کودک هنگام ساخت پازل یا بازی با مشکل روبه‌رو شد، بلافاصله پاسخ را نگویید. کمی فرصت فکر کردن به او بدهید. این کار مهارت حل مسئله و اعتمادبه‌نفس را تقویت می‌کند.\n🌐\nwww.healthychildren.org\n#مادر_و_کودک\n#حل_مسئله\n🖥\n@Dr_SalamatX",
+        "original_link": "https://t.me/Dr_SalamatX/55373",
+        "post_id": 55373,
+        "message_id": 7650,
+        "message_kind": "caption",
+        "sources": [
+          "dr_salamatx"
+        ],
+        "created_at": "2026-10-09T13:24:49.186177+00:00"
+      },
+      {
+        "fingerprint": "6929e90ce9a8117327dcaeacdebf45cdf1acaf319d8c2f086cf46665ac958e70",
+        "media_fingerprint": "2548112fd0b442b6dee612363009d54f41355aaed69b150bae537b493c34d008",
+        "text": "🏅\nحضور دو مدافع مصدوم پرسپولیس در ورزشگاه شهدای شهرقدس\n⏺\nمحمدحسین کنعانی‌زادگان و دانیال ایری در محل برگزاری دیدار سرخ‌پوشان مقابل صنعت نفت آبادان حضور پیدا کردند.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_username": "total_fut",
+        "original_text": "🏅\nحضور دو مدافع مصدوم پرسپولیس در ورزشگاه شهدای شهرقدس\n⏺\nمحمدحسین کنعانی‌زادگان و دانیال ایری در محل برگزاری دیدار سرخ‌پوشان مقابل صنعت نفت آبادان حضور پیدا کردند.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_link": "https://t.me/total_fut/237556",
+        "post_id": 237556,
+        "message_id": 7651,
+        "message_kind": "caption",
+        "sources": [
+          "total_fut"
+        ],
+        "created_at": "2026-10-09T13:24:55.898076+00:00"
       }
     ]
   }
