@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143370,
+      "last_id": 143372,
       "processed_ids": [
-        142269,
-        142270,
         142271,
         142272,
         142273,
@@ -1002,17 +1000,15 @@
         143367,
         143368,
         143369,
-        143370
+        143370,
+        143371,
+        143372
       ],
-      "sent_count": 804
+      "sent_count": 806
     },
     "total_fut": {
-      "last_id": 237567,
+      "last_id": 237571,
       "processed_ids": [
-        236517,
-        236518,
-        236519,
-        236520,
         236521,
         236522,
         236523,
@@ -2008,24 +2004,17 @@
         237564,
         237565,
         237566,
-        237567
+        237567,
+        237568,
+        237569,
+        237570,
+        237571
       ],
-      "sent_count": 100
+      "sent_count": 101
     },
     "footballvision2": {
-      "last_id": 170860,
+      "last_id": 170872,
       "processed_ids": [
-        169764,
-        169765,
-        169766,
-        169767,
-        169768,
-        169769,
-        169770,
-        169771,
-        169772,
-        169773,
-        169774,
         169775,
         169776,
         169777,
@@ -3014,9 +3003,20 @@
         170857,
         170858,
         170859,
-        170860
+        170860,
+        170861,
+        170862,
+        170863,
+        170865,
+        170866,
+        170867,
+        170868,
+        170869,
+        170870,
+        170871,
+        170872
       ],
-      "sent_count": 104
+      "sent_count": 108
     },
     "tg_ir": {
       "last_id": 2305,
@@ -3269,7 +3269,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67507,
+      "last_id": 67510,
       "processed_ids": [
         66561,
         66565,
@@ -4023,9 +4023,10 @@
         67504,
         67505,
         67506,
-        67507
+        67507,
+        67510
       ],
-      "sent_count": 430
+      "sent_count": 431
     },
     "techtube": {
       "last_id": 18475,
@@ -8848,12 +8849,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109459,
+      "last_id": 109463,
       "processed_ids": [
-        108383,
-        108384,
-        108385,
-        108386,
         108387,
         108388,
         108389,
@@ -9849,17 +9846,17 @@
         109456,
         109457,
         109458,
-        109459
+        109459,
+        109460,
+        109461,
+        109462,
+        109463
       ],
-      "sent_count": 94
+      "sent_count": 95
     },
     "varzesh3": {
-      "last_id": 303690,
+      "last_id": 303694,
       "processed_ids": [
-        302595,
-        302596,
-        302597,
-        302598,
         302599,
         302600,
         302601,
@@ -10855,12 +10852,16 @@
         303686,
         303687,
         303689,
-        303690
+        303690,
+        303691,
+        303692,
+        303693,
+        303694
       ],
-      "sent_count": 71
+      "sent_count": 73
     },
     "totalfut_plus": {
-      "last_id": 26612,
+      "last_id": 26614,
       "processed_ids": [
         25870,
         25871,
@@ -11580,18 +11581,15 @@
         26609,
         26610,
         26611,
-        26612
+        26612,
+        26613,
+        26614
       ],
-      "sent_count": 43
+      "sent_count": 44
     },
     "adak_ir_official": {
-      "last_id": 235049,
+      "last_id": 235054,
       "processed_ids": [
-        234022,
-        234023,
-        234024,
-        234025,
-        234026,
         234027,
         234028,
         234029,
@@ -12586,15 +12584,18 @@
         235046,
         235047,
         235048,
-        235049
+        235049,
+        235050,
+        235051,
+        235052,
+        235053,
+        235054
       ],
-      "sent_count": 155
+      "sent_count": 157
     },
     "futball180tv": {
-      "last_id": 108198,
+      "last_id": 108200,
       "processed_ids": [
-        107180,
-        107181,
         107182,
         107183,
         107184,
@@ -13592,15 +13593,15 @@
         108195,
         108196,
         108197,
-        108198
+        108198,
+        108199,
+        108200
       ],
       "sent_count": 64
     },
     "hattric_official": {
-      "last_id": 84562,
+      "last_id": 84564,
       "processed_ids": [
-        83511,
-        83512,
         83513,
         83514,
         83515,
@@ -14598,12 +14599,14 @@
         84559,
         84560,
         84561,
-        84562
+        84562,
+        84563,
+        84564
       ],
-      "sent_count": 92
+      "sent_count": 93
     },
     "mazdak_hattrick": {
-      "last_id": 182462,
+      "last_id": 182465,
       "processed_ids": [
         181991,
         181992,
@@ -15067,7 +15070,10 @@
         182459,
         182460,
         182461,
-        182462
+        182462,
+        182463,
+        182464,
+        182465
       ],
       "sent_count": 41
     },
@@ -15207,7 +15213,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58515,
+      "last_id": 58516,
       "processed_ids": [
         58030,
         58031,
@@ -15644,7 +15650,8 @@
         58512,
         58513,
         58514,
-        58515
+        58515,
+        58516
       ],
       "sent_count": 279
     },
@@ -18189,231 +18196,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "22357b5706323d68c966b1fce9bbaf899a9bc98b47d4750ff00e1bc10b41d7f3",
-        "media_fingerprint": "aa71e69b804ae43719d7008e8f05524886dd477c93ecc8fcc73924b2fe80e249",
-        "text": "بوتاکس بود نمیدونستیم\n😂\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "بوتاکس بود نمیدونستیم\n😂\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/2909",
-        "post_id": 2909,
-        "message_id": 6693,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-06T10:20:24.737508+00:00"
-      },
-      {
-        "fingerprint": "cab0e543902b64e8822abeb81cdf2b585d84ffdd39e585e4c9be70b46a3b5856",
-        "media_fingerprint": "37e0269bd86779d07cee82d32a3a481c262881f3494904b3073bf0f66ec42eac",
-        "text": "اعداد ژاپنی بدون سانسور...\nعدد نمیگن ک فحش میدن\n😂\n😂\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "اعداد ژاپنی بدون سانسور...\nعدد نمیگن ک فحش میدن\n😂\n😂\n@irWonders",
-        "original_link": "https://t.me/irwonders/58374",
-        "post_id": 58374,
-        "message_id": 6694,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-06T10:20:30.587260+00:00"
-      },
-      {
-        "fingerprint": "4acbcf5ffc1d8629d1af5c4ba7801645ed67a9318c0dfd5f5fc5143f520c4ba7",
-        "media_fingerprint": "",
-        "text": "♦️\nسخنگوی قوه قضاییه: ۷۱ پرونده در خصوص تراستی‌ها تشکیل شده و ۲۶ همت از وجوه دریافت شده و استرداد مجرمان با همکاری پلیس بین‌الملل در حال پیگیری است\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nسخنگوی قوه قضاییه: ۷۱ پرونده در خصوص تراستی‌ها تشکیل شده و ۲۶ همت از وجوه دریافت شده و استرداد مجرمان با همکاری پلیس بین‌الملل در حال پیگیری است\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143148",
-        "post_id": 143148,
-        "message_id": 6695,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-06T10:50:02.009290+00:00"
-      },
-      {
-        "fingerprint": "bfce53d1f9b30e4c3feb89af253ec2c3b32dea5b86b3e7a54a1f5be1d77292d7",
-        "media_fingerprint": "22a616235208c4cf40300e87e8a0125702be4e83c3b6a70e5be3b534cf3bb9bc",
-        "text": "🔴\nبالاخره سریال گنگستری که منتظرش بودین منتشر شد؛  فصل دوم سریال «Mobland» با تموم کیفیت‌ها همراه با زیرنویس چسبیده و کاملا بدون سانسور\n🔞\n🔰\nژانر:جنایی | درام\n⭐️\nامتیاز (IMDB) : ‏8.3 از 10\n🎥\nمحصول: آمریکا\n📆\nسال تولید: 2026  دانلود نسخه زیرنویس چسبیده:  قسمت اول:…",
-        "original_username": "shakhmovie",
-        "original_text": "🔴\nبالاخره سریال گنگستری که منتظرش بودین منتشر شد؛  فصل دوم سریال «Mobland» با تموم کیفیت‌ها همراه با زیرنویس چسبیده و کاملا بدون سانسور\n🔞\n🔰\nژانر:جنایی | درام\n⭐️\nامتیاز (IMDB) : ‏8.3 از 10\n🎥\nمحصول: آمریکا\n📆\nسال تولید: 2026  دانلود نسخه زیرنویس چسبیده:  قسمت اول:…",
-        "original_link": "https://t.me/Shakhmovie/4072",
-        "post_id": 4072,
-        "message_id": 6696,
-        "message_kind": "caption",
-        "sources": [
-          "shakhmovie"
-        ],
-        "created_at": "2026-10-06T10:50:06.978894+00:00"
-      },
-      {
-        "fingerprint": "34074bc8606a50e73098c960dc5190dac835b351907c22bf9c172f5550c301ef",
-        "media_fingerprint": "d8ec7cb4bc95e98f278b5d41bca91771939fdacceb9f359670b83e0495face59",
-        "text": "‼️\n🇮🇷\n🇮🇷\nفتح‌الله‌زاده: از استقلال که بیرون آمدم برای مدیریت پرسپولیس هم پیشنهاد داشتم/ تاجرنیا نه مدیرعامل میشه نه میذاره کس دیگه‌ای بیاد\n⚽️\n@Futball180TV",
-        "original_username": "futball180tv",
-        "original_text": "‼️\n🇮🇷\n🇮🇷\nفتح‌الله‌زاده: از استقلال که بیرون آمدم برای مدیریت پرسپولیس هم پیشنهاد داشتم/ تاجرنیا نه مدیرعامل میشه نه میذاره کس دیگه‌ای بیاد\n⚽️\n@Futball180TV",
-        "original_link": "https://t.me/Futball180TV/107918",
-        "post_id": 107918,
-        "message_id": 6697,
-        "message_kind": "caption",
-        "sources": [
-          "futball180tv"
-        ],
-        "created_at": "2026-10-06T10:50:14.455623+00:00"
-      },
-      {
-        "fingerprint": "1391e3bfa37550688ec077bf6e3cb63916193dbf928c851e07c361494d7b54b8",
-        "media_fingerprint": "2c9bf4af23339f4b94c78d0a522d61a604ed9ee4080cbb827c7bd8f3613b1029",
-        "text": "خواستم بگم اون ماسک سه لایه‌ها و ماسک N95 برای طاعون جواب نمیده باید از این ماسکا استفاده کنیم\nبریم بخریم انبار کنیم\nطاعون ریوی (آزمایشگاهی) که در روسیه هست ۱۰۰ برابر از کرونا کشنده تره\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "خواستم بگم اون ماسک سه لایه‌ها و ماسک N95 برای طاعون جواب نمیده باید از این ماسکا استفاده کنیم\nبریم بخریم انبار کنیم\nطاعون ریوی (آزمایشگاهی) که در روسیه هست ۱۰۰ برابر از کرونا کشنده تره\n@irWonders",
-        "original_link": "https://t.me/irwonders/58376",
-        "post_id": 58376,
-        "message_id": 6698,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-06T10:50:20.009741+00:00"
-      },
-      {
-        "fingerprint": "f9cc22f5804508e9c84d1178b08fa6908b51501149588516186e96c8f03343e2",
-        "media_fingerprint": "785340219709ffd2cb28223d798e59c38448a46ac003c6be7646695992406edc",
-        "text": "پلن تاچ و ماچه.\n@comentiat",
-        "original_username": "comentiat",
-        "original_text": "پلن تاچ و ماچه.\n@comentiat",
-        "original_link": "https://t.me/Comentiat/26338",
-        "post_id": 26338,
-        "message_id": 6699,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-06T10:50:24.037521+00:00"
-      },
-      {
-        "fingerprint": "9d012cc558d809e17977ad7283e1d4b7d23af1ca2dff97d23e32887f31b58c38",
-        "media_fingerprint": "7112c420489a327a54dd0e1ff653c06e511099b335ad84627e06df75a8db61b7",
-        "text": "🔻\nجدیدا روی بسته بندی مرغها رتبه بندی میزنند\n🔹\nتفاوت مرغ  A و A پلاس و B چیست!\n؟\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "🔻\nجدیدا روی بسته بندی مرغها رتبه بندی میزنند\n🔹\nتفاوت مرغ  A و A پلاس و B چیست!\n؟\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159558",
-        "post_id": 159558,
-        "message_id": 6700,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-06T10:50:32.355868+00:00"
-      },
-      {
-        "fingerprint": "0092f2bb705397d2e63e7fa716213152ab0a90c473b368fb6fc6ef2089e16cbf",
-        "media_fingerprint": "8c08f488d61e8eecaad68421515c5faa8301c03811bc8f9c9e30715b90e8e8c6",
-        "text": "✅\n‏\nاعلام شرایط فروش مارس  همراه با افزایش قیمت در سایت اتونوین توسط آرشام موتور - مهر ماه 1405\n#اتونوین\n#مارس",
-        "original_username": "sabtnamkh0dro",
-        "original_text": "✅\n‏\nاعلام شرایط فروش مارس  همراه با افزایش قیمت در سایت اتونوین توسط آرشام موتور - مهر ماه 1405\n#اتونوین\n#مارس",
-        "original_link": "https://t.me/sabtnamkh0dro/14342",
-        "post_id": 14342,
-        "message_id": 6701,
-        "message_kind": "caption",
-        "sources": [
-          "sabtnamkh0dro"
-        ],
-        "created_at": "2026-10-06T10:50:39.515751+00:00"
-      },
-      {
-        "fingerprint": "4d3c8a4816e7dc13c4cbd14e3fee748a1280113a0f8e57923b7e78bda488a6a7",
-        "media_fingerprint": "373f64721ed353844cda5823cbd51129bf174ff597ad6b0e4b808eecc7e77424",
-        "text": "انتشار نخستین تصاویر از شهر شلخوف در سیبری\n◽️\nنخستین ویدئوهای منتشرشده از شهر شلخوف در سیبری، افرادی را در سطح شهر با لباس‌های محافظ سفید نشان می‌دهد. هم‌زمان، گزارش‌هایی درباره قرنطینه شدن بیمارستان شهر و کمبود برخی آنتی‌بیوتیک‌ها در داروخانه‌ها منتشر شده…",
-        "original_username": "majalepezeshki",
-        "original_text": "انتشار نخستین تصاویر از شهر شلخوف در سیبری\n◽️\nنخستین ویدئوهای منتشرشده از شهر شلخوف در سیبری، افرادی را در سطح شهر با لباس‌های محافظ سفید نشان می‌دهد. هم‌زمان، گزارش‌هایی درباره قرنطینه شدن بیمارستان شهر و کمبود برخی آنتی‌بیوتیک‌ها در داروخانه‌ها منتشر شده…",
-        "original_link": "https://t.me/MajalePezeshki/38636",
-        "post_id": 38636,
-        "message_id": 6703,
-        "message_kind": "caption",
-        "sources": [
-          "majalepezeshki"
-        ],
-        "created_at": "2026-10-06T10:50:46.348064+00:00"
-      },
-      {
-        "fingerprint": "f6888a22c98b62cbcaf05ebf2e22339f2f18c4fde764bc3ec6eaefa37d2ee946",
-        "media_fingerprint": "",
-        "text": "ماجرای طرح هدیه ماهانه ۳.۵ تا ۴ میلیون تومان به نوزادان متولد ۱۴۰۵ تهرانی چیست؟\nزاکانی، شهردار تهران:\n🔹\nاعتبار خرید، خدمات فرهنگی و سلامت و بهداشت به نوزادان متولد ۱۴۰۵ تهرانی تحت عنوان طرح «چشم‌روشنی» اختصاص داده‌شده‌است.\n🔹\nاعتبار پایه این طرح ماهانه ۳ میلیون و ۵۰۰ هزار تومان است که در حساب شهرزاد مادران شارژ می‌شود. از این اعتبار، ۲ میلیون و ۵۰۰ هزار تومان برای خرید کالاها و اقلام ضروری، ۵۰۰ هزار تومان برای خدمات فرهنگی و ۵۰۰ هزار تومان برای خدمات سلامت و درمان اختصاص دارد. برای مادران متعلق به سه دهک پایین درآمدی، ۵۰۰ هزار تومان اعتبار اضافه در نظر گرفته شده و مجموع اعتبار ماهانه آنان به ۴ میلیون تومان می‌رسد.\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "ماجرای طرح هدیه ماهانه ۳.۵ تا ۴ میلیون تومان به نوزادان متولد ۱۴۰۵ تهرانی چیست؟\nزاکانی، شهردار تهران:\n🔹\nاعتبار خرید، خدمات فرهنگی و سلامت و بهداشت به نوزادان متولد ۱۴۰۵ تهرانی تحت عنوان طرح «چشم‌روشنی» اختصاص داده‌شده‌است.\n🔹\nاعتبار پایه این طرح ماهانه ۳ میلیون و ۵۰۰ هزار تومان است که در حساب شهرزاد مادران شارژ می‌شود. از این اعتبار، ۲ میلیون و ۵۰۰ هزار تومان برای خرید کالاها و اقلام ضروری، ۵۰۰ هزار تومان برای خدمات فرهنگی و ۵۰۰ هزار تومان برای خدمات سلامت و درمان اختصاص دارد. برای مادران متعلق به سه دهک پایین درآمدی، ۵۰۰ هزار تومان اعتبار اضافه در نظر گرفته شده و مجموع اعتبار ماهانه آنان به ۴ میلیون تومان می‌رسد.\n@irWonders",
-        "original_link": "https://t.me/irwonders/58377",
-        "post_id": 58377,
-        "message_id": 6704,
-        "message_kind": "text",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-06T11:19:07.894630+00:00"
-      },
-      {
-        "fingerprint": "61e7e2f5c1c336d9e931489c51ad791fa9884aeb194a109adef69c70856c9974",
-        "media_fingerprint": "4de61068ba0fb3d18b11994b4ea47d2803dbb8be32ececbb5a369679d7d8c59a",
-        "text": "مگه میشه؟\nمینی ماینر\n😍\n😍\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "مگه میشه؟\nمینی ماینر\n😍\n😍\n@irWonders",
-        "original_link": "https://t.me/irwonders/58378",
-        "post_id": 58378,
-        "message_id": 6705,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-06T11:19:14.769856+00:00"
-      },
-      {
-        "fingerprint": "21485bdeec125c0e589de2efa354912c26ad05d6ea0988643939fa224102d63c",
-        "media_fingerprint": "6e71f2fcbadff1a0e17b7ef0c9d0c981ba1ab40cd1fe6941306a180030e7ad7b",
-        "text": "🔴\n👤\nمدیربرنامه‌ های رضا غندی‌پور درروزهای اخیر به مدیریت باشگاه پرسپولیس اعلام‌کرده درصورت‌گرفتن رضایت نامه از باشگاه شباب الاهلی؛ رضا غندی پور آماده است که در نیم فصل باقراردادی پنج‌ساله به پرسپولیس بپیوندد.\n🆔\n@mazdak_hattrick",
-        "original_username": "mazdak_hattrick",
-        "original_text": "🔴\n👤\nمدیربرنامه‌ های رضا غندی‌پور درروزهای اخیر به مدیریت باشگاه پرسپولیس اعلام‌کرده درصورت‌گرفتن رضایت نامه از باشگاه شباب الاهلی؛ رضا غندی پور آماده است که در نیم فصل باقراردادی پنج‌ساله به پرسپولیس بپیوندد.\n🆔\n@mazdak_hattrick",
-        "original_link": "https://t.me/mazdak_hattrick/182376",
-        "post_id": 182376,
-        "message_id": 6706,
-        "message_kind": "caption",
-        "sources": [
-          "mazdak_hattrick"
-        ],
-        "created_at": "2026-10-06T11:19:19.890750+00:00"
-      },
-      {
-        "fingerprint": "2418cc9b2d7efc986f5de1971ca76fe50b36fad5d6699cf95d9be2377bdb8f84",
-        "media_fingerprint": "",
-        "text": "♦️\nمعامله‌ای از جنس عشق؛ وقتی درد، به بذرِ امید تبدیل می‌شود\n🔹\nداستان زندگی «بانو صفوی سروستانی»، داستانی است که از دلِ رنج‌های بزرگ، به شکوفه‌های مهربانی ختم شد. او که در ۶ ماهگی سایه پدر را از دست داد و در جوانی، همسر و فرزندش را به تیغِ بی‌رحمِ سرطان سپرد، به‌جای تسلیم شدن در برابر تقدیر، راهِ بخشش را انتخاب کرد.\n🔹\nاو حالا خانه‌اش را نه فقط یک ملک، که پناهگاهی برای بیماران سرطانی می‌بیند. بانو صفوی می‌گوید: «با خدا معامله کردم.» و حالا از مسئولین خواسته است تا با یاری او، این خانه را به مرکزِ ارائه‌ی خدمات پزشکی رایگان برای بیماران تبدیل کنند.\n🔹\nاین بانو، مصداقِ واقعیِ تبدیلِ زخم به مرهم است.\n🕊️\n✨\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nمعامله‌ای از جنس عشق؛ وقتی درد، به بذرِ امید تبدیل می‌شود\n🔹\nداستان زندگی «بانو صفوی سروستانی»، داستانی است که از دلِ رنج‌های بزرگ، به شکوفه‌های مهربانی ختم شد. او که در ۶ ماهگی سایه پدر را از دست داد و در جوانی، همسر و فرزندش را به تیغِ بی‌رحمِ سرطان سپرد، به‌جای تسلیم شدن در برابر تقدیر، راهِ بخشش را انتخاب کرد.\n🔹\nاو حالا خانه‌اش را نه فقط یک ملک، که پناهگاهی برای بیماران سرطانی می‌بیند. بانو صفوی می‌گوید: «با خدا معامله کردم.» و حالا از مسئولین خواسته است تا با یاری او، این خانه را به مرکزِ ارائه‌ی خدمات پزشکی رایگان برای بیماران تبدیل کنند.\n🔹\nاین بانو، مصداقِ واقعیِ تبدیلِ زخم به مرهم است.\n🕊️\n✨\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143150",
-        "post_id": 143150,
-        "message_id": 6707,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-06T11:19:23.512903+00:00"
-      },
-      {
-        "fingerprint": "47fb95a7ef158c44d8f349da74d565189c87930536144cdbffe817f982b1a54f",
-        "media_fingerprint": "",
-        "text": "‼️\n🎙\n🇮🇷\nرضایی، سرمربی شمس‌آذر: زمانی که به قزوین آمدم، خیلی‌ها می‌گفتند میلاد سورگی در حد لیگ برتر نیست، اما با تلاش خودش و مجموعه تیم حالا به تیم ملی بزرگسالان دعوت شده است.\n🔴\nاو درباره مسیر مربیگری‌اش هم گفت که کارش را از سوپرلیگ استان آغاز کرده و بدون کوتاه آمدن یا باج دادن، قدم‌به‌قدم به لیگ یک و سپس لیگ برتر رسیده است.\n⚽️\n@Hattric_Official",
-        "original_username": "hattric_official",
-        "original_text": "‼️\n🎙\n🇮🇷\nرضایی، سرمربی شمس‌آذر: زمانی که به قزوین آمدم، خیلی‌ها می‌گفتند میلاد سورگی در حد لیگ برتر نیست، اما با تلاش خودش و مجموعه تیم حالا به تیم ملی بزرگسالان دعوت شده است.\n🔴\nاو درباره مسیر مربیگری‌اش هم گفت که کارش را از سوپرلیگ استان آغاز کرده و بدون کوتاه آمدن یا باج دادن، قدم‌به‌قدم به لیگ یک و سپس لیگ برتر رسیده است.\n⚽️\n@Hattric_Official",
-        "original_link": "https://t.me/Hattric_Official/84322",
-        "post_id": 84322,
-        "message_id": 6708,
-        "message_kind": "text",
-        "sources": [
-          "hattric_official"
-        ],
-        "created_at": "2026-10-06T11:19:26.843924+00:00"
-      },
       {
         "fingerprint": "5ff8dfb0cb2034ba490e879320f7252ce2389d24056b624586450ebfe0ad1d34",
         "media_fingerprint": "",
@@ -31294,7 +31076,8 @@
         "message_id": 7600,
         "message_kind": "caption",
         "sources": [
-          "ajayebe_jahann"
+          "ajayebe_jahann",
+          "irwonders"
         ],
         "created_at": "2026-10-09T11:48:52.355666+00:00"
       },
@@ -33200,7 +32983,8 @@
         "message_id": 7728,
         "message_kind": "caption",
         "sources": [
-          "footballvision2"
+          "footballvision2",
+          "futball180tv"
         ],
         "created_at": "2026-10-09T14:54:04.254819+00:00"
       },
@@ -33263,6 +33047,232 @@
           "akhbar_cafenet"
         ],
         "created_at": "2026-10-09T14:54:27.436613+00:00"
+      },
+      {
+        "fingerprint": "7912ba437b7dbc6cea26d7b7798e2282141162cec81806d1201ad0a3f4bf8def",
+        "media_fingerprint": "ee09116fae7f65375c4088b5a73c6502780a4c220acd39b70c5dc35048f42dd8",
+        "text": "♦️\nاین قطعات خودرو رو دیر عوض نکن!\n🔹\nبرخی از قطعات خودرو پس از یک زمان مشخص باید تعویض شوند و اگر این کار انجام نشود صدمات جبران‌ ناپذیر به شما و خودروی شما وارد میکنند.\n#مکانیک_شو\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nاین قطعات خودرو رو دیر عوض نکن!\n🔹\nبرخی از قطعات خودرو پس از یک زمان مشخص باید تعویض شوند و اگر این کار انجام نشود صدمات جبران‌ ناپذیر به شما و خودروی شما وارد میکنند.\n#مکانیک_شو\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143371",
+        "post_id": 143371,
+        "message_id": 7733,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-09T15:20:01.732184+00:00"
+      },
+      {
+        "fingerprint": "8e31fe439e1decdf13292bf7e53d0fd6319c743cd81fd2a39187d1c4895e1796",
+        "media_fingerprint": "",
+        "text": "بیفوما دوپینگ موپینگ نکرده؟\nاین فصل قبل زمینو کود میداد",
+        "original_username": "footballvision2",
+        "original_text": "بیفوما دوپینگ موپینگ نکرده؟\nاین فصل قبل زمینو کود میداد",
+        "original_link": "https://t.me/footballvision2/170861",
+        "post_id": 170861,
+        "message_id": 7734,
+        "message_kind": "text",
+        "sources": [
+          "footballvision2"
+        ],
+        "created_at": "2026-10-09T15:20:04.870030+00:00"
+      },
+      {
+        "fingerprint": "f0033b36d58765bf80ac3cdd928952f15c2ed5c56ce673fb63acaf4c03fd3fe1",
+        "media_fingerprint": "",
+        "text": "🎖️\n🏅\nگل دوم پرسپولیس رو علی علیپور به ثمر رسوند!\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
+        "original_username": "totalfut_plus",
+        "original_text": "🎖️\n🏅\nگل دوم پرسپولیس رو علی علیپور به ثمر رسوند!\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
+        "original_link": "https://t.me/totalfut_plus/26613",
+        "post_id": 26613,
+        "message_id": 7735,
+        "message_kind": "text",
+        "sources": [
+          "totalfut_plus"
+        ],
+        "created_at": "2026-10-09T15:20:07.628491+00:00"
+      },
+      {
+        "fingerprint": "a55396197f0ea8c257dd0381704006f38816415d8ab4edfbf26a68eac565d48f",
+        "media_fingerprint": "",
+        "text": "تارتار چرا نیمه دوم تک مهاجمه کرد؟",
+        "original_username": "footballvision2",
+        "original_text": "تارتار چرا نیمه دوم تک مهاجمه کرد؟",
+        "original_link": "https://t.me/footballvision2/170862",
+        "post_id": 170862,
+        "message_id": 7736,
+        "message_kind": "text",
+        "sources": [
+          "footballvision2"
+        ],
+        "created_at": "2026-10-09T15:20:10.274361+00:00"
+      },
+      {
+        "fingerprint": "e351577362e2ab85d376455978de3e77c269eff3bd70cbbb048bb48c077380a6",
+        "media_fingerprint": "5581bf3dd7ac3b69b081c23a9d733cd81b666b804f2bcfaa5663667263051d0f",
+        "text": "گل اول تیم صنعت نفت به پرسپولیس\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "گل اول تیم صنعت نفت به پرسپولیس\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/84563",
+        "post_id": 84563,
+        "message_id": 7737,
+        "message_kind": "caption",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-09T15:20:17.627763+00:00"
+      },
+      {
+        "fingerprint": "827c7d43ff3b91523f64aace89b60a86a5e08efc7a430fa49f85929eb511a280",
+        "media_fingerprint": "49c85934534e8464ba3af7d64b203198b27bf61174701d8eaf6feb890a53d09b",
+        "text": "🔴\n🟡\nگل اول صنعت نفت به پرسپولیس\n🔘\n@Navadnewstelegram",
+        "original_username": "footballvision2",
+        "original_text": "🔴\n🟡\nگل اول صنعت نفت به پرسپولیس\n🔘\n@Navadnewstelegram",
+        "original_link": "https://t.me/footballvision2/170866",
+        "post_id": 170866,
+        "message_id": 7738,
+        "message_kind": "caption",
+        "sources": [
+          "footballvision2"
+        ],
+        "created_at": "2026-10-09T15:20:24.941089+00:00"
+      },
+      {
+        "fingerprint": "2daa26311d6e5683091a9a60fda511f67b41dd0bfc959c83a4250cd40cdaa74d",
+        "media_fingerprint": "9e29accc91d4bfacbd416921c3ffa8233dbea89e478d7b177da01afda891521b",
+        "text": "🥇\nگل اول نفت آبادان به پرسپولیس توسط محمد حسین باصری در دقیقه 65\nپرسپولیس 2- نفت آبادان 1\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_username": "total_fut",
+        "original_text": "🥇\nگل اول نفت آبادان به پرسپولیس توسط محمد حسین باصری در دقیقه 65\nپرسپولیس 2- نفت آبادان 1\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_link": "https://t.me/total_fut/237570",
+        "post_id": 237570,
+        "message_id": 7739,
+        "message_kind": "caption",
+        "sources": [
+          "total_fut"
+        ],
+        "created_at": "2026-10-09T15:20:33.414309+00:00"
+      },
+      {
+        "fingerprint": "5b4c0b8c1bb5788e3b52a4d34f6c562a5f28b4045bda370f812ab57021e0c85a",
+        "media_fingerprint": "d081f509abeed9fb3ad127f15e35caf32c1e724a643b98f249ba02216d0d7a7a",
+        "text": "🟥\n🔴\nگل اول نفت به پرسپولیس توسط باصری\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🟥\n🔴\nگل اول نفت به پرسپولیس توسط باصری\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/235053",
+        "post_id": 235053,
+        "message_id": 7740,
+        "message_kind": "caption",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-09T15:20:40.330573+00:00"
+      },
+      {
+        "fingerprint": "bea7ff1da1da8efbd541d95e41399892a4a4399eb4cad143d874136fe5649b7b",
+        "media_fingerprint": "6e28ad7bade3388778b06c4d8d552a67c0b1a454b9c7626ce0b88a4452f67548",
+        "text": "🔴\nویدیو جالب و انیمه‌ای پرسپولیس برای گلزنی علیپور\n🆔\n@varzesh3_site",
+        "original_username": "varzesh3",
+        "original_text": "🔴\nویدیو جالب و انیمه‌ای پرسپولیس برای گلزنی علیپور\n🆔\n@varzesh3_site",
+        "original_link": "https://t.me/varzesh3/303692",
+        "post_id": 303692,
+        "message_id": 7741,
+        "message_kind": "caption",
+        "sources": [
+          "varzesh3"
+        ],
+        "created_at": "2026-10-09T15:20:47.918350+00:00"
+      },
+      {
+        "fingerprint": "60230f76ae5bd3e639548169f0b0faec69523747719bd47049e1d8f851568378",
+        "media_fingerprint": "37f2814485e2183564a1117840ce4315a4ab277f7fcd5d5bc56ba9dd5dee38f2",
+        "text": "پنالتی‌ای که بیفوما گرفت\n🔸\nپرسپولیس [۲]-۰ صنعت‌نفت\n🔸\n⚽️\nعلیپور\n🔴\nدقیقه ۵۳  @Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "پنالتی‌ای که بیفوما گرفت\n🔸\nپرسپولیس [۲]-۰ صنعت‌نفت\n🔸\n⚽️\nعلیپور\n🔴\nدقیقه ۵۳  @Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/109462",
+        "post_id": 109462,
+        "message_id": 7742,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-09T15:20:56.319621+00:00"
+      },
+      {
+        "fingerprint": "25931488556ef73307452409c0ce3d650915d607fd5daf252ae56745df3e2f54",
+        "media_fingerprint": "ab60d3b55a8fa26e57b23f65f2b6768bf27ab9c21abd8020abb05018456ce353",
+        "text": "از نقطه پنالتی؛\n⚽️\n🔴\nگل دوم پرسپولیس | علیپور '53 پرسپولیس 2 - نفت آبادان 0\n🆔\n@varzesh3",
+        "original_username": "varzesh3",
+        "original_text": "از نقطه پنالتی؛\n⚽️\n🔴\nگل دوم پرسپولیس | علیپور '53 پرسپولیس 2 - نفت آبادان 0\n🆔\n@varzesh3",
+        "original_link": "https://t.me/varzesh3/303694",
+        "post_id": 303694,
+        "message_id": 7743,
+        "message_kind": "caption",
+        "sources": [
+          "varzesh3",
+          "mazdak_hattrick"
+        ],
+        "created_at": "2026-10-09T15:21:04.362232+00:00"
+      },
+      {
+        "fingerprint": "a0c8d501689962a7c8a948005fdaf2cb939bc1f13dc8eef38508930b51333cec",
+        "media_fingerprint": "",
+        "text": "♦️\n#چند_خبر_کوتاه\n🔹\nجلسه ستاد مدیریت بحران استان فارس با هدف پیشگیری از خسارات وارده از بارندگی‌های سیل آسای آینده در جهرم برگزار شد.\n🔹\nویژه برنامه گرامیداشت هفته ملی کودک در کانون پرورش فکری کودکان و نوجوانان شهرستان آباده برگزار شد.\n🔹\nهشت متخلف شکار و صید کبک و ماهی در اقلید دستگیر شدند.\n@Akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\n#چند_خبر_کوتاه\n🔹\nجلسه ستاد مدیریت بحران استان فارس با هدف پیشگیری از خسارات وارده از بارندگی‌های سیل آسای آینده در جهرم برگزار شد.\n🔹\nویژه برنامه گرامیداشت هفته ملی کودک در کانون پرورش فکری کودکان و نوجوانان شهرستان آباده برگزار شد.\n🔹\nهشت متخلف شکار و صید کبک و ماهی در اقلید دستگیر شدند.\n@Akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143372",
+        "post_id": 143372,
+        "message_id": 7744,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-09T15:21:07.330403+00:00"
+      },
+      {
+        "fingerprint": "087d8b2f97ac22ea1737a9746351f20f0c2642e98395af63637cc78ec059a372",
+        "media_fingerprint": "",
+        "text": "مهاجما پرسپولیس واقعا مفت خورن",
+        "original_username": "footballvision2",
+        "original_text": "مهاجما پرسپولیس واقعا مفت خورن",
+        "original_link": "https://t.me/footballvision2/170870",
+        "post_id": 170870,
+        "message_id": 7745,
+        "message_kind": "text",
+        "sources": [
+          "footballvision2"
+        ],
+        "created_at": "2026-10-09T15:21:10.465711+00:00"
+      },
+      {
+        "fingerprint": "3eb69e8da968cecc52e2e49d1ae6e2c1a9150a90f27744f1f30fbc9f8f28e9b7",
+        "media_fingerprint": "3af2253e268c21d46a8f61c3faf5adaa176db21a458776c70847f7aa1e8e08fe",
+        "text": "🔴\nشهرداری خرمشهر دیده یه سرسره تو پارک شکسته، با خودشون گفتن چکارکنیم چکارنکنیم؟؟\nکه این نیمه شاهکار رو پیاده کردن :\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nشهرداری خرمشهر دیده یه سرسره تو پارک شکسته، با خودشون گفتن چکارکنیم چکارنکنیم؟؟\nکه این نیمه شاهکار رو پیاده کردن :\n@DrTeL",
+        "original_link": "https://t.me/drtel/67510",
+        "post_id": 67510,
+        "message_id": 7746,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-09T15:21:17.902885+00:00"
+      },
+      {
+        "fingerprint": "3919cc03eae0ba924c2ede3501d35e80311bce15ed360a2b7e224ed96ad6fe83",
+        "media_fingerprint": "",
+        "text": "گللل سوم پرسپولیس اورونوف",
+        "original_username": "adak_ir_official",
+        "original_text": "گللل سوم پرسپولیس اورونوف",
+        "original_link": "https://t.me/ADAK_IR_official/235054",
+        "post_id": 235054,
+        "message_id": 7747,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-09T15:21:20.500473+00:00"
       }
     ]
   }
