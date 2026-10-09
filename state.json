@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143360,
+      "last_id": 143362,
       "processed_ids": [
-        142257,
-        142258,
         142259,
         142260,
         142262,
@@ -1002,14 +1000,15 @@
         143357,
         143358,
         143359,
-        143360
+        143360,
+        143361,
+        143362
       ],
-      "sent_count": 798
+      "sent_count": 799
     },
     "total_fut": {
-      "last_id": 237549,
+      "last_id": 237550,
       "processed_ids": [
-        236499,
         236500,
         236501,
         236502,
@@ -2008,14 +2007,14 @@
         237545,
         237546,
         237547,
-        237549
+        237549,
+        237550
       ],
       "sent_count": 92
     },
     "footballvision2": {
-      "last_id": 170813,
+      "last_id": 170814,
       "processed_ids": [
-        169717,
         169718,
         169719,
         169720,
@@ -3014,7 +3013,8 @@
         170810,
         170811,
         170812,
-        170813
+        170813,
+        170814
       ],
       "sent_count": 86
     },
@@ -3269,7 +3269,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67502,
+      "last_id": 67503,
       "processed_ids": [
         66561,
         66565,
@@ -4018,7 +4018,8 @@
         67499,
         67500,
         67501,
-        67502
+        67502,
+        67503
       ],
       "sent_count": 428
     },
@@ -4522,7 +4523,7 @@
       "sent_count": 87
     },
     "coffeenetmanager": {
-      "last_id": 51784,
+      "last_id": 51785,
       "processed_ids": [
         51537,
         51538,
@@ -4752,12 +4753,13 @@
         51781,
         51782,
         51783,
-        51784
+        51784,
+        51785
       ],
-      "sent_count": 78
+      "sent_count": 79
     },
     "roidbest": {
-      "last_id": 21819,
+      "last_id": 21820,
       "processed_ids": [
         21613,
         21614,
@@ -4954,7 +4956,8 @@
         21816,
         21817,
         21818,
-        21819
+        21819,
+        21820
       ],
       "sent_count": 123
     },
@@ -5629,7 +5632,7 @@
       "sent_count": 368
     },
     "comentiat": {
-      "last_id": 26394,
+      "last_id": 26395,
       "processed_ids": [
         25844,
         25845,
@@ -6080,9 +6083,10 @@
         26390,
         26391,
         26393,
-        26394
+        26394,
+        26395
       ],
-      "sent_count": 326
+      "sent_count": 327
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -6092,7 +6096,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38676,
+      "last_id": 38678,
       "processed_ids": [
         38432,
         38433,
@@ -6335,9 +6339,11 @@
         38673,
         38674,
         38675,
-        38676
+        38676,
+        38677,
+        38678
       ],
-      "sent_count": 145
+      "sent_count": 146
     },
     "gizmiztel": {
       "last_id": 163008,
@@ -8823,9 +8829,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109441,
+      "last_id": 109442,
       "processed_ids": [
-        108365,
         108366,
         108367,
         108368,
@@ -9824,16 +9829,14 @@
         109438,
         109439,
         109440,
-        109441
+        109441,
+        109442
       ],
       "sent_count": 86
     },
     "varzesh3": {
-      "last_id": 303663,
+      "last_id": 303667,
       "processed_ids": [
-        302573,
-        302575,
-        302576,
         302577,
         302578,
         302579,
@@ -10830,9 +10833,12 @@
         303660,
         303661,
         303662,
-        303663
+        303663,
+        303664,
+        303665,
+        303667
       ],
-      "sent_count": 60
+      "sent_count": 61
     },
     "totalfut_plus": {
       "last_id": 26604,
@@ -12558,9 +12564,8 @@
       "sent_count": 146
     },
     "futball180tv": {
-      "last_id": 108181,
+      "last_id": 108182,
       "processed_ids": [
-        107163,
         107164,
         107165,
         107166,
@@ -13559,16 +13564,14 @@
         108178,
         108179,
         108180,
-        108181
+        108181,
+        108182
       ],
       "sent_count": 56
     },
     "hattric_official": {
-      "last_id": 84533,
+      "last_id": 84536,
       "processed_ids": [
-        83481,
-        83482,
-        83483,
         83484,
         83485,
         83486,
@@ -14565,12 +14568,15 @@
         84530,
         84531,
         84532,
-        84533
+        84533,
+        84534,
+        84535,
+        84536
       ],
-      "sent_count": 75
+      "sent_count": 77
     },
     "mazdak_hattrick": {
-      "last_id": 182457,
+      "last_id": 182458,
       "processed_ids": [
         181991,
         181992,
@@ -15029,7 +15035,8 @@
         182454,
         182455,
         182456,
-        182457
+        182457,
+        182458
       ],
       "sent_count": 39
     },
@@ -15169,7 +15176,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58507,
+      "last_id": 58508,
       "processed_ids": [
         58030,
         58031,
@@ -15598,9 +15605,10 @@
         58504,
         58505,
         58506,
-        58507
+        58507,
+        58508
       ],
-      "sent_count": 271
+      "sent_count": 272
     },
     "razcom": {
       "last_id": 70490,
@@ -15642,7 +15650,7 @@
       "sent_count": 9
     },
     "midanesti": {
-      "last_id": 73269,
+      "last_id": 73270,
       "processed_ids": [
         73193,
         73194,
@@ -15716,9 +15724,10 @@
         73266,
         73267,
         73268,
-        73269
+        73269,
+        73270
       ],
-      "sent_count": 36
+      "sent_count": 37
     },
     "gilin_gilin": {
       "last_id": 284180,
@@ -17606,7 +17615,7 @@
       "sent_count": 8
     },
     "bajefilm": {
-      "last_id": 11613,
+      "last_id": 11614,
       "processed_ids": [
         11552,
         11553,
@@ -17669,7 +17678,8 @@
         11610,
         11611,
         11612,
-        11613
+        11613,
+        11614
       ],
       "sent_count": 53
     },
@@ -17948,7 +17958,7 @@
       "sent_count": 47
     },
     "peach_tweet": {
-      "last_id": 2965,
+      "last_id": 2967,
       "processed_ids": [
         2745,
         2749,
@@ -18092,9 +18102,10 @@
         2962,
         2963,
         2964,
-        2965
+        2965,
+        2967
       ],
-      "sent_count": 95
+      "sent_count": 96
     },
     "funy_khand": {
       "last_id": 25718,
@@ -18120,158 +18131,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "9c06d45dc5b49f6de92847c8a011d455e6b37f77bc223ee64164973817a34fe2",
-        "media_fingerprint": "1760c5968ceb8cf99e82b890697c845cf9518a883de0d7f0ba4a77ba5dc3fdb2",
-        "text": "👨‍💻\nسردار رحیمی:از امروز هر سایتی قیمت ارز را اعلام کند با آن برخورد خواهیم کرد\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "👨‍💻\nسردار رحیمی:از امروز هر سایتی قیمت ارز را اعلام کند با آن برخورد خواهیم کرد\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52702",
-        "post_id": 52702,
-        "message_id": 6563,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-05T21:45:19.579205+00:00"
-      },
-      {
-        "fingerprint": "5da3650e084872fead883d3c2452debacdb0373322235b4bec3d2418bc4af683",
-        "media_fingerprint": "2a1badc41d3b0d4ee2e6d377e89d83b68ba08d6ef8fc005bd09b71b972504bf8",
-        "text": "🎥\nطرح جدید کارت سوخت، مردم را پشت جایگاه‌ها سردرگم کرد\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🎥\nطرح جدید کارت سوخت، مردم را پشت جایگاه‌ها سردرگم کرد\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/23009",
-        "post_id": 23009,
-        "message_id": 6564,
-        "message_kind": "caption",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-05T21:45:27.567206+00:00"
-      },
-      {
-        "fingerprint": "8cebbba321500db13841c66351a0bd6b2919680fe927fe44762c9bdad4d7115a",
-        "media_fingerprint": "07e03eab1c3c8f40c22024798c9515e2499bc2c6221b2b2f10b9dd2b8ff7245d",
-        "text": "🪟\n5\nنرم افزار ویندوزی که هر سازنده محتوا باید داشته باشه!\n📰\nاگه با ویندوز کار می‌کنی، احتمالاً کلی وقتت صرف کارای ریز و تکراری میشه؛\nپیدا کردن فایل، اسکرین‌شات گرفتن، ضبط صفحه، باز کردن برنامه‌ها و…\n😵‍💫\n▫️\nولی این 5 تا ابزار می‌تونن خیلی از این دردسرا رو جمع کنن:\n1️⃣\nاپ FocusSee → ضبط صفحه با زوم خودکار و حرکت نرم موس\n2️⃣\nاپ ShareX → اسکرین‌شات، ضبط صفحه، GIF و کلی ابزار کاربردی\n3️⃣\nاپ Flow Launcher → با یه میانبر، هر برنامه یا فایلی رو سریع پیدا کن\n4️⃣\nاپ QuickLook → فایل رو فقط با Space پیش‌نمایش کن، بدون باز کردن برنامه\n5️⃣\nاپ Everything → هر فایلی رو با اسمش، در چند لحظه پیدا کن\n@RoidBest",
-        "original_username": "roidbest",
-        "original_text": "🪟\n5\nنرم افزار ویندوزی که هر سازنده محتوا باید داشته باشه!\n📰\nاگه با ویندوز کار می‌کنی، احتمالاً کلی وقتت صرف کارای ریز و تکراری میشه؛\nپیدا کردن فایل، اسکرین‌شات گرفتن، ضبط صفحه، باز کردن برنامه‌ها و…\n😵‍💫\n▫️\nولی این 5 تا ابزار می‌تونن خیلی از این دردسرا رو جمع کنن:\n1️⃣\nاپ FocusSee → ضبط صفحه با زوم خودکار و حرکت نرم موس\n2️⃣\nاپ ShareX → اسکرین‌شات، ضبط صفحه، GIF و کلی ابزار کاربردی\n3️⃣\nاپ Flow Launcher → با یه میانبر، هر برنامه یا فایلی رو سریع پیدا کن\n4️⃣\nاپ QuickLook → فایل رو فقط با Space پیش‌نمایش کن، بدون باز کردن برنامه\n5️⃣\nاپ Everything → هر فایلی رو با اسمش، در چند لحظه پیدا کن\n@RoidBest",
-        "original_link": "https://t.me/RoidBest/21789",
-        "post_id": 21789,
-        "message_id": 6565,
-        "message_kind": "caption",
-        "sources": [
-          "roidbest"
-        ],
-        "created_at": "2026-10-05T21:45:32.846158+00:00"
-      },
-      {
-        "fingerprint": "6e161728fd11eea665ae5aa0dd9eb6814f66413b288d0519102b4115010fbe7a",
-        "media_fingerprint": "3a0a0c361b358c37c83b97d9d3d0d9a132e9a7f740a0404aa711a5957fd5af73",
-        "text": "سرقت سریالی و عجیب لاستیک خودروها  در جنت آباد در یک شب\n!\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "سرقت سریالی و عجیب لاستیک خودروها  در جنت آباد در یک شب\n!\n@irWonders",
-        "original_link": "https://t.me/irwonders/58360",
-        "post_id": 58360,
-        "message_id": 6566,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-05T21:45:40.455007+00:00"
-      },
-      {
-        "fingerprint": "dbf90a544db14f0b6b6d9da8c448bc9f1e42990e4e412c4b87e60e8445d9175b",
-        "media_fingerprint": "",
-        "text": "🚨\n🔴\nاولین جلسه رسیدگی به شکایت پرسپولیس از یاسر آسانی امروز در کمیته استیناف برگزار می‌شود.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n🔴\nاولین جلسه رسیدگی به شکایت پرسپولیس از یاسر آسانی امروز در کمیته استیناف برگزار می‌شود.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/234771",
-        "post_id": 234771,
-        "message_id": 6567,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-05T21:45:43.550557+00:00"
-      },
-      {
-        "fingerprint": "2b3b50004ab5cbd8c152a7012d7034b40f1710441273888dab2601adfe62aef9",
-        "media_fingerprint": "e98a421ba7fe51481878c3110f4a077f7ddcf69141bc0a5c2b8b18959da85261",
-        "text": "خاطره ی وایرال شده از یه خانم تن فروش\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "خاطره ی وایرال شده از یه خانم تن فروش\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/2897",
-        "post_id": 2897,
-        "message_id": 6568,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-05T21:45:51.722817+00:00"
-      },
-      {
-        "fingerprint": "e64e9778a03872ce2bb103d5bdf0912727fa9abc442eaa0b874b76dcbe2c9668",
-        "media_fingerprint": "49101c4ad9789f33dc77f4a39d75f04624016efb4dedbe417dbcc23ae49fb97e",
-        "text": "اولین ویدئوها از شهر طاعون زده‌ی شلخوف در سیبری که مردانی را در سطح شهر با لباس‌های مخصوص محافظ سفید نشون می‌ده!\nهم‌زمان گزارش‌هایی هم درباره قرنطینه شدن بیمارستان شهر و کمبود آنتی‌بیوتیک در داروخانه‌ها منتشر شده!\n@Midanesti",
-        "original_username": "midanesti",
-        "original_text": "اولین ویدئوها از شهر طاعون زده‌ی شلخوف در سیبری که مردانی را در سطح شهر با لباس‌های مخصوص محافظ سفید نشون می‌ده!\nهم‌زمان گزارش‌هایی هم درباره قرنطینه شدن بیمارستان شهر و کمبود آنتی‌بیوتیک در داروخانه‌ها منتشر شده!\n@Midanesti",
-        "original_link": "https://t.me/midanesti/73255",
-        "post_id": 73255,
-        "message_id": 6569,
-        "message_kind": "caption",
-        "sources": [
-          "midanesti",
-          "jaleb"
-        ],
-        "created_at": "2026-10-05T21:46:01.680732+00:00"
-      },
-      {
-        "fingerprint": "10871ccac2284f184b43f501205cb05193b503eab7c2aa8e22c39183a1d9ebe0",
-        "media_fingerprint": "",
-        "text": "🚨\n🚨\n🚨\n#اختصاصی_آداک\n🚨\n🚨\n🔴\nفدراسیون فوتبال از باشگاه پرسپولیس خواسته بخاطر منافع ملی، از پرونده یاسر آسانی عقب نشینی کند تا استقلال در آسیا آسیب نبیند.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n🚨\n🚨\n#اختصاصی_آداک\n🚨\n🚨\n🔴\nفدراسیون فوتبال از باشگاه پرسپولیس خواسته بخاطر منافع ملی، از پرونده یاسر آسانی عقب نشینی کند تا استقلال در آسیا آسیب نبیند.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/234772",
-        "post_id": 234772,
-        "message_id": 6570,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-05T21:46:04.664061+00:00"
-      },
-      {
-        "fingerprint": "502977ad3a1d2c744751c94e3e30d88fb161ca85d6f82426a5b396027a83e6ec",
-        "media_fingerprint": "aec8bea6c66d70ec83f9d6d5d0cb9e3eb55a0d6b4a59307286ba7a6f71cf84e1",
-        "text": "🇮🇱\nآیزنکوت، رئیس سابق ستاد کل ارتش اسرائیل:\nایرانی‌ها خیلی قوی‌تر از چیزی هستن که ما تصور می‌کنیم. اگه کسی فکر می‌کرد فقط با قدرت هوایی میشه باعث تغییر حکومت تو ایران شد، اشتباه می‌کرد.\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🇮🇱\nآیزنکوت، رئیس سابق ستاد کل ارتش اسرائیل:\nایرانی‌ها خیلی قوی‌تر از چیزی هستن که ما تصور می‌کنیم. اگه کسی فکر می‌کرد فقط با قدرت هوایی میشه باعث تغییر حکومت تو ایران شد، اشتباه می‌کرد.\n@DrTeL",
-        "original_link": "https://t.me/drtel/67388",
-        "post_id": 67388,
-        "message_id": 6571,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-05T21:46:11.391507+00:00"
-      },
-      {
-        "fingerprint": "c6db8a8b406c55cf28dfbc7b82e225c7b6a206ce8d85cb1bf7ae9aa375a69074",
-        "media_fingerprint": "9ff8d4c22898a6cc9dc0e44ff524422c6e1324b383f1b52c7c4a4e438cb37611",
-        "text": "♦️\nمسجد Dimaukom در فیلیپین که به مسجد صورتی معروف است. رنگ صورتی اين مسجد که توسط مردم محلی ساخته شده نمادی از صلح در نظر گرفته شده.\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "♦️\nمسجد Dimaukom در فیلیپین که به مسجد صورتی معروف است. رنگ صورتی اين مسجد که توسط مردم محلی ساخته شده نمادی از صلح در نظر گرفته شده.\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159544",
-        "post_id": 159544,
-        "message_id": 6572,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann",
-          "irwonders"
-        ],
-        "created_at": "2026-10-05T21:46:16.571953+00:00"
-      },
       {
         "fingerprint": "f45cc3d8e885d67dab31bfc1dfd05c9f57b2f8a594dc41550439017fbbd7b16f",
         "media_fingerprint": "232f0816e256022564b8b364bb93b02a71da30677aae7b077b817a62d2399def",
@@ -33211,6 +33070,156 @@
           "jaleb"
         ],
         "created_at": "2026-10-09T11:49:22.475249+00:00"
+      },
+      {
+        "fingerprint": "6a148ceb30534d95e4bf273e48393b752b8ed5bf2cc7ee7d475749f226bc45a9",
+        "media_fingerprint": "4bf6409b2701e3c9b0330c1f6ff850f8f820e29f947c33a8ce4cae70feb2f15a",
+        "text": "قبلا اگه یه فیلم باشگاه زنونه پخش میشد کل ایران منفجر میشد. الان اینستاگرام رو باز کنی میری وسط باشگاه زنونه\n😂\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "قبلا اگه یه فیلم باشگاه زنونه پخش میشد کل ایران منفجر میشد. الان اینستاگرام رو باز کنی میری وسط باشگاه زنونه\n😂\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/2967",
+        "post_id": 2967,
+        "message_id": 7607,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-09T12:24:20.541611+00:00"
+      },
+      {
+        "fingerprint": "d45279a53a38ef737cccc8b959e879c5a669922d43eb3b78f73f2f114851116c",
+        "media_fingerprint": "d9ec2654ac058cd5cbbcd283f18c336693c6755b8462569c9e0c5539b426389b",
+        "text": "قرار گرفتن در معرض آفتاب قد را بلند می کند\n🌞\n◽️\nسنتز ویتامین D در بدن، تحت تاثیر نور آفتاب اتفاق می ‌افتد. ویتامین D به نوبه خود سبب افزایش جذب کلسیم می‌شود. کلسیم ماده اولیه ساخت استخوان و یکی از مهم‌ترین عوامل رشد قد است. زمانی که در معرض آفتاب قرار می‌گیرید، تولید ویتامین D و جذب کلسیم در بدن افزایش می ‌یابد و این عامل می ‌تواند به رشد کمک کند.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "قرار گرفتن در معرض آفتاب قد را بلند می کند\n🌞\n◽️\nسنتز ویتامین D در بدن، تحت تاثیر نور آفتاب اتفاق می ‌افتد. ویتامین D به نوبه خود سبب افزایش جذب کلسیم می‌شود. کلسیم ماده اولیه ساخت استخوان و یکی از مهم‌ترین عوامل رشد قد است. زمانی که در معرض آفتاب قرار می‌گیرید، تولید ویتامین D و جذب کلسیم در بدن افزایش می ‌یابد و این عامل می ‌تواند به رشد کمک کند.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38678",
+        "post_id": 38678,
+        "message_id": 7608,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-09T12:24:25.573123+00:00"
+      },
+      {
+        "fingerprint": "f6aac0d70a1b9b49a6ae1a8362184600cd94aefefd48cb8c254f3c62186ecd63",
+        "media_fingerprint": "",
+        "text": "حرکت خطرناک و عجیب کارگر ساختمانی!\nفقط یه لحظه غفلت کافیه...!!\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "حرکت خطرناک و عجیب کارگر ساختمانی!\nفقط یه لحظه غفلت کافیه...!!\n@irWonders",
+        "original_link": "https://t.me/irwonders/58508",
+        "post_id": 58508,
+        "message_id": 7609,
+        "message_kind": "text",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-09T12:24:28.505353+00:00"
+      },
+      {
+        "fingerprint": "f5c6e343d295397c1f1273f6365a38d563b80e5d62e6dd1c6e8031a93b336d56",
+        "media_fingerprint": "6ccf6d8d6b866ea894b1d2da61932fe6d7bcf35cf93eef24123e52945e5f1afc",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26395",
+        "post_id": 26395,
+        "message_id": 7610,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-09T12:24:33.123488+00:00"
+      },
+      {
+        "fingerprint": "afdb1b788d7a001d185c59c9d2bed7c9d49a340c027aa56ee80079eefd7f4625",
+        "media_fingerprint": "1970f70da589392f559fc8ff65c55f74e352ffd4e424b99157c1e39fbe8551fe",
+        "text": "نابینا شدن نوزاد 3 ماه بر اثر نور فلش دوربین (\n☝️\n)\nاین نوزاد 3 ماه بر اثر فلاش عکسی که به فاصله 10 انگشتی از صورتش گرفته شد یک چشمش کامل نابینا و چشم دیگرش نیمه نابینا شد\nمراقب باشید\n❗️\n@Midanesti",
+        "original_username": "midanesti",
+        "original_text": "نابینا شدن نوزاد 3 ماه بر اثر نور فلش دوربین (\n☝️\n)\nاین نوزاد 3 ماه بر اثر فلاش عکسی که به فاصله 10 انگشتی از صورتش گرفته شد یک چشمش کامل نابینا و چشم دیگرش نیمه نابینا شد\nمراقب باشید\n❗️\n@Midanesti",
+        "original_link": "https://t.me/midanesti/73270",
+        "post_id": 73270,
+        "message_id": 7611,
+        "message_kind": "caption",
+        "sources": [
+          "midanesti"
+        ],
+        "created_at": "2026-10-09T12:24:38.002199+00:00"
+      },
+      {
+        "fingerprint": "2cd0c2b1fd322a1b68da73c08d5ebd0ad4ae0cf73a10019c38355401c5c3ec47",
+        "media_fingerprint": "3e3ca84104968ff0a1b0da0e14cc021f3c1ee44a074db1c076af79b1f9971794",
+        "text": "روی کاپیتان احتیاط کردند\n🇪🇸\nبا اعلام هانسی فلیک، برای جلوگیری از مصدومیت رافینیا، ستاره برزیلی در 2 مسابقه بعدی بارسلونا مقابل ختافه و گالاتاسرای غایب است. مشکل او جدی گزارش نشده است.\n🆔\n@varzesh3",
+        "original_username": "varzesh3",
+        "original_text": "روی کاپیتان احتیاط کردند\n🇪🇸\nبا اعلام هانسی فلیک، برای جلوگیری از مصدومیت رافینیا، ستاره برزیلی در 2 مسابقه بعدی بارسلونا مقابل ختافه و گالاتاسرای غایب است. مشکل او جدی گزارش نشده است.\n🆔\n@varzesh3",
+        "original_link": "https://t.me/varzesh3/303665",
+        "post_id": 303665,
+        "message_id": 7612,
+        "message_kind": "caption",
+        "sources": [
+          "varzesh3"
+        ],
+        "created_at": "2026-10-09T12:24:43.108113+00:00"
+      },
+      {
+        "fingerprint": "95f9effc8d52dc9f74609a9e3865e45ce2f822ac70ce1d34c09be8be57b5968f",
+        "media_fingerprint": "c44ccb0c300a6cd60822b0e0cb0520d3b1e12e921f01430fd7e08451ce529220",
+        "text": "🔻\nباران در شهرقدس و حضور بانوان هوادار پرسپولیس\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "🔻\nباران در شهرقدس و حضور بانوان هوادار پرسپولیس\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/84535",
+        "post_id": 84535,
+        "message_id": 7613,
+        "message_kind": "caption",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-09T12:24:50.797653+00:00"
+      },
+      {
+        "fingerprint": "215d27f84ff40e36555cfb19d1a44c048801034a8471a8caef5626421a246f2b",
+        "media_fingerprint": "",
+        "text": "♦️\n۱۵ تا ۲۰ میلیون نفر هنوز سهام عدالت خود را دریافت نکرده‌اند\nغلامرضا شریعتی اندراتی، دبیر فراکسیون سهام عدالت مجلس:\n🔹\nحدود ۱۵ تا ۲۰ میلیون نفر همچنان نتوانسته‌اند سهام عدالت خود را دریافت کنند و فراکسیون سهام عدالت مجلس در چند جلسه با متولیان این موضوع و دیوان محاسبات مسئله را بررسی کرده‌است.\n🔹\nپیگیری‌ها برای تعیین تکلیف جاماندگان و افرادی که سود سهام به آن‌ها تعلق گرفته و همچنین وضعیت شرکت‌های سهام عدالت در استان‌ها ادامه دارد.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\n۱۵ تا ۲۰ میلیون نفر هنوز سهام عدالت خود را دریافت نکرده‌اند\nغلامرضا شریعتی اندراتی، دبیر فراکسیون سهام عدالت مجلس:\n🔹\nحدود ۱۵ تا ۲۰ میلیون نفر همچنان نتوانسته‌اند سهام عدالت خود را دریافت کنند و فراکسیون سهام عدالت مجلس در چند جلسه با متولیان این موضوع و دیوان محاسبات مسئله را بررسی کرده‌است.\n🔹\nپیگیری‌ها برای تعیین تکلیف جاماندگان و افرادی که سود سهام به آن‌ها تعلق گرفته و همچنین وضعیت شرکت‌های سهام عدالت در استان‌ها ادامه دارد.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143362",
+        "post_id": 143362,
+        "message_id": 7614,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-09T12:24:54.384626+00:00"
+      },
+      {
+        "fingerprint": "f8af66c14cbcec664a30c9106ebc0e46efe915379553d903d2d72d2b80e9b141",
+        "media_fingerprint": "",
+        "text": "⚽\nورود اعضای پرسپولیس به ورزشگاه شهدای شهرقدس\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "⚽\nورود اعضای پرسپولیس به ورزشگاه شهدای شهرقدس\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/84536",
+        "post_id": 84536,
+        "message_id": 7615,
+        "message_kind": "text",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-09T12:24:57.342963+00:00"
+      },
+      {
+        "fingerprint": "7aed097e488d08f61ffebcd53a5f50607bd78ff6961cedf09f9dfe74f3aa187d",
+        "media_fingerprint": "",
+        "text": "دفاتر خدمات اینترنتی کافی‌نت و نرخنامه\npinned a photo",
+        "original_username": "coffeenetmanager",
+        "original_text": "دفاتر خدمات اینترنتی کافی‌نت و نرخنامه\npinned a photo",
+        "original_link": "https://t.me/CoffeenetManager/51785",
+        "post_id": 51785,
+        "message_id": 7616,
+        "message_kind": "text",
+        "sources": [
+          "coffeenetmanager"
+        ],
+        "created_at": "2026-10-09T12:25:00.235706+00:00"
       }
     ]
   }
