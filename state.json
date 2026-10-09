@@ -1,11 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143354,
+      "last_id": 143357,
       "processed_ids": [
-        142251,
-        142252,
-        142253,
         142254,
         142255,
         142256,
@@ -1002,16 +999,16 @@
         143351,
         143352,
         143353,
-        143354
+        143354,
+        143355,
+        143356,
+        143357
       ],
-      "sent_count": 796
+      "sent_count": 797
     },
     "total_fut": {
-      "last_id": 237545,
+      "last_id": 237549,
       "processed_ids": [
-        236496,
-        236497,
-        236498,
         236499,
         236500,
         236501,
@@ -2008,15 +2005,16 @@
         237542,
         237543,
         237544,
-        237545
+        237545,
+        237546,
+        237547,
+        237549
       ],
       "sent_count": 92
     },
     "footballvision2": {
-      "last_id": 170809,
+      "last_id": 170811,
       "processed_ids": [
-        169713,
-        169714,
         169715,
         169716,
         169717,
@@ -3014,7 +3012,9 @@
         170806,
         170807,
         170808,
-        170809
+        170809,
+        170810,
+        170811
       ],
       "sent_count": 86
     },
@@ -3043,7 +3043,7 @@
       "sent_count": 4
     },
     "fars_today": {
-      "last_id": 132169,
+      "last_id": 132170,
       "processed_ids": [
         131975,
         131976,
@@ -3235,9 +3235,10 @@
         132166,
         132167,
         132168,
-        132169
+        132169,
+        132170
       ],
-      "sent_count": 109
+      "sent_count": 110
     },
     "behzistikomitenews": {
       "last_id": 13960,
@@ -3268,7 +3269,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67500,
+      "last_id": 67502,
       "processed_ids": [
         66561,
         66565,
@@ -4015,7 +4016,9 @@
         67494,
         67495,
         67499,
-        67500
+        67500,
+        67501,
+        67502
       ],
       "sent_count": 428
     },
@@ -6088,7 +6091,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38675,
+      "last_id": 38676,
       "processed_ids": [
         38432,
         38433,
@@ -6330,16 +6333,14 @@
         38672,
         38673,
         38674,
-        38675
+        38675,
+        38676
       ],
-      "sent_count": 144
+      "sent_count": 145
     },
     "gizmiztel": {
-      "last_id": 163004,
+      "last_id": 163008,
       "processed_ids": [
-        161900,
-        161901,
-        161902,
         161903,
         161904,
         161905,
@@ -7336,9 +7337,12 @@
         162998,
         163002,
         163003,
-        163004
+        163004,
+        163005,
+        163006,
+        163008
       ],
-      "sent_count": 682
+      "sent_count": 685
     },
     "dr_salamatx": {
       "last_id": 55372,
@@ -8812,9 +8816,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109438,
+      "last_id": 109439,
       "processed_ids": [
-        108362,
         108363,
         108364,
         108365,
@@ -9813,14 +9816,14 @@
         109435,
         109436,
         109437,
-        109438
+        109438,
+        109439
       ],
       "sent_count": 85
     },
     "varzesh3": {
-      "last_id": 303661,
+      "last_id": 303662,
       "processed_ids": [
-        302571,
         302572,
         302573,
         302575,
@@ -10819,7 +10822,8 @@
         303656,
         303657,
         303660,
-        303661
+        303661,
+        303662
       ],
       "sent_count": 60
     },
@@ -11540,10 +11544,8 @@
       "sent_count": 41
     },
     "adak_ir_official": {
-      "last_id": 235021,
+      "last_id": 235023,
       "processed_ids": [
-        233994,
-        233995,
         233996,
         233997,
         233998,
@@ -12541,16 +12543,15 @@
         235018,
         235019,
         235020,
-        235021
+        235021,
+        235022,
+        235023
       ],
       "sent_count": 146
     },
     "futball180tv": {
-      "last_id": 108176,
+      "last_id": 108179,
       "processed_ids": [
-        107158,
-        107159,
-        107160,
         107161,
         107162,
         107163,
@@ -13547,15 +13548,16 @@
         108173,
         108174,
         108175,
-        108176
+        108176,
+        108177,
+        108178,
+        108179
       ],
       "sent_count": 56
     },
     "hattric_official": {
-      "last_id": 84531,
+      "last_id": 84533,
       "processed_ids": [
-        83479,
-        83480,
         83481,
         83482,
         83483,
@@ -14553,12 +14555,14 @@
         84528,
         84529,
         84530,
-        84531
+        84531,
+        84532,
+        84533
       ],
-      "sent_count": 74
+      "sent_count": 75
     },
     "mazdak_hattrick": {
-      "last_id": 182455,
+      "last_id": 182456,
       "processed_ids": [
         181991,
         181992,
@@ -15015,7 +15019,8 @@
         182452,
         182453,
         182454,
-        182455
+        182455,
+        182456
       ],
       "sent_count": 39
     },
@@ -15155,7 +15160,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58505,
+      "last_id": 58506,
       "processed_ids": [
         58030,
         58031,
@@ -15582,9 +15587,10 @@
         58500,
         58503,
         58504,
-        58505
+        58505,
+        58506
       ],
-      "sent_count": 269
+      "sent_count": 270
     },
     "razcom": {
       "last_id": 70490,
@@ -17930,7 +17936,7 @@
       "sent_count": 47
     },
     "peach_tweet": {
-      "last_id": 2964,
+      "last_id": 2965,
       "processed_ids": [
         2745,
         2749,
@@ -18073,9 +18079,10 @@
         2961,
         2962,
         2963,
-        2964
+        2964,
+        2965
       ],
-      "sent_count": 94
+      "sent_count": 95
     },
     "funy_khand": {
       "last_id": 25716,
@@ -18099,144 +18106,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "6e1dcf77a06dc997226c338167230f430ecec241a0436550837449ff42a525ef",
-        "media_fingerprint": "",
-        "text": "♦️\nمؤمن واقعی در میدان ایستادگی شناخته می‌شود\nنماینده ولی‌فقیه در فارس:\n🔹️\nانسان مؤمن باید بداند هیچ‌یک از عوامل عالم به‌صورت مستقل اثرگذار نیستند و همه اسباب به اذن خداوند اثر می‌کنند.\n🔹\nانسان مؤمن تا آخرین لحظه برای هدایت دیگران تلاش می‌کند و حبیب نجار نمونه‌ای از این ایستادگی است.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nمؤمن واقعی در میدان ایستادگی شناخته می‌شود\nنماینده ولی‌فقیه در فارس:\n🔹️\nانسان مؤمن باید بداند هیچ‌یک از عوامل عالم به‌صورت مستقل اثرگذار نیستند و همه اسباب به اذن خداوند اثر می‌کنند.\n🔹\nانسان مؤمن تا آخرین لحظه برای هدایت دیگران تلاش می‌کند و حبیب نجار نمونه‌ای از این ایستادگی است.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143124",
-        "post_id": 143124,
-        "message_id": 6547,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-05T18:50:35.711897+00:00"
-      },
-      {
-        "fingerprint": "aa63e48c2ecc0fd5de36f09f5987482b0e0682a4edf507cc7d335f3e70533e7c",
-        "media_fingerprint": "",
-        "text": "♦️\nآغاز انتخاب رشته متقاضیان رشته‌های با آزمون دانشگاه آزاد اسلامی\n🔹️\nانتخاب رشته متقاضیان رشته‌های با آزمون دانشگاه آزاد اسلامی شرکت کننده درآزمون سراسری(به جز رشته‌های پزشکی، دندانپزشکی، داروسازی و دامپزشکی) از امروز دوشنبه ۱۳ مهر آغاز شد.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nآغاز انتخاب رشته متقاضیان رشته‌های با آزمون دانشگاه آزاد اسلامی\n🔹️\nانتخاب رشته متقاضیان رشته‌های با آزمون دانشگاه آزاد اسلامی شرکت کننده درآزمون سراسری(به جز رشته‌های پزشکی، دندانپزشکی، داروسازی و دامپزشکی) از امروز دوشنبه ۱۳ مهر آغاز شد.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143125",
-        "post_id": 143125,
-        "message_id": 6548,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-05T18:50:38.943514+00:00"
-      },
-      {
-        "fingerprint": "de8655778b3160f6b9f0b8235b2a6e67e39fde76fdd7f9c0331c49691bb03355",
-        "media_fingerprint": "",
-        "text": "🚨\n🔴\nپس از اینکه هفته گذشته موبایل پیمان حدادی به سرقت رفت، امروز هم موبایل مهدی تارتار پس از تمرین پرسپولیس، توسط سارقان دزدیده شد.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n🔴\nپس از اینکه هفته گذشته موبایل پیمان حدادی به سرقت رفت، امروز هم موبایل مهدی تارتار پس از تمرین پرسپولیس، توسط سارقان دزدیده شد.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/234766",
-        "post_id": 234766,
-        "message_id": 6549,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-05T18:50:41.799812+00:00"
-      },
-      {
-        "fingerprint": "f34168092952937ea41fbdb4da96eb3737fb4544c581dc7070146177c0f7d202",
-        "media_fingerprint": "",
-        "text": "♦️\nبازپس‌گیری ۳۰۵ هکتار از اراضی ملی در شهرستان‌های نیریز و فراشبند\nمدیرکل منابع طبیعی و آبخیزداری استان فارس:\n🔹️\nدر پی تشدید برخورد با متخلفین در منابع طبیعی و همکاری و تعامل بیش از پیش مسئولین قضایی استان با مجموعه منابع طبیعی در هفته جاری ۲ شهرستان فراشبند و نیریز موفق به آزادسازی ۳۰۵ هکتار از اراضی ملی متصرفی توسط افراد سودجو و بازگشت آن به بیت المال شدیم.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nبازپس‌گیری ۳۰۵ هکتار از اراضی ملی در شهرستان‌های نیریز و فراشبند\nمدیرکل منابع طبیعی و آبخیزداری استان فارس:\n🔹️\nدر پی تشدید برخورد با متخلفین در منابع طبیعی و همکاری و تعامل بیش از پیش مسئولین قضایی استان با مجموعه منابع طبیعی در هفته جاری ۲ شهرستان فراشبند و نیریز موفق به آزادسازی ۳۰۵ هکتار از اراضی ملی متصرفی توسط افراد سودجو و بازگشت آن به بیت المال شدیم.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143126",
-        "post_id": 143126,
-        "message_id": 6550,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-05T18:50:45.036468+00:00"
-      },
-      {
-        "fingerprint": "59dd351470c6f234c76a721fc6e3f60222ec8f06c00d8d59ae28097dd3b9f4a4",
-        "media_fingerprint": "8aae540c2a82f1b4a2d35b3566ecb7761df8c5d52ebc39d75cf18b34bd29a86b",
-        "text": "اینم نتیجه تور کویر! بیشعوری به تمامی معنا\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "اینم نتیجه تور کویر! بیشعوری به تمامی معنا\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162813",
-        "post_id": 162813,
-        "message_id": 6551,
-        "message_kind": "text",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-05T18:50:48.541074+00:00"
-      },
-      {
-        "fingerprint": "b58588cf5f63975abcfa549b1a43c5eb48c49c5bc8939ea878019d3a5d09e16f",
-        "media_fingerprint": "a28576d57019acccba2267ad6421c939eb712608e03c516b59b5a9dc2676d057",
-        "text": "یه لیست از ۱۰۰ قرص پر مصرف تو ایران رو براتون آوردم با کاراییشون.\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "یه لیست از ۱۰۰ قرص پر مصرف تو ایران رو براتون آوردم با کاراییشون.\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162814",
-        "post_id": 162814,
-        "message_id": 6552,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel",
-          "jaleb",
-          "niazcom_ir"
-        ],
-        "created_at": "2026-10-05T18:50:53.245663+00:00"
-      },
-      {
-        "fingerprint": "4dc3ebc2b26a9a76d5c47782b470b020f8e0de33f8efce2fd25d069cf155a1db",
-        "media_fingerprint": "4788c0d18e6308913aeda75ca732a8e40d643e5f9ba823a0d7bf6bf1c351456b",
-        "text": "✨\nاین رنگ‌های خیره‌کننده، نتیجه نحوه سرد شدن گدازه‌های آتشفشانی‌ان.\nابسیدین یا شیشه آتشفشانی زمانی شکل می‌گیره که گدازه با سرعت زیادی سرد بشه. در بعضی نمونه‌ها، آرایش لایه‌ها و بلورهای بسیار ریز درون سنگ باعث ایجاد درخشش‌ها و رنگ‌های رنگین‌کمانی می‌شن\n🌋\n🌈\n🪨\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "✨\nاین رنگ‌های خیره‌کننده، نتیجه نحوه سرد شدن گدازه‌های آتشفشانی‌ان.\nابسیدین یا شیشه آتشفشانی زمانی شکل می‌گیره که گدازه با سرعت زیادی سرد بشه. در بعضی نمونه‌ها، آرایش لایه‌ها و بلورهای بسیار ریز درون سنگ باعث ایجاد درخشش‌ها و رنگ‌های رنگین‌کمانی می‌شن\n🌋\n🌈\n🪨\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162815",
-        "post_id": 162815,
-        "message_id": 6553,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel",
-          "irwonders"
-        ],
-        "created_at": "2026-10-05T18:51:07.482977+00:00"
-      },
-      {
-        "fingerprint": "d2d54b88116f33889b0d68768944b90cb889584f8012d1a0adbf002b69a8a1f5",
-        "media_fingerprint": "1020383c13a6f25600f33295c54e10805b4543942f550a6fd716afea2ab7727b",
-        "text": "من در حالی که دارم واسه پوزیشن جونیور و سینیور یه شرکت همزمان رزومه می‌فرستم:\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "من در حالی که دارم واسه پوزیشن جونیور و سینیور یه شرکت همزمان رزومه می‌فرستم:\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162817",
-        "post_id": 162817,
-        "message_id": 6554,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-05T18:51:13.044972+00:00"
-      },
-      {
-        "fingerprint": "ea877f822bb65f287fd6a9be24d503795a1a058a77861a9edee1dd0adec290a0",
-        "media_fingerprint": "93f6c1c9787624a6fbf03109b0bc5d200f067df30e6027f9477057cb1572aaff",
-        "text": "قورومساق دریایی\nحشمت ماهی\n🐟\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "قورومساق دریایی\nحشمت ماهی\n🐟\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162818",
-        "post_id": 162818,
-        "message_id": 6555,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-05T18:51:19.189737+00:00"
-      },
       {
         "fingerprint": "cb54df8e1ef5d0814b3a36cf28ecf09b16539eac240302ae40aedeee36db0c0f",
         "media_fingerprint": "094ba2abd3aa40a3f49e6b13c6644cea3c652115e7224e2933316eda1539eaae",
@@ -33192,6 +33061,141 @@
           "irwonders"
         ],
         "created_at": "2026-10-09T10:51:06.420529+00:00"
+      },
+      {
+        "fingerprint": "4b5103643da70b37b8b8f1123998f4137c102329678af6fb52e83aee1228813a",
+        "media_fingerprint": "55a0b9d8cf49df76f77e9154bc543c23ed53d39289727ce1ec6158127f271936",
+        "text": "توزیع بسته های حمایتی لوازم مصرفی خودرو در سامانه جامع\nامکان دریافت نقدی و اقساطی\nهموطنان گرامی می‌توانند با مراجعه به سامانه رسمی ایرانکو اقلام مصرفی حمایتی خود را به نرخ مصوب با محدودیت کد‌ملی دریافت نمایند.\nwww.iranko.ir",
+        "original_username": "fars_today",
+        "original_text": "توزیع بسته های حمایتی لوازم مصرفی خودرو در سامانه جامع\nامکان دریافت نقدی و اقساطی\nهموطنان گرامی می‌توانند با مراجعه به سامانه رسمی ایرانکو اقلام مصرفی حمایتی خود را به نرخ مصوب با محدودیت کد‌ملی دریافت نمایند.\nwww.iranko.ir",
+        "original_link": "https://t.me/Fars_today/132170",
+        "post_id": 132170,
+        "message_id": 7591,
+        "message_kind": "caption",
+        "sources": [
+          "fars_today"
+        ],
+        "created_at": "2026-10-09T11:19:59.345411+00:00"
+      },
+      {
+        "fingerprint": "e747330f42ae5dc41ba9289a5be5f93ddc1bb855a21778c922d4e3cae3406a6b",
+        "media_fingerprint": "8373bfc62934418d116908ec38d7c7b8de83eedb0f9ad64aa27386c441ba473e",
+        "text": "یکی از بهترین میوه‌ها در ماه‌های سرد سال، خرمالو است !\n◽️\nخرمالو علاوه بر اینکه کم‌خونی را ازبین میبرد و چربی خون را کاهش میدهد در فصل سرما از سرماخوردگی و آنفولانزا هم پیشگیری می‌کند\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "یکی از بهترین میوه‌ها در ماه‌های سرد سال، خرمالو است !\n◽️\nخرمالو علاوه بر اینکه کم‌خونی را ازبین میبرد و چربی خون را کاهش میدهد در فصل سرما از سرماخوردگی و آنفولانزا هم پیشگیری می‌کند\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38676",
+        "post_id": 38676,
+        "message_id": 7592,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-09T11:20:04.428371+00:00"
+      },
+      {
+        "fingerprint": "d882a82f233a0d6e2a681e00f7538472161f098d5582051a4feeb312f6778862",
+        "media_fingerprint": "0b46216e0043899e60e7b25706b307fdb95867ca13ce63d060422bf0ff82892c",
+        "text": "مطمئنم چالش ترند این روزای اینستاگرام رو همتون دیدید، حالا این یکیو ببینید که قراره سوپرایزتون کنه.\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "مطمئنم چالش ترند این روزای اینستاگرام رو همتون دیدید، حالا این یکیو ببینید که قراره سوپرایزتون کنه.\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/2965",
+        "post_id": 2965,
+        "message_id": 7593,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-09T11:20:10.268127+00:00"
+      },
+      {
+        "fingerprint": "613769e9afcab7bb2fd0f20e05c820e524100cbfc8bea9da1749c7f939d6cb88",
+        "media_fingerprint": "4bf1011a4421b002d4315c38e755a26c8fb77c4521faf1055a5b44cf9d0b341f",
+        "text": "♦️\nسه تخت گزین،جواهری پنهان در دل طبیعت فارس که در شاهنامه فردوسی هم از آن یاد شده است\n🔹️\nسه تخت گزین (یا ستخر گزین) نام سه کوه منفرد و تاریخی در غرب شهرستان مرودشت استان فارس، در دشت منتهی به سد درودزن است که ابوالقاسم فردوسی در شاهنامه از آن‌ها یاد کرده است.\n🔹️\nفردوسی در بیتی مشهور درباره این منطقه چنین می‌سراید:\n«کنام دلیران ایران زمین / گل است و گلاب و سه تخت گزین»\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nسه تخت گزین،جواهری پنهان در دل طبیعت فارس که در شاهنامه فردوسی هم از آن یاد شده است\n🔹️\nسه تخت گزین (یا ستخر گزین) نام سه کوه منفرد و تاریخی در غرب شهرستان مرودشت استان فارس، در دشت منتهی به سد درودزن است که ابوالقاسم فردوسی در شاهنامه از آن‌ها یاد کرده است.\n🔹️\nفردوسی در بیتی مشهور درباره این منطقه چنین می‌سراید:\n«کنام دلیران ایران زمین / گل است و گلاب و سه تخت گزین»\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143355",
+        "post_id": 143355,
+        "message_id": 7594,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-09T11:20:18.542705+00:00"
+      },
+      {
+        "fingerprint": "3a1e9c4b1b5fb45b91a0c0d34608c5b36e08e17ed9b8f9418da72f29212b1399",
+        "media_fingerprint": "c059eda845a730eb5932a941fe179c29da42c0267d02dfbd11c55398ff54a0f1",
+        "text": "ماری کوری ملکهٔ رادیواکتیویته که حتی جسدش هم دارای رادیو اکتیو است\n.\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "ماری کوری ملکهٔ رادیواکتیویته که حتی جسدش هم دارای رادیو اکتیو است\n.\n@irWonders",
+        "original_link": "https://t.me/irwonders/58506",
+        "post_id": 58506,
+        "message_id": 7595,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-09T11:20:25.473901+00:00"
+      },
+      {
+        "fingerprint": "c6df68e87a356a440d44158a3ae9fa4cc2e6dfcaa581b4c35a315c664351103a",
+        "media_fingerprint": "",
+        "text": "📊\nنتایج پنج تقابل اخیر پرسپولیس-صنعت نفت\n⚽️\nصنعت نفت\n0⃣\n✅\n3⃣\nپرسپولیس\n⚽\n⚽\nپرسپولیس\n2⃣\n✅\n2⃣\nصنعت نفت\n⚽️\n⚽️\nصنعت نفت\n1⃣\n✅\n2⃣\nپرسپولیس\n⚽\n⚽\nپرسپولیس\n2⃣\n✅\n0⃣\nصنعت نفت\n⚽️\n⚽️\nصنعت نفت\n2⃣\n✅\n0⃣\nپرسپولیس\n⚽\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "📊\nنتایج پنج تقابل اخیر پرسپولیس-صنعت نفت\n⚽️\nصنعت نفت\n0⃣\n✅\n3⃣\nپرسپولیس\n⚽\n⚽\nپرسپولیس\n2⃣\n✅\n2⃣\nصنعت نفت\n⚽️\n⚽️\nصنعت نفت\n1⃣\n✅\n2⃣\nپرسپولیس\n⚽\n⚽\nپرسپولیس\n2⃣\n✅\n0⃣\nصنعت نفت\n⚽️\n⚽️\nصنعت نفت\n2⃣\n✅\n0⃣\nپرسپولیس\n⚽\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/84533",
+        "post_id": 84533,
+        "message_id": 7596,
+        "message_kind": "text",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-09T11:20:28.518297+00:00"
+      },
+      {
+        "fingerprint": "36fdd403e9521b83ec4a7d2491d0af8319a1110618707bc2caad703924622dbe",
+        "media_fingerprint": "cb0db1c6e4ef440a09e60e7f67a6db078af03c636abb9157b638648b21be55bf",
+        "text": "از توصیه های ننه جون: اگه خواستی بمال، ولی نکار، چون زشت تر میشی\n😄\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "از توصیه های ننه جون: اگه خواستی بمال، ولی نکار، چون زشت تر میشی\n😄\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163005",
+        "post_id": 163005,
+        "message_id": 7597,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-09T11:20:37.241469+00:00"
+      },
+      {
+        "fingerprint": "2d20ddd5fbc25da33eaa5a27a9a5f649ae2caf8b237e118354f19771b925a8a6",
+        "media_fingerprint": "7606fef616721754408b0091a780489a97d9e0bc5a3d5800e760bb14070b2b94",
+        "text": "خواهر است دیگر :)\nتا تو بخوای نصیحت کنی، اون رفت\n😄\nحواسشم به مسیر بود کسی رو نمیدید. یاد بگیرید ازش\n😁\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "خواهر است دیگر :)\nتا تو بخوای نصیحت کنی، اون رفت\n😄\nحواسشم به مسیر بود کسی رو نمیدید. یاد بگیرید ازش\n😁\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163006",
+        "post_id": 163006,
+        "message_id": 7598,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-09T11:20:41.916872+00:00"
+      },
+      {
+        "fingerprint": "d0e4949d9d5a43f2ebc50645fcd48f21db2b189bddf1a42294faf60e5e3fdc30",
+        "media_fingerprint": "3563560bc103184c416392782006492e7f736aa00a6b748c724c7771ae468d6b",
+        "text": "این توریست خارجی این ویدیو رو در مورد ایران ساخته\nو نوشته : ایران عالی بود! عالی!\nراننده تاکسی بهش میگه قابل نداره، پول رو میذاره جیبش می‌ره، راننده می‌ دوئه دنبالش\n😂\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "این توریست خارجی این ویدیو رو در مورد ایران ساخته\nو نوشته : ایران عالی بود! عالی!\nراننده تاکسی بهش میگه قابل نداره، پول رو میذاره جیبش می‌ره، راننده می‌ دوئه دنبالش\n😂\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163008",
+        "post_id": 163008,
+        "message_id": 7599,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-09T11:20:50.089854+00:00"
       }
     ]
   }
