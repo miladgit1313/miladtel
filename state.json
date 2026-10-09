@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143382,
+      "last_id": 143384,
       "processed_ids": [
-        142281,
-        142282,
         142283,
         142284,
         142285,
@@ -1002,17 +1000,15 @@
         143379,
         143380,
         143381,
-        143382
+        143382,
+        143383,
+        143384
       ],
-      "sent_count": 810
+      "sent_count": 811
     },
     "total_fut": {
-      "last_id": 237593,
+      "last_id": 237598,
       "processed_ids": [
-        236542,
-        236543,
-        236544,
-        236545,
         236546,
         236547,
         236548,
@@ -2008,14 +2004,17 @@
         237590,
         237591,
         237592,
-        237593
+        237593,
+        237595,
+        237596,
+        237597,
+        237598
       ],
-      "sent_count": 107
+      "sent_count": 109
     },
     "footballvision2": {
-      "last_id": 170887,
+      "last_id": 170888,
       "processed_ids": [
-        169790,
         169791,
         169792,
         169793,
@@ -3014,7 +3013,8 @@
         170884,
         170885,
         170886,
-        170887
+        170887,
+        170888
       ],
       "sent_count": 115
     },
@@ -4978,7 +4978,7 @@
       "sent_count": 125
     },
     "akhbar_cafenet": {
-      "last_id": 23140,
+      "last_id": 23141,
       "processed_ids": [
         22432,
         22433,
@@ -5647,7 +5647,8 @@
         23137,
         23138,
         23139,
-        23140
+        23140,
+        23141
       ],
       "sent_count": 369
     },
@@ -7968,7 +7969,7 @@
       "sent_count": 243
     },
     "ajayebe_jahann": {
-      "last_id": 159667,
+      "last_id": 159669,
       "processed_ids": [
         158956,
         158957,
@@ -8670,9 +8671,11 @@
         159664,
         159665,
         159666,
-        159667
+        159667,
+        159668,
+        159669
       ],
-      "sent_count": 298
+      "sent_count": 299
     },
     "etelaate_omoomi": {
       "last_id": 43128,
@@ -8871,10 +8874,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109494,
+      "last_id": 109496,
       "processed_ids": [
-        108417,
-        108418,
         108419,
         108420,
         108421,
@@ -9872,15 +9873,15 @@
         109491,
         109492,
         109493,
-        109494
+        109494,
+        109495,
+        109496
       ],
-      "sent_count": 108
+      "sent_count": 109
     },
     "varzesh3": {
-      "last_id": 303711,
+      "last_id": 303713,
       "processed_ids": [
-        302622,
-        302623,
         302624,
         302625,
         302626,
@@ -10878,7 +10879,9 @@
         303708,
         303709,
         303710,
-        303711
+        303711,
+        303712,
+        303713
       ],
       "sent_count": 79
     },
@@ -12623,9 +12626,8 @@
       "sent_count": 164
     },
     "futball180tv": {
-      "last_id": 108209,
+      "last_id": 108210,
       "processed_ids": [
-        107191,
         107192,
         107193,
         107194,
@@ -13624,17 +13626,14 @@
         108206,
         108207,
         108208,
-        108209
+        108209,
+        108210
       ],
       "sent_count": 70
     },
     "hattric_official": {
-      "last_id": 84593,
+      "last_id": 84597,
       "processed_ids": [
-        83543,
-        83544,
-        83545,
-        83546,
         83547,
         83548,
         83549,
@@ -14630,12 +14629,16 @@
         84590,
         84591,
         84592,
-        84593
+        84593,
+        84594,
+        84595,
+        84596,
+        84597
       ],
       "sent_count": 110
     },
     "mazdak_hattrick": {
-      "last_id": 182466,
+      "last_id": 182467,
       "processed_ids": [
         181991,
         181992,
@@ -15103,7 +15106,8 @@
         182463,
         182464,
         182465,
-        182466
+        182466,
+        182467
       ],
       "sent_count": 42
     },
@@ -15243,7 +15247,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58522,
+      "last_id": 58523,
       "processed_ids": [
         58030,
         58031,
@@ -15687,9 +15691,10 @@
         58519,
         58520,
         58521,
-        58522
+        58522,
+        58523
       ],
-      "sent_count": 282
+      "sent_count": 283
     },
     "razcom": {
       "last_id": 70490,
@@ -18063,7 +18068,7 @@
       "sent_count": 50
     },
     "peach_tweet": {
-      "last_id": 3040,
+      "last_id": 3070,
       "processed_ids": [
         2745,
         2749,
@@ -18235,9 +18240,24 @@
         3035,
         3036,
         3039,
-        3040
+        3040,
+        3046,
+        3047,
+        3053,
+        3055,
+        3056,
+        3057,
+        3058,
+        3059,
+        3060,
+        3063,
+        3064,
+        3067,
+        3068,
+        3069,
+        3070
       ],
-      "sent_count": 112
+      "sent_count": 118
     },
     "funy_khand": {
       "last_id": 25729,
@@ -18274,187 +18294,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "8d5bdc3cc48f9471b7fc6632c62bdced371e8e250ba1a8e5fe49911f09f073e6",
-        "media_fingerprint": "72460d09a9b5cfc76e54a7ed231e05ac242db37430993e0ed796fb0427ff2d16",
-        "text": "هنرمندی که تکرار نمی‌شود\n❤️\n📅\n۱۴ مهر، سالروز درگذشت آتیلا پسیانی؛ هنرمندی که رد حضورش در سینما، تئاتر و تلویزیون ایران ماندگار است\n🎭\nاز «مسافران» و «دو زن» تا «آب و آتش»، «چه کسی امیر را کشت؟» و سریال‌هایی مثل «گمگشته» و «زیر تیغ»؛ هر بار می‌شد وجه تازه‌ای از بازی او را دید.\n✨\nبازیگری که چه روی صحنه تئاتر و چه مقابل دوربین، از تجربه کردن و رفتن به سمت مسیرهای تازه دست نکشید.\n🔍\nگزیده فیلم‌های آتیلا پسیانی\n@cinematicketorg",
-        "original_username": "cinematicketorg",
-        "original_text": "هنرمندی که تکرار نمی‌شود\n❤️\n📅\n۱۴ مهر، سالروز درگذشت آتیلا پسیانی؛ هنرمندی که رد حضورش در سینما، تئاتر و تلویزیون ایران ماندگار است\n🎭\nاز «مسافران» و «دو زن» تا «آب و آتش»، «چه کسی امیر را کشت؟» و سریال‌هایی مثل «گمگشته» و «زیر تیغ»؛ هر بار می‌شد وجه تازه‌ای از بازی او را دید.\n✨\nبازیگری که چه روی صحنه تئاتر و چه مقابل دوربین، از تجربه کردن و رفتن به سمت مسیرهای تازه دست نکشید.\n🔍\nگزیده فیلم‌های آتیلا پسیانی\n@cinematicketorg",
-        "original_link": "https://t.me/cinematicketorg/24390",
-        "post_id": 24390,
-        "message_id": 6821,
-        "message_kind": "caption",
-        "sources": [
-          "cinematicketorg"
-        ],
-        "created_at": "2026-10-06T18:21:38.848930+00:00"
-      },
-      {
-        "fingerprint": "d98e4bbb9376fa8f650fca69e733b55e8d15f5680493d10ce273c2161b8e48c8",
-        "media_fingerprint": "7ed2a596cf8b1c1f67bd1b75ecbf0a37f5a4105ce468604d81a0dbcdab81e59c",
-        "text": "📶\nرایتل بطور رسمی اعلام ورشکستگی کرد و سهام خودش رو به مبلغ 130 هزار میلیارد مزایده گذاشت!\n@RoidBest",
-        "original_username": "roidbest",
-        "original_text": "📶\nرایتل بطور رسمی اعلام ورشکستگی کرد و سهام خودش رو به مبلغ 130 هزار میلیارد مزایده گذاشت!\n@RoidBest",
-        "original_link": "https://t.me/RoidBest/21795",
-        "post_id": 21795,
-        "message_id": 6822,
-        "message_kind": "caption",
-        "sources": [
-          "roidbest"
-        ],
-        "created_at": "2026-10-06T18:21:42.809015+00:00"
-      },
-      {
-        "fingerprint": "ea2aba60506e02fe357d122a54c956edd7df524256ee7bef5759c524e75c1879",
-        "media_fingerprint": "ff8f52892addcca9858cef96b1df9ef6a06d417f2b80afda02921eed7a1bab50",
-        "text": "🔴\nاگه تو خیابون یه نفر خِفتتون کرد و شما ترسیدید، به یاد این فنِ استاد بیفتید و اجراش کنید؛\nتو این فن یاد میگیرید که چطور بیضه‌های طرف رو تو کسری از ثانیه قیچی کنید..\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nاگه تو خیابون یه نفر خِفتتون کرد و شما ترسیدید، به یاد این فنِ استاد بیفتید و اجراش کنید؛\nتو این فن یاد میگیرید که چطور بیضه‌های طرف رو تو کسری از ثانیه قیچی کنید..\n@DrTeL",
-        "original_link": "https://t.me/drtel/67427",
-        "post_id": 67427,
-        "message_id": 6823,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-06T18:21:49.355347+00:00"
-      },
-      {
-        "fingerprint": "fa09c70c92c5b58921b7c4a8b957ba272b6f7b2255bb716488bb6d990c7cc774",
-        "media_fingerprint": "be9ce362595272f7da277f4b4ec1edfddbbc09685366aa0d96e2b106656aac53",
-        "text": "جلوگیری از حشرات مزاحم خونه از زبون خودشون\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "جلوگیری از حشرات مزاحم خونه از زبون خودشون\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159572",
-        "post_id": 159572,
-        "message_id": 6824,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-06T18:21:54.458623+00:00"
-      },
-      {
-        "fingerprint": "2e98d2eecc13af59fe1f2ed4076a1d457f83e789e5fcb5589feee8f4af1d18e7",
-        "media_fingerprint": "da8ae8ebb257e9344b7ef384ca60db0d725cee326d7b7622c5528b589a84dca8",
-        "text": "راز شروع طاعون؛ همه‌گیری مرگبار از کجا آمد\n؟\n🦠\nطاعون یکی از مرگبارترین بیماری‌های تاریخ بود که عاملش باکتری Yersinia pestis است و بیشتر از طریق کک‌های آلوده و جوندگان منتقل می‌شود.\n📍\nدر قرن چهاردهم، «مرگ سیاه» بخش‌هایی از آسیا، اروپا و شمال آفریقا را فرا گرفت و حدود ۷۵ تا ۲۰۰ میلیون نفر جان باختند.\n☠️\nاروپا در این فاجعه حدود یک‌سوم تا نیمی از جمعیتش را از دست داد؛ بیماری‌ای که بدون درمان مدرن، با قرنطینه و محدودیت رفت‌وآمد به‌تدریج کنترل شد.\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "راز شروع طاعون؛ همه‌گیری مرگبار از کجا آمد\n؟\n🦠\nطاعون یکی از مرگبارترین بیماری‌های تاریخ بود که عاملش باکتری Yersinia pestis است و بیشتر از طریق کک‌های آلوده و جوندگان منتقل می‌شود.\n📍\nدر قرن چهاردهم، «مرگ سیاه» بخش‌هایی از آسیا، اروپا و شمال آفریقا را فرا گرفت و حدود ۷۵ تا ۲۰۰ میلیون نفر جان باختند.\n☠️\nاروپا در این فاجعه حدود یک‌سوم تا نیمی از جمعیتش را از دست داد؛ بیماری‌ای که بدون درمان مدرن، با قرنطینه و محدودیت رفت‌وآمد به‌تدریج کنترل شد.\n@irWonders",
-        "original_link": "https://t.me/irwonders/58394",
-        "post_id": 58394,
-        "message_id": 6825,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-06T18:22:01.342722+00:00"
-      },
-      {
-        "fingerprint": "270162ebd2668a553bf3f88baa7368e2daeb69bb41be4fcd0a4560069d1e518e",
-        "media_fingerprint": "a34aff684f2251debae4f92dced1ce1d6d76dd009505af42109e327168828345",
-        "text": "قبلنا نامه بر بودن الان ساقی شدن\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "قبلنا نامه بر بودن الان ساقی شدن\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162866",
-        "post_id": 162866,
-        "message_id": 6826,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-06T18:22:05.178590+00:00"
-      },
-      {
-        "fingerprint": "aa153fc1b894ebabfcbfb141ac00325f02503f8b2b03c71e50f40e7d82f10ed8",
-        "media_fingerprint": "543b1e52e520acd2188139ffdd40fd514fa18674539e1be36c4044f445cf6769",
-        "text": "تهدید حامیان رسایی:\nکاری نکنید مهرآباد را برایتان ناامن کنیم!\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "تهدید حامیان رسایی:\nکاری نکنید مهرآباد را برایتان ناامن کنیم!\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162867",
-        "post_id": 162867,
-        "message_id": 6827,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-06T18:22:10.967210+00:00"
-      },
-      {
-        "fingerprint": "c4b2997da017a378d649aeecf081f2db1e0a66a0a8e7e5aa2ae075923c842a6a",
-        "media_fingerprint": "bfde59b6e888f89c5a391cceabca8a8535e509bc5bc23257beb3a595163f3f7a",
-        "text": "داداشمون جوگیر شد و می‌خواست جلوی چند تا دختر خودی نشون بده که این شکلی بفنا رفت:\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "داداشمون جوگیر شد و می‌خواست جلوی چند تا دختر خودی نشون بده که این شکلی بفنا رفت:\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162869",
-        "post_id": 162869,
-        "message_id": 6828,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-06T18:22:16.430139+00:00"
-      },
-      {
-        "fingerprint": "0624cbb76a1ef62b9cf42968f056d538048dad7c09e28a967d2a856f6b99b413",
-        "media_fingerprint": "b3b30dba698d0fed13bd1b8058ce801f5b9460d540925d77ed601ab9ace76629",
-        "text": "یه نفر دید مار اومده توی خونه‌اش و داشت می‌گفت من حتی از مار دو سر هم نمی‌ ترسم که چند ثانیه بعدش این شاهکار خلق شد:\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "یه نفر دید مار اومده توی خونه‌اش و داشت می‌گفت من حتی از مار دو سر هم نمی‌ ترسم که چند ثانیه بعدش این شاهکار خلق شد:\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162870",
-        "post_id": 162870,
-        "message_id": 6829,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel",
-          "jaleb"
-        ],
-        "created_at": "2026-10-06T18:22:22.093654+00:00"
-      },
-      {
-        "fingerprint": "6e5dde7b3b2ea3e843aa3bd8af37be7b77b55cb2bb88cc6a6b3e437e21f91c14",
-        "media_fingerprint": "d7257126fb27e7fea7563a527f0b337e160ca63957e2fa28982ca0e74162de0f",
-        "text": "♦️\nهشدار مهم پیش از خرید ملک؛ سند و مشخصات مالک را حتماً بررسی کنید\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nهشدار مهم پیش از خرید ملک؛ سند و مشخصات مالک را حتماً بررسی کنید\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143189",
-        "post_id": 143189,
-        "message_id": 6830,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-06T18:22:25.948844+00:00"
-      },
-      {
-        "fingerprint": "9b636c0c21ea9b196162053ab68860e9995ffd0faa9017e5a8cacb1edeed1064",
-        "media_fingerprint": "d6496cd011ff9a54e04f54c1d7db0a1f990ca141e90fc4132750a3f4e5ac9a9f",
-        "text": "♦️\nاسب‌های فرال (وحشی شده) _ زرین‌دشت فارس\n(گونه اهلی که وارد طبیعت شده و به صورت آزاد زندگی می‌کند)\n🔹\nگونه‌های فرال هرچند که ممکن است زیبا و دلفریب باشند اما باید از طبیعت جدا شوند.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nاسب‌های فرال (وحشی شده) _ زرین‌دشت فارس\n(گونه اهلی که وارد طبیعت شده و به صورت آزاد زندگی می‌کند)\n🔹\nگونه‌های فرال هرچند که ممکن است زیبا و دلفریب باشند اما باید از طبیعت جدا شوند.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143190",
-        "post_id": 143190,
-        "message_id": 6831,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-06T18:22:37.853963+00:00"
-      },
-      {
-        "fingerprint": "5191eb8131ee6f11feaa0ae452f8d07154080e69f773d5464487523d5cb05177",
-        "media_fingerprint": "",
-        "text": "باشگاه پرسپولیس تماس",
-        "original_username": "adak_ir_official",
-        "original_text": "باشگاه پرسپولیس تماس",
-        "original_link": "https://t.me/ADAK_IR_official/234816",
-        "post_id": 234816,
-        "message_id": 6832,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-06T18:22:40.372611+00:00"
-      },
       {
         "fingerprint": "ff3142fc96ee468f84310589ac610727d435f9b4ff28c6b139c45f9e0063b819",
         "media_fingerprint": "",
@@ -32071,7 +31910,8 @@
         "message_id": 7774,
         "message_kind": "text",
         "sources": [
-          "adak_ir_official"
+          "adak_ir_official",
+          "mazdak_hattrick"
         ],
         "created_at": "2026-10-09T15:53:45.907120+00:00"
       },
@@ -33351,6 +33191,186 @@
           "peach_tweet"
         ],
         "created_at": "2026-10-09T17:50:19.220654+00:00"
+      },
+      {
+        "fingerprint": "aadf3a109dff386c3d9a16cd929e76a44699e1f0bb74316e287dcde86a204596",
+        "media_fingerprint": "05dc4c6978abf2901d5e59c41c06659fee8ee86cd57f6b30e5935a7e96ff1db1",
+        "text": "🎖️\n#توتال_گرافیک\n📊\n🏅\n🥇\nآمار بازی پرسپولیس\n⚔️\nنفت\nآبادان\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جایزه‌ هفتگی 10 میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_username": "total_fut",
+        "original_text": "🎖️\n#توتال_گرافیک\n📊\n🏅\n🥇\nآمار بازی پرسپولیس\n⚔️\nنفت\nآبادان\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جایزه‌ هفتگی 10 میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_link": "https://t.me/total_fut/237595",
+        "post_id": 237595,
+        "message_id": 7864,
+        "message_kind": "caption",
+        "sources": [
+          "total_fut"
+        ],
+        "created_at": "2026-10-09T18:22:11.454899+00:00"
+      },
+      {
+        "fingerprint": "6241703e7ff83c6604757fd91ee0e701152b95e87853709828eac439d4bf932f",
+        "media_fingerprint": "13099155a8671d040de590cb5db4a95722ab3e376e0ea0121ade9251e89b6b28",
+        "text": "وقتی کات میکنی میری طبعیت مووآن کنی\nواکنش طبعیت که منو یاد تو انداخت :\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "وقتی کات میکنی میری طبعیت مووآن کنی\nواکنش طبعیت که منو یاد تو انداخت :\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/3047",
+        "post_id": 3047,
+        "message_id": 7865,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-09T18:22:16.275724+00:00"
+      },
+      {
+        "fingerprint": "81fcc06d6dfe54e8ff3ce68608d8a4080d069dc4c91e72cc8d8ffcdbea46a158",
+        "media_fingerprint": "a3fbdd5e9f04a2050f027991110504943e88027b30c89a30c4ec7e13e69756e8",
+        "text": "آبنمایی در جمهوری چک که با قطرات آب، زمان و کلمات را در هوا نمایش می‌دهد!\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "آبنمایی در جمهوری چک که با قطرات آب، زمان و کلمات را در هوا نمایش می‌دهد!\n@irWonders",
+        "original_link": "https://t.me/irwonders/58523",
+        "post_id": 58523,
+        "message_id": 7866,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-09T18:22:24.498745+00:00"
+      },
+      {
+        "fingerprint": "d3ddc4075d4c29a45f41f29fb8f758848ab85a14579498f7e178f655c64b2e08",
+        "media_fingerprint": "6b50a0cccdf401e37b58663ff74d11ee4f5c2d6ffd0f5426cb227219d606d4ae",
+        "text": "ایشونم اون دختر اهوازیه که بهش بنز کادو دادن:\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "ایشونم اون دختر اهوازیه که بهش بنز کادو دادن:\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/3053",
+        "post_id": 3053,
+        "message_id": 7867,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-09T18:22:31.670714+00:00"
+      },
+      {
+        "fingerprint": "6f128244ba3e0a52c696abd8232ac10b7fa96b9d6f8cbcaf9634a2771ee81577",
+        "media_fingerprint": "985383a117ab920798feb4a2dddd371958ed0f63d996187c8146edd0fd3460d7",
+        "text": "تو گوهر دشت کرج یه خانم میره میشینه روی پای شوهرش خودشو بالا پایین میکنه میگه من میخوام.\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "تو گوهر دشت کرج یه خانم میره میشینه روی پای شوهرش خودشو بالا پایین میکنه میگه من میخوام.\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/3058",
+        "post_id": 3058,
+        "message_id": 7869,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-09T18:22:39.967553+00:00"
+      },
+      {
+        "fingerprint": "c48b081319c3eadaf718a94e66876f19a91e093faa6c2db65ea0d07fc270ca72",
+        "media_fingerprint": "",
+        "text": "🔸\nپرسپولیس ۲-[۱] صنعت‌نفت\n🔸\n⚽️\nباصری\n🔴\nدقیقه ۶۶  @Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "🔸\nپرسپولیس ۲-[۱] صنعت‌نفت\n🔸\n⚽️\nباصری\n🔴\nدقیقه ۶۶  @Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/109496",
+        "post_id": 109496,
+        "message_id": 7870,
+        "message_kind": "text",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-09T18:22:42.669273+00:00"
+      },
+      {
+        "fingerprint": "a1d5634a08ba51f054beaddeb8eb8653d92e5d18df3a0b583509a5bfbefc1afe",
+        "media_fingerprint": "980c29511eff1e34111912ab2a6d7f25809095d2be73e755734026f3e92577eb",
+        "text": "دخترم ۲۰ سالمه از طریق هوش مصنوعی ماهی ۲۰۰ میلیون درامد دارم؛ آموزشارو از این کانال یاد گرفتم رایگان:\n@ChatGPT",
+        "original_username": "peach_tweet",
+        "original_text": "دخترم ۲۰ سالمه از طریق هوش مصنوعی ماهی ۲۰۰ میلیون درامد دارم؛ آموزشارو از این کانال یاد گرفتم رایگان:\n@ChatGPT",
+        "original_link": "https://t.me/peach_tweet/3067",
+        "post_id": 3067,
+        "message_id": 7871,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-09T18:22:47.101005+00:00"
+      },
+      {
+        "fingerprint": "b2e2f8b5f2a214f8a72cdf6abd355e511e78dfcf5222844139539a59c4e74590",
+        "media_fingerprint": "",
+        "text": "♦️\nاخبار فارس در هفته ای که گذشت\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nاخبار فارس در هفته ای که گذشت\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143384",
+        "post_id": 143384,
+        "message_id": 7872,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-09T18:22:49.633433+00:00"
+      },
+      {
+        "fingerprint": "ed08bbdbdfc9363fcbb2bc868ecb8499ae933a6c02987e50a5907700d30a6eb5",
+        "media_fingerprint": "",
+        "text": "🔹\nکار هوش مصنوعی با حقوق ساعتی ۴۵۰تومن :\n@Kaaar",
+        "original_username": "peach_tweet",
+        "original_text": "🔹\nکار هوش مصنوعی با حقوق ساعتی ۴۵۰تومن :\n@Kaaar",
+        "original_link": "https://t.me/peach_tweet/3068",
+        "post_id": 3068,
+        "message_id": 7873,
+        "message_kind": "text",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-09T18:22:52.264847+00:00"
+      },
+      {
+        "fingerprint": "565d240f5343e625ae579a4d45a770f1f02c6368b5ed4d06da4fbe6f47c28866",
+        "media_fingerprint": "",
+        "text": "",
+        "original_username": "ajayebe_jahann",
+        "original_text": "",
+        "original_link": "https://t.me/Ajayebe_jahann/159669",
+        "post_id": 159669,
+        "message_id": 7874,
+        "message_kind": "text",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-09T18:22:54.859295+00:00"
+      },
+      {
+        "fingerprint": "9685cc46d1594d2d3c269e8c1aa50448eb344e54069224eb0ede00f38b694a63",
+        "media_fingerprint": "",
+        "text": "⭕️\nکار با هوش‌مصنوعی با حقوق هفتگی ۳۷/۰۰۰/۰۰۰ میلیون\n😐\n:\n@Kaaar",
+        "original_username": "peach_tweet",
+        "original_text": "⭕️\nکار با هوش‌مصنوعی با حقوق هفتگی ۳۷/۰۰۰/۰۰۰ میلیون\n😐\n:\n@Kaaar",
+        "original_link": "https://t.me/peach_tweet/3070",
+        "post_id": 3070,
+        "message_id": 7875,
+        "message_kind": "text",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-09T18:22:57.531976+00:00"
+      },
+      {
+        "fingerprint": "fb60dea2dd74338ed2adf3749beaf33028c46dbb9385cc12b96d00974f1d6448",
+        "media_fingerprint": "7da17a23c4a97840cf68c29719c8bd7adbd5a5a21996a603948a8ce3c1c0e8f2",
+        "text": "🏅\nبه‌ جا مانده از بازی پرسپولیس و صنعت‌نفت؛ ابوالفضل جلالی با اتوبوس پرسپولیسی‌ها برنگشت!\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_username": "total_fut",
+        "original_text": "🏅\nبه‌ جا مانده از بازی پرسپولیس و صنعت‌نفت؛ ابوالفضل جلالی با اتوبوس پرسپولیسی‌ها برنگشت!\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_link": "https://t.me/total_fut/237598",
+        "post_id": 237598,
+        "message_id": 7876,
+        "message_kind": "caption",
+        "sources": [
+          "total_fut"
+        ],
+        "created_at": "2026-10-09T18:23:11.230837+00:00"
       }
     ]
   }
