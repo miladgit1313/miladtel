@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143429,
+      "last_id": 143431,
       "processed_ids": [
-        142326,
-        142327,
         142328,
         142329,
         142330,
@@ -1002,17 +1000,15 @@
         143426,
         143427,
         143428,
-        143429
+        143429,
+        143430,
+        143431
       ],
-      "sent_count": 838
+      "sent_count": 839
     },
     "total_fut": {
-      "last_id": 237645,
+      "last_id": 237649,
       "processed_ids": [
-        236594,
-        236595,
-        236596,
-        236597,
         236598,
         236599,
         236600,
@@ -2008,7 +2004,11 @@
         237642,
         237643,
         237644,
-        237645
+        237645,
+        237646,
+        237647,
+        237648,
+        237649
       ],
       "sent_count": 115
     },
@@ -3048,7 +3048,7 @@
       "sent_count": 4
     },
     "fars_today": {
-      "last_id": 132178,
+      "last_id": 132180,
       "processed_ids": [
         131975,
         131976,
@@ -3249,7 +3249,8 @@
         132175,
         132176,
         132177,
-        132178
+        132178,
+        132180
       ],
       "sent_count": 115
     },
@@ -5044,7 +5045,7 @@
       "sent_count": 128
     },
     "akhbar_cafenet": {
-      "last_id": 23172,
+      "last_id": 23176,
       "processed_ids": [
         22432,
         22433,
@@ -5745,9 +5746,12 @@
         23169,
         23170,
         23171,
-        23172
+        23172,
+        23173,
+        23174,
+        23176
       ],
-      "sent_count": 388
+      "sent_count": 389
     },
     "comentiat": {
       "last_id": 26412,
@@ -6229,7 +6233,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38688,
+      "last_id": 38689,
       "processed_ids": [
         38432,
         38433,
@@ -6484,9 +6488,10 @@
         38685,
         38686,
         38687,
-        38688
+        38688,
+        38689
       ],
-      "sent_count": 152
+      "sent_count": 153
     },
     "gizmiztel": {
       "last_id": 163069,
@@ -9032,24 +9037,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109570,
+      "last_id": 109587,
       "processed_ids": [
-        108496,
-        108497,
-        108498,
-        108499,
-        108500,
-        108501,
-        108504,
-        108505,
-        108506,
-        108507,
-        108508,
-        108509,
-        108510,
-        108511,
-        108512,
-        108514,
         108515,
         108516,
         108517,
@@ -10033,18 +10022,29 @@
         109567,
         109568,
         109569,
-        109570
+        109570,
+        109571,
+        109572,
+        109573,
+        109574,
+        109575,
+        109576,
+        109577,
+        109578,
+        109579,
+        109580,
+        109581,
+        109582,
+        109583,
+        109585,
+        109586,
+        109587
       ],
-      "sent_count": 118
+      "sent_count": 119
     },
     "varzesh3": {
-      "last_id": 303757,
+      "last_id": 303762,
       "processed_ids": [
-        302676,
-        302678,
-        302679,
-        302680,
-        302681,
         302682,
         302683,
         302684,
@@ -11039,7 +11039,12 @@
         303754,
         303755,
         303756,
-        303757
+        303757,
+        303758,
+        303759,
+        303760,
+        303761,
+        303762
       ],
       "sent_count": 81
     },
@@ -11804,12 +11809,8 @@
       "sent_count": 51
     },
     "adak_ir_official": {
-      "last_id": 235127,
+      "last_id": 235131,
       "processed_ids": [
-        234100,
-        234101,
-        234102,
-        234103,
         234104,
         234105,
         234106,
@@ -12805,15 +12806,17 @@
         235124,
         235125,
         235126,
-        235127
+        235127,
+        235128,
+        235129,
+        235130,
+        235131
       ],
       "sent_count": 173
     },
     "futball180tv": {
-      "last_id": 108265,
+      "last_id": 108267,
       "processed_ids": [
-        107249,
-        107250,
         107251,
         107252,
         107253,
@@ -13811,9 +13814,11 @@
         108262,
         108263,
         108264,
-        108265
+        108265,
+        108266,
+        108267
       ],
-      "sent_count": 76
+      "sent_count": 77
     },
     "hattric_official": {
       "last_id": 84642,
@@ -15452,7 +15457,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58554,
+      "last_id": 58555,
       "processed_ids": [
         58030,
         58031,
@@ -15927,7 +15932,8 @@
         58551,
         58552,
         58553,
-        58554
+        58554,
+        58555
       ],
       "sent_count": 299
     },
@@ -18638,7 +18644,7 @@
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6151,
+      "last_id": 6152,
       "processed_ids": [
         6113,
         6114,
@@ -18676,88 +18682,14 @@
         6148,
         6149,
         6150,
-        6151
+        6151,
+        6152
       ],
       "sent_count": 2
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "2e993805b5f07554ebd97887384cf6721ee8f501a2504ad31f005f486189c23c",
-        "media_fingerprint": "",
-        "text": "✅️\nاعلام قیمت جدید خودروی وانت آریسان 2 دوگانه سوز محصول شرکت ایران خودرو\n❌\nقیمت جدید : 2.026 میلیارد تومان\nقیمت قبل : 1.821 میلیارد تومان\n▫️\nمیزان افزایش : 205 میلیون تومان",
-        "original_username": "sabtnamkh0dro",
-        "original_text": "✅️\nاعلام قیمت جدید خودروی وانت آریسان 2 دوگانه سوز محصول شرکت ایران خودرو\n❌\nقیمت جدید : 2.026 میلیارد تومان\nقیمت قبل : 1.821 میلیارد تومان\n▫️\nمیزان افزایش : 205 میلیون تومان",
-        "original_link": "https://t.me/sabtnamkh0dro/14352",
-        "post_id": 14352,
-        "message_id": 7098,
-        "message_kind": "text",
-        "sources": [
-          "sabtnamkh0dro"
-        ],
-        "created_at": "2026-10-07T18:24:34.135775+00:00"
-      },
-      {
-        "fingerprint": "355315ad108cff685ca11f921edc7f5037c97b544263060358e1392ed62600aa",
-        "media_fingerprint": "",
-        "text": "🚨\n🔴\nباشگاه پرسپولیس پس از تشکیل این والیبال، تیم فوتبال ساحلی بانوان تشکیل داد و مثل استقلال‌ قرار است در سایر رشته‌ها هم وارد شود.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n🔴\nباشگاه پرسپولیس پس از تشکیل این والیبال، تیم فوتبال ساحلی بانوان تشکیل داد و مثل استقلال‌ قرار است در سایر رشته‌ها هم وارد شود.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/234880",
-        "post_id": 234880,
-        "message_id": 7099,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-07T18:24:37.170698+00:00"
-      },
-      {
-        "fingerprint": "b994a03998e26adc282ae33ac681038065a7495eed389a30ed81f632916e0116",
-        "media_fingerprint": "b5a99b736188a1569a35a1336ea03dc96b2f59c0b4eabfcd885912a16c41ff37",
-        "text": "🔴\nسقوط و آتش‌سوزی یک هواپیما در تگزاس آمریکا\n🔹\nیک فروند هواپیما در منطقه فورت‌ورث واقع در ایالت تگزاس آمریکا سقوط کرد و دچار آتش‌سوزی شدید شد.\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "🔴\nسقوط و آتش‌سوزی یک هواپیما در تگزاس آمریکا\n🔹\nیک فروند هواپیما در منطقه فورت‌ورث واقع در ایالت تگزاس آمریکا سقوط کرد و دچار آتش‌سوزی شدید شد.\n@irWonders",
-        "original_link": "https://t.me/irwonders/58434",
-        "post_id": 58434,
-        "message_id": 7100,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-07T18:24:42.792121+00:00"
-      },
-      {
-        "fingerprint": "2cbfcf18a64dca11d54dceb212c571e983a4132d27fb3cc9c815be7bec7580ea",
-        "media_fingerprint": "",
-        "text": "🔴\nعراقچی: شروط و ملاحظات ایران را در قالب یک طرح دقیق و عملیاتی به میانجی‌ها ارائه کردیم\n🔹\nایران همچنان که در دفاع از خود سرسخت و مصمم است در بهره‌گیری از ابزار دیپلماسی نیز جدی است\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "🔴\nعراقچی: شروط و ملاحظات ایران را در قالب یک طرح دقیق و عملیاتی به میانجی‌ها ارائه کردیم\n🔹\nایران همچنان که در دفاع از خود سرسخت و مصمم است در بهره‌گیری از ابزار دیپلماسی نیز جدی است\n@irWonders",
-        "original_link": "https://t.me/irwonders/58435",
-        "post_id": 58435,
-        "message_id": 7101,
-        "message_kind": "text",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-07T18:24:45.808764+00:00"
-      },
-      {
-        "fingerprint": "a637d13b90e05954f38878509e18f0815c2ea3b78336c00cb51d8eceda3df75e",
-        "media_fingerprint": "2bd5b05f4adbb4a6c6742fad69f5083c26e8fa86d2e499340d3cb2728c0ddfc6",
-        "text": "❤️\nرایتل: ورشکست نشدیم\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "❤️\nرایتل: ورشکست نشدیم\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/23085",
-        "post_id": 23085,
-        "message_id": 7102,
-        "message_kind": "caption",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-07T18:24:53.183188+00:00"
-      },
       {
         "fingerprint": "65e81c874e4e247ee8772fee3d98291a380d7d25aaff6dac089644039199e832",
         "media_fingerprint": "bee51b8c5fd3c3f436c492af85c95856275dc55a1424c064aaab82afabbb394c",
@@ -33763,6 +33695,81 @@
           "akhbarfars"
         ],
         "created_at": "2026-10-10T14:46:44.534854+00:00"
+      },
+      {
+        "fingerprint": "9a5d30fc7a92ca4a2607953121efaa557c8b9d4c970fbe4cc083a42748555671",
+        "media_fingerprint": "bdd751810ffa3a43274c5fdf5bf672b5f9fb1e059d4bffdeb67a91f82437ff04",
+        "text": "برای جذب آهن چه بخوریم؟\n◽️\nمنابع گیاهی آهن، جذب خوبی در بدن ندارند اما اگر میخواهید از آنها استفاده کنید میوه های خشک، تخم کدو، حبوبات و غذاهای غنی شده را وارد رژیم غذایی تان نمایید\n◽️\nهمراه آهن، حتما ویتامین ث مصرف کنید تا جذب آن سریعتر و بهترباشد\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "برای جذب آهن چه بخوریم؟\n◽️\nمنابع گیاهی آهن، جذب خوبی در بدن ندارند اما اگر میخواهید از آنها استفاده کنید میوه های خشک، تخم کدو، حبوبات و غذاهای غنی شده را وارد رژیم غذایی تان نمایید\n◽️\nهمراه آهن، حتما ویتامین ث مصرف کنید تا جذب آن سریعتر و بهترباشد\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38689",
+        "post_id": 38689,
+        "message_id": 8137,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-10T15:17:40.281324+00:00"
+      },
+      {
+        "fingerprint": "8d1c84bf8a8de54b85f0280446ae685a6ea874a8082f0a4ef195ab614e4b5c34",
+        "media_fingerprint": "1695a478bac127fb4a41d154de3ec758b3282cbc5ff8773ef13fa9b71ffe7ffa",
+        "text": "👨‍🎓\nرئیس صندوق رفاه دانشجویان: تلاش می‌کنیم وام ودیعه مسکن را در شهرهای بزرگ به ۷۰۰ میلیون تومان برسانیم\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "👨‍🎓\nرئیس صندوق رفاه دانشجویان: تلاش می‌کنیم وام ودیعه مسکن را در شهرهای بزرگ به ۷۰۰ میلیون تومان برسانیم\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23173",
+        "post_id": 23173,
+        "message_id": 8138,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-10T15:17:46.181945+00:00"
+      },
+      {
+        "fingerprint": "a47eeb63ce09e31114b136555b0e2fb7319dcc40254f6c4071eff708cc0866ab",
+        "media_fingerprint": "08b90f6b9b06453498a23c74a51c96245cc482dab9db18cbfd47b5d45cefe238",
+        "text": "با گزارش عادل‌ فردوسی‌پور\n🔸\nلیورپول\n🆚\nمنچسترسیتی\n🔸\n🕖\nیک‌شنبه ساعت ۱۹:۰۰ در فوتبال ۳۶۰\n🔸\nهفته ۶ لیگ برتر انگلیس\n💻\nپخش هم‌زمان در آپارات‌اسپرت\n🔗\nاینجا تماشا کنید (بدون VPN)\n@Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "با گزارش عادل‌ فردوسی‌پور\n🔸\nلیورپول\n🆚\nمنچسترسیتی\n🔸\n🕖\nیک‌شنبه ساعت ۱۹:۰۰ در فوتبال ۳۶۰\n🔸\nهفته ۶ لیگ برتر انگلیس\n💻\nپخش هم‌زمان در آپارات‌اسپرت\n🔗\nاینجا تماشا کنید (بدون VPN)\n@Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/109579",
+        "post_id": 109579,
+        "message_id": 8139,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-10T15:17:50.757703+00:00"
+      },
+      {
+        "fingerprint": "413f3fdae3725faadcf2cd0055b400489dc17b6d01742f4e1e5be95abb09d1cc",
+        "media_fingerprint": "",
+        "text": "♦️\nازکارافتادن کامل فرودگاه ریاض/ ۲۲۱ پرواز لغو شد\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nازکارافتادن کامل فرودگاه ریاض/ ۲۲۱ پرواز لغو شد\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143431",
+        "post_id": 143431,
+        "message_id": 8140,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-10T15:17:53.290393+00:00"
+      },
+      {
+        "fingerprint": "e6d790302db989326c1c05b82447ecfdbd3a43ff953c4f0c0ec3abaa59a5b073",
+        "media_fingerprint": "5b16cc2bc13b033f16d32590d537f56f3c0f3fd43e11577849b9fa7e3a73a87b",
+        "text": "🚨\n🇪🇸\nترکیب بارسلونا مقابل ختافه؛ ساعت ۲۰\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "🚨\n🇪🇸\nترکیب بارسلونا مقابل ختافه؛ ساعت ۲۰\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/108267",
+        "post_id": 108267,
+        "message_id": 8141,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-10T15:17:57.524399+00:00"
       }
     ]
   }
