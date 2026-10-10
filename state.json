@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143438,
+      "last_id": 143440,
       "processed_ids": [
-        142339,
-        142340,
         142341,
         142342,
         142343,
@@ -1002,17 +1000,15 @@
         143435,
         143436,
         143437,
-        143438
+        143438,
+        143439,
+        143440
       ],
-      "sent_count": 845
+      "sent_count": 846
     },
     "total_fut": {
-      "last_id": 237662,
+      "last_id": 237666,
       "processed_ids": [
-        236611,
-        236612,
-        236613,
-        236614,
         236615,
         236616,
         236617,
@@ -2008,15 +2004,17 @@
         237659,
         237660,
         237661,
-        237662
+        237662,
+        237663,
+        237664,
+        237665,
+        237666
       ],
-      "sent_count": 115
+      "sent_count": 116
     },
     "footballvision2": {
-      "last_id": 170966,
+      "last_id": 170968,
       "processed_ids": [
-        169862,
-        169863,
         169864,
         169865,
         169866,
@@ -3014,7 +3012,9 @@
         170963,
         170964,
         170965,
-        170966
+        170966,
+        170967,
+        170968
       ],
       "sent_count": 122
     },
@@ -3048,7 +3048,7 @@
       "sent_count": 4
     },
     "fars_today": {
-      "last_id": 132184,
+      "last_id": 132185,
       "processed_ids": [
         131975,
         131976,
@@ -3254,7 +3254,8 @@
         132181,
         132182,
         132183,
-        132184
+        132184,
+        132185
       ],
       "sent_count": 116
     },
@@ -3290,7 +3291,7 @@
       "sent_count": 7
     },
     "drtel": {
-      "last_id": 67557,
+      "last_id": 67559,
       "processed_ids": [
         66561,
         66565,
@@ -4077,9 +4078,11 @@
         67553,
         67554,
         67556,
-        67557
+        67557,
+        67558,
+        67559
       ],
-      "sent_count": 442
+      "sent_count": 444
     },
     "techtube": {
       "last_id": 18485,
@@ -6263,7 +6266,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38690,
+      "last_id": 38691,
       "processed_ids": [
         38432,
         38433,
@@ -6520,9 +6523,10 @@
         38687,
         38688,
         38689,
-        38690
+        38690,
+        38691
       ],
-      "sent_count": 154
+      "sent_count": 155
     },
     "gizmiztel": {
       "last_id": 163075,
@@ -9081,15 +9085,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109632,
+      "last_id": 109640,
       "processed_ids": [
-        108560,
-        108561,
-        108562,
-        108563,
-        108564,
-        108565,
-        108566,
         108567,
         108568,
         108569,
@@ -10082,18 +10079,20 @@
         109629,
         109630,
         109631,
-        109632
+        109632,
+        109634,
+        109635,
+        109636,
+        109637,
+        109638,
+        109639,
+        109640
       ],
-      "sent_count": 126
+      "sent_count": 127
     },
     "varzesh3": {
-      "last_id": 303788,
+      "last_id": 303793,
       "processed_ids": [
-        302705,
-        302706,
-        302707,
-        302708,
-        302709,
         302710,
         302711,
         302712,
@@ -11088,9 +11087,14 @@
         303784,
         303786,
         303787,
-        303788
+        303788,
+        303789,
+        303790,
+        303791,
+        303792,
+        303793
       ],
-      "sent_count": 84
+      "sent_count": 86
     },
     "totalfut_plus": {
       "last_id": 26654,
@@ -11859,12 +11863,8 @@
       "sent_count": 51
     },
     "adak_ir_official": {
-      "last_id": 235140,
+      "last_id": 235144,
       "processed_ids": [
-        234113,
-        234114,
-        234115,
-        234116,
         234117,
         234118,
         234119,
@@ -12860,16 +12860,17 @@
         235137,
         235138,
         235139,
-        235140
+        235140,
+        235141,
+        235142,
+        235143,
+        235144
       ],
       "sent_count": 176
     },
     "futball180tv": {
-      "last_id": 108289,
+      "last_id": 108292,
       "processed_ids": [
-        107271,
-        107272,
-        107273,
         107274,
         107275,
         107276,
@@ -13866,16 +13867,16 @@
         108285,
         108287,
         108288,
-        108289
+        108289,
+        108290,
+        108291,
+        108292
       ],
-      "sent_count": 81
+      "sent_count": 84
     },
     "hattric_official": {
-      "last_id": 84654,
+      "last_id": 84658,
       "processed_ids": [
-        83606,
-        83607,
-        83608,
         83609,
         83610,
         83611,
@@ -14872,12 +14873,15 @@
         84651,
         84652,
         84653,
-        84654
+        84654,
+        84655,
+        84657,
+        84658
       ],
       "sent_count": 117
     },
     "mazdak_hattrick": {
-      "last_id": 182493,
+      "last_id": 182496,
       "processed_ids": [
         181991,
         181992,
@@ -15371,7 +15375,8 @@
         182490,
         182491,
         182492,
-        182493
+        182493,
+        182496
       ],
       "sent_count": 44
     },
@@ -15511,7 +15516,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58564,
+      "last_id": 58565,
       "processed_ids": [
         58030,
         58031,
@@ -15996,9 +16001,10 @@
         58561,
         58562,
         58563,
-        58564
+        58564,
+        58565
       ],
-      "sent_count": 304
+      "sent_count": 305
     },
     "razcom": {
       "last_id": 70490,
@@ -18669,7 +18675,7 @@
       "sent_count": 146
     },
     "funy_khand": {
-      "last_id": 25757,
+      "last_id": 25759,
       "processed_ids": [
         25704,
         25705,
@@ -18724,12 +18730,14 @@
         25754,
         25755,
         25756,
-        25757
+        25757,
+        25758,
+        25759
       ],
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6167,
+      "last_id": 6168,
       "processed_ids": [
         6113,
         6114,
@@ -18780,195 +18788,14 @@
         6162,
         6163,
         6165,
-        6167
+        6167,
+        6168
       ],
       "sent_count": 2
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "fb7d1f411d9c7b01c703eb4690bbc6f57deb5df15fc8ecf083f8ae29df36253a",
-        "media_fingerprint": "407f3d8738ca808fb9d3aaf1556bbdc1d138d844042f0f1c9d560d467bdb9c70",
-        "text": "استوری مسی خطاب به پدرش : اصلا نمیدونی دیشب چقدر دلتنگت شده بودم\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "استوری مسی خطاب به پدرش : اصلا نمیدونی دیشب چقدر دلتنگت شده بودم\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52754",
-        "post_id": 52754,
-        "message_id": 7171,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-08T05:20:32.753838+00:00"
-      },
-      {
-        "fingerprint": "80e657ab1459c21f87073ba9e02a1b3046583413cca7c94fbb69a4bca5dcba99",
-        "media_fingerprint": "7d106611bf70d9294398ae245b9ff5586ed12ba3107bed87780855adefeefcee",
-        "text": "ارتش پاکستان تأیید کرد که نیروهای این کشور در چارچوب «پیمان مکه» در حال حاضر در عربستان سعودی مستقر هستند و در «حوزه‌ها و مأموریت‌های مختلف» فعالیت می‌کنند.\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "ارتش پاکستان تأیید کرد که نیروهای این کشور در چارچوب «پیمان مکه» در حال حاضر در عربستان سعودی مستقر هستند و در «حوزه‌ها و مأموریت‌های مختلف» فعالیت می‌کنند.\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52755",
-        "post_id": 52755,
-        "message_id": 7172,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-08T05:20:40.241041+00:00"
-      },
-      {
-        "fingerprint": "1ccb094c49778414be0c6e9eb2e1d829ed86c6057b32ed293cbc6b53c286086d",
-        "media_fingerprint": "",
-        "text": "📆\nبرنامه مسابقات امروز 16 مهر + پخش زنده\n🔹\nهفته هشتم لیگ برتر / نساجی - ذوب آهن / ساعت 16\n🔹\nهفته هشتم لیگ برتر / آلومینیوم - ملوان / ساعت 16\n🔹\nهفته هشتم لیگ برتر / گل‌گهر - استقلال خوزستان / ساعت 16:45\n🔹\nهفته هشتم لیگ برتر / تراکتور - استقلال\n📺\nشبکه 3 / ساعت 17\n🔹\nهفته هشتم لیگ برتر / سپاهان - فجر سپاسی / ساعت 18:45\n🔹\nهفته هشتم لیگ برتر / فولاد - مس شهر بابک / ساعت 19\n🆔\n@footballvision2",
-        "original_username": "footballvision2",
-        "original_text": "📆\nبرنامه مسابقات امروز 16 مهر + پخش زنده\n🔹\nهفته هشتم لیگ برتر / نساجی - ذوب آهن / ساعت 16\n🔹\nهفته هشتم لیگ برتر / آلومینیوم - ملوان / ساعت 16\n🔹\nهفته هشتم لیگ برتر / گل‌گهر - استقلال خوزستان / ساعت 16:45\n🔹\nهفته هشتم لیگ برتر / تراکتور - استقلال\n📺\nشبکه 3 / ساعت 17\n🔹\nهفته هشتم لیگ برتر / سپاهان - فجر سپاسی / ساعت 18:45\n🔹\nهفته هشتم لیگ برتر / فولاد - مس شهر بابک / ساعت 19\n🆔\n@footballvision2",
-        "original_link": "https://t.me/footballvision2/170592",
-        "post_id": 170592,
-        "message_id": 7173,
-        "message_kind": "text",
-        "sources": [
-          "footballvision2"
-        ],
-        "created_at": "2026-10-08T05:20:43.244287+00:00"
-      },
-      {
-        "fingerprint": "b6fbfd8086b7288bc428085758a608df76c97d66985f91ff793ec43add3467fb",
-        "media_fingerprint": "63c7821540cf7b06e4d4844d38130b744154dbdd8a8fa0cfdfa6cd6ab5277d6b",
-        "text": "🔺\n🔻\nمصرف چه تعداد تخم‌مرغ در هفته مناسب است؟\n🔹\nمحدود کردن مصرف به حدود ۷ تخم‌مرغ در هفته، تضمین می‌کند که بدون زیاده‌روی، از فواید آن بهره‌مند شوید.\n🔹\nاگر سن بالاتری دارید، سطح کلسترولتان در محدوده سالم است و در حال حاضر رژیم غذایی سالمی برای حفظ سلامت قلب را دنبال می‌کنید، مصرف ۱۴ تخم‌مرغ در هفته نیز معمولاً بلامانع است",
-        "original_username": "fars_today",
-        "original_text": "🔺\n🔻\nمصرف چه تعداد تخم‌مرغ در هفته مناسب است؟\n🔹\nمحدود کردن مصرف به حدود ۷ تخم‌مرغ در هفته، تضمین می‌کند که بدون زیاده‌روی، از فواید آن بهره‌مند شوید.\n🔹\nاگر سن بالاتری دارید، سطح کلسترولتان در محدوده سالم است و در حال حاضر رژیم غذایی سالمی برای حفظ سلامت قلب را دنبال می‌کنید، مصرف ۱۴ تخم‌مرغ در هفته نیز معمولاً بلامانع است",
-        "original_link": "https://t.me/Fars_today/132157",
-        "post_id": 132157,
-        "message_id": 7174,
-        "message_kind": "caption",
-        "sources": [
-          "fars_today",
-          "majalepezeshki"
-        ],
-        "created_at": "2026-10-08T05:49:26.452460+00:00"
-      },
-      {
-        "fingerprint": "8e7192a20692b5f785d25be6c329072afb8e6b852712186ef189562abe830a3f",
-        "media_fingerprint": "85014566f4a5cc62521e5c2ca753ce5c74cab3bd2c94e0bed7492dc018b098f8",
-        "text": "♦️\nبرنامه مسابقات امروز ۱۶ مهر\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nبرنامه مسابقات امروز ۱۶ مهر\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143268",
-        "post_id": 143268,
-        "message_id": 7175,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-08T05:49:30.895648+00:00"
-      },
-      {
-        "fingerprint": "4449b76244668f7561ea239ddeafa7c5e4a7cd061970034db9ec9bc7a411e499",
-        "media_fingerprint": "e5a05ceed2071b9c55b254637f587a7f0231f3af3aaaa2abafab1c3de2ea787e",
-        "text": "صبح که از خواب بیدار می شوید، به این فکر کنید که زنده بودن، اندیشیدن، لذت بردن، عشق ورزیدن چه امتیاز بزرگیست...\nسلام صبح پنج شنبه تون به شادی\n☕️\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "صبح که از خواب بیدار می شوید، به این فکر کنید که زنده بودن، اندیشیدن، لذت بردن، عشق ورزیدن چه امتیاز بزرگیست...\nسلام صبح پنج شنبه تون به شادی\n☕️\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/306847",
-        "post_id": 306847,
-        "message_id": 7176,
-        "message_kind": "caption",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-08T05:49:35.497060+00:00"
-      },
-      {
-        "fingerprint": "7ffc9b81c0955e0bbad091ef59a515e07e435987021bdb96b07a79bfa88539cc",
-        "media_fingerprint": "7885f89048cf49aab0c4e7e794cc43fb3368a8c275b7dc6c2ac0a8786e738f33",
-        "text": "شما در حال تماشای زیباترین خلقت خدا هستید...\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "شما در حال تماشای زیباترین خلقت خدا هستید...\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/306848",
-        "post_id": 306848,
-        "message_id": 7177,
-        "message_kind": "caption",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-08T05:49:42.394804+00:00"
-      },
-      {
-        "fingerprint": "d686e69e5118819e6710939dbe3b84062798e3857a2083ddc4484bdde5695beb",
-        "media_fingerprint": "",
-        "text": "🚨\n🔴\nعلی علیپور مشکلی برای بازی پرسپولیس با صنعت نفت آبادان ندارد اما در این بازی ذخیره خواهد بود.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n🔴\nعلی علیپور مشکلی برای بازی پرسپولیس با صنعت نفت آبادان ندارد اما در این بازی ذخیره خواهد بود.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/234896",
-        "post_id": 234896,
-        "message_id": 7178,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-08T05:49:45.203729+00:00"
-      },
-      {
-        "fingerprint": "8a42b363f03d2e1dfffcc90b68c439ee3fa6032c9ebb05a61abdae4704691faa",
-        "media_fingerprint": "63057b8419226486946b31da69add74f94dc8f7403e8f8bb0f2c6495465d902f",
-        "text": "کشورهایی که ایرانی‌ها می‌توانند بدون ویزا سفر کنند.\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "کشورهایی که ایرانی‌ها می‌توانند بدون ویزا سفر کنند.\n@irWonders",
-        "original_link": "https://t.me/irwonders/58447",
-        "post_id": 58447,
-        "message_id": 7179,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-08T05:49:51.483825+00:00"
-      },
-      {
-        "fingerprint": "dd0a99a59595331a6c257eb161f73d05ec9fa91b1aceaa1be18c712b0c6d549f",
-        "media_fingerprint": "bad2645aeee66855110f81b7471053a7e1369f14e6bca492b8e496d21a13bde5",
-        "text": "شروع و پایان روز وداع؛\n🔻\nمروری بر لحظات آخر مسی با تیم ملی آرژانتین\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "شروع و پایان روز وداع؛\n🔻\nمروری بر لحظات آخر مسی با تیم ملی آرژانتین\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159610",
-        "post_id": 159610,
-        "message_id": 7180,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-08T05:49:58.097028+00:00"
-      },
-      {
-        "fingerprint": "b4862a20aa28a59bb3d49f0f2d7b52a6047864abeb3d8d474f160afeeac0b7f7",
-        "media_fingerprint": "40ac3d36e16c4fce920be78766d5ecc558be09fc9764b7af7df97fbfab718b1a",
-        "text": "🎥\nخدمات‌دهی بیمه‌ای به روستائیان بدون مراجعه حضوری\n🔵\nمدیرعامل صندوق بیمه کشاورزان، روستائیان وعشایر: متقاضیان بیمه روستایی و عشایر، برای دریافت خدمات مجبور به مراجعه حضوری به کارگزاری‌ها نیستند.\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🎥\nخدمات‌دهی بیمه‌ای به روستائیان بدون مراجعه حضوری\n🔵\nمدیرعامل صندوق بیمه کشاورزان، روستائیان وعشایر: متقاضیان بیمه روستایی و عشایر، برای دریافت خدمات مجبور به مراجعه حضوری به کارگزاری‌ها نیستند.\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/23091",
-        "post_id": 23091,
-        "message_id": 7181,
-        "message_kind": "caption",
-        "sources": [
-          "akhbar_cafenet",
-          "coffeenetmanager"
-        ],
-        "created_at": "2026-10-08T05:50:04.417266+00:00"
-      },
-      {
-        "fingerprint": "816052735f790cbe586f3c3351a4158ac539aeaa31ace31fd0d319b5b0bcb565",
-        "media_fingerprint": "",
-        "text": "🏅\nدو غایب قطعی پرسپولیس برابر صنعت\n🔹\nحسین کنعانی‌زادگان و دانیال ایری به دلیل مصدومیت، دیدار پرسپولیس مقابل صنعت نفت را از دست می‌دهند.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_username": "total_fut",
-        "original_text": "🏅\nدو غایب قطعی پرسپولیس برابر صنعت\n🔹\nحسین کنعانی‌زادگان و دانیال ایری به دلیل مصدومیت، دیدار پرسپولیس مقابل صنعت نفت را از دست می‌دهند.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_link": "https://t.me/total_fut/237393",
-        "post_id": 237393,
-        "message_id": 7182,
-        "message_kind": "text",
-        "sources": [
-          "total_fut"
-        ],
-        "created_at": "2026-10-08T05:50:07.408130+00:00"
-      },
       {
         "fingerprint": "a277abe5cf768ca9c32605d8e2b9eb2309a48dce35f4da23169fc2585736e7ae",
         "media_fingerprint": "2d1b42f4308e35c5ae5f796b85ac90c1dc5db632807f26da1913a1c6f5b0f50c",
@@ -33871,6 +33698,187 @@
           "footballvision2"
         ],
         "created_at": "2026-10-10T18:22:00.773376+00:00"
+      },
+      {
+        "fingerprint": "2ce37cd4e7fea146dbc45ea4a88332e6fc5a5beb45facb2ac1489547a553d5eb",
+        "media_fingerprint": "",
+        "text": "✅\n🎖️\nتائید خبر اختصاصی توتال فوتبال...\n🏅\nمهدی رجب‌زاده به عنوان سرمربی فجرسپاسی انتخاب شد\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی | @Total_pishbinibot  @total_fut",
+        "original_username": "total_fut",
+        "original_text": "✅\n🎖️\nتائید خبر اختصاصی توتال فوتبال...\n🏅\nمهدی رجب‌زاده به عنوان سرمربی فجرسپاسی انتخاب شد\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی | @Total_pishbinibot  @total_fut",
+        "original_link": "https://t.me/total_fut/237663",
+        "post_id": 237663,
+        "message_id": 8209,
+        "message_kind": "text",
+        "sources": [
+          "total_fut"
+        ],
+        "created_at": "2026-10-10T18:51:04.633023+00:00"
+      },
+      {
+        "fingerprint": "aa5d476172a452ae2827c76698443fa6b05fa73e519c010b618b9c75623cafca",
+        "media_fingerprint": "ebbef71885befe8f69f800d10762ec2c3560a61ee7b7eb22127e2e161ff372ec",
+        "text": "با ضربه دقیق\n🔸\nبارسلونا [۲]-۰ ختافه\n🔸\n⚽️\nژسوس\n🔴\nدقیقه ۳۰\n🎞\nتماشای گل\n🔗\nپخش زنده در فوتبال ۳۶۰  @Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "با ضربه دقیق\n🔸\nبارسلونا [۲]-۰ ختافه\n🔸\n⚽️\nژسوس\n🔴\nدقیقه ۳۰\n🎞\nتماشای گل\n🔗\nپخش زنده در فوتبال ۳۶۰  @Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/109634",
+        "post_id": 109634,
+        "message_id": 8210,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-10T18:51:08.885503+00:00"
+      },
+      {
+        "fingerprint": "237d155ddc9ff28724bfe8f3fe5af70de2354cbbaa4ea95c60bc36d65358fccd",
+        "media_fingerprint": "5047ae424e7bddfaa5f71edaf81beac5dfe43e1d2fd5807e213fa1846c390c57",
+        "text": "🇪🇸\nگل‌سوم بارسلونا به ختافه توسط کونده\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "🇪🇸\nگل‌سوم بارسلونا به ختافه توسط کونده\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/108290",
+        "post_id": 108290,
+        "message_id": 8211,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-10T18:51:14.509723+00:00"
+      },
+      {
+        "fingerprint": "7d23cfef5d968751dd1a651a76ccf94032cdac3fdc2d784f2914338513a107a6",
+        "media_fingerprint": "c2ba7df6795173c815f7cb1621376c4b8b1b81d6a91d55cdab9d304665e5c1b0",
+        "text": "",
+        "original_username": "drtel",
+        "original_text": "",
+        "original_link": "https://t.me/drtel/67558",
+        "post_id": 67558,
+        "message_id": 8212,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-10T18:51:20.632070+00:00"
+      },
+      {
+        "fingerprint": "25ca295ae7bd03241f4d73d751c1074fb0f3f65ef197b53f371599d3caa2ced8",
+        "media_fingerprint": "4b4157e2a14d2b514b61dc13cff046553ba11e5da6b7d2b0d3ea8953d85fdb5f",
+        "text": "🚨\n⚽️\nلیگ برتر انگلیس| منچستریونایتد از پس تاتنهامِ ١٠ نفره هم بر نیامد؛ مساوی که به درد هیچکدام از دو تیم نمی‌خورد\n🔸\nمنچستریونایتد یک - تاتنهام یک\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "🚨\n⚽️\nلیگ برتر انگلیس| منچستریونایتد از پس تاتنهامِ ١٠ نفره هم بر نیامد؛ مساوی که به درد هیچکدام از دو تیم نمی‌خورد\n🔸\nمنچستریونایتد یک - تاتنهام یک\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/108291",
+        "post_id": 108291,
+        "message_id": 8213,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv",
+          "footballvision2"
+        ],
+        "created_at": "2026-10-10T18:51:25.142369+00:00"
+      },
+      {
+        "fingerprint": "b9b4d90d2b8c16179d9f8c933799c80811794f1ddeeb03eff716ffb90d6eb277",
+        "media_fingerprint": "fb7424aeedd1a69c897f6361bf5208d90a7dd59c8be9237d9c96986ab4497c04",
+        "text": "عجیب ترین غذای چین کفتر خوران\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "عجیب ترین غذای چین کفتر خوران\n@irWonders",
+        "original_link": "https://t.me/irwonders/58565",
+        "post_id": 58565,
+        "message_id": 8214,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-10T18:51:32.872130+00:00"
+      },
+      {
+        "fingerprint": "2baadedbf0b5238b3fc1aee65eef823174dc54763a183b5432a8c9f81ce2586f",
+        "media_fingerprint": "36aaf704009cfe3c3bddf51ec801db9ec854e676b9c9551089c3d4b8f8720681",
+        "text": "روی پاس یامال؛\n⚽️\n🇪🇸\nگل سوم بارسلونا | کونده '73 بارسلونا 3 - ختافه 0\n🎥\nمشاهده گل\n🆔\n@varzesh3",
+        "original_username": "varzesh3",
+        "original_text": "روی پاس یامال؛\n⚽️\n🇪🇸\nگل سوم بارسلونا | کونده '73 بارسلونا 3 - ختافه 0\n🎥\nمشاهده گل\n🆔\n@varzesh3",
+        "original_link": "https://t.me/varzesh3/303791",
+        "post_id": 303791,
+        "message_id": 8215,
+        "message_kind": "caption",
+        "sources": [
+          "varzesh3"
+        ],
+        "created_at": "2026-10-10T18:51:37.641211+00:00"
+      },
+      {
+        "fingerprint": "db8b9f339b036c670c73129784adb0a1b7b94b44b21be7fc03ad830114bc9aa0",
+        "media_fingerprint": "10852232fcd2c0a4368a23e34352d7418d14f9202f16b1af3ff908684a856c3a",
+        "text": "🚨\n🇪🇸\nهفته‌هشتم لالیگا؛ برتری قاطع و آسان در خانه؛ بدون حضور رافینیا هم برنده شدند\n🇪🇸\nبارسلونا\n3️⃣\n-\n0️⃣\nختافه\n🇪🇸\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "🚨\n🇪🇸\nهفته‌هشتم لالیگا؛ برتری قاطع و آسان در خانه؛ بدون حضور رافینیا هم برنده شدند\n🇪🇸\nبارسلونا\n3️⃣\n-\n0️⃣\nختافه\n🇪🇸\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/108292",
+        "post_id": 108292,
+        "message_id": 8216,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-10T18:51:41.862634+00:00"
+      },
+      {
+        "fingerprint": "e789f9c6fa2efa3470ef0d6a43d40de47054485f5a42cd14143183b630d46140",
+        "media_fingerprint": "7a2ee233d1cb3fcbcec0f580b6ec590470d8629bfed0a53e49bec34026c751e4",
+        "text": "https://t.me/drtel/67558",
+        "original_username": "drtel",
+        "original_text": "https://t.me/drtel/67558",
+        "original_link": "https://t.me/drtel/67559",
+        "post_id": 67559,
+        "message_id": 8217,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-10T18:51:47.089111+00:00"
+      },
+      {
+        "fingerprint": "afde10edfdc767525cfec9940822bfb5cd1442d991e130ee337efb4813d93320",
+        "media_fingerprint": "38fef7a06753c085eca1f3ee9e14fca7b59a7e0e6cb3d2ee96dc12feae9d177b",
+        "text": "هیولا به خواب نمی‌رود! خوفناک به تعطیلات رفتند، خوفناک برگشتند\n🔈\nپایان مسابقه - پیروزی بارسلونا برابر ختافه در خانه\n🆔\n@varzesh3",
+        "original_username": "varzesh3",
+        "original_text": "هیولا به خواب نمی‌رود! خوفناک به تعطیلات رفتند، خوفناک برگشتند\n🔈\nپایان مسابقه - پیروزی بارسلونا برابر ختافه در خانه\n🆔\n@varzesh3",
+        "original_link": "https://t.me/varzesh3/303792",
+        "post_id": 303792,
+        "message_id": 8218,
+        "message_kind": "caption",
+        "sources": [
+          "varzesh3"
+        ],
+        "created_at": "2026-10-10T18:51:51.422882+00:00"
+      },
+      {
+        "fingerprint": "077a22f88a97143057300eabd1626b4b41b51db65c972ab8cab061063f5a4917",
+        "media_fingerprint": "2c7110ad7fc96a20c0fa4ea66aa7d284961f42e68d4d24a44a71dc9962242f2e",
+        "text": "♦️\n۱۸ استان درگیر فرونشست در ایران\n🔹\nاستان هایی که دارای بیشینه نرخ فرونشست بالای ۱۰ سانتی متر در سال هستند.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\n۱۸ استان درگیر فرونشست در ایران\n🔹\nاستان هایی که دارای بیشینه نرخ فرونشست بالای ۱۰ سانتی متر در سال هستند.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143440",
+        "post_id": 143440,
+        "message_id": 8219,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-10T18:52:10.625313+00:00"
+      },
+      {
+        "fingerprint": "4002afed778f83286f0edf4d9764aee14895595a2effc1870c4378bf2678c137",
+        "media_fingerprint": "3c99ecb3fc4ac87373da4ead2790c4a4c3a5084f6340aa41423f1d1c54a80a01",
+        "text": "کم‌خوابی احتمال درگیری کارمندان با مدیران را افزایش می‌دهد\n!\n◽️\nپژوهشی با مشارکت دانشگاه جانز هاپکینز نشان می‌دهد مشکلات خواب می‌تواند توانایی کارکنان در کنترل واکنش‌های خصمانه و جلوگیری از تعارض با مدیران را کاهش دهد.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "کم‌خوابی احتمال درگیری کارمندان با مدیران را افزایش می‌دهد\n!\n◽️\nپژوهشی با مشارکت دانشگاه جانز هاپکینز نشان می‌دهد مشکلات خواب می‌تواند توانایی کارکنان در کنترل واکنش‌های خصمانه و جلوگیری از تعارض با مدیران را کاهش دهد.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38691",
+        "post_id": 38691,
+        "message_id": 8222,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-10T18:52:15.189027+00:00"
       }
     ]
   }
