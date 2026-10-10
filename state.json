@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143433,
+      "last_id": 143435,
       "processed_ids": [
-        142330,
-        142335,
         142336,
         142337,
         142338,
@@ -1002,16 +1000,15 @@
         143430,
         143431,
         143432,
-        143433
+        143433,
+        143434,
+        143435
       ],
-      "sent_count": 840
+      "sent_count": 842
     },
     "total_fut": {
-      "last_id": 237655,
+      "last_id": 237659,
       "processed_ids": [
-        236605,
-        236606,
-        236607,
         236608,
         236609,
         236610,
@@ -2008,15 +2005,16 @@
         237652,
         237653,
         237654,
-        237655
+        237655,
+        237656,
+        237657,
+        237659
       ],
       "sent_count": 115
     },
     "footballvision2": {
-      "last_id": 170952,
+      "last_id": 170954,
       "processed_ids": [
-        169849,
-        169850,
         169851,
         169852,
         169853,
@@ -3014,7 +3012,9 @@
         170949,
         170950,
         170951,
-        170952
+        170952,
+        170953,
+        170954
       ],
       "sent_count": 121
     },
@@ -3288,7 +3288,7 @@
       "sent_count": 7
     },
     "drtel": {
-      "last_id": 67553,
+      "last_id": 67554,
       "processed_ids": [
         66561,
         66565,
@@ -4072,7 +4072,8 @@
         67550,
         67551,
         67552,
-        67553
+        67553,
+        67554
       ],
       "sent_count": 442
     },
@@ -5059,7 +5060,7 @@
       "sent_count": 129
     },
     "akhbar_cafenet": {
-      "last_id": 23176,
+      "last_id": 23177,
       "processed_ids": [
         22432,
         22433,
@@ -5763,12 +5764,13 @@
         23172,
         23173,
         23174,
-        23176
+        23176,
+        23177
       ],
       "sent_count": 389
     },
     "comentiat": {
-      "last_id": 26414,
+      "last_id": 26418,
       "processed_ids": [
         25844,
         25845,
@@ -6236,9 +6238,12 @@
         26410,
         26411,
         26412,
-        26414
+        26414,
+        26416,
+        26417,
+        26418
       ],
-      "sent_count": 339
+      "sent_count": 341
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -9057,12 +9062,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109617,
+      "last_id": 109621,
       "processed_ids": [
-        108545,
-        108546,
-        108547,
-        108548,
         108549,
         108550,
         108551,
@@ -10058,15 +10059,17 @@
         109614,
         109615,
         109616,
-        109617
+        109617,
+        109618,
+        109619,
+        109620,
+        109621
       ],
-      "sent_count": 124
+      "sent_count": 125
     },
     "varzesh3": {
-      "last_id": 303777,
+      "last_id": 303779,
       "processed_ids": [
-        302695,
-        302696,
         302697,
         302698,
         302699,
@@ -11064,7 +11067,9 @@
         303774,
         303775,
         303776,
-        303777
+        303777,
+        303778,
+        303779
       ],
       "sent_count": 83
     },
@@ -11832,9 +11837,8 @@
       "sent_count": 51
     },
     "adak_ir_official": {
-      "last_id": 235136,
+      "last_id": 235137,
       "processed_ids": [
-        234109,
         234110,
         234111,
         234112,
@@ -12833,18 +12837,14 @@
         235133,
         235134,
         235135,
-        235136
+        235136,
+        235137
       ],
       "sent_count": 175
     },
     "futball180tv": {
-      "last_id": 108279,
+      "last_id": 108284,
       "processed_ids": [
-        107262,
-        107263,
-        107264,
-        107265,
-        107266,
         107267,
         107268,
         107269,
@@ -13839,15 +13839,18 @@
         108276,
         108277,
         108278,
-        108279
+        108279,
+        108280,
+        108281,
+        108282,
+        108283,
+        108284
       ],
-      "sent_count": 79
+      "sent_count": 80
     },
     "hattric_official": {
-      "last_id": 84648,
+      "last_id": 84651,
       "processed_ids": [
-        83600,
-        83602,
         83603,
         83604,
         83605,
@@ -14845,7 +14848,9 @@
         84643,
         84644,
         84645,
-        84648
+        84648,
+        84650,
+        84651
       ],
       "sent_count": 117
     },
@@ -15483,7 +15488,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58558,
+      "last_id": 58560,
       "processed_ids": [
         58030,
         58031,
@@ -15962,9 +15967,11 @@
         58555,
         58556,
         58557,
-        58558
+        58558,
+        58559,
+        58560
       ],
-      "sent_count": 300
+      "sent_count": 302
     },
     "razcom": {
       "last_id": 70490,
@@ -18014,7 +18021,7 @@
       "sent_count": 10
     },
     "bajefilm": {
-      "last_id": 11620,
+      "last_id": 11621,
       "processed_ids": [
         11552,
         11553,
@@ -18084,9 +18091,10 @@
         11617,
         11618,
         11619,
-        11620
+        11620,
+        11621
       ],
-      "sent_count": 57
+      "sent_count": 58
     },
     "yejoorayi": {
       "last_id": 533,
@@ -18314,7 +18322,7 @@
       "sent_count": 39
     },
     "shakhmovie": {
-      "last_id": 4123,
+      "last_id": 4124,
       "processed_ids": [
         4017,
         4018,
@@ -18378,12 +18386,13 @@
         4119,
         4120,
         4121,
-        4123
+        4123,
+        4124
       ],
-      "sent_count": 55
+      "sent_count": 56
     },
     "peach_tweet": {
-      "last_id": 3222,
+      "last_id": 3226,
       "processed_ids": [
         2745,
         2749,
@@ -18621,9 +18630,10 @@
         3219,
         3220,
         3221,
-        3222
+        3222,
+        3226
       ],
-      "sent_count": 143
+      "sent_count": 144
     },
     "funy_khand": {
       "last_id": 25755,
@@ -18684,7 +18694,7 @@
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6161,
+      "last_id": 6162,
       "processed_ids": [
         6113,
         6114,
@@ -18731,178 +18741,14 @@
         6158,
         6159,
         6160,
-        6161
+        6161,
+        6162
       ],
       "sent_count": 2
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "03e9fb69c869ee7e9ff9fd2d1443b6a759864fe1379e1d6648626d38ff89230b",
-        "media_fingerprint": "f314451cda237f93eac268d3eb4d5d04ee9a63756ba435415ce26aa3e15a6545",
-        "text": "اگامای صخره ای لکه قرمز یکی از مشهور ترین خزندگان و مارمولک های دنیاست. کنتراست میان چهره سرخ و بدن آبی این مارمولک شگفت انگیز باعث شده با نام مرد عنکبوتی مشهور شود.\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "اگامای صخره ای لکه قرمز یکی از مشهور ترین خزندگان و مارمولک های دنیاست. کنتراست میان چهره سرخ و بدن آبی این مارمولک شگفت انگیز باعث شده با نام مرد عنکبوتی مشهور شود.\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159606",
-        "post_id": 159606,
-        "message_id": 7137,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-07T20:20:09.805190+00:00"
-      },
-      {
-        "fingerprint": "a329d9eb309172a773100b97f1b236644e06e0e3408613aa3e9cf1b083b8dc1f",
-        "media_fingerprint": "a4dd3269035debbaee42eb60391d7135798b55d918db809a58139fbcb700e9e6",
-        "text": "منظم‌ترین روستای خشتی جهان در اصفها\nن\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "منظم‌ترین روستای خشتی جهان در اصفها\nن\n@irWonders",
-        "original_link": "https://t.me/irwonders/58441",
-        "post_id": 58441,
-        "message_id": 7138,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-07T20:20:16.151269+00:00"
-      },
-      {
-        "fingerprint": "3a918f2f472da091c6f65de4c0574fdbca9b81bbb37d859d3d55b971dbd3797f",
-        "media_fingerprint": "",
-        "text": "به نظر من، یه مرد باید همیشه کار کنه.\nمسئله اصلاً این نیست که چه‌قدر پول درمیاره یا اصلاً پولی درمیاره یا نه. من معتقدم کار کردن، مرد رو سرپا نگه می‌داره. مردی که کار نمی‌ کنه، یا گرفتار افسردگی و بحران می‌شه، یا بیمار می‌شه، یا به عادت‌ها و رفتارهای بی‌معنی و عجیب‌وغریب رو میاره.\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "به نظر من، یه مرد باید همیشه کار کنه.\nمسئله اصلاً این نیست که چه‌قدر پول درمیاره یا اصلاً پولی درمیاره یا نه. من معتقدم کار کردن، مرد رو سرپا نگه می‌داره. مردی که کار نمی‌ کنه، یا گرفتار افسردگی و بحران می‌شه، یا بیمار می‌شه، یا به عادت‌ها و رفتارهای بی‌معنی و عجیب‌وغریب رو میاره.\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162932",
-        "post_id": 162932,
-        "message_id": 7139,
-        "message_kind": "text",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-07T20:20:19.405097+00:00"
-      },
-      {
-        "fingerprint": "2a007545758db320c45519ea282a9e99d6c4eee563ed9bdbc24c85da578b7d66",
-        "media_fingerprint": "",
-        "text": "وقتی زیردریایی آمریکایی «حامله» می‌شود\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "وقتی زیردریایی آمریکایی «حامله» می‌شود\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162934",
-        "post_id": 162934,
-        "message_id": 7140,
-        "message_kind": "text",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-07T20:20:22.087606+00:00"
-      },
-      {
-        "fingerprint": "109e0dae8b72311ff112a04c68006795505d0d5b81b733d4f11bb5d9754ac438",
-        "media_fingerprint": "ae077d05074c8b697251e2889bdcd856de78565aaf20aa9f6c649ae30d37a300",
-        "text": "پزشکیان: من یک دانش‌ آموز شلوغ و بازیگوش بودم و درس هم نمی‌خواندم اما وقتی وارد جامعه و نامردی‌ها را دیدم تصمیم گرفتم درس بخوانم\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "پزشکیان: من یک دانش‌ آموز شلوغ و بازیگوش بودم و درس هم نمی‌خواندم اما وقتی وارد جامعه و نامردی‌ها را دیدم تصمیم گرفتم درس بخوانم\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162936",
-        "post_id": 162936,
-        "message_id": 7141,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-07T20:20:29.043414+00:00"
-      },
-      {
-        "fingerprint": "bbba9bbee34cc572c1b0d968ce36f2d92f2dffc359f1b3f4e7ab7dc065e455ca",
-        "media_fingerprint": "3f764fd7406b2b7bdea384c05f0c03c504ecac2dfcabdd70d99f6bba385d3901",
-        "text": "عکسی از کنکور که در رسانه‌های خارجی وایرال شد\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "عکسی از کنکور که در رسانه‌های خارجی وایرال شد\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162938",
-        "post_id": 162938,
-        "message_id": 7142,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-07T20:20:33.122298+00:00"
-      },
-      {
-        "fingerprint": "c6f60f1fa06b8fb660b7cfeef49389625716d9a8c72137439d598cd7f139c40d",
-        "media_fingerprint": "4802d5004f0463b43bf37a5b042471003cc7fa7bcc1fb8e5275eaaf9e17bbeaf",
-        "text": "اختلاف مختار و عبدالله زبیر از همینجا شروع شد\n😂\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "اختلاف مختار و عبدالله زبیر از همینجا شروع شد\n😂\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162940",
-        "post_id": 162940,
-        "message_id": 7143,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-07T20:20:39.046533+00:00"
-      },
-      {
-        "fingerprint": "b42ac3019c548807e8e41ff0542bd9ee63dc16c477b264334005a1155364c8fc",
-        "media_fingerprint": "",
-        "text": "🎖️\n#اختصاصی_توتال\n🏅\nترکیب استقلال در دیدار فردا برابر تراکتور\n🔺\nسیستم پایه ۳۵۲\n🔺\nحبیب فرعباسی\n🔺\nرستم آشرماتوف\n🔺\nسامان فلاح\n🔺\nعارف آقاسی\n🔺\nحسین گودرزی\n🔺\nصالح حردانی\n🔺\nامیرمحمد رزاقی‌نیا\n🔺\nروزبه چشمی\n🔺\nیاسر آسانی\n🔺\nعلیرضا کوشکی\n🔺\nسعید سحرخیزان\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_username": "total_fut",
-        "original_text": "🎖️\n#اختصاصی_توتال\n🏅\nترکیب استقلال در دیدار فردا برابر تراکتور\n🔺\nسیستم پایه ۳۵۲\n🔺\nحبیب فرعباسی\n🔺\nرستم آشرماتوف\n🔺\nسامان فلاح\n🔺\nعارف آقاسی\n🔺\nحسین گودرزی\n🔺\nصالح حردانی\n🔺\nامیرمحمد رزاقی‌نیا\n🔺\nروزبه چشمی\n🔺\nیاسر آسانی\n🔺\nعلیرضا کوشکی\n🔺\nسعید سحرخیزان\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_link": "https://t.me/total_fut/237389",
-        "post_id": 237389,
-        "message_id": 7144,
-        "message_kind": "text",
-        "sources": [
-          "total_fut"
-        ],
-        "created_at": "2026-10-07T20:20:42.183339+00:00"
-      },
-      {
-        "fingerprint": "5edbeb8fc1417216393efa1e2cd2af8dc5ed5b41fc06524e489b6ac9730abb47",
-        "media_fingerprint": "0dff596b524278c2e1f66af69c545020e2b07749eddb12071248c560cf3f1d8a",
-        "text": "تصویر جدید از نارین دختر ۱۵ ساله سنندجی که تا سر حد مرگ توسط پدر و نامادریش شکنجه میشد زیر نظر پزشک تحت درمان قرار گرفت و بالاخره حال روحی و جسمیش بهبود یافته\n♥️\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "تصویر جدید از نارین دختر ۱۵ ساله سنندجی که تا سر حد مرگ توسط پدر و نامادریش شکنجه میشد زیر نظر پزشک تحت درمان قرار گرفت و بالاخره حال روحی و جسمیش بهبود یافته\n♥️\n@irWonders",
-        "original_link": "https://t.me/irwonders/58442",
-        "post_id": 58442,
-        "message_id": 7145,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-07T20:48:41.346606+00:00"
-      },
-      {
-        "fingerprint": "e42c173794bc633bdd2dbdfddbea54eaac96c6600bcd62ce5afda57df00b117a",
-        "media_fingerprint": "4b1f1526b402351bd3ba40dfc13706e0ed082540ab94e241e9ded9b8bb69e8c8",
-        "text": "بچه ها اسم این بازی عبور مرغ از خیابون  هست ویدئو نگاه کنید خیلی راحت 8 میلیون ازش سود گرفتیم\n😍\n😤\nاگ توم دوس داری خیلی راحت از بازی های انلاین پول در بیاری حتما عضو کازینو شبانه شو\n✅\nتوی کازینو شبانه بهت اموزش میدیم از بازی های انلاین پول دربیاری\n👌\nکازینو شبانه راهی برای چند برابر کردن سرمایت\n🤷‍♂\nکسب درامد انلاین با یه ادم حرفه ای یاد بگیر و‌ پول دربیار\n💵\n🎯\nهمین حالا عضو شو و شروع کن\n👇\np15\nhttps://t.me/+6hhOCJLgSM5lMDhk\nhttps://t.me/+6hhOCJLgSM5lMDhk",
-        "original_username": "peach_tweet",
-        "original_text": "بچه ها اسم این بازی عبور مرغ از خیابون  هست ویدئو نگاه کنید خیلی راحت 8 میلیون ازش سود گرفتیم\n😍\n😤\nاگ توم دوس داری خیلی راحت از بازی های انلاین پول در بیاری حتما عضو کازینو شبانه شو\n✅\nتوی کازینو شبانه بهت اموزش میدیم از بازی های انلاین پول دربیاری\n👌\nکازینو شبانه راهی برای چند برابر کردن سرمایت\n🤷‍♂\nکسب درامد انلاین با یه ادم حرفه ای یاد بگیر و‌ پول دربیار\n💵\n🎯\nهمین حالا عضو شو و شروع کن\n👇\np15\nhttps://t.me/+6hhOCJLgSM5lMDhk\nhttps://t.me/+6hhOCJLgSM5lMDhk",
-        "original_link": "https://t.me/peach_tweet/2939",
-        "post_id": 2939,
-        "message_id": 7146,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-07T20:48:48.985911+00:00"
-      },
-      {
-        "fingerprint": "8987c2b927068bdf70478d10c58f01411d60328c8f4096c833c820717b2798f2",
-        "media_fingerprint": "ba77af6e5fa88d170a810eb8aec9334856d96d88f58a2bb7c75e1871f0a0a06b",
-        "text": "عجب چالشی\n😈\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "عجب چالشی\n😈\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/2940",
-        "post_id": 2940,
-        "message_id": 7147,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-07T20:48:55.410810+00:00"
-      },
       {
         "fingerprint": "086b683828d3322a02ebe83c50fae1c51303d9a4d76fdb625aa770e7718de289",
         "media_fingerprint": "e0c3a6fc7bf83f637010507bf71f5a219394c6893b910f6523a4842acd2067f8",
@@ -33820,6 +33666,171 @@
           "adak_ir_official"
         ],
         "created_at": "2026-10-10T16:48:38.409951+00:00"
+      },
+      {
+        "fingerprint": "07c6b977aef77ffe18465b1e82c31baac464bab61a22c49930e9e7f36f5a05f3",
+        "media_fingerprint": "00274c798f74d37f44f288f163209458032d71e9ee70248241451b46570cc5ab",
+        "text": "اگه ژانر جنایی دوست دارین اصلا این سریالو از دست ندین؛\nسریالی با یه داستان بی‌رحم و پر از پیچیدگی.\n📷\n|\n@ShakhMovie",
+        "original_username": "shakhmovie",
+        "original_text": "اگه ژانر جنایی دوست دارین اصلا این سریالو از دست ندین؛\nسریالی با یه داستان بی‌رحم و پر از پیچیدگی.\n📷\n|\n@ShakhMovie",
+        "original_link": "https://t.me/Shakhmovie/4124",
+        "post_id": 4124,
+        "message_id": 8175,
+        "message_kind": "caption",
+        "sources": [
+          "shakhmovie"
+        ],
+        "created_at": "2026-10-10T17:16:36.872725+00:00"
+      },
+      {
+        "fingerprint": "679e4b06bffc89b4b4a979b4c487079e122acd6cdc73f1d0d9b67a49e99217ea",
+        "media_fingerprint": "6957e39ff2f55040ea48ab9c68b953eb8acdbb2ce80fc1e95868060b40156426",
+        "text": "♦️\n۶ اشتباه رایج که عمر ماشینت رو کم میکنه\n#مکانیک_شو\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\n۶ اشتباه رایج که عمر ماشینت رو کم میکنه\n#مکانیک_شو\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143434",
+        "post_id": 143434,
+        "message_id": 8176,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-10T17:16:41.076972+00:00"
+      },
+      {
+        "fingerprint": "8eb7470f0c7ba39f5a08a56b0d40c75c2099c1f5bc7dad6dcab2f4c1ad607b45",
+        "media_fingerprint": "89f38543336c8b305d82cb6159232028ec6abaa07a91d43109afac3a5e5bba17",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26417",
+        "post_id": 26417,
+        "message_id": 8177,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-10T17:16:44.506213+00:00"
+      },
+      {
+        "fingerprint": "13fe9146c3e15a2a2b7db05b4d43380676f114aac76c8f261e4e324a6f2db740",
+        "media_fingerprint": "2fd37c7df44630e279a694977005516bfbe3aba325019ba751b9f8c4f0d1efc4",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26418",
+        "post_id": 26418,
+        "message_id": 8178,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-10T17:16:48.725380+00:00"
+      },
+      {
+        "fingerprint": "0e2d16dbac24f67ce2eb92925c6783088b41b64adaa7091671b80c7598b705d0",
+        "media_fingerprint": "d324d167ee66cffddefed089ed28c34c943131b69132f60a9a29d44e238d51ca",
+        "text": "رفیق، میوه مورد علاقتو پیدا کردم:)))\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "رفیق، میوه مورد علاقتو پیدا کردم:)))\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/3226",
+        "post_id": 3226,
+        "message_id": 8179,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-10T17:16:52.607631+00:00"
+      },
+      {
+        "fingerprint": "a9bcd9c778658e3b8f81369a147710b60f3e626562f41c26b8d3b8ad9146273d",
+        "media_fingerprint": "",
+        "text": "رونمایی از تیزر رسمی نمایش “ریشه بُر” همزمان شروع فروش بلیط روزهای پایانی\nنویسنده و کارگردان : مهیار علیزاده\nبازیگران : سپاس ‌رضایی ، صدف ‌نظری ، عرفان ‌صالح ، مبینا ‌قاسملو ، عرفان ‌کوچکی ، شیوا ‌الهی ، امیر دهقان ، احد ‌شکری ، آزاد ‌اکبری ‌مطلق ، آرنوشا ‌بهزاد ، امیرعلی ‌اسلام ‌بیک\nخواننده : نوید واحدی\nگروه کر :  مبینا رشیدی ، رها جلیلی ، هستی احمدی ، دارا دادخواه\n🔺\nتهیه بلیت از سایت تیوال\n🔗\ntiwall.com/p/rishe2\nساخت تیزر : استودیو تبلیغات وطنی\n🗓\nمهرماه ۱۴۰۵\n📍\nکاخ ‌هنر\n⏰\nساعت ۲۱:۰۰ |  ۱ ساعت\n@BajeFilm",
+        "original_username": "bajefilm",
+        "original_text": "رونمایی از تیزر رسمی نمایش “ریشه بُر” همزمان شروع فروش بلیط روزهای پایانی\nنویسنده و کارگردان : مهیار علیزاده\nبازیگران : سپاس ‌رضایی ، صدف ‌نظری ، عرفان ‌صالح ، مبینا ‌قاسملو ، عرفان ‌کوچکی ، شیوا ‌الهی ، امیر دهقان ، احد ‌شکری ، آزاد ‌اکبری ‌مطلق ، آرنوشا ‌بهزاد ، امیرعلی ‌اسلام ‌بیک\nخواننده : نوید واحدی\nگروه کر :  مبینا رشیدی ، رها جلیلی ، هستی احمدی ، دارا دادخواه\n🔺\nتهیه بلیت از سایت تیوال\n🔗\ntiwall.com/p/rishe2\nساخت تیزر : استودیو تبلیغات وطنی\n🗓\nمهرماه ۱۴۰۵\n📍\nکاخ ‌هنر\n⏰\nساعت ۲۱:۰۰ |  ۱ ساعت\n@BajeFilm",
+        "original_link": "https://t.me/bajefilm/11621",
+        "post_id": 11621,
+        "message_id": 8180,
+        "message_kind": "text",
+        "sources": [
+          "bajefilm"
+        ],
+        "created_at": "2026-10-10T17:16:55.730661+00:00"
+      },
+      {
+        "fingerprint": "c51d7740340938dd25651cb7b5ba482e3924197be6e189c72a43b61648361721",
+        "media_fingerprint": "",
+        "text": "♦️\nایوب غفاری فرماندار خرامه شد\n🔹\nبا حکم استاندار فارس، ایوب غفاری به‌عنوان فرماندار شهرستان خرامه منصوب شد و در آیینی با حضور مسئولان استانی و شهرستانی معرفی شد.\n🔹\nهادی مقصودی نیز نزدیک به دو سال مسئولیت فرمانداری خرامه را بر عهده داشت و در این مراسم از تلاش‌های وی در دوران مسئولیت تقدیر شد.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nایوب غفاری فرماندار خرامه شد\n🔹\nبا حکم استاندار فارس، ایوب غفاری به‌عنوان فرماندار شهرستان خرامه منصوب شد و در آیینی با حضور مسئولان استانی و شهرستانی معرفی شد.\n🔹\nهادی مقصودی نیز نزدیک به دو سال مسئولیت فرمانداری خرامه را بر عهده داشت و در این مراسم از تلاش‌های وی در دوران مسئولیت تقدیر شد.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143435",
+        "post_id": 143435,
+        "message_id": 8181,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-10T17:16:58.624972+00:00"
+      },
+      {
+        "fingerprint": "12bacf7cce67a7d7510eee5e2feb59b42bfd4788c3ef6c6c6e901931cc42d5c9",
+        "media_fingerprint": "",
+        "text": "🏭\nآغاز حضور ماموت در بازار سرمایه؛ فِساپ را بهتر بشناسید شرکت سازه پوشش ماموت با نماد «فِساپ»، از شرکت‌های صنعتی گروه ماموت است که در سه حوزه فعالیت می‌کند:\n🔹\nساندویچ‌پانل\n🔹\nسازه فلزی و سوله صنعتی\n🔹\nکانکس در این ویدئو، علاوه بر معرفی کسب‌وکارهای اصلی، بخشی…",
+        "original_username": "irwonders",
+        "original_text": "🏭\nآغاز حضور ماموت در بازار سرمایه؛ فِساپ را بهتر بشناسید شرکت سازه پوشش ماموت با نماد «فِساپ»، از شرکت‌های صنعتی گروه ماموت است که در سه حوزه فعالیت می‌کند:\n🔹\nساندویچ‌پانل\n🔹\nسازه فلزی و سوله صنعتی\n🔹\nکانکس در این ویدئو، علاوه بر معرفی کسب‌وکارهای اصلی، بخشی…",
+        "original_link": "https://t.me/irwonders/58559",
+        "post_id": 58559,
+        "message_id": 8182,
+        "message_kind": "text",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-10T17:17:01.445240+00:00"
+      },
+      {
+        "fingerprint": "8181f505aa22b6e0e6e4f447ef64790db5986ff3a6c68a3a37b20844dc3bac24",
+        "media_fingerprint": "e77066acb10c9ce5cd5e8446a7489f3a3455a2177e7404c416acdde7e9a44560",
+        "text": "🔸\nبارسلونا [۱]-۰ ختافه\n🔸\n⚽️\nگوردون\n🔴\nدقیقه ۲\n🎞\nتماشای گل\n🔗\nپخش زنده در فوتبال ۳۶۰  @Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "🔸\nبارسلونا [۱]-۰ ختافه\n🔸\n⚽️\nگوردون\n🔴\nدقیقه ۲\n🎞\nتماشای گل\n🔗\nپخش زنده در فوتبال ۳۶۰  @Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/109621",
+        "post_id": 109621,
+        "message_id": 8183,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-10T17:17:05.879212+00:00"
+      },
+      {
+        "fingerprint": "5d8d1fe2b5089132943588418cb2686609576323c38069c9a7ba586d2efd23f5",
+        "media_fingerprint": "562bf5bf90ab74000b4ee35564c581db10606188baa896b6849b5b7a3ec305af",
+        "text": "🇪🇸\nگل‌دوم بارسلونا به ختافه توسط گابریل ژسوس\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "🇪🇸\nگل‌دوم بارسلونا به ختافه توسط گابریل ژسوس\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/108284",
+        "post_id": 108284,
+        "message_id": 8184,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-10T17:17:11.204523+00:00"
+      },
+      {
+        "fingerprint": "101ebee8af7ffccea2f8113b555b0ee65ed80b91501b9f75b375bd1ddaf68982",
+        "media_fingerprint": "381b9f62de0e33444d8e42d42f51408306465a79c2eb6579c50c870353d65c86",
+        "text": "مقصد امروز: گویلین، چین\n🇨🇳\n| Guilin, China\nدر جنوب چین، منطقه‌ای وجود دارد که کوه‌های سرسبز و قله‌های آهکی عجیبش، منظره‌ای شبیه دنیای افسانه‌ها ساخته‌اند؛ جایی که مه روی کوه‌ها می‌نشیند و رودخانه‌ها از میان طبیعتی تماشایی عبور می‌کنند.\n😍\n⛰️\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "مقصد امروز: گویلین، چین\n🇨🇳\n| Guilin, China\nدر جنوب چین، منطقه‌ای وجود دارد که کوه‌های سرسبز و قله‌های آهکی عجیبش، منظره‌ای شبیه دنیای افسانه‌ها ساخته‌اند؛ جایی که مه روی کوه‌ها می‌نشیند و رودخانه‌ها از میان طبیعتی تماشایی عبور می‌کنند.\n😍\n⛰️\n@irWonders",
+        "original_link": "https://t.me/irwonders/58560",
+        "post_id": 58560,
+        "message_id": 8185,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-10T17:17:18.079968+00:00"
       }
     ]
   }
