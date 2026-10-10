@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143426,
+      "last_id": 143428,
       "processed_ids": [
-        142323,
-        142324,
         142325,
         142326,
         142327,
@@ -1002,15 +1000,15 @@
         143423,
         143424,
         143425,
-        143426
+        143426,
+        143427,
+        143428
       ],
-      "sent_count": 836
+      "sent_count": 837
     },
     "total_fut": {
-      "last_id": 237642,
+      "last_id": 237644,
       "processed_ids": [
-        236591,
-        236592,
         236593,
         236594,
         236595,
@@ -2008,21 +2006,15 @@
         237639,
         237640,
         237641,
-        237642
+        237642,
+        237643,
+        237644
       ],
       "sent_count": 115
     },
     "footballvision2": {
-      "last_id": 170931,
+      "last_id": 170939,
       "processed_ids": [
-        169829,
-        169830,
-        169831,
-        169832,
-        169833,
-        169834,
-        169835,
-        169836,
         169837,
         169838,
         169839,
@@ -3014,7 +3006,15 @@
         170928,
         170929,
         170930,
-        170931
+        170931,
+        170932,
+        170933,
+        170934,
+        170935,
+        170936,
+        170937,
+        170938,
+        170939
       ],
       "sent_count": 119
     },
@@ -3285,7 +3285,7 @@
       "sent_count": 7
     },
     "drtel": {
-      "last_id": 67546,
+      "last_id": 67547,
       "processed_ids": [
         66561,
         66565,
@@ -4062,7 +4062,8 @@
         67543,
         67544,
         67545,
-        67546
+        67546,
+        67547
       ],
       "sent_count": 439
     },
@@ -5042,7 +5043,7 @@
       "sent_count": 128
     },
     "akhbar_cafenet": {
-      "last_id": 23170,
+      "last_id": 23171,
       "processed_ids": [
         22432,
         22433,
@@ -5741,12 +5742,13 @@
         23167,
         23168,
         23169,
-        23170
+        23170,
+        23171
       ],
-      "sent_count": 387
+      "sent_count": 388
     },
     "comentiat": {
-      "last_id": 26411,
+      "last_id": 26412,
       "processed_ids": [
         25844,
         25845,
@@ -6212,7 +6214,8 @@
         26408,
         26409,
         26410,
-        26411
+        26411,
+        26412
       ],
       "sent_count": 338
     },
@@ -6484,13 +6487,8 @@
       "sent_count": 152
     },
     "gizmiztel": {
-      "last_id": 163063,
+      "last_id": 163069,
       "processed_ids": [
-        161957,
-        161958,
-        161959,
-        161960,
-        161961,
         161962,
         161963,
         161964,
@@ -7485,9 +7483,14 @@
         163060,
         163061,
         163062,
-        163063
+        163063,
+        163064,
+        163066,
+        163067,
+        163068,
+        163069
       ],
-      "sent_count": 725
+      "sent_count": 729
     },
     "dr_salamatx": {
       "last_id": 55378,
@@ -8103,7 +8106,7 @@
       "sent_count": 252
     },
     "ajayebe_jahann": {
-      "last_id": 159688,
+      "last_id": 159691,
       "processed_ids": [
         158956,
         158957,
@@ -8823,7 +8826,10 @@
         159682,
         159686,
         159687,
-        159688
+        159688,
+        159689,
+        159690,
+        159691
       ],
       "sent_count": 304
     },
@@ -9024,15 +9030,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109559,
+      "last_id": 109566,
       "processed_ids": [
-        108485,
-        108486,
-        108487,
-        108488,
-        108489,
-        108490,
-        108491,
         108492,
         108493,
         108494,
@@ -10025,16 +10024,20 @@
         109556,
         109557,
         109558,
-        109559
+        109559,
+        109560,
+        109561,
+        109562,
+        109563,
+        109564,
+        109565,
+        109566
       ],
-      "sent_count": 117
+      "sent_count": 118
     },
     "varzesh3": {
-      "last_id": 303753,
+      "last_id": 303756,
       "processed_ids": [
-        302672,
-        302673,
-        302674,
         302675,
         302676,
         302678,
@@ -11031,12 +11034,15 @@
         303750,
         303751,
         303752,
-        303753
+        303753,
+        303754,
+        303755,
+        303756
       ],
       "sent_count": 81
     },
     "totalfut_plus": {
-      "last_id": 26646,
+      "last_id": 26648,
       "processed_ids": [
         25870,
         25871,
@@ -11789,7 +11795,9 @@
         26643,
         26644,
         26645,
-        26646
+        26646,
+        26647,
+        26648
       ],
       "sent_count": 51
     },
@@ -12800,12 +12808,8 @@
       "sent_count": 173
     },
     "futball180tv": {
-      "last_id": 108259,
+      "last_id": 108263,
       "processed_ids": [
-        107243,
-        107244,
-        107245,
-        107246,
         107247,
         107248,
         107249,
@@ -13801,15 +13805,17 @@
         108256,
         108257,
         108258,
-        108259
+        108259,
+        108260,
+        108261,
+        108262,
+        108263
       ],
       "sent_count": 76
     },
     "hattric_official": {
-      "last_id": 84639,
+      "last_id": 84641,
       "processed_ids": [
-        83588,
-        83589,
         83590,
         83591,
         83592,
@@ -14807,12 +14813,14 @@
         84636,
         84637,
         84638,
-        84639
+        84639,
+        84640,
+        84641
       ],
       "sent_count": 116
     },
     "mazdak_hattrick": {
-      "last_id": 182486,
+      "last_id": 182489,
       "processed_ids": [
         181991,
         181992,
@@ -15299,7 +15307,10 @@
         182482,
         182484,
         182485,
-        182486
+        182486,
+        182487,
+        182488,
+        182489
       ],
       "sent_count": 43
     },
@@ -15439,7 +15450,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58552,
+      "last_id": 58553,
       "processed_ids": [
         58030,
         58031,
@@ -15912,9 +15923,10 @@
         58549,
         58550,
         58551,
-        58552
+        58552,
+        58553
       ],
-      "sent_count": 298
+      "sent_count": 299
     },
     "razcom": {
       "last_id": 70490,
@@ -15956,7 +15968,7 @@
       "sent_count": 9
     },
     "midanesti": {
-      "last_id": 73274,
+      "last_id": 73275,
       "processed_ids": [
         73193,
         73194,
@@ -16034,9 +16046,10 @@
         73270,
         73271,
         73273,
-        73274
+        73274,
+        73275
       ],
-      "sent_count": 38
+      "sent_count": 39
     },
     "gilin_gilin": {
       "last_id": 284180,
@@ -17483,7 +17496,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306911,
+      "last_id": 306912,
       "processed_ids": [
         306563,
         306564,
@@ -17828,9 +17841,10 @@
         306908,
         306909,
         306910,
-        306911
+        306911,
+        306912
       ],
-      "sent_count": 150
+      "sent_count": 151
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -18259,7 +18273,7 @@
       "sent_count": 39
     },
     "shakhmovie": {
-      "last_id": 4120,
+      "last_id": 4121,
       "processed_ids": [
         4017,
         4018,
@@ -18321,12 +18335,13 @@
         4113,
         4114,
         4119,
-        4120
+        4120,
+        4121
       ],
-      "sent_count": 53
+      "sent_count": 54
     },
     "peach_tweet": {
-      "last_id": 3218,
+      "last_id": 3219,
       "processed_ids": [
         2745,
         2749,
@@ -18560,9 +18575,10 @@
         3212,
         3213,
         3214,
-        3218
+        3218,
+        3219
       ],
-      "sent_count": 142
+      "sent_count": 143
     },
     "funy_khand": {
       "last_id": 25750,
@@ -18618,7 +18634,7 @@
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6147,
+      "last_id": 6148,
       "processed_ids": [
         6113,
         6114,
@@ -18652,195 +18668,14 @@
         6143,
         6144,
         6146,
-        6147
+        6147,
+        6148
       ],
       "sent_count": 2
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "8b5fad69cc6ce6b801f3c748f6926d3b662ede43cbc537f372809341891cfe61",
-        "media_fingerprint": "e87c2769055333802b1c00b93d850320c14204729285c6a0da1db42dad0b4531",
-        "text": "ایلان ماسک امروز اولین تریلیونر تاریخ شد.\nیعنی در حال حاضر ثروتش ۱۷۶,۰۰۰,۰۰۰,۰۰۰,۰۰۰,۰۰۰ تومانه.\n+ داری چیکار میکنی مرد\n😐\n@RoidBest",
-        "original_username": "roidbest",
-        "original_text": "ایلان ماسک امروز اولین تریلیونر تاریخ شد.\nیعنی در حال حاضر ثروتش ۱۷۶,۰۰۰,۰۰۰,۰۰۰,۰۰۰,۰۰۰ تومانه.\n+ داری چیکار میکنی مرد\n😐\n@RoidBest",
-        "original_link": "https://t.me/RoidBest/21806",
-        "post_id": 21806,
-        "message_id": 7085,
-        "message_kind": "caption",
-        "sources": [
-          "roidbest"
-        ],
-        "created_at": "2026-10-07T17:49:56.986208+00:00"
-      },
-      {
-        "fingerprint": "eb32e7bfaaedda8cf1c67473a1b051b1b3e01587466e9aae278a4d5d64eb14b6",
-        "media_fingerprint": "0aedbb722a9041bd3ce7aa3e344265240ed579780f837188c8e7f792e5b8c3aa",
-        "text": "از قشنگی‌های زمین،\nدیدن آسمون و رنگ های قشنگش به وقت رعد و برق و طوفان\n😍\n🥹\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "از قشنگی‌های زمین،\nدیدن آسمون و رنگ های قشنگش به وقت رعد و برق و طوفان\n😍\n🥹\n@irWonders",
-        "original_link": "https://t.me/irwonders/58433",
-        "post_id": 58433,
-        "message_id": 7086,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-07T17:50:03.860941+00:00"
-      },
-      {
-        "fingerprint": "ea8bc7e7c6f0d5352c629938d918bd4b7ee516fffcb490c6fae3a41c8500907c",
-        "media_fingerprint": "e5de635130db0b512b70c806f5fb21d007f5e076f86ee4815d812e89f456445f",
-        "text": "🔴\nپیاده‌رویِ بدون هدف جرم شد؟\n🎙\nچرا با کافه‌هایی که تو خیابون سنایی تهران بودن، برخورد کردید؟\n👮‍♂️\nعلی رفیعی، فرمانده پلیس اماکن تهران:\nچون خیابان‌های سنایی و ایرانشهر به محلی واسه بساط‌گستری تبدیل شدن.\nاز جوون‌های اونجا پرسيديم چرا انقدر اینجا رو بالا پایین میکنید؟ گفتن والا خودمونم نمی‌دونیم.\nاجرای موسیقی زنده، دی‌جی و بازی کردن تخته‌نرد تو این کافه‌ها خط قرمز پلیسه.\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nپیاده‌رویِ بدون هدف جرم شد؟\n🎙\nچرا با کافه‌هایی که تو خیابون سنایی تهران بودن، برخورد کردید؟\n👮‍♂️\nعلی رفیعی، فرمانده پلیس اماکن تهران:\nچون خیابان‌های سنایی و ایرانشهر به محلی واسه بساط‌گستری تبدیل شدن.\nاز جوون‌های اونجا پرسيديم چرا انقدر اینجا رو بالا پایین میکنید؟ گفتن والا خودمونم نمی‌دونیم.\nاجرای موسیقی زنده، دی‌جی و بازی کردن تخته‌نرد تو این کافه‌ها خط قرمز پلیسه.\n@DrTeL",
-        "original_link": "https://t.me/drtel/67455",
-        "post_id": 67455,
-        "message_id": 7087,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-07T17:50:10.264715+00:00"
-      },
-      {
-        "fingerprint": "2eacbc235474ba094156e714aa5d402cd51ceb6b52450c33e998220a285958d1",
-        "media_fingerprint": "d4a8324319a43a65c65e66841456ef71c02d01b3f70932a518ca6911b4e2a786",
-        "text": "رسوایی و جنجال بزرگ در فوتبال کنیا؛\n⚠️\nصورت داور با مشت و لگد له شد!\nداور مسابقه پلی‌آف صعود به لیگ برتر کنیا پس از اعلام یک ضربه پنالتی سرنوشت‌ساز، توسط هواداران خشمگین مورد تعقیب قرار گرفت و ضرب و شتم شد.\n👇\n👇\n👇\n👇\n👇\n👇\nvarzesh3.com/news/2434496\n➖\n➖\n➖\n➖\n➖\n➖\n🆔\n@varzesh3",
-        "original_username": "varzesh3",
-        "original_text": "رسوایی و جنجال بزرگ در فوتبال کنیا؛\n⚠️\nصورت داور با مشت و لگد له شد!\nداور مسابقه پلی‌آف صعود به لیگ برتر کنیا پس از اعلام یک ضربه پنالتی سرنوشت‌ساز، توسط هواداران خشمگین مورد تعقیب قرار گرفت و ضرب و شتم شد.\n👇\n👇\n👇\n👇\n👇\n👇\nvarzesh3.com/news/2434496\n➖\n➖\n➖\n➖\n➖\n➖\n🆔\n@varzesh3",
-        "original_link": "https://t.me/varzesh3/303539",
-        "post_id": 303539,
-        "message_id": 7088,
-        "message_kind": "caption",
-        "sources": [
-          "varzesh3"
-        ],
-        "created_at": "2026-10-07T17:50:17.668442+00:00"
-      },
-      {
-        "fingerprint": "b2de21171b2f7e7b3444c3de49340dc131b1c0b2effccd56e8123ed97ceda910",
-        "media_fingerprint": "d62b4a676c1f9bd2c68231a00bd0725ece6f00106cb214b0fc63554ac9b47026",
-        "text": "📷\nحداکثر تعداد ویرایش مشخص شد\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "📷\nحداکثر تعداد ویرایش مشخص شد\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/23081",
-        "post_id": 23081,
-        "message_id": 7089,
-        "message_kind": "caption",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-07T17:50:21.375373+00:00"
-      },
-      {
-        "fingerprint": "aedbaf82ed34499f4829d48a3c98205ff264dcd32cc27cc6c040aa7ba183cc8d",
-        "media_fingerprint": "",
-        "text": "پرسپولیس بازم برای فسخ قرارداد با",
-        "original_username": "adak_ir_official",
-        "original_text": "پرسپولیس بازم برای فسخ قرارداد با",
-        "original_link": "https://t.me/ADAK_IR_official/234878",
-        "post_id": 234878,
-        "message_id": 7090,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-07T17:50:23.919583+00:00"
-      },
-      {
-        "fingerprint": "dfc1a85ddd238b0fa3ca6aa60e12128112d6ea782d76ad9cd19f4a0843919279",
-        "media_fingerprint": "",
-        "text": "👨‍🎓\nرئیس سازمان سنجش: مهلت انتخاب رشته حداقل ٢۴ ساعت تمدید می‌شود!\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "👨‍🎓\nرئیس سازمان سنجش: مهلت انتخاب رشته حداقل ٢۴ ساعت تمدید می‌شود!\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/23082",
-        "post_id": 23082,
-        "message_id": 7091,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-07T18:24:01.825924+00:00"
-      },
-      {
-        "fingerprint": "d0e5cb66860953e3d3a763347077028f3c09627119c9ade1b07321349558bcbc",
-        "media_fingerprint": "d7d0c84ff55ba51172c9c7978c05d7f0c7cdd3162cba72aaa90d609af380af48",
-        "text": "♦️\nبزرگترین جعبه ابزار تاریخ متعلق به نجاری بنام\"استدلی\"درسال1920\nاین جعبه ابزار وقتی باز می شود1×1متر است و میتواند300ابزار را درون محفظه بادقت ساخته شده چوبی خودنگه دارد.\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "♦️\nبزرگترین جعبه ابزار تاریخ متعلق به نجاری بنام\"استدلی\"درسال1920\nاین جعبه ابزار وقتی باز می شود1×1متر است و میتواند300ابزار را درون محفظه بادقت ساخته شده چوبی خودنگه دارد.\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159600",
-        "post_id": 159600,
-        "message_id": 7092,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann",
-          "irwonders"
-        ],
-        "created_at": "2026-10-07T18:24:07.325322+00:00"
-      },
-      {
-        "fingerprint": "9269e56a6f866de3eef077a18f967f9f93c33f588b5cccb527ec8f9624c312ff",
-        "media_fingerprint": "6e788ac857249292e8b559df273aefbccc67b67ef8ce28aadde203335a754394",
-        "text": "♦️\nگرامیداشت سومین سالگرد عملیات طوفان الاقصی در تجمعات شبانه مردم فارس\n@Akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nگرامیداشت سومین سالگرد عملیات طوفان الاقصی در تجمعات شبانه مردم فارس\n@Akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143256",
-        "post_id": 143256,
-        "message_id": 7093,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-07T18:24:15.268717+00:00"
-      },
-      {
-        "fingerprint": "d3c039eea3f48097cd2241a904eae34e7c6b9ab38b1f44a071a27d6d2155fbe4",
-        "media_fingerprint": "",
-        "text": "🎥\nمیدری مسیر شفافیت و مقابله با فساد را تقویت کرد\nعلی آذری، نماینده قوچان در مجلس:\n▪️\nمیدری مسیر شفافیت و مقابله با فساد را تقویت کرد، انتصابات سلیقه‌ای را محدود کرد و ارزش دارایی‌های صندوق روستاییان را از ۱۵۵ به ۲۵۲ همت رساند.\nقربان اکبرزاده، کانون بازنشستگان آذربایجان غربی:\n▪️\nاستیضاح، برنامه‌های رفاهی و بازنشستگی را به عقب می‌اندازد؛ سامانه‌های رفاهی و شفافیت در دوره میدری توسعه یافت و نظم پرداخت کسورات بهتر شد.\n@tejaratnews",
-        "original_username": "ajayebe_jahann",
-        "original_text": "🎥\nمیدری مسیر شفافیت و مقابله با فساد را تقویت کرد\nعلی آذری، نماینده قوچان در مجلس:\n▪️\nمیدری مسیر شفافیت و مقابله با فساد را تقویت کرد، انتصابات سلیقه‌ای را محدود کرد و ارزش دارایی‌های صندوق روستاییان را از ۱۵۵ به ۲۵۲ همت رساند.\nقربان اکبرزاده، کانون بازنشستگان آذربایجان غربی:\n▪️\nاستیضاح، برنامه‌های رفاهی و بازنشستگی را به عقب می‌اندازد؛ سامانه‌های رفاهی و شفافیت در دوره میدری توسعه یافت و نظم پرداخت کسورات بهتر شد.\n@tejaratnews",
-        "original_link": "https://t.me/Ajayebe_jahann/159601",
-        "post_id": 159601,
-        "message_id": 7094,
-        "message_kind": "text",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-07T18:24:18.750759+00:00"
-      },
-      {
-        "fingerprint": "946bfb44a49c74c267a2412a0905d4d1c78838c652e1b167950813f335eafbdb",
-        "media_fingerprint": "dff43c2418055c8e8068ead41869f27726dc535bdc7a5a4cdce6706e2528c658",
-        "text": "♦️\nدر شمال ژاپن هر ساله جشن برداشت برنج برپاست و هنرمندان با استفاده از علوفه جمع آوری شده، مجسمه های غول پیکر می سازند. این مجسمه ها از نی برنج ساخته می شوند!\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "♦️\nدر شمال ژاپن هر ساله جشن برداشت برنج برپاست و هنرمندان با استفاده از علوفه جمع آوری شده، مجسمه های غول پیکر می سازند. این مجسمه ها از نی برنج ساخته می شوند!\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159603",
-        "post_id": 159603,
-        "message_id": 7095,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann",
-          "irwonders"
-        ],
-        "created_at": "2026-10-07T18:24:23.640378+00:00"
-      },
-      {
-        "fingerprint": "74a347040507d309e54ffff6c8b14cadd4dcbbb3506938840e71a66a685910cd",
-        "media_fingerprint": "",
-        "text": "2 بازیکن از پرسپولیس و 1 بازیکن هم از استقلال",
-        "original_username": "adak_ir_official",
-        "original_text": "2 بازیکن از پرسپولیس و 1 بازیکن هم از استقلال",
-        "original_link": "https://t.me/ADAK_IR_official/234879",
-        "post_id": 234879,
-        "message_id": 7096,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-07T18:24:26.509658+00:00"
-      },
       {
         "fingerprint": "6962906f70a9f9b8ef8e6b4fe2bb8d9c8c6e0ee8baa9d42f781f4809634d4eb6",
         "media_fingerprint": "134d08fab8b20a4dfe6c0cd25bc2fe59cd6eb97ca4dc208a21522f302ed676aa",
@@ -32880,7 +32715,8 @@
         "message_id": 8066,
         "message_kind": "caption",
         "sources": [
-          "jaleb"
+          "jaleb",
+          "ajayebe_jahann"
         ],
         "created_at": "2026-10-10T11:18:03.248491+00:00"
       },
@@ -33739,6 +33575,187 @@
           "total_fut"
         ],
         "created_at": "2026-10-10T13:47:43.118753+00:00"
+      },
+      {
+        "fingerprint": "0d307cda163e19b13ddbeb410b1ad67fdc54e39d379ece1570478b6bc3e5a6a2",
+        "media_fingerprint": "6939d14b9921544dac440674481e0dc9f22321d528a5d7cbedbcbf746d24f7f5",
+        "text": "هموسو چه بلاییه\n😂\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "هموسو چه بلاییه\n😂\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306912",
+        "post_id": 306912,
+        "message_id": 8124,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-10T14:17:44.667019+00:00"
+      },
+      {
+        "fingerprint": "eb36b782e1e4df7342d3fb45fa4685bd6c269539143ad5c10d0be8775d8b1ca7",
+        "media_fingerprint": "278613d76ba84323475e915efd80ad131b9d7edb3894dc35744d8b5c9933fdfe",
+        "text": "✅\nبرد ۳ گله پرسپولیس با گلزنی دنیل گرا!\n🔸\nپرسپولیس امروز در دیداری تدارکاتی تیم دسته دومی فولاد هرمزگان را با نتیجه ۳ بر صفر شکست داد.\n⚽️\nدنیل گرا، اوستون ارونوف و پوریا شهرآبادی گلزنان پرسپولیس در این بازی بودند.\n@Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "✅\nبرد ۳ گله پرسپولیس با گلزنی دنیل گرا!\n🔸\nپرسپولیس امروز در دیداری تدارکاتی تیم دسته دومی فولاد هرمزگان را با نتیجه ۳ بر صفر شکست داد.\n⚽️\nدنیل گرا، اوستون ارونوف و پوریا شهرآبادی گلزنان پرسپولیس در این بازی بودند.\n@Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/109560",
+        "post_id": 109560,
+        "message_id": 8125,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir",
+          "hattric_official"
+        ],
+        "created_at": "2026-10-10T14:17:49.098639+00:00"
+      },
+      {
+        "fingerprint": "15e828c0a4f780ed95399d209122a504189d5037414facbdfe6a0ee6a64a37d5",
+        "media_fingerprint": "",
+        "text": "♦️\nپزشکیان: مگر کالا گم می‌شود، مگر کالا می‌تواند در این دنیایی که ما در آن زندگی می‌کنیم احتکار شود، از ناآگاهی ما است که این اتفاق می‌افتد، همه این‌ها قابل مدیریت است\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nپزشکیان: مگر کالا گم می‌شود، مگر کالا می‌تواند در این دنیایی که ما در آن زندگی می‌کنیم احتکار شود، از ناآگاهی ما است که این اتفاق می‌افتد، همه این‌ها قابل مدیریت است\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143427",
+        "post_id": 143427,
+        "message_id": 8126,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-10T14:17:51.740979+00:00"
+      },
+      {
+        "fingerprint": "75b0b637960249acf846b542870b0490fb4d7d8a9bea0eae0bc55b561c798897",
+        "media_fingerprint": "26d1f25f631b1d15f07633495b825a31a433bdf6f0082205ea421e5d5089d479",
+        "text": "🔴\nتریلر رسمی از فیلم «جن‌گیر | The Exorcist: Martyrs» با بازی اسکارلت جوهانسون منتشر شد.\n📆\nتاریخ اکران: 21 اسفند\n📷\n|\n@ShakhMovie",
+        "original_username": "shakhmovie",
+        "original_text": "🔴\nتریلر رسمی از فیلم «جن‌گیر | The Exorcist: Martyrs» با بازی اسکارلت جوهانسون منتشر شد.\n📆\nتاریخ اکران: 21 اسفند\n📷\n|\n@ShakhMovie",
+        "original_link": "https://t.me/Shakhmovie/4121",
+        "post_id": 4121,
+        "message_id": 8127,
+        "message_kind": "caption",
+        "sources": [
+          "shakhmovie"
+        ],
+        "created_at": "2026-10-10T14:17:55.825181+00:00"
+      },
+      {
+        "fingerprint": "f6c1ce67e6ba0f2015e97d36238fb42a4de69992cd2ea1abde8228fc1f94b61a",
+        "media_fingerprint": "b9b9d0b405b03ca436a49e57048edbd08899fe7b09e1bf7215a8008256b5f863",
+        "text": "می دونستید یه ابر کومولونیمبوس میتونه تا یک میلیون کیلو گرم وزن داشته باشه ، یعنی بیشتر از وزن هزار تا پراید !\nعلت اینکه در آسمان معلق میمونه صرفا بخاطر چگالیِ پایین اون هست\nعکس از آسمون تهران\n@Midanesti",
+        "original_username": "midanesti",
+        "original_text": "می دونستید یه ابر کومولونیمبوس میتونه تا یک میلیون کیلو گرم وزن داشته باشه ، یعنی بیشتر از وزن هزار تا پراید !\nعلت اینکه در آسمان معلق میمونه صرفا بخاطر چگالیِ پایین اون هست\nعکس از آسمون تهران\n@Midanesti",
+        "original_link": "https://t.me/midanesti/73275",
+        "post_id": 73275,
+        "message_id": 8128,
+        "message_kind": "caption",
+        "sources": [
+          "midanesti"
+        ],
+        "created_at": "2026-10-10T14:18:00.303932+00:00"
+      },
+      {
+        "fingerprint": "ff40c3cd5f025ca98c2e4e2a283e5cdbab9d02e78eeae1a3b7c1c0fd1896a094",
+        "media_fingerprint": "50a10d83ad6e31d4ae0a71c9b8255e23498c24ef242c8fb64df698c44aac08ec",
+        "text": "تهران، خیابان ویلا، کمی بالاتر از تقاطع انقلاب، دهه ۵۰ شمسی\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "تهران، خیابان ویلا، کمی بالاتر از تقاطع انقلاب، دهه ۵۰ شمسی\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163066",
+        "post_id": 163066,
+        "message_id": 8129,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-10T14:18:04.509947+00:00"
+      },
+      {
+        "fingerprint": "2590a26dda1db039a3f0160732a52a6e9b2440864c30842af4636bc4c58c63b0",
+        "media_fingerprint": "922fc35166dd6db4c33c258304d18890faf5523bf11be3a6a5882ff13904a54a",
+        "text": "پاسخ شهاب مرادی به خانمی که میگه میخوام مهریه ام رو ببخشم!\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "پاسخ شهاب مرادی به خانمی که میگه میخوام مهریه ام رو ببخشم!\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163067",
+        "post_id": 163067,
+        "message_id": 8130,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-10T14:18:10.196986+00:00"
+      },
+      {
+        "fingerprint": "bdc3aa11543ef7c928db0589287d314bad509b3083886f104976fe971a67da70",
+        "media_fingerprint": "",
+        "text": "🗂\nاصلاحیه دوم انتخاب رشته کنکور سراسری، فرهنگیان و بدون کنکور ۱۴۰۵\n🔵\nهم اکنون دفترچه دوم اصلاحیه انتخاب رشته کنکور سراسری و دانشگاه فرهنگیان ۱۴۰۵ و همچنین رشته های بدون کنکور در سایت سازمان سنجش منتشر شد. داوطلبان توجه داشته باشند که لیست جدیدی از کد رشته ها به تعداد انتخاب های آن ها در هر استان اضافه شده است، لذا پس از انتخاب کد رشته های جدید، امکان ویرایش فرم انتخاب رشته خود را خواهند داشت.\nمهلت انتخاب رشته: تا ۱۹ مهرماه ۱۴۰۵\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🗂\nاصلاحیه دوم انتخاب رشته کنکور سراسری، فرهنگیان و بدون کنکور ۱۴۰۵\n🔵\nهم اکنون دفترچه دوم اصلاحیه انتخاب رشته کنکور سراسری و دانشگاه فرهنگیان ۱۴۰۵ و همچنین رشته های بدون کنکور در سایت سازمان سنجش منتشر شد. داوطلبان توجه داشته باشند که لیست جدیدی از کد رشته ها به تعداد انتخاب های آن ها در هر استان اضافه شده است، لذا پس از انتخاب کد رشته های جدید، امکان ویرایش فرم انتخاب رشته خود را خواهند داشت.\nمهلت انتخاب رشته: تا ۱۹ مهرماه ۱۴۰۵\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23171",
+        "post_id": 23171,
+        "message_id": 8131,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-10T14:18:13.087653+00:00"
+      },
+      {
+        "fingerprint": "d24495e694e1e3cfa7ccd189685e0b8cf903c9c3e9095a45fb83876aed34ff56",
+        "media_fingerprint": "e98494157112d3fbfaa410dbcf5752d1bc7f767f043bfb38aa40ed403a94af52",
+        "text": "روایت مؤدب‌ ترین مرد تاریخ فوتبال ایران از سفر ۱۸ ساعته کاروان تراکتور از تبریز به عمان به دلیل محاصره هوایی ایران\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "روایت مؤدب‌ ترین مرد تاریخ فوتبال ایران از سفر ۱۸ ساعته کاروان تراکتور از تبریز به عمان به دلیل محاصره هوایی ایران\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163068",
+        "post_id": 163068,
+        "message_id": 8132,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-10T14:18:20.130793+00:00"
+      },
+      {
+        "fingerprint": "b17aebba96ec02b6de30197e07fcfd72086cf757797c2d83d9eb3c5fbf87e3fe",
+        "media_fingerprint": "faaca4555a2c04f80e11ee7df8fd5066e2497680e3ff09b0beed30517eac5ae9",
+        "text": "قبلاها وقتی دختری برای اولین بار تو زندگیش پـریود میشد؛ مادرش بهش میگفت نباید به کسی بگی و باید از همه مخفی کنی. ولی الان براش جشن میگیرن و همه رو هم دعوت میکنن تا بفهمن\n😐\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "قبلاها وقتی دختری برای اولین بار تو زندگیش پـریود میشد؛ مادرش بهش میگفت نباید به کسی بگی و باید از همه مخفی کنی. ولی الان براش جشن میگیرن و همه رو هم دعوت میکنن تا بفهمن\n😐\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163069",
+        "post_id": 163069,
+        "message_id": 8133,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-10T14:18:26.961035+00:00"
+      },
+      {
+        "fingerprint": "36ee9132851c730b0397bf3de4200a8e3cce00ac7d1c036a6e980701f62bc669",
+        "media_fingerprint": "7e381a296aecda20f00b62a0b2ca8c5e1345a4ec691f00ba9a19552072b1d585",
+        "text": "طوفان خورشیدی در راه زمین!\n🔹\nگزارش‌ها از احتمال وقوع طوفان خورشیدی در روزهای آینده خبر می‌دهند؛ پدیده‌ای که ممکن است ارتباطات ماهواره‌ای و اینترنت را مختل کند\n.\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "طوفان خورشیدی در راه زمین!\n🔹\nگزارش‌ها از احتمال وقوع طوفان خورشیدی در روزهای آینده خبر می‌دهند؛ پدیده‌ای که ممکن است ارتباطات ماهواره‌ای و اینترنت را مختل کند\n.\n@irWonders",
+        "original_link": "https://t.me/irwonders/58553",
+        "post_id": 58553,
+        "message_id": 8134,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-10T14:18:31.231747+00:00"
+      },
+      {
+        "fingerprint": "0ad0c6e6caf42cf40a94fea280f3916f7d5fdb18aed62767111f72a6eafb4c17",
+        "media_fingerprint": "7adef70ebac4be20cc8a48ccfeb6a8cde5c24714d5ce3e7bcd923e4810e26c30",
+        "text": "ویدیو وایرال شده از یه پارتی تو کرج!\nدندون ها و قیافه ها چرا انقد عجیبه:/\nفکر کنم بیشتر آمار ایدز برای پارتی های شبانه کرجه\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "ویدیو وایرال شده از یه پارتی تو کرج!\nدندون ها و قیافه ها چرا انقد عجیبه:/\nفکر کنم بیشتر آمار ایدز برای پارتی های شبانه کرجه\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/3219",
+        "post_id": 3219,
+        "message_id": 8135,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-10T14:18:38.171901+00:00"
       }
     ]
   }
