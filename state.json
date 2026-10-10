@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143410,
+      "last_id": 143412,
       "processed_ids": [
-        142306,
-        142307,
         142308,
         142309,
         142310,
@@ -1002,7 +1000,9 @@
         143407,
         143408,
         143409,
-        143410
+        143410,
+        143411,
+        143412
       ],
       "sent_count": 825
     },
@@ -2013,12 +2013,8 @@
       "sent_count": 113
     },
     "footballvision2": {
-      "last_id": 170918,
+      "last_id": 170922,
       "processed_ids": [
-        169816,
-        169817,
-        169818,
-        169819,
         169820,
         169821,
         169822,
@@ -3014,7 +3010,11 @@
         170914,
         170915,
         170917,
-        170918
+        170918,
+        170919,
+        170920,
+        170921,
+        170922
       ],
       "sent_count": 118
     },
@@ -3048,7 +3048,7 @@
       "sent_count": 4
     },
     "fars_today": {
-      "last_id": 132174,
+      "last_id": 132176,
       "processed_ids": [
         131975,
         131976,
@@ -3245,9 +3245,11 @@
         132171,
         132172,
         132173,
-        132174
+        132174,
+        132175,
+        132176
       ],
-      "sent_count": 113
+      "sent_count": 114
     },
     "behzistikomitenews": {
       "last_id": 13960,
@@ -4053,7 +4055,7 @@
       "sent_count": 436
     },
     "techtube": {
-      "last_id": 18476,
+      "last_id": 18477,
       "processed_ids": [
         18261,
         18262,
@@ -4190,9 +4192,10 @@
         18472,
         18473,
         18475,
-        18476
+        18476,
+        18477
       ],
-      "sent_count": 50
+      "sent_count": 51
     },
     "dafaterepishkhandpd": {
       "last_id": 16065,
@@ -5012,7 +5015,7 @@
       "sent_count": 126
     },
     "akhbar_cafenet": {
-      "last_id": 23158,
+      "last_id": 23160,
       "processed_ids": [
         22432,
         22433,
@@ -5699,12 +5702,14 @@
         23155,
         23156,
         23157,
-        23158
+        23158,
+        23159,
+        23160
       ],
-      "sent_count": 379
+      "sent_count": 380
     },
     "comentiat": {
-      "last_id": 26406,
+      "last_id": 26407,
       "processed_ids": [
         25844,
         25845,
@@ -6165,9 +6170,10 @@
         26402,
         26403,
         26404,
-        26406
+        26406,
+        26407
       ],
-      "sent_count": 334
+      "sent_count": 335
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -8967,9 +8973,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109527,
+      "last_id": 109528,
       "processed_ids": [
-        108451,
         108452,
         108453,
         108454,
@@ -9968,15 +9973,14 @@
         109524,
         109525,
         109526,
-        109527
+        109527,
+        109528
       ],
       "sent_count": 111
     },
     "varzesh3": {
-      "last_id": 303735,
+      "last_id": 303737,
       "processed_ids": [
-        302649,
-        302650,
         302651,
         302652,
         302653,
@@ -10974,12 +10978,14 @@
         303732,
         303733,
         303734,
-        303735
+        303735,
+        303736,
+        303737
       ],
       "sent_count": 81
     },
     "totalfut_plus": {
-      "last_id": 26637,
+      "last_id": 26638,
       "processed_ids": [
         25870,
         25871,
@@ -11723,14 +11729,14 @@
         26634,
         26635,
         26636,
-        26637
+        26637,
+        26638
       ],
       "sent_count": 48
     },
     "adak_ir_official": {
-      "last_id": 235105,
+      "last_id": 235106,
       "processed_ids": [
-        234077,
         234078,
         234079,
         234080,
@@ -12729,14 +12735,14 @@
         235102,
         235103,
         235104,
-        235105
+        235105,
+        235106
       ],
       "sent_count": 170
     },
     "futball180tv": {
-      "last_id": 108236,
+      "last_id": 108237,
       "processed_ids": [
-        107218,
         107219,
         107220,
         107221,
@@ -13735,15 +13741,14 @@
         108233,
         108234,
         108235,
-        108236
+        108236,
+        108237
       ],
       "sent_count": 73
     },
     "hattric_official": {
-      "last_id": 84627,
+      "last_id": 84629,
       "processed_ids": [
-        83575,
-        83576,
         83578,
         83579,
         83580,
@@ -14741,12 +14746,14 @@
         84624,
         84625,
         84626,
-        84627
+        84627,
+        84628,
+        84629
       ],
       "sent_count": 115
     },
     "mazdak_hattrick": {
-      "last_id": 182479,
+      "last_id": 182480,
       "processed_ids": [
         181991,
         181992,
@@ -15227,7 +15234,8 @@
         182476,
         182477,
         182478,
-        182479
+        182479,
+        182480
       ],
       "sent_count": 42
     },
@@ -15367,7 +15375,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58540,
+      "last_id": 58541,
       "processed_ids": [
         58030,
         58031,
@@ -15828,7 +15836,8 @@
         58537,
         58538,
         58539,
-        58540
+        58540,
+        58541
       ],
       "sent_count": 293
     },
@@ -15872,7 +15881,7 @@
       "sent_count": 9
     },
     "midanesti": {
-      "last_id": 73273,
+      "last_id": 73274,
       "processed_ids": [
         73193,
         73194,
@@ -15949,7 +15958,8 @@
         73269,
         73270,
         73271,
-        73273
+        73273,
+        73274
       ],
       "sent_count": 38
     },
@@ -17808,7 +17818,7 @@
       "sent_count": 11
     },
     "cinematicketorg": {
-      "last_id": 24397,
+      "last_id": 24402,
       "processed_ids": [
         24353,
         24354,
@@ -17842,9 +17852,10 @@
         24394,
         24395,
         24396,
-        24397
+        24397,
+        24402
       ],
-      "sent_count": 22
+      "sent_count": 23
     },
     "cinemadaily": {
       "last_id": 20753,
@@ -17941,7 +17952,7 @@
       "sent_count": 57
     },
     "yejoorayi": {
-      "last_id": 530,
+      "last_id": 531,
       "processed_ids": [
         426,
         427,
@@ -18045,9 +18056,10 @@
         527,
         528,
         529,
-        530
+        530,
+        531
       ],
-      "sent_count": 93
+      "sent_count": 94
     },
     "onlinecofe_ir": {
       "last_id": 2887,
@@ -18163,7 +18175,7 @@
       "sent_count": 39
     },
     "shakhmovie": {
-      "last_id": 4113,
+      "last_id": 4114,
       "processed_ids": [
         4017,
         4018,
@@ -18222,7 +18234,8 @@
         4109,
         4110,
         4112,
-        4113
+        4113,
+        4114
       ],
       "sent_count": 52
     },
@@ -18463,7 +18476,7 @@
       "sent_count": 139
     },
     "funy_khand": {
-      "last_id": 25741,
+      "last_id": 25743,
       "processed_ids": [
         25704,
         25705,
@@ -18502,7 +18515,9 @@
         25738,
         25739,
         25740,
-        25741
+        25741,
+        25742,
+        25743
       ],
       "sent_count": 0
     },
@@ -18536,99 +18551,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "87c9f337e51e652b90fef48508918963a9a38ef65ff44941bb00aa4ef9ab029d",
-        "media_fingerprint": "9ae9766c23d8156690056caf0d1181866dfd33d055d86c409bf63400345a0637",
-        "text": "🎥\nوزیر علوم: نتایج نهایی کنکور نیمه دوم آبان اعلام می شود\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🎥\nوزیر علوم: نتایج نهایی کنکور نیمه دوم آبان اعلام می شود\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/23072",
-        "post_id": 23072,
-        "message_id": 6997,
-        "message_kind": "caption",
-        "sources": [
-          "akhbar_cafenet",
-          "fars_today",
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-07T12:27:24.976774+00:00"
-      },
-      {
-        "fingerprint": "f9b90aacf2f7317989cae8faccea5ef284261c1603294ed95b082a78cc9a15a3",
-        "media_fingerprint": "7c0e4b2683da8c05649cc0203fa8bc5c10f69a7ab8ded088033d662490f8a6bb",
-        "text": "به به مبارکه، آقا شهاب هم داره پدر میشه.\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "به به مبارکه، آقا شهاب هم داره پدر میشه.\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/2930",
-        "post_id": 2930,
-        "message_id": 6998,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-07T12:27:32.851229+00:00"
-      },
-      {
-        "fingerprint": "e97daadab048a0464e906a814833b0e75440a3cded022b6e45fe2c2428ea807d",
-        "media_fingerprint": "bdd2ecd4a7389cc754b3a16c5437074217cfce4e5fbb886bec117c2cccb8765f",
-        "text": "🚨\n‼️\n🔴\nنکونام: از پرسپولیس محبی و بیفوما و از استقلال آسانی و کوشکی را بگیرید، چطور می‌توانند گل بزنند؟\n⚽️\n@Futball180TV",
-        "original_username": "futball180tv",
-        "original_text": "🚨\n‼️\n🔴\nنکونام: از پرسپولیس محبی و بیفوما و از استقلال آسانی و کوشکی را بگیرید، چطور می‌توانند گل بزنند؟\n⚽️\n@Futball180TV",
-        "original_link": "https://t.me/Futball180TV/108015",
-        "post_id": 108015,
-        "message_id": 6999,
-        "message_kind": "caption",
-        "sources": [
-          "futball180tv",
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-07T12:27:41.224235+00:00"
-      },
-      {
-        "fingerprint": "0b60fdaf5f58eb0c1ab548129b37c71c0d0470fac20cb38836e0c8ad69ac6ca5",
-        "media_fingerprint": "b4717051ae776535e81bb945560f7e1ff1879c69951ddb572acb1c86693f3e47",
-        "text": "شبیه سازی زلزله در استانبول\nتصاویر با هوش مصنوعی اجرا شده توسط یک شرکت رسمی\n👌\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "شبیه سازی زلزله در استانبول\nتصاویر با هوش مصنوعی اجرا شده توسط یک شرکت رسمی\n👌\n@irWonders",
-        "original_link": "https://t.me/irwonders/58420",
-        "post_id": 58420,
-        "message_id": 7000,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-07T12:56:27.998255+00:00"
-      },
-      {
-        "fingerprint": "cdd6d1f8f246edcb90b668f5c7f0d2629be2493c5333f0018bdc3fe577c75d19",
-        "media_fingerprint": "93709aead4cf64adb2b8d5d57ec4d8eefba8a6201fe61d9db2eb5d0edd4e8951",
-        "text": "🎖️\n🇪🇸\nرسمی : پدرو رودریگز، بازیکن سابق بارسلونا و چلسی، بازنشستگی خود از فوتبال را اعلام کرد.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_username": "totalfut_plus",
-        "original_text": "🎖️\n🇪🇸\nرسمی : پدرو رودریگز، بازیکن سابق بارسلونا و چلسی، بازنشستگی خود از فوتبال را اعلام کرد.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_link": "https://t.me/totalfut_plus/26525",
-        "post_id": 26525,
-        "message_id": 7001,
-        "message_kind": "caption",
-        "sources": [
-          "totalfut_plus"
-        ],
-        "created_at": "2026-10-07T12:56:32.063989+00:00"
-      },
-      {
-        "fingerprint": "cabf03788e0cd4ad5c06604c4ad9ee2d57181afb8fa62647e5fd79569a58399e",
-        "media_fingerprint": "abe8cd8836c99c5e3bcaf5dcda59b4badc01a8b7f779722d1b83c0ad1affb9a0",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26365",
-        "post_id": 26365,
-        "message_id": 7002,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-07T12:56:36.953635+00:00"
-      },
       {
         "fingerprint": "c2f4f3aa681bd9e1414ebca9da2deb824685a222c7c3b71b4e225528f3649f86",
         "media_fingerprint": "6ecec80b43ee1c055547d0585e345148a6858638a44bc043616519d073ad01e5",
@@ -33621,6 +33543,98 @@
           "coffeenetmanager"
         ],
         "created_at": "2026-10-10T09:19:40.778072+00:00"
+      },
+      {
+        "fingerprint": "4aa898da36fc186e385cb09d9cd72ad33d6ec77a301371d7c05edeca66e1f870",
+        "media_fingerprint": "f853db64efeecea9d1dc2c66fdbe420affdc5df9639638933695397c5d0b90c0",
+        "text": "🎞️\nپوستر جدید فیلم سینمایی «اسکورت» منتشر شد\nاین فیلم با عبور از فروش ۵۵ میلیارد تومانی و جذب ۴۰۰ هزار مخاطب، همچنان در سینماهای کشور روی پرده است.\nبازیگران: امیر جدیدی، هدی زین‌العابدین، افشین هاشمی، مهدی زمین‌پرداز، هادی شیخ‌الاسلامی و رضا کیانیان\nکارگردان: یوسف حاتمی‌کیا\nتهیه‌کننده: محمدرضا منصوری\n🎟\n️تهیه بلیت از سایت سینماتیکت\n@cinematicketorg",
+        "original_username": "cinematicketorg",
+        "original_text": "🎞️\nپوستر جدید فیلم سینمایی «اسکورت» منتشر شد\nاین فیلم با عبور از فروش ۵۵ میلیارد تومانی و جذب ۴۰۰ هزار مخاطب، همچنان در سینماهای کشور روی پرده است.\nبازیگران: امیر جدیدی، هدی زین‌العابدین، افشین هاشمی، مهدی زمین‌پرداز، هادی شیخ‌الاسلامی و رضا کیانیان\nکارگردان: یوسف حاتمی‌کیا\nتهیه‌کننده: محمدرضا منصوری\n🎟\n️تهیه بلیت از سایت سینماتیکت\n@cinematicketorg",
+        "original_link": "https://t.me/cinematicketorg/24402",
+        "post_id": 24402,
+        "message_id": 8037,
+        "message_kind": "caption",
+        "sources": [
+          "cinematicketorg"
+        ],
+        "created_at": "2026-10-10T09:47:54.367817+00:00"
+      },
+      {
+        "fingerprint": "033ea99853a64240dde7be93fdcb85bd1d11994fceca705428951cc527548b3f",
+        "media_fingerprint": "",
+        "text": "افزایش اعتبار کالابرگ‌های یک میلیون تومانی آغاز شد\n🔹\nمعاون رفاه و امور اقتصادی وزارت تعاون، کار و رفاه اجتماعی از افزایش ۵۰ درصدی کالابرگ حدود ۱۱ میلیون نفر از هموطنان خبر داد و گفت: در مرحله اول امروز حساب کالابرگ افراد تحت پوشش کمیته امداد و سازمان بهزیستی ۵۰۰ هزار تومان شارژ شد.",
+        "original_username": "fars_today",
+        "original_text": "افزایش اعتبار کالابرگ‌های یک میلیون تومانی آغاز شد\n🔹\nمعاون رفاه و امور اقتصادی وزارت تعاون، کار و رفاه اجتماعی از افزایش ۵۰ درصدی کالابرگ حدود ۱۱ میلیون نفر از هموطنان خبر داد و گفت: در مرحله اول امروز حساب کالابرگ افراد تحت پوشش کمیته امداد و سازمان بهزیستی ۵۰۰ هزار تومان شارژ شد.",
+        "original_link": "https://t.me/Fars_today/132175",
+        "post_id": 132175,
+        "message_id": 8038,
+        "message_kind": "text",
+        "sources": [
+          "fars_today",
+          "akhbar_cafenet",
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-10T09:47:57.488002+00:00"
+      },
+      {
+        "fingerprint": "3974b28bbfc06a07266d9341d961036a9247082d3fdac042971d261035239a43",
+        "media_fingerprint": "b8a345d1c6b6af2dc7085777283184fde1f7573a091c9494fbc52e6b67641b2e",
+        "text": "کیف پول جدید تلگرام برای رمزارز Gram (تون سابق) بالاخره در حال عرضه عمومی به صورت محدود هست.\nاین کیف پول جایگزین بات Wallet (و گزینه Wallet در تنظیمات) میشه و برخلاف اون، یک والت غیرحضانتی هست، یعنی پول شما در دست خودتون هست و با بکاپ گرفتن از کلمات ریکاوری اون، حتی اگر اکانت تلگرامتون هم بن بشه، بازم به پولتون دسترسی دارین.\nاین کیف پول که ظاهر شیکی هم داره، برای برخی از کاربران در نسخه 13 تلگرام فعال شده که با رفتن به تنظیمات تلگرام و چک کردن وجود گزینه Money میشه از فعال بودن اون مطمئن شد.\nاگر برای شما هنوز فعال نشده، بدون نیاز به شخص دیگری، فقط کافیه ایدی اکانتتون رو در لینک زیر قرار بدین، با کلیک کردن روی اون، ادرسی که ظاهر میشه رو کپی کنید و از کیف پول Gram خودتون در اپهای دیگه مثلا Keeper حداقل 0.1 گرم برای اون ادرس ارسال کنید تا کیف پول تلگرام برای اکانتتون فعال بشه.\nt.me/sendgrams?to=@YOURUSERNAME\nمثلا ادرس من میشه:\nt.me/sendgrams?to=@techtube_admin\n📍\n@TechTube",
+        "original_username": "techtube",
+        "original_text": "کیف پول جدید تلگرام برای رمزارز Gram (تون سابق) بالاخره در حال عرضه عمومی به صورت محدود هست.\nاین کیف پول جایگزین بات Wallet (و گزینه Wallet در تنظیمات) میشه و برخلاف اون، یک والت غیرحضانتی هست، یعنی پول شما در دست خودتون هست و با بکاپ گرفتن از کلمات ریکاوری اون، حتی اگر اکانت تلگرامتون هم بن بشه، بازم به پولتون دسترسی دارین.\nاین کیف پول که ظاهر شیکی هم داره، برای برخی از کاربران در نسخه 13 تلگرام فعال شده که با رفتن به تنظیمات تلگرام و چک کردن وجود گزینه Money میشه از فعال بودن اون مطمئن شد.\nاگر برای شما هنوز فعال نشده، بدون نیاز به شخص دیگری، فقط کافیه ایدی اکانتتون رو در لینک زیر قرار بدین، با کلیک کردن روی اون، ادرسی که ظاهر میشه رو کپی کنید و از کیف پول Gram خودتون در اپهای دیگه مثلا Keeper حداقل 0.1 گرم برای اون ادرس ارسال کنید تا کیف پول تلگرام برای اکانتتون فعال بشه.\nt.me/sendgrams?to=@YOURUSERNAME\nمثلا ادرس من میشه:\nt.me/sendgrams?to=@techtube_admin\n📍\n@TechTube",
+        "original_link": "https://t.me/TechTube/18477",
+        "post_id": 18477,
+        "message_id": 8039,
+        "message_kind": "caption",
+        "sources": [
+          "techtube"
+        ],
+        "created_at": "2026-10-10T09:48:07.521628+00:00"
+      },
+      {
+        "fingerprint": "0ebc2ca3e4482161898ab5a403f1b2e554a6f7d073fee0dd0feec42299e6d7f4",
+        "media_fingerprint": "",
+        "text": "🎥\nشارژ کیف پول ۳۳ هزار مادر مشمول طرح «چشم‌روشنی»\n🔵\nزاکانی، شهردار تهران: یکی از این اقدامات، ایجاد سازوکارهایی برای تضمین ثبات قیمت ۱۲ کالای اساسی است که در آبان‌ماه تعداد آن‌ها به ۱۵ کالای اساسی افزایش خواهد یافت.\n🟠\nهمچنین طرح «چشم‌روشنی» برای مادرانی که فرزندان خود را در سال ۱۴۰۵ به دنیا آورده‌اند، اجرا شده است و دو روز پیش، کیف پول ۳۳۰۰۰ نفر از مشمولان این طرح شارژ شد.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🎥\nشارژ کیف پول ۳۳ هزار مادر مشمول طرح «چشم‌روشنی»\n🔵\nزاکانی، شهردار تهران: یکی از این اقدامات، ایجاد سازوکارهایی برای تضمین ثبات قیمت ۱۲ کالای اساسی است که در آبان‌ماه تعداد آن‌ها به ۱۵ کالای اساسی افزایش خواهد یافت.\n🟠\nهمچنین طرح «چشم‌روشنی» برای مادرانی که فرزندان خود را در سال ۱۴۰۵ به دنیا آورده‌اند، اجرا شده است و دو روز پیش، کیف پول ۳۳۰۰۰ نفر از مشمولان این طرح شارژ شد.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23160",
+        "post_id": 23160,
+        "message_id": 8042,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-10T09:48:10.628029+00:00"
+      },
+      {
+        "fingerprint": "dd4ca1295431d1638142662dad7951a0daf0e1c6a1115a30779589c7e09e52cc",
+        "media_fingerprint": "b8b338d381b0865a7ec78ba71a00a5ef803505e97cbbde4e02f73f61294334a1",
+        "text": "در روز سلامت روان، تنها چیزی که ندارم سلامتِ روانه.\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "در روز سلامت روان، تنها چیزی که ندارم سلامتِ روانه.\n@comentiat",
+        "original_link": "https://t.me/Comentiat/26407",
+        "post_id": 26407,
+        "message_id": 8043,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-10T09:48:14.552980+00:00"
+      },
+      {
+        "fingerprint": "cbae071945897c2b55ff74569e7acd42be8bd7b71b33a5d9ede8bd87d774327e",
+        "media_fingerprint": "ded8c6a4a8c8f570d204a49e7e801f9adf0ef14282521d382ac72d9c927de73e",
+        "text": "رفیقت رفته سراغ پلن B\n🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "رفیقت رفته سراغ پلن B\n🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/531",
+        "post_id": 531,
+        "message_id": 8044,
+        "message_kind": "caption",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-10T09:48:18.835866+00:00"
       }
     ]
   }
