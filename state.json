@@ -3291,7 +3291,7 @@
       "sent_count": 7
     },
     "drtel": {
-      "last_id": 67565,
+      "last_id": 67567,
       "processed_ids": [
         66561,
         66565,
@@ -4086,9 +4086,11 @@
         67562,
         67563,
         67564,
-        67565
+        67565,
+        67566,
+        67567
       ],
-      "sent_count": 447
+      "sent_count": 448
     },
     "techtube": {
       "last_id": 18486,
@@ -4616,7 +4618,7 @@
       "sent_count": 90
     },
     "coffeenetmanager": {
-      "last_id": 51798,
+      "last_id": 51800,
       "processed_ids": [
         51537,
         51538,
@@ -4859,7 +4861,8 @@
         51795,
         51796,
         51797,
-        51798
+        51798,
+        51800
       ],
       "sent_count": 84
     },
@@ -18860,21 +18863,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "1111e997979b92f5f9ef0856688bea2616f0796d3bd2edc26d1577f0cd677af3",
-        "media_fingerprint": "0ec7acb08542727e6b6fb8ec8885b769600317c26a7158d24ed68a2388ec8d8c",
-        "text": "جوری که ناصرالدین شاه قاجار عاشق میشد:\nchannel➣\n🐓\n@khooroosjangi",
-        "original_username": "khooroosjangi",
-        "original_text": "جوری که ناصرالدین شاه قاجار عاشق میشد:\nchannel➣\n🐓\n@khooroosjangi",
-        "original_link": "https://t.me/khooroosjangi/85740",
-        "post_id": 85740,
-        "message_id": 7218,
-        "message_kind": "caption",
-        "sources": [
-          "khooroosjangi"
-        ],
-        "created_at": "2026-10-08T08:23:09.802861+00:00"
-      },
       {
         "fingerprint": "7caa0b720e5dfd97fee88916ef5de54f660807fc195c8653268c768ab5af4e04",
         "media_fingerprint": "dda3377e28076580de6de73e1dc72572523ec62ee85acbe1f7249ba71150ea2a",
@@ -33944,6 +33932,21 @@
           "ft360_ir"
         ],
         "created_at": "2026-10-10T22:46:21.419103+00:00"
+      },
+      {
+        "fingerprint": "a5c5f72beb50c33a596b5de5aa0a69df95159ebc1f5656bdb7f80e6ce909b7c8",
+        "media_fingerprint": "b1cfde15a29f54ea8a33e8c076a62344ab550375bb3ac8b7b2b9a5edb86db917",
+        "text": "🔴\nبالأخره روز دختر هم رسید؛\nاز ساعتی پیش رسما وارد 11 October ، روز جهانی دختر شدیم.\nروزی واسه دخترهایی که با لبخندشون، دنیا رو قابل تحمل‌تر میکنن و با بودنشون، به زندگی رنگ میدن...\nاین روز خوشگل رو به زیباترین دختر دنیات تبریک بگو\n🩷\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nبالأخره روز دختر هم رسید؛\nاز ساعتی پیش رسما وارد 11 October ، روز جهانی دختر شدیم.\nروزی واسه دخترهایی که با لبخندشون، دنیا رو قابل تحمل‌تر میکنن و با بودنشون، به زندگی رنگ میدن...\nاین روز خوشگل رو به زیباترین دختر دنیات تبریک بگو\n🩷\n@DrTeL",
+        "original_link": "https://t.me/drtel/67567",
+        "post_id": 67567,
+        "message_id": 8258,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-10T23:16:57.103620+00:00"
       }
     ]
   }
