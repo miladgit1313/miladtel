@@ -1,12 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143401,
+      "last_id": 143406,
       "processed_ids": [
-        142298,
-        142299,
-        142300,
-        142301,
         142302,
         142303,
         142304,
@@ -1002,9 +998,13 @@
         143398,
         143399,
         143400,
-        143401
+        143401,
+        143402,
+        143403,
+        143405,
+        143406
       ],
-      "sent_count": 819
+      "sent_count": 822
     },
     "total_fut": {
       "last_id": 237625,
@@ -2013,11 +2013,8 @@
       "sent_count": 112
     },
     "footballvision2": {
-      "last_id": 170912,
+      "last_id": 170915,
       "processed_ids": [
-        169811,
-        169812,
-        169813,
         169814,
         169815,
         169816,
@@ -3014,7 +3011,10 @@
         170903,
         170910,
         170911,
-        170912
+        170912,
+        170913,
+        170914,
+        170915
       ],
       "sent_count": 117
     },
@@ -3048,7 +3048,7 @@
       "sent_count": 4
     },
     "fars_today": {
-      "last_id": 132173,
+      "last_id": 132174,
       "processed_ids": [
         131975,
         131976,
@@ -3244,7 +3244,8 @@
         132170,
         132171,
         132172,
-        132173
+        132173,
+        132174
       ],
       "sent_count": 113
     },
@@ -3277,7 +3278,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67533,
+      "last_id": 67537,
       "processed_ids": [
         66561,
         66565,
@@ -4045,7 +4046,8 @@
         67530,
         67531,
         67532,
-        67533
+        67533,
+        67537
       ],
       "sent_count": 436
     },
@@ -4380,7 +4382,7 @@
       "sent_count": 30
     },
     "sabtnamkh0dro": {
-      "last_id": 14363,
+      "last_id": 14364,
       "processed_ids": [
         14164,
         14165,
@@ -4551,9 +4553,10 @@
         14359,
         14361,
         14362,
-        14363
+        14363,
+        14364
       ],
-      "sent_count": 87
+      "sent_count": 88
     },
     "coffeenetmanager": {
       "last_id": 51789,
@@ -5001,7 +5004,7 @@
       "sent_count": 125
     },
     "akhbar_cafenet": {
-      "last_id": 23152,
+      "last_id": 23153,
       "processed_ids": [
         22432,
         22433,
@@ -5682,9 +5685,10 @@
         23149,
         23150,
         23151,
-        23152
+        23152,
+        23153
       ],
-      "sent_count": 374
+      "sent_count": 375
     },
     "comentiat": {
       "last_id": 26406,
@@ -6417,12 +6421,8 @@
       "sent_count": 150
     },
     "gizmiztel": {
-      "last_id": 163045,
+      "last_id": 163049,
       "processed_ids": [
-        161939,
-        161940,
-        161941,
-        161942,
         161944,
         161945,
         161946,
@@ -7418,9 +7418,13 @@
         163042,
         163043,
         163044,
-        163045
+        163045,
+        163046,
+        163047,
+        163048,
+        163049
       ],
-      "sent_count": 713
+      "sent_count": 716
     },
     "dr_salamatx": {
       "last_id": 55376,
@@ -9951,9 +9955,8 @@
       "sent_count": 111
     },
     "varzesh3": {
-      "last_id": 303730,
+      "last_id": 303731,
       "processed_ids": [
-        302643,
         302644,
         302645,
         302646,
@@ -10952,12 +10955,13 @@
         303727,
         303728,
         303729,
-        303730
+        303730,
+        303731
       ],
-      "sent_count": 80
+      "sent_count": 81
     },
     "totalfut_plus": {
-      "last_id": 26635,
+      "last_id": 26636,
       "processed_ids": [
         25870,
         25871,
@@ -11699,15 +11703,14 @@
         26632,
         26633,
         26634,
-        26635
+        26635,
+        26636
       ],
       "sent_count": 48
     },
     "adak_ir_official": {
-      "last_id": 235096,
+      "last_id": 235098,
       "processed_ids": [
-        234068,
-        234069,
         234070,
         234071,
         234072,
@@ -12705,14 +12708,15 @@
         235093,
         235094,
         235095,
-        235096
+        235096,
+        235097,
+        235098
       ],
       "sent_count": 169
     },
     "futball180tv": {
-      "last_id": 108228,
+      "last_id": 108229,
       "processed_ids": [
-        107210,
         107211,
         107212,
         107213,
@@ -13711,15 +13715,14 @@
         108225,
         108226,
         108227,
-        108228
+        108228,
+        108229
       ],
       "sent_count": 73
     },
     "hattric_official": {
-      "last_id": 84615,
+      "last_id": 84618,
       "processed_ids": [
-        83565,
-        83566,
         83567,
         83568,
         83569,
@@ -14717,12 +14720,14 @@
         84612,
         84613,
         84614,
-        84615
+        84615,
+        84617,
+        84618
       ],
       "sent_count": 113
     },
     "mazdak_hattrick": {
-      "last_id": 182476,
+      "last_id": 182477,
       "processed_ids": [
         181991,
         181992,
@@ -15200,7 +15205,8 @@
         182473,
         182474,
         182475,
-        182476
+        182476,
+        182477
       ],
       "sent_count": 42
     },
@@ -15340,7 +15346,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58535,
+      "last_id": 58536,
       "processed_ids": [
         58030,
         58031,
@@ -15796,7 +15802,8 @@
         58531,
         58533,
         58534,
-        58535
+        58535,
+        58536
       ],
       "sent_count": 289
     },
@@ -17908,7 +17915,7 @@
       "sent_count": 57
     },
     "yejoorayi": {
-      "last_id": 529,
+      "last_id": 530,
       "processed_ids": [
         426,
         427,
@@ -18011,9 +18018,10 @@
         526,
         527,
         528,
-        529
+        529,
+        530
       ],
-      "sent_count": 92
+      "sent_count": 93
     },
     "onlinecofe_ir": {
       "last_id": 2887,
@@ -18424,7 +18432,7 @@
       "sent_count": 137
     },
     "funy_khand": {
-      "last_id": 25737,
+      "last_id": 25739,
       "processed_ids": [
         25704,
         25705,
@@ -18459,12 +18467,14 @@
         25734,
         25735,
         25736,
-        25737
+        25737,
+        25738,
+        25739
       ],
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6126,
+      "last_id": 6128,
       "processed_ids": [
         6113,
         6114,
@@ -18478,163 +18488,15 @@
         6123,
         6124,
         6125,
-        6126
+        6126,
+        6127,
+        6128
       ],
       "sent_count": 1
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "ad73d8bc260c731ed075ea92379d2e018a593d98c84640046d6acbe620bc15f5",
-        "media_fingerprint": "055b8d3a0a609217fae55b43e6d9caf938b43b685a6db605682accbd656fa368",
-        "text": "پزشکیان: از روزی می‌ترسم که خدا از من سوال کند که چه‌ کار کردی؟\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "پزشکیان: از روزی می‌ترسم که خدا از من سوال کند که چه‌ کار کردی؟\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162897",
-        "post_id": 162897,
-        "message_id": 6955,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-07T09:50:59.603593+00:00"
-      },
-      {
-        "fingerprint": "218b05a6710dd318977a2676ded8fa4fb73f9b417b0d34e07963ffdda8447adf",
-        "media_fingerprint": "899045b825387e93d3fb336432b203ef82fadd25370df638747d8a36ffc140e2",
-        "text": "آموزش شلیک با ضدهوایی به بانوان در میدان هفت تیر\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "آموزش شلیک با ضدهوایی به بانوان در میدان هفت تیر\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162898",
-        "post_id": 162898,
-        "message_id": 6956,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-07T09:51:10.633801+00:00"
-      },
-      {
-        "fingerprint": "cd7a03a8595fc8e350914a3912347296bc99ad71b69911589fc7f4a920872ef0",
-        "media_fingerprint": "3d5ed8ba2c5dc667aba30652b3ba991b18a2691c400bf812b7052acd6025f339",
-        "text": "ویدیو منتشر شده از مراسم ختم خواهر آقای عراقچی در مسجد نور\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "ویدیو منتشر شده از مراسم ختم خواهر آقای عراقچی در مسجد نور\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162902",
-        "post_id": 162902,
-        "message_id": 6960,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-07T09:51:17.475180+00:00"
-      },
-      {
-        "fingerprint": "0abdaf068b990269f6b6db76087bec06c95b6a919ff028ee85d88854b6a48719",
-        "media_fingerprint": "c890858b7041e6d4d20c5fd9a0f6fe54b30c2abe369a1e077953b5501766bdb6",
-        "text": "فیلم‌های برتر سال 2014 تو ژانر ترسناک:\n▪️\nAnnabelle\n▫️\nDracula Untold\n▪️\nThe Babadook\n▫️\nDeliver Us From Evil\n▪️\nI, Frankenstein\n▫️\nOuija\n▪️\nIt Follows\n▫️\nGirl House\n▪️\nCreep\n▫️\nExists\n▪️\nJessabelle\n▫️\nWrong Turn 6\n▪️\n7500\n▫️\nSpring\n▪️\nParanormal Activity: The Marked Ones\n▫️\nThe Taking of Deborah Logan\n▪️\nZombeavers\n▫️\nAs Above, So Below\n📷\n|\n@ShakhMovie",
-        "original_username": "shakhmovie",
-        "original_text": "فیلم‌های برتر سال 2014 تو ژانر ترسناک:\n▪️\nAnnabelle\n▫️\nDracula Untold\n▪️\nThe Babadook\n▫️\nDeliver Us From Evil\n▪️\nI, Frankenstein\n▫️\nOuija\n▪️\nIt Follows\n▫️\nGirl House\n▪️\nCreep\n▫️\nExists\n▪️\nJessabelle\n▫️\nWrong Turn 6\n▪️\n7500\n▫️\nSpring\n▪️\nParanormal Activity: The Marked Ones\n▫️\nThe Taking of Deborah Logan\n▪️\nZombeavers\n▫️\nAs Above, So Below\n📷\n|\n@ShakhMovie",
-        "original_link": "https://t.me/Shakhmovie/4079",
-        "post_id": 4079,
-        "message_id": 6961,
-        "message_kind": "caption",
-        "sources": [
-          "shakhmovie"
-        ],
-        "created_at": "2026-10-07T09:51:21.988557+00:00"
-      },
-      {
-        "fingerprint": "837774a63fe21d39bc345022e6f13ba2b192776b6d886a2dc94a2f854e481112",
-        "media_fingerprint": "",
-        "text": "🔴\nگزارش‌های طاعون در روسیه، غیررسمی است\nرییس دانشگاه علوم پزشکی ایران:\n🔹\nگزارش‌های طاعون در کشور روسیه، غیررسمی است.\n🔹\nبیماری طاعون را در کشور نداریم و ریشه‌کنی این بیماری انجام شده است.\n🔹\nهمچنین ریشه‌کنی بسیاری از بیماری‌ها در کشور انجام شده است./ایسنا\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "🔴\nگزارش‌های طاعون در روسیه، غیررسمی است\nرییس دانشگاه علوم پزشکی ایران:\n🔹\nگزارش‌های طاعون در کشور روسیه، غیررسمی است.\n🔹\nبیماری طاعون را در کشور نداریم و ریشه‌کنی این بیماری انجام شده است.\n🔹\nهمچنین ریشه‌کنی بسیاری از بیماری‌ها در کشور انجام شده است./ایسنا\n@irWonders",
-        "original_link": "https://t.me/irwonders/58414",
-        "post_id": 58414,
-        "message_id": 6962,
-        "message_kind": "text",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-07T10:21:07.811942+00:00"
-      },
-      {
-        "fingerprint": "49a0773b80bb31a01c0cef03f1033ca9ca662b41f912bb9e1a569bdd6d6b3d4f",
-        "media_fingerprint": "9f83eeb0d40267d059c1af37c8cf51b8705718c01fa5fd0f7ddca3a030e555a0",
-        "text": "ریسک این چالش بالاست\n😂\n😂\n😂\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "ریسک این چالش بالاست\n😂\n😂\n😂\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/2927",
-        "post_id": 2927,
-        "message_id": 6963,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-07T10:21:15.948175+00:00"
-      },
-      {
-        "fingerprint": "4a83c05c716d363d057844e6b94a094286e01f462b2a71ffe08fd8de1b794fbe",
-        "media_fingerprint": "a4a67cc77744b8a0ee8cae3a91f5b16db22d0c43e7ad6a6769667c58a462eebd",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26361",
-        "post_id": 26361,
-        "message_id": 6964,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-07T10:21:20.335749+00:00"
-      },
-      {
-        "fingerprint": "0a9847296c06960429208bf55ad869dfceacacb9a5d3083334e77334ab17e090",
-        "media_fingerprint": "220797176bf33f4fecff5c892d94bc8ab1f22113f67ed9690799e5cc088c5fc7",
-        "text": "امر\nوز October 7، روز جهانی کساییه که باطنِ زیبایی دارن.\nا\nین روزو به کسی که علاوه بر چهره زیبا، خوش قلب‌ترین و مهربون‌ترین آدمیه که می‌شناسی، تبریک بگو.\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "امر\nوز October 7، روز جهانی کساییه که باطنِ زیبایی دارن.\nا\nین روزو به کسی که علاوه بر چهره زیبا، خوش قلب‌ترین و مهربون‌ترین آدمیه که می‌شناسی، تبریک بگو.\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52743",
-        "post_id": 52743,
-        "message_id": 6965,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-07T10:21:25.180387+00:00"
-      },
-      {
-        "fingerprint": "fdd69ea1093a35cdafcdd86849a262046de6cd4c033d0ff08cb53a362f9d9435",
-        "media_fingerprint": "",
-        "text": "🎖️\n🏅\nپرسپولیس امتیاز پادیاب خلخال تو لیگ دست دوم رو رسما خرید...\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_username": "totalfut_plus",
-        "original_text": "🎖️\n🏅\nپرسپولیس امتیاز پادیاب خلخال تو لیگ دست دوم رو رسما خرید...\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_link": "https://t.me/totalfut_plus/26522",
-        "post_id": 26522,
-        "message_id": 6966,
-        "message_kind": "text",
-        "sources": [
-          "totalfut_plus"
-        ],
-        "created_at": "2026-10-07T10:21:28.248155+00:00"
-      },
-      {
-        "fingerprint": "0fa324e187b17e429111bd7b0795203f401c4ea55b08693b49f8d9f9ea573e6b",
-        "media_fingerprint": "bbd1b6e472ff7ae4c9ea50676bd665c5239ff5af1e189e12605129513c0c17cb",
-        "text": "دیده شدن شی عجیب در اتوبان جم_شیراز\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "دیده شدن شی عجیب در اتوبان جم_شیراز\n@irWonders",
-        "original_link": "https://t.me/irwonders/58415",
-        "post_id": 58415,
-        "message_id": 6967,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-07T10:21:34.603299+00:00"
-      },
       {
         "fingerprint": "2ddda0a00f71eb74aa53070dfa9456bcd677aa04d87f6550d3542c15a054d363",
         "media_fingerprint": "88337cbff07fecf6fac8e259b5522d4b3d389c516965d6787df2fd736dad1582",
@@ -24596,7 +24458,8 @@
         "message_id": 7377,
         "message_kind": "caption",
         "sources": [
-          "ajayebe_jahann"
+          "ajayebe_jahann",
+          "irwonders"
         ],
         "created_at": "2026-10-08T15:52:45.200400+00:00"
       },
@@ -33532,7 +33395,8 @@
         "message_id": 7992,
         "message_kind": "text",
         "sources": [
-          "akhbarfars"
+          "akhbarfars",
+          "fars_today"
         ],
         "created_at": "2026-10-10T07:19:22.387098+00:00"
       },
@@ -33565,6 +33429,156 @@
           "footballvision2"
         ],
         "created_at": "2026-10-10T07:19:33.102307+00:00"
+      },
+      {
+        "fingerprint": "6c3f857982396b920daf3dbf91483ff5106ac03861b26fa91bfe9ea5278568ac",
+        "media_fingerprint": "b39dc56b0c42cc4cf426f7be74f4c4775da6a6bf992d4cbbdfe69cf045f6c695",
+        "text": "دلم واسه اون یکی سوخت خدایی\n🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "دلم واسه اون یکی سوخت خدایی\n🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/530",
+        "post_id": 530,
+        "message_id": 7995,
+        "message_kind": "caption",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-10T07:47:20.868706+00:00"
+      },
+      {
+        "fingerprint": "3855e432ca8071e849c6e3da9c84187bbc8f4626052654f9326e8f15da222edd",
+        "media_fingerprint": "",
+        "text": "🌐\nخبر مهم مالیاتی برای حقوق بگیران\n💵\nسخنگوی سازمان امور مالیاتی کشور گفت: افرادی که به دلیل اختلافات تفسیری یا محاسبه مالیات برخی مزایای رفاهی و انگیزشی، بیش از میزان قانونی مالیات پرداخت کرده‌اند، می‌توانند با ارائه درخواست کتبی به اداره امور مالیاتی محل سکونت خود، خواستار استرداد اضافه‌پرداختی شوند.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🌐\nخبر مهم مالیاتی برای حقوق بگیران\n💵\nسخنگوی سازمان امور مالیاتی کشور گفت: افرادی که به دلیل اختلافات تفسیری یا محاسبه مالیات برخی مزایای رفاهی و انگیزشی، بیش از میزان قانونی مالیات پرداخت کرده‌اند، می‌توانند با ارائه درخواست کتبی به اداره امور مالیاتی محل سکونت خود، خواستار استرداد اضافه‌پرداختی شوند.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23153",
+        "post_id": 23153,
+        "message_id": 7996,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-10T07:47:23.647170+00:00"
+      },
+      {
+        "fingerprint": "8781e9816aab761e704161427dc290c1fc55494181f0fbaf9da24497acc04a9c",
+        "media_fingerprint": "",
+        "text": "♦️\nپایان حبس دانشگاه؛ از معطلی ۱۲۴۰ روزه تا الگوی استاد فناور\nجانشین بسیج اساتید استان فارس:\n🔹\nدانشگاه باید در مسائل عینی نظیر پروژه‌های عمرانی، المان‌ها و سیمای شهری ورود کند. متأسفانه موانع بروکراتیک تولید بسیار سنگین است.\n🔹\nکمااینکه پرونده شرکتی دانش‌بنیان وجود داشت که ۱۲۴۰ روز معطل صدور مجوز در دستگاه‌های اجرایی مانده بود اما با ورود این مجموعه، گره چندساله ظرف ۶ روز گشوده شد.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nپایان حبس دانشگاه؛ از معطلی ۱۲۴۰ روزه تا الگوی استاد فناور\nجانشین بسیج اساتید استان فارس:\n🔹\nدانشگاه باید در مسائل عینی نظیر پروژه‌های عمرانی، المان‌ها و سیمای شهری ورود کند. متأسفانه موانع بروکراتیک تولید بسیار سنگین است.\n🔹\nکمااینکه پرونده شرکتی دانش‌بنیان وجود داشت که ۱۲۴۰ روز معطل صدور مجوز در دستگاه‌های اجرایی مانده بود اما با ورود این مجموعه، گره چندساله ظرف ۶ روز گشوده شد.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143403",
+        "post_id": 143403,
+        "message_id": 7997,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-10T07:47:26.600740+00:00"
+      },
+      {
+        "fingerprint": "5e86b0f3d29e1b2e5574acae43d0ecb703b7914f608bc4f768b8546c720b61f0",
+        "media_fingerprint": "1b0e4e028ee2a3bb020f8f5e906559dd67cb4b819e31fb91a0450fc5738a4846",
+        "text": "🔴\nویدیو متفاوت باشگاه پرسپولیس از لایی تیکدری به آسانی در دربی\n🆔\n@varzesh3_site",
+        "original_username": "varzesh3",
+        "original_text": "🔴\nویدیو متفاوت باشگاه پرسپولیس از لایی تیکدری به آسانی در دربی\n🆔\n@varzesh3_site",
+        "original_link": "https://t.me/varzesh3/303731",
+        "post_id": 303731,
+        "message_id": 7998,
+        "message_kind": "caption",
+        "sources": [
+          "varzesh3"
+        ],
+        "created_at": "2026-10-10T07:47:30.571547+00:00"
+      },
+      {
+        "fingerprint": "1f9358909060e1805dc6eb141326211bfbeb805f28f03969375e9ba37875b557",
+        "media_fingerprint": "2c206363bf2ce5867e6970c8995f56efec7588cc0eff3b8f01e724c4c040d149",
+        "text": "🔰\nاعلام لیست  قیمت جدید محصولات بهمن دیزل ویژه 15 مهر ماه 1405\n#بهمن_دیزل",
+        "original_username": "sabtnamkh0dro",
+        "original_text": "🔰\nاعلام لیست  قیمت جدید محصولات بهمن دیزل ویژه 15 مهر ماه 1405\n#بهمن_دیزل",
+        "original_link": "https://t.me/sabtnamkh0dro/14364",
+        "post_id": 14364,
+        "message_id": 7999,
+        "message_kind": "caption",
+        "sources": [
+          "sabtnamkh0dro"
+        ],
+        "created_at": "2026-10-10T07:47:34.911365+00:00"
+      },
+      {
+        "fingerprint": "4ad17dec6bf44cc01edfcda73af2c31f55ab06cdfcd5543d210827c6f8cc6c82",
+        "media_fingerprint": "edd70b209880bafb8bc3a6a1d52f2f7031d601ce03f0d0a22892cb41b6b7f6f9",
+        "text": "📞\n🖤\nسادگی‌ای که هنوزم حرف اول رو می‌زنه!\nدنبال یه گوشی ساده، جمع‌وجور و قابل‌اعتماد برای تماس و پیام هستی؟\nنوکیا 106 مدل 2018\nهمون انتخابیه که بدون امکانات اضافی، کارتو راه می‌اندازه.\n✨\nطراحی ساده و کاربردی\n🔋\nباتری قابل تعویض\n📱\nصفحه‌نمایش ۱.۸ اینچی\n📞\nمناسب تماس و استفاده روزمره\n📲\nدو سیم‌کارت\n💥\nقیمت ویژه: فقط ۲,۵۹۰,۰۰۰ تومان\n💳\nامکان پرداخت قسطی با ترب‌پی\n🔄\nضمانت تعویض ۳ روزه\n📞\nگاهی بهترین انتخاب، همون چیزیه که ساده، کاربردی و بی‌دردسره!\nhttps://memarket24.ir/product/fast/63670/180124/",
+        "original_username": "akhbarfars",
+        "original_text": "📞\n🖤\nسادگی‌ای که هنوزم حرف اول رو می‌زنه!\nدنبال یه گوشی ساده، جمع‌وجور و قابل‌اعتماد برای تماس و پیام هستی؟\nنوکیا 106 مدل 2018\nهمون انتخابیه که بدون امکانات اضافی، کارتو راه می‌اندازه.\n✨\nطراحی ساده و کاربردی\n🔋\nباتری قابل تعویض\n📱\nصفحه‌نمایش ۱.۸ اینچی\n📞\nمناسب تماس و استفاده روزمره\n📲\nدو سیم‌کارت\n💥\nقیمت ویژه: فقط ۲,۵۹۰,۰۰۰ تومان\n💳\nامکان پرداخت قسطی با ترب‌پی\n🔄\nضمانت تعویض ۳ روزه\n📞\nگاهی بهترین انتخاب، همون چیزیه که ساده، کاربردی و بی‌دردسره!\nhttps://memarket24.ir/product/fast/63670/180124/",
+        "original_link": "https://t.me/akhbarfars/143405",
+        "post_id": 143405,
+        "message_id": 8000,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-10T07:47:39.671242+00:00"
+      },
+      {
+        "fingerprint": "86355eea8f2c4e7bcb79fca30714cf32e91202d26c76cfbe5b4d721a59ad72e3",
+        "media_fingerprint": "7c3d52faee68a3c744d89e26349b8118762d83d1ba6a078250bae56482bae95b",
+        "text": "آمریکا پس از «محاصره دریایی» و «محاصره هوایی»، بصورت جدی وارد فازِ «محاصره زمینی» شده است\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "آمریکا پس از «محاصره دریایی» و «محاصره هوایی»، بصورت جدی وارد فازِ «محاصره زمینی» شده است\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163046",
+        "post_id": 163046,
+        "message_id": 8001,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-10T07:47:43.879484+00:00"
+      },
+      {
+        "fingerprint": "8dbb61f48852646e304de4011ef689bc4fd21ad691db0e9d267e45ded4686d18",
+        "media_fingerprint": "cb52d1fd17dc801af4ee902d1b04c90a749eec5c0baaca71b12cf044993a21e8",
+        "text": "از مد جدید ابرو عقب نمونید\n😄\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "از مد جدید ابرو عقب نمونید\n😄\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163047",
+        "post_id": 163047,
+        "message_id": 8002,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-10T07:47:49.702215+00:00"
+      },
+      {
+        "fingerprint": "75f0d3c8803c7d54433ca2292952b803ea64684e0b2b0f764330a51b1edc2d4b",
+        "media_fingerprint": "a5750481f93fc50361264bc611ae6fcae11d4789c7806ab18674394dc55676f1",
+        "text": "شاید براتون جالب باشه؛ تو\nقم به کاندوم میگن تنظیم خانواده!\nبه روان کننده هم میگن، ژل تنظیم خانواده!\nفک کن بری بگی تنظیم خانواده خاردار میخوام://\n+جالبه که روی همون تابلو زیرش نوشته «راحت بگو کدکس میخوام»\n😂\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "شاید براتون جالب باشه؛ تو\nقم به کاندوم میگن تنظیم خانواده!\nبه روان کننده هم میگن، ژل تنظیم خانواده!\nفک کن بری بگی تنظیم خانواده خاردار میخوام://\n+جالبه که روی همون تابلو زیرش نوشته «راحت بگو کدکس میخوام»\n😂\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163048",
+        "post_id": 163048,
+        "message_id": 8003,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-10T07:47:54.094527+00:00"
+      },
+      {
+        "fingerprint": "b991eb85c348bf205121bf5e0fac37be2f85d04a2e66839633a2da63210c5c68",
+        "media_fingerprint": "386d919e4a3bcf121d0f3f2c220678991f3d58fb0ff1658463aec1dcb60747da",
+        "text": "♦️\nرولت گوشت و مرغ\nمواد لازم:\n🔹️\nگوشت چرخ شده ۳۰۰گرم\n🔹️\nمرغ چرخ شده ۳۰۰گرم\n🔹️\nپیاز\n🔹️\nرب گوجه\n🔹️\nزرشک\n🔹️\nنمک فلفل زردچوبه پولبیبر پوپریکا\n🔹️\nپودر سیر\n#آشپزی\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nرولت گوشت و مرغ\nمواد لازم:\n🔹️\nگوشت چرخ شده ۳۰۰گرم\n🔹️\nمرغ چرخ شده ۳۰۰گرم\n🔹️\nپیاز\n🔹️\nرب گوجه\n🔹️\nزرشک\n🔹️\nنمک فلفل زردچوبه پولبیبر پوپریکا\n🔹️\nپودر سیر\n#آشپزی\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143406",
+        "post_id": 143406,
+        "message_id": 8004,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-10T07:48:01.313564+00:00"
       }
     ]
   }
