@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143397,
+      "last_id": 143399,
       "processed_ids": [
-        142294,
-        142295,
         142296,
         142297,
         142298,
@@ -1002,16 +1000,15 @@
         143394,
         143395,
         143396,
-        143397
+        143397,
+        143398,
+        143399
       ],
       "sent_count": 817
     },
     "total_fut": {
-      "last_id": 237619,
+      "last_id": 237622,
       "processed_ids": [
-        236566,
-        236567,
-        236570,
         236571,
         236572,
         236573,
@@ -2008,14 +2005,16 @@
         237616,
         237617,
         237618,
-        237619
+        237619,
+        237620,
+        237621,
+        237622
       ],
       "sent_count": 112
     },
     "footballvision2": {
-      "last_id": 170903,
+      "last_id": 170910,
       "processed_ids": [
-        169808,
         169809,
         169810,
         169811,
@@ -3014,7 +3013,8 @@
         170900,
         170901,
         170902,
-        170903
+        170903,
+        170910
       ],
       "sent_count": 116
     },
@@ -4380,7 +4380,7 @@
       "sent_count": 30
     },
     "sabtnamkh0dro": {
-      "last_id": 14359,
+      "last_id": 14363,
       "processed_ids": [
         14164,
         14165,
@@ -4548,7 +4548,10 @@
         14356,
         14357,
         14358,
-        14359
+        14359,
+        14361,
+        14362,
+        14363
       ],
       "sent_count": 87
     },
@@ -4997,7 +5000,7 @@
       "sent_count": 125
     },
     "akhbar_cafenet": {
-      "last_id": 23146,
+      "last_id": 23149,
       "processed_ids": [
         22432,
         22433,
@@ -5672,9 +5675,12 @@
         23143,
         23144,
         23145,
-        23146
+        23146,
+        23147,
+        23148,
+        23149
       ],
-      "sent_count": 371
+      "sent_count": 373
     },
     "comentiat": {
       "last_id": 26404,
@@ -8925,10 +8931,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109518,
+      "last_id": 109520,
       "processed_ids": [
-        108441,
-        108443,
         108445,
         108446,
         108447,
@@ -9926,9 +9930,11 @@
         109515,
         109516,
         109517,
-        109518
+        109518,
+        109519,
+        109520
       ],
-      "sent_count": 110
+      "sent_count": 111
     },
     "varzesh3": {
       "last_id": 303728,
@@ -10937,7 +10943,7 @@
       "sent_count": 80
     },
     "totalfut_plus": {
-      "last_id": 26630,
+      "last_id": 26632,
       "processed_ids": [
         25870,
         25871,
@@ -11674,15 +11680,15 @@
         26626,
         26627,
         26628,
-        26630
+        26630,
+        26631,
+        26632
       ],
       "sent_count": 48
     },
     "adak_ir_official": {
-      "last_id": 235092,
+      "last_id": 235094,
       "processed_ids": [
-        234064,
-        234065,
         234066,
         234067,
         234068,
@@ -12680,15 +12686,15 @@
         235089,
         235090,
         235091,
-        235092
+        235092,
+        235093,
+        235094
       ],
       "sent_count": 168
     },
     "futball180tv": {
-      "last_id": 108224,
+      "last_id": 108226,
       "processed_ids": [
-        107206,
-        107207,
         107208,
         107209,
         107210,
@@ -13686,14 +13692,15 @@
         108221,
         108222,
         108223,
-        108224
+        108224,
+        108225,
+        108226
       ],
       "sent_count": 73
     },
     "hattric_official": {
-      "last_id": 84613,
+      "last_id": 84614,
       "processed_ids": [
-        83562,
         83564,
         83565,
         83566,
@@ -14692,7 +14699,8 @@
         84610,
         84611,
         84612,
-        84613
+        84613,
+        84614
       ],
       "sent_count": 113
     },
@@ -15311,7 +15319,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58530,
+      "last_id": 58531,
       "processed_ids": [
         58030,
         58031,
@@ -15763,9 +15771,10 @@
         58527,
         58528,
         58529,
-        58530
+        58530,
+        58531
       ],
-      "sent_count": 288
+      "sent_count": 289
     },
     "razcom": {
       "last_id": 70490,
@@ -18428,7 +18437,7 @@
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6124,
+      "last_id": 6125,
       "processed_ids": [
         6113,
         6114,
@@ -18440,73 +18449,14 @@
         6121,
         6122,
         6123,
-        6124
+        6124,
+        6125
       ],
       "sent_count": 1
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "d2aee3b675346e34599b000a9d4cd1a5a9cbb2764bc4e5170dc4559f6931a088",
-        "media_fingerprint": "",
-        "text": "کالابرگ دهک‌های پایین اضافه نشد\n🔹\nبنابود رقم کالابرگ دهک‌های پایین از امروز اضافه شود؛ اما پیگیری از وزارت کار مشخص کرد، رقم اضافه شده تا لحظهٔ انتشار خبر واریز نشده است؛ علت این مسئله به نتیجه‌نرسیدن این مسئله در دولت است./فارس",
-        "original_username": "fars_today",
-        "original_text": "کالابرگ دهک‌های پایین اضافه نشد\n🔹\nبنابود رقم کالابرگ دهک‌های پایین از امروز اضافه شود؛ اما پیگیری از وزارت کار مشخص کرد، رقم اضافه شده تا لحظهٔ انتشار خبر واریز نشده است؛ علت این مسئله به نتیجه‌نرسیدن این مسئله در دولت است./فارس",
-        "original_link": "https://t.me/Fars_today/132147",
-        "post_id": 132147,
-        "message_id": 6942,
-        "message_kind": "text",
-        "sources": [
-          "fars_today"
-        ],
-        "created_at": "2026-10-07T09:21:27.143086+00:00"
-      },
-      {
-        "fingerprint": "14491feaec86c7cd52a4149a2dda04e4caf832cec3fa246895e6be07b9f50621",
-        "media_fingerprint": "",
-        "text": "🔴\nروبیو: تنگه هرمز باز است و حجم نفت در حال عبور از آن، کاملاً با حجم نفت پیش از بسته شدن این تنگه برابری می‌کند\n.\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "🔴\nروبیو: تنگه هرمز باز است و حجم نفت در حال عبور از آن، کاملاً با حجم نفت پیش از بسته شدن این تنگه برابری می‌کند\n.\n@irWonders",
-        "original_link": "https://t.me/irwonders/58408",
-        "post_id": 58408,
-        "message_id": 6943,
-        "message_kind": "text",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-07T09:21:30.186873+00:00"
-      },
-      {
-        "fingerprint": "485ff36dd6552e4c7fa59cab27439b54e35a9220a0cd8bb7ffc49452fc9df120",
-        "media_fingerprint": "",
-        "text": "🔴\nوزیر خارجه آمریکا: ما نمی‌توانیم بپذیریم که یک کشور بر یک مسیر دریایی مهم تسلط یابد\n🔹\nباید مسیرها و منابع متنوعی برای عرضه‌های انرژی وجود داشته باشد\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "🔴\nوزیر خارجه آمریکا: ما نمی‌توانیم بپذیریم که یک کشور بر یک مسیر دریایی مهم تسلط یابد\n🔹\nباید مسیرها و منابع متنوعی برای عرضه‌های انرژی وجود داشته باشد\n@irWonders",
-        "original_link": "https://t.me/irwonders/58409",
-        "post_id": 58409,
-        "message_id": 6944,
-        "message_kind": "text",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-07T09:21:33.290207+00:00"
-      },
-      {
-        "fingerprint": "9501cf3600978ddfdfc576c22943569155abff53bd3b4399e5efd0306cc7e470",
-        "media_fingerprint": "",
-        "text": "🔴\nروبیو: ایران نتوانست از چندین فرصت برای رسیدن به توافق با ما در مورد برنامه هسته‌ای‌اش استفاده کند\n.\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "🔴\nروبیو: ایران نتوانست از چندین فرصت برای رسیدن به توافق با ما در مورد برنامه هسته‌ای‌اش استفاده کند\n.\n@irWonders",
-        "original_link": "https://t.me/irwonders/58410",
-        "post_id": 58410,
-        "message_id": 6945,
-        "message_kind": "text",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-07T09:21:36.136932+00:00"
-      },
       {
         "fingerprint": "d39823750da5b988735802febae00f1606217a81b2e569d24efa3b418f133f1a",
         "media_fingerprint": "68f532722fd93f12f1523aff03b275083946e62f547573d39d534780c5f191ea",
@@ -33523,6 +33473,67 @@
           "bajefilm"
         ],
         "created_at": "2026-10-10T05:48:02.180909+00:00"
+      },
+      {
+        "fingerprint": "cac51c23ed853a97a9cb57ab135f7d372a2c9d37480ee2874fd11113321deb76",
+        "media_fingerprint": "2f32429126b4a8f014f5f2e603a8d36ec0338fc83142478179b3b8dbe9889228",
+        "text": "نقاشی روی شیشه های اتومبیل فرسوده\n👌\n😍\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "نقاشی روی شیشه های اتومبیل فرسوده\n👌\n😍\n@irWonders",
+        "original_link": "https://t.me/irwonders/58531",
+        "post_id": 58531,
+        "message_id": 7981,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-10T06:24:15.053693+00:00"
+      },
+      {
+        "fingerprint": "2e8f52bb87f2033cb4ccad512f47199bbe3d79a37859dd5779d193c481463e8c",
+        "media_fingerprint": "ada7486ed343b2b990ebb17567ea7d5f7d5e634eaf70e36b0c3df2e516d3cd6f",
+        "text": "✔️\nرسمی: آرتتا تا ۲۰۳۰ با آرسنال\n🔸\nبا اعلام باشگاه آرسنال، میکل آرتتا، سرمربی ۴۴ ساله اسپانیایی، قرارداد خود را با توپچی‌ها تا سال ۲۰۳۰ تمدید کرد.\n🏆\nآرتتا فصل گذشته پس از ۲۲ سال، آرسنال را به قهرمانی لیگ برتر رساند و پنجمین عنوان خود را روی نیمکت قرمز‌های…",
+        "original_username": "ft360_ir",
+        "original_text": "✔️\nرسمی: آرتتا تا ۲۰۳۰ با آرسنال\n🔸\nبا اعلام باشگاه آرسنال، میکل آرتتا، سرمربی ۴۴ ساله اسپانیایی، قرارداد خود را با توپچی‌ها تا سال ۲۰۳۰ تمدید کرد.\n🏆\nآرتتا فصل گذشته پس از ۲۲ سال، آرسنال را به قهرمانی لیگ برتر رساند و پنجمین عنوان خود را روی نیمکت قرمز‌های…",
+        "original_link": "https://t.me/ft360_ir/109520",
+        "post_id": 109520,
+        "message_id": 7982,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-10T06:24:22.947506+00:00"
+      },
+      {
+        "fingerprint": "bb410bdfecb59208f580e39512fd999ce63fa4f8972a73a3a1f4c26adce6e13d",
+        "media_fingerprint": "",
+        "text": "👨‍🎓\nرئیس سازمان سنجش: سوابق تحصیلی داوطلبان با تاخیر به سازمان سنجش ارسال شد/ نتایج نهایی آبان ماه اعلام می‌شود\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "👨‍🎓\nرئیس سازمان سنجش: سوابق تحصیلی داوطلبان با تاخیر به سازمان سنجش ارسال شد/ نتایج نهایی آبان ماه اعلام می‌شود\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23148",
+        "post_id": 23148,
+        "message_id": 7984,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet",
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-10T06:24:25.746323+00:00"
+      },
+      {
+        "fingerprint": "2cd06bef3c54f5999e8e683269d3f92b0e24a97454f45c911d32903438891e95",
+        "media_fingerprint": "",
+        "text": "🚗\nپخش زنده قرعه کشی پیش فروش و فروش فوق العاده  محصولات سایپا\n🔵\nشنبه ۱۸ مهر ماه ساعت ۱۰ صبح مراسم قرعه کشی پیش فروش و فروش فوق العاده محصولات سایپا از سایت زیر پخش می شود.\n🔗\nلینک سایت\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🚗\nپخش زنده قرعه کشی پیش فروش و فروش فوق العاده  محصولات سایپا\n🔵\nشنبه ۱۸ مهر ماه ساعت ۱۰ صبح مراسم قرعه کشی پیش فروش و فروش فوق العاده محصولات سایپا از سایت زیر پخش می شود.\n🔗\nلینک سایت\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23149",
+        "post_id": 23149,
+        "message_id": 7985,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-10T06:24:29.237739+00:00"
       }
     ]
   }
