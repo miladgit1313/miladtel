@@ -1,9 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143431,
+      "last_id": 143432,
       "processed_ids": [
-        142328,
         142329,
         142330,
         142335,
@@ -1002,16 +1001,14 @@
         143428,
         143429,
         143430,
-        143431
+        143431,
+        143432
       ],
       "sent_count": 839
     },
     "total_fut": {
-      "last_id": 237649,
+      "last_id": 237652,
       "processed_ids": [
-        236598,
-        236599,
-        236600,
         236601,
         236603,
         236604,
@@ -2008,22 +2005,16 @@
         237646,
         237647,
         237648,
-        237649
+        237649,
+        237650,
+        237651,
+        237652
       ],
       "sent_count": 115
     },
     "footballvision2": {
-      "last_id": 170941,
+      "last_id": 170951,
       "processed_ids": [
-        169839,
-        169840,
-        169841,
-        169842,
-        169843,
-        169844,
-        169845,
-        169846,
-        169847,
         169848,
         169849,
         169850,
@@ -3014,9 +3005,18 @@
         170938,
         170939,
         170940,
-        170941
+        170941,
+        170942,
+        170943,
+        170944,
+        170945,
+        170946,
+        170948,
+        170949,
+        170950,
+        170951
       ],
-      "sent_count": 119
+      "sent_count": 120
     },
     "tg_ir": {
       "last_id": 2310,
@@ -3286,7 +3286,7 @@
       "sent_count": 7
     },
     "drtel": {
-      "last_id": 67547,
+      "last_id": 67548,
       "processed_ids": [
         66561,
         66565,
@@ -4064,12 +4064,13 @@
         67544,
         67545,
         67546,
-        67547
+        67547,
+        67548
       ],
-      "sent_count": 439
+      "sent_count": 440
     },
     "techtube": {
-      "last_id": 18481,
+      "last_id": 18482,
       "processed_ids": [
         18261,
         18262,
@@ -4209,7 +4210,8 @@
         18476,
         18477,
         18480,
-        18481
+        18481,
+        18482
       ],
       "sent_count": 52
     },
@@ -4403,7 +4405,7 @@
       "sent_count": 30
     },
     "sabtnamkh0dro": {
-      "last_id": 14372,
+      "last_id": 14373,
       "processed_ids": [
         14164,
         14165,
@@ -4583,7 +4585,8 @@
         14369,
         14370,
         14371,
-        14372
+        14372,
+        14373
       ],
       "sent_count": 90
     },
@@ -4834,7 +4837,7 @@
       "sent_count": 82
     },
     "roidbest": {
-      "last_id": 21829,
+      "last_id": 21830,
       "processed_ids": [
         21613,
         21614,
@@ -5040,9 +5043,10 @@
         21826,
         21827,
         21828,
-        21829
+        21829,
+        21830
       ],
-      "sent_count": 128
+      "sent_count": 129
     },
     "akhbar_cafenet": {
       "last_id": 23176,
@@ -7615,7 +7619,7 @@
       "sent_count": 69
     },
     "jaleb": {
-      "last_id": 52814,
+      "last_id": 52818,
       "processed_ids": [
         52261,
         52262,
@@ -8108,9 +8112,13 @@
         52811,
         52812,
         52813,
-        52814
+        52814,
+        52815,
+        52816,
+        52817,
+        52818
       ],
-      "sent_count": 252
+      "sent_count": 254
     },
     "ajayebe_jahann": {
       "last_id": 159691,
@@ -9037,19 +9045,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109587,
+      "last_id": 109599,
       "processed_ids": [
-        108515,
-        108516,
-        108517,
-        108518,
-        108519,
-        108520,
-        108521,
-        108523,
-        108524,
-        108526,
-        108528,
         108529,
         108530,
         108531,
@@ -10038,20 +10035,24 @@
         109583,
         109585,
         109586,
-        109587
+        109587,
+        109589,
+        109590,
+        109591,
+        109592,
+        109593,
+        109594,
+        109595,
+        109596,
+        109597,
+        109598,
+        109599
       ],
-      "sent_count": 119
+      "sent_count": 120
     },
     "varzesh3": {
-      "last_id": 303762,
+      "last_id": 303772,
       "processed_ids": [
-        302682,
-        302683,
-        302684,
-        302685,
-        302686,
-        302687,
-        302689,
         302690,
         302691,
         302692,
@@ -11044,12 +11045,19 @@
         303759,
         303760,
         303761,
-        303762
+        303762,
+        303763,
+        303764,
+        303765,
+        303766,
+        303770,
+        303771,
+        303772
       ],
-      "sent_count": 81
+      "sent_count": 83
     },
     "totalfut_plus": {
-      "last_id": 26648,
+      "last_id": 26649,
       "processed_ids": [
         25870,
         25871,
@@ -11804,14 +11812,14 @@
         26645,
         26646,
         26647,
-        26648
+        26648,
+        26649
       ],
       "sent_count": 51
     },
     "adak_ir_official": {
-      "last_id": 235131,
+      "last_id": 235132,
       "processed_ids": [
-        234104,
         234105,
         234106,
         234107,
@@ -12810,18 +12818,14 @@
         235128,
         235129,
         235130,
-        235131
+        235131,
+        235132
       ],
       "sent_count": 173
     },
     "futball180tv": {
-      "last_id": 108267,
+      "last_id": 108273,
       "processed_ids": [
-        107251,
-        107252,
-        107253,
-        107254,
-        107255,
         107256,
         107257,
         107258,
@@ -13816,16 +13820,18 @@
         108264,
         108265,
         108266,
-        108267
+        108267,
+        108268,
+        108270,
+        108271,
+        108272,
+        108273
       ],
       "sent_count": 77
     },
     "hattric_official": {
-      "last_id": 84642,
+      "last_id": 84645,
       "processed_ids": [
-        83591,
-        83592,
-        83595,
         83598,
         83600,
         83602,
@@ -14822,12 +14828,15 @@
         84639,
         84640,
         84641,
-        84642
+        84642,
+        84643,
+        84644,
+        84645
       ],
-      "sent_count": 116
+      "sent_count": 117
     },
     "mazdak_hattrick": {
-      "last_id": 182489,
+      "last_id": 182490,
       "processed_ids": [
         181991,
         181992,
@@ -15317,7 +15326,8 @@
         182486,
         182487,
         182488,
-        182489
+        182489,
+        182490
       ],
       "sent_count": 43
     },
@@ -15457,7 +15467,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58555,
+      "last_id": 58556,
       "processed_ids": [
         58030,
         58031,
@@ -15933,7 +15943,8 @@
         58552,
         58553,
         58554,
-        58555
+        58555,
+        58556
       ],
       "sent_count": 299
     },
@@ -17505,7 +17516,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306912,
+      "last_id": 306913,
       "processed_ids": [
         306563,
         306564,
@@ -17851,9 +17862,10 @@
         306909,
         306910,
         306911,
-        306912
+        306912,
+        306913
       ],
-      "sent_count": 151
+      "sent_count": 152
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -18282,7 +18294,7 @@
       "sent_count": 39
     },
     "shakhmovie": {
-      "last_id": 4121,
+      "last_id": 4123,
       "processed_ids": [
         4017,
         4018,
@@ -18345,9 +18357,10 @@
         4114,
         4119,
         4120,
-        4121
+        4121,
+        4123
       ],
-      "sent_count": 54
+      "sent_count": 55
     },
     "peach_tweet": {
       "last_id": 3219,
@@ -18590,7 +18603,7 @@
       "sent_count": 143
     },
     "funy_khand": {
-      "last_id": 25751,
+      "last_id": 25753,
       "processed_ids": [
         25704,
         25705,
@@ -18639,12 +18652,14 @@
         25748,
         25749,
         25750,
-        25751
+        25751,
+        25752,
+        25753
       ],
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6152,
+      "last_id": 6155,
       "processed_ids": [
         6113,
         6114,
@@ -18683,179 +18698,15 @@
         6149,
         6150,
         6151,
-        6152
+        6152,
+        6153,
+        6155
       ],
       "sent_count": 2
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "65e81c874e4e247ee8772fee3d98291a380d7d25aaff6dac089644039199e832",
-        "media_fingerprint": "bee51b8c5fd3c3f436c492af85c95856275dc55a1424c064aaab82afabbb394c",
-        "text": "میدونستین Ben Affleck، بازیگر معروف، شرکت جلوه های ویژه داره، میتونه کدهای پایتون بنویسه تا از یادگیری ماشین برای ورکفلوهای مرتبط با جلوه های ویژه استفاده کنه، با مجموعه ای بزرگ از کارت گرافیک ها برای اجرای مدلهای هوش مصنوعی کار کرده، از شبکه های ConvNet سردرمیاره و به واسطه شهرتی که داره میتونه زودتر از بقیه به هوش مصنوعی تولید ویدیوی شرکتهای بزرگ نظیر گوگل و OpenAI دسترسی پیدا کنه؟!\n🔎\nfiresidealpha\n📍\n@TechTube",
-        "original_username": "techtube",
-        "original_text": "میدونستین Ben Affleck، بازیگر معروف، شرکت جلوه های ویژه داره، میتونه کدهای پایتون بنویسه تا از یادگیری ماشین برای ورکفلوهای مرتبط با جلوه های ویژه استفاده کنه، با مجموعه ای بزرگ از کارت گرافیک ها برای اجرای مدلهای هوش مصنوعی کار کرده، از شبکه های ConvNet سردرمیاره و به واسطه شهرتی که داره میتونه زودتر از بقیه به هوش مصنوعی تولید ویدیوی شرکتهای بزرگ نظیر گوگل و OpenAI دسترسی پیدا کنه؟!\n🔎\nfiresidealpha\n📍\n@TechTube",
-        "original_link": "https://t.me/TechTube/18457",
-        "post_id": 18457,
-        "message_id": 7103,
-        "message_kind": "caption",
-        "sources": [
-          "techtube"
-        ],
-        "created_at": "2026-10-07T18:25:01.512401+00:00"
-      },
-      {
-        "fingerprint": "a4c83682ca5c64ce7cdcecd37c45bd9d99be7de3ed0431d13766848d0a9dd38e",
-        "media_fingerprint": "826109333b5b4165298769a00ccff0fc03a3c8f13ca9da547aa6a19c5319ef67",
-        "text": "🔴\nهمونجور که ما خونه نشستیم تو اینستا وقت میگذرونیم، یه بیکارِ کنجکاوی رفته بازی Resident Evil 4 رو روی نوکیا N95 دکمه‌ای پیاده کرده و همه رو انگشت به کون کرده :\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nهمونجور که ما خونه نشستیم تو اینستا وقت میگذرونیم، یه بیکارِ کنجکاوی رفته بازی Resident Evil 4 رو روی نوکیا N95 دکمه‌ای پیاده کرده و همه رو انگشت به کون کرده :\n@DrTeL",
-        "original_link": "https://t.me/drtel/67456",
-        "post_id": 67456,
-        "message_id": 7104,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-07T18:25:08.237118+00:00"
-      },
-      {
-        "fingerprint": "90056bda8204bb2263a8e062d902fcfa4eb976bc98a4a518ae3392c8b7af4da0",
-        "media_fingerprint": "",
-        "text": "♦️\nادعای کانال ۱۴ اسرائیل: سازمان سیا به اسرائیل فهرستی از حدود ده مقام ارشد ایرانی که نباید هدف ترور قرار گیرند، تحویل داد\n@Akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nادعای کانال ۱۴ اسرائیل: سازمان سیا به اسرائیل فهرستی از حدود ده مقام ارشد ایرانی که نباید هدف ترور قرار گیرند، تحویل داد\n@Akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143258",
-        "post_id": 143258,
-        "message_id": 7105,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-07T18:54:10.264323+00:00"
-      },
-      {
-        "fingerprint": "0f1dfa172a437268af19894e269cd5c408a99c4dab13519d04af68c5dcb1cba2",
-        "media_fingerprint": "41f9769dc22092f2a57a3b38dfb71747d33170d00e93c2a21c826cd0f0022c7e",
-        "text": "®️\nلپ تاپ جدید اچ پی\n🔵\nاچ‌پی با معرفی لپ‌تاپ جدید OmniBook 5، کیفیت خیره‌کننده نمایشگر OLED را به بازار لپ‌تاپ‌های اقتصادی آورده است.\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "®️\nلپ تاپ جدید اچ پی\n🔵\nاچ‌پی با معرفی لپ‌تاپ جدید OmniBook 5، کیفیت خیره‌کننده نمایشگر OLED را به بازار لپ‌تاپ‌های اقتصادی آورده است.\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/23086",
-        "post_id": 23086,
-        "message_id": 7106,
-        "message_kind": "caption",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-07T18:54:17.930320+00:00"
-      },
-      {
-        "fingerprint": "bc33c553c72b324133d5ef5ed7f204747a6c07d407c054ecfaff458aa956b4ff",
-        "media_fingerprint": "ac38718daa80a13020d93a402c0e590250a0d3475c8f06d0e54b2633927d557b",
-        "text": "هنر همگانی\n😂\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "هنر همگانی\n😂\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162925",
-        "post_id": 162925,
-        "message_id": 7107,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-07T18:54:25.524131+00:00"
-      },
-      {
-        "fingerprint": "7c6675ebad8c27b5cfe7d06b42b37849b71b1236adf2e5a5fc0df3b747e3d816",
-        "media_fingerprint": "d7858747d983f71e1e2d501c8c3c5f191a7d05aef1ad44def08370751a8a554b",
-        "text": "🤣\n🤣\n🤣\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "🤣\n🤣\n🤣\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162926",
-        "post_id": 162926,
-        "message_id": 7108,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-07T18:54:30.061211+00:00"
-      },
-      {
-        "fingerprint": "49840db33f767f49597d82e47caca072a33adc4ee3814fe380aadd47cf37842b",
-        "media_fingerprint": "",
-        "text": "حمله علیرضا دبیر به مصاحبه فوتبالی ها علیه او :\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "حمله علیرضا دبیر به مصاحبه فوتبالی ها علیه او :\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162927",
-        "post_id": 162927,
-        "message_id": 7109,
-        "message_kind": "text",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-07T18:54:33.013422+00:00"
-      },
-      {
-        "fingerprint": "f5d5d6bda4d52ecc8911b58ea2ee0ee18de96736b1765f4d33252b6154ccb2bb",
-        "media_fingerprint": "4e280226272af40877ca214ebb48b599c334f727a821a036a19b190beb07a3d7",
-        "text": "🔻\nنماینده تهران خطاب به پلیس فرانسه: اگر قصد کنار گذاشتن باتوم را دارید، ایران تجربه خود را در اختیارتان بگذارد\nمجتبی زارعی:\n🔹\nباتوم بر سر دانش‌آموزان؟! مگر پاسخ مطالبات نوجوانان و جوانان از راه چماق و سرکوب و زندانی کردن ۵۰۰۰ دانش آموز است؟ چرا به‌جای سرکوب، بستر گفت‌وگوی مدنی و شنیدن صدای معترضان را فراهم نمی‌کنید؟\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "🔻\nنماینده تهران خطاب به پلیس فرانسه: اگر قصد کنار گذاشتن باتوم را دارید، ایران تجربه خود را در اختیارتان بگذارد\nمجتبی زارعی:\n🔹\nباتوم بر سر دانش‌آموزان؟! مگر پاسخ مطالبات نوجوانان و جوانان از راه چماق و سرکوب و زندانی کردن ۵۰۰۰ دانش آموز است؟ چرا به‌جای سرکوب، بستر گفت‌وگوی مدنی و شنیدن صدای معترضان را فراهم نمی‌کنید؟\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162928",
-        "post_id": 162928,
-        "message_id": 7110,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-07T18:54:38.325591+00:00"
-      },
-      {
-        "fingerprint": "6f2e47cc32802a0bb62eb19eda09880d23be6e56fad24aa7410818bef9c0092f",
-        "media_fingerprint": "9bcde2b2b1ba079973123ba2c44766f71325aee5391ad36073f5bd8ee52c7cb0",
-        "text": "❤\nاینجا قراره موزیک همیشه روی مودت باشه!\n🔔\n🎶\nجدیدترین آهنگ‌ها و ریمیکس‌های خفن\n📥\nدانلود ویدیو از اینستاگرام، یوتیوب و تیک‌تاک\n🔎\nپیدا کردن هر آهنگ فقط با اسم خواننده یا آهنگ\n❣️\nهمین الان بیا کانالمون :\n👇\n👇\n👇\n💎\n@hotmusiicc\n💎\n💎\n@hotmusiicc\n💎\n🤖\nربات جستجوی هوشمند:\n❤️\n@downloaderbot\n❤️",
-        "original_username": "gizmiztel",
-        "original_text": "❤\nاینجا قراره موزیک همیشه روی مودت باشه!\n🔔\n🎶\nجدیدترین آهنگ‌ها و ریمیکس‌های خفن\n📥\nدانلود ویدیو از اینستاگرام، یوتیوب و تیک‌تاک\n🔎\nپیدا کردن هر آهنگ فقط با اسم خواننده یا آهنگ\n❣️\nهمین الان بیا کانالمون :\n👇\n👇\n👇\n💎\n@hotmusiicc\n💎\n💎\n@hotmusiicc\n💎\n🤖\nربات جستجوی هوشمند:\n❤️\n@downloaderbot\n❤️",
-        "original_link": "https://t.me/gizmiztel/162929",
-        "post_id": 162929,
-        "message_id": 7111,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-07T18:54:43.520233+00:00"
-      },
-      {
-        "fingerprint": "6d2380dcedd52d8a74cfc0178631ab92eac4f194fbb5505a5e33d1c63173d244",
-        "media_fingerprint": "80a38bdc9bccc7179296e0f5b76379cc5262315c03339f8ff0449dd5f524b56f",
-        "text": "بچه پولدارای دانشگاه اینو نبینن\n😂\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "بچه پولدارای دانشگاه اینو نبینن\n😂\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162930",
-        "post_id": 162930,
-        "message_id": 7112,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-07T18:54:51.853935+00:00"
-      },
-      {
-        "fingerprint": "770617927334b4965cf709db2d233c7d8ad2e6a6cc9d6573536a39a3d4813ba1",
-        "media_fingerprint": "32a8e45dda0aa8c47b9bcadb0ae26b946aaac7b3e7a7b98b93c92b2da9b058e9",
-        "text": "سه قلو‌ها نشستن باهم درس خوندن ، همزمان رتبه‌های برتر کنکور شدن\nاونوقت ما تو خونه سر ته دیگ غذا با همديگه دعوا میکردیم\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "سه قلو‌ها نشستن باهم درس خوندن ، همزمان رتبه‌های برتر کنکور شدن\nاونوقت ما تو خونه سر ته دیگ غذا با همديگه دعوا میکردیم\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162931",
-        "post_id": 162931,
-        "message_id": 7113,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel",
-          "khooroosjangi"
-        ],
-        "created_at": "2026-10-07T18:54:56.549406+00:00"
-      },
       {
         "fingerprint": "bca0e03c49e74882fda9e3d49c9d3bea0f425ef8814d8955282c2491dbb99cd9",
         "media_fingerprint": "1d5722404d10f905ef87821fcc6fd01cc0cc283c042701496df94c367a55a808",
@@ -32369,7 +32220,8 @@
         "message_id": 8048,
         "message_kind": "caption",
         "sources": [
-          "gizmiztel"
+          "gizmiztel",
+          "jaleb"
         ],
         "created_at": "2026-10-10T10:18:30.996483+00:00"
       },
@@ -32955,7 +32807,8 @@
         "message_id": 8087,
         "message_kind": "caption",
         "sources": [
-          "ajayebe_jahann"
+          "ajayebe_jahann",
+          "irwonders"
         ],
         "created_at": "2026-10-10T11:47:51.392410+00:00"
       },
@@ -33770,6 +33623,171 @@
           "futball180tv"
         ],
         "created_at": "2026-10-10T15:17:57.524399+00:00"
+      },
+      {
+        "fingerprint": "7902f6c49d627ac592ae0c2e74f69509a6864ea8660348edd86c810794442111",
+        "media_fingerprint": "e2ae66f188b994d0e706a4c800501ce875855cea141887bd673776804675eaa1",
+        "text": "🇪🇸\n🇪🇸\nترکیب بارسلونا برابر ختافه\n🇪🇸\nهفته 8\n🏟\nنیوکمپ استادیوم\n⏰\nساعت 20:00\n🆔\n@varzesh3",
+        "original_username": "varzesh3",
+        "original_text": "🇪🇸\n🇪🇸\nترکیب بارسلونا برابر ختافه\n🇪🇸\nهفته 8\n🏟\nنیوکمپ استادیوم\n⏰\nساعت 20:00\n🆔\n@varzesh3",
+        "original_link": "https://t.me/varzesh3/303764",
+        "post_id": 303764,
+        "message_id": 8142,
+        "message_kind": "caption",
+        "sources": [
+          "varzesh3"
+        ],
+        "created_at": "2026-10-10T15:47:28.773670+00:00"
+      },
+      {
+        "fingerprint": "467971f14687005da581c560b97d845b5944dc2127c8b5e01e347d7a1c109fb6",
+        "media_fingerprint": "7e9c93eb10ad8d73f19a0cb8af4e1d9db7479ca7b98a6d10d349e96abb5e59a1",
+        "text": "20 ثانیه‌ی پایانی، بهت میگه، این ویدئو رو باید با کی به اشتراک بذاری\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "20 ثانیه‌ی پایانی، بهت میگه، این ویدئو رو باید با کی به اشتراک بذاری\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306913",
+        "post_id": 306913,
+        "message_id": 8143,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-10T15:47:36.449292+00:00"
+      },
+      {
+        "fingerprint": "ee3a946e7374dbed1d174716a0ae663c2e49af230908fe089f59fec74fc48b6c",
+        "media_fingerprint": "a6aef6312efd3b256b14cbd1fea5a6d7fc2a833b37caadfbef5df86808aeb7ab",
+        "text": "صدرنشینی تراکتور؛\n🇪🇺\nجدول لیگ در پایان هفته هشتم\n✉️\nنتایج هفته هشتم لیگ برتر\n👨‍💻\nبرنامه مسابقات هفته 9\n📌\nصفحه ویژه لیگ برتر ایران\n🆔\n@varzesh3",
+        "original_username": "varzesh3",
+        "original_text": "صدرنشینی تراکتور؛\n🇪🇺\nجدول لیگ در پایان هفته هشتم\n✉️\nنتایج هفته هشتم لیگ برتر\n👨‍💻\nبرنامه مسابقات هفته 9\n📌\nصفحه ویژه لیگ برتر ایران\n🆔\n@varzesh3",
+        "original_link": "https://t.me/varzesh3/303766",
+        "post_id": 303766,
+        "message_id": 8144,
+        "message_kind": "caption",
+        "sources": [
+          "varzesh3"
+        ],
+        "created_at": "2026-10-10T15:47:47.341394+00:00"
+      },
+      {
+        "fingerprint": "8dc1c41b59f342dd6d1ecc830527b63c51e7ab45ae450f46025e923503f1fe6c",
+        "media_fingerprint": "7b442b49d53fe6341312d4cc56027acbc788ffb1895d89de8547acc645b9cd31",
+        "text": "🔴\nبعد از حماسه‌ی ختنه سورونِ پسرا، یه خانواده اومدن برا دخترشون جشنِ \"اولین پریودی\" گرفتن :\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nبعد از حماسه‌ی ختنه سورونِ پسرا، یه خانواده اومدن برا دخترشون جشنِ \"اولین پریودی\" گرفتن :\n@DrTeL",
+        "original_link": "https://t.me/drtel/67548",
+        "post_id": 67548,
+        "message_id": 8147,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-10T15:47:56.016766+00:00"
+      },
+      {
+        "fingerprint": "ab29acfeef66040b8eb3106bd2752018b5819803f50958ead04b4d95e357ffae",
+        "media_fingerprint": "6622f37aaf3676ef4b9552163a84a0d30058cf837f3a824f651424199c161807",
+        "text": "ترکیب بارسلونا مقابل ختافه\n🇪🇸\nهفته هشتم لالیگا\n⏰\nساعت  ۲۰:۰۰\n🔘\n@Navadnewstelegram",
+        "original_username": "footballvision2",
+        "original_text": "ترکیب بارسلونا مقابل ختافه\n🇪🇸\nهفته هشتم لالیگا\n⏰\nساعت  ۲۰:۰۰\n🔘\n@Navadnewstelegram",
+        "original_link": "https://t.me/footballvision2/170944",
+        "post_id": 170944,
+        "message_id": 8148,
+        "message_kind": "caption",
+        "sources": [
+          "footballvision2"
+        ],
+        "created_at": "2026-10-10T15:48:00.681827+00:00"
+      },
+      {
+        "fingerprint": "47ea2d8125c1aaa3c48aec28c29937fbbc70c316bf8ebb57c9930e5ebb2e52fd",
+        "media_fingerprint": "",
+        "text": "پادکست\nآونگ_\nقسمت ۱۶_نفرین دانش\n🔹️\nچرا چیزی که برای ما واضحه، برای دیگران قابل‌فهم نیست؟\nدر این قسمت از پادکست آونگ با پدیده‌ «نفرین دانش» آشنا می‌شویم؛ پدیده‌ای که می‌تواند بر آموزش، ارتباطات حرفه‌ای و کسب‌وکار مهندسی اثر بگذارد.\n💢\nاگر مهندس حرفه‌ای یا دانشجوی مهندسی هستید؛\nآونگ\nجایی برای به‌روز ماندن شماست.\nآونگ آموزش‌های مفید برای علاقمندان به رشته‌های مختلف مهندسی دارد.\n🎧\n🔊\nلینک کست‌باکس\n🔊\nکانال تلگرامی\n@avangcast1",
+        "original_username": "roidbest",
+        "original_text": "پادکست\nآونگ_\nقسمت ۱۶_نفرین دانش\n🔹️\nچرا چیزی که برای ما واضحه، برای دیگران قابل‌فهم نیست؟\nدر این قسمت از پادکست آونگ با پدیده‌ «نفرین دانش» آشنا می‌شویم؛ پدیده‌ای که می‌تواند بر آموزش، ارتباطات حرفه‌ای و کسب‌وکار مهندسی اثر بگذارد.\n💢\nاگر مهندس حرفه‌ای یا دانشجوی مهندسی هستید؛\nآونگ\nجایی برای به‌روز ماندن شماست.\nآونگ آموزش‌های مفید برای علاقمندان به رشته‌های مختلف مهندسی دارد.\n🎧\n🔊\nلینک کست‌باکس\n🔊\nکانال تلگرامی\n@avangcast1",
+        "original_link": "https://t.me/RoidBest/21830",
+        "post_id": 21830,
+        "message_id": 8149,
+        "message_kind": "text",
+        "sources": [
+          "roidbest"
+        ],
+        "created_at": "2026-10-10T15:48:03.843738+00:00"
+      },
+      {
+        "fingerprint": "392aedb0cec50e9fd46d6e0ce8ea893636bf14a413fb4bb3ba076fbd92dadb80",
+        "media_fingerprint": "b162f3105847b2c5ead2530d54234468f298e63245bc3b410e71f611fbf7bd1a",
+        "text": "🇪🇸\n⚽️\nترکیب بارسلونا برای دیدار امشب درمقابل ختافه مشخص شد\n😥\nساعت 20:00\n⚽️\n@Hattric_X",
+        "original_username": "hattric_official",
+        "original_text": "🇪🇸\n⚽️\nترکیب بارسلونا برای دیدار امشب درمقابل ختافه مشخص شد\n😥\nساعت 20:00\n⚽️\n@Hattric_X",
+        "original_link": "https://t.me/Hattric_Official/84645",
+        "post_id": 84645,
+        "message_id": 8150,
+        "message_kind": "caption",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-10T15:48:08.605138+00:00"
+      },
+      {
+        "fingerprint": "1b406f6bbd6c10aa61b177dea4ec063e11be328114cc5357e2ff0e079bd39f7c",
+        "media_fingerprint": "87f84850abc908412e98ea04d5fe445900a902f09591f68c17962e747c13bb92",
+        "text": "🔸\n🔸\nترکیب دو تیم منچستریونایتد و تاتنهام\n🔸\nهفته ۶ لیگ برتر انگلیس\n🕗\nساعت ۲۰:۰۰\n🔴\nپخش زنده در فوتبال ۳۶۰  @Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "🔸\n🔸\nترکیب دو تیم منچستریونایتد و تاتنهام\n🔸\nهفته ۶ لیگ برتر انگلیس\n🕗\nساعت ۲۰:۰۰\n🔴\nپخش زنده در فوتبال ۳۶۰  @Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/109595",
+        "post_id": 109595,
+        "message_id": 8151,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-10T15:48:15.517998+00:00"
+      },
+      {
+        "fingerprint": "25b1479e375da37710b80903effb469a6a10b2fbc846b4c2b161700bac432b71",
+        "media_fingerprint": "e8a92fbd77ea8da296ef3bcf2603b7cb0f1ae7bc2c4b36e573a635ed6b02b2c2",
+        "text": "🔴\nدر نگاه اول شاید فکر کنید مراسم و جشن عقد یا عروسیه...\nاما لازم میدونم خدمتتون عرض کنم که این، جشن اولین پریودی یه دختر خانم هست که پدرشون براشون تدارک دیدن\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "🔴\nدر نگاه اول شاید فکر کنید مراسم و جشن عقد یا عروسیه...\nاما لازم میدونم خدمتتون عرض کنم که این، جشن اولین پریودی یه دختر خانم هست که پدرشون براشون تدارک دیدن\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52817",
+        "post_id": 52817,
+        "message_id": 8152,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-10T15:48:33.164235+00:00"
+      },
+      {
+        "fingerprint": "fc07c0f59464e269561e7769087f39f3a4236a8b824f65f2d6e6c209da63ac35",
+        "media_fingerprint": "135e5dd5eee64e3b388f4685ccd938edc334a851aac71a3b23518c266e1d5047",
+        "text": "🔴\nساعاتی قبل انصارالله یمن، فرودگاه ریاض رو هدف قرار داد که باعث تعطیلی کامل و از کار افتادن حدود 221 پرواز شد\n!\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "🔴\nساعاتی قبل انصارالله یمن، فرودگاه ریاض رو هدف قرار داد که باعث تعطیلی کامل و از کار افتادن حدود 221 پرواز شد\n!\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52818",
+        "post_id": 52818,
+        "message_id": 8153,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-10T15:48:37.821881+00:00"
+      },
+      {
+        "fingerprint": "b4d1c1b311ea877fbc557b3c55544ca522e7f73b18d3aa571000e7a7908884a9",
+        "media_fingerprint": "bad2001b52ecdddd24c2a522c8f9950d886d0d4e2a1b45e80ba2ac575887090f",
+        "text": "بوی قرمه سبزی میاد\n🫕\nبانو تاتیانا 41 ساله هستن.\n📷\n|\n@ShakhMovie",
+        "original_username": "shakhmovie",
+        "original_text": "بوی قرمه سبزی میاد\n🫕\nبانو تاتیانا 41 ساله هستن.\n📷\n|\n@ShakhMovie",
+        "original_link": "https://t.me/Shakhmovie/4123",
+        "post_id": 4123,
+        "message_id": 8154,
+        "message_kind": "caption",
+        "sources": [
+          "shakhmovie"
+        ],
+        "created_at": "2026-10-10T15:48:42.305049+00:00"
       }
     ]
   }
