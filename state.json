@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143412,
+      "last_id": 143414,
       "processed_ids": [
-        142308,
-        142309,
         142310,
         142311,
         142312,
@@ -1002,9 +1000,11 @@
         143409,
         143410,
         143411,
-        143412
+        143412,
+        143413,
+        143414
       ],
-      "sent_count": 825
+      "sent_count": 826
     },
     "total_fut": {
       "last_id": 237629,
@@ -3280,7 +3280,7 @@
       "sent_count": 6
     },
     "drtel": {
-      "last_id": 67538,
+      "last_id": 67540,
       "processed_ids": [
         66561,
         66565,
@@ -4050,7 +4050,8 @@
         67532,
         67533,
         67537,
-        67538
+        67538,
+        67540
       ],
       "sent_count": 436
     },
@@ -4327,7 +4328,7 @@
       "sent_count": 0
     },
     "amozesh_cafenet": {
-      "last_id": 3151,
+      "last_id": 3152,
       "processed_ids": [
         3087,
         3088,
@@ -4381,7 +4382,8 @@
         3148,
         3149,
         3150,
-        3151
+        3151,
+        3152
       ],
       "sent_count": 30
     },
@@ -4808,7 +4810,7 @@
       "sent_count": 80
     },
     "roidbest": {
-      "last_id": 21824,
+      "last_id": 21826,
       "processed_ids": [
         21613,
         21614,
@@ -5010,12 +5012,13 @@
         21821,
         21822,
         21823,
-        21824
+        21824,
+        21826
       ],
       "sent_count": 126
     },
     "akhbar_cafenet": {
-      "last_id": 23160,
+      "last_id": 23163,
       "processed_ids": [
         22432,
         22433,
@@ -5704,9 +5707,12 @@
         23157,
         23158,
         23159,
-        23160
+        23160,
+        23161,
+        23162,
+        23163
       ],
-      "sent_count": 380
+      "sent_count": 383
     },
     "comentiat": {
       "last_id": 26407,
@@ -6441,13 +6447,8 @@
       "sent_count": 150
     },
     "gizmiztel": {
-      "last_id": 163056,
+      "last_id": 163061,
       "processed_ids": [
-        161950,
-        161951,
-        161952,
-        161953,
-        161954,
         161955,
         161956,
         161957,
@@ -7442,9 +7443,14 @@
         163052,
         163054,
         163055,
-        163056
+        163056,
+        163057,
+        163058,
+        163059,
+        163060,
+        163061
       ],
-      "sent_count": 721
+      "sent_count": 723
     },
     "dr_salamatx": {
       "last_id": 55376,
@@ -8973,11 +8979,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109528,
+      "last_id": 109531,
       "processed_ids": [
-        108452,
-        108453,
-        108454,
         108456,
         108457,
         108458,
@@ -9974,15 +9977,16 @@
         109525,
         109526,
         109527,
-        109528
+        109528,
+        109529,
+        109530,
+        109531
       ],
       "sent_count": 111
     },
     "varzesh3": {
-      "last_id": 303737,
+      "last_id": 303739,
       "processed_ids": [
-        302651,
-        302652,
         302653,
         302654,
         302655,
@@ -10980,12 +10984,14 @@
         303734,
         303735,
         303736,
-        303737
+        303737,
+        303738,
+        303739
       ],
       "sent_count": 81
     },
     "totalfut_plus": {
-      "last_id": 26638,
+      "last_id": 26640,
       "processed_ids": [
         25870,
         25871,
@@ -11730,14 +11736,15 @@
         26635,
         26636,
         26637,
-        26638
+        26638,
+        26639,
+        26640
       ],
       "sent_count": 48
     },
     "adak_ir_official": {
-      "last_id": 235106,
+      "last_id": 235107,
       "processed_ids": [
-        234078,
         234079,
         234080,
         234081,
@@ -12736,17 +12743,14 @@
         235103,
         235104,
         235105,
-        235106
+        235106,
+        235107
       ],
       "sent_count": 170
     },
     "futball180tv": {
-      "last_id": 108237,
+      "last_id": 108241,
       "processed_ids": [
-        107219,
-        107220,
-        107221,
-        107222,
         107223,
         107224,
         107225,
@@ -13742,14 +13746,17 @@
         108234,
         108235,
         108236,
-        108237
+        108237,
+        108238,
+        108239,
+        108240,
+        108241
       ],
-      "sent_count": 73
+      "sent_count": 74
     },
     "hattric_official": {
-      "last_id": 84629,
+      "last_id": 84630,
       "processed_ids": [
-        83578,
         83579,
         83580,
         83581,
@@ -14748,12 +14755,13 @@
         84626,
         84627,
         84628,
-        84629
+        84629,
+        84630
       ],
       "sent_count": 115
     },
     "mazdak_hattrick": {
-      "last_id": 182480,
+      "last_id": 182481,
       "processed_ids": [
         181991,
         181992,
@@ -15235,7 +15243,8 @@
         182477,
         182478,
         182479,
-        182480
+        182480,
+        182481
       ],
       "sent_count": 42
     },
@@ -15375,7 +15384,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58541,
+      "last_id": 58543,
       "processed_ids": [
         58030,
         58031,
@@ -15837,9 +15846,11 @@
         58538,
         58539,
         58540,
-        58541
+        58541,
+        58542,
+        58543
       ],
-      "sent_count": 293
+      "sent_count": 294
     },
     "razcom": {
       "last_id": 70490,
@@ -17408,7 +17419,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306905,
+      "last_id": 306909,
       "processed_ids": [
         306563,
         306564,
@@ -17747,9 +17758,13 @@
         306902,
         306903,
         306904,
-        306905
+        306905,
+        306906,
+        306907,
+        306908,
+        306909
       ],
-      "sent_count": 149
+      "sent_count": 150
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -18522,7 +18537,7 @@
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6134,
+      "last_id": 6136,
       "processed_ids": [
         6113,
         6114,
@@ -18544,149 +18559,15 @@
         6131,
         6132,
         6133,
-        6134
+        6134,
+        6135,
+        6136
       ],
       "sent_count": 1
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "c2f4f3aa681bd9e1414ebca9da2deb824685a222c7c3b71b4e225528f3649f86",
-        "media_fingerprint": "6ecec80b43ee1c055547d0585e345148a6858638a44bc043616519d073ad01e5",
-        "text": "بانو برايس دالاس هاوارد بازیگر محبوب و کون گنده، خيلى واضح دراومده گفته كه:\nمن عاشق باسنم هستم\n🍑\n📷\n|\n@ShakhMovie",
-        "original_username": "shakhmovie",
-        "original_text": "بانو برايس دالاس هاوارد بازیگر محبوب و کون گنده، خيلى واضح دراومده گفته كه:\nمن عاشق باسنم هستم\n🍑\n📷\n|\n@ShakhMovie",
-        "original_link": "https://t.me/Shakhmovie/4081",
-        "post_id": 4081,
-        "message_id": 7003,
-        "message_kind": "caption",
-        "sources": [
-          "shakhmovie"
-        ],
-        "created_at": "2026-10-07T12:56:44.437037+00:00"
-      },
-      {
-        "fingerprint": "f0f3aac835c53adc3fc82916fbc02de27a09b5862de50821079554f63f7107bf",
-        "media_fingerprint": "97a0c1fbae3208bb433ff46bfa20b2c51ae087af1a157421c8a0463f6966b8b8",
-        "text": "♦️\nباغ ارم شیراز\n@Akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nباغ ارم شیراز\n@Akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143238",
-        "post_id": 143238,
-        "message_id": 7005,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-07T12:56:51.414054+00:00"
-      },
-      {
-        "fingerprint": "dc3259cb971caac2ca8db68daede209bd81b9343e5b612bf1b8afc356255b08c",
-        "media_fingerprint": "c662e9ee26bccd8799120eeaaaa2b1b5807c80bba1bb847b040bb34cee74fd60",
-        "text": "🔴\nشاید باورتون نشه ولی این تیزر تبلیغاتی یه فیلم سینمایی نیست؛ واقعیتِ ترکیه‌ست\n🇹🇷\nچند روز پیش \"ساراللار و شاهین‌لر\" دو گروه مافیایی ترکیه، بعد از 22 سال دعوا و دشمنی، طی این مراسم بزرگ که هزاران نفر اومده بودن، صلح کردن.\nدولت باغچه‌لی، رئیس حزب MHP که از رفیقای نزدیک اردوغانه، این صلح رو تو مقر حزبش تو آنکارا میزبانی کرد.\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nشاید باورتون نشه ولی این تیزر تبلیغاتی یه فیلم سینمایی نیست؛ واقعیتِ ترکیه‌ست\n🇹🇷\nچند روز پیش \"ساراللار و شاهین‌لر\" دو گروه مافیایی ترکیه، بعد از 22 سال دعوا و دشمنی، طی این مراسم بزرگ که هزاران نفر اومده بودن، صلح کردن.\nدولت باغچه‌لی، رئیس حزب MHP که از رفیقای نزدیک اردوغانه، این صلح رو تو مقر حزبش تو آنکارا میزبانی کرد.\n@DrTeL",
-        "original_link": "https://t.me/drtel/67448",
-        "post_id": 67448,
-        "message_id": 7006,
-        "message_kind": "caption",
-        "sources": [
-          "drtel",
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-07T12:56:58.275412+00:00"
-      },
-      {
-        "fingerprint": "a77dd335c00b1e02649de7e3508bc78aeea6bc29a9deacab40ff95fa9e027e0e",
-        "media_fingerprint": "333a7d98980b2fc18c1bbef18a18c3cb103f0a0bad0232281f394fb082faff34",
-        "text": "پیش فروش دور دوم اجراهای نمایش \"بایکوت\" آغاز شد\n🔗\ntiwall.com/p/baycot2\nتو نمایش تحسین شده منتقدین و مخاطبان هستی اما...\nتو اوج کارت، میگن دیگه بازی نکن، دیگه نخون، تو بایکوتی...\nنویسنده و کارگردان: علی ‌اصغری\nتهیه‌کننده: داوود ‌علیشاهی\nبازیگر: حسین ‌میرزاییان\nخوانندگان: مروارید رئیسی، ویدا احمدی، حسین ‌عباسپور\n📍\nخانه ‌تئاتر- ‌تماشاخانه ‌عباس جوانمرد\n🗓\n۲۲ مهر تا ۲۳ آبان\n⏰️\n۲۲:۳۵  |  ۱ ساعت و ۱۵ دقیقه\n@BajeFilm",
-        "original_username": "bajefilm",
-        "original_text": "پیش فروش دور دوم اجراهای نمایش \"بایکوت\" آغاز شد\n🔗\ntiwall.com/p/baycot2\nتو نمایش تحسین شده منتقدین و مخاطبان هستی اما...\nتو اوج کارت، میگن دیگه بازی نکن، دیگه نخون، تو بایکوتی...\nنویسنده و کارگردان: علی ‌اصغری\nتهیه‌کننده: داوود ‌علیشاهی\nبازیگر: حسین ‌میرزاییان\nخوانندگان: مروارید رئیسی، ویدا احمدی، حسین ‌عباسپور\n📍\nخانه ‌تئاتر- ‌تماشاخانه ‌عباس جوانمرد\n🗓\n۲۲ مهر تا ۲۳ آبان\n⏰️\n۲۲:۳۵  |  ۱ ساعت و ۱۵ دقیقه\n@BajeFilm",
-        "original_link": "https://t.me/bajefilm/11599",
-        "post_id": 11599,
-        "message_id": 7007,
-        "message_kind": "caption",
-        "sources": [
-          "bajefilm"
-        ],
-        "created_at": "2026-10-07T13:23:10.653552+00:00"
-      },
-      {
-        "fingerprint": "3de5abefd6e149f1d9fcd93c06c548c06a63f38a90a47a3e0efd38a2a04fb022",
-        "media_fingerprint": "",
-        "text": "🔴\n🇮🇷\nبرخلاف اخبار منتشره هیچ تماسی از سوی مدیران فدراسیون با باشگاه پرسپولیس مبنی بر پس گرفتن شکایت این باشگاه از آسانی گرفته نشده است.\n🆔\n@mazdak_hattrick",
-        "original_username": "mazdak_hattrick",
-        "original_text": "🔴\n🇮🇷\nبرخلاف اخبار منتشره هیچ تماسی از سوی مدیران فدراسیون با باشگاه پرسپولیس مبنی بر پس گرفتن شکایت این باشگاه از آسانی گرفته نشده است.\n🆔\n@mazdak_hattrick",
-        "original_link": "https://t.me/mazdak_hattrick/182407",
-        "post_id": 182407,
-        "message_id": 7008,
-        "message_kind": "text",
-        "sources": [
-          "mazdak_hattrick"
-        ],
-        "created_at": "2026-10-07T13:23:13.392058+00:00"
-      },
-      {
-        "fingerprint": "e8c1e9cf21808aa444a461e2021a0bf55cfb7f7de7e507778f5f95b10a19f04c",
-        "media_fingerprint": "ed811be05198ac2dc0d9af08c8cef8737106e6c2c4453ff0d294e4f9003782c8",
-        "text": "فقط منم که دلتنگِ اون روزام؟!\n😢\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "فقط منم که دلتنگِ اون روزام؟!\n😢\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/306834",
-        "post_id": 306834,
-        "message_id": 7009,
-        "message_kind": "caption",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-07T13:23:20.650676+00:00"
-      },
-      {
-        "fingerprint": "b78443e91db0c5f1433bc0689fd1bdd3a91c148d482cb9ce753671a6e16d5bc4",
-        "media_fingerprint": "af6d9868dbbed50112a1570c0d61365fd8c688d21dd790c51889207c31cd7edc",
-        "text": "⚠️\nمراقب کلاهبرداری جدید سودجویان باشید\nتوی این شرایط که مردم دنبال یک راهی برای حفظ ارزش سرمایه‌شون هستند ، یک عده اینطوری از ترس مردم سو استفاده می‌کنند !\n@Midanesti",
-        "original_username": "midanesti",
-        "original_text": "⚠️\nمراقب کلاهبرداری جدید سودجویان باشید\nتوی این شرایط که مردم دنبال یک راهی برای حفظ ارزش سرمایه‌شون هستند ، یک عده اینطوری از ترس مردم سو استفاده می‌کنند !\n@Midanesti",
-        "original_link": "https://t.me/midanesti/73259",
-        "post_id": 73259,
-        "message_id": 7010,
-        "message_kind": "caption",
-        "sources": [
-          "midanesti"
-        ],
-        "created_at": "2026-10-07T13:23:27.829635+00:00"
-      },
-      {
-        "fingerprint": "6566ba964a176df51253becf2841707d912f1a9162fad7bc7631ac4e98ac5d2d",
-        "media_fingerprint": "8f6d77f49dd93c1cd8239a8f1429485b4d8ad3bbf6c52f53ca16d13a86d46e94",
-        "text": "♦️\nدرخشش ووشو شهرستان فسا درسطح  داوری ملی\n🔹\nدعوت فدراسیون ووشو از خواهران بنایی جهت قضاوت در داوری انتخابی تیم ملی\n🔹\nسمیه بنایی از داوران برجسته ووشوکشور با سرکار خانم طاهره بنایی از داوران تالو کشور با دعوت رسمی فدراسیون ووشو جهت قضاوت در داوری انتخابی تیم ملی ووشو سنتی در مهرماه سال جاری دعوت گردیدند و در مسابقات انتخابی تیم ملی ووشو سنتی به قضاوت پرداختند.\n🔹\nخواهران بنایی پیش از این سابقه داوری در مسابقات ملیلیگ برتر قهرمان کشور و استان در کارنامه خود داشتند.\n@Akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nدرخشش ووشو شهرستان فسا درسطح  داوری ملی\n🔹\nدعوت فدراسیون ووشو از خواهران بنایی جهت قضاوت در داوری انتخابی تیم ملی\n🔹\nسمیه بنایی از داوران برجسته ووشوکشور با سرکار خانم طاهره بنایی از داوران تالو کشور با دعوت رسمی فدراسیون ووشو جهت قضاوت در داوری انتخابی تیم ملی ووشو سنتی در مهرماه سال جاری دعوت گردیدند و در مسابقات انتخابی تیم ملی ووشو سنتی به قضاوت پرداختند.\n🔹\nخواهران بنایی پیش از این سابقه داوری در مسابقات ملیلیگ برتر قهرمان کشور و استان در کارنامه خود داشتند.\n@Akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143239",
-        "post_id": 143239,
-        "message_id": 7011,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-07T13:23:32.355457+00:00"
-      },
-      {
-        "fingerprint": "c1af2b61c1005b7cfffd875dfcd4124fb28abef7ab6cf04c57b9c78ea56dc3e8",
-        "media_fingerprint": "41cb1b27f8de7f9c85ad3ca2010db8bb92c2325faa4513ac7c38518a7b9d32e1",
-        "text": "🎬\nقسمت هشتم\n«\n❌\n❌\n»\nمنتشر شد.\n🎬\nr.filimo.com/TCankel8\n#کنکل\n@BajeFilm",
-        "original_username": "bajefilm",
-        "original_text": "🎬\nقسمت هشتم\n«\n❌\n❌\n»\nمنتشر شد.\n🎬\nr.filimo.com/TCankel8\n#کنکل\n@BajeFilm",
-        "original_link": "https://t.me/bajefilm/11600",
-        "post_id": 11600,
-        "message_id": 7012,
-        "message_kind": "caption",
-        "sources": [
-          "bajefilm"
-        ],
-        "created_at": "2026-10-07T13:23:36.845008+00:00"
-      },
       {
         "fingerprint": "c5f31198ffc6030acde70241a1516a71d50602b427b3e8f939bb59917b06b816",
         "media_fingerprint": "2f54aa546cca67c0f41772fb5c6e1d67cb3f796861abda7657ff98b05db1f155",
@@ -33635,6 +33516,141 @@
           "yejoorayi"
         ],
         "created_at": "2026-10-10T09:48:18.835866+00:00"
+      },
+      {
+        "fingerprint": "ca14153329b3c3daf00f6b52919144fb28e753191e8aa48f93b6dede1fc1074c",
+        "media_fingerprint": "b1149fac1efa3b3bcec5acf2a8c65b5dda9fcf3112976091ce885af5c0fa805f",
+        "text": "4_5922575135985901097.pdf",
+        "original_username": "akhbar_cafenet",
+        "original_text": "4_5922575135985901097.pdf",
+        "original_link": "https://t.me/akhbar_cafenet/23161",
+        "post_id": 23161,
+        "message_id": 8045,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-10T10:18:18.670205+00:00"
+      },
+      {
+        "fingerprint": "cd4075627d2f228b0533cd39456a457b915b94d0a582ad02b6a09a48e778cd3c",
+        "media_fingerprint": "7daa8b34bcc6a692c14fa5ef74db63b727ed9959b9a88e86b5587305996b895e",
+        "text": "♦️\nسفر یک روزه به شیراز چقدر آب میخوره؟\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nسفر یک روزه به شیراز چقدر آب میخوره؟\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143414",
+        "post_id": 143414,
+        "message_id": 8046,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-10T10:18:23.203058+00:00"
+      },
+      {
+        "fingerprint": "664d576252e4f87db621cce43470646ccce93eb26e94fba2a5a62e76856ee072",
+        "media_fingerprint": "",
+        "text": "🌐\nنتایج نهایی آزمون دستیاری پزشکی دوره ۵۳‌ در سایت مرکز سنجش آموزش پزشکی کشور منتشر شد\n🔗\nلینک مشاهده نتایج\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🌐\nنتایج نهایی آزمون دستیاری پزشکی دوره ۵۳‌ در سایت مرکز سنجش آموزش پزشکی کشور منتشر شد\n🔗\nلینک مشاهده نتایج\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23162",
+        "post_id": 23162,
+        "message_id": 8047,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-10T10:18:25.890104+00:00"
+      },
+      {
+        "fingerprint": "6e6b96aeac41e709733fa8778379cdffeb0994b4b27335fcb09ed93901fd9040",
+        "media_fingerprint": "1aa684dd33863d57781ae8b80df0ccf0d708c7e03307712a88acdf9ee11f913d",
+        "text": "می دونستین یه ابر کومولونیمبوس میتونه ۱ میلیون کیلو وزن داشته باشه، یعنی بیشتر از وزن هزار تا پراید!\nعکس از آسمون تهران\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "می دونستین یه ابر کومولونیمبوس میتونه ۱ میلیون کیلو وزن داشته باشه، یعنی بیشتر از وزن هزار تا پراید!\nعکس از آسمون تهران\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163060",
+        "post_id": 163060,
+        "message_id": 8048,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-10T10:18:30.996483+00:00"
+      },
+      {
+        "fingerprint": "2eda66737fc64c8a1501463823605af5abf074307ae0cce4ec85a7ca9478ca60",
+        "media_fingerprint": "6c649c25e47c761a6a9b89b64d43f80a6122b1a526fba64b4529c7fae5ebaab7",
+        "text": "خوبیش اینه که هرچقدر بگوزی باد میبردش\n😄\nبیچاره همسایه ها به جای نسیم باد، باید بوی اینو تحمل کنن\nحالا دستشویی به کنار دوش هم با حضور همسایگان محترم میگیره؟\nکی با همسایه هاتون انقدر صمیمی شدین؟\n😁\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "خوبیش اینه که هرچقدر بگوزی باد میبردش\n😄\nبیچاره همسایه ها به جای نسیم باد، باید بوی اینو تحمل کنن\nحالا دستشویی به کنار دوش هم با حضور همسایگان محترم میگیره؟\nکی با همسایه هاتون انقدر صمیمی شدین؟\n😁\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163061",
+        "post_id": 163061,
+        "message_id": 8049,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-10T10:18:37.375454+00:00"
+      },
+      {
+        "fingerprint": "5d31a2fe20d1bd98c0b6c8e536c589f21a2faf032a349c1cb80f134a333f8fa7",
+        "media_fingerprint": "",
+        "text": "🍏\nهزینه رجیستری خانواده آیفون ۱۸ مشخص شد: آیفون ۱۸ پرو مکس ۱۹۷ میلیون تومان، آیفون ۱۸ پرو ۱۵۸ میلیون تومان\n🔵\nبرآوردها نشان می‌دهد هزینه نهایی آیفون ۱۸ پرو مکس حدودا ۶۶۳ میلیون تومان و آیفون ۱۸ پرو نیز به حدود ۵۷۳ میلیون تومان می‌رسد.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🍏\nهزینه رجیستری خانواده آیفون ۱۸ مشخص شد: آیفون ۱۸ پرو مکس ۱۹۷ میلیون تومان، آیفون ۱۸ پرو ۱۵۸ میلیون تومان\n🔵\nبرآوردها نشان می‌دهد هزینه نهایی آیفون ۱۸ پرو مکس حدودا ۶۶۳ میلیون تومان و آیفون ۱۸ پرو نیز به حدود ۵۷۳ میلیون تومان می‌رسد.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23163",
+        "post_id": 23163,
+        "message_id": 8050,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-10T10:18:40.154569+00:00"
+      },
+      {
+        "fingerprint": "cf537178105b36b72c8ae3e4b2e5a9541edf97b4cfc9f85f8d1160a5c0975597",
+        "media_fingerprint": "0ec577d88015633b2989e20cdd78a27202f346f5dec6b001ffbf1e13906d2c34",
+        "text": "⚔️\n🔥\nبازی‌های باشگاهی بالاخره برگشتن و قراره طی ۴۸ ساعت آینده این بازی‌هارو داشته باشیم:\n😍\n🇪🇸\nبارسلونا\n🆚\nختافه\n🇪🇸\n🇪🇸\nرئال‌مادرید\n🆚\nویارئال\n🇪🇸\n🏴󠁧󠁢󠁥󠁮󠁧󠁿\nمنچستریونایتد\n🆚\nتاتنهام\n🏴󠁧󠁢󠁥󠁮󠁧󠁿\n🏴󠁧󠁢󠁥󠁮󠁧󠁿\nلیورپول\n🆚\nمنچسترسیتی\n🏴󠁧󠁢󠁥󠁮󠁧󠁿\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "⚔️\n🔥\nبازی‌های باشگاهی بالاخره برگشتن و قراره طی ۴۸ ساعت آینده این بازی‌هارو داشته باشیم:\n😍\n🇪🇸\nبارسلونا\n🆚\nختافه\n🇪🇸\n🇪🇸\nرئال‌مادرید\n🆚\nویارئال\n🇪🇸\n🏴󠁧󠁢󠁥󠁮󠁧󠁿\nمنچستریونایتد\n🆚\nتاتنهام\n🏴󠁧󠁢󠁥󠁮󠁧󠁿\n🏴󠁧󠁢󠁥󠁮󠁧󠁿\nلیورپول\n🆚\nمنچسترسیتی\n🏴󠁧󠁢󠁥󠁮󠁧󠁿\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/108240",
+        "post_id": 108240,
+        "message_id": 8051,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-10T10:18:44.913495+00:00"
+      },
+      {
+        "fingerprint": "a85a58ee2492faa428e618275e7f2e8068ad7e8e763072bf334e78b8a2e09d0a",
+        "media_fingerprint": "7df6c7a853e74c98333b1c17a1b317e00b9566c57849147797acb746708b5772",
+        "text": "معلم خودش خندش گرفت\n😂\n😂\n😂\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "معلم خودش خندش گرفت\n😂\n😂\n😂\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306906",
+        "post_id": 306906,
+        "message_id": 8052,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-10T10:18:50.322085+00:00"
+      },
+      {
+        "fingerprint": "25152c40c5ab0bed52ff7c142656ec7e7b56587be2fcf2d5b700b218f6c9e110",
+        "media_fingerprint": "d0b507154d3a3bf33d50f581f656f630b00d637bf63b084fa3d606138d5d15c6",
+        "text": "مهندسی عجیب آلمانی!\nایمنی جالب بنز ۷ هه پیش\n.\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "مهندسی عجیب آلمانی!\nایمنی جالب بنز ۷ هه پیش\n.\n@irWonders",
+        "original_link": "https://t.me/irwonders/58543",
+        "post_id": 58543,
+        "message_id": 8053,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-10T10:18:56.999028+00:00"
       }
     ]
   }
