@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143506,
+      "last_id": 143508,
       "processed_ids": [
-        142406,
-        142407,
         142408,
         142409,
         142410,
@@ -1002,9 +1000,11 @@
         143503,
         143504,
         143505,
-        143506
+        143506,
+        143507,
+        143508
       ],
-      "sent_count": 874
+      "sent_count": 875
     },
     "total_fut": {
       "last_id": 237725,
@@ -2013,12 +2013,8 @@
       "sent_count": 122
     },
     "footballvision2": {
-      "last_id": 171019,
+      "last_id": 171023,
       "processed_ids": [
-        169915,
-        169916,
-        169917,
-        169918,
         169919,
         169920,
         169921,
@@ -3014,9 +3010,13 @@
         171016,
         171017,
         171018,
-        171019
+        171019,
+        171020,
+        171021,
+        171022,
+        171023
       ],
-      "sent_count": 128
+      "sent_count": 129
     },
     "tg_ir": {
       "last_id": 2310,
@@ -3309,7 +3309,7 @@
       "sent_count": 8
     },
     "drtel": {
-      "last_id": 67590,
+      "last_id": 67591,
       "processed_ids": [
         66561,
         66565,
@@ -4122,9 +4122,10 @@
         67582,
         67588,
         67589,
-        67590
+        67590,
+        67591
       ],
-      "sent_count": 454
+      "sent_count": 455
     },
     "techtube": {
       "last_id": 18492,
@@ -4941,7 +4942,7 @@
       "sent_count": 89
     },
     "roidbest": {
-      "last_id": 21840,
+      "last_id": 21841,
       "processed_ids": [
         21613,
         21614,
@@ -5158,12 +5159,13 @@
         21837,
         21838,
         21839,
-        21840
+        21840,
+        21841
       ],
-      "sent_count": 132
+      "sent_count": 133
     },
     "akhbar_cafenet": {
-      "last_id": 23226,
+      "last_id": 23228,
       "processed_ids": [
         22432,
         22433,
@@ -5909,9 +5911,11 @@
         23216,
         23217,
         23218,
-        23226
+        23226,
+        23227,
+        23228
       ],
-      "sent_count": 406
+      "sent_count": 407
     },
     "comentiat": {
       "last_id": 26443,
@@ -7686,7 +7690,7 @@
       "sent_count": 747
     },
     "dr_salamatx": {
-      "last_id": 55383,
+      "last_id": 55385,
       "processed_ids": [
         55270,
         55271,
@@ -7801,9 +7805,11 @@
         55380,
         55381,
         55382,
-        55383
+        55383,
+        55384,
+        55385
       ],
-      "sent_count": 72
+      "sent_count": 73
     },
     "jaleb": {
       "last_id": 52846,
@@ -9289,14 +9295,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109737,
+      "last_id": 109743,
       "processed_ids": [
-        108660,
-        108661,
-        108662,
-        108663,
-        108664,
-        108665,
         108666,
         108667,
         108668,
@@ -10290,16 +10290,19 @@
         109734,
         109735,
         109736,
-        109737
+        109737,
+        109738,
+        109739,
+        109740,
+        109741,
+        109742,
+        109743
       ],
-      "sent_count": 136
+      "sent_count": 137
     },
     "varzesh3": {
-      "last_id": 303864,
+      "last_id": 303867,
       "processed_ids": [
-        302765,
-        302766,
-        302767,
         302768,
         302769,
         302770,
@@ -11296,12 +11299,15 @@
         303861,
         303862,
         303863,
-        303864
+        303864,
+        303865,
+        303866,
+        303867
       ],
       "sent_count": 88
     },
     "totalfut_plus": {
-      "last_id": 26681,
+      "last_id": 26683,
       "processed_ids": [
         25870,
         25871,
@@ -12089,14 +12095,15 @@
         26678,
         26679,
         26680,
-        26681
+        26681,
+        26682,
+        26683
       ],
       "sent_count": 55
     },
     "adak_ir_official": {
-      "last_id": 235194,
+      "last_id": 235195,
       "processed_ids": [
-        234167,
         234168,
         234169,
         234170,
@@ -13095,14 +13102,14 @@
         235191,
         235192,
         235193,
-        235194
+        235194,
+        235195
       ],
       "sent_count": 186
     },
     "futball180tv": {
-      "last_id": 108360,
+      "last_id": 108361,
       "processed_ids": [
-        107339,
         107340,
         107341,
         107342,
@@ -14101,14 +14108,14 @@
         108357,
         108358,
         108359,
-        108360
+        108360,
+        108361
       ],
       "sent_count": 86
     },
     "hattric_official": {
-      "last_id": 84708,
+      "last_id": 84712,
       "processed_ids": [
-        83655,
         83656,
         83657,
         83658,
@@ -15107,12 +15114,13 @@
         84705,
         84706,
         84707,
-        84708
+        84708,
+        84712
       ],
-      "sent_count": 123
+      "sent_count": 124
     },
     "mazdak_hattrick": {
-      "last_id": 182521,
+      "last_id": 182522,
       "processed_ids": [
         181991,
         181992,
@@ -15632,7 +15640,8 @@
         182518,
         182519,
         182520,
-        182521
+        182521,
+        182522
       ],
       "sent_count": 48
     },
@@ -15777,7 +15786,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58604,
+      "last_id": 58606,
       "processed_ids": [
         58030,
         58031,
@@ -16301,9 +16310,11 @@
         58601,
         58602,
         58603,
-        58604
+        58604,
+        58605,
+        58606
       ],
-      "sent_count": 328
+      "sent_count": 330
     },
     "razcom": {
       "last_id": 70491,
@@ -18393,7 +18404,7 @@
       "sent_count": 10
     },
     "bajefilm": {
-      "last_id": 11623,
+      "last_id": 11625,
       "processed_ids": [
         11552,
         11553,
@@ -18466,9 +18477,11 @@
         11620,
         11621,
         11622,
-        11623
+        11623,
+        11624,
+        11625
       ],
-      "sent_count": 60
+      "sent_count": 62
     },
     "yejoorayi": {
       "last_id": 546,
@@ -19043,7 +19056,7 @@
       "sent_count": 156
     },
     "funy_khand": {
-      "last_id": 25784,
+      "last_id": 25786,
       "processed_ids": [
         25704,
         25705,
@@ -19125,12 +19138,14 @@
         25781,
         25782,
         25783,
-        25784
+        25784,
+        25785,
+        25786
       ],
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6227,
+      "last_id": 6229,
       "processed_ids": [
         6113,
         6114,
@@ -19236,193 +19251,15 @@
         6223,
         6224,
         6225,
-        6227
+        6227,
+        6228,
+        6229
       ],
       "sent_count": 4
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "e38300988d09d035f8bb5fd54f7ff79c2307703d02546ef084d0a50c9793d99d",
-        "media_fingerprint": "c76d60fae98cfb01a2e701de5ede9bc3c78f675aebe74d6c3cb11c23fedd6b40",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26384",
-        "post_id": 26384,
-        "message_id": 7429,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-08T18:23:49.580101+00:00"
-      },
-      {
-        "fingerprint": "34a0046651ed2598a9c679af3d1872f1cf60e4b73813e753043f81b832343792",
-        "media_fingerprint": "88cb25f1af68cdcedc790d5d22f7a845be331e21924f593f4f2e9655cb81f454",
-        "text": "🚨\n🇪🇸\nقرارداد ژاوی اسپارت ستاره جوان بارسلونا با این تیم تا سال ۲۰۳۰ تمدید شد.\n⚽️\n@Futball180TV",
-        "original_username": "futball180tv",
-        "original_text": "🚨\n🇪🇸\nقرارداد ژاوی اسپارت ستاره جوان بارسلونا با این تیم تا سال ۲۰۳۰ تمدید شد.\n⚽️\n@Futball180TV",
-        "original_link": "https://t.me/Futball180TV/108142",
-        "post_id": 108142,
-        "message_id": 7430,
-        "message_kind": "caption",
-        "sources": [
-          "futball180tv"
-        ],
-        "created_at": "2026-10-08T18:23:54.055527+00:00"
-      },
-      {
-        "fingerprint": "57df13a7c84dfe74c7d9fee7c209de8b81b61826f88390356aa88c32837c9ac2",
-        "media_fingerprint": "633412377c659b0fb2c5f682a6dd3538cad61947d0cf7fd737a769ceed018f94",
-        "text": "بنظر تون چرا\n🤔\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "بنظر تون چرا\n🤔\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/2957",
-        "post_id": 2957,
-        "message_id": 7431,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-08T18:53:57.990573+00:00"
-      },
-      {
-        "fingerprint": "7cfe617253bf70ce63766144ab301c122a9c52826a0eebe602af8fd75fe182e4",
-        "media_fingerprint": "",
-        "text": "♦️\nاختلال در خدمات غیرحضوری برخی بانک‌ها از امشب\n🔹\nبنابر اعلام عمومی بانک‌های شهر و ملت، کلیه خدمات غیرحضوری این بانک‌ها در بازه زمانی امشب تا صبح فردا از دسترس دارندگان حساب خارج خواهد شد.\n🔹\nبراساس این اعلامیه، بانک شهر از ساعت ۱ بامداد تا ۷ صبح روز جمعه و بانک ملت از ساعت ۲۳ روز پنج شنبه تا ۸ صبح روز جمعه، غیرفعال بودن سامانه‌های خود را اعلام کرده‌اند./ شهرآرانیوز\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nاختلال در خدمات غیرحضوری برخی بانک‌ها از امشب\n🔹\nبنابر اعلام عمومی بانک‌های شهر و ملت، کلیه خدمات غیرحضوری این بانک‌ها در بازه زمانی امشب تا صبح فردا از دسترس دارندگان حساب خارج خواهد شد.\n🔹\nبراساس این اعلامیه، بانک شهر از ساعت ۱ بامداد تا ۷ صبح روز جمعه و بانک ملت از ساعت ۲۳ روز پنج شنبه تا ۸ صبح روز جمعه، غیرفعال بودن سامانه‌های خود را اعلام کرده‌اند./ شهرآرانیوز\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143324",
-        "post_id": 143324,
-        "message_id": 7432,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-08T18:54:01.059965+00:00"
-      },
-      {
-        "fingerprint": "a492561b242024cd6a2ffcc534a3dbb00b67df2502430ef3afb39bf36752fcd6",
-        "media_fingerprint": "cb5fc86c1a0326cd96d4fd0be470b7ff8da1df0d001fa8873b248d168ae791fb",
-        "text": "🇪🇺\nجدول لیگ برتر پس از بازی‌های امشب\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🇪🇺\nجدول لیگ برتر پس از بازی‌های امشب\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/234980",
-        "post_id": 234980,
-        "message_id": 7433,
-        "message_kind": "caption",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-08T18:54:05.988301+00:00"
-      },
-      {
-        "fingerprint": "c51770e94c54eee8a179b68f54d757d909f48e0e1205ead54d2c2051c6dd9a22",
-        "media_fingerprint": "",
-        "text": "حاجی فکر کن پرسپولیس و تراکتور بازی داشته باشن، مشترکا به بیرانوند فحش بدن\n😂\n🆔\n@footballvision2",
-        "original_username": "footballvision2",
-        "original_text": "حاجی فکر کن پرسپولیس و تراکتور بازی داشته باشن، مشترکا به بیرانوند فحش بدن\n😂\n🆔\n@footballvision2",
-        "original_link": "https://t.me/footballvision2/170756",
-        "post_id": 170756,
-        "message_id": 7434,
-        "message_kind": "text",
-        "sources": [
-          "footballvision2"
-        ],
-        "created_at": "2026-10-08T18:54:08.821755+00:00"
-      },
-      {
-        "fingerprint": "8ae654f799d9528730eee2af81b042f8942f2c7f0d6b9fc563b7bf7af5719118",
-        "media_fingerprint": "",
-        "text": "🗂\nدفترچه اصلاحیه و اضافه شدن کد رشته های جدید منتشر شد\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🗂\nدفترچه اصلاحیه و اضافه شدن کد رشته های جدید منتشر شد\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/23119",
-        "post_id": 23119,
-        "message_id": 7435,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-08T18:54:11.487106+00:00"
-      },
-      {
-        "fingerprint": "a64ebc1c589fc720020de0e32bb6e070c2ba1224b6caf5fa34f25fe319d15318",
-        "media_fingerprint": "",
-        "text": "🗂\nدفترچه اصلاحیه پیوست و سوابق تحصیلی\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🗂\nدفترچه اصلاحیه پیوست و سوابق تحصیلی\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/23124",
-        "post_id": 23124,
-        "message_id": 7436,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-08T18:54:14.137624+00:00"
-      },
-      {
-        "fingerprint": "447c7698421bfa935d6db28965fc651eff52f67cbe6a197738320a9b7975324d",
-        "media_fingerprint": "2900728e4a8ff31c04cc26e193d070cd91aaeec649ee2933d6acc03cb546a118",
-        "text": "وضعیت دریاچه چیتگر امروز\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "وضعیت دریاچه چیتگر امروز\n@irWonders",
-        "original_link": "https://t.me/irwonders/58487",
-        "post_id": 58487,
-        "message_id": 7437,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-08T18:54:19.821824+00:00"
-      },
-      {
-        "fingerprint": "7fe5917dfaf089be61596dcd29e352341de2e657aa3c2863c7ac496f2a51af55",
-        "media_fingerprint": "",
-        "text": "⭕️\nرئیس اداره آموزش و پرورش کیش: تمامی مقاطع تحصیلی در کیش، از ۱۸ مهر به مدت یک هفته در قالب غیرحضوری فعالیت خواهند کرد\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "⭕️\nرئیس اداره آموزش و پرورش کیش: تمامی مقاطع تحصیلی در کیش، از ۱۸ مهر به مدت یک هفته در قالب غیرحضوری فعالیت خواهند کرد\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/23126",
-        "post_id": 23126,
-        "message_id": 7438,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-08T18:54:22.643859+00:00"
-      },
-      {
-        "fingerprint": "a5953e0612107334d7770988e511f1257aab3fc2a986bd6322146140ea9e9693",
-        "media_fingerprint": "",
-        "text": "يكى در حد پرستيدن دوستون داره بعد به خودت ميگی:\nعه پس من پرستيدنى هستم، برم بنده هاى بهترى پیدا كنم.\nميرى ميبينى خبرى از بنده منده نيست تو خدا نبودى، اون عاشقت بود\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "يكى در حد پرستيدن دوستون داره بعد به خودت ميگی:\nعه پس من پرستيدنى هستم، برم بنده هاى بهترى پیدا كنم.\nميرى ميبينى خبرى از بنده منده نيست تو خدا نبودى، اون عاشقت بود\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162977",
-        "post_id": 162977,
-        "message_id": 7439,
-        "message_kind": "text",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-08T18:54:25.901863+00:00"
-      },
-      {
-        "fingerprint": "902c3a6a3c9a5f5e35749ad83ec7eba54c8d46bb2c03e919abc69a4f5e677ec9",
-        "media_fingerprint": "1d63339db6adfc214e4dcf8e8294b4ca559b66c2e5114a6c672d9127c475ecaf",
-        "text": "دیشب تو گیلان، یه نیسان گاوی و موتوری باهم درگیری لفظی پیدا میکنن که نتیجه اش رو ببینید\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "دیشب تو گیلان، یه نیسان گاوی و موتوری باهم درگیری لفظی پیدا میکنن که نتیجه اش رو ببینید\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162978",
-        "post_id": 162978,
-        "message_id": 7440,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-08T18:54:31.904028+00:00"
-      },
       {
         "fingerprint": "a846c1b1f214c3eda19fa0ebdf1f661a3537f56d94f9e25db3070b0c171520fc",
         "media_fingerprint": "ea71bcdd575b69f09286788eb6904c47c3c490425205cde19b0fdc9d60e569ad",
@@ -34329,6 +34166,186 @@
           "akhbarfars"
         ],
         "created_at": "2026-10-11T17:18:45.528700+00:00"
+      },
+      {
+        "fingerprint": "cbd03b9e71b1ba7dc1f333a77776dc9076fb18e8af0d065bdb81d6af6abaac2f",
+        "media_fingerprint": "",
+        "text": "🗂\nسری سوم رشته‌محل‌های جدید و اصلاحات انتخاب رشته کنکور سراسری ۱۴۰۵\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🗂\nسری سوم رشته‌محل‌های جدید و اصلاحات انتخاب رشته کنکور سراسری ۱۴۰۵\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23228",
+        "post_id": 23228,
+        "message_id": 8486,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-11T17:46:55.174701+00:00"
+      },
+      {
+        "fingerprint": "b24afbc9cecf1431131d15ea5e646b04751f7322b1a51c75302c7ee419cec6f4",
+        "media_fingerprint": "a74ab53712dac61841e9fdf0745e5a1fb2f4cdba32727e244bbfac56b6b90ec2",
+        "text": "🍜\nسوپ عدس قرمز؛ سبک اما سیرکننده\n🥘\nعدس قرمز سریع می‌پزد و همراه با هویج، پیاز و ادویه‌های ملایم، یک شام سبک و مغذی می‌سازد. این غذا منبع مناسبی از پروتئین گیاهی و فیبر است.\n🌐\nnutritionsource.harvard.edu\n#شام_سالم\n#عدس\n🖥\n@Dr_SalamatX",
+        "original_username": "dr_salamatx",
+        "original_text": "🍜\nسوپ عدس قرمز؛ سبک اما سیرکننده\n🥘\nعدس قرمز سریع می‌پزد و همراه با هویج، پیاز و ادویه‌های ملایم، یک شام سبک و مغذی می‌سازد. این غذا منبع مناسبی از پروتئین گیاهی و فیبر است.\n🌐\nnutritionsource.harvard.edu\n#شام_سالم\n#عدس\n🖥\n@Dr_SalamatX",
+        "original_link": "https://t.me/Dr_SalamatX/55385",
+        "post_id": 55385,
+        "message_id": 8487,
+        "message_kind": "caption",
+        "sources": [
+          "dr_salamatx"
+        ],
+        "created_at": "2026-10-11T17:46:59.912441+00:00"
+      },
+      {
+        "fingerprint": "1f11c9bb99e5541ab462d9fa948e922a8e47115e120a265360704189458491b8",
+        "media_fingerprint": "960f83d7659539e3f59b8599421d2e0785de48ce7fd418744742803065dfe200",
+        "text": "💥\n۲۰۰ هزار تومان تخفیفِ بیشتر علاوه بر تخفیفِ ۷۵ درصدی موجود در سایت | اشتراک یک ساله فرادرس\n🤩\nبیش از ۱۹,۰۰۰ آموزش با یک اشتراک\n🤩\n👈\n👈\nمدت محدود | ظرفیت محدود\n👉\n👉\n❌\nقیمت فعلی اشتراک با ۷۵٪ تخفیف:\n❌\n۱,۹۸۰,۰۰۰ تومان\n✅\nاشتراک یک ساله با قیمت ویژه:\n✅\n۱,۷۸۰,۰۰۰ تومان\nمعادل ماهانه ۱۴۸ هزار تومان\n➕\nامکان پرداخت در ۴ قسط با اسنپ پی\n🎁\nکد تخفیف ویژه اعضای کانال:\nFSTE852\nهمین حالا اشتراک یک ساله را با\nتخفیف ویژه\nفعال کنید:\n👇\n🔗\nفعال‌سازی اشتراک فرادرس – کلیک کنید\n@FaraDars\n— فرادرس",
+        "original_username": "roidbest",
+        "original_text": "💥\n۲۰۰ هزار تومان تخفیفِ بیشتر علاوه بر تخفیفِ ۷۵ درصدی موجود در سایت | اشتراک یک ساله فرادرس\n🤩\nبیش از ۱۹,۰۰۰ آموزش با یک اشتراک\n🤩\n👈\n👈\nمدت محدود | ظرفیت محدود\n👉\n👉\n❌\nقیمت فعلی اشتراک با ۷۵٪ تخفیف:\n❌\n۱,۹۸۰,۰۰۰ تومان\n✅\nاشتراک یک ساله با قیمت ویژه:\n✅\n۱,۷۸۰,۰۰۰ تومان\nمعادل ماهانه ۱۴۸ هزار تومان\n➕\nامکان پرداخت در ۴ قسط با اسنپ پی\n🎁\nکد تخفیف ویژه اعضای کانال:\nFSTE852\nهمین حالا اشتراک یک ساله را با\nتخفیف ویژه\nفعال کنید:\n👇\n🔗\nفعال‌سازی اشتراک فرادرس – کلیک کنید\n@FaraDars\n— فرادرس",
+        "original_link": "https://t.me/RoidBest/21841",
+        "post_id": 21841,
+        "message_id": 8488,
+        "message_kind": "caption",
+        "sources": [
+          "roidbest"
+        ],
+        "created_at": "2026-10-11T17:47:04.438367+00:00"
+      },
+      {
+        "fingerprint": "f80af3dd99158c86bff8c8559656780bd3d223fb5027f3dff50655302130a901",
+        "media_fingerprint": "2ee7183d09d17d40cc0e2b5e388fbd6bcd586f1c06c8b37c69a3ba2489b2afb8",
+        "text": "🔴\nبرخورد سوپر نفتکش با مین دریایی در تنگه هرمز\nروابط عمومی نیروی دریایی سپاه:\n🔹️\nیک فروند سوپر نفتکش متخلف با برخورد  به  یک مین دریایی عصر امروز در محدوده جنوب تنگه هرمز دچار انفجار و آتش‌سوزی  در موتورخانه گردید.\n🔹️\nاین کشتی با محموله نفت خام که قصد خروج از تنگه هرمز را داشت کلیه سامانه‌های ناوبری خود را خاموش و قوانین تنگه هرمز را نقض کرده و بدلیل عبور از مسیر غیر مجاز دچار این سانحه گردید.\n🔹️\nاین سومین نفتکش متخلفی است که از روز گذشته تا کنون با مین‌های دریایی در مسیر غیر مجاز تنگه هرمز برخورد کرده و دچار آتش‌سوزی شده است.\n🔹️\nتمام کشتی‌های در محدوده تنگه هرمز که سامانه‌های ناوبری و شناسایی خود را خاموش کنند به عنوان متخاصم شناسایی و با آن به شدت و قاطعیت برخورد خواهد شد.\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "🔴\nبرخورد سوپر نفتکش با مین دریایی در تنگه هرمز\nروابط عمومی نیروی دریایی سپاه:\n🔹️\nیک فروند سوپر نفتکش متخلف با برخورد  به  یک مین دریایی عصر امروز در محدوده جنوب تنگه هرمز دچار انفجار و آتش‌سوزی  در موتورخانه گردید.\n🔹️\nاین کشتی با محموله نفت خام که قصد خروج از تنگه هرمز را داشت کلیه سامانه‌های ناوبری خود را خاموش و قوانین تنگه هرمز را نقض کرده و بدلیل عبور از مسیر غیر مجاز دچار این سانحه گردید.\n🔹️\nاین سومین نفتکش متخلفی است که از روز گذشته تا کنون با مین‌های دریایی در مسیر غیر مجاز تنگه هرمز برخورد کرده و دچار آتش‌سوزی شده است.\n🔹️\nتمام کشتی‌های در محدوده تنگه هرمز که سامانه‌های ناوبری و شناسایی خود را خاموش کنند به عنوان متخاصم شناسایی و با آن به شدت و قاطعیت برخورد خواهد شد.\n@irWonders",
+        "original_link": "https://t.me/irwonders/58605",
+        "post_id": 58605,
+        "message_id": 8489,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-11T17:47:11.113692+00:00"
+      },
+      {
+        "fingerprint": "ce9927f29cbba3be1cc89901448a4aed3258433c4ba5ce38c8ba623648379f95",
+        "media_fingerprint": "",
+        "text": "🔴\nبرخورد سوپر نفتکش با مین دریایی در تنگه هرمز   روابط عمومی نیروی دریایی سپاه:\n🔹️\nیک فروند سوپر نفتکش متخلف با برخورد  به  یک مین دریایی عصر امروز در محدوده جنوب تنگه هرمز دچار انفجار و آتش‌سوزی  در موتورخانه گردید.\n🔹️\nاین کشتی با محموله نفت خام که قصد خروج…",
+        "original_username": "irwonders",
+        "original_text": "🔴\nبرخورد سوپر نفتکش با مین دریایی در تنگه هرمز   روابط عمومی نیروی دریایی سپاه:\n🔹️\nیک فروند سوپر نفتکش متخلف با برخورد  به  یک مین دریایی عصر امروز در محدوده جنوب تنگه هرمز دچار انفجار و آتش‌سوزی  در موتورخانه گردید.\n🔹️\nاین کشتی با محموله نفت خام که قصد خروج…",
+        "original_link": "https://t.me/irwonders/58606",
+        "post_id": 58606,
+        "message_id": 8490,
+        "message_kind": "text",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-11T17:47:14.017202+00:00"
+      },
+      {
+        "fingerprint": "eb00bc14aada5d0291418b8a3710a12f499824050bad1e0c5ccbbfe0f16584fc",
+        "media_fingerprint": "df175f245a787a270abbb271af9598176bf881eca13194d930a051cb52bb783c",
+        "text": "تمام دارایی ام را سرقت کردند\n🎬\nپخش اختصاصی سه‌شنبه‌ها فقط در پلتفرم ایده‌نما\nآرمین قدرتی در قسمت هشتم «ستاره‌بازی»، میزبان عباس محبوب است.\n@BajeFilm",
+        "original_username": "bajefilm",
+        "original_text": "تمام دارایی ام را سرقت کردند\n🎬\nپخش اختصاصی سه‌شنبه‌ها فقط در پلتفرم ایده‌نما\nآرمین قدرتی در قسمت هشتم «ستاره‌بازی»، میزبان عباس محبوب است.\n@BajeFilm",
+        "original_link": "https://t.me/bajefilm/11624",
+        "post_id": 11624,
+        "message_id": 8491,
+        "message_kind": "caption",
+        "sources": [
+          "bajefilm"
+        ],
+        "created_at": "2026-10-11T17:47:21.326256+00:00"
+      },
+      {
+        "fingerprint": "624b2ffaba6545fadff7e304c946701936370a82aaef8e9ab29b649815c2f6b0",
+        "media_fingerprint": "",
+        "text": "🤩\n#اختصاصی_هتریک\n⚽\nترکیب استقلال در دیدار فردا مقابل الغرافه قطر\n🔵\nسیستم پایه : 3421\n🔵\nحبیب فرعباسی\n🔵\nصالح حردانی\n🔵\nرستم آشورماتف\n🔵\nسامان فلاح\n🔵\nعارف آقاسی\n🔵\nحسین گودرزی\n🔵\nروزبه چشمی\n🔵\nامیرمحمد رزاقی‌نیا\n🔵\nمحمد حسین اسلامی\n🔵\nاسماعیل قلی‌زاده\n🔵\nسعید سحرخیزان\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "🤩\n#اختصاصی_هتریک\n⚽\nترکیب استقلال در دیدار فردا مقابل الغرافه قطر\n🔵\nسیستم پایه : 3421\n🔵\nحبیب فرعباسی\n🔵\nصالح حردانی\n🔵\nرستم آشورماتف\n🔵\nسامان فلاح\n🔵\nعارف آقاسی\n🔵\nحسین گودرزی\n🔵\nروزبه چشمی\n🔵\nامیرمحمد رزاقی‌نیا\n🔵\nمحمد حسین اسلامی\n🔵\nاسماعیل قلی‌زاده\n🔵\nسعید سحرخیزان\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/84712",
+        "post_id": 84712,
+        "message_id": 8492,
+        "message_kind": "text",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-11T17:47:24.224736+00:00"
+      },
+      {
+        "fingerprint": "5389422f3317d09fec83ad339c9a6b6a4006cf6b687788d8ab8b6696d7ab91e6",
+        "media_fingerprint": "",
+        "text": "✉️\nوقتی واست طاقچه بالا گذاشتم حساب کار دستت میاد\nقسمت سیزدهم فصل دوم «بامدادخمار»\nدوشنبه ۲۰ مهرماه ساعت ۲۰\n🎬\n🎬\nپخش اختصاصی از پلتفرم شیدا\nسریال«بامداد خمار» به کارگردانی نرگس آبیار، تهیه‌کنندگی محمدحسین قاسمی و مدیریت پروژه مجیدرضا مصطفوی تولید شده و اقتباسی از رمان پرفروش فتانه حاج‌سیدجوادی است.\nساخت تیزر: حمید نجفی‌راد\n@BajeFilm",
+        "original_username": "bajefilm",
+        "original_text": "✉️\nوقتی واست طاقچه بالا گذاشتم حساب کار دستت میاد\nقسمت سیزدهم فصل دوم «بامدادخمار»\nدوشنبه ۲۰ مهرماه ساعت ۲۰\n🎬\n🎬\nپخش اختصاصی از پلتفرم شیدا\nسریال«بامداد خمار» به کارگردانی نرگس آبیار، تهیه‌کنندگی محمدحسین قاسمی و مدیریت پروژه مجیدرضا مصطفوی تولید شده و اقتباسی از رمان پرفروش فتانه حاج‌سیدجوادی است.\nساخت تیزر: حمید نجفی‌راد\n@BajeFilm",
+        "original_link": "https://t.me/bajefilm/11625",
+        "post_id": 11625,
+        "message_id": 8493,
+        "message_kind": "text",
+        "sources": [
+          "bajefilm"
+        ],
+        "created_at": "2026-10-11T17:47:27.145288+00:00"
+      },
+      {
+        "fingerprint": "e827310b8e4871dfa4f739ecf33a90055048580aac11f35053af86c7eadae72e",
+        "media_fingerprint": "",
+        "text": "بیانیه فدراسیون جواب تراکتور را داد\n🖼\nفدراسیون فوتبال:\n🔹\nهمزمان با نامه‌نگاری بین فدراسیون فوتبال ایران و قطر جهت مجوز ورود باشگاه استقلال، در تاریخ ۶ مهر نامه رسمی درخواست مجوز ورود پرواز تراکتور و گل‌گهر به فدراسیون فوتبال عمان ارسال شد.\n🔹\nدرحالی‌که، دولت قطر مجوز ورود کاروان استقلال را صادر کرد، فدراسیون فوتبال عمان در تاریخ ۱۵ مهر پاسخ داد که نتوانسته مجوز لازم جهت ورود پرواز اختصاصی تراکتور و گل‌گهر را اخذ کند.\n🔘\n@Navadnewstelegram",
+        "original_username": "footballvision2",
+        "original_text": "بیانیه فدراسیون جواب تراکتور را داد\n🖼\nفدراسیون فوتبال:\n🔹\nهمزمان با نامه‌نگاری بین فدراسیون فوتبال ایران و قطر جهت مجوز ورود باشگاه استقلال، در تاریخ ۶ مهر نامه رسمی درخواست مجوز ورود پرواز تراکتور و گل‌گهر به فدراسیون فوتبال عمان ارسال شد.\n🔹\nدرحالی‌که، دولت قطر مجوز ورود کاروان استقلال را صادر کرد، فدراسیون فوتبال عمان در تاریخ ۱۵ مهر پاسخ داد که نتوانسته مجوز لازم جهت ورود پرواز اختصاصی تراکتور و گل‌گهر را اخذ کند.\n🔘\n@Navadnewstelegram",
+        "original_link": "https://t.me/footballvision2/171023",
+        "post_id": 171023,
+        "message_id": 8494,
+        "message_kind": "text",
+        "sources": [
+          "footballvision2"
+        ],
+        "created_at": "2026-10-11T17:47:30.090436+00:00"
+      },
+      {
+        "fingerprint": "b461b444da69dab785920caec12a12e6d2d6d189332dbac92a23d3daed72d50c",
+        "media_fingerprint": "f478dd14a7ebb88bd6f8f288ab1ae5127e87025783a67930d91d70002bbd4b43",
+        "text": "بنرها را غلاف کنید، در زمین حریف نمی‌شوید!\n✔️\nکمری که خرافنبرخ از قرمزها شکست؛ برد یک‌طرفه منچسترسیتی در خانه لیورپول، اهتزاز موزهای سیتیزن‌ها!\n🔸\nلیگ برتر انگلیس - هفته ۶\n🔸\nدوکو آمد، لیورپول را ۱۰ نفره کرد و خیلی‌ کار‌های دیگر!/ اخراج هافبک هلندی، در …",
+        "original_username": "ft360_ir",
+        "original_text": "بنرها را غلاف کنید، در زمین حریف نمی‌شوید!\n✔️\nکمری که خرافنبرخ از قرمزها شکست؛ برد یک‌طرفه منچسترسیتی در خانه لیورپول، اهتزاز موزهای سیتیزن‌ها!\n🔸\nلیگ برتر انگلیس - هفته ۶\n🔸\nدوکو آمد، لیورپول را ۱۰ نفره کرد و خیلی‌ کار‌های دیگر!/ اخراج هافبک هلندی، در …",
+        "original_link": "https://t.me/ft360_ir/109743",
+        "post_id": 109743,
+        "message_id": 8495,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-11T17:47:34.711306+00:00"
+      },
+      {
+        "fingerprint": "0e18d9fd6fd95431a110da725fdb9b91b62f8fb5741eb361837e1d682b7f49bc",
+        "media_fingerprint": "67352d104595a4d29f916542c3a11c4757432e299bccda172f484be6b7e245f5",
+        "text": "🔴\nوضعیت دیشبِ گرگان که درگیرِ یه سیل وحشتناک بودن که ماشین، موتور، آدم و هرچی که سرراهش بود رو با خودش میبرد؛\n+ با توجه به اخطارهای قبلی و شکل‌گیری پدیده\nال‌نینو\nتو جهان، تا آخرهای پاییز باید انتظار همچین سیل‌هایی رو تو قسمت‌های شمالی و غربی کشور داشته باشیم.\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nوضعیت دیشبِ گرگان که درگیرِ یه سیل وحشتناک بودن که ماشین، موتور، آدم و هرچی که سرراهش بود رو با خودش میبرد؛\n+ با توجه به اخطارهای قبلی و شکل‌گیری پدیده\nال‌نینو\nتو جهان، تا آخرهای پاییز باید انتظار همچین سیل‌هایی رو تو قسمت‌های شمالی و غربی کشور داشته باشیم.\n@DrTeL",
+        "original_link": "https://t.me/drtel/67591",
+        "post_id": 67591,
+        "message_id": 8496,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-11T17:47:42.434882+00:00"
+      },
+      {
+        "fingerprint": "90c91f89bce6e007641378883fb4fa3f398524b536bd0d68695053fffc16de78",
+        "media_fingerprint": "e58cbb45c8d1ddc21a835c8230b36cecb645f38af67a0141c89ab370febf1066",
+        "text": "♦️\nآبشار مارگون فارس/۱۳۱۵\n#فارس_قدیم\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nآبشار مارگون فارس/۱۳۱۵\n#فارس_قدیم\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143508",
+        "post_id": 143508,
+        "message_id": 8497,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-11T17:47:47.000295+00:00"
       }
     ]
   }
