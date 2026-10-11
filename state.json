@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143468,
+      "last_id": 143474,
       "processed_ids": [
-        142369,
-        142370,
         142371,
         142372,
         142373,
@@ -1002,16 +1000,15 @@
         143465,
         143466,
         143467,
-        143468
+        143468,
+        143473,
+        143474
       ],
-      "sent_count": 858
+      "sent_count": 860
     },
     "total_fut": {
-      "last_id": 237693,
+      "last_id": 237697,
       "processed_ids": [
-        236643,
-        236644,
-        236645,
         236646,
         236647,
         236648,
@@ -2008,14 +2005,16 @@
         237690,
         237691,
         237692,
-        237693
+        237693,
+        237694,
+        237695,
+        237697
       ],
       "sent_count": 118
     },
     "footballvision2": {
-      "last_id": 170992,
+      "last_id": 170993,
       "processed_ids": [
-        169888,
         169889,
         169891,
         169892,
@@ -3014,7 +3013,8 @@
         170989,
         170990,
         170991,
-        170992
+        170992,
+        170993
       ],
       "sent_count": 123
     },
@@ -3034,7 +3034,7 @@
       "sent_count": 5
     },
     "it_pishkhan": {
-      "last_id": 9567,
+      "last_id": 9568,
       "processed_ids": [
         9555,
         9556,
@@ -3048,12 +3048,13 @@
         9564,
         9565,
         9566,
-        9567
+        9567,
+        9568
       ],
       "sent_count": 5
     },
     "fars_today": {
-      "last_id": 132188,
+      "last_id": 132189,
       "processed_ids": [
         131975,
         131976,
@@ -3263,7 +3264,8 @@
         132185,
         132186,
         132187,
-        132188
+        132188,
+        132189
       ],
       "sent_count": 117
     },
@@ -4384,7 +4386,7 @@
       "sent_count": 0
     },
     "amozesh_cafenet": {
-      "last_id": 3156,
+      "last_id": 3157,
       "processed_ids": [
         3087,
         3088,
@@ -4443,7 +4445,8 @@
         3153,
         3154,
         3155,
-        3156
+        3156,
+        3157
       ],
       "sent_count": 32
     },
@@ -4636,7 +4639,7 @@
       "sent_count": 91
     },
     "coffeenetmanager": {
-      "last_id": 51804,
+      "last_id": 51805,
       "processed_ids": [
         51537,
         51538,
@@ -4884,7 +4887,8 @@
         51801,
         51802,
         51803,
-        51804
+        51804,
+        51805
       ],
       "sent_count": 86
     },
@@ -9185,10 +9189,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109694,
+      "last_id": 109696,
       "processed_ids": [
-        108616,
-        108617,
         108618,
         108619,
         108620,
@@ -10186,15 +10188,15 @@
         109691,
         109692,
         109693,
-        109694
+        109694,
+        109695,
+        109696
       ],
       "sent_count": 132
     },
     "varzesh3": {
-      "last_id": 303828,
+      "last_id": 303830,
       "processed_ids": [
-        302731,
-        302732,
         302733,
         302734,
         302735,
@@ -11192,7 +11194,9 @@
         303825,
         303826,
         303827,
-        303828
+        303828,
+        303829,
+        303830
       ],
       "sent_count": 87
     },
@@ -11978,10 +11982,8 @@
       "sent_count": 54
     },
     "adak_ir_official": {
-      "last_id": 235168,
+      "last_id": 235170,
       "processed_ids": [
-        234141,
-        234142,
         234143,
         234144,
         234145,
@@ -12979,17 +12981,15 @@
         235165,
         235166,
         235167,
-        235168
+        235168,
+        235169,
+        235170
       ],
-      "sent_count": 180
+      "sent_count": 182
     },
     "futball180tv": {
-      "last_id": 108333,
+      "last_id": 108337,
       "processed_ids": [
-        107313,
-        107314,
-        107315,
-        107316,
         107317,
         107318,
         107319,
@@ -13985,15 +13985,17 @@
         108330,
         108331,
         108332,
-        108333
+        108333,
+        108334,
+        108335,
+        108336,
+        108337
       ],
       "sent_count": 86
     },
     "hattric_official": {
-      "last_id": 84680,
+      "last_id": 84682,
       "processed_ids": [
-        83628,
-        83629,
         83630,
         83631,
         83632,
@@ -14991,9 +14993,11 @@
         84676,
         84677,
         84678,
-        84680
+        84680,
+        84681,
+        84682
       ],
-      "sent_count": 118
+      "sent_count": 119
     },
     "mazdak_hattrick": {
       "last_id": 182507,
@@ -15647,7 +15651,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58582,
+      "last_id": 58584,
       "processed_ids": [
         58030,
         58031,
@@ -16150,7 +16154,8 @@
         58579,
         58580,
         58581,
-        58582
+        58582,
+        58584
       ],
       "sent_count": 315
     },
@@ -17724,7 +17729,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306927,
+      "last_id": 306928,
       "processed_ids": [
         306563,
         306564,
@@ -18084,9 +18089,10 @@
         306923,
         306924,
         306925,
-        306927
+        306927,
+        306928
       ],
-      "sent_count": 155
+      "sent_count": 156
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -18294,7 +18300,7 @@
       "sent_count": 58
     },
     "yejoorayi": {
-      "last_id": 538,
+      "last_id": 543,
       "processed_ids": [
         426,
         427,
@@ -18406,9 +18412,10 @@
         535,
         536,
         537,
-        538
+        538,
+        543
       ],
-      "sent_count": 100
+      "sent_count": 101
     },
     "onlinecofe_ir": {
       "last_id": 2887,
@@ -18524,7 +18531,7 @@
       "sent_count": 39
     },
     "shakhmovie": {
-      "last_id": 4124,
+      "last_id": 4125,
       "processed_ids": [
         4017,
         4018,
@@ -18589,12 +18596,13 @@
         4120,
         4121,
         4123,
-        4124
+        4124,
+        4125
       ],
-      "sent_count": 56
+      "sent_count": 57
     },
     "peach_tweet": {
-      "last_id": 3233,
+      "last_id": 3237,
       "processed_ids": [
         2745,
         2749,
@@ -18840,12 +18848,15 @@
         3230,
         3231,
         3232,
-        3233
+        3233,
+        3235,
+        3236,
+        3237
       ],
-      "sent_count": 149
+      "sent_count": 150
     },
     "funy_khand": {
-      "last_id": 25769,
+      "last_id": 25771,
       "processed_ids": [
         25704,
         25705,
@@ -18912,12 +18923,14 @@
         25766,
         25767,
         25768,
-        25769
+        25769,
+        25770,
+        25771
       ],
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6198,
+      "last_id": 6200,
       "processed_ids": [
         6113,
         6114,
@@ -18998,152 +19011,15 @@
         6195,
         6196,
         6197,
-        6198
+        6198,
+        6199,
+        6200
       ],
       "sent_count": 3
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "4439d3e79f1b86dc0b6c302af5308c4ed2274f2c228e7c544d922d0ea19cb78f",
-        "media_fingerprint": "96e1564d665c2fde8677e42c898e66cfcc69a0329584823b8dfb45e031753888",
-        "text": "🔴\nولی اونایی که دیدن میدونن این کلیپ یکی از عجیب‌ترین و دارک‌ترین پدیده‌های مملکت بود. یارو حین کون دادن داشت نصیحت میکرد درس زندگی میداد و لا‌به‌لاش هم شاخ‌وشونه میکشید‌.\n+ احیانا اگه فیلمشو ندیدید به هیچ‌وجه از دستش ندید پاره میشید از خنده\n😂\n😂\n😂\n📥\nمشاهده کامل فیلم\n@TopTel",
-        "original_username": "peach_tweet",
-        "original_text": "🔴\nولی اونایی که دیدن میدونن این کلیپ یکی از عجیب‌ترین و دارک‌ترین پدیده‌های مملکت بود. یارو حین کون دادن داشت نصیحت میکرد درس زندگی میداد و لا‌به‌لاش هم شاخ‌وشونه میکشید‌.\n+ احیانا اگه فیلمشو ندیدید به هیچ‌وجه از دستش ندید پاره میشید از خنده\n😂\n😂\n😂\n📥\nمشاهده کامل فیلم\n@TopTel",
-        "original_link": "https://t.me/peach_tweet/2949",
-        "post_id": 2949,
-        "message_id": 7294,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-08T11:49:53.286678+00:00"
-      },
-      {
-        "fingerprint": "b8dec665e71a5f11e6be3e8c11b01dc61e5a2936c4d4d0881aba624d7aeddda8",
-        "media_fingerprint": "78ec94cf9669d1e77e238203c5985d22d10700bfbad6ad44ad7279daae430362",
-        "text": "نمایی بی نظیر از شهر نوشهر، ابرهای درحال بارش بر روی دریا از نمای دوردست\n🥲\n🥹\n❤️\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "نمایی بی نظیر از شهر نوشهر، ابرهای درحال بارش بر روی دریا از نمای دوردست\n🥲\n🥹\n❤️\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162959",
-        "post_id": 162959,
-        "message_id": 7295,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel",
-          "jaleb",
-          "ajayebe_jahann",
-          "irwonders"
-        ],
-        "created_at": "2026-10-08T11:49:57.494557+00:00"
-      },
-      {
-        "fingerprint": "bc52886ebeb6c84a81ed8a2decb1e296b531ca66ae0b767aa0b595396e0227d0",
-        "media_fingerprint": "5754c963fcbd6a9c42de0711ad38b9b6f480ac20d81461872a24a762fbc56eae",
-        "text": "کوچه پس کوچه های تهران :\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "کوچه پس کوچه های تهران :\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162960",
-        "post_id": 162960,
-        "message_id": 7296,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel",
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-08T11:50:04.096777+00:00"
-      },
-      {
-        "fingerprint": "07ff15ce64a1bbe1438178b750f486a1aad41a124f8a06a7f4b3a02d7bcd494c",
-        "media_fingerprint": "485064522626ee505ecd00d8ef12a668caabde3f7a4818b0bd495c4019c5910d",
-        "text": "دیدین باز زود قضاوت کردین ؟\nاین مرد برق صندلی تیمش قطع شده بود که باخت\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "دیدین باز زود قضاوت کردین ؟\nاین مرد برق صندلی تیمش قطع شده بود که باخت\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162962",
-        "post_id": 162962,
-        "message_id": 7297,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-08T11:50:17.142608+00:00"
-      },
-      {
-        "fingerprint": "5d858e2a66b3b27b98665c802552665e6c6495e919eebb94a9d371432e88249c",
-        "media_fingerprint": "f8d97662364e0f70988ddf29359aa49d51e3f167a90527ae202d357582821f13",
-        "text": "قبول نیس ما منتظر زامبی بودیم قرار بود اون مرحله آخر باشه\n🤨\n🫤\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "قبول نیس ما منتظر زامبی بودیم قرار بود اون مرحله آخر باشه\n🤨\n🫤\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162963",
-        "post_id": 162963,
-        "message_id": 7298,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-08T11:50:22.177705+00:00"
-      },
-      {
-        "fingerprint": "e2e6e7ea3a305083e6770d6595d4903b3221fb0035533880377123bbc36a42ae",
-        "media_fingerprint": "e8a8dac1c1ed06971d9097c51af17f8e22c9ca5273bdcbad0b2fc32388d7e087",
-        "text": "رضا گلزار هم به جمع سی‌سی‌ها پیوست\nمنم مثل تو زن ذلیلم امیرحسین\n😂\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "رضا گلزار هم به جمع سی‌سی‌ها پیوست\nمنم مثل تو زن ذلیلم امیرحسین\n😂\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/2950",
-        "post_id": 2950,
-        "message_id": 7299,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-08T11:50:28.513559+00:00"
-      },
-      {
-        "fingerprint": "aebb3446f8803ec85d0c007c0f38c33a54782b879d4e21a21f604fc61169a382",
-        "media_fingerprint": "18adbf4bb6349dc93e91a503c6ce42388e6e0e90af01b9006cc8ffa32f87a91e",
-        "text": "عقل کی میرسید خدایی\n😄\nاین واسه کنکورشم یه برنامه همینطوری اجرا میکنه\n😁\nشغل آینده‌شو از الان میشه حدس زد\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "عقل کی میرسید خدایی\n😄\nاین واسه کنکورشم یه برنامه همینطوری اجرا میکنه\n😁\nشغل آینده‌شو از الان میشه حدس زد\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162964",
-        "post_id": 162964,
-        "message_id": 7300,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-08T11:50:34.534427+00:00"
-      },
-      {
-        "fingerprint": "7456e397055c3ea9927d878807fc3472eae4d1ed7991ddada93648ae6cf498f4",
-        "media_fingerprint": "f2d586dd825eee903a7ff3e13c2d5e60a7f79c63af2bcb42515286e40c6b6525",
-        "text": "🏅\nمهدی تارتار، سرمربی پرسپولیس: فردا بازی داریم که دوست نداشتیم با این شرایط روبروی هم قرار بگیریم. اعضای کادرفنی نفت آبادان سالیان سال بازیکنان من بوده اند و از همکاران و شاگردان خوب من بوده اند. الان هم که مربی شده اند می توانند کار من را سخت کنند\n⏺\nما محکوم به بردن هستیم و آنها برای فرار از منطقه پایین جدول می خواهند ما را متوقف کنند\n⏺\nبه محمد نوری اطمینان شود می توانند نفت را از این وضعیت نجات دهند\n⏺\nنفت آبادان بازیکنان خوبی دارد و این تیم دیر شکل گرفته است. این تعطیلات به تیمی مثل نفت کمک کرد تا انسجام بهتری پیدا کنند. آنها قطعا انگیزه بالایی مقابل پرسپولیس دارند و قطعا ما بازی آسانی نداریم\n⏺\nخیلی تیم خود را در اختیار نداشتیم و بازیکنان خارجی هم نداشتیم. در یک هفته اخیر کامل شدیم و یک بازی دوستانه خوب هم انجام دادیم. فردا هر طور شده باید برنده باشیم.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_username": "total_fut",
-        "original_text": "🏅\nمهدی تارتار، سرمربی پرسپولیس: فردا بازی داریم که دوست نداشتیم با این شرایط روبروی هم قرار بگیریم. اعضای کادرفنی نفت آبادان سالیان سال بازیکنان من بوده اند و از همکاران و شاگردان خوب من بوده اند. الان هم که مربی شده اند می توانند کار من را سخت کنند\n⏺\nما محکوم به بردن هستیم و آنها برای فرار از منطقه پایین جدول می خواهند ما را متوقف کنند\n⏺\nبه محمد نوری اطمینان شود می توانند نفت را از این وضعیت نجات دهند\n⏺\nنفت آبادان بازیکنان خوبی دارد و این تیم دیر شکل گرفته است. این تعطیلات به تیمی مثل نفت کمک کرد تا انسجام بهتری پیدا کنند. آنها قطعا انگیزه بالایی مقابل پرسپولیس دارند و قطعا ما بازی آسانی نداریم\n⏺\nخیلی تیم خود را در اختیار نداشتیم و بازیکنان خارجی هم نداشتیم. در یک هفته اخیر کامل شدیم و یک بازی دوستانه خوب هم انجام دادیم. فردا هر طور شده باید برنده باشیم.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_link": "https://t.me/total_fut/237421",
-        "post_id": 237421,
-        "message_id": 7301,
-        "message_kind": "caption",
-        "sources": [
-          "total_fut"
-        ],
-        "created_at": "2026-10-08T11:50:41.967391+00:00"
-      },
-      {
-        "fingerprint": "0afad093f6baed1e48bc1808da4301d8e20a4284d2749529d024fdd015c05c0d",
-        "media_fingerprint": "fb4ce38d670ab70f00aefd517dc39fad9455fdaee4b3828f95156aa694f19fd5",
-        "text": "♦️\nهمایون شجریان پس از نزدیک به چهار سال دوری از صحنه کنسرت‌ها در کشور، در شیراز به روي صحنه رفت\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nهمایون شجریان پس از نزدیک به چهار سال دوری از صحنه کنسرت‌ها در کشور، در شیراز به روي صحنه رفت\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143289",
-        "post_id": 143289,
-        "message_id": 7302,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-08T11:50:47.822103+00:00"
-      },
       {
         "fingerprint": "95de4465cf2a2ca95933c9312826f4296fa9894210bdcdd55e3af965c10ee5bb",
         "media_fingerprint": "",
@@ -34095,6 +33971,141 @@
           "comentiat"
         ],
         "created_at": "2026-10-11T09:20:04.338041+00:00"
+      },
+      {
+        "fingerprint": "61266820ad0e98b72f38d9b7bf1e13931d5c81cb4723a7cc3676ddd9769b1f87",
+        "media_fingerprint": "",
+        "text": "♦️\nشرایط جدید انتخاب مسئول ایمنی در کارگاه‌های فارس اعلام شد\n🔹️\n۲۵ کارگر و بیشتر: مدرک کارشناسی یا بالاتر در رشته‌های ایمنی صنعتی، بهداشت حرفه‌ای، HSE و رشته‌های مرتبط الزامی است.\n🔹️\n۱۱ تا ۲۵ کارگر: علاوه بر شرایط فوق، حداقل مدرک کاردانی فنی و بیش از یک سال سابقه کار مستند لازم است.\n🔹️\n۱ تا ۱۰ کارگر: حداقل مدرک دیپلم (ترجیحاً فنی) به همراه سوابق تجربی مرتبط کافی است.\n🔹️\nکارگاه‌های دارای مسئول ایمنی قبلی: حداکثر یک سال فرصت دارند تا با الزامات جدید تطبیق پیدا کنند.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nشرایط جدید انتخاب مسئول ایمنی در کارگاه‌های فارس اعلام شد\n🔹️\n۲۵ کارگر و بیشتر: مدرک کارشناسی یا بالاتر در رشته‌های ایمنی صنعتی، بهداشت حرفه‌ای، HSE و رشته‌های مرتبط الزامی است.\n🔹️\n۱۱ تا ۲۵ کارگر: علاوه بر شرایط فوق، حداقل مدرک کاردانی فنی و بیش از یک سال سابقه کار مستند لازم است.\n🔹️\n۱ تا ۱۰ کارگر: حداقل مدرک دیپلم (ترجیحاً فنی) به همراه سوابق تجربی مرتبط کافی است.\n🔹️\nکارگاه‌های دارای مسئول ایمنی قبلی: حداکثر یک سال فرصت دارند تا با الزامات جدید تطبیق پیدا کنند.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143473",
+        "post_id": 143473,
+        "message_id": 8346,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-11T09:48:48.093795+00:00"
+      },
+      {
+        "fingerprint": "f05ec7634dfa92fdd7c599c4a813832f3b3e45196d52ce3ee919b1d7b938c8c1",
+        "media_fingerprint": "d919a56909337c345419557ed0f42293d65d1764b6a8d62a66d60864a0e095df",
+        "text": "هیچ وقت امیدتونو از دست ندین\n💝\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "هیچ وقت امیدتونو از دست ندین\n💝\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306928",
+        "post_id": 306928,
+        "message_id": 8347,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-11T09:48:54.428633+00:00"
+      },
+      {
+        "fingerprint": "d4e1b833a82134ce0d324cf6705bca8f64ea67ed9ef8b9fd9c83f4df841934e4",
+        "media_fingerprint": "",
+        "text": "🚨\n🔴\nرسانه‌های ازبکستانی درخشش اورونوف و سرگیف در بازی پرسپولیس برابر نفت آبادان را پوشش دادند.\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🚨\n🔴\nرسانه‌های ازبکستانی درخشش اورونوف و سرگیف در بازی پرسپولیس برابر نفت آبادان را پوشش دادند.\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/235169",
+        "post_id": 235169,
+        "message_id": 8348,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-11T09:48:57.151185+00:00"
+      },
+      {
+        "fingerprint": "47ccaaaafba5360b5270c6d5517b7c351c8cc57f9b1dbf31ab2a386c20cd6b40",
+        "media_fingerprint": "321edfe50b4dd4671dc0e3ec984598a038d9e0a03cb7a488b2d1c63324804636",
+        "text": "⚽\nمجمع باشگاه پرسپولیس با دستور جلسه انتخاب اعضای هیئت‌مدیره برگزار خواهد شد.\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "⚽\nمجمع باشگاه پرسپولیس با دستور جلسه انتخاب اعضای هیئت‌مدیره برگزار خواهد شد.\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/84682",
+        "post_id": 84682,
+        "message_id": 8349,
+        "message_kind": "caption",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-11T09:49:02.763892+00:00"
+      },
+      {
+        "fingerprint": "46fe6f8e492b9184fc0672a7adab1580c75dad1aef9a07ca5f4bde90dcb2669d",
+        "media_fingerprint": "",
+        "text": "🟥\n🔴\nگل‌های پرسپولیس در بازی تدارکاتی دیروز\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🟥\n🔴\nگل‌های پرسپولیس در بازی تدارکاتی دیروز\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/235170",
+        "post_id": 235170,
+        "message_id": 8350,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-11T09:49:05.272491+00:00"
+      },
+      {
+        "fingerprint": "4b8e48c5268f50e269b130903d8c75e35068b2ff3790ce5b0a1d6e2ab379975d",
+        "media_fingerprint": "",
+        "text": "11 اکتبر روز جهانی دختره ، روزتون مبارک\n🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "11 اکتبر روز جهانی دختره ، روزتون مبارک\n🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/543",
+        "post_id": 543,
+        "message_id": 8351,
+        "message_kind": "text",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-11T09:49:07.787157+00:00"
+      },
+      {
+        "fingerprint": "4a6bf2dbde1058eca2743fac941d4e210637ba7600ad286295365c1a6cfc7000",
+        "media_fingerprint": "",
+        "text": "«خلوت کنید آقای خمسه‌س»\n+ ماجرای علیرضا خمسه و بادیگاردهایش، از زبون خودش:\n📷\n|\n@ShakhMovie",
+        "original_username": "shakhmovie",
+        "original_text": "«خلوت کنید آقای خمسه‌س»\n+ ماجرای علیرضا خمسه و بادیگاردهایش، از زبون خودش:\n📷\n|\n@ShakhMovie",
+        "original_link": "https://t.me/Shakhmovie/4125",
+        "post_id": 4125,
+        "message_id": 8352,
+        "message_kind": "text",
+        "sources": [
+          "shakhmovie"
+        ],
+        "created_at": "2026-10-11T09:49:10.414404+00:00"
+      },
+      {
+        "fingerprint": "dbc56a2f0b3cd8d3562537b2a2799b883b20e19e416000c9e885df296105d0cf",
+        "media_fingerprint": "ff962932b15b16f4c88e4c52bfc1f05e8ed61f3b8225adff2ba38cfe097a19be",
+        "text": "خاله نسیم الماسی از خوبای وطنی که بیزینسش فقط شیخای عرب هست واقعا رو دست این ندیدم\n😈\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "خاله نسیم الماسی از خوبای وطنی که بیزینسش فقط شیخای عرب هست واقعا رو دست این ندیدم\n😈\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/3237",
+        "post_id": 3237,
+        "message_id": 8353,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-11T09:49:16.791803+00:00"
+      },
+      {
+        "fingerprint": "8aa245c05ad7cbbc223bed1a48aac71da0fea08529bae1200052d2bb1a2ba589",
+        "media_fingerprint": "",
+        "text": "♦️\nپیش‌بینی بارش‌های پراکنده در برخی مناطق فارس/هشدار زرد هواشناسی صادر شد\nحسینی، مدیرکل هواشناسی فارس:\n🔹️\nاز روز دوشنبه ۲۰ مهر، احتمال بروز ناپایداری‌های خفیف در برخی مناطق شمال شرقی فارس وجود دارد.\n🔹️\nدر روز‌های سه‌شنبه و چهارشنبه، ۲۱ و ۲۲ مهر، بخش‌هایی از نیمه شمالی و مناطق مرکزی استان در ساعات بعدازظهر شاهد بارش‌های پراکنده خواهند بود.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nپیش‌بینی بارش‌های پراکنده در برخی مناطق فارس/هشدار زرد هواشناسی صادر شد\nحسینی، مدیرکل هواشناسی فارس:\n🔹️\nاز روز دوشنبه ۲۰ مهر، احتمال بروز ناپایداری‌های خفیف در برخی مناطق شمال شرقی فارس وجود دارد.\n🔹️\nدر روز‌های سه‌شنبه و چهارشنبه، ۲۱ و ۲۲ مهر، بخش‌هایی از نیمه شمالی و مناطق مرکزی استان در ساعات بعدازظهر شاهد بارش‌های پراکنده خواهند بود.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143474",
+        "post_id": 143474,
+        "message_id": 8354,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-11T09:49:19.822365+00:00"
       }
     ]
   }
