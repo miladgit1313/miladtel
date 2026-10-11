@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143504,
+      "last_id": 143506,
       "processed_ids": [
-        142404,
-        142405,
         142406,
         142407,
         142408,
@@ -1002,14 +1000,15 @@
         143501,
         143502,
         143503,
-        143504
+        143504,
+        143505,
+        143506
       ],
-      "sent_count": 872
+      "sent_count": 874
     },
     "total_fut": {
-      "last_id": 237724,
+      "last_id": 237725,
       "processed_ids": [
-        236673,
         236674,
         236675,
         236676,
@@ -2008,16 +2007,14 @@
         237721,
         237722,
         237723,
-        237724
+        237724,
+        237725
       ],
       "sent_count": 122
     },
     "footballvision2": {
-      "last_id": 171016,
+      "last_id": 171019,
       "processed_ids": [
-        169912,
-        169913,
-        169914,
         169915,
         169916,
         169917,
@@ -3014,7 +3011,10 @@
         171013,
         171014,
         171015,
-        171016
+        171016,
+        171017,
+        171018,
+        171019
       ],
       "sent_count": 128
     },
@@ -3056,7 +3056,7 @@
       "sent_count": 5
     },
     "fars_today": {
-      "last_id": 132192,
+      "last_id": 132193,
       "processed_ids": [
         131975,
         131976,
@@ -3270,9 +3270,10 @@
         132189,
         132190,
         132191,
-        132192
+        132192,
+        132193
       ],
-      "sent_count": 117
+      "sent_count": 118
     },
     "behzistikomitenews": {
       "last_id": 13966,
@@ -3308,7 +3309,7 @@
       "sent_count": 8
     },
     "drtel": {
-      "last_id": 67582,
+      "last_id": 67590,
       "processed_ids": [
         66561,
         66565,
@@ -4118,7 +4119,10 @@
         67577,
         67580,
         67581,
-        67582
+        67582,
+        67588,
+        67589,
+        67590
       ],
       "sent_count": 454
     },
@@ -4408,7 +4412,7 @@
       "sent_count": 0
     },
     "amozesh_cafenet": {
-      "last_id": 3159,
+      "last_id": 3160,
       "processed_ids": [
         3087,
         3088,
@@ -4470,9 +4474,10 @@
         3156,
         3157,
         3158,
-        3159
+        3159,
+        3160
       ],
-      "sent_count": 33
+      "sent_count": 34
     },
     "sabtnamkh0dro": {
       "last_id": 14392,
@@ -4670,7 +4675,7 @@
       "sent_count": 94
     },
     "coffeenetmanager": {
-      "last_id": 51815,
+      "last_id": 51817,
       "processed_ids": [
         51537,
         51538,
@@ -4929,7 +4934,9 @@
         51812,
         51813,
         51814,
-        51815
+        51815,
+        51816,
+        51817
       ],
       "sent_count": 89
     },
@@ -6402,7 +6409,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38698,
+      "last_id": 38699,
       "processed_ids": [
         38432,
         38433,
@@ -6667,9 +6674,10 @@
         38695,
         38696,
         38697,
-        38698
+        38698,
+        38699
       ],
-      "sent_count": 157
+      "sent_count": 158
     },
     "gizmiztel": {
       "last_id": 163102,
@@ -7678,7 +7686,7 @@
       "sent_count": 747
     },
     "dr_salamatx": {
-      "last_id": 55382,
+      "last_id": 55383,
       "processed_ids": [
         55270,
         55271,
@@ -7792,7 +7800,8 @@
         55379,
         55380,
         55381,
-        55382
+        55382,
+        55383
       ],
       "sent_count": 72
     },
@@ -9280,14 +9289,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109731,
+      "last_id": 109737,
       "processed_ids": [
-        108654,
-        108655,
-        108656,
-        108657,
-        108658,
-        108659,
         108660,
         108661,
         108662,
@@ -10281,20 +10284,19 @@
         109728,
         109729,
         109730,
-        109731
+        109731,
+        109732,
+        109733,
+        109734,
+        109735,
+        109736,
+        109737
       ],
       "sent_count": 136
     },
     "varzesh3": {
-      "last_id": 303857,
+      "last_id": 303864,
       "processed_ids": [
-        302758,
-        302759,
-        302760,
-        302761,
-        302762,
-        302763,
-        302764,
         302765,
         302766,
         302767,
@@ -11287,7 +11289,14 @@
         303854,
         303855,
         303856,
-        303857
+        303857,
+        303858,
+        303859,
+        303860,
+        303861,
+        303862,
+        303863,
+        303864
       ],
       "sent_count": 88
     },
@@ -13091,11 +13100,8 @@
       "sent_count": 186
     },
     "futball180tv": {
-      "last_id": 108357,
+      "last_id": 108360,
       "processed_ids": [
-        107336,
-        107337,
-        107338,
         107339,
         107340,
         107341,
@@ -14092,16 +14098,16 @@
         108354,
         108355,
         108356,
-        108357
+        108357,
+        108358,
+        108359,
+        108360
       ],
       "sent_count": 86
     },
     "hattric_official": {
-      "last_id": 84705,
+      "last_id": 84708,
       "processed_ids": [
-        83652,
-        83653,
-        83654,
         83655,
         83656,
         83657,
@@ -15098,12 +15104,15 @@
         84702,
         84703,
         84704,
-        84705
+        84705,
+        84706,
+        84707,
+        84708
       ],
       "sent_count": 123
     },
     "mazdak_hattrick": {
-      "last_id": 182520,
+      "last_id": 182521,
       "processed_ids": [
         181991,
         181992,
@@ -15622,9 +15631,10 @@
         182517,
         182518,
         182519,
-        182520
+        182520,
+        182521
       ],
-      "sent_count": 47
+      "sent_count": 48
     },
     "djharmony": {
       "last_id": 0,
@@ -15767,7 +15777,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58603,
+      "last_id": 58604,
       "processed_ids": [
         58030,
         58031,
@@ -16290,9 +16300,10 @@
         58600,
         58601,
         58602,
-        58603
+        58603,
+        58604
       ],
-      "sent_count": 327
+      "sent_count": 328
     },
     "razcom": {
       "last_id": 70491,
@@ -18769,7 +18780,7 @@
       "sent_count": 61
     },
     "peach_tweet": {
-      "last_id": 3245,
+      "last_id": 3246,
       "processed_ids": [
         2745,
         2749,
@@ -19026,9 +19037,10 @@
         3242,
         3243,
         3244,
-        3245
+        3245,
+        3246
       ],
-      "sent_count": 155
+      "sent_count": 156
     },
     "funy_khand": {
       "last_id": 25784,
@@ -19118,7 +19130,7 @@
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6225,
+      "last_id": 6227,
       "processed_ids": [
         6113,
         6114,
@@ -19223,134 +19235,14 @@
         6222,
         6223,
         6224,
-        6225
+        6225,
+        6227
       ],
       "sent_count": 4
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "38101759f14813deed386eed82bd0ff83e73011f61e5dd35a1c9071e3263b6fc",
-        "media_fingerprint": "a7e7534f5cd6661cc7889f6466494f83c3ed996709078ec68bfafb7123bf16c7",
-        "text": "⚽\nجدول لیگ برتر فوتبال ایران پس از پایان بازی‌های روز اول هفته هشتم\n⚪️\n⚽️\n@Hattric_Official",
-        "original_username": "hattric_official",
-        "original_text": "⚽\nجدول لیگ برتر فوتبال ایران پس از پایان بازی‌های روز اول هفته هشتم\n⚪️\n⚽️\n@Hattric_Official",
-        "original_link": "https://t.me/Hattric_Official/84494",
-        "post_id": 84494,
-        "message_id": 7421,
-        "message_kind": "caption",
-        "sources": [
-          "hattric_official"
-        ],
-        "created_at": "2026-10-08T17:50:17.400154+00:00"
-      },
-      {
-        "fingerprint": "0e70b20d39e4177e382096fcc12e2ac80bf799e577da352504a85657b5a6fdae",
-        "media_fingerprint": "8da11d4e7e9c8b2d9271e1ecbadbfc045b2d039e44b00766e3404f779d05603b",
-        "text": "از فرهادی تا هومن سیدی؛ سحر دولتشاهی در مسیر تجربه\n✨\n🎂\nبه بهانه تولد سحر دولتشاهی، مروری کردیم بر چند نقش ماندگار او\n🎬\nاز «چهارشنبه‌سوری» تا «قورباغه»؛ سحر دولتشاهی در این سال‌ها بارها با نقش‌هایی متفاوت و چالش‌برانگیز دیده شده است.\n⁉️\nشما کدام نقش سحر دولتشاهی را بیشتر دوست دارید؟\n[ کلیک کنید و نظرتونو زیر این پست کامنت کنید ]\n@cinematicketorg",
-        "original_username": "cinematicketorg",
-        "original_text": "از فرهادی تا هومن سیدی؛ سحر دولتشاهی در مسیر تجربه\n✨\n🎂\nبه بهانه تولد سحر دولتشاهی، مروری کردیم بر چند نقش ماندگار او\n🎬\nاز «چهارشنبه‌سوری» تا «قورباغه»؛ سحر دولتشاهی در این سال‌ها بارها با نقش‌هایی متفاوت و چالش‌برانگیز دیده شده است.\n⁉️\nشما کدام نقش سحر دولتشاهی را بیشتر دوست دارید؟\n[ کلیک کنید و نظرتونو زیر این پست کامنت کنید ]\n@cinematicketorg",
-        "original_link": "https://t.me/cinematicketorg/24394",
-        "post_id": 24394,
-        "message_id": 7422,
-        "message_kind": "caption",
-        "sources": [
-          "cinematicketorg"
-        ],
-        "created_at": "2026-10-08T17:50:23.279509+00:00"
-      },
-      {
-        "fingerprint": "a3b1aea21a2020d718c00f1dee8209d26c4b6f335f3373e32f52378b1911248e",
-        "media_fingerprint": "244eace2b18e8dec77203a87d75bb6ce30006a2c5bc54e2bc857a9e44d9b4c1d",
-        "text": "پیروز، بی‌علاقه به مزیت بازی خانگی!\n🤝\nبالانشینی که از میزبانی فراری است!/ توقف آلومینیوم مقابل ملوان، چهارمین تساوی پیاپی ایرالکو در خانه\n🔸\nلیگ برتر ایران - هفته ۸\n🔸\nچهارمین سفر بدون باخت ملوان به اراک، گلزنی شهریاری برای دومین‌ بازی پیاپی؛ مازیار آماده…",
-        "original_username": "ft360_ir",
-        "original_text": "پیروز، بی‌علاقه به مزیت بازی خانگی!\n🤝\nبالانشینی که از میزبانی فراری است!/ توقف آلومینیوم مقابل ملوان، چهارمین تساوی پیاپی ایرالکو در خانه\n🔸\nلیگ برتر ایران - هفته ۸\n🔸\nچهارمین سفر بدون باخت ملوان به اراک، گلزنی شهریاری برای دومین‌ بازی پیاپی؛ مازیار آماده…",
-        "original_link": "https://t.me/ft360_ir/109395",
-        "post_id": 109395,
-        "message_id": 7423,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-08T18:23:16.850976+00:00"
-      },
-      {
-        "fingerprint": "c250b797cc5e9057051c0f58226df249899cd3a93e0aaca9459de72ab5fde330",
-        "media_fingerprint": "132f5a2a3ee8dddde60ff30c03c31a877b80b5ac3d21113ce1367b5c4a5aeccd",
-        "text": "اولین آیفون تصویری ایران در زمان قاجار\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "اولین آیفون تصویری ایران در زمان قاجار\n@irWonders",
-        "original_link": "https://t.me/irwonders/58486",
-        "post_id": 58486,
-        "message_id": 7424,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders",
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-08T18:23:24.446433+00:00"
-      },
-      {
-        "fingerprint": "c0ddb91c15f82ccd349036fc6844bdbcad35a01740b7a459cc3a34c7659c04fe",
-        "media_fingerprint": "",
-        "text": "برای موفقیت این دو اصل رو رعایت کن\nپای رفیق و فامیل رو به محل کارت باز نکن\nپای همکارت رو به زندگی شخصیت باز نکن\n👌\n👌\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "برای موفقیت این دو اصل رو رعایت کن\nپای رفیق و فامیل رو به محل کارت باز نکن\nپای همکارت رو به زندگی شخصیت باز نکن\n👌\n👌\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/306865",
-        "post_id": 306865,
-        "message_id": 7425,
-        "message_kind": "text",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-08T18:23:27.468560+00:00"
-      },
-      {
-        "fingerprint": "7cb8d0f2ea65b023070f63ff8b96dd83594cf4a078ad93f1c8c848a9eab1ee42",
-        "media_fingerprint": "671bdf25864ccec31612b56d9c624400af8bc48d772344d01db5307603ec88af",
-        "text": "🤣\n🤣\n🤣\nchannel➣\n🐓\n@khooroosjangi",
-        "original_username": "khooroosjangi",
-        "original_text": "🤣\n🤣\n🤣\nchannel➣\n🐓\n@khooroosjangi",
-        "original_link": "https://t.me/khooroosjangi/85748",
-        "post_id": 85748,
-        "message_id": 7426,
-        "message_kind": "caption",
-        "sources": [
-          "khooroosjangi"
-        ],
-        "created_at": "2026-10-08T18:23:32.021858+00:00"
-      },
-      {
-        "fingerprint": "9e4c154d7be146e7bf92a4bed11f7377f59298b8241033237c88e6256dd18aa1",
-        "media_fingerprint": "76fa9b70cfbeba2d1f6d245593668d6933887271c33656ad4ad1cc1470614bd6",
-        "text": "🌵\nکاکتوس‌ها، گیاهانی با هوش بقا\nکاکتوس‌ها می‌توانند تا ۲ سال بدون آب زنده بمانند و در گرم‌ترین بیابان‌ها دوام بیاورند، چون آب را در ساقه‌های ضخیم خود ذخیره می‌کنند.\nجالب اینکه برخی گونه‌های کاکتوس مانند ساگوارو تا ۲۵۰ سال عمر می‌کنند و ارتفاعشان به ۲۰ متر هم می‌رسد.\nگل‌های کاکتوس فقط در شب باز می‌شوند و توسط خفاش‌ها و پروانه‌های شب گرده‌افشانی می‌شوند!\n‌‌‌‌‌‌‌‌‌‌‌\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "🌵\nکاکتوس‌ها، گیاهانی با هوش بقا\nکاکتوس‌ها می‌توانند تا ۲ سال بدون آب زنده بمانند و در گرم‌ترین بیابان‌ها دوام بیاورند، چون آب را در ساقه‌های ضخیم خود ذخیره می‌کنند.\nجالب اینکه برخی گونه‌های کاکتوس مانند ساگوارو تا ۲۵۰ سال عمر می‌کنند و ارتفاعشان به ۲۰ متر هم می‌رسد.\nگل‌های کاکتوس فقط در شب باز می‌شوند و توسط خفاش‌ها و پروانه‌های شب گرده‌افشانی می‌شوند!\n‌‌‌‌‌‌‌‌‌‌‌\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159637",
-        "post_id": 159637,
-        "message_id": 7427,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-08T18:23:37.389363+00:00"
-      },
-      {
-        "fingerprint": "ab3169771acae0e6aa79d25e6cbeece8b91ecfceaae459e5a14ee72a9d9925ab",
-        "media_fingerprint": "0fc22ee720e3c1fb26ea458b6dc20798bf488b61a5c6f12fc0af72a382cb1270",
-        "text": "🔴\nاگه این ویدیو رو دیدی و یاد خودت افتادی؛\nتبریک نمیگم، چون تو یه جوون ایرانی هستی که بعد از کلی بدو بدو، به هیچ کدوم از خواسته‌هات نرسیدی...\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nاگه این ویدیو رو دیدی و یاد خودت افتادی؛\nتبریک نمیگم، چون تو یه جوون ایرانی هستی که بعد از کلی بدو بدو، به هیچ کدوم از خواسته‌هات نرسیدی...\n@DrTeL",
-        "original_link": "https://t.me/drtel/67484",
-        "post_id": 67484,
-        "message_id": 7428,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-08T18:23:45.293719+00:00"
-      },
       {
         "fingerprint": "e38300988d09d035f8bb5fd54f7ff79c2307703d02546ef084d0a50c9793d99d",
         "media_fingerprint": "c76d60fae98cfb01a2e701de5ede9bc3c78f675aebe74d6c3cb11c23fedd6b40",
@@ -33952,7 +33844,8 @@
         "message_id": 8452,
         "message_kind": "caption",
         "sources": [
-          "ajayebe_jahann"
+          "ajayebe_jahann",
+          "dr_salamatx"
         ],
         "created_at": "2026-10-11T15:18:18.274251+00:00"
       },
@@ -34316,6 +34209,126 @@
           "shakhmovie"
         ],
         "created_at": "2026-10-11T16:49:06.373738+00:00"
+      },
+      {
+        "fingerprint": "d76e359e9e2be585e7a2d7f23aba6eff3394ef2ef46266c8a5a1a0b8bd731a59",
+        "media_fingerprint": "",
+        "text": "تمدید مهلت انتخاب رشته کنکور سراسری\nتا پايان روز دوشنبه  1405/07/20",
+        "original_username": "amozesh_cafenet",
+        "original_text": "تمدید مهلت انتخاب رشته کنکور سراسری\nتا پايان روز دوشنبه  1405/07/20",
+        "original_link": "https://t.me/amozesh_cafenet/3160",
+        "post_id": 3160,
+        "message_id": 8478,
+        "message_kind": "text",
+        "sources": [
+          "amozesh_cafenet"
+        ],
+        "created_at": "2026-10-11T17:18:12.001592+00:00"
+      },
+      {
+        "fingerprint": "16abd50d6ef66cbd3ea7683d44bb1e631a0a954582c2c831414609ab61c2df5c",
+        "media_fingerprint": "8bfda23989e48092b052e0edf8769aa8a24ee5cec982bfd943bbb0ebfa77595b",
+        "text": "این دردها نشونه کبد چربه!\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "این دردها نشونه کبد چربه!\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38699",
+        "post_id": 38699,
+        "message_id": 8479,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-11T17:18:16.716184+00:00"
+      },
+      {
+        "fingerprint": "7e6d2b86a3bd7e941cee123429cf7519fcc8136b3b268c451c6f6d80d7054513",
+        "media_fingerprint": "afa1900447db40321663d4a09ef18fe2b7768a2a93320e6982831b2c4eb3caee",
+        "text": "♦️\nتمامی درختان فلکه فدک در شهر صدرا ناپدید شده‌اند\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nتمامی درختان فلکه فدک در شهر صدرا ناپدید شده‌اند\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143505",
+        "post_id": 143505,
+        "message_id": 8480,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-11T17:18:25.633910+00:00"
+      },
+      {
+        "fingerprint": "89f05098470727e1477a6939cf72840a8493cd99fb10e61cee7d925d0c4f244f",
+        "media_fingerprint": "",
+        "text": "*مهلت انتخاب‌رشته کنکور تا ۲۰ مهر تمدید شد*\n🔹\nسازمان سنجش: مهلت ویرایش و انتخاب رشته برای آزمون سراسری، دانشجو‌معلم و پذیرش صرفاً بر اساس سوابق تحصیلی، تا پایان روز دوشنبه ۲۰ مهر تمدید شد.\n🔹\nاین مهلت به هیچ وجه تمدید نخواهد شد.",
+        "original_username": "fars_today",
+        "original_text": "*مهلت انتخاب‌رشته کنکور تا ۲۰ مهر تمدید شد*\n🔹\nسازمان سنجش: مهلت ویرایش و انتخاب رشته برای آزمون سراسری، دانشجو‌معلم و پذیرش صرفاً بر اساس سوابق تحصیلی، تا پایان روز دوشنبه ۲۰ مهر تمدید شد.\n🔹\nاین مهلت به هیچ وجه تمدید نخواهد شد.",
+        "original_link": "https://t.me/Fars_today/132193",
+        "post_id": 132193,
+        "message_id": 8481,
+        "message_kind": "text",
+        "sources": [
+          "fars_today"
+        ],
+        "created_at": "2026-10-11T17:18:28.882297+00:00"
+      },
+      {
+        "fingerprint": "e730223cff494317bf04971232dcb647b17755c4882f9d6f9282d0e5c47264bd",
+        "media_fingerprint": "197813da9e729c8ccb7091f13807ac2a62a32f179a5d3e6b2b76ef8e15e4206c",
+        "text": "از عجایب وکیل آباد_مشهد\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "از عجایب وکیل آباد_مشهد\n@irWonders",
+        "original_link": "https://t.me/irwonders/58604",
+        "post_id": 58604,
+        "message_id": 8482,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-11T17:18:37.041934+00:00"
+      },
+      {
+        "fingerprint": "ea977d4c72b46a18a717560d058bd94529e68b87dcf4237370f7cb7755bc070c",
+        "media_fingerprint": "",
+        "text": "تور کویر و طبیعت‌گردی کم بود\nتور دره‌نوردی هم اضافه شد\n🧐\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "تور کویر و طبیعت‌گردی کم بود\nتور دره‌نوردی هم اضافه شد\n🧐\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/3246",
+        "post_id": 3246,
+        "message_id": 8483,
+        "message_kind": "text",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-11T17:18:39.683650+00:00"
+      },
+      {
+        "fingerprint": "a3241e7ceb6c2049e43740fe882e22b92094b3b032a34a36dd62903b30c74f6a",
+        "media_fingerprint": "",
+        "text": "🔴\n🔻\nباشگاه پرسپولیس با انتشار ویدیویی مدعی شد: دو صحنه عجیب در بازی پرسپولیس و صنعت نفت که از چشم داور دور ماند.\n🆔\n@mazdak_hattrick",
+        "original_username": "mazdak_hattrick",
+        "original_text": "🔴\n🔻\nباشگاه پرسپولیس با انتشار ویدیویی مدعی شد: دو صحنه عجیب در بازی پرسپولیس و صنعت نفت که از چشم داور دور ماند.\n🆔\n@mazdak_hattrick",
+        "original_link": "https://t.me/mazdak_hattrick/182521",
+        "post_id": 182521,
+        "message_id": 8484,
+        "message_kind": "text",
+        "sources": [
+          "mazdak_hattrick"
+        ],
+        "created_at": "2026-10-11T17:18:42.573870+00:00"
+      },
+      {
+        "fingerprint": "6cfd74a9be4ff1f0b0aad5e112832e6b0e02769e8af05dfe2412c01cb9896db8",
+        "media_fingerprint": "",
+        "text": "♦️\nمهلت انتخاب رشته کنکور ۱۴۰۵ تا پایان روز دوشنبه ۲۰ مهر تمدید شد\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nمهلت انتخاب رشته کنکور ۱۴۰۵ تا پایان روز دوشنبه ۲۰ مهر تمدید شد\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143506",
+        "post_id": 143506,
+        "message_id": 8485,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-11T17:18:45.528700+00:00"
       }
     ]
   }
