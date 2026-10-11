@@ -1,11 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143492,
+      "last_id": 143495,
       "processed_ids": [
-        142392,
-        142393,
-        142394,
         142395,
         142396,
         142397,
@@ -1002,14 +999,16 @@
         143489,
         143490,
         143491,
-        143492
+        143492,
+        143493,
+        143494,
+        143495
       ],
-      "sent_count": 867
+      "sent_count": 869
     },
     "total_fut": {
-      "last_id": 237715,
+      "last_id": 237716,
       "processed_ids": [
-        236664,
         236665,
         236666,
         236667,
@@ -2008,16 +2007,14 @@
         237712,
         237713,
         237714,
-        237715
+        237715,
+        237716
       ],
       "sent_count": 121
     },
     "footballvision2": {
-      "last_id": 171002,
+      "last_id": 171005,
       "processed_ids": [
-        169899,
-        169900,
-        169901,
         169902,
         169903,
         169904,
@@ -3014,9 +3011,12 @@
         170998,
         170999,
         171001,
-        171002
+        171002,
+        171003,
+        171004,
+        171005
       ],
-      "sent_count": 125
+      "sent_count": 127
     },
     "tg_ir": {
       "last_id": 2310,
@@ -3302,7 +3302,7 @@
       "sent_count": 7
     },
     "drtel": {
-      "last_id": 67576,
+      "last_id": 67577,
       "processed_ids": [
         66561,
         66565,
@@ -4108,9 +4108,10 @@
         67573,
         67574,
         67575,
-        67576
+        67576,
+        67577
       ],
-      "sent_count": 452
+      "sent_count": 453
     },
     "techtube": {
       "last_id": 18490,
@@ -5879,7 +5880,7 @@
       "sent_count": 403
     },
     "comentiat": {
-      "last_id": 26441,
+      "last_id": 26442,
       "processed_ids": [
         25844,
         25845,
@@ -6360,9 +6361,10 @@
         26438,
         26439,
         26440,
-        26441
+        26441,
+        26442
       ],
-      "sent_count": 349
+      "sent_count": 350
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -8286,7 +8288,7 @@
       "sent_count": 266
     },
     "ajayebe_jahann": {
-      "last_id": 159717,
+      "last_id": 159720,
       "processed_ids": [
         158956,
         158957,
@@ -9035,7 +9037,10 @@
         159714,
         159715,
         159716,
-        159717
+        159717,
+        159718,
+        159719,
+        159720
       ],
       "sent_count": 309
     },
@@ -9236,10 +9241,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109713,
+      "last_id": 109716,
       "processed_ids": [
-        108636,
-        108639,
         108640,
         108641,
         108642,
@@ -10237,16 +10240,15 @@
         109710,
         109711,
         109712,
-        109713
+        109713,
+        109714,
+        109716
       ],
-      "sent_count": 135
+      "sent_count": 136
     },
     "varzesh3": {
-      "last_id": 303839,
+      "last_id": 303845,
       "processed_ids": [
-        302743,
-        302745,
-        302746,
         302747,
         302748,
         302749,
@@ -11243,7 +11245,10 @@
         303836,
         303837,
         303838,
-        303839
+        303839,
+        303840,
+        303841,
+        303845
       ],
       "sent_count": 88
     },
@@ -12037,9 +12042,8 @@
       "sent_count": 54
     },
     "adak_ir_official": {
-      "last_id": 235185,
+      "last_id": 235186,
       "processed_ids": [
-        234158,
         234159,
         234160,
         234161,
@@ -13038,18 +13042,14 @@
         235182,
         235183,
         235184,
-        235185
+        235185,
+        235186
       ],
       "sent_count": 185
     },
     "futball180tv": {
-      "last_id": 108344,
+      "last_id": 108349,
       "processed_ids": [
-        107324,
-        107325,
-        107326,
-        107327,
-        107328,
         107329,
         107330,
         107331,
@@ -14044,16 +14044,18 @@
         108341,
         108342,
         108343,
-        108344
+        108344,
+        108345,
+        108346,
+        108347,
+        108348,
+        108349
       ],
       "sent_count": 86
     },
     "hattric_official": {
-      "last_id": 84693,
+      "last_id": 84696,
       "processed_ids": [
-        83640,
-        83641,
-        83642,
         83643,
         83644,
         83645,
@@ -15050,12 +15052,15 @@
         84689,
         84690,
         84692,
-        84693
+        84693,
+        84694,
+        84695,
+        84696
       ],
       "sent_count": 122
     },
     "mazdak_hattrick": {
-      "last_id": 182511,
+      "last_id": 182512,
       "processed_ids": [
         181991,
         181992,
@@ -15565,7 +15570,8 @@
         182508,
         182509,
         182510,
-        182511
+        182511,
+        182512
       ],
       "sent_count": 46
     },
@@ -15710,7 +15716,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58594,
+      "last_id": 58595,
       "processed_ids": [
         58030,
         58031,
@@ -16224,7 +16230,8 @@
         58591,
         58592,
         58593,
-        58594
+        58594,
+        58595
       ],
       "sent_count": 323
     },
@@ -17800,7 +17807,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306937,
+      "last_id": 306939,
       "processed_ids": [
         306563,
         306564,
@@ -18170,7 +18177,9 @@
         306934,
         306935,
         306936,
-        306937
+        306937,
+        306938,
+        306939
       ],
       "sent_count": 159
     },
@@ -18615,7 +18624,7 @@
       "sent_count": 39
     },
     "shakhmovie": {
-      "last_id": 4126,
+      "last_id": 4127,
       "processed_ids": [
         4017,
         4018,
@@ -18682,9 +18691,10 @@
         4123,
         4124,
         4125,
-        4126
+        4126,
+        4127
       ],
-      "sent_count": 58
+      "sent_count": 59
     },
     "peach_tweet": {
       "last_id": 3241,
@@ -19026,7 +19036,7 @@
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6209,
+      "last_id": 6212,
       "processed_ids": [
         6113,
         6114,
@@ -19118,133 +19128,15 @@
         6206,
         6207,
         6208,
-        6209
+        6209,
+        6211,
+        6212
       ],
       "sent_count": 4
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "754ad610c099604665ef51b3d71e813fdab78978aff06b1f9686cd97ae33e365",
-        "media_fingerprint": "3c4a06e382d6c9cbb002549706ec1a0e1c1b87359c3fd40b0bfa7f136c9209b0",
-        "text": "وضعیت دریاچه چیتگر، ساعتی قبل\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "وضعیت دریاچه چیتگر، ساعتی قبل\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162974",
-        "post_id": 162974,
-        "message_id": 7378,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-08T15:52:51.782423+00:00"
-      },
-      {
-        "fingerprint": "9ddee49e3e21e5c8f46a5083f84834c1678db2828a69eb17b18e830c48c27179",
-        "media_fingerprint": "bb70faa10f4d6e678395d652ccd46ad47e364165e940b31fc507c85fddca428b",
-        "text": "لحظه برخورد صاعقه با دکل برق فشار قوی!\n🤯\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "لحظه برخورد صاعقه با دکل برق فشار قوی!\n🤯\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162975",
-        "post_id": 162975,
-        "message_id": 7379,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-08T15:52:57.369400+00:00"
-      },
-      {
-        "fingerprint": "d7794ba578a73aa877edb889b128490c502d6f5d515bca14b643492e9ea23fa3",
-        "media_fingerprint": "bd4a1c2218fa484805a0fa3acc50e630f5e5a78879de05bc59ad5ef52540b617",
-        "text": "بالانشینان، پرسپولیس را شاد کردند!\n🤝\nدوئل یادگار برنده نداشت؛ توقف تراکتور مقابل استقلال در خانه، نگرانی آبی‌ها بعد از تماشای اشک‌های آسانی\n🔸\nلیگ برتر ایران - هفته ۸\n🔸\nاولین گل سحرخیزان در لیگ، بعد از بریس هفته اول؛ برای اولین‌بار در دوران سهراب، استقلال…",
-        "original_username": "ft360_ir",
-        "original_text": "بالانشینان، پرسپولیس را شاد کردند!\n🤝\nدوئل یادگار برنده نداشت؛ توقف تراکتور مقابل استقلال در خانه، نگرانی آبی‌ها بعد از تماشای اشک‌های آسانی\n🔸\nلیگ برتر ایران - هفته ۸\n🔸\nاولین گل سحرخیزان در لیگ، بعد از بریس هفته اول؛ برای اولین‌بار در دوران سهراب، استقلال…",
-        "original_link": "https://t.me/ft360_ir/109351",
-        "post_id": 109351,
-        "message_id": 7380,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-08T15:53:06.388883+00:00"
-      },
-      {
-        "fingerprint": "81b8bff833ce6e46d92feb143705df9bde9a6867b3df09d60602c4d4c86984dc",
-        "media_fingerprint": "108bb26da308eacf15dcea445a44fc385bede30a96a8714a9a43b93c4b59e945",
-        "text": "♦️\nگل اول سپاهان توسط آریا یوسفی در دقیقه ۱۲\nسپاهان ۱ - ۰ فجر\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nگل اول سپاهان توسط آریا یوسفی در دقیقه ۱۲\nسپاهان ۱ - ۰ فجر\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143308",
-        "post_id": 143308,
-        "message_id": 7381,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-08T16:23:09.004752+00:00"
-      },
-      {
-        "fingerprint": "8164d3121fd7f46cc35c11352c7baa2cd5a5a85719ebf9e4e63690a7064d97e0",
-        "media_fingerprint": "b2d4bd6ec022901e6f6f8b75b48a18a54b86a0452bdb3c01c2317f696c5bebb0",
-        "text": "",
-        "original_username": "drtel",
-        "original_text": "",
-        "original_link": "https://t.me/drtel/67479",
-        "post_id": 67479,
-        "message_id": 7382,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-08T16:23:15.397732+00:00"
-      },
-      {
-        "fingerprint": "f2b69f65ea3ba4de233f3c8581c5bb5b789e9f1335f77aa79154472f42a7fa99",
-        "media_fingerprint": "",
-        "text": "محمدرضا گلزار: پز نیست سبک زندگیمه؛\nممرضا میگه بین عکسایی که گرفته بود یکیشو انتخاب کردم و به\nچت‌جی‌پی‌تی\nگفتم برام یه کپشن بنویس؛ منم همون متن\n«پز نیست، سبک زندگیمه»\nرو کپی پیست کردم و وایرال شد.\n📷\n|\n@ShakhMovie",
-        "original_username": "shakhmovie",
-        "original_text": "محمدرضا گلزار: پز نیست سبک زندگیمه؛\nممرضا میگه بین عکسایی که گرفته بود یکیشو انتخاب کردم و به\nچت‌جی‌پی‌تی\nگفتم برام یه کپشن بنویس؛ منم همون متن\n«پز نیست، سبک زندگیمه»\nرو کپی پیست کردم و وایرال شد.\n📷\n|\n@ShakhMovie",
-        "original_link": "https://t.me/Shakhmovie/4102",
-        "post_id": 4102,
-        "message_id": 7383,
-        "message_kind": "text",
-        "sources": [
-          "shakhmovie"
-        ],
-        "created_at": "2026-10-08T16:23:18.540677+00:00"
-      },
-      {
-        "fingerprint": "a3f93de55364e42ee27d6c4ae82390e7b374a0c22d960ab49b0430d7c8cfaf1c",
-        "media_fingerprint": "e66bbed751112e23a4d95b4f82c55a2944bee86edd822d28c1d2c448b4b9109c",
-        "text": "هر بار شروع کردی… اما به نتیجه‌ای که می‌خواستی نرسیدی؟\n🌱\nدر\nکلینیک آئورا\nاین مسیر رو تنها طی نمی‌کنی.\nبعد از ارزیابی پزشک، درمان با آمپول لاغری\nزیکورپا\nشروع می‌شه و در کنارش...\n🥗\nاصلاح تغذیه\n🚶\nفعالیت بدنی\n🩺\nپیگیری پزشک\nرزرو مشاوره رایگان پزشکی\n📍\nتهران | جردن و سعادت‌آباد",
-        "original_username": "irwonders",
-        "original_text": "هر بار شروع کردی… اما به نتیجه‌ای که می‌خواستی نرسیدی؟\n🌱\nدر\nکلینیک آئورا\nاین مسیر رو تنها طی نمی‌کنی.\nبعد از ارزیابی پزشک، درمان با آمپول لاغری\nزیکورپا\nشروع می‌شه و در کنارش...\n🥗\nاصلاح تغذیه\n🚶\nفعالیت بدنی\n🩺\nپیگیری پزشک\nرزرو مشاوره رایگان پزشکی\n📍\nتهران | جردن و سعادت‌آباد",
-        "original_link": "https://t.me/irwonders/58476",
-        "post_id": 58476,
-        "message_id": 7384,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-08T16:23:23.322933+00:00"
-      },
-      {
-        "fingerprint": "b92b6d470281e816f8862ab022e42741aafbaa86fda9f42cec7adc0532033f25",
-        "media_fingerprint": "8723b8b17527d7aeb6cc02a8c43526cef6518e52776eb24a2ec586f65d559cef",
-        "text": "♦️\nگل دوم سپاهان | احسان حاج‌صفی دقیقه۳۸ سپاهان ۲ - فجر ۰ @akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nگل دوم سپاهان | احسان حاج‌صفی دقیقه۳۸ سپاهان ۲ - فجر ۰ @akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143310",
-        "post_id": 143310,
-        "message_id": 7385,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-08T16:23:29.826561+00:00"
-      },
       {
         "fingerprint": "28aba41e4ebc648f05a50d0e7ed010008e8938e08013d06df5d55ce255b415cc",
         "media_fingerprint": "",
@@ -31449,7 +31341,8 @@
         "message_kind": "caption",
         "sources": [
           "jaleb",
-          "ajayebe_jahann"
+          "ajayebe_jahann",
+          "irwonders"
         ],
         "created_at": "2026-10-10T19:17:26.481000+00:00"
       },
@@ -34206,6 +34099,126 @@
           "akhbarfars"
         ],
         "created_at": "2026-10-11T13:48:43.539504+00:00"
+      },
+      {
+        "fingerprint": "fb120a7b3fa7a4e028c50024a520d792bb88779c42e1b18098ccbda30b4d0e35",
+        "media_fingerprint": "e517cb2a4b8647c3dbf674d0fd81fb4474f59f85632a8eb6c8b3314ccbd57bf5",
+        "text": "بانو مدیسون بیر جذاب\n🩵\n🍒\n📷\n|\n@ShakhMovie",
+        "original_username": "shakhmovie",
+        "original_text": "بانو مدیسون بیر جذاب\n🩵\n🍒\n📷\n|\n@ShakhMovie",
+        "original_link": "https://t.me/Shakhmovie/4127",
+        "post_id": 4127,
+        "message_id": 8431,
+        "message_kind": "caption",
+        "sources": [
+          "shakhmovie"
+        ],
+        "created_at": "2026-10-11T14:18:40.803403+00:00"
+      },
+      {
+        "fingerprint": "6dd6760a812e552ff86c5e8ca323a70d34cc559bcab878a4698b1aceedcdd03a",
+        "media_fingerprint": "a09f94bfdac3e7dcbb763145df819f128365dc3533fefce036ab22a41f9eceb0",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26442",
+        "post_id": 26442,
+        "message_id": 8433,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-11T14:18:44.794903+00:00"
+      },
+      {
+        "fingerprint": "065bfed1e506b08878352c10e8f00159ccbd747cd3f8d9860795c2feebc11ec5",
+        "media_fingerprint": "3b9ccd89f52d703b5f4e722f05b426d18a5d96a13203528b55d0036c92585e70",
+        "text": "🔴\nدیروز هم، عده‌ای جلوی سفارت فرانسه تو تهران جمع شدن و علیه خشونت برابر معترضان فرانسوی شعار دادن و خواستار محکومیت اقدامات پلیس فرانسه شدن :\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nدیروز هم، عده‌ای جلوی سفارت فرانسه تو تهران جمع شدن و علیه خشونت برابر معترضان فرانسوی شعار دادن و خواستار محکومیت اقدامات پلیس فرانسه شدن :\n@DrTeL",
+        "original_link": "https://t.me/drtel/67577",
+        "post_id": 67577,
+        "message_id": null,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-11T14:18:50.325035+00:00"
+      },
+      {
+        "fingerprint": "d8c50b315dd0c1f7309f0b5c7f7741963af676596054356b8b00af1d10a76544",
+        "media_fingerprint": "",
+        "text": "♦️\nمنابع عربی از شنیده‌شدن صدای انفجار در ریاض پایتخت عربستان خبر می‌دهند\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nمنابع عربی از شنیده‌شدن صدای انفجار در ریاض پایتخت عربستان خبر می‌دهند\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143493",
+        "post_id": 143493,
+        "message_id": 8435,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-11T14:18:53.032002+00:00"
+      },
+      {
+        "fingerprint": "031cf40e5282cc98a2ae31ff38e3bf04e86e466dfc9b10de9381597012d014ba",
+        "media_fingerprint": "256a2b3c6c8814b4626cb420ea54ea8dd0973501b4974c9456753673fcaf1b6e",
+        "text": "کار سخت سیتیزن‌ها برای فتح مرسی‌ساید\n🔥\nآنفیلد، ترسناک‌ترین ورزشگاه‌ انگلیس\n📉\nاز ۶۵۴ باری که تیم‌های لیگ برتری به آنفیلد سفر کرده‌اند، فقط ۸۲ برد کسب کرده‌اند؛ یعنی ۱۲.۵ درصد بازی‌ها.\n📈\nپس از آنفیلد، الدترافورد و هایبری (ورزشگاه سابق آرسنال) به‌ترتیب با…",
+        "original_username": "ft360_ir",
+        "original_text": "کار سخت سیتیزن‌ها برای فتح مرسی‌ساید\n🔥\nآنفیلد، ترسناک‌ترین ورزشگاه‌ انگلیس\n📉\nاز ۶۵۴ باری که تیم‌های لیگ برتری به آنفیلد سفر کرده‌اند، فقط ۸۲ برد کسب کرده‌اند؛ یعنی ۱۲.۵ درصد بازی‌ها.\n📈\nپس از آنفیلد، الدترافورد و هایبری (ورزشگاه سابق آرسنال) به‌ترتیب با…",
+        "original_link": "https://t.me/ft360_ir/109714",
+        "post_id": 109714,
+        "message_id": 8436,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-11T14:19:01.112802+00:00"
+      },
+      {
+        "fingerprint": "3a39474e0aa3d402a74b53a55cce493bf787a576f11f7018d1aa93e2eac3fbef",
+        "media_fingerprint": "",
+        "text": "♦️\nسرلشکر رضایی، دبیر شورای عالی امنیت ملی: قدرت‌هایی بزرگ‌تر از آمریکا تلاش کرده‌اند تا ایران را فتح کنند، اما در نهایت به «زباله‌دان تاریخ» ختم شدند\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nسرلشکر رضایی، دبیر شورای عالی امنیت ملی: قدرت‌هایی بزرگ‌تر از آمریکا تلاش کرده‌اند تا ایران را فتح کنند، اما در نهایت به «زباله‌دان تاریخ» ختم شدند\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143494",
+        "post_id": 143494,
+        "message_id": 8438,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-11T14:19:03.895963+00:00"
+      },
+      {
+        "fingerprint": "278a3514ac46e00a8456e4d9c516b438891982a5ba9611e8a6ad00fdcbe0428d",
+        "media_fingerprint": "7f5941698fc9eb7db6503222a89ca6e104c5c590fbbddbd8d07851620e2700e5",
+        "text": "🔴\n‼️\nنادر قاضی‌پور نماینده سابق مجلس: تراکتور پرطرفدارترین تیم جهانه. بالاتر از رئال مادرید و بارسلونا. در ترکیه، ترکمنستان و آلمان همه طرفدار تراکتورن.\n🔘\n@Navadnewstelegram",
+        "original_username": "footballvision2",
+        "original_text": "🔴\n‼️\nنادر قاضی‌پور نماینده سابق مجلس: تراکتور پرطرفدارترین تیم جهانه. بالاتر از رئال مادرید و بارسلونا. در ترکیه، ترکمنستان و آلمان همه طرفدار تراکتورن.\n🔘\n@Navadnewstelegram",
+        "original_link": "https://t.me/footballvision2/171003",
+        "post_id": 171003,
+        "message_id": 8439,
+        "message_kind": "caption",
+        "sources": [
+          "footballvision2"
+        ],
+        "created_at": "2026-10-11T14:19:10.708750+00:00"
+      },
+      {
+        "fingerprint": "9559102c6ea05d4d1216c26a9c14b46a4ce976838ede3a8634aa5321528e350e",
+        "media_fingerprint": "",
+        "text": "#اختصاصی\nپورموسوی به دلیل پرونده جادوگری مجوز فعالیت نداره و مدیران صنعت نفت از صبح دنبال حل این مشکل هستن\n🆔\n@footballvision2",
+        "original_username": "footballvision2",
+        "original_text": "#اختصاصی\nپورموسوی به دلیل پرونده جادوگری مجوز فعالیت نداره و مدیران صنعت نفت از صبح دنبال حل این مشکل هستن\n🆔\n@footballvision2",
+        "original_link": "https://t.me/footballvision2/171004",
+        "post_id": 171004,
+        "message_id": 8440,
+        "message_kind": "text",
+        "sources": [
+          "footballvision2"
+        ],
+        "created_at": "2026-10-11T14:19:13.587367+00:00"
       }
     ]
   }
