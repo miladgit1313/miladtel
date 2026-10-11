@@ -1,9 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143496,
+      "last_id": 143497,
       "processed_ids": [
-        142396,
         142397,
         142398,
         142399,
@@ -1002,14 +1001,14 @@
         143493,
         143494,
         143495,
-        143496
+        143496,
+        143497
       ],
       "sent_count": 870
     },
     "total_fut": {
-      "last_id": 237717,
+      "last_id": 237718,
       "processed_ids": [
-        236666,
         236667,
         236668,
         236669,
@@ -2008,16 +2007,14 @@
         237714,
         237715,
         237716,
-        237717
+        237717,
+        237718
       ],
       "sent_count": 121
     },
     "footballvision2": {
-      "last_id": 171006,
+      "last_id": 171010,
       "processed_ids": [
-        169903,
-        169904,
-        169905,
         169906,
         169907,
         169908,
@@ -3014,7 +3011,10 @@
         171003,
         171004,
         171005,
-        171006
+        171006,
+        171008,
+        171009,
+        171010
       ],
       "sent_count": 128
     },
@@ -3055,7 +3055,7 @@
       "sent_count": 5
     },
     "fars_today": {
-      "last_id": 132191,
+      "last_id": 132192,
       "processed_ids": [
         131975,
         131976,
@@ -3268,7 +3268,8 @@
         132188,
         132189,
         132190,
-        132191
+        132191,
+        132192
       ],
       "sent_count": 117
     },
@@ -5143,7 +5144,7 @@
       "sent_count": 132
     },
     "akhbar_cafenet": {
-      "last_id": 23216,
+      "last_id": 23217,
       "processed_ids": [
         22432,
         22433,
@@ -5886,9 +5887,10 @@
         23213,
         23214,
         23215,
-        23216
+        23216,
+        23217
       ],
-      "sent_count": 404
+      "sent_count": 405
     },
     "comentiat": {
       "last_id": 26442,
@@ -6385,7 +6387,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38697,
+      "last_id": 38698,
       "processed_ids": [
         38432,
         38433,
@@ -6649,7 +6651,8 @@
         38694,
         38695,
         38696,
-        38697
+        38697,
+        38698
       ],
       "sent_count": 157
     },
@@ -7779,7 +7782,7 @@
       "sent_count": 72
     },
     "jaleb": {
-      "last_id": 52841,
+      "last_id": 52842,
       "processed_ids": [
         52261,
         52262,
@@ -8294,12 +8297,13 @@
         52837,
         52838,
         52839,
-        52841
+        52841,
+        52842
       ],
       "sent_count": 266
     },
     "ajayebe_jahann": {
-      "last_id": 159720,
+      "last_id": 159724,
       "processed_ids": [
         158956,
         158957,
@@ -9051,9 +9055,13 @@
         159717,
         159718,
         159719,
-        159720
+        159720,
+        159721,
+        159722,
+        159723,
+        159724
       ],
-      "sent_count": 309
+      "sent_count": 311
     },
     "etelaate_omoomi": {
       "last_id": 43128,
@@ -9252,12 +9260,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109718,
+      "last_id": 109722,
       "processed_ids": [
-        108641,
-        108642,
-        108643,
-        108644,
         108645,
         108646,
         108647,
@@ -10253,17 +10257,17 @@
         109713,
         109714,
         109716,
-        109718
+        109718,
+        109719,
+        109720,
+        109721,
+        109722
       ],
       "sent_count": 136
     },
     "varzesh3": {
-      "last_id": 303847,
+      "last_id": 303851,
       "processed_ids": [
-        302748,
-        302749,
-        302750,
-        302751,
         302752,
         302753,
         302754,
@@ -11259,12 +11263,16 @@
         303840,
         303841,
         303845,
-        303847
+        303847,
+        303848,
+        303849,
+        303850,
+        303851
       ],
       "sent_count": 88
     },
     "totalfut_plus": {
-      "last_id": 26678,
+      "last_id": 26679,
       "processed_ids": [
         25870,
         25871,
@@ -12049,15 +12057,14 @@
         26675,
         26676,
         26677,
-        26678
+        26678,
+        26679
       ],
       "sent_count": 54
     },
     "adak_ir_official": {
-      "last_id": 235189,
+      "last_id": 235191,
       "processed_ids": [
-        234162,
-        234163,
         234164,
         234165,
         234166,
@@ -13055,14 +13062,15 @@
         235186,
         235187,
         235188,
-        235189
+        235189,
+        235190,
+        235191
       ],
       "sent_count": 186
     },
     "futball180tv": {
-      "last_id": 108352,
+      "last_id": 108353,
       "processed_ids": [
-        107331,
         107332,
         107333,
         107334,
@@ -14061,14 +14069,14 @@
         108348,
         108349,
         108350,
-        108352
+        108352,
+        108353
       ],
       "sent_count": 86
     },
     "hattric_official": {
-      "last_id": 84699,
+      "last_id": 84701,
       "processed_ids": [
-        83646,
         83647,
         83648,
         83649,
@@ -15067,12 +15075,13 @@
         84696,
         84697,
         84698,
-        84699
+        84699,
+        84701
       ],
       "sent_count": 122
     },
     "mazdak_hattrick": {
-      "last_id": 182512,
+      "last_id": 182513,
       "processed_ids": [
         181991,
         181992,
@@ -15583,7 +15592,8 @@
         182509,
         182510,
         182511,
-        182512
+        182512,
+        182513
       ],
       "sent_count": 46
     },
@@ -15728,7 +15738,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58596,
+      "last_id": 58599,
       "processed_ids": [
         58030,
         58031,
@@ -16244,7 +16254,10 @@
         58593,
         58594,
         58595,
-        58596
+        58596,
+        58597,
+        58598,
+        58599
       ],
       "sent_count": 323
     },
@@ -18266,7 +18279,7 @@
       "sent_count": 12
     },
     "cinematicketorg": {
-      "last_id": 24404,
+      "last_id": 24405,
       "processed_ids": [
         24353,
         24354,
@@ -18303,9 +18316,10 @@
         24397,
         24402,
         24403,
-        24404
+        24404,
+        24405
       ],
-      "sent_count": 25
+      "sent_count": 26
     },
     "cinemadaily": {
       "last_id": 20756,
@@ -18640,7 +18654,7 @@
       "sent_count": 39
     },
     "shakhmovie": {
-      "last_id": 4127,
+      "last_id": 4129,
       "processed_ids": [
         4017,
         4018,
@@ -18708,9 +18722,10 @@
         4124,
         4125,
         4126,
-        4127
+        4127,
+        4129
       ],
-      "sent_count": 59
+      "sent_count": 60
     },
     "peach_tweet": {
       "last_id": 3242,
@@ -19055,7 +19070,7 @@
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6213,
+      "last_id": 6214,
       "processed_ids": [
         6113,
         6114,
@@ -19150,88 +19165,14 @@
         6209,
         6211,
         6212,
-        6213
+        6213,
+        6214
       ],
       "sent_count": 4
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "339f681fa439e15cf0b8ccf8933286948b15de549c28189bee50d33973a38519",
-        "media_fingerprint": "d19b5a1a7b42aaa7dec050745e3a265092ad2f4adf49654e02c2e8fb214bc22f",
-        "text": "+ نمیدونم موافقید یا نه ولی منم واقعاً نیستم :)))\n@RoidBest",
-        "original_username": "roidbest",
-        "original_text": "+ نمیدونم موافقید یا نه ولی منم واقعاً نیستم :)))\n@RoidBest",
-        "original_link": "https://t.me/RoidBest/21813",
-        "post_id": 21813,
-        "message_id": 7393,
-        "message_kind": "caption",
-        "sources": [
-          "roidbest"
-        ],
-        "created_at": "2026-10-08T16:52:59.391779+00:00"
-      },
-      {
-        "fingerprint": "80a7f8021762a83507c35b4fa5ecf7128458568baee378173cfd2c81e846f6dd",
-        "media_fingerprint": "8e8870474a5f5241a7f86aec002aed033999a1c15fc6a7cf4c58a90346ca4bf9",
-        "text": "ویدئوی وایرال شده از اوضاعِ یه مدرسه دخترونه تو تهران!\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "ویدئوی وایرال شده از اوضاعِ یه مدرسه دخترونه تو تهران!\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/162976",
-        "post_id": 162976,
-        "message_id": 7394,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-08T16:53:07.977617+00:00"
-      },
-      {
-        "fingerprint": "eb8f93977343c0ce02dfb3092e8e65e774aaaf7617a045de2777bde27394e2c5",
-        "media_fingerprint": "",
-        "text": "🛜\nآخرین وضعیت اینترنت ایران؛ اختلال در بخشی از مسیرهای داخلی و بین‌المللی\n🔵\nبررسی تازه‌ترین داده‌های سامانه‌های پایش اینترنت از جمله کاورد، آیودا، رادار کلادفلر و ایران‌بلاک نشان می‌دهد اینترنت ایران در حال حاضر با مشکل عمده سراسری مواجه نیست، اما بخشی از مسیرهای داخلی و بین‌المللی همچنان با افت کیفیت، پکت‌لاس و ناپایداری روبه‌رو هستند و برخی شاخص‌های پایش نیز فاصله‌هایی با خط پایه معمول خود نشان می‌دهند.\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🛜\nآخرین وضعیت اینترنت ایران؛ اختلال در بخشی از مسیرهای داخلی و بین‌المللی\n🔵\nبررسی تازه‌ترین داده‌های سامانه‌های پایش اینترنت از جمله کاورد، آیودا، رادار کلادفلر و ایران‌بلاک نشان می‌دهد اینترنت ایران در حال حاضر با مشکل عمده سراسری مواجه نیست، اما بخشی از مسیرهای داخلی و بین‌المللی همچنان با افت کیفیت، پکت‌لاس و ناپایداری روبه‌رو هستند و برخی شاخص‌های پایش نیز فاصله‌هایی با خط پایه معمول خود نشان می‌دهند.\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/23116",
-        "post_id": 23116,
-        "message_id": 7395,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-08T16:53:11.717827+00:00"
-      },
-      {
-        "fingerprint": "4d0ff7aa3a342d7b724f16252084291ebd660f4d5043dab434e1f6159a92458d",
-        "media_fingerprint": "989ab78eee51c26da3d3dc473849b5d6fececf385388b025136e134ac5b675a9",
-        "text": "خواستگار عجیب گلزار....\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "خواستگار عجیب گلزار....\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/306864",
-        "post_id": 306864,
-        "message_id": 7396,
-        "message_kind": "caption",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-08T16:53:19.522447+00:00"
-      },
-      {
-        "fingerprint": "ffbf0577168451c5c51fab4266916ada80f7912dde9240b0032610e962ce3729",
-        "media_fingerprint": "257ec2cb089c8f0bde168d1d17d38665f182ae24fd11e1088b18b8e591ce8999",
-        "text": "🎰\nگردونه رو بچرخون،\nجایزه ببر!\n👀\nفقط یه چرخش تا جایزه‌ت فاصله داری.\n🔗\nhttps://quera.org/r/d1skc",
-        "original_username": "roidbest",
-        "original_text": "🎰\nگردونه رو بچرخون،\nجایزه ببر!\n👀\nفقط یه چرخش تا جایزه‌ت فاصله داری.\n🔗\nhttps://quera.org/r/d1skc",
-        "original_link": "https://t.me/RoidBest/21814",
-        "post_id": 21814,
-        "message_id": 7397,
-        "message_kind": "caption",
-        "sources": [
-          "roidbest"
-        ],
-        "created_at": "2026-10-08T16:53:24.706365+00:00"
-      },
       {
         "fingerprint": "cf4dfd4ec2226e0766a0416b17d2dad636a9890295ad7f2ac824aad4dc728352",
         "media_fingerprint": "2e3cfe6dea8a163c5b928e94acb0cdd3b44b5ec9cfe5c93581a907bb8d63e588",
@@ -31273,7 +31214,8 @@
         "message_id": 8228,
         "message_kind": "caption",
         "sources": [
-          "jaleb"
+          "jaleb",
+          "ajayebe_jahann"
         ],
         "created_at": "2026-10-10T19:17:33.077579+00:00"
       },
@@ -33080,7 +33022,8 @@
         "message_id": 8367,
         "message_kind": "caption",
         "sources": [
-          "footballvision2"
+          "footballvision2",
+          "mazdak_hattrick"
         ],
         "created_at": "2026-10-11T10:48:10.780892+00:00"
       },
@@ -34240,6 +34183,81 @@
           "peach_tweet"
         ],
         "created_at": "2026-10-11T14:48:20.678257+00:00"
+      },
+      {
+        "fingerprint": "8e55242cca62e3484208d3b283cce8ecc2cfd9b6573b4ef0c1a9599f9fa7b6fa",
+        "media_fingerprint": "28184f28b26cbd2afcc15c67df67007b2324d63e985dc0d40fb52c6140218479",
+        "text": "اولین نگاه ب سائورون در فصل سوم سریال «ارباب حلقه ها: حلقه های قدرت»\n📆\nتاریخ پخش : از 20 آبان\n📷\n|\n@ShakhMovie",
+        "original_username": "shakhmovie",
+        "original_text": "اولین نگاه ب سائورون در فصل سوم سریال «ارباب حلقه ها: حلقه های قدرت»\n📆\nتاریخ پخش : از 20 آبان\n📷\n|\n@ShakhMovie",
+        "original_link": "https://t.me/Shakhmovie/4129",
+        "post_id": 4129,
+        "message_id": 8449,
+        "message_kind": "caption",
+        "sources": [
+          "shakhmovie"
+        ],
+        "created_at": "2026-10-11T15:17:59.543101+00:00"
+      },
+      {
+        "fingerprint": "08edf568f2863468c73044620bb1d125ffd5490078e8fa87d16788d214d960e7",
+        "media_fingerprint": "380f328498603ce08ab5749bebe741c6f4253f6391907b303dd28e29f9c81948",
+        "text": "روزت مبارک، قوی‌ترین دختر دنیا!\n❤️\n۱۹ مهر، روز جهانی دختر\nدنیا با حضور شما قشنگ‌تره.\n✨\nبفرست برای دختری که به نظرت قوی‌ترین دختر دنیاست!\n@cinematicketorg",
+        "original_username": "cinematicketorg",
+        "original_text": "روزت مبارک، قوی‌ترین دختر دنیا!\n❤️\n۱۹ مهر، روز جهانی دختر\nدنیا با حضور شما قشنگ‌تره.\n✨\nبفرست برای دختری که به نظرت قوی‌ترین دختر دنیاست!\n@cinematicketorg",
+        "original_link": "https://t.me/cinematicketorg/24405",
+        "post_id": 24405,
+        "message_id": 8450,
+        "message_kind": "caption",
+        "sources": [
+          "cinematicketorg"
+        ],
+        "created_at": "2026-10-11T15:18:08.241881+00:00"
+      },
+      {
+        "fingerprint": "99ed139ec28eb735fd696a9ce6724a93e6b9a8e764af5779f44898ed0f68e0df",
+        "media_fingerprint": "4eb1e20b52ac821003339afb8e4844ef51063555e23618b0047378ef0f8c3bbc",
+        "text": "📷\nنمونه پیامک ارسال شده برای تکمیل فرم خوداظهاری جهت افزایش مبلغ کالابرگ\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "📷\nنمونه پیامک ارسال شده برای تکمیل فرم خوداظهاری جهت افزایش مبلغ کالابرگ\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23217",
+        "post_id": 23217,
+        "message_id": 8451,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-11T15:18:13.266504+00:00"
+      },
+      {
+        "fingerprint": "93278b4725a914186c784c7d9fd568765bd5be16cea272fb1c38621d5f870ae0",
+        "media_fingerprint": "45384f8c1aac0e304c7746210014724b186749e75f6c01084c415ed9e979305b",
+        "text": "💜\nجدیدترین عضو خانواده لوکس: شامپو حاوی عصاره سیر\n🧄\nبرای تقویت موهای آسیب‌دیده‌ت، شامپوی جدید لوکس حاوی عصاره سیر\nیه انتخاب دقیق و درسته\n💜\n🧄\nاز همین امروز، شامپویی رو که مناسب موهاته بخشی از روتین سلامتیت کن.\n👇🏻\n👇🏻\nخرید مستقیم با تخفیف\n👇🏻\n👇🏻\nاز دیجی کالا:\nبا تخفیف بخرید\nاز اسنپ مارکت:\nبا تخفیف بخرید",
+        "original_username": "ajayebe_jahann",
+        "original_text": "💜\nجدیدترین عضو خانواده لوکس: شامپو حاوی عصاره سیر\n🧄\nبرای تقویت موهای آسیب‌دیده‌ت، شامپوی جدید لوکس حاوی عصاره سیر\nیه انتخاب دقیق و درسته\n💜\n🧄\nاز همین امروز، شامپویی رو که مناسب موهاته بخشی از روتین سلامتیت کن.\n👇🏻\n👇🏻\nخرید مستقیم با تخفیف\n👇🏻\n👇🏻\nاز دیجی کالا:\nبا تخفیف بخرید\nاز اسنپ مارکت:\nبا تخفیف بخرید",
+        "original_link": "https://t.me/Ajayebe_jahann/159722",
+        "post_id": 159722,
+        "message_id": 8452,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-11T15:18:18.274251+00:00"
+      },
+      {
+        "fingerprint": "aa62463532ebd42bcd0f9d090b165c6f03b995a1ed5d697a6ae426227b7769a8",
+        "media_fingerprint": "285bdafbe54995fcae16b9f58c7be3063cb423a586927595d55779d62d9a7823",
+        "text": "🎓\nمدارک رسمی «دیپلم تا دکتری» فقط در ۱۰ روز!\n✅\nقانونی، قابل استعلام، کاملاً غیرحضوری\n✅\nمناسب مهاجرت، استخدام، ارتقاء شغلی و ادامه تحصیل\n✅\nترجمه رسمی و تأیید توسط تمامی نهادها\n☎️\nمشاوره تخصصی و رایگان\n:\nhttps://t.me/irantahsilat_support\n📺\nعضویت در کانال\n:\nhttps://t.me/+1I9Ex4YFtcZkOTY0\nhttps://t.me/+1I9Ex4YFtcZkOTY0",
+        "original_username": "ajayebe_jahann",
+        "original_text": "🎓\nمدارک رسمی «دیپلم تا دکتری» فقط در ۱۰ روز!\n✅\nقانونی، قابل استعلام، کاملاً غیرحضوری\n✅\nمناسب مهاجرت، استخدام، ارتقاء شغلی و ادامه تحصیل\n✅\nترجمه رسمی و تأیید توسط تمامی نهادها\n☎️\nمشاوره تخصصی و رایگان\n:\nhttps://t.me/irantahsilat_support\n📺\nعضویت در کانال\n:\nhttps://t.me/+1I9Ex4YFtcZkOTY0\nhttps://t.me/+1I9Ex4YFtcZkOTY0",
+        "original_link": "https://t.me/Ajayebe_jahann/159723",
+        "post_id": 159723,
+        "message_id": 8453,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-11T15:18:23.097435+00:00"
       }
     ]
   }
