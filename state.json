@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143500,
+      "last_id": 143502,
       "processed_ids": [
-        142400,
-        142401,
         142402,
         142403,
         142404,
@@ -1002,14 +1000,15 @@
         143497,
         143498,
         143499,
-        143500
+        143500,
+        143501,
+        143502
       ],
       "sent_count": 871
     },
     "total_fut": {
-      "last_id": 237721,
+      "last_id": 237722,
       "processed_ids": [
-        236670,
         236671,
         236672,
         236673,
@@ -2008,15 +2007,14 @@
         237718,
         237719,
         237720,
-        237721
+        237721,
+        237722
       ],
       "sent_count": 121
     },
     "footballvision2": {
-      "last_id": 171011,
+      "last_id": 171013,
       "processed_ids": [
-        169907,
-        169908,
         169909,
         169910,
         169911,
@@ -3014,7 +3012,9 @@
         171008,
         171009,
         171010,
-        171011
+        171011,
+        171012,
+        171013
       ],
       "sent_count": 128
     },
@@ -5900,7 +5900,7 @@
       "sent_count": 405
     },
     "comentiat": {
-      "last_id": 26442,
+      "last_id": 26443,
       "processed_ids": [
         25844,
         25845,
@@ -6382,9 +6382,10 @@
         26439,
         26440,
         26441,
-        26442
+        26442,
+        26443
       ],
-      "sent_count": 350
+      "sent_count": 351
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -9272,12 +9273,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109724,
+      "last_id": 109728,
       "processed_ids": [
-        108647,
-        108648,
-        108649,
-        108650,
         108651,
         108652,
         108653,
@@ -10273,7 +10270,11 @@
         109721,
         109722,
         109723,
-        109724
+        109724,
+        109725,
+        109726,
+        109727,
+        109728
       ],
       "sent_count": 136
     },
@@ -13082,9 +13083,8 @@
       "sent_count": 186
     },
     "futball180tv": {
-      "last_id": 108354,
+      "last_id": 108355,
       "processed_ids": [
-        107333,
         107334,
         107335,
         107336,
@@ -14083,15 +14083,14 @@
         108350,
         108352,
         108353,
-        108354
+        108354,
+        108355
       ],
       "sent_count": 86
     },
     "hattric_official": {
-      "last_id": 84702,
+      "last_id": 84704,
       "processed_ids": [
-        83648,
-        83649,
         83650,
         83652,
         83653,
@@ -15089,12 +15088,14 @@
         84698,
         84699,
         84701,
-        84702
+        84702,
+        84703,
+        84704
       ],
-      "sent_count": 122
+      "sent_count": 123
     },
     "mazdak_hattrick": {
-      "last_id": 182517,
+      "last_id": 182519,
       "processed_ids": [
         181991,
         181992,
@@ -15610,7 +15611,9 @@
         182514,
         182515,
         182516,
-        182517
+        182517,
+        182518,
+        182519
       ],
       "sent_count": 46
     },
@@ -15755,7 +15758,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58600,
+      "last_id": 58601,
       "processed_ids": [
         58030,
         58031,
@@ -16275,9 +16278,10 @@
         58597,
         58598,
         58599,
-        58600
+        58600,
+        58601
       ],
-      "sent_count": 324
+      "sent_count": 325
     },
     "razcom": {
       "last_id": 70491,
@@ -17851,7 +17855,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306940,
+      "last_id": 306943,
       "processed_ids": [
         306563,
         306564,
@@ -18224,9 +18228,12 @@
         306937,
         306938,
         306939,
-        306940
+        306940,
+        306941,
+        306942,
+        306943
       ],
-      "sent_count": 160
+      "sent_count": 161
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -19096,7 +19103,7 @@
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6219,
+      "last_id": 6223,
       "processed_ids": [
         6113,
         6114,
@@ -19195,73 +19202,17 @@
         6214,
         6215,
         6218,
-        6219
+        6219,
+        6220,
+        6221,
+        6222,
+        6223
       ],
       "sent_count": 4
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "7e1b9d3b111c0c1e17c9aa00410a25c115a0ff2db1401bfe442bd5f4a0e8e8fa",
-        "media_fingerprint": "56d5fc15d605f506d6da30ca8f9dabd907348648549e3a1f9889a9a12eac6ab0",
-        "text": "علائم بیماری تیروئید\n!\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_username": "majalepezeshki",
-        "original_text": "علائم بیماری تیروئید\n!\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_link": "https://t.me/MajalePezeshki/38666",
-        "post_id": 38666,
-        "message_id": 7407,
-        "message_kind": "caption",
-        "sources": [
-          "majalepezeshki"
-        ],
-        "created_at": "2026-10-08T17:20:05.445764+00:00"
-      },
-      {
-        "fingerprint": "7f4e62e244d506aca4cfd4ea4cfb6d3a5453a914ea033d50521b941c32e80642",
-        "media_fingerprint": "",
-        "text": "🚨\n📊\n🇮🇷\nجدول لیگ‌برتر پس از تساوی امروز استقلال و تراکتور؛ پرسپولیس در صورت برتری در دو بازی پیش‌رو خودش به صدر جدول خواهد رسید\n⚽️\n@Futball180TV",
-        "original_username": "futball180tv",
-        "original_text": "🚨\n📊\n🇮🇷\nجدول لیگ‌برتر پس از تساوی امروز استقلال و تراکتور؛ پرسپولیس در صورت برتری در دو بازی پیش‌رو خودش به صدر جدول خواهد رسید\n⚽️\n@Futball180TV",
-        "original_link": "https://t.me/Futball180TV/108132",
-        "post_id": 108132,
-        "message_id": 7408,
-        "message_kind": "text",
-        "sources": [
-          "futball180tv"
-        ],
-        "created_at": "2026-10-08T17:20:08.534410+00:00"
-      },
-      {
-        "fingerprint": "b1854b3c23cc0f1409bfb110ded6768f6e4cdb47c7aba563406db0af9e35080b",
-        "media_fingerprint": "17f004ba9601e149f5e461fca01089719040caff656d3fedbe1f7c9922b6c407",
-        "text": "♦️\nدبل آریا با حرکت تیمی دیدنی؛گل چهارم سپاهان | یوسفی '۵۳ سپاهان ۴ - فجر ۱  @akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nدبل آریا با حرکت تیمی دیدنی؛گل چهارم سپاهان | یوسفی '۵۳ سپاهان ۴ - فجر ۱  @akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143317",
-        "post_id": 143317,
-        "message_id": 7409,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-08T17:20:15.875912+00:00"
-      },
-      {
-        "fingerprint": "f7b6eab82d3ce854e279acbb7d6c125b99f3dfe0b88a30517f225c7ee34ec034",
-        "media_fingerprint": "513718c3d5171ad0f6e3be3bab897a20ff480159ccb08e2cdc7af6b7f986a2cd",
-        "text": "♦️\nمعلم عربی در شیراز\n😂\nمارا در اینستاگرام دنبال کنید\n👇\nhttps://www.instagram.com/reel/DeNSGeRKUPt/?stkn=cWFkczUwZ3pxYjQ=",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nمعلم عربی در شیراز\n😂\nمارا در اینستاگرام دنبال کنید\n👇\nhttps://www.instagram.com/reel/DeNSGeRKUPt/?stkn=cWFkczUwZ3pxYjQ=",
-        "original_link": "https://t.me/akhbarfars/143318",
-        "post_id": 143318,
-        "message_id": 7410,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-08T17:20:23.044556+00:00"
-      },
       {
         "fingerprint": "889755bcbdb0cc82a878bdbebaa41ab65b555173dc3845472706feba005bcf9c",
         "media_fingerprint": "303e0c185995443875a080d88c9a6a063b3dbef539301566fbe5e707052764e3",
@@ -34149,7 +34100,8 @@
         "message_id": 8453,
         "message_kind": "caption",
         "sources": [
-          "ajayebe_jahann"
+          "ajayebe_jahann",
+          "khandehabadd"
         ],
         "created_at": "2026-10-11T15:18:23.097435+00:00"
       },
@@ -34287,6 +34239,66 @@
           "drtel"
         ],
         "created_at": "2026-10-11T15:48:24.751982+00:00"
+      },
+      {
+        "fingerprint": "3994a68f2090c8a637ff3fa9b51eddf3e2081b84e4ed4d124155a5b3c9d69e4a",
+        "media_fingerprint": "84efe6f50550fb58b89f1f09cf8707b41a13df72971344a33a212018e256b77a",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26443",
+        "post_id": 26443,
+        "message_id": 8463,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-11T16:18:55.123633+00:00"
+      },
+      {
+        "fingerprint": "ee6a003c8a305810c3fa04ad6b06fe7c12a0c6e6862b7c3cd6a1aebcc29e3da2",
+        "media_fingerprint": "",
+        "text": "بدون گوشی و یوتیوب غذا بخورید.\nبدون موزیک و پادکست قدم بزنید.\nبدون عجله حرف بزنید.\nوقتی کسی حرف می‌زنه واقعا بهش گوش کنید.\nخلاصه که انقدر برای رد شدن از زندگی عجله نکنید!\nتمام معنی زندگی‌مون همین حضور در لحظه‌هاست ...\n‌\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "بدون گوشی و یوتیوب غذا بخورید.\nبدون موزیک و پادکست قدم بزنید.\nبدون عجله حرف بزنید.\nوقتی کسی حرف می‌زنه واقعا بهش گوش کنید.\nخلاصه که انقدر برای رد شدن از زندگی عجله نکنید!\nتمام معنی زندگی‌مون همین حضور در لحظه‌هاست ...\n‌\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306943",
+        "post_id": 306943,
+        "message_id": 8464,
+        "message_kind": "text",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-11T16:18:58.673867+00:00"
+      },
+      {
+        "fingerprint": "48056104fcb13fda0fc8c0709e59a3a367b3209e81f78b63f5d95210d584e303",
+        "media_fingerprint": "17ea93928719761054eab355989665dacc2632c6b3e8a5a3988477b345844422",
+        "text": "⚽\nتصاویری از تمرین امروز تیم پرسپولیس\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "⚽\nتصاویری از تمرین امروز تیم پرسپولیس\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/84704",
+        "post_id": 84704,
+        "message_id": 8465,
+        "message_kind": "caption",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-11T16:19:02.819212+00:00"
+      },
+      {
+        "fingerprint": "1811183dac46cfc895acb932dd1a046e18d0a073bf9aada9d127082f7464348a",
+        "media_fingerprint": "b4f416a9e1e2d24e6369c7ac8409c0e7e8c302eb5cbc516d36f571acb5b5780e",
+        "text": "عسل تقلبی را اینجوری درست میکنن\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "عسل تقلبی را اینجوری درست میکنن\n@irWonders",
+        "original_link": "https://t.me/irwonders/58601",
+        "post_id": 58601,
+        "message_id": 8466,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-11T16:19:09.444307+00:00"
       }
     ]
   }
