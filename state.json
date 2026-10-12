@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143529,
+      "last_id": 143531,
       "processed_ids": [
-        142428,
-        142429,
         142430,
         142431,
         142432,
@@ -1002,15 +1000,15 @@
         143526,
         143527,
         143528,
-        143529
+        143529,
+        143530,
+        143531
       ],
-      "sent_count": 888
+      "sent_count": 890
     },
     "total_fut": {
-      "last_id": 237754,
+      "last_id": 237756,
       "processed_ids": [
-        236699,
-        236700,
         236701,
         236702,
         236703,
@@ -2008,9 +2006,11 @@
         237750,
         237751,
         237752,
-        237754
+        237754,
+        237755,
+        237756
       ],
-      "sent_count": 125
+      "sent_count": 126
     },
     "footballvision2": {
       "last_id": 171049,
@@ -5203,7 +5203,7 @@
       "sent_count": 135
     },
     "akhbar_cafenet": {
-      "last_id": 23252,
+      "last_id": 23253,
       "processed_ids": [
         22432,
         22433,
@@ -5975,9 +5975,10 @@
         23249,
         23250,
         23251,
-        23252
+        23252,
+        23253
       ],
-      "sent_count": 419
+      "sent_count": 420
     },
     "comentiat": {
       "last_id": 26454,
@@ -6486,7 +6487,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38709,
+      "last_id": 38710,
       "processed_ids": [
         38432,
         38433,
@@ -6762,9 +6763,10 @@
         38706,
         38707,
         38708,
-        38709
+        38709,
+        38710
       ],
-      "sent_count": 163
+      "sent_count": 164
     },
     "gizmiztel": {
       "last_id": 163145,
@@ -8433,7 +8435,7 @@
       "sent_count": 272
     },
     "ajayebe_jahann": {
-      "last_id": 159739,
+      "last_id": 159742,
       "processed_ids": [
         158956,
         158957,
@@ -9203,7 +9205,10 @@
         159736,
         159737,
         159738,
-        159739
+        159739,
+        159740,
+        159741,
+        159742
       ],
       "sent_count": 315
     },
@@ -9404,9 +9409,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109772,
+      "last_id": 109773,
       "processed_ids": [
-        108693,
         108694,
         108695,
         108696,
@@ -10405,14 +10409,14 @@
         109769,
         109770,
         109771,
-        109772
+        109772,
+        109773
       ],
       "sent_count": 138
     },
     "varzesh3": {
-      "last_id": 303891,
+      "last_id": 303892,
       "processed_ids": [
-        302789,
         302790,
         302792,
         302793,
@@ -11411,7 +11415,8 @@
         303888,
         303889,
         303890,
-        303891
+        303891,
+        303892
       ],
       "sent_count": 90
     },
@@ -12227,12 +12232,8 @@
       "sent_count": 57
     },
     "adak_ir_official": {
-      "last_id": 235221,
+      "last_id": 235225,
       "processed_ids": [
-        234194,
-        234195,
-        234196,
-        234197,
         234198,
         234199,
         234200,
@@ -13228,18 +13229,17 @@
         235218,
         235219,
         235220,
-        235221
+        235221,
+        235222,
+        235223,
+        235224,
+        235225
       ],
       "sent_count": 190
     },
     "futball180tv": {
-      "last_id": 108385,
+      "last_id": 108390,
       "processed_ids": [
-        107364,
-        107365,
-        107366,
-        107367,
-        107368,
         107369,
         107370,
         107371,
@@ -14234,14 +14234,18 @@
         108382,
         108383,
         108384,
-        108385
+        108385,
+        108386,
+        108387,
+        108388,
+        108389,
+        108390
       ],
       "sent_count": 87
     },
     "hattric_official": {
-      "last_id": 84735,
+      "last_id": 84736,
       "processed_ids": [
-        83680,
         83681,
         83682,
         83683,
@@ -15240,12 +15244,13 @@
         84732,
         84733,
         84734,
-        84735
+        84735,
+        84736
       ],
       "sent_count": 124
     },
     "mazdak_hattrick": {
-      "last_id": 182532,
+      "last_id": 182533,
       "processed_ids": [
         181991,
         181992,
@@ -15776,9 +15781,10 @@
         182529,
         182530,
         182531,
-        182532
+        182532,
+        182533
       ],
-      "sent_count": 48
+      "sent_count": 49
     },
     "djharmony": {
       "last_id": 0,
@@ -15921,7 +15927,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58617,
+      "last_id": 58618,
       "processed_ids": [
         58030,
         58031,
@@ -16458,7 +16464,8 @@
         58614,
         58615,
         58616,
-        58617
+        58617,
+        58618
       ],
       "sent_count": 337
     },
@@ -18965,7 +18972,7 @@
       "sent_count": 62
     },
     "peach_tweet": {
-      "last_id": 3250,
+      "last_id": 3252,
       "processed_ids": [
         2745,
         2749,
@@ -19227,12 +19234,13 @@
         3247,
         3248,
         3249,
-        3250
+        3250,
+        3252
       ],
-      "sent_count": 159
+      "sent_count": 160
     },
     "funy_khand": {
-      "last_id": 25795,
+      "last_id": 25797,
       "processed_ids": [
         25704,
         25705,
@@ -19325,7 +19333,9 @@
         25792,
         25793,
         25794,
-        25795
+        25795,
+        25796,
+        25797
       ],
       "sent_count": 0
     },
@@ -19476,138 +19486,18 @@
       "sent_count": 2
     },
     "dashagh": {
-      "last_id": 48314,
+      "last_id": 48316,
       "processed_ids": [
         48313,
-        48314
+        48314,
+        48315,
+        48316
       ],
-      "sent_count": 1
+      "sent_count": 2
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "09dfb0ef4a5518e79c68e1ff1d5732ec73af4a293c0157d70108f18c0268feb3",
-        "media_fingerprint": "d25838a001bb3aa031cecc04b8e0aa70f4ff43258ed778da9f0a71d839e59055",
-        "text": "داشتم تو ساحل قدم می‌زدم، ببین چی دیدم!\n😍\n🐧\n@iranfnews",
-        "original_username": "irwonders",
-        "original_text": "داشتم تو ساحل قدم می‌زدم، ببین چی دیدم!\n😍\n🐧\n@iranfnews",
-        "original_link": "https://t.me/irwonders/58503",
-        "post_id": 58503,
-        "message_id": 7570,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-09T09:51:21.595095+00:00"
-      },
-      {
-        "fingerprint": "e7f6f2ef8b485d14040061c9ddfc4da2a8d7fc673816b2604ad63797b21d7129",
-        "media_fingerprint": "ebae7e1c1a090c0369cacd79170af035ba476bb8bc6240f08fce6344b04c9b1c",
-        "text": "📱\n۵\nکد مخفی چت‌جی‌پی‌تی که خیلی به کار میاد\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "📱\n۵\nکد مخفی چت‌جی‌پی‌تی که خیلی به کار میاد\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/23134",
-        "post_id": 23134,
-        "message_id": 7571,
-        "message_kind": "caption",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-09T09:51:28.342417+00:00"
-      },
-      {
-        "fingerprint": "5e6dfb502584751024adeca2084ea4706a7e71e56409eb4bf2385a9de6961d92",
-        "media_fingerprint": "213d951b9459eb20453f38f17cdac0c02b6784b15a2ab3071f81e49a2a651186",
-        "text": "احساس میکنم اگه سرپیچی کنن تیر خلاص بهشون میزنن :)\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "احساس میکنم اگه سرپیچی کنن تیر خلاص بهشون میزنن :)\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163002",
-        "post_id": 163002,
-        "message_id": 7572,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-09T09:51:55.182655+00:00"
-      },
-      {
-        "fingerprint": "e0dc341bb122713b9a682a9133b2126999492820076f0bfcef31dd563dfa472d",
-        "media_fingerprint": "1346dee3db897a0fdbfccf48d73700c2e9df74c89e6212d2600d2f32b8d178a4",
-        "text": "حالا ما بودیم عمرا می بردیم خونه این دوس داشتنیو\nچقدر خوشگل شد\n😍\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "حالا ما بودیم عمرا می بردیم خونه این دوس داشتنیو\nچقدر خوشگل شد\n😍\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163003",
-        "post_id": 163003,
-        "message_id": 7573,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel",
-          "midanesti"
-        ],
-        "created_at": "2026-10-09T09:52:01.703275+00:00"
-      },
-      {
-        "fingerprint": "15e4034e8d8e3d071c67690fee261af48977a7d3ebe44bd502361537a37caf20",
-        "media_fingerprint": "",
-        "text": "🔹\nورود محموله‌های جدید واکسن آنفلوانزا از فرانسه و روسیه به کشور تأیید شد.",
-        "original_username": "fars_today",
-        "original_text": "🔹\nورود محموله‌های جدید واکسن آنفلوانزا از فرانسه و روسیه به کشور تأیید شد.",
-        "original_link": "https://t.me/Fars_today/132168",
-        "post_id": 132168,
-        "message_id": 7574,
-        "message_kind": "text",
-        "sources": [
-          "fars_today"
-        ],
-        "created_at": "2026-10-09T09:52:04.619908+00:00"
-      },
-      {
-        "fingerprint": "bc672669d8478ce11eb6f19bde604622fa6f794887d33555f88f8c6781ec336c",
-        "media_fingerprint": "3c64056add0120cdd0b38ef7e31233afb796f4b0e46dc17062f7ffc04afecbef",
-        "text": "گویا تو پاکستان یه پسر با ناهنجاری مادرزادی فوق نادر به دنیا اومد؛ نوزادی با دو آلت تناسلی!\nاین وضعیت پزشکی که بهش دیفالیا (Diphallia) می‌گن، به معنی شکل‌گیری دو آلت تناسلیه و تخمین زده می‌شه تقریباً در ۱ مورد از ۶ میلیون تولد زنده اتفاق بیفته.\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "گویا تو پاکستان یه پسر با ناهنجاری مادرزادی فوق نادر به دنیا اومد؛ نوزادی با دو آلت تناسلی!\nاین وضعیت پزشکی که بهش دیفالیا (Diphallia) می‌گن، به معنی شکل‌گیری دو آلت تناسلیه و تخمین زده می‌شه تقریباً در ۱ مورد از ۶ میلیون تولد زنده اتفاق بیفته.\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52786",
-        "post_id": 52786,
-        "message_id": 7575,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb",
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-09T10:21:56.088875+00:00"
-      },
-      {
-        "fingerprint": "8e4c9e82ae3bfc16173689560bb8ee9a04153c89516ac6b705d8c04bf36a2f14",
-        "media_fingerprint": "a2df67c6284b62251e9992038aa0ba7ee217f1f018835bc5a35832fd00fb2372",
-        "text": "۳۶۵ دلیل برای اینکه ازت خوشم میاد :)))\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "۳۶۵ دلیل برای اینکه ازت خوشم میاد :)))\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/2964",
-        "post_id": 2964,
-        "message_id": 7576,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-09T10:22:00.079725+00:00"
-      },
-      {
-        "fingerprint": "264391e8da1e3c15f7bc4996859646f9d20b963e2967b15ec1a51c88a4a05e5e",
-        "media_fingerprint": "",
-        "text": "🔹\nصدور هشدار زرد هواشناسی کشاورزی در فارس/ کاهش دمای شبانه در مناطق شمالی استان\nمدیرکل هواشناسی فارس از صدور هشدار هواشناسی کشاورزی سطح زرد برای مناطق شمالی استان خبر داد و گفت: با استقرار و ماندگاری هوای سرد و خشک از اواخر وقت جمعه، ۱۷ مهر، تا صبح یکشنبه، ۱۹ مهر، دمای شبانه در شهرستان‌های آباده، اقلید، خرم‌بید، صفاشهر و پاسارگاد بین یک تا سه درجه کاهش می‌یابد.",
-        "original_username": "fars_today",
-        "original_text": "🔹\nصدور هشدار زرد هواشناسی کشاورزی در فارس/ کاهش دمای شبانه در مناطق شمالی استان\nمدیرکل هواشناسی فارس از صدور هشدار هواشناسی کشاورزی سطح زرد برای مناطق شمالی استان خبر داد و گفت: با استقرار و ماندگاری هوای سرد و خشک از اواخر وقت جمعه، ۱۷ مهر، تا صبح یکشنبه، ۱۹ مهر، دمای شبانه در شهرستان‌های آباده، اقلید، خرم‌بید، صفاشهر و پاسارگاد بین یک تا سه درجه کاهش می‌یابد.",
-        "original_link": "https://t.me/Fars_today/132169",
-        "post_id": 132169,
-        "message_id": 7577,
-        "message_kind": "text",
-        "sources": [
-          "fars_today"
-        ],
-        "created_at": "2026-10-09T10:22:03.307662+00:00"
-      },
       {
         "fingerprint": "e311517884768d532e95841820e322116fef155a6e3a418583e95d361ad4d463",
         "media_fingerprint": "c3a923f72b3b2ce150c11531f1b8077c29ee4921ada7fb0971b52f1b6f0efadc",
@@ -29610,7 +29500,8 @@
         "message_id": 8274,
         "message_kind": "caption",
         "sources": [
-          "jaleb"
+          "jaleb",
+          "ajayebe_jahann"
         ],
         "created_at": "2026-10-11T04:50:32.858788+00:00"
       },
@@ -33664,7 +33555,8 @@
         "message_kind": "caption",
         "sources": [
           "gizmiztel",
-          "jaleb"
+          "jaleb",
+          "irwonders"
         ],
         "created_at": "2026-10-12T04:53:42.056776+00:00"
       },
@@ -34102,7 +33994,8 @@
         "message_id": 8593,
         "message_kind": "text",
         "sources": [
-          "khandehabadd"
+          "khandehabadd",
+          "ajayebe_jahann"
         ],
         "created_at": "2026-10-12T07:01:51.228407+00:00"
       },
@@ -34571,6 +34464,126 @@
           "ghandeharipoet"
         ],
         "created_at": "2026-10-12T08:25:09.678640+00:00"
+      },
+      {
+        "fingerprint": "8745fafbff34b8e2ff2b44191b6f31e9136f6caa59e5a304d024a5305af7b65b",
+        "media_fingerprint": "a58e5a5133ea74289e5e14495d57d68b0e4166685a6f768965176489399950fc",
+        "text": "🎥\nسخنگوی دولت: برای مهرماه افزایش رقم کالابرگ خواهیم داشت\n🔵\nحدود ۵۰۰ هزار تومان به هر کالابرگ اضافه می شود\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🎥\nسخنگوی دولت: برای مهرماه افزایش رقم کالابرگ خواهیم داشت\n🔵\nحدود ۵۰۰ هزار تومان به هر کالابرگ اضافه می شود\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23253",
+        "post_id": 23253,
+        "message_id": 8625,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-12T08:54:23.841835+00:00"
+      },
+      {
+        "fingerprint": "392dd3b1dea6f9a2f018661351c746a7ad2497dfe101e054c28d9c7a47f656af",
+        "media_fingerprint": "",
+        "text": "🏅\nاول آبان؛ برگزاری دادگاه پرسپولیس و بیرانوند در cas\n🔹\nجلسه رسیدگی به پرونده علیرضا بیرانوند، دروازه‌بان تیم ملی فوتبال ایران، اول آبان‌ماه در دادگاه عالی ورزش (CAS) برگزار خواهد شد.\n🔹\nدر این جلسه، نماینده قانونی بیرانوند، باشگاه پرسپولیس و فدراسیون فوتبال حضور خواهند داشت تا آخرین دفاعیات خود را درباره حکم انضباطی محرومیت چهارماهه این بازیکن از فعالیت در فوتبال مطرح کنند.\n🔹\nبا برگزاری این جلسه، پرونده حقوقی بیرانوند در مرحله رسیدگی در دادگاه عالی ورزش قرار می‌گیرد و باید دید تصمیم نهایی این مرجع ورزشی درباره محرومیت چهارماهه و پرداخت بدهی این دروازه بان ملی پوش به باشگاه پرسپولیس چه خواهد بود.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_username": "total_fut",
+        "original_text": "🏅\nاول آبان؛ برگزاری دادگاه پرسپولیس و بیرانوند در cas\n🔹\nجلسه رسیدگی به پرونده علیرضا بیرانوند، دروازه‌بان تیم ملی فوتبال ایران، اول آبان‌ماه در دادگاه عالی ورزش (CAS) برگزار خواهد شد.\n🔹\nدر این جلسه، نماینده قانونی بیرانوند، باشگاه پرسپولیس و فدراسیون فوتبال حضور خواهند داشت تا آخرین دفاعیات خود را درباره حکم انضباطی محرومیت چهارماهه این بازیکن از فعالیت در فوتبال مطرح کنند.\n🔹\nبا برگزاری این جلسه، پرونده حقوقی بیرانوند در مرحله رسیدگی در دادگاه عالی ورزش قرار می‌گیرد و باید دید تصمیم نهایی این مرجع ورزشی درباره محرومیت چهارماهه و پرداخت بدهی این دروازه بان ملی پوش به باشگاه پرسپولیس چه خواهد بود.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_link": "https://t.me/total_fut/237755",
+        "post_id": 237755,
+        "message_id": 8626,
+        "message_kind": "text",
+        "sources": [
+          "total_fut"
+        ],
+        "created_at": "2026-10-12T08:54:26.929212+00:00"
+      },
+      {
+        "fingerprint": "c9938026b6961e388ccd6ac34ed3a44799e9dfcca4873d4a233857c4b164e296",
+        "media_fingerprint": "23820dca49a9c4de84452161fa87d161fd7d3c31937b9fd73c12f4ed476bb4fb",
+        "text": "پوشاک گراد میزبان شما در نمایشگاه شیراز اکسپو ۲۰۲۶ خواهد بود\nسالن حافظ\nغرفه ۴۳ و ۴۴",
+        "original_username": "akhbarfars",
+        "original_text": "پوشاک گراد میزبان شما در نمایشگاه شیراز اکسپو ۲۰۲۶ خواهد بود\nسالن حافظ\nغرفه ۴۳ و ۴۴",
+        "original_link": "https://t.me/akhbarfars/143530",
+        "post_id": 143530,
+        "message_id": 8627,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-12T08:54:32.664584+00:00"
+      },
+      {
+        "fingerprint": "54e38f6f3bc6c28485d51447bcf7a52eca51bcac503f272b96eebc7855743f55",
+        "media_fingerprint": "",
+        "text": "🟥\n🔴\nگل‌های پرسپولیس در بازی تدارکاتی با فولاد هرمزگان\n🆔\n@mazdak_hattrick",
+        "original_username": "mazdak_hattrick",
+        "original_text": "🟥\n🔴\nگل‌های پرسپولیس در بازی تدارکاتی با فولاد هرمزگان\n🆔\n@mazdak_hattrick",
+        "original_link": "https://t.me/mazdak_hattrick/182533",
+        "post_id": 182533,
+        "message_id": 8628,
+        "message_kind": "text",
+        "sources": [
+          "mazdak_hattrick"
+        ],
+        "created_at": "2026-10-12T08:54:35.150746+00:00"
+      },
+      {
+        "fingerprint": "03977fb3ff2fd3e66e793c0bd0fb58aec2609931c4cd34c863d8c93b13dcbf76",
+        "media_fingerprint": "18b3cb7343f4aa8e71cdac852b1e61d600a4ffabbda9e56888c07f59d78962a7",
+        "text": "یک نظافتچی هتل  در پاریس بعد از خروج یک مهمان میلیاردر، کاندوم استفاده‌شده‌ی اون رو از اتاقش برداشت و ازش برای باردار شدن خودش استفاده کرد.\nگفته می‌شه این زن بعداً باردار شد و ادعا کرد که اون میلیاردر پدر بیولوژیکی بچه‌اشه.این ماجرا به یک اختلاف بسیار عجیب تبدیل شد؛ چون بحث اصلی این بود که بارداری چطور اتفاق افتاده و آیا ادعای زن درباره‌ی پدر بچه درست بوده یا نه.\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "یک نظافتچی هتل  در پاریس بعد از خروج یک مهمان میلیاردر، کاندوم استفاده‌شده‌ی اون رو از اتاقش برداشت و ازش برای باردار شدن خودش استفاده کرد.\nگفته می‌شه این زن بعداً باردار شد و ادعا کرد که اون میلیاردر پدر بیولوژیکی بچه‌اشه.این ماجرا به یک اختلاف بسیار عجیب تبدیل شد؛ چون بحث اصلی این بود که بارداری چطور اتفاق افتاده و آیا ادعای زن درباره‌ی پدر بچه درست بوده یا نه.\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48316",
+        "post_id": 48316,
+        "message_id": 8629,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-12T08:54:39.635895+00:00"
+      },
+      {
+        "fingerprint": "07c9ce99e4b424d3225f8b4de7816c715fae7c31e2c1c538cddf3f505549b2ec",
+        "media_fingerprint": "9027927a5808e07eaa7677dbfaef8581e43456f138f5f8c0e91c06f24aba9c08",
+        "text": "مورد علاقه همه پسرا:\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "مورد علاقه همه پسرا:\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/3252",
+        "post_id": 3252,
+        "message_id": 8630,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-12T08:54:47.992644+00:00"
+      },
+      {
+        "fingerprint": "6e2a1282b5552cc259805167689dffa48037e110191c851d62d6b1a5c194a270",
+        "media_fingerprint": "a457aad9416775aa05d968cca0c133448d910d724a8430a552cbeeed523ff8de",
+        "text": "داروهای لاغری سن بیولوژیکی را کاهش میدهند!\n◽️\nپژوهش‌های دو غول داروسازی Eli Lilly و Novo Nordisk نشان داده که داروهای محبوب کاهش وزن GLP-1 می‌توانند روند پیری بیولوژیکی بیماران را کُند کنند. بررسی ساعت‌های مولکولی افراد دریافت‌کننده این داروها نشان داده سن زیستی اندام‌های مختلف بدن آنها از جمله قلب، بین دو تا چهار سال کمتر شده است.\n◽️\nبا وجود این نتایج، دانشمندان می‌گویند این دسته از داروها به دلیل اثری که بر ریشه‌های فرایند پیری دارند، می‌توانند به عنوان داروهای افزایش طول عمر عمل کنند. بااین‌حال عوارض جانبی مانند کاهش توده عضلانی وجود دارد و اثر این داروها بر افراد غیرچاق هنوز به اثبات نرسیده است.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "داروهای لاغری سن بیولوژیکی را کاهش میدهند!\n◽️\nپژوهش‌های دو غول داروسازی Eli Lilly و Novo Nordisk نشان داده که داروهای محبوب کاهش وزن GLP-1 می‌توانند روند پیری بیولوژیکی بیماران را کُند کنند. بررسی ساعت‌های مولکولی افراد دریافت‌کننده این داروها نشان داده سن زیستی اندام‌های مختلف بدن آنها از جمله قلب، بین دو تا چهار سال کمتر شده است.\n◽️\nبا وجود این نتایج، دانشمندان می‌گویند این دسته از داروها به دلیل اثری که بر ریشه‌های فرایند پیری دارند، می‌توانند به عنوان داروهای افزایش طول عمر عمل کنند. بااین‌حال عوارض جانبی مانند کاهش توده عضلانی وجود دارد و اثر این داروها بر افراد غیرچاق هنوز به اثبات نرسیده است.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38710",
+        "post_id": 38710,
+        "message_id": 8631,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-12T08:54:52.901896+00:00"
+      },
+      {
+        "fingerprint": "82a9db945290dd9a7870af4079d38b245f9279ec9923f1baabf5e160fa1a028d",
+        "media_fingerprint": "",
+        "text": "🔸\n#الو_اخبارفارس\n🔹\nحال و روز جاده شهرستان سعادت شهر به ارسنجان امیدوارم هر چه زودتر و سریعتر این معضل حل شود تا انسانهای کمتری در این مسیر قربانی شوند\n🙏\n🎥\nصدای شهر خود باشید!\nپیام‌ها و ویدیوهای خودتون رو همراه با نام شهر و استان برای ما بفرستید\n👇\n@Ertebat_ba_ostan",
+        "original_username": "akhbarfars",
+        "original_text": "🔸\n#الو_اخبارفارس\n🔹\nحال و روز جاده شهرستان سعادت شهر به ارسنجان امیدوارم هر چه زودتر و سریعتر این معضل حل شود تا انسانهای کمتری در این مسیر قربانی شوند\n🙏\n🎥\nصدای شهر خود باشید!\nپیام‌ها و ویدیوهای خودتون رو همراه با نام شهر و استان برای ما بفرستید\n👇\n@Ertebat_ba_ostan",
+        "original_link": "https://t.me/akhbarfars/143531",
+        "post_id": 143531,
+        "message_id": 8632,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-12T08:54:55.602086+00:00"
       }
     ]
   }
