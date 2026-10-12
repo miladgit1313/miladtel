@@ -1,13 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143594,
+      "last_id": 143599,
       "processed_ids": [
-        142467,
-        142468,
-        142469,
-        142470,
-        142471,
         142472,
         142473,
         142474,
@@ -1002,16 +997,18 @@
         143591,
         143592,
         143593,
-        143594
+        143594,
+        143595,
+        143596,
+        143597,
+        143598,
+        143599
       ],
-      "sent_count": 913
+      "sent_count": 916
     },
     "total_fut": {
-      "last_id": 237798,
+      "last_id": 237801,
       "processed_ids": [
-        236738,
-        236739,
-        236740,
         236741,
         236742,
         236743,
@@ -2008,22 +2005,16 @@
         237795,
         237796,
         237797,
-        237798
+        237798,
+        237799,
+        237800,
+        237801
       ],
       "sent_count": 126
     },
     "footballvision2": {
-      "last_id": 171097,
+      "last_id": 171106,
       "processed_ids": [
-        169992,
-        169993,
-        169994,
-        169995,
-        169996,
-        169997,
-        169998,
-        169999,
-        170000,
         170001,
         170002,
         170003,
@@ -3014,9 +3005,18 @@
         171094,
         171095,
         171096,
-        171097
+        171097,
+        171098,
+        171099,
+        171100,
+        171101,
+        171102,
+        171103,
+        171104,
+        171105,
+        171106
       ],
-      "sent_count": 133
+      "sent_count": 134
     },
     "tg_ir": {
       "last_id": 2310,
@@ -3324,7 +3324,7 @@
       "sent_count": 8
     },
     "drtel": {
-      "last_id": 67631,
+      "last_id": 67632,
       "processed_ids": [
         66561,
         66565,
@@ -4165,7 +4165,8 @@
         67628,
         67629,
         67630,
-        67631
+        67631,
+        67632
       ],
       "sent_count": 471
     },
@@ -5017,7 +5018,7 @@
       "sent_count": 93
     },
     "roidbest": {
-      "last_id": 21845,
+      "last_id": 21846,
       "processed_ids": [
         21613,
         21614,
@@ -5239,12 +5240,13 @@
         21842,
         21843,
         21844,
-        21845
+        21845,
+        21846
       ],
       "sent_count": 135
     },
     "akhbar_cafenet": {
-      "last_id": 23279,
+      "last_id": 23280,
       "processed_ids": [
         22432,
         22433,
@@ -6039,12 +6041,13 @@
         23276,
         23277,
         23278,
-        23279
+        23279,
+        23280
       ],
-      "sent_count": 428
+      "sent_count": 429
     },
     "comentiat": {
-      "last_id": 26468,
+      "last_id": 26470,
       "processed_ids": [
         25844,
         25845,
@@ -6548,7 +6551,8 @@
         26464,
         26466,
         26467,
-        26468
+        26468,
+        26470
       ],
       "sent_count": 367
     },
@@ -8529,7 +8533,7 @@
       "sent_count": 279
     },
     "ajayebe_jahann": {
-      "last_id": 159756,
+      "last_id": 159758,
       "processed_ids": [
         158956,
         158957,
@@ -9316,9 +9320,11 @@
         159753,
         159754,
         159755,
-        159756
+        159756,
+        159757,
+        159758
       ],
-      "sent_count": 318
+      "sent_count": 320
     },
     "etelaate_omoomi": {
       "last_id": 43128,
@@ -9517,12 +9523,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109812,
+      "last_id": 109816,
       "processed_ids": [
-        108731,
-        108732,
-        108733,
-        108734,
         108736,
         108737,
         108738,
@@ -10518,18 +10520,17 @@
         109809,
         109810,
         109811,
-        109812
+        109812,
+        109813,
+        109814,
+        109815,
+        109816
       ],
       "sent_count": 139
     },
     "varzesh3": {
-      "last_id": 303920,
+      "last_id": 303925,
       "processed_ids": [
-        302824,
-        302825,
-        302826,
-        302827,
-        302828,
         302829,
         302830,
         302831,
@@ -11524,12 +11525,17 @@
         303917,
         303918,
         303919,
-        303920
+        303920,
+        303921,
+        303922,
+        303923,
+        303924,
+        303925
       ],
       "sent_count": 91
     },
     "totalfut_plus": {
-      "last_id": 26721,
+      "last_id": 26722,
       "processed_ids": [
         25870,
         25871,
@@ -12354,14 +12360,14 @@
         26718,
         26719,
         26720,
-        26721
+        26721,
+        26722
       ],
       "sent_count": 59
     },
     "adak_ir_official": {
-      "last_id": 235258,
+      "last_id": 235259,
       "processed_ids": [
-        234231,
         234232,
         234233,
         234234,
@@ -13360,17 +13366,14 @@
         235255,
         235256,
         235257,
-        235258
+        235258,
+        235259
       ],
       "sent_count": 194
     },
     "futball180tv": {
-      "last_id": 108425,
+      "last_id": 108429,
       "processed_ids": [
-        107403,
-        107404,
-        107405,
-        107406,
         107407,
         107408,
         107409,
@@ -14366,16 +14369,17 @@
         108422,
         108423,
         108424,
-        108425
+        108425,
+        108426,
+        108427,
+        108428,
+        108429
       ],
       "sent_count": 88
     },
     "hattric_official": {
-      "last_id": 84768,
+      "last_id": 84771,
       "processed_ids": [
-        83711,
-        83712,
-        83713,
         83715,
         83716,
         83717,
@@ -15372,7 +15376,10 @@
         84765,
         84766,
         84767,
-        84768
+        84768,
+        84769,
+        84770,
+        84771
       ],
       "sent_count": 126
     },
@@ -16066,7 +16073,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58639,
+      "last_id": 58640,
       "processed_ids": [
         58030,
         58031,
@@ -16625,9 +16632,10 @@
         58636,
         58637,
         58638,
-        58639
+        58639,
+        58640
       ],
-      "sent_count": 353
+      "sent_count": 354
     },
     "razcom": {
       "last_id": 70495,
@@ -18211,7 +18219,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306971,
+      "last_id": 306973,
       "processed_ids": [
         306563,
         306564,
@@ -18615,9 +18623,11 @@
         306968,
         306969,
         306970,
-        306971
+        306971,
+        306972,
+        306973
       ],
-      "sent_count": 174
+      "sent_count": 176
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -18740,7 +18750,7 @@
       "sent_count": 27
     },
     "cinemadaily": {
-      "last_id": 20756,
+      "last_id": 20757,
       "processed_ids": [
         20740,
         20741,
@@ -18757,9 +18767,10 @@
         20752,
         20753,
         20755,
-        20756
+        20756,
+        20757
       ],
-      "sent_count": 10
+      "sent_count": 11
     },
     "bajefilm": {
       "last_id": 11634,
@@ -19093,7 +19104,7 @@
       "sent_count": 39
     },
     "shakhmovie": {
-      "last_id": 4140,
+      "last_id": 4142,
       "processed_ids": [
         4017,
         4018,
@@ -19169,12 +19180,13 @@
         4137,
         4138,
         4139,
-        4140
+        4140,
+        4142
       ],
-      "sent_count": 66
+      "sent_count": 67
     },
     "peach_tweet": {
-      "last_id": 3317,
+      "last_id": 3341,
       "processed_ids": [
         2745,
         2749,
@@ -19468,9 +19480,15 @@
         3314,
         3315,
         3316,
-        3317
+        3317,
+        3319,
+        3327,
+        3332,
+        3339,
+        3340,
+        3341
       ],
-      "sent_count": 174
+      "sent_count": 175
     },
     "funy_khand": {
       "last_id": 25814,
@@ -19590,7 +19608,7 @@
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6291,
+      "last_id": 6293,
       "processed_ids": [
         6113,
         6114,
@@ -19754,12 +19772,14 @@
         6288,
         6289,
         6290,
-        6291
+        6291,
+        6292,
+        6293
       ],
       "sent_count": 5
     },
     "ghandeharipoet": {
-      "last_id": 42701,
+      "last_id": 42702,
       "processed_ids": [
         42693,
         42694,
@@ -19769,12 +19789,13 @@
         42698,
         42699,
         42700,
-        42701
+        42701,
+        42702
       ],
       "sent_count": 8
     },
     "dashagh": {
-      "last_id": 48329,
+      "last_id": 48331,
       "processed_ids": [
         48313,
         48314,
@@ -19789,9 +19810,10 @@
         48325,
         48326,
         48327,
-        48329
+        48329,
+        48331
       ],
-      "sent_count": 11
+      "sent_count": 12
     },
     "apkclub": {
       "last_id": 72964,
@@ -19805,216 +19827,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "c7d2274293809d0664ee23b59c4158e6491730ebd8218e856c22bc1ebb4e14c0",
-        "media_fingerprint": "fced8672468fd1066e330446f638db0e469d0b46079b18c0a1d82efe7e5bd8ea",
-        "text": "🟥\nگل سوم پرسپولیس به نفت توسط اورونوف\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🟥\nگل سوم پرسپولیس به نفت توسط اورونوف\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/235056",
-        "post_id": 235056,
-        "message_id": 7754,
-        "message_kind": "caption",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-09T15:52:00.925516+00:00"
-      },
-      {
-        "fingerprint": "d6cd05c3195c7e2bffcc39fadf9c2dbf72d89ed52fd6a1907718d2f8a48d76ee",
-        "media_fingerprint": "",
-        "text": "پرسپولیس میخواد یه بچه رو بفرسته تو\nمحمودی خار داره؟",
-        "original_username": "footballvision2",
-        "original_text": "پرسپولیس میخواد یه بچه رو بفرسته تو\nمحمودی خار داره؟",
-        "original_link": "https://t.me/footballvision2/170876",
-        "post_id": 170876,
-        "message_id": 7755,
-        "message_kind": "text",
-        "sources": [
-          "footballvision2"
-        ],
-        "created_at": "2026-10-09T15:52:03.395921+00:00"
-      },
-      {
-        "fingerprint": "06f908b810f76d61a1fd6cf357e469fc30cfb4bcd6ecc96dbb0a34a11d81055e",
-        "media_fingerprint": "61d723f71296b1cf37845c928d6e13dd3a360fc61d1288f133fa356a29c75703",
-        "text": "درگیری ریکانی و پورعلی\n🔸\nپرسپولیس ۲-۱ صنعت‌نفت\n🔸\n🔴\nدقیقه ۸۰  @Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "درگیری ریکانی و پورعلی\n🔸\nپرسپولیس ۲-۱ صنعت‌نفت\n🔸\n🔴\nدقیقه ۸۰  @Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/109465",
-        "post_id": 109465,
-        "message_id": 7756,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-09T15:52:09.921586+00:00"
-      },
-      {
-        "fingerprint": "84bc33f42ed59faf45017474b103f47d1b103f88fa299f95df73511b0d5525b7",
-        "media_fingerprint": "0628c3c82397e516b92d828c5841d37dc1c8ac6671f37ae523480c6ec2b1cbff",
-        "text": "میکسمون عالی برد شد\n❤️\n✅\n✈️\n@Tabanii_Mafia",
-        "original_username": "peach_tweet",
-        "original_text": "میکسمون عالی برد شد\n❤️\n✅\n✈️\n@Tabanii_Mafia",
-        "original_link": "https://t.me/peach_tweet/2971",
-        "post_id": 2971,
-        "message_id": 7757,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-09T15:52:13.735265+00:00"
-      },
-      {
-        "fingerprint": "c2d90d4360aa27d6b27d41001fd38c42aa8f6230a0b4396246a5e8972bad3c48",
-        "media_fingerprint": "f259b4f615eade801b606d43143b452586d6ef70ddb87ae348ba52a9af9f56a8",
-        "text": "دفعه بعدی که یه نفر جهت آشنایی پیام داد وقتت تلف نکن اینو براش بفرست\n😂\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "دفعه بعدی که یه نفر جهت آشنایی پیام داد وقتت تلف نکن اینو براش بفرست\n😂\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/2973",
-        "post_id": 2973,
-        "message_id": 7758,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-09T15:52:27.694303+00:00"
-      },
-      {
-        "fingerprint": "624f953a1442b3e0f632d2b43a92d94e08fe0fc9bc56b4b94cae06f8001ba451",
-        "media_fingerprint": "dcf961e44a751963c1545d47cdb583c191cf9ed56337afcb38c88da45d362660",
-        "text": "🏅\nگل سوم پرسپولیس به صنعت نفت آبادان توسط اورونوف\nپرسپولیس 3- صنعت نفت 1\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_username": "total_fut",
-        "original_text": "🏅\nگل سوم پرسپولیس به صنعت نفت آبادان توسط اورونوف\nپرسپولیس 3- صنعت نفت 1\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_link": "https://t.me/total_fut/237572",
-        "post_id": 237572,
-        "message_id": 7760,
-        "message_kind": "caption",
-        "sources": [
-          "total_fut"
-        ],
-        "created_at": "2026-10-09T15:52:34.299381+00:00"
-      },
-      {
-        "fingerprint": "83376c18e8a5de4488fb88eb9296af3c9fea04433a33b0fb7fd062cda7a98510",
-        "media_fingerprint": "e04ea6544cd18da0a3965e829a57c0269d0c3ed249442ff1517e240f067cdf2e",
-        "text": "♦️\nآیین تکریم و معارفه امام جمعه شهرستان اقلید برگزار شد\n🔹\nدر آیین تکریم و معارفه امام جمعه شهر اقلید با حضور مسئولان شهرستانی و استانی، از خدمات حجت‌الاسلام والمسلمین مجید گشول دره‌سیبی قدردانی و حجت‌الاسلام والمسلمین محمدرضا رئیسی‌زاده به‌عنوان امام جمعه جدید شهر اقلید معرفی شد.\n@Akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nآیین تکریم و معارفه امام جمعه شهرستان اقلید برگزار شد\n🔹\nدر آیین تکریم و معارفه امام جمعه شهر اقلید با حضور مسئولان شهرستانی و استانی، از خدمات حجت‌الاسلام والمسلمین مجید گشول دره‌سیبی قدردانی و حجت‌الاسلام والمسلمین محمدرضا رئیسی‌زاده به‌عنوان امام جمعه جدید شهر اقلید معرفی شد.\n@Akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143373",
-        "post_id": 143373,
-        "message_id": 7761,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-09T15:52:38.839683+00:00"
-      },
-      {
-        "fingerprint": "c3ec5943c612554f573bb73749b6830785b52275356cf2fa18b4b932c7c4b1a8",
-        "media_fingerprint": "",
-        "text": "⚽\nپایان‌بازی؛\nدر شبی که پای اورونوف به گلزنی باز شد ، پرسپولیس سه امتیاز ارزشمند گرفتو صنعت نفت همچنان در بحران ماند\n⚽\nپرسپولیس 3\n✅\n1 صنعت نفت آبادان\n⚽️\n⚽️\n@Hattric_Official",
-        "original_username": "hattric_official",
-        "original_text": "⚽\nپایان‌بازی؛\nدر شبی که پای اورونوف به گلزنی باز شد ، پرسپولیس سه امتیاز ارزشمند گرفتو صنعت نفت همچنان در بحران ماند\n⚽\nپرسپولیس 3\n✅\n1 صنعت نفت آبادان\n⚽️\n⚽️\n@Hattric_Official",
-        "original_link": "https://t.me/Hattric_Official/84566",
-        "post_id": 84566,
-        "message_id": 7762,
-        "message_kind": "text",
-        "sources": [
-          "hattric_official"
-        ],
-        "created_at": "2026-10-09T15:52:42.129237+00:00"
-      },
-      {
-        "fingerprint": "a436f1d33b03453b66a3df9d523f37ab26733dac156cd25988b5dc586aa0efd6",
-        "media_fingerprint": "fadf7be89b4a1cce89b79d22d872778160883339320bfbaa0fa43e0631e01f1c",
-        "text": "⚽️\n🔴\nگل سوم پرسپولیس | اورونوف '85 پرسپولیس 3 - نفت آبادان 1\n🆔\n@varzesh3",
-        "original_username": "varzesh3",
-        "original_text": "⚽️\n🔴\nگل سوم پرسپولیس | اورونوف '85 پرسپولیس 3 - نفت آبادان 1\n🆔\n@varzesh3",
-        "original_link": "https://t.me/varzesh3/303698",
-        "post_id": 303698,
-        "message_id": 7763,
-        "message_kind": "caption",
-        "sources": [
-          "varzesh3"
-        ],
-        "created_at": "2026-10-09T15:52:46.049541+00:00"
-      },
-      {
-        "fingerprint": "fcb155e9e301e0de1226c893282d86e14a35adfbf14f7388e348e14e7902a85a",
-        "media_fingerprint": "faf6d6c0edebf71550b9bc26b19a86a91362c3104a0ba2d9aba35650dcd76c9e",
-        "text": "🚨\n🇮🇷\nهفته‌هشتم لیگ‌برتر؛ بهتر از این نمیشد؛ برتری خانگی با گلزنی اورونوف و بیفوما؛ علیپور هم طبق معمول گلزنی کرد؛ پرسپولیس در آستانه گرفتن صدرجدول از تراکتور\n🇮🇷\nپرسپولیس\n3️⃣\n-\n1️⃣\nنفت‌آبادان\n🇮🇷\n⚽️\n@Futball180TV",
-        "original_username": "futball180tv",
-        "original_text": "🚨\n🇮🇷\nهفته‌هشتم لیگ‌برتر؛ بهتر از این نمیشد؛ برتری خانگی با گلزنی اورونوف و بیفوما؛ علیپور هم طبق معمول گلزنی کرد؛ پرسپولیس در آستانه گرفتن صدرجدول از تراکتور\n🇮🇷\nپرسپولیس\n3️⃣\n-\n1️⃣\nنفت‌آبادان\n🇮🇷\n⚽️\n@Futball180TV",
-        "original_link": "https://t.me/Futball180TV/108202",
-        "post_id": 108202,
-        "message_id": 7764,
-        "message_kind": "caption",
-        "sources": [
-          "futball180tv"
-        ],
-        "created_at": "2026-10-09T15:52:50.773410+00:00"
-      },
-      {
-        "fingerprint": "e0cda0795c331d25fb39d047af36fbaa1b7d524da6e3041d45ba3dc8593f96de",
-        "media_fingerprint": "497c0a008f0bc004f8a75cec7b54dea1c47961465445e8fe963e8598e6cb64b0",
-        "text": "🔸\nپرسپولیس [۳]-۱ صنعت‌نفت\n🔸\n⚽️\nاورونوف\n🔴\nدقیقه ۸۵  @Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "🔸\nپرسپولیس [۳]-۱ صنعت‌نفت\n🔸\n⚽️\nاورونوف\n🔴\nدقیقه ۸۵  @Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/109468",
-        "post_id": 109468,
-        "message_id": 7765,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-09T15:52:54.550342+00:00"
-      },
-      {
-        "fingerprint": "7dbbd199ce7f291f131d3e6d6ffc7386c14e8c96ed3eafe38e0f010418dee2e1",
-        "media_fingerprint": "cbdfc5e333f35df01fffdfb92045d0569d4e2628e890f9a8b15ee348bdff1de0",
-        "text": "🏅\n⚔️\n🥇\nپایان بازی | یک برد دیگر برای ارتش سرخ با درخشش بیفوما و ارونوف\nپرسپولیس 3\nنفت آبادان 1\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_username": "total_fut",
-        "original_text": "🏅\n⚔️\n🥇\nپایان بازی | یک برد دیگر برای ارتش سرخ با درخشش بیفوما و ارونوف\nپرسپولیس 3\nنفت آبادان 1\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_link": "https://t.me/total_fut/237575",
-        "post_id": 237575,
-        "message_id": 7766,
-        "message_kind": "caption",
-        "sources": [
-          "total_fut"
-        ],
-        "created_at": "2026-10-09T15:52:58.619737+00:00"
-      },
-      {
-        "fingerprint": "3219034d3c48c6c4b7298e324ff002db6bca2a50586f562bfd69ea88bc3f3647",
-        "media_fingerprint": "",
-        "text": "🎖️\n🏅\nپرسپولیس با سه گل صنعت رو شکست داد!\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_username": "totalfut_plus",
-        "original_text": "🎖️\n🏅\nپرسپولیس با سه گل صنعت رو شکست داد!\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_link": "https://t.me/totalfut_plus/26616",
-        "post_id": 26616,
-        "message_id": 7767,
-        "message_kind": "text",
-        "sources": [
-          "totalfut_plus"
-        ],
-        "created_at": "2026-10-09T15:53:01.194587+00:00"
-      },
-      {
-        "fingerprint": "6cd61195152ca78edd237b94f653edba2bcb8d168be2dee5f08215bce08b5c96",
-        "media_fingerprint": "72f6d7df72c8951728ee005495d00aadb8759afbc640134d9da89153f6cc13ab",
-        "text": "🏅\nشادی ایسلندی بازیکنان پرسپولیس همراه با هوادارانشان در ورزشگاه شهرقدس\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_username": "total_fut",
-        "original_text": "🏅\nشادی ایسلندی بازیکنان پرسپولیس همراه با هوادارانشان در ورزشگاه شهرقدس\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_link": "https://t.me/total_fut/237576",
-        "post_id": 237576,
-        "message_id": 7768,
-        "message_kind": "caption",
-        "sources": [
-          "total_fut"
-        ],
-        "created_at": "2026-10-09T15:53:06.883485+00:00"
-      },
       {
         "fingerprint": "f19e37199459a74e799d01f7993d88d752f14e8573a2b19a4ede2e5e82d16647",
         "media_fingerprint": "493b9de0eb12a8c2150970bc7ee2431b439d0b2e3070bbf6af08895f97595275",
@@ -34235,7 +34047,8 @@
         "message_id": 8775,
         "message_kind": "caption",
         "sources": [
-          "dashagh"
+          "dashagh",
+          "peach_tweet"
         ],
         "created_at": "2026-10-12T15:53:31.764501+00:00"
       },
@@ -34295,7 +34108,8 @@
         "message_id": 8780,
         "message_kind": "caption",
         "sources": [
-          "drtel"
+          "drtel",
+          "akhbarfars"
         ],
         "created_at": "2026-10-12T16:21:16.829320+00:00"
       },
@@ -34596,7 +34410,8 @@
         "message_id": 8800,
         "message_kind": "caption",
         "sources": [
-          "dashagh"
+          "dashagh",
+          "peach_tweet"
         ],
         "created_at": "2026-10-12T17:21:25.534685+00:00"
       },
@@ -34899,6 +34714,217 @@
           "peach_tweet"
         ],
         "created_at": "2026-10-12T17:51:18.526550+00:00"
+      },
+      {
+        "fingerprint": "2e9ec1966baeb809b38e26fbec6f39afdf4999316b1a2dc78ac4f755120c713d",
+        "media_fingerprint": "e7db743f4c64dcd414631802069191393833d7a19e0ab49cce90f3a283f2fbfc",
+        "text": "👈\n🔥\nفیلترشکنتو ارزون بخر\n🔥\n👉\n✅\nبدون قطعی و افت سرعت حتی در زمان ملی شدن نت\n✅\nباز شدن اینستاگرام یوتیوب تلگرام و غیره....\n🚀\n✅\nدارای تست رایگان\n👇\n²⁰\nhttps://telegram.me/IRONETBOT\nhttps://telegram.me/IRONETBOT",
+        "original_username": "khandehabadd",
+        "original_text": "👈\n🔥\nفیلترشکنتو ارزون بخر\n🔥\n👉\n✅\nبدون قطعی و افت سرعت حتی در زمان ملی شدن نت\n✅\nباز شدن اینستاگرام یوتیوب تلگرام و غیره....\n🚀\n✅\nدارای تست رایگان\n👇\n²⁰\nhttps://telegram.me/IRONETBOT\nhttps://telegram.me/IRONETBOT",
+        "original_link": "https://t.me/khandehabadd/306972",
+        "post_id": 306972,
+        "message_id": 8823,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-12T18:23:26.625598+00:00"
+      },
+      {
+        "fingerprint": "8e1c8c8877f3fbf69f53937cc1940531cd4b590878512b118233e1de2ec612df",
+        "media_fingerprint": "",
+        "text": "AC_210800_20261001.mp3",
+        "original_username": "akhbarfars",
+        "original_text": "AC_210800_20261001.mp3",
+        "original_link": "https://t.me/akhbarfars/143597",
+        "post_id": 143597,
+        "message_id": 8824,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-12T18:23:29.338157+00:00"
+      },
+      {
+        "fingerprint": "b4093fb79646f64c415b8e0ec29e13225854996dd8ff04704f2e7eeba0d2f669",
+        "media_fingerprint": "eee5a3eed8593f57a26fce2addc2cfb686b60b4de3fee66706b5505c8e7fb53e",
+        "text": "نقاشی دنریس روی دیوار اتاق جرج ار مارتین خالق دنیای بازی تاج و تخت\n📷\n|\n@ShakhMovie",
+        "original_username": "shakhmovie",
+        "original_text": "نقاشی دنریس روی دیوار اتاق جرج ار مارتین خالق دنیای بازی تاج و تخت\n📷\n|\n@ShakhMovie",
+        "original_link": "https://t.me/Shakhmovie/4142",
+        "post_id": 4142,
+        "message_id": 8825,
+        "message_kind": "caption",
+        "sources": [
+          "shakhmovie"
+        ],
+        "created_at": "2026-10-12T18:23:34.414231+00:00"
+      },
+      {
+        "fingerprint": "57d64f257228bc603b12d2771d7752b4dc0cdb03f26e154c5c84969ce5fffa66",
+        "media_fingerprint": "",
+        "text": "نسخه جدید تلگرام اصلی   :\n☄️\nاکانت پریمیوم رایگان شده\n💥\n✅\nپروکسی های اختصاصی اومده\n🔗\n🌐\nهوش مصنوعی برای تولید عکس و فیلم گذاشته\n▶️\n⌨️\n📸\nکاملا امن دانلود شده از فروشگاه گوگل\n🛒\n💯",
+        "original_username": "ajayebe_jahann",
+        "original_text": "نسخه جدید تلگرام اصلی   :\n☄️\nاکانت پریمیوم رایگان شده\n💥\n✅\nپروکسی های اختصاصی اومده\n🔗\n🌐\nهوش مصنوعی برای تولید عکس و فیلم گذاشته\n▶️\n⌨️\n📸\nکاملا امن دانلود شده از فروشگاه گوگل\n🛒\n💯",
+        "original_link": "https://t.me/Ajayebe_jahann/159757",
+        "post_id": 159757,
+        "message_id": 8826,
+        "message_kind": "text",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-12T18:23:37.138913+00:00"
+      },
+      {
+        "fingerprint": "fc57da2e76687f1c14e5a53b93621f8b2d2870906c1ec68d5d915d7ddd762a64",
+        "media_fingerprint": "0b038f57c2ddf7e2632f2785d1ddb42442b1ab48935089acc4bbd594fb2207ea",
+        "text": "🔻\nست بسیار زیبا اسکناس کشور سائوتومه پرنسیپ\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "🔻\nست بسیار زیبا اسکناس کشور سائوتومه پرنسیپ\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/159758",
+        "post_id": 159758,
+        "message_id": 8827,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-12T18:23:45.576141+00:00"
+      },
+      {
+        "fingerprint": "b74947ab02c6e709032bb6f2451f9e4c897bccdc34c1d4085caf37dc545a4c9a",
+        "media_fingerprint": "c96ede6b35d373c33ee66a30ea4df7d1b9c22165d5947d49d529cffb6159d68d",
+        "text": "♦️\nوزیر فرهنگ: حافظ به واژگان ادبیات فارسی معنای تازه ای بخشید\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nوزیر فرهنگ: حافظ به واژگان ادبیات فارسی معنای تازه ای بخشید\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143598",
+        "post_id": 143598,
+        "message_id": 8828,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-12T18:23:49.304351+00:00"
+      },
+      {
+        "fingerprint": "9630057f105e359bafb2bbb13bf009b018169be1a2b9763476edfa127af2d29c",
+        "media_fingerprint": "d3a4da7fa336166a0248f7ccde31743a84247613eb3e1bd17ef1e569f5a69b05",
+        "text": "ویدیو وایرال شده از عاشقانه های یه دختر و پسر دانشجو :\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "ویدیو وایرال شده از عاشقانه های یه دختر و پسر دانشجو :\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/3332",
+        "post_id": 3332,
+        "message_id": 8829,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-12T18:23:56.432642+00:00"
+      },
+      {
+        "fingerprint": "6bafb58b6c1c93826cc4ac89f7a9301a0007b2958f98bfa6fc39ed6181c3c85b",
+        "media_fingerprint": "",
+        "text": "‍\nحداقل هزینه «یک روز» تولید فیلم «یک میلیارد تومان»!/ روایت یک تهیه‌کننده از اوج‌گیری هزینه‌های فیلم‌سازی\n🔹\nسعید خانی تهیه کننده سینما در گفتگو با امیرعباس صباغ در برنامه این هفته چراغ از بحران موجودیت و مرگ سینمای مستقل در  شرایط امروز ایران گفت: «هزینه ساخت یک فیلم معمولی با دو سه بازیگر معمولی روزی 1 میلیارد تومان است و اگر در کمترین زمان مثلا 40 روزه فیلم جمع شود هزینه ساخت فیلم 40 میلیارد تومان می شود. من به عنوان یک تهیه کننده بخش خصوصی دیگر توان ساخت فیلم مستقل ندارم، سراغ بهرام رادان می روم و به عنوان تهیه کننده مشترک با هم کار می کنیم که هزینه دستمزد نخواهم به او بدهم و بخشی هم از فارابی کمک می گیرم و دیگر نمی توانم فیلمی مثل رها و دو زیست بسازم و عملا دیگر چیزی به نام سینمای مستقل نداریم و ساخت فیلم مستقل هیچ توجیه اقتصادی ندارد !»\n🔹\nخانی در ادامه گفت: « تولیدات پلتفرم ها مخصوصا رئالیتی شوها باعث شده فاصله بین بازیگران در رده های مختلف به هم بسیار نزدیک شود مثلا یک بازیگر درجه 3 امروز دستمزد 2 تا 3 میلیارد دارد و یک بازیگر درجه 1 حدود 4 تا 5 میلیارد. تقریبا اهمیت جایگاه سینما هم میان بسیاری از بازیگران هم از بین رفته و طرف ترجیح می دهد جای فعالیت در مدیوم سینما به یک رئالیتی شو برود و یکی دو ساعت حرف بزند و 1 میلیارد بگیرد. در حال حاضر دو سه بازیگر شاخص و نفر اول در آقایون حداکثر دستمزد 10 تا 12 میلیارد دارند و در میان خانم ها این عدد به 7 تا 8 میلیارد می رسد»",
+        "original_username": "cinemadaily",
+        "original_text": "‍\nحداقل هزینه «یک روز» تولید فیلم «یک میلیارد تومان»!/ روایت یک تهیه‌کننده از اوج‌گیری هزینه‌های فیلم‌سازی\n🔹\nسعید خانی تهیه کننده سینما در گفتگو با امیرعباس صباغ در برنامه این هفته چراغ از بحران موجودیت و مرگ سینمای مستقل در  شرایط امروز ایران گفت: «هزینه ساخت یک فیلم معمولی با دو سه بازیگر معمولی روزی 1 میلیارد تومان است و اگر در کمترین زمان مثلا 40 روزه فیلم جمع شود هزینه ساخت فیلم 40 میلیارد تومان می شود. من به عنوان یک تهیه کننده بخش خصوصی دیگر توان ساخت فیلم مستقل ندارم، سراغ بهرام رادان می روم و به عنوان تهیه کننده مشترک با هم کار می کنیم که هزینه دستمزد نخواهم به او بدهم و بخشی هم از فارابی کمک می گیرم و دیگر نمی توانم فیلمی مثل رها و دو زیست بسازم و عملا دیگر چیزی به نام سینمای مستقل نداریم و ساخت فیلم مستقل هیچ توجیه اقتصادی ندارد !»\n🔹\nخانی در ادامه گفت: « تولیدات پلتفرم ها مخصوصا رئالیتی شوها باعث شده فاصله بین بازیگران در رده های مختلف به هم بسیار نزدیک شود مثلا یک بازیگر درجه 3 امروز دستمزد 2 تا 3 میلیارد دارد و یک بازیگر درجه 1 حدود 4 تا 5 میلیارد. تقریبا اهمیت جایگاه سینما هم میان بسیاری از بازیگران هم از بین رفته و طرف ترجیح می دهد جای فعالیت در مدیوم سینما به یک رئالیتی شو برود و یکی دو ساعت حرف بزند و 1 میلیارد بگیرد. در حال حاضر دو سه بازیگر شاخص و نفر اول در آقایون حداکثر دستمزد 10 تا 12 میلیارد دارند و در میان خانم ها این عدد به 7 تا 8 میلیارد می رسد»",
+        "original_link": "https://t.me/Cinemadaily/20757",
+        "post_id": 20757,
+        "message_id": 8830,
+        "message_kind": "text",
+        "sources": [
+          "cinemadaily"
+        ],
+        "created_at": "2026-10-12T18:24:00.276238+00:00"
+      },
+      {
+        "fingerprint": "45a16a724f68828d2cb6c08669b5c481f5604045dac112b7a5e2ea68bbe95224",
+        "media_fingerprint": "b71eba884f729be1f3b4368b40e1568153c51c63ce0dfde11d8e45dfb43de8ed",
+        "text": "معنی رفتار پارتنرت رو میدونستی؟\nاین عکس رو ببین تا متوجه بشی یا بفرست براش تا متوجه بشه\n😂\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "معنی رفتار پارتنرت رو میدونستی؟\nاین عکس رو ببین تا متوجه بشی یا بفرست براش تا متوجه بشه\n😂\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48331",
+        "post_id": 48331,
+        "message_id": 8831,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh",
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-12T18:24:04.632541+00:00"
+      },
+      {
+        "fingerprint": "ef6b8a8a36cf08ac924b1ab61719aa510a2cd9dc1392920304fe7f334fdef2a0",
+        "media_fingerprint": "c18ed9ce2671f72fc7ed8c713f600ac331ebaf767280692f811cd2e585b37680",
+        "text": "اختصارات دارویی و تعاریف\nبلد بودن این اختصارات تو خوندن نسخه و همچنین عموم مردم که نسخه کاغذی از پزشک دریافت میکنن تقریبا الزامیه\nذخیره کنید\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "اختصارات دارویی و تعاریف\nبلد بودن این اختصارات تو خوندن نسخه و همچنین عموم مردم که نسخه کاغذی از پزشک دریافت میکنن تقریبا الزامیه\nذخیره کنید\n@irWonders",
+        "original_link": "https://t.me/irwonders/58640",
+        "post_id": 58640,
+        "message_id": 8832,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-12T18:24:09.977411+00:00"
+      },
+      {
+        "fingerprint": "363dcefecce9adb436768832955d8bc2d178e3ee0aa193aecd1bd33b0f404c9b",
+        "media_fingerprint": "44705b23222738c52153ec547de9be2bd8e831b733cbc4e7dbc2dbbdbbad5d6e",
+        "text": "فقط آخریش\n😂\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "فقط آخریش\n😂\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306973",
+        "post_id": 306973,
+        "message_id": 8833,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-12T18:24:26.332499+00:00"
+      },
+      {
+        "fingerprint": "2e79cc1bcd24f4ff530772e0913f29ad703f1c278ee8607f42df3a74cf811c81",
+        "media_fingerprint": "",
+        "text": "edc_registration_manual.pdf",
+        "original_username": "akhbar_cafenet",
+        "original_text": "edc_registration_manual.pdf",
+        "original_link": "https://t.me/akhbar_cafenet/23280",
+        "post_id": 23280,
+        "message_id": 8834,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-12T18:24:28.964758+00:00"
+      },
+      {
+        "fingerprint": "4e6d10c04aca284721c00ad855c2bbd70c07b4caf492b346bb6f3cc457e45147",
+        "media_fingerprint": "919320f5c33062f479295c86f3445f34b775bd4a597aa70f932a0663d96314d0",
+        "text": "♦️\nبارش رحمت الهی امروز ارتفاعات نوایگان ٢٠ مهر ١۴٠۵\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nبارش رحمت الهی امروز ارتفاعات نوایگان ٢٠ مهر ١۴٠۵\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143599",
+        "post_id": 143599,
+        "message_id": 8835,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-12T18:24:35.570169+00:00"
+      },
+      {
+        "fingerprint": "c8c0d875a8e8eb8457069d5b85fe97b7c294603b9beff7576ff60f6fa63dee27",
+        "media_fingerprint": "",
+        "text": "پرسپولیسسسسسسسس",
+        "original_username": "footballvision2",
+        "original_text": "پرسپولیسسسسسسسس",
+        "original_link": "https://t.me/footballvision2/171105",
+        "post_id": 171105,
+        "message_id": 8836,
+        "message_kind": "text",
+        "sources": [
+          "footballvision2"
+        ],
+        "created_at": "2026-10-12T18:24:38.743262+00:00"
       }
     ]
   }
