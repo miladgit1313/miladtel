@@ -1,11 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143591,
+      "last_id": 143594,
       "processed_ids": [
-        142464,
-        142465,
-        142466,
         142467,
         142468,
         142469,
@@ -1002,20 +999,16 @@
         143588,
         143589,
         143590,
-        143591
+        143591,
+        143592,
+        143593,
+        143594
       ],
-      "sent_count": 911
+      "sent_count": 913
     },
     "total_fut": {
-      "last_id": 237789,
+      "last_id": 237798,
       "processed_ids": [
-        236731,
-        236732,
-        236733,
-        236734,
-        236735,
-        236736,
-        236737,
         236738,
         236739,
         236740,
@@ -2008,17 +2001,20 @@
         237786,
         237787,
         237788,
-        237789
+        237789,
+        237791,
+        237792,
+        237793,
+        237795,
+        237796,
+        237797,
+        237798
       ],
       "sent_count": 126
     },
     "footballvision2": {
-      "last_id": 171093,
+      "last_id": 171097,
       "processed_ids": [
-        169988,
-        169989,
-        169990,
-        169991,
         169992,
         169993,
         169994,
@@ -3014,7 +3010,11 @@
         171090,
         171091,
         171092,
-        171093
+        171093,
+        171094,
+        171095,
+        171096,
+        171097
       ],
       "sent_count": 133
     },
@@ -3324,7 +3324,7 @@
       "sent_count": 8
     },
     "drtel": {
-      "last_id": 67630,
+      "last_id": 67631,
       "processed_ids": [
         66561,
         66565,
@@ -4164,7 +4164,8 @@
         67627,
         67628,
         67629,
-        67630
+        67630,
+        67631
       ],
       "sent_count": 471
     },
@@ -5243,7 +5244,7 @@
       "sent_count": 135
     },
     "akhbar_cafenet": {
-      "last_id": 23277,
+      "last_id": 23279,
       "processed_ids": [
         22432,
         22433,
@@ -6036,12 +6037,14 @@
         23274,
         23275,
         23276,
-        23277
+        23277,
+        23278,
+        23279
       ],
       "sent_count": 428
     },
     "comentiat": {
-      "last_id": 26467,
+      "last_id": 26468,
       "processed_ids": [
         25844,
         25845,
@@ -6544,9 +6547,10 @@
         26463,
         26464,
         26466,
-        26467
+        26467,
+        26468
       ],
-      "sent_count": 366
+      "sent_count": 367
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -7848,7 +7852,7 @@
       "sent_count": 784
     },
     "dr_salamatx": {
-      "last_id": 55389,
+      "last_id": 55390,
       "processed_ids": [
         55270,
         55271,
@@ -7969,9 +7973,10 @@
         55386,
         55387,
         55388,
-        55389
+        55389,
+        55390
       ],
-      "sent_count": 76
+      "sent_count": 77
     },
     "jaleb": {
       "last_id": 52876,
@@ -9512,13 +9517,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109807,
+      "last_id": 109812,
       "processed_ids": [
-        108726,
-        108727,
-        108728,
-        108729,
-        108730,
         108731,
         108732,
         108733,
@@ -10513,15 +10513,18 @@
         109804,
         109805,
         109806,
-        109807
+        109807,
+        109808,
+        109809,
+        109810,
+        109811,
+        109812
       ],
       "sent_count": 139
     },
     "varzesh3": {
-      "last_id": 303918,
+      "last_id": 303920,
       "processed_ids": [
-        302822,
-        302823,
         302824,
         302825,
         302826,
@@ -11519,7 +11522,9 @@
         303915,
         303916,
         303917,
-        303918
+        303918,
+        303919,
+        303920
       ],
       "sent_count": 91
     },
@@ -12354,9 +12359,8 @@
       "sent_count": 59
     },
     "adak_ir_official": {
-      "last_id": 235257,
+      "last_id": 235258,
       "processed_ids": [
-        234230,
         234231,
         234232,
         234233,
@@ -13355,14 +13359,14 @@
         235254,
         235255,
         235256,
-        235257
+        235257,
+        235258
       ],
       "sent_count": 194
     },
     "futball180tv": {
-      "last_id": 108424,
+      "last_id": 108425,
       "processed_ids": [
-        107402,
         107403,
         107404,
         107405,
@@ -14361,16 +14365,14 @@
         108421,
         108422,
         108423,
-        108424
+        108424,
+        108425
       ],
       "sent_count": 88
     },
     "hattric_official": {
-      "last_id": 84765,
+      "last_id": 84768,
       "processed_ids": [
-        83708,
-        83709,
-        83710,
         83711,
         83712,
         83713,
@@ -15367,7 +15369,10 @@
         84762,
         84763,
         84764,
-        84765
+        84765,
+        84766,
+        84767,
+        84768
       ],
       "sent_count": 126
     },
@@ -16061,7 +16066,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58638,
+      "last_id": 58639,
       "processed_ids": [
         58030,
         58031,
@@ -16619,12 +16624,13 @@
         58635,
         58636,
         58637,
-        58638
+        58638,
+        58639
       ],
-      "sent_count": 352
+      "sent_count": 353
     },
     "razcom": {
-      "last_id": 70492,
+      "last_id": 70495,
       "processed_ids": [
         70448,
         70449,
@@ -16660,7 +16666,10 @@
         70485,
         70490,
         70491,
-        70492
+        70492,
+        70493,
+        70494,
+        70495
       ],
       "sent_count": 10
     },
@@ -18202,7 +18211,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306970,
+      "last_id": 306971,
       "processed_ids": [
         306563,
         306564,
@@ -18605,9 +18614,10 @@
         306967,
         306968,
         306969,
-        306970
+        306970,
+        306971
       ],
-      "sent_count": 173
+      "sent_count": 174
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -18752,7 +18762,7 @@
       "sent_count": 10
     },
     "bajefilm": {
-      "last_id": 11633,
+      "last_id": 11634,
       "processed_ids": [
         11552,
         11553,
@@ -18835,7 +18845,8 @@
         11630,
         11631,
         11632,
-        11633
+        11633,
+        11634
       ],
       "sent_count": 67
     },
@@ -19163,7 +19174,7 @@
       "sent_count": 66
     },
     "peach_tweet": {
-      "last_id": 3295,
+      "last_id": 3317,
       "processed_ids": [
         2745,
         2749,
@@ -19448,12 +19459,21 @@
         3292,
         3293,
         3294,
-        3295
+        3295,
+        3301,
+        3306,
+        3311,
+        3312,
+        3313,
+        3314,
+        3315,
+        3316,
+        3317
       ],
-      "sent_count": 169
+      "sent_count": 174
     },
     "funy_khand": {
-      "last_id": 25812,
+      "last_id": 25814,
       "processed_ids": [
         25704,
         25705,
@@ -19563,12 +19583,14 @@
         25809,
         25810,
         25811,
-        25812
+        25812,
+        25813,
+        25814
       ],
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6289,
+      "last_id": 6291,
       "processed_ids": [
         6113,
         6114,
@@ -19730,12 +19752,14 @@
         6286,
         6287,
         6288,
-        6289
+        6289,
+        6290,
+        6291
       ],
       "sent_count": 5
     },
     "ghandeharipoet": {
-      "last_id": 42700,
+      "last_id": 42701,
       "processed_ids": [
         42693,
         42694,
@@ -19744,9 +19768,10 @@
         42697,
         42698,
         42699,
-        42700
+        42700,
+        42701
       ],
-      "sent_count": 7
+      "sent_count": 8
     },
     "dashagh": {
       "last_id": 48329,
@@ -19780,188 +19805,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "60230f76ae5bd3e639548169f0b0faec69523747719bd47049e1d8f851568378",
-        "media_fingerprint": "37f2814485e2183564a1117840ce4315a4ab277f7fcd5d5bc56ba9dd5dee38f2",
-        "text": "پنالتی‌ای که بیفوما گرفت\n🔸\nپرسپولیس [۲]-۰ صنعت‌نفت\n🔸\n⚽️\nعلیپور\n🔴\nدقیقه ۵۳  @Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "پنالتی‌ای که بیفوما گرفت\n🔸\nپرسپولیس [۲]-۰ صنعت‌نفت\n🔸\n⚽️\nعلیپور\n🔴\nدقیقه ۵۳  @Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/109462",
-        "post_id": 109462,
-        "message_id": 7742,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-09T15:20:56.319621+00:00"
-      },
-      {
-        "fingerprint": "25931488556ef73307452409c0ce3d650915d607fd5daf252ae56745df3e2f54",
-        "media_fingerprint": "ab60d3b55a8fa26e57b23f65f2b6768bf27ab9c21abd8020abb05018456ce353",
-        "text": "از نقطه پنالتی؛\n⚽️\n🔴\nگل دوم پرسپولیس | علیپور '53 پرسپولیس 2 - نفت آبادان 0\n🆔\n@varzesh3",
-        "original_username": "varzesh3",
-        "original_text": "از نقطه پنالتی؛\n⚽️\n🔴\nگل دوم پرسپولیس | علیپور '53 پرسپولیس 2 - نفت آبادان 0\n🆔\n@varzesh3",
-        "original_link": "https://t.me/varzesh3/303694",
-        "post_id": 303694,
-        "message_id": 7743,
-        "message_kind": "caption",
-        "sources": [
-          "varzesh3",
-          "mazdak_hattrick"
-        ],
-        "created_at": "2026-10-09T15:21:04.362232+00:00"
-      },
-      {
-        "fingerprint": "a0c8d501689962a7c8a948005fdaf2cb939bc1f13dc8eef38508930b51333cec",
-        "media_fingerprint": "",
-        "text": "♦️\n#چند_خبر_کوتاه\n🔹\nجلسه ستاد مدیریت بحران استان فارس با هدف پیشگیری از خسارات وارده از بارندگی‌های سیل آسای آینده در جهرم برگزار شد.\n🔹\nویژه برنامه گرامیداشت هفته ملی کودک در کانون پرورش فکری کودکان و نوجوانان شهرستان آباده برگزار شد.\n🔹\nهشت متخلف شکار و صید کبک و ماهی در اقلید دستگیر شدند.\n@Akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\n#چند_خبر_کوتاه\n🔹\nجلسه ستاد مدیریت بحران استان فارس با هدف پیشگیری از خسارات وارده از بارندگی‌های سیل آسای آینده در جهرم برگزار شد.\n🔹\nویژه برنامه گرامیداشت هفته ملی کودک در کانون پرورش فکری کودکان و نوجوانان شهرستان آباده برگزار شد.\n🔹\nهشت متخلف شکار و صید کبک و ماهی در اقلید دستگیر شدند.\n@Akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143372",
-        "post_id": 143372,
-        "message_id": 7744,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-09T15:21:07.330403+00:00"
-      },
-      {
-        "fingerprint": "087d8b2f97ac22ea1737a9746351f20f0c2642e98395af63637cc78ec059a372",
-        "media_fingerprint": "",
-        "text": "مهاجما پرسپولیس واقعا مفت خورن",
-        "original_username": "footballvision2",
-        "original_text": "مهاجما پرسپولیس واقعا مفت خورن",
-        "original_link": "https://t.me/footballvision2/170870",
-        "post_id": 170870,
-        "message_id": 7745,
-        "message_kind": "text",
-        "sources": [
-          "footballvision2"
-        ],
-        "created_at": "2026-10-09T15:21:10.465711+00:00"
-      },
-      {
-        "fingerprint": "3eb69e8da968cecc52e2e49d1ae6e2c1a9150a90f27744f1f30fbc9f8f28e9b7",
-        "media_fingerprint": "3af2253e268c21d46a8f61c3faf5adaa176db21a458776c70847f7aa1e8e08fe",
-        "text": "🔴\nشهرداری خرمشهر دیده یه سرسره تو پارک شکسته، با خودشون گفتن چکارکنیم چکارنکنیم؟؟\nکه این نیمه شاهکار رو پیاده کردن :\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nشهرداری خرمشهر دیده یه سرسره تو پارک شکسته، با خودشون گفتن چکارکنیم چکارنکنیم؟؟\nکه این نیمه شاهکار رو پیاده کردن :\n@DrTeL",
-        "original_link": "https://t.me/drtel/67510",
-        "post_id": 67510,
-        "message_id": 7746,
-        "message_kind": "caption",
-        "sources": [
-          "drtel",
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-09T15:21:17.902885+00:00"
-      },
-      {
-        "fingerprint": "3919cc03eae0ba924c2ede3501d35e80311bce15ed360a2b7e224ed96ad6fe83",
-        "media_fingerprint": "",
-        "text": "گللل سوم پرسپولیس اورونوف",
-        "original_username": "adak_ir_official",
-        "original_text": "گللل سوم پرسپولیس اورونوف",
-        "original_link": "https://t.me/ADAK_IR_official/235054",
-        "post_id": 235054,
-        "message_id": 7747,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-09T15:21:20.500473+00:00"
-      },
-      {
-        "fingerprint": "67f0e377aa30160247d565a244ea7ecfbec534e71263401bc53a08e4a724edef",
-        "media_fingerprint": "632eea4549aa66e11c4573f20fd383e8506b58f84b33862c3643016787f1c549",
-        "text": "🔸\nپرسپولیس ۲-[۱] صنعت‌نفت\n🔸\n❌\nگل‌به‌خودی ابرقویی\n🔴\nدقیقه ۶۶  @Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "🔸\nپرسپولیس ۲-[۱] صنعت‌نفت\n🔸\n❌\nگل‌به‌خودی ابرقویی\n🔴\nدقیقه ۶۶  @Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/109464",
-        "post_id": 109464,
-        "message_id": 7748,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-09T15:51:27.150058+00:00"
-      },
-      {
-        "fingerprint": "8d842b2835575d4bba0b2f95df1f8781439e284a68001ce3dfdaaf54868d5e8f",
-        "media_fingerprint": "b862e4cb8f9c58790c662c803dc94e50dc87072c2dc796c89e0d2b47492305f2",
-        "text": "⚽️\n🇮🇷\nگل اول نفت آبادان | باصری '66 پرسپولیس 2 - نفت آبادان 1\n🆔\n@varzesh3",
-        "original_username": "varzesh3",
-        "original_text": "⚽️\n🇮🇷\nگل اول نفت آبادان | باصری '66 پرسپولیس 2 - نفت آبادان 1\n🆔\n@varzesh3",
-        "original_link": "https://t.me/varzesh3/303695",
-        "post_id": 303695,
-        "message_id": 7749,
-        "message_kind": "caption",
-        "sources": [
-          "varzesh3"
-        ],
-        "created_at": "2026-10-09T15:51:33.601499+00:00"
-      },
-      {
-        "fingerprint": "080ea4adcf7338bd96c364e1b21c7f5d92ec7ced6564767bbdb8cea956ad312a",
-        "media_fingerprint": "b7c6e87e6bb8c2dbf630530ee08b2aab9b137424c2ac55595491aba38264fe9d",
-        "text": "🇮🇷\nگل سوم پرسپولیس به نفت آبادان توسط اورنوف (84)\n⚽️\n@Futball180TV",
-        "original_username": "futball180tv",
-        "original_text": "🇮🇷\nگل سوم پرسپولیس به نفت آبادان توسط اورنوف (84)\n⚽️\n@Futball180TV",
-        "original_link": "https://t.me/Futball180TV/108201",
-        "post_id": 108201,
-        "message_id": 7750,
-        "message_kind": "caption",
-        "sources": [
-          "futball180tv"
-        ],
-        "created_at": "2026-10-09T15:51:39.865315+00:00"
-      },
-      {
-        "fingerprint": "86bced24c46d17c5fe1551a027ec41b227d4149bd63fd9074e407a06d89cfa04",
-        "media_fingerprint": "5d56f12a307dab7ffef8ec12ce768d001d14bd3b7d2c930155317cd941f1e289",
-        "text": "گل سوم تیم پرسپولیس به نفت آبادان توسط اورنوف\n@Hattric_Official",
-        "original_username": "hattric_official",
-        "original_text": "گل سوم تیم پرسپولیس به نفت آبادان توسط اورنوف\n@Hattric_Official",
-        "original_link": "https://t.me/Hattric_Official/84565",
-        "post_id": 84565,
-        "message_id": 7751,
-        "message_kind": "caption",
-        "sources": [
-          "hattric_official"
-        ],
-        "created_at": "2026-10-09T15:51:45.951198+00:00"
-      },
-      {
-        "fingerprint": "6f2d77634e6ffed07a3cf07b83ff1c315178941abbd1fb058c7ed186e6618546",
-        "media_fingerprint": "523f3e5015bf44fd11713158b15aef86fd4f763f5b8d339c683f448c7058fec2",
-        "text": "🔴\n🟡\nگل سوم پرسپولیس به صنعت نفت توسط ارونوف\n🔘\n@Navadnewstelegram",
-        "original_username": "footballvision2",
-        "original_text": "🔴\n🟡\nگل سوم پرسپولیس به صنعت نفت توسط ارونوف\n🔘\n@Navadnewstelegram",
-        "original_link": "https://t.me/footballvision2/170875",
-        "post_id": 170875,
-        "message_id": 7752,
-        "message_kind": "caption",
-        "sources": [
-          "footballvision2"
-        ],
-        "created_at": "2026-10-09T15:51:52.426814+00:00"
-      },
-      {
-        "fingerprint": "04ad00c6cb3bde3d02ab656ec37c09c3a99570ef7f1cb4bdb60b46d1b62004aa",
-        "media_fingerprint": "",
-        "text": "🎖️\n🏅\nاورنوف گل سوم رو برای پرسپولیس زد !\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_username": "totalfut_plus",
-        "original_text": "🎖️\n🏅\nاورنوف گل سوم رو برای پرسپولیس زد !\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_link": "https://t.me/totalfut_plus/26615",
-        "post_id": 26615,
-        "message_id": 7753,
-        "message_kind": "text",
-        "sources": [
-          "totalfut_plus"
-        ],
-        "created_at": "2026-10-09T15:51:55.019804+00:00"
-      },
       {
         "fingerprint": "c7d2274293809d0664ee23b59c4158e6491730ebd8218e856c22bc1ebb4e14c0",
         "media_fingerprint": "fced8672468fd1066e330446f638db0e469d0b46079b18c0a1d82efe7e5bd8ea",
@@ -21695,7 +21538,8 @@
           "techtube",
           "yejoorayi",
           "apkclub",
-          "akhbarfars"
+          "akhbarfars",
+          "bajefilm"
         ],
         "created_at": "2026-10-09T18:22:54.859295+00:00"
       },
@@ -22990,7 +22834,8 @@
         "message_id": 7963,
         "message_kind": "caption",
         "sources": [
-          "gizmiztel"
+          "gizmiztel",
+          "razcom"
         ],
         "created_at": "2026-10-10T04:51:04.386098+00:00"
       },
@@ -34874,6 +34719,186 @@
           "peach_tweet"
         ],
         "created_at": "2026-10-12T17:22:10.077883+00:00"
+      },
+      {
+        "fingerprint": "f4fe9cfd0c7c208492da92cf75a59221ed2cd6558124d08754aef0c78213362c",
+        "media_fingerprint": "220aef2cdd916708743a7dea9fad93f189eaf746d099a4364568a51dffeacd2e",
+        "text": "آب راکد واقعا خطرناکه، جدی بگیرید.\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "آب راکد واقعا خطرناکه، جدی بگیرید.\n@comentiat",
+        "original_link": "https://t.me/Comentiat/26468",
+        "post_id": 26468,
+        "message_id": 8810,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-12T17:50:19.128891+00:00"
+      },
+      {
+        "fingerprint": "5020acfa2efbbd8a671abd7dcbb584147d31e004c3e4cc9f5252f2778dbcfdd5",
+        "media_fingerprint": "",
+        "text": "♦️\nآغاز مراسم یادروز حافظ در حافظیه شیراز\n🔹\nمراسم یادروز حافظ شیرازی این غزل سرای نامدار ایرانی شامگاه دوشنبه با حضور وزیر فرهنگ و ارشاد اسلامی در مجموعه حافظیه شیراز آغاز شد.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nآغاز مراسم یادروز حافظ در حافظیه شیراز\n🔹\nمراسم یادروز حافظ شیرازی این غزل سرای نامدار ایرانی شامگاه دوشنبه با حضور وزیر فرهنگ و ارشاد اسلامی در مجموعه حافظیه شیراز آغاز شد.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143592",
+        "post_id": 143592,
+        "message_id": 8812,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-12T17:50:22.662481+00:00"
+      },
+      {
+        "fingerprint": "d1cd5c19f731d200f94b459fe527da6a844d2143914b1178c3bc85a1017fd7f7",
+        "media_fingerprint": "",
+        "text": "الان دقیقا اونجام که وحشی بافقی میگه\n:\nمدتی هست که حیرانم و تدبیری نیست...\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
+        "original_username": "ghandeharipoet",
+        "original_text": "الان دقیقا اونجام که وحشی بافقی میگه\n:\nمدتی هست که حیرانم و تدبیری نیست...\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
+        "original_link": "https://t.me/Ghandeharipoet/42701",
+        "post_id": 42701,
+        "message_id": 8813,
+        "message_kind": "text",
+        "sources": [
+          "ghandeharipoet"
+        ],
+        "created_at": "2026-10-12T17:50:25.781244+00:00"
+      },
+      {
+        "fingerprint": "57a7dff4fe741b161f463f990f1db1520310d50f9b22ebb6783d725dd71fcacb",
+        "media_fingerprint": "3a0016c4f7ac5e911c7f78f2dd99b2de52df6e9c02f6bf498bd92e98cadffa43",
+        "text": "اون کون دیگه کون نمیشه\n😂\n😂\n😂\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "اون کون دیگه کون نمیشه\n😂\n😂\n😂\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/3301",
+        "post_id": 3301,
+        "message_id": 8814,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-12T17:50:33.671496+00:00"
+      },
+      {
+        "fingerprint": "cd3a86784ffa56c26ce777d053f3015cc7cc5844c23f4688f3b895ce36e2dbbe",
+        "media_fingerprint": "c55eabf44c5df22f4d98dae3a445d8e15968f5ec1ff18b632db03d4e6fdc0dfa",
+        "text": "🌻\nتخمه آفتابگردان؛ بیشتر از یک تنقلات\n🟡\nمغز تخمه آفتابگردان حاوی ویتامین E، سلنیوم و چربی‌های غیراشباع است. مصرف متعادل آن، بدون نمک زیاد، می‌تواند بخشی از یک رژیم غذایی سالم باشد.\n🌐\nfdc.nal.usda.gov\n#تغذیه_و_رژیم\n#تخمه_آفتابگردان\n🖥\n@Dr_SalamatX",
+        "original_username": "dr_salamatx",
+        "original_text": "🌻\nتخمه آفتابگردان؛ بیشتر از یک تنقلات\n🟡\nمغز تخمه آفتابگردان حاوی ویتامین E، سلنیوم و چربی‌های غیراشباع است. مصرف متعادل آن، بدون نمک زیاد، می‌تواند بخشی از یک رژیم غذایی سالم باشد.\n🌐\nfdc.nal.usda.gov\n#تغذیه_و_رژیم\n#تخمه_آفتابگردان\n🖥\n@Dr_SalamatX",
+        "original_link": "https://t.me/Dr_SalamatX/55390",
+        "post_id": 55390,
+        "message_id": 8815,
+        "message_kind": "caption",
+        "sources": [
+          "dr_salamatx"
+        ],
+        "created_at": "2026-10-12T17:50:42.509835+00:00"
+      },
+      {
+        "fingerprint": "090863d086804feb4f0e810fdcc03479217d3d3a60ca4726d57f409bd80d5fdb",
+        "media_fingerprint": "b1ca3c11db2ccb701133cd0e49817d565cb2e5d54b9a8b342f4bfabe69cccc68",
+        "text": "🚨\nفیلم\nکیر\nهالک لو رفت\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "🚨\nفیلم\nکیر\nهالک لو رفت\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/3306",
+        "post_id": 3306,
+        "message_id": 8816,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-12T17:50:51.017239+00:00"
+      },
+      {
+        "fingerprint": "9adc7b7f40690645b9134294fda24e43c57d719c58334a42afcbd8069c8da091",
+        "media_fingerprint": "13337b1480316bb498a2d3042e1516417d6e8bae2a129816f0ba33fc89f3193a",
+        "text": "صحنه های ویدیویی در رسانه ها لحظه فروپاشی کامل یک پل بر اثر جریان شدید سیلاب در منطقه گورخا در مرکز نپال را نشان می دهد. جاری شدن مجدد سیل در نپال خسارت های مادی زیادی به زیرساخت ها در این کشور وارد ساخته اما خسارت های انسانی در پی نداشته است و مقامات با دادن هشدارها و توصیه های لازم از ساکنان مناطق آسیب دیده خواسته اند به مناطق امن پناه ببرند.\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "صحنه های ویدیویی در رسانه ها لحظه فروپاشی کامل یک پل بر اثر جریان شدید سیلاب در منطقه گورخا در مرکز نپال را نشان می دهد. جاری شدن مجدد سیل در نپال خسارت های مادی زیادی به زیرساخت ها در این کشور وارد ساخته اما خسارت های انسانی در پی نداشته است و مقامات با دادن هشدارها و توصیه های لازم از ساکنان مناطق آسیب دیده خواسته اند به مناطق امن پناه ببرند.\n@irWonders",
+        "original_link": "https://t.me/irwonders/58639",
+        "post_id": 58639,
+        "message_id": 8817,
+        "message_kind": "text",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-12T17:50:57.060834+00:00"
+      },
+      {
+        "fingerprint": "d2c767da551446943c5767add0bb51d83017190a736a42b362f6895b515034a4",
+        "media_fingerprint": "",
+        "text": "@Sex music\n🌟",
+        "original_username": "peach_tweet",
+        "original_text": "@Sex music\n🌟",
+        "original_link": "https://t.me/peach_tweet/3311",
+        "post_id": 3311,
+        "message_id": 8818,
+        "message_kind": "text",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-12T17:50:59.770558+00:00"
+      },
+      {
+        "fingerprint": "63cf828feebe7ac101788cd861efacc2b41880c0423b6c393eb514f5e736d37c",
+        "media_fingerprint": "",
+        "text": "آدم درست رو زمان مشخص میکنه،به تمام اینایی که ادعای معرفت و خوب بودن دارن فقط زمان بدید.\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "آدم درست رو زمان مشخص میکنه،به تمام اینایی که ادعای معرفت و خوب بودن دارن فقط زمان بدید.\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306971",
+        "post_id": 306971,
+        "message_id": 8819,
+        "message_kind": "text",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-12T17:51:02.885856+00:00"
+      },
+      {
+        "fingerprint": "8b96018a0ea41a40ab51b612ef6831b632618a0ee571631f10d3861f70c7b6be",
+        "media_fingerprint": "",
+        "text": "♦️\nکشف ۷۲ راس احشام فاقدمجوز در ممسنی\nماموران انتظامی ممسنی:\n🔹️\nماموران انتظامی این شهرستان هنگام گشت زنی در جاده به یک دستگاه وانت نیسان مشکوک شدند و برای بررسی آن را متوقف کردند.\n🔹️\nدر بازرسی از این خودرو، ۷۲ راس گوسفند که کارشناسان ارزش آن را ۱۴ میلیارد و ۷۰۰ میلیون ریال برآورد کردند کشف شد.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nکشف ۷۲ راس احشام فاقدمجوز در ممسنی\nماموران انتظامی ممسنی:\n🔹️\nماموران انتظامی این شهرستان هنگام گشت زنی در جاده به یک دستگاه وانت نیسان مشکوک شدند و برای بررسی آن را متوقف کردند.\n🔹️\nدر بازرسی از این خودرو، ۷۲ راس گوسفند که کارشناسان ارزش آن را ۱۴ میلیارد و ۷۰۰ میلیون ریال برآورد کردند کشف شد.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143594",
+        "post_id": 143594,
+        "message_id": 8820,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-12T17:51:06.091755+00:00"
+      },
+      {
+        "fingerprint": "87abf3fb327c475d6566b4a0e350a7e23f871db911f39e11293d716a1cb970f3",
+        "media_fingerprint": "c095dba0a69610a087b5ef2e34f4a337b36d31896f151b47cf405ea57bc3fb5a",
+        "text": "۳۶۵ ثانیه:\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "۳۶۵ ثانیه:\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/3314",
+        "post_id": 3314,
+        "message_id": 8821,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-12T17:51:15.724613+00:00"
+      },
+      {
+        "fingerprint": "b4fefc83c18ba615a66426da753b477e8fb6fe9f21b40029e7570344b303510c",
+        "media_fingerprint": "",
+        "text": "⛔\nاخبار بروز رو از اینجا دنبال کن :\n@IR-NEWS",
+        "original_username": "peach_tweet",
+        "original_text": "⛔\nاخبار بروز رو از اینجا دنبال کن :\n@IR-NEWS",
+        "original_link": "https://t.me/peach_tweet/3316",
+        "post_id": 3316,
+        "message_id": 8822,
+        "message_kind": "text",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-12T17:51:18.526550+00:00"
       }
     ]
   }
