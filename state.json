@@ -1,11 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143599,
+      "last_id": 143602,
       "processed_ids": [
-        142472,
-        142473,
-        142474,
         142475,
         142477,
         142478,
@@ -1002,19 +999,16 @@
         143596,
         143597,
         143598,
-        143599
+        143599,
+        143600,
+        143601,
+        143602
       ],
-      "sent_count": 916
+      "sent_count": 919
     },
     "total_fut": {
-      "last_id": 237801,
+      "last_id": 237807,
       "processed_ids": [
-        236741,
-        236742,
-        236743,
-        236744,
-        236745,
-        236746,
         236747,
         236748,
         236749,
@@ -2008,33 +2002,19 @@
         237798,
         237799,
         237800,
-        237801
+        237801,
+        237802,
+        237803,
+        237804,
+        237805,
+        237806,
+        237807
       ],
       "sent_count": 126
     },
     "footballvision2": {
-      "last_id": 171106,
+      "last_id": 171130,
       "processed_ids": [
-        170001,
-        170002,
-        170003,
-        170004,
-        170005,
-        170006,
-        170007,
-        170008,
-        170009,
-        170010,
-        170011,
-        170013,
-        170014,
-        170015,
-        170016,
-        170017,
-        170018,
-        170019,
-        170020,
-        170021,
         170022,
         170023,
         170024,
@@ -3014,7 +2994,27 @@
         171103,
         171104,
         171105,
-        171106
+        171106,
+        171111,
+        171112,
+        171113,
+        171114,
+        171115,
+        171116,
+        171117,
+        171118,
+        171119,
+        171120,
+        171121,
+        171122,
+        171123,
+        171124,
+        171125,
+        171126,
+        171127,
+        171128,
+        171129,
+        171130
       ],
       "sent_count": 134
     },
@@ -3324,7 +3324,7 @@
       "sent_count": 8
     },
     "drtel": {
-      "last_id": 67632,
+      "last_id": 67635,
       "processed_ids": [
         66561,
         66565,
@@ -4166,9 +4166,10 @@
         67629,
         67630,
         67631,
-        67632
+        67632,
+        67635
       ],
-      "sent_count": 471
+      "sent_count": 472
     },
     "techtube": {
       "last_id": 18501,
@@ -6047,7 +6048,7 @@
       "sent_count": 429
     },
     "comentiat": {
-      "last_id": 26470,
+      "last_id": 26472,
       "processed_ids": [
         25844,
         25845,
@@ -6552,9 +6553,10 @@
         26466,
         26467,
         26468,
-        26470
+        26470,
+        26472
       ],
-      "sent_count": 367
+      "sent_count": 368
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -6564,7 +6566,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38714,
+      "last_id": 38715,
       "processed_ids": [
         38432,
         38433,
@@ -6845,9 +6847,10 @@
         38711,
         38712,
         38713,
-        38714
+        38714,
+        38715
       ],
-      "sent_count": 167
+      "sent_count": 168
     },
     "gizmiztel": {
       "last_id": 163167,
@@ -7983,7 +7986,7 @@
       "sent_count": 77
     },
     "jaleb": {
-      "last_id": 52876,
+      "last_id": 52879,
       "processed_ids": [
         52261,
         52262,
@@ -8528,9 +8531,12 @@
         52873,
         52874,
         52875,
-        52876
+        52876,
+        52877,
+        52878,
+        52879
       ],
-      "sent_count": 279
+      "sent_count": 282
     },
     "ajayebe_jahann": {
       "last_id": 159758,
@@ -9523,11 +9529,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109816,
+      "last_id": 109819,
       "processed_ids": [
-        108736,
-        108737,
-        108738,
         108739,
         108740,
         108741,
@@ -10524,18 +10527,16 @@
         109813,
         109814,
         109815,
-        109816
+        109816,
+        109817,
+        109818,
+        109819
       ],
       "sent_count": 139
     },
     "varzesh3": {
-      "last_id": 303925,
+      "last_id": 303930,
       "processed_ids": [
-        302829,
-        302830,
-        302831,
-        302832,
-        302833,
         302834,
         302835,
         302836,
@@ -11530,12 +11531,17 @@
         303922,
         303923,
         303924,
-        303925
+        303925,
+        303926,
+        303927,
+        303928,
+        303929,
+        303930
       ],
       "sent_count": 91
     },
     "totalfut_plus": {
-      "last_id": 26722,
+      "last_id": 26724,
       "processed_ids": [
         25870,
         25871,
@@ -12361,18 +12367,15 @@
         26719,
         26720,
         26721,
-        26722
+        26722,
+        26723,
+        26724
       ],
       "sent_count": 59
     },
     "adak_ir_official": {
-      "last_id": 235259,
+      "last_id": 235264,
       "processed_ids": [
-        234232,
-        234233,
-        234234,
-        234235,
-        234236,
         234237,
         234238,
         234239,
@@ -13367,27 +13370,18 @@
         235256,
         235257,
         235258,
-        235259
+        235259,
+        235260,
+        235261,
+        235262,
+        235263,
+        235264
       ],
       "sent_count": 194
     },
     "futball180tv": {
-      "last_id": 108429,
+      "last_id": 108443,
       "processed_ids": [
-        107407,
-        107408,
-        107409,
-        107411,
-        107412,
-        107413,
-        107414,
-        107415,
-        107417,
-        107418,
-        107419,
-        107420,
-        107421,
-        107422,
         107423,
         107424,
         107425,
@@ -14373,15 +14367,27 @@
         108426,
         108427,
         108428,
-        108429
+        108429,
+        108430,
+        108431,
+        108432,
+        108433,
+        108434,
+        108435,
+        108436,
+        108437,
+        108438,
+        108439,
+        108440,
+        108441,
+        108442,
+        108443
       ],
       "sent_count": 88
     },
     "hattric_official": {
-      "last_id": 84771,
+      "last_id": 84773,
       "processed_ids": [
-        83715,
-        83716,
         83717,
         83718,
         83719,
@@ -15379,12 +15385,14 @@
         84768,
         84769,
         84770,
-        84771
+        84771,
+        84772,
+        84773
       ],
       "sent_count": 126
     },
     "mazdak_hattrick": {
-      "last_id": 182545,
+      "last_id": 182547,
       "processed_ids": [
         181991,
         181992,
@@ -15927,7 +15935,9 @@
         182542,
         182543,
         182544,
-        182545
+        182545,
+        182546,
+        182547
       ],
       "sent_count": 50
     },
@@ -16073,7 +16083,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58640,
+      "last_id": 58641,
       "processed_ids": [
         58030,
         58031,
@@ -16633,9 +16643,10 @@
         58637,
         58638,
         58639,
-        58640
+        58640,
+        58641
       ],
-      "sent_count": 354
+      "sent_count": 355
     },
     "razcom": {
       "last_id": 70495,
@@ -18219,7 +18230,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306973,
+      "last_id": 306975,
       "processed_ids": [
         306563,
         306564,
@@ -18625,7 +18636,9 @@
         306970,
         306971,
         306972,
-        306973
+        306973,
+        306974,
+        306975
       ],
       "sent_count": 176
     },
@@ -19186,7 +19199,7 @@
       "sent_count": 67
     },
     "peach_tweet": {
-      "last_id": 3341,
+      "last_id": 3353,
       "processed_ids": [
         2745,
         2749,
@@ -19486,12 +19499,18 @@
         3332,
         3339,
         3340,
-        3341
+        3341,
+        3342,
+        3343,
+        3344,
+        3351,
+        3352,
+        3353
       ],
-      "sent_count": 175
+      "sent_count": 179
     },
     "funy_khand": {
-      "last_id": 25814,
+      "last_id": 25816,
       "processed_ids": [
         25704,
         25705,
@@ -19603,12 +19622,14 @@
         25811,
         25812,
         25813,
-        25814
+        25814,
+        25815,
+        25816
       ],
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6293,
+      "last_id": 6296,
       "processed_ids": [
         6113,
         6114,
@@ -19774,7 +19795,10 @@
         6290,
         6291,
         6292,
-        6293
+        6293,
+        6294,
+        6295,
+        6296
       ],
       "sent_count": 5
     },
@@ -19827,220 +19851,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "f19e37199459a74e799d01f7993d88d752f14e8573a2b19a4ede2e5e82d16647",
-        "media_fingerprint": "493b9de0eb12a8c2150970bc7ee2431b439d0b2e3070bbf6af08895f97595275",
-        "text": "کسب سه امتیاز شیرین خانگی، با عبور از نفت آبادان برای شاگردان تارتار\n🔘\n@Navadnewstelegram",
-        "original_username": "footballvision2",
-        "original_text": "کسب سه امتیاز شیرین خانگی، با عبور از نفت آبادان برای شاگردان تارتار\n🔘\n@Navadnewstelegram",
-        "original_link": "https://t.me/footballvision2/170881",
-        "post_id": 170881,
-        "message_id": 7769,
-        "message_kind": "caption",
-        "sources": [
-          "footballvision2"
-        ],
-        "created_at": "2026-10-09T15:53:26.568270+00:00"
-      },
-      {
-        "fingerprint": "6cf0491054afe20258331ffe61b839461d6244776b0244762778e86d1a5821a5",
-        "media_fingerprint": "2e9a2f444cd27d3020a9c196f43fa6363fad2efb5bead9a9bc366ac715d2fbc3",
-        "text": "🔵\n🔴\nجدول لیگ برتر پس از پایان روز دوم از هفته هشتم\n🔘\n@Navadnewstelegram",
-        "original_username": "footballvision2",
-        "original_text": "🔵\n🔴\nجدول لیگ برتر پس از پایان روز دوم از هفته هشتم\n🔘\n@Navadnewstelegram",
-        "original_link": "https://t.me/footballvision2/170882",
-        "post_id": 170882,
-        "message_id": 7770,
-        "message_kind": "caption",
-        "sources": [
-          "footballvision2",
-          "hattric_official",
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-09T15:53:30.206416+00:00"
-      },
-      {
-        "fingerprint": "e82948d4acf8d4e842ef097bbff771b92bb6335dd1083403cda0c71b399bb58c",
-        "media_fingerprint": "",
-        "text": "⚽\n✅\n⚽️\nخلاصه دیدار پرسپولیس 3 - 1 صنعت‌نفت\n⚽️\n@Hattric_X",
-        "original_username": "hattric_official",
-        "original_text": "⚽\n✅\n⚽️\nخلاصه دیدار پرسپولیس 3 - 1 صنعت‌نفت\n⚽️\n@Hattric_X",
-        "original_link": "https://t.me/Hattric_Official/84568",
-        "post_id": 84568,
-        "message_id": 7771,
-        "message_kind": "text",
-        "sources": [
-          "hattric_official"
-        ],
-        "created_at": "2026-10-09T15:53:32.640215+00:00"
-      },
-      {
-        "fingerprint": "938cc6ba96c22f5f873b524a3fe4c62a7909ee8267151069a3d363f6f0b62593",
-        "media_fingerprint": "891832fcac7ac04f43920a1ac712efd7a9b53931031aed2e796f68f9e9d9f07c",
-        "text": "🇪🇺\nجدول لیگ در پایان روز دوم از هفته 8\n🔴\nتنها دیدار باقیمانده بین پیکان و شمس‌آذر فردا برگزار خواهد شد\n📌\nصفحه ویژه لیگ برتر ایران\n🆔\n@varzesh3",
-        "original_username": "varzesh3",
-        "original_text": "🇪🇺\nجدول لیگ در پایان روز دوم از هفته 8\n🔴\nتنها دیدار باقیمانده بین پیکان و شمس‌آذر فردا برگزار خواهد شد\n📌\nصفحه ویژه لیگ برتر ایران\n🆔\n@varzesh3",
-        "original_link": "https://t.me/varzesh3/303700",
-        "post_id": 303700,
-        "message_id": 7772,
-        "message_kind": "caption",
-        "sources": [
-          "varzesh3"
-        ],
-        "created_at": "2026-10-09T15:53:36.706717+00:00"
-      },
-      {
-        "fingerprint": "92962857a9eb27f9ad2224e5232d7bbb4799a97ea4e7e838bfab70f863072bc7",
-        "media_fingerprint": "145eebe77745b5fcc8824e7a3f1229d90feca322a69f70559ad3354a47482678",
-        "text": "🔻\n⚽\nتشویق ایسلندی هواداران تیم پرسپولیس همراه با اعضای این تیم\n⚽️\n@Hattric_Official",
-        "original_username": "hattric_official",
-        "original_text": "🔻\n⚽\nتشویق ایسلندی هواداران تیم پرسپولیس همراه با اعضای این تیم\n⚽️\n@Hattric_Official",
-        "original_link": "https://t.me/Hattric_Official/84569",
-        "post_id": 84569,
-        "message_id": 7773,
-        "message_kind": "caption",
-        "sources": [
-          "hattric_official"
-        ],
-        "created_at": "2026-10-09T15:53:43.440634+00:00"
-      },
-      {
-        "fingerprint": "27d30bb9ac659295006abdd8315a38fb711a5e9bd13b270806e210424c0a3d47",
-        "media_fingerprint": "",
-        "text": "🇪🇺\nجدول لیگ برتر پس از بازی‌های امروز\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🇪🇺\nجدول لیگ برتر پس از بازی‌های امروز\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/235061",
-        "post_id": 235061,
-        "message_id": 7774,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official",
-          "mazdak_hattrick"
-        ],
-        "created_at": "2026-10-09T15:53:45.907120+00:00"
-      },
-      {
-        "fingerprint": "ab389cb30147df90f664b769645ecdfd5fb37423050332d4c4c164de3d137ba8",
-        "media_fingerprint": "cbdf8e6ff2b86808792ce663c3bce39083068564c003c467d4207bd5ae3c6938",
-        "text": "🔴\n🆚\n🟡\nپایان بازی | یک برد دیگر برای ارتش سرخ با درخشش بیفوما و ارونوف\nپرسپولیس 3\nنفت آبادان 1\n🆔\n@mazdak_hattrick",
-        "original_username": "mazdak_hattrick",
-        "original_text": "🔴\n🆚\n🟡\nپایان بازی | یک برد دیگر برای ارتش سرخ با درخشش بیفوما و ارونوف\nپرسپولیس 3\nنفت آبادان 1\n🆔\n@mazdak_hattrick",
-        "original_link": "https://t.me/mazdak_hattrick/182466",
-        "post_id": 182466,
-        "message_id": 7775,
-        "message_kind": "caption",
-        "sources": [
-          "mazdak_hattrick"
-        ],
-        "created_at": "2026-10-09T15:53:50.423134+00:00"
-      },
-      {
-        "fingerprint": "0b463746ffb6f397bf2eb65590703058771f2693c5d0f4bbf8f5d2ba90ee1bbc",
-        "media_fingerprint": "f3936bdc32ef52ec7376431528e09a8703969c4996955a127c21ab2bb379bc1e",
-        "text": "خارجی‌ها احیا شدند، سرخ‌ها یک نفس به صدر نزدیک‌تر\n✔️\nحمله همه‌جانبه تارتار به بالانشینان؛ برد درخشان پرسپولیس مقابل صنعت نفت، وضعیت قرمز ستاره سابق در آبادان\n🔸\nلیگ برتر ایران - هفته ۸\n🔸\n۴گله شدن علیپور از روی نقطه پنالتی، اولین گل فصل اورونوف در همکاری با…",
-        "original_username": "ft360_ir",
-        "original_text": "خارجی‌ها احیا شدند، سرخ‌ها یک نفس به صدر نزدیک‌تر\n✔️\nحمله همه‌جانبه تارتار به بالانشینان؛ برد درخشان پرسپولیس مقابل صنعت نفت، وضعیت قرمز ستاره سابق در آبادان\n🔸\nلیگ برتر ایران - هفته ۸\n🔸\n۴گله شدن علیپور از روی نقطه پنالتی، اولین گل فصل اورونوف در همکاری با…",
-        "original_link": "https://t.me/ft360_ir/109469",
-        "post_id": 109469,
-        "message_id": 7776,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-09T15:53:55.015641+00:00"
-      },
-      {
-        "fingerprint": "eb61225faee7ea1faa8e5753d93dd48dac80b98e329ef65f379881d98f933ab0",
-        "media_fingerprint": "d33601023256d911bf3bfba47417f111a83f61692ec44b3569d6008a87ce710b",
-        "text": "تمیز ترین موجود عالم\n😍\n😍\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "تمیز ترین موجود عالم\n😍\n😍\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52793",
-        "post_id": 52793,
-        "message_id": 7777,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb",
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-09T15:54:01.084825+00:00"
-      },
-      {
-        "fingerprint": "786a37df56bbcd21c7e5edb860dcb77c755fa64824186a142eeaf7b16cd26bf8",
-        "media_fingerprint": "73ce8fb8e8298a9f89662036598393617fff4ce88a595c719b8c964cc01c8c87",
-        "text": "گوگل مپس اکنون قیمت سوخت را در بریتانیا نمایش می‌دهد تا رانندگان بنزین و گازوئیل ارزان‌تر پیدا کنند.\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "گوگل مپس اکنون قیمت سوخت را در بریتانیا نمایش می‌دهد تا رانندگان بنزین و گازوئیل ارزان‌تر پیدا کنند.\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52794",
-        "post_id": 52794,
-        "message_id": 7778,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-09T15:54:04.856231+00:00"
-      },
-      {
-        "fingerprint": "61022ce22667c6f53419670e782a10c5f522cf552ac04c375be9115ebc3a7ce7",
-        "media_fingerprint": "71590d86b37a165c5ea844596c5f3c3770c1092715affa394e24f16e53a33eb1",
-        "text": "نوری حیاکن، رهاکن شنید\n🎞\nتشویق پورموسوی توسط هواداران صنعت‌نفت پس از شکست مقابل پرسپولیس  @Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "نوری حیاکن، رهاکن شنید\n🎞\nتشویق پورموسوی توسط هواداران صنعت‌نفت پس از شکست مقابل پرسپولیس  @Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/109471",
-        "post_id": 109471,
-        "message_id": 7779,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-09T16:20:12.892492+00:00"
-      },
-      {
-        "fingerprint": "26279d1c37ef4bf6c454edef468051934cd44bfee949b5c22dc8028d341ed7c6",
-        "media_fingerprint": "c32611bec02fe2734bc45e43578191b42d068fb1a8aa999db0df79ba876a3ff8",
-        "text": "🔴\n🚨\n‼️\n🇮🇷\nهوادار پرسپولیس: کامنت در پیج السد؟ ماجرای آل کثیر را یادتان رفت!\n⚽️\n@Futball180TV",
-        "original_username": "futball180tv",
-        "original_text": "🔴\n🚨\n‼️\n🇮🇷\nهوادار پرسپولیس: کامنت در پیج السد؟ ماجرای آل کثیر را یادتان رفت!\n⚽️\n@Futball180TV",
-        "original_link": "https://t.me/Futball180TV/108204",
-        "post_id": 108204,
-        "message_id": 7780,
-        "message_kind": "caption",
-        "sources": [
-          "futball180tv"
-        ],
-        "created_at": "2026-10-09T16:20:18.402415+00:00"
-      },
-      {
-        "fingerprint": "08fb8fba6d61dc474fa72972ac551c86cdcc5c26e2eb513d087d872b8a44f867",
-        "media_fingerprint": "1596841e16a4b0b3b1c7f96f0fbe22e510b89f9346a95cdddbb157001805af1e",
-        "text": "عجیب ترین افرادی رو ببینیم که تونستن با اعضای اضافه روی بدن خودشون به دنیا بیان\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "عجیب ترین افرادی رو ببینیم که تونستن با اعضای اضافه روی بدن خودشون به دنیا بیان\n@irWonders",
-        "original_link": "https://t.me/irwonders/58518",
-        "post_id": 58518,
-        "message_id": 7781,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-09T16:20:25.365664+00:00"
-      },
-      {
-        "fingerprint": "ccd0f4e9de5c8ac37e67c937cb3a99e9dc15e19c66880a08913a64d2ff3b09b8",
-        "media_fingerprint": "13823c0a547d733a29c923f1f4a17c206d460450fd58f173d9ad460b67676f01",
-        "text": "3 امتیاز، به کمک میگ‌میگ؛ با سرعت نور به قلب نفت زدند\n🔈\nپایان مسابقه - پیروزی پرسپولیس برابر صنعت نفت در تهران\n🆔\n@varzesh3",
-        "original_username": "varzesh3",
-        "original_text": "3 امتیاز، به کمک میگ‌میگ؛ با سرعت نور به قلب نفت زدند\n🔈\nپایان مسابقه - پیروزی پرسپولیس برابر صنعت نفت در تهران\n🆔\n@varzesh3",
-        "original_link": "https://t.me/varzesh3/303701",
-        "post_id": 303701,
-        "message_id": 7782,
-        "message_kind": "caption",
-        "sources": [
-          "varzesh3"
-        ],
-        "created_at": "2026-10-09T16:20:32.259466+00:00"
-      },
       {
         "fingerprint": "1b1abc43724da9c6eb3e5164e0b9a84949268aa1a8fdd0355463bbfce734dd85",
         "media_fingerprint": "ddc0adeb1a233dfe4fe8574655ce246ff8c30a9fba1e1c266003c01ff291d56c",
@@ -34925,6 +34735,216 @@
           "footballvision2"
         ],
         "created_at": "2026-10-12T18:24:38.743262+00:00"
+      },
+      {
+        "fingerprint": "b773d3886a66b574c168f8cd6d91d2e1668843f414d1e6ef4f7002615557ebf9",
+        "media_fingerprint": "4e6d6b41333255589fd9f96142ed65e164e47ca7bdf5f597f9afc008d4013bda",
+        "text": "♦️\nاولین سیل پاییزی امروز قطار بنه روستای دهنو زرین‌دشت ۲۰مهر۱۴۰۵\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nاولین سیل پاییزی امروز قطار بنه روستای دهنو زرین‌دشت ۲۰مهر۱۴۰۵\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143600",
+        "post_id": 143600,
+        "message_id": 8837,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-12T18:55:56.778577+00:00"
+      },
+      {
+        "fingerprint": "49100cf963cbc7d8cf9fa3cb17f42d0b73b0befb0f09dc6c48577c022e819e10",
+        "media_fingerprint": "4f6b9f7d36d3d43f97f777de9c45db3428cf59c576b691f448bb0a9995d193f5",
+        "text": "♦️\nبارش باران امروز عصر روستای بنه کلاغی نی ریز ۲۰مهرماه ۱۴۰۵\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nبارش باران امروز عصر روستای بنه کلاغی نی ریز ۲۰مهرماه ۱۴۰۵\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143601",
+        "post_id": 143601,
+        "message_id": 8838,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-12T18:56:02.683778+00:00"
+      },
+      {
+        "fingerprint": "4e05353e76104c4574f9581206f4441c3277dd116b40b32cfb624320e35207cf",
+        "media_fingerprint": "c26d376ea0aa23d83271141b1b56352534686ec863b7d75ee138dc7dc591d010",
+        "text": "خلاصه مصاحبه قیاسی و گلزار\n+ حتی با هوش مصنوعی ام گلزار خوب بازی نمی کنه\n😂\n😂\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "خلاصه مصاحبه قیاسی و گلزار\n+ حتی با هوش مصنوعی ام گلزار خوب بازی نمی کنه\n😂\n😂\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/3344",
+        "post_id": 3344,
+        "message_id": 8839,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-12T18:56:10.601033+00:00"
+      },
+      {
+        "fingerprint": "80ad3343d7a839d31b4f059a6549cff8c0ea4cf8f877b13b9eb7eb2eb4e367f7",
+        "media_fingerprint": "dd1263f14059a870b7c71aeba6f70e72130173abfd6d02d5ff39f87d4c179ecc",
+        "text": "🇮🇱\nنتانیاهو :\nکشورها، حتی اونایی که به ما حمله می‌کنن، پشت پرده و یواشکی بهمون میگن:\nجمهوری اسلامی باید سقوط کنه، اونا دارن نفس همه‌مون رو می‌گیرن!\nما مطمئن می‌شیم که سقوط کنن؛ اونا سقوط خواهند کرد.\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🇮🇱\nنتانیاهو :\nکشورها، حتی اونایی که به ما حمله می‌کنن، پشت پرده و یواشکی بهمون میگن:\nجمهوری اسلامی باید سقوط کنه، اونا دارن نفس همه‌مون رو می‌گیرن!\nما مطمئن می‌شیم که سقوط کنن؛ اونا سقوط خواهند کرد.\n@DrTeL",
+        "original_link": "https://t.me/drtel/67635",
+        "post_id": 67635,
+        "message_id": 8840,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-12T18:56:17.355390+00:00"
+      },
+      {
+        "fingerprint": "8fe4f3b36a9432885de5a5d4a9bdbbdb9d63f6f837456ae98ffbdc54b3f0c77c",
+        "media_fingerprint": "5b53b2e2e458185927181272e9a2317609f036d353617566c6f1979cf5064871",
+        "text": "هیچوقت قدیمی نمیشه این لعنتی\n😂\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "هیچوقت قدیمی نمیشه این لعنتی\n😂\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/3351",
+        "post_id": 3351,
+        "message_id": 8841,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-12T18:56:23.811550+00:00"
+      },
+      {
+        "fingerprint": "951290d02e3450fadd9038b1a6527a9b951f8662c559db1e08e80f5953f7fe32",
+        "media_fingerprint": "",
+        "text": "‏هرکی داره، از قدیم داره؛ شاید بپرسید چی؟ هرچی.\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "‏هرکی داره، از قدیم داره؛ شاید بپرسید چی؟ هرچی.\n@comentiat",
+        "original_link": "https://t.me/Comentiat/26472",
+        "post_id": 26472,
+        "message_id": 8842,
+        "message_kind": "text",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-12T18:56:26.297023+00:00"
+      },
+      {
+        "fingerprint": "3711f1c8a52da4510ab26f25d50c3ea1e168b50e72683bac9abc1b7b98fca86c",
+        "media_fingerprint": "59ace8f432d6f84895abfe82e11e147a37d438098d01ce8645d66a67f562cb89",
+        "text": "🔺️\nآزادی پیرمرد ۹۷ ساله از زندان لرستان\n▪️\nکهنسال‌ترین زندانی جرایم غیرعمد لرستان در ۹۷ سالگی آزاد شد. خبری امیدبخش که پس از سال‌ها، دریچه‌ای تازه به زندگی این مرد سالخورده باز کرد.\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "🔺️\nآزادی پیرمرد ۹۷ ساله از زندان لرستان\n▪️\nکهنسال‌ترین زندانی جرایم غیرعمد لرستان در ۹۷ سالگی آزاد شد. خبری امیدبخش که پس از سال‌ها، دریچه‌ای تازه به زندگی این مرد سالخورده باز کرد.\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52877",
+        "post_id": 52877,
+        "message_id": 8843,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-12T18:56:30.555087+00:00"
+      },
+      {
+        "fingerprint": "3b7101957aa51fc722c39c9349b67479d7f8a19ed4b9f4339cade6e1c029e5c2",
+        "media_fingerprint": "ef68a977ad4930bc9d7e0be5b4b5245a5cd50ac3a07749a8855c4505366c958b",
+        "text": "خواص درمانیه پای مرغ\n🐓\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "خواص درمانیه پای مرغ\n🐓\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52878",
+        "post_id": 52878,
+        "message_id": 8844,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-12T18:56:34.756089+00:00"
+      },
+      {
+        "fingerprint": "ecde869d7e4bdf8d4971f14e4fc872493855b74dd0fea1ad190ab95f8c6ec953",
+        "media_fingerprint": "01882942cf4651fdbd47ee74bf44e7279ccb5719c6597eda979f5d12cd918539",
+        "text": "🔴\nبعد از‌ برگزاری کلاس‌های آموزشی\n«گرفتن اسنپ»\nبرای افراد ۶۰ سال به بالا؛ حالا دارن براشون کلاس های آموزشی\n«کارت به کارت»\nاز طریق گوشی رو هم برگزار میکنن...\n▪️\nفقط کافیه از مغزت استفاده کنی؛ تا پول در بیاری و زندگی خوبی داشته باشی\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "🔴\nبعد از‌ برگزاری کلاس‌های آموزشی\n«گرفتن اسنپ»\nبرای افراد ۶۰ سال به بالا؛ حالا دارن براشون کلاس های آموزشی\n«کارت به کارت»\nاز طریق گوشی رو هم برگزار میکنن...\n▪️\nفقط کافیه از مغزت استفاده کنی؛ تا پول در بیاری و زندگی خوبی داشته باشی\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52879",
+        "post_id": 52879,
+        "message_id": 8845,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-12T18:56:41.740840+00:00"
+      },
+      {
+        "fingerprint": "4eecd2668cc53909b2dc16dc838c6997a649c77a1ac59b8647394a3f61efcb5f",
+        "media_fingerprint": "fd51c6e9325a979e0fed281bf9db2d3342a7c0e93f0c03ba4032ea4fc1acc6a9",
+        "text": "منبع عکسای مستهجن خاکبرسری و +۱۸\n🌟\n💜\nhttps://t.me/+lxNiTrQjfylhMTI0",
+        "original_username": "peach_tweet",
+        "original_text": "منبع عکسای مستهجن خاکبرسری و +۱۸\n🌟\n💜\nhttps://t.me/+lxNiTrQjfylhMTI0",
+        "original_link": "https://t.me/peach_tweet/3352",
+        "post_id": 3352,
+        "message_id": 8846,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-12T18:56:46.222081+00:00"
+      },
+      {
+        "fingerprint": "bdaa1c90dfc19fcce64910375a3de136101b591583045196279692a122665eda",
+        "media_fingerprint": "",
+        "text": "آموزش سکسچت خیس کننده :\n💜\n😘",
+        "original_username": "peach_tweet",
+        "original_text": "آموزش سکسچت خیس کننده :\n💜\n😘",
+        "original_link": "https://t.me/peach_tweet/3353",
+        "post_id": 3353,
+        "message_id": 8847,
+        "message_kind": "text",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-12T18:56:48.831435+00:00"
+      },
+      {
+        "fingerprint": "ba24b1f75b3e53aa2912547715891a9ab6744a7db91e388bed20790884aeeaaf",
+        "media_fingerprint": "",
+        "text": "سه چشمه عجیب در تخت سلیمان که هر کدام یه شکل هستند و  آب آنها دما های متفاوت دارد.\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "سه چشمه عجیب در تخت سلیمان که هر کدام یه شکل هستند و  آب آنها دما های متفاوت دارد.\n@irWonders",
+        "original_link": "https://t.me/irwonders/58641",
+        "post_id": 58641,
+        "message_id": 8848,
+        "message_kind": "text",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-12T18:56:55.126472+00:00"
+      },
+      {
+        "fingerprint": "0a1a5129e67f1fa7421a24a9658735e52789ff41d39eb14b97521b1096165df3",
+        "media_fingerprint": "5b13916a3baaaa00d91d4644d45c5ca8f8c88eb3339a9402527494118248ad7e",
+        "text": "خواب با دهان باز؛ وقتی یک عادت شبانه به بدن آسیب می‌زند\n!\n💤\n⚠️\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "خواب با دهان باز؛ وقتی یک عادت شبانه به بدن آسیب می‌زند\n!\n💤\n⚠️\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38715",
+        "post_id": 38715,
+        "message_id": 8849,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-12T18:57:00.232964+00:00"
+      },
+      {
+        "fingerprint": "105d5b6f1fae9bb5147b45631ca184d610b4e55dc0a19a199f70cc24a9e95611",
+        "media_fingerprint": "e064bcd81436c9f9c17101f9514a13b3fd7330de1ea4be216fb68304079c036e",
+        "text": "♦️\nتولد ۸۸ سالگی استاد شفیعی کدکنی در دانشگاه شیراز\n🔹️\nمحمدرضا شفیعی کدکنی نویسنده، ادیب، پژوهشگر، شاعر و استاد دانشگاه اهل ایران است.\n🔹️\nعمده‌ی شهرت او به خاطر پژوهش‌های بی‌بدیلش درباره‌ی نظریه‌های ادبی نو است.\n🔹️\nاز جمله مهم‌ترین کتاب‌های او می‌توان به دفتر شعر «در کوچه‌باغ‌های نیشابور» اشاره کرد.\nمارا در اینستاگرام دنبال کنید\n👇\nhttps://www.instagram.com/akhbarefars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nتولد ۸۸ سالگی استاد شفیعی کدکنی در دانشگاه شیراز\n🔹️\nمحمدرضا شفیعی کدکنی نویسنده، ادیب، پژوهشگر، شاعر و استاد دانشگاه اهل ایران است.\n🔹️\nعمده‌ی شهرت او به خاطر پژوهش‌های بی‌بدیلش درباره‌ی نظریه‌های ادبی نو است.\n🔹️\nاز جمله مهم‌ترین کتاب‌های او می‌توان به دفتر شعر «در کوچه‌باغ‌های نیشابور» اشاره کرد.\nمارا در اینستاگرام دنبال کنید\n👇\nhttps://www.instagram.com/akhbarefars",
+        "original_link": "https://t.me/akhbarfars/143602",
+        "post_id": 143602,
+        "message_id": 8850,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-12T18:57:06.911381+00:00"
       }
     ]
   }
