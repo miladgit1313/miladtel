@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143522,
+      "last_id": 143524,
       "processed_ids": [
-        142421,
-        142422,
         142423,
         142424,
         142425,
@@ -1002,14 +1000,15 @@
         143519,
         143520,
         143521,
-        143522
+        143522,
+        143523,
+        143524
       ],
-      "sent_count": 883
+      "sent_count": 885
     },
     "total_fut": {
-      "last_id": 237748,
+      "last_id": 237749,
       "processed_ids": [
-        236694,
         236695,
         236696,
         236697,
@@ -2008,16 +2007,14 @@
         237745,
         237746,
         237747,
-        237748
+        237748,
+        237749
       ],
       "sent_count": 125
     },
     "footballvision2": {
-      "last_id": 171040,
+      "last_id": 171043,
       "processed_ids": [
-        169936,
-        169937,
-        169938,
         169939,
         169940,
         169941,
@@ -3014,7 +3011,10 @@
         171037,
         171038,
         171039,
-        171040
+        171040,
+        171041,
+        171042,
+        171043
       ],
       "sent_count": 130
     },
@@ -3057,7 +3057,7 @@
       "sent_count": 5
     },
     "fars_today": {
-      "last_id": 132194,
+      "last_id": 132196,
       "processed_ids": [
         131975,
         131976,
@@ -3273,9 +3273,11 @@
         132191,
         132192,
         132193,
-        132194
+        132194,
+        132195,
+        132196
       ],
-      "sent_count": 118
+      "sent_count": 120
     },
     "behzistikomitenews": {
       "last_id": 13967,
@@ -4300,7 +4302,7 @@
       "sent_count": 54
     },
     "dafaterepishkhandpd": {
-      "last_id": 16065,
+      "last_id": 16066,
       "processed_ids": [
         16055,
         16056,
@@ -4312,7 +4314,8 @@
         16062,
         16063,
         16064,
-        16065
+        16065,
+        16066
       ],
       "sent_count": 5
     },
@@ -5188,7 +5191,7 @@
       "sent_count": 134
     },
     "akhbar_cafenet": {
-      "last_id": 23243,
+      "last_id": 23245,
       "processed_ids": [
         22432,
         22433,
@@ -5951,7 +5954,9 @@
         23240,
         23241,
         23242,
-        23243
+        23243,
+        23244,
+        23245
       ],
       "sent_count": 417
     },
@@ -6461,7 +6466,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38705,
+      "last_id": 38707,
       "processed_ids": [
         38432,
         38433,
@@ -6733,15 +6738,15 @@
         38702,
         38703,
         38704,
-        38705
+        38705,
+        38706,
+        38707
       ],
-      "sent_count": 161
+      "sent_count": 162
     },
     "gizmiztel": {
-      "last_id": 163138,
+      "last_id": 163140,
       "processed_ids": [
-        162027,
-        162028,
         162029,
         162030,
         162031,
@@ -7739,9 +7744,11 @@
         163135,
         163136,
         163137,
-        163138
+        163138,
+        163139,
+        163140
       ],
-      "sent_count": 764
+      "sent_count": 765
     },
     "dr_salamatx": {
       "last_id": 55387,
@@ -8402,7 +8409,7 @@
       "sent_count": 272
     },
     "ajayebe_jahann": {
-      "last_id": 159737,
+      "last_id": 159738,
       "processed_ids": [
         158956,
         158957,
@@ -9170,9 +9177,10 @@
         159734,
         159735,
         159736,
-        159737
+        159737,
+        159738
       ],
-      "sent_count": 314
+      "sent_count": 315
     },
     "etelaate_omoomi": {
       "last_id": 43128,
@@ -9371,9 +9379,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109767,
+      "last_id": 109768,
       "processed_ids": [
-        108688,
         108689,
         108690,
         108691,
@@ -10372,15 +10379,14 @@
         109764,
         109765,
         109766,
-        109767
+        109767,
+        109768
       ],
       "sent_count": 137
     },
     "varzesh3": {
-      "last_id": 303885,
+      "last_id": 303887,
       "processed_ids": [
-        302782,
-        302783,
         302785,
         302786,
         302787,
@@ -11378,12 +11384,14 @@
         303882,
         303883,
         303884,
-        303885
+        303885,
+        303886,
+        303887
       ],
       "sent_count": 89
     },
     "totalfut_plus": {
-      "last_id": 26700,
+      "last_id": 26701,
       "processed_ids": [
         25870,
         25871,
@@ -12187,14 +12195,14 @@
         26696,
         26698,
         26699,
-        26700
+        26700,
+        26701
       ],
       "sent_count": 56
     },
     "adak_ir_official": {
-      "last_id": 235217,
+      "last_id": 235218,
       "processed_ids": [
-        234190,
         234191,
         234192,
         234193,
@@ -13193,14 +13201,14 @@
         235214,
         235215,
         235216,
-        235217
+        235217,
+        235218
       ],
       "sent_count": 188
     },
     "futball180tv": {
-      "last_id": 108378,
+      "last_id": 108379,
       "processed_ids": [
-        107357,
         107358,
         107359,
         107360,
@@ -14199,17 +14207,14 @@
         108375,
         108376,
         108377,
-        108378
+        108378,
+        108379
       ],
       "sent_count": 86
     },
     "hattric_official": {
-      "last_id": 84728,
+      "last_id": 84732,
       "processed_ids": [
-        83672,
-        83673,
-        83674,
-        83675,
         83676,
         83677,
         83679,
@@ -15205,12 +15210,16 @@
         84725,
         84726,
         84727,
-        84728
+        84728,
+        84729,
+        84730,
+        84731,
+        84732
       ],
       "sent_count": 124
     },
     "mazdak_hattrick": {
-      "last_id": 182529,
+      "last_id": 182530,
       "processed_ids": [
         181991,
         181992,
@@ -15738,7 +15747,8 @@
         182526,
         182527,
         182528,
-        182529
+        182529,
+        182530
       ],
       "sent_count": 48
     },
@@ -15883,7 +15893,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58614,
+      "last_id": 58615,
       "processed_ids": [
         58030,
         58031,
@@ -16417,7 +16427,8 @@
         58611,
         58612,
         58613,
-        58614
+        58614,
+        58615
       ],
       "sent_count": 335
     },
@@ -17994,7 +18005,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306954,
+      "last_id": 306957,
       "processed_ids": [
         306563,
         306564,
@@ -18381,9 +18392,12 @@
         306951,
         306952,
         306953,
-        306954
+        306954,
+        306955,
+        306956,
+        306957
       ],
-      "sent_count": 164
+      "sent_count": 166
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -18523,7 +18537,7 @@
       "sent_count": 10
     },
     "bajefilm": {
-      "last_id": 11626,
+      "last_id": 11627,
       "processed_ids": [
         11552,
         11553,
@@ -18599,9 +18613,10 @@
         11623,
         11624,
         11625,
-        11626
+        11626,
+        11627
       ],
-      "sent_count": 63
+      "sent_count": 64
     },
     "yejoorayi": {
       "last_id": 548,
@@ -19183,7 +19198,7 @@
       "sent_count": 159
     },
     "funy_khand": {
-      "last_id": 25791,
+      "last_id": 25793,
       "processed_ids": [
         25704,
         25705,
@@ -19272,12 +19287,14 @@
         25788,
         25789,
         25790,
-        25791
+        25791,
+        25792,
+        25793
       ],
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6255,
+      "last_id": 6256,
       "processed_ids": [
         6113,
         6114,
@@ -19408,7 +19425,8 @@
         6251,
         6253,
         6254,
-        6255
+        6255,
+        6256
       ],
       "sent_count": 4
     },
@@ -19429,157 +19447,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "fe657d52cbba497b1ceebfda9eef09259fbac498acbc5a4484302914e3e7545d",
-        "media_fingerprint": "c76f84b35d22283fa67c1834b38c12e4d01c7aea93071394749f4212746b52c4",
-        "text": "🎥\nپروژه استارلینک در ایران چقدر شدنیه؟\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🎥\nپروژه استارلینک در ایران چقدر شدنیه؟\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/23129",
-        "post_id": 23129,
-        "message_id": 7528,
-        "message_kind": "caption",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-09T07:22:18.468574+00:00"
-      },
-      {
-        "fingerprint": "5989e10b579391f953bf5527bec799fedd6cacd1d54a8a2f453f41d63a01f025",
-        "media_fingerprint": "3453a4ec038d4a5fe5c03beb8886a5ec9fa27714a2e86762c277c5c5bda9ec45",
-        "text": "♦️\nصدای بی‌تکرار موسیقی ایران\n🔹️\n۱۷ مهر، سالروز درگذشت محمدرضا شجریان\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nصدای بی‌تکرار موسیقی ایران\n🔹️\n۱۷ مهر، سالروز درگذشت محمدرضا شجریان\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143342",
-        "post_id": 143342,
-        "message_id": 7529,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-09T07:22:28.036147+00:00"
-      },
-      {
-        "fingerprint": "1d951982263befe946e73fb623183d275021b66a374011fc7f4e938ddc4f93ae",
-        "media_fingerprint": "e6cf778db1af241ca512a2da97dc88cf6eec74b75b3d8119d0e65971835960f5",
-        "text": "🔴\nپوستر باشگاه ‌پرسپولیس برای بازی با نفت آبادان\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🔴\nپوستر باشگاه ‌پرسپولیس برای بازی با نفت آبادان\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/235010",
-        "post_id": 235010,
-        "message_id": 7530,
-        "message_kind": "caption",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-09T07:22:32.635464+00:00"
-      },
-      {
-        "fingerprint": "9f2e6ab674ca1a8f3cdc9ae4a58f68bc94d1065c401ed02862a455d0f2eb640f",
-        "media_fingerprint": "0af2f68e8468c4013c9342a9ce7fdab8a26e2c889f95db545d69192a2004ed9d",
-        "text": "♦️\nگوزنی با شاخ های بلند و ضخیم یکی از شگفتیهای خلقت.\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "♦️\nگوزنی با شاخ های بلند و ضخیم یکی از شگفتیهای خلقت.\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159651",
-        "post_id": 159651,
-        "message_id": 7531,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann",
-          "irwonders"
-        ],
-        "created_at": "2026-10-09T07:22:37.432592+00:00"
-      },
-      {
-        "fingerprint": "d6f162d0351e1502deddd6ba29bbf0f7b1beba96aeb14570302fbd2e00b6a1a1",
-        "media_fingerprint": "f53da5fc0369435f5f2bd779bd7ad44a31e208525523009c4a1df876c5bec776",
-        "text": "🇮🇷\nپوستر صنعت نفت برای دیدار با پرسپولیس\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🇮🇷\nپوستر صنعت نفت برای دیدار با پرسپولیس\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/235011",
-        "post_id": 235011,
-        "message_id": 7532,
-        "message_kind": "caption",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-09T07:22:42.465021+00:00"
-      },
-      {
-        "fingerprint": "3582114b96ec9eb02a956a4d428fa9803f75bddeb4203cbf2356062008a2e371",
-        "media_fingerprint": "fdfb6b8e2995e1d9f984c87a1f305826bcb3ad67c49a48669ed83b9ab0462fc4",
-        "text": "🎬\nقسمت پایانی\n«بدنام»\nمنتشر شد.\n🎬\nr.filimo.com/Tbadnam27\n#بدنام\n@BajeFilm",
-        "original_username": "bajefilm",
-        "original_text": "🎬\nقسمت پایانی\n«بدنام»\nمنتشر شد.\n🎬\nr.filimo.com/Tbadnam27\n#بدنام\n@BajeFilm",
-        "original_link": "https://t.me/bajefilm/11613",
-        "post_id": 11613,
-        "message_id": 7533,
-        "message_kind": "caption",
-        "sources": [
-          "bajefilm"
-        ],
-        "created_at": "2026-10-09T07:22:47.330937+00:00"
-      },
-      {
-        "fingerprint": "985c73acd17ec84a762c5e721a56cc2368f23b5c7d51a1d35f82d61876229150",
-        "media_fingerprint": "78f0950ba8bf9f276eeff1d8a72f61f4ae9a6528a15d56fff485d386c133ff65",
-        "text": "هییییی وااااااای\n🆔\n@YeJoorayi",
-        "original_username": "yejoorayi",
-        "original_text": "هییییی وااااااای\n🆔\n@YeJoorayi",
-        "original_link": "https://t.me/YeJoorayi/520",
-        "post_id": 520,
-        "message_id": 7534,
-        "message_kind": "caption",
-        "sources": [
-          "yejoorayi"
-        ],
-        "created_at": "2026-10-09T07:50:49.694713+00:00"
-      },
-      {
-        "fingerprint": "478616ede4b90598c0c1c0f53a6c46fe8c30a5b890ae703f000d00645f605d4c",
-        "media_fingerprint": "cd572ed7ade91b9f0b7f860d4d4e33647f2352bb020ede659bbfe8b28dc66a8b",
-        "text": "♦️\nوضعیت کنونی آب و هوای مرکز استان\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nوضعیت کنونی آب و هوای مرکز استان\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143343",
-        "post_id": 143343,
-        "message_id": 7535,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-09T07:50:54.009436+00:00"
-      },
-      {
-        "fingerprint": "8e78edf2697ee23f6731f22c937b22525102c6124a6d515d21a3daa02f4daabb",
-        "media_fingerprint": "",
-        "text": "❤️\nتداوم اختلال سامانه ۲۰۲۰ مخابرات پس از دو هفته؛ اینترنت برخی مشترکان قطع شد\n🔵\nبا گذشت حدود دو هفته از بروز اختلال در سامانه ۲۰۲۰ شرکت مخابرات ایران، این مشکل همچنان ادامه دارد و از صبح جمعه ۱۷ مهرماه، سرویس اینترنت برخی مشترکانی که نیاز به تمدید قرارداد داشته‌اند، به دلیل اختلال در این سامانه قطع شده است؛ قرار است تا زمان مشخص شدن وضعیت سامانه، اتصال این مشترکان به‌صورت دستی برقرار شود.\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "❤️\nتداوم اختلال سامانه ۲۰۲۰ مخابرات پس از دو هفته؛ اینترنت برخی مشترکان قطع شد\n🔵\nبا گذشت حدود دو هفته از بروز اختلال در سامانه ۲۰۲۰ شرکت مخابرات ایران، این مشکل همچنان ادامه دارد و از صبح جمعه ۱۷ مهرماه، سرویس اینترنت برخی مشترکانی که نیاز به تمدید قرارداد داشته‌اند، به دلیل اختلال در این سامانه قطع شده است؛ قرار است تا زمان مشخص شدن وضعیت سامانه، اتصال این مشترکان به‌صورت دستی برقرار شود.\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/23131",
-        "post_id": 23131,
-        "message_id": 7536,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-09T07:50:57.403619+00:00"
-      },
-      {
-        "fingerprint": "f1465dc5a2ffc1e81502138946f7028aa274840ff6172d8959494c7c7128da1e",
-        "media_fingerprint": "4a5dd734f7a58adc8d182eaeaaeee15f12176717770a1d59090b9d38e40c840b",
-        "text": "🔴\nپوستر روز بازی پرسپولیس مقابل نفت آبادان\n🆔\n@mazdak_hattrick",
-        "original_username": "mazdak_hattrick",
-        "original_text": "🔴\nپوستر روز بازی پرسپولیس مقابل نفت آبادان\n🆔\n@mazdak_hattrick",
-        "original_link": "https://t.me/mazdak_hattrick/182451",
-        "post_id": 182451,
-        "message_id": 7537,
-        "message_kind": "caption",
-        "sources": [
-          "mazdak_hattrick"
-        ],
-        "created_at": "2026-10-09T07:51:01.876110+00:00"
-      },
       {
         "fingerprint": "454a28cb553dda1bd81c5f4a954a09ac3b8d0ccf29b68b6c4150a35a991fd601",
         "media_fingerprint": "",
@@ -34514,6 +34381,157 @@
           "gizmiztel"
         ],
         "created_at": "2026-10-12T06:29:55.841320+00:00"
+      },
+      {
+        "fingerprint": "9815f6730ed836af4e29e48ed535276578654b319aec4779200909419278303a",
+        "media_fingerprint": "bade53f445d6294ef769fd29c962b8dc6e29a3c41ede0fab29e17e6ff99c7235",
+        "text": "♦️\nﺁﺗﺶ ﻓﺸﺎﻥ ﻧﺎﯾﺮﺍﮔﻮﻧﻮ | ﮐﻮﻫﺴﺘﺎﻧﯽ ﺍﺯ ﺟﻨﺲ ﺟﻬﻨﻢ. ﻓﻌﺎﻝ ﺗﺮﯾﻦ و بزرگترین ﮐﻮﻩ ﺁﺗﺶ ﻓﺸﺎﻧﯽ واقع در طبیعت وحشی آفریقا.\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "♦️\nﺁﺗﺶ ﻓﺸﺎﻥ ﻧﺎﯾﺮﺍﮔﻮﻧﻮ | ﮐﻮﻫﺴﺘﺎﻧﯽ ﺍﺯ ﺟﻨﺲ ﺟﻬﻨﻢ. ﻓﻌﺎﻝ ﺗﺮﯾﻦ و بزرگترین ﮐﻮﻩ ﺁﺗﺶ ﻓﺸﺎﻧﯽ واقع در طبیعت وحشی آفریقا.\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/159738",
+        "post_id": 159738,
+        "message_id": 8587,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann",
+          "irwonders"
+        ],
+        "created_at": "2026-10-12T07:01:21.132574+00:00"
+      },
+      {
+        "fingerprint": "f178a61b6d2031889aac8ef6758690f51ee2c4ce2f09b1833d91f856920bdfed",
+        "media_fingerprint": "68a61ce97bc85c6045f72afb6829cfca9ae3e181c57fba540741b0e2a0b2f2b8",
+        "text": "راه داشتن کلیهٔ سالم را بدانید\n!\n◽️\nورزش منظم با افزایش جریان خون، به عملکرد بهتر کلیه‌ها و دفع مؤثرتر سموم کمک می‌کند؛ اما کم‌آبی هنگام فعالیت بدنی می‌تواند فشار زیادی به کلیه‌ها وارد کرده و حتی باعث آسیب جدی شود. پس برای حفظ سلامت کلیه‌ها، باید بین ورزش و مصرف کافی آب تعادل برقرار کرد.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "راه داشتن کلیهٔ سالم را بدانید\n!\n◽️\nورزش منظم با افزایش جریان خون، به عملکرد بهتر کلیه‌ها و دفع مؤثرتر سموم کمک می‌کند؛ اما کم‌آبی هنگام فعالیت بدنی می‌تواند فشار زیادی به کلیه‌ها وارد کرده و حتی باعث آسیب جدی شود. پس برای حفظ سلامت کلیه‌ها، باید بین ورزش و مصرف کافی آب تعادل برقرار کرد.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38707",
+        "post_id": 38707,
+        "message_id": 8588,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-12T07:01:26.759955+00:00"
+      },
+      {
+        "fingerprint": "81b200372cbe756df62de10ba5a327e7580644d416d0c1370cf3c7aa7cfbd190",
+        "media_fingerprint": "afbbefd6976374abf1acb4e0f9868fd1569cf8eda267ef812be3e9d254c961eb",
+        "text": "لحظه برخورد نفتکش متخلف با مین دریایی در اطراف تنگهٔ هرمز\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "لحظه برخورد نفتکش متخلف با مین دریایی در اطراف تنگهٔ هرمز\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163140",
+        "post_id": 163140,
+        "message_id": 8589,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-12T07:01:34.518005+00:00"
+      },
+      {
+        "fingerprint": "dc91fb79c9a2ff63387be65d32980a17edb88314a930e877dfe8037c67638122",
+        "media_fingerprint": "aad993c10d27f6a455ac017befa440040997b1679ca91916d24f99b7d5ae41d4",
+        "text": "♦️\nحافظ؛ صدای ماندگار شیراز در روایت رهبر شهید\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nحافظ؛ صدای ماندگار شیراز در روایت رهبر شهید\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143523",
+        "post_id": 143523,
+        "message_id": 8590,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-12T07:01:42.565764+00:00"
+      },
+      {
+        "fingerprint": "161565fe7474ad44211da3012a1e0727c1ce92a3b21a5f9f1cf1004d407a221a",
+        "media_fingerprint": "",
+        "text": "🔹\nگواهینامه رانندگانی که فقدان شرایط سلامت جسمی و روانی آنها برای رانندگی احراز شود، به مدت حداقل ۶ ماه ضبط می‌شود و این افراد علاوه بر محرومیت از ادامه رانندگی، به مراجع قضایی معرفی می‌شوند.\n---------------------‐------\n♦️\nآخرین خبر فارس و شیراز\n●  تلگرام:\nt.me/Fars_today\n●  بله:\nble.ir/fars_online",
+        "original_username": "fars_today",
+        "original_text": "🔹\nگواهینامه رانندگانی که فقدان شرایط سلامت جسمی و روانی آنها برای رانندگی احراز شود، به مدت حداقل ۶ ماه ضبط می‌شود و این افراد علاوه بر محرومیت از ادامه رانندگی، به مراجع قضایی معرفی می‌شوند.\n---------------------‐------\n♦️\nآخرین خبر فارس و شیراز\n●  تلگرام:\nt.me/Fars_today\n●  بله:\nble.ir/fars_online",
+        "original_link": "https://t.me/Fars_today/132195",
+        "post_id": 132195,
+        "message_id": 8591,
+        "message_kind": "text",
+        "sources": [
+          "fars_today"
+        ],
+        "created_at": "2026-10-12T07:01:45.588629+00:00"
+      },
+      {
+        "fingerprint": "f8608f95c0ba478fec281688e2f6aadd0485156520cfbe6c12262d01c23d8baa",
+        "media_fingerprint": "",
+        "text": "♦️\nسازمان هدفمندسازی یارانه‌ها:\n🔹\nعدم پر کردن فرم خود اظهاری، به معنای حذف کالابرگ نیست\n🔹\nدر صورت نیاز، مهلت خود اظهاری تمدید خواهد شد\n---------------------‐------\n♦️\nآخرین خبر فارس و شیراز\n●  تلگرام:\nt.me/Fars_today\n●  بله:\nble.ir/fars_online",
+        "original_username": "fars_today",
+        "original_text": "♦️\nسازمان هدفمندسازی یارانه‌ها:\n🔹\nعدم پر کردن فرم خود اظهاری، به معنای حذف کالابرگ نیست\n🔹\nدر صورت نیاز، مهلت خود اظهاری تمدید خواهد شد\n---------------------‐------\n♦️\nآخرین خبر فارس و شیراز\n●  تلگرام:\nt.me/Fars_today\n●  بله:\nble.ir/fars_online",
+        "original_link": "https://t.me/Fars_today/132196",
+        "post_id": 132196,
+        "message_id": 8592,
+        "message_kind": "text",
+        "sources": [
+          "fars_today"
+        ],
+        "created_at": "2026-10-12T07:01:48.429844+00:00"
+      },
+      {
+        "fingerprint": "c935584c21863bb98963916342df8e22cc23de51f0c92aa4d17f36a4ca7989f0",
+        "media_fingerprint": "",
+        "text": "فکر میکنی برات دعا یا طلسم گرفتن؟\nچاکراهات بسته شده؟\nهمش استرس و اضطراب داری؟\nاگه دوست داری همه این مشکلاتت حل بشه ،بیا اینجا\n👇🏻\n@metafizik",
+        "original_username": "khandehabadd",
+        "original_text": "فکر میکنی برات دعا یا طلسم گرفتن؟\nچاکراهات بسته شده؟\nهمش استرس و اضطراب داری؟\nاگه دوست داری همه این مشکلاتت حل بشه ،بیا اینجا\n👇🏻\n@metafizik",
+        "original_link": "https://t.me/khandehabadd/306956",
+        "post_id": 306956,
+        "message_id": 8593,
+        "message_kind": "text",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-12T07:01:51.228407+00:00"
+      },
+      {
+        "fingerprint": "854a5d4d2df9ba8c9a8a46dc4710d9f886220c65b4e0c5d7826fdf279aa6dcd4",
+        "media_fingerprint": "87ce196a6d191eaf9665c2f827ba43ef66fb231eefcc2141f0d219a38b04de90",
+        "text": "👨🏻‍🍳\nقسمت هشتم\n«\n🍳\n🍳\n»\nمنتشر شد.\n🎬\nr.filimo.com/Tchefroni8\n#شفرونی\n@BajeFilm",
+        "original_username": "bajefilm",
+        "original_text": "👨🏻‍🍳\nقسمت هشتم\n«\n🍳\n🍳\n»\nمنتشر شد.\n🎬\nr.filimo.com/Tchefroni8\n#شفرونی\n@BajeFilm",
+        "original_link": "https://t.me/bajefilm/11627",
+        "post_id": 11627,
+        "message_id": 8594,
+        "message_kind": "caption",
+        "sources": [
+          "bajefilm"
+        ],
+        "created_at": "2026-10-12T07:01:55.769384+00:00"
+      },
+      {
+        "fingerprint": "8b4eb7ef01fa53f411e89f47ac4b4b3eb4b5f982e2bc8a11c04a8f5df52e81f7",
+        "media_fingerprint": "4c4576cdd865106c5749b61afc4b7284a7c7ba4fcd3e8fd24fe596f2bc711143",
+        "text": "یکم گندکاری ببینیم\n🤦🏻‍♂\n😂\n‌\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "یکم گندکاری ببینیم\n🤦🏻‍♂\n😂\n‌\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306957",
+        "post_id": 306957,
+        "message_id": 8595,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-12T07:02:04.034614+00:00"
+      },
+      {
+        "fingerprint": "be8b3256513c5184fa276a4fbd88868cac2353f48229f1eca712e8bd7bd50e1b",
+        "media_fingerprint": "",
+        "text": "♦️\nپزشکیان: همه می‌دانند که بنزین را نمی شود با لیتری ۱۵۰۰ تومان داد چون فقط حمل و نقل آن ۴ الی ۵ هزار تومان می شود\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nپزشکیان: همه می‌دانند که بنزین را نمی شود با لیتری ۱۵۰۰ تومان داد چون فقط حمل و نقل آن ۴ الی ۵ هزار تومان می شود\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143524",
+        "post_id": 143524,
+        "message_id": 8596,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-12T07:02:06.715667+00:00"
       }
     ]
   }
