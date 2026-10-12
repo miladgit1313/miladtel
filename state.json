@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143563,
+      "last_id": 143565,
       "processed_ids": [
-        142446,
-        142447,
         142448,
         142449,
         142450,
@@ -1002,16 +1000,15 @@
         143553,
         143554,
         143562,
-        143563
+        143563,
+        143564,
+        143565
       ],
-      "sent_count": 899
+      "sent_count": 901
     },
     "total_fut": {
-      "last_id": 237765,
+      "last_id": 237768,
       "processed_ids": [
-        236711,
-        236712,
-        236713,
         236714,
         236715,
         236716,
@@ -2008,14 +2005,16 @@
         237762,
         237763,
         237764,
-        237765
+        237765,
+        237766,
+        237767,
+        237768
       ],
       "sent_count": 126
     },
     "footballvision2": {
-      "last_id": 171061,
+      "last_id": 171062,
       "processed_ids": [
-        169957,
         169958,
         169959,
         169960,
@@ -3014,7 +3013,8 @@
         171058,
         171059,
         171060,
-        171061
+        171061,
+        171062
       ],
       "sent_count": 133
     },
@@ -3324,7 +3324,7 @@
       "sent_count": 8
     },
     "drtel": {
-      "last_id": 67622,
+      "last_id": 67623,
       "processed_ids": [
         66561,
         66565,
@@ -4156,9 +4156,10 @@
         67615,
         67620,
         67621,
-        67622
+        67622,
+        67623
       ],
-      "sent_count": 466
+      "sent_count": 467
     },
     "techtube": {
       "last_id": 18499,
@@ -6019,7 +6020,7 @@
       "sent_count": 426
     },
     "comentiat": {
-      "last_id": 26460,
+      "last_id": 26463,
       "processed_ids": [
         25844,
         25845,
@@ -6518,9 +6519,10 @@
         26456,
         26457,
         26458,
-        26460
+        26460,
+        26463
       ],
-      "sent_count": 363
+      "sent_count": 364
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -6530,7 +6532,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38711,
+      "last_id": 38712,
       "processed_ids": [
         38432,
         38433,
@@ -6808,9 +6810,10 @@
         38708,
         38709,
         38710,
-        38711
+        38711,
+        38712
       ],
-      "sent_count": 165
+      "sent_count": 166
     },
     "gizmiztel": {
       "last_id": 163148,
@@ -9464,9 +9467,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109783,
+      "last_id": 109784,
       "processed_ids": [
-        108703,
         108704,
         108705,
         108706,
@@ -10465,14 +10467,14 @@
         109780,
         109781,
         109782,
-        109783
+        109783,
+        109784
       ],
       "sent_count": 139
     },
     "varzesh3": {
-      "last_id": 303900,
+      "last_id": 303901,
       "processed_ids": [
-        302799,
         302800,
         302801,
         302802,
@@ -11471,12 +11473,13 @@
         303897,
         303898,
         303899,
-        303900
+        303900,
+        303901
       ],
       "sent_count": 91
     },
     "totalfut_plus": {
-      "last_id": 26710,
+      "last_id": 26711,
       "processed_ids": [
         25870,
         25871,
@@ -12290,15 +12293,14 @@
         26707,
         26708,
         26709,
-        26710
+        26710,
+        26711
       ],
       "sent_count": 58
     },
     "adak_ir_official": {
-      "last_id": 235238,
+      "last_id": 235240,
       "processed_ids": [
-        234211,
-        234212,
         234213,
         234214,
         234215,
@@ -13296,14 +13298,15 @@
         235235,
         235236,
         235237,
-        235238
+        235238,
+        235239,
+        235240
       ],
-      "sent_count": 192
+      "sent_count": 193
     },
     "futball180tv": {
-      "last_id": 108402,
+      "last_id": 108403,
       "processed_ids": [
-        107381,
         107382,
         107383,
         107384,
@@ -14302,15 +14305,14 @@
         108399,
         108400,
         108401,
-        108402
+        108402,
+        108403
       ],
       "sent_count": 88
     },
     "hattric_official": {
-      "last_id": 84748,
+      "last_id": 84750,
       "processed_ids": [
-        83691,
-        83692,
         83693,
         83694,
         83695,
@@ -15308,12 +15310,14 @@
         84744,
         84745,
         84746,
-        84748
+        84748,
+        84749,
+        84750
       ],
-      "sent_count": 124
+      "sent_count": 125
     },
     "mazdak_hattrick": {
-      "last_id": 182538,
+      "last_id": 182539,
       "processed_ids": [
         181991,
         181992,
@@ -15849,7 +15853,8 @@
         182534,
         182536,
         182537,
-        182538
+        182538,
+        182539
       ],
       "sent_count": 49
     },
@@ -15891,7 +15896,7 @@
       "sent_count": 2
     },
     "cafenet_zarjooyi": {
-      "last_id": 2098,
+      "last_id": 2099,
       "processed_ids": [
         2082,
         2083,
@@ -15905,9 +15910,10 @@
         2095,
         2096,
         2097,
-        2098
+        2098,
+        2099
       ],
-      "sent_count": 4
+      "sent_count": 5
     },
     "niazcom_ir": {
       "last_id": 61619,
@@ -15994,7 +16000,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58626,
+      "last_id": 58629,
       "processed_ids": [
         58030,
         58031,
@@ -16540,9 +16546,12 @@
         58623,
         58624,
         58625,
-        58626
+        58626,
+        58627,
+        58628,
+        58629
       ],
-      "sent_count": 343
+      "sent_count": 346
     },
     "razcom": {
       "last_id": 70491,
@@ -19059,7 +19068,7 @@
       "sent_count": 63
     },
     "peach_tweet": {
-      "last_id": 3256,
+      "last_id": 3257,
       "processed_ids": [
         2745,
         2749,
@@ -19326,9 +19335,10 @@
         3253,
         3254,
         3255,
-        3256
+        3256,
+        3257
       ],
-      "sent_count": 162
+      "sent_count": 163
     },
     "funy_khand": {
       "last_id": 25804,
@@ -19438,7 +19448,7 @@
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6270,
+      "last_id": 6273,
       "processed_ids": [
         6113,
         6114,
@@ -19583,24 +19593,27 @@
         6267,
         6268,
         6269,
-        6270
+        6270,
+        6272,
+        6273
       ],
       "sent_count": 5
     },
     "ghandeharipoet": {
-      "last_id": 42698,
+      "last_id": 42699,
       "processed_ids": [
         42693,
         42694,
         42695,
         42696,
         42697,
-        42698
+        42698,
+        42699
       ],
-      "sent_count": 5
+      "sent_count": 6
     },
     "dashagh": {
-      "last_id": 48320,
+      "last_id": 48321,
       "processed_ids": [
         48313,
         48314,
@@ -19609,223 +19622,14 @@
         48317,
         48318,
         48319,
-        48320
+        48320,
+        48321
       ],
-      "sent_count": 6
+      "sent_count": 7
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "f076b596638c0543e0a6535d4679e37dcd7fb28199b9122f43b20fa226c297bc",
-        "media_fingerprint": "",
-        "text": "«آمدم بیرانوند را با خودم به سربازی ببرم»\n🎙\nبخش دوم گفت‌و‌گو با هواداران پرسپولیس  @Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "«آمدم بیرانوند را با خودم به سربازی ببرم»\n🎙\nبخش دوم گفت‌و‌گو با هواداران پرسپولیس  @Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/109448",
-        "post_id": 109448,
-        "message_id": 7647,
-        "message_kind": "text",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-09T13:24:30.931986+00:00"
-      },
-      {
-        "fingerprint": "803128e33f67ab846b26cc959f57ceba4f6766c9259ef20c68341a8f41c49b4e",
-        "media_fingerprint": "a1b32c702e52493bedb77e89a86493cc017ea18eaf6ffb2d46aaab3a801e61ba",
-        "text": "کنایه جالب طرفدار اصفهانی تیم پرسپولیس به بیرانوند: تیم دسته سومی هم پول زیاد بدهد، بیرانوند قبول می کند\n@Hattric_Official",
-        "original_username": "hattric_official",
-        "original_text": "کنایه جالب طرفدار اصفهانی تیم پرسپولیس به بیرانوند: تیم دسته سومی هم پول زیاد بدهد، بیرانوند قبول می کند\n@Hattric_Official",
-        "original_link": "https://t.me/Hattric_Official/84545",
-        "post_id": 84545,
-        "message_id": 7648,
-        "message_kind": "caption",
-        "sources": [
-          "hattric_official"
-        ],
-        "created_at": "2026-10-09T13:24:38.590398+00:00"
-      },
-      {
-        "fingerprint": "0e12f968aebc7904bdf8a787c92930a13858178eb238a8899338da35ac114265",
-        "media_fingerprint": "ca919a441354d5147881e60f11a2083aca9c5fdcbe2becf137c70fd23b394a43",
-        "text": "نهم اکتبر روز آدم‌هایی که لبخند می‌زنن اما حالشون خوب نیست!\n◽️\nامروز بهانه‌ایه برای اینکه بیشتر حواسمون به حال همدیگه باشه. گاهی پشت یه سکوت طولانی یا یه لبخند ساده، غمی پنهان شده که هیچ‌کس ازش خبر نداره.\n❤️‍🩹\n◽️\nگاهی فقط شنیده شدن و درک شدن، می‌تونه حال یه آدم رو کمی بهتر کنه.\n+ نهم اکتبر روز جهانی افسردگی\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_username": "majalepezeshki",
-        "original_text": "نهم اکتبر روز آدم‌هایی که لبخند می‌زنن اما حالشون خوب نیست!\n◽️\nامروز بهانه‌ایه برای اینکه بیشتر حواسمون به حال همدیگه باشه. گاهی پشت یه سکوت طولانی یا یه لبخند ساده، غمی پنهان شده که هیچ‌کس ازش خبر نداره.\n❤️‍🩹\n◽️\nگاهی فقط شنیده شدن و درک شدن، می‌تونه حال یه آدم رو کمی بهتر کنه.\n+ نهم اکتبر روز جهانی افسردگی\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_link": "https://t.me/MajalePezeshki/38679",
-        "post_id": 38679,
-        "message_id": 7649,
-        "message_kind": "caption",
-        "sources": [
-          "majalepezeshki"
-        ],
-        "created_at": "2026-10-09T13:24:43.927951+00:00"
-      },
-      {
-        "fingerprint": "96deb38c486fca98bc170ba0ac968e36a23452454bf7e3a81260e19a16eb35ab",
-        "media_fingerprint": "4e41243f82e8373c5a2ebb17b32fdd8ac6220b551403b4d933a82f9e4af76f2f",
-        "text": "✅\nبگذار خودش راه‌حل پیدا کند\n🌟\nاگر کودک هنگام ساخت پازل یا بازی با مشکل روبه‌رو شد، بلافاصله پاسخ را نگویید. کمی فرصت فکر کردن به او بدهید. این کار مهارت حل مسئله و اعتمادبه‌نفس را تقویت می‌کند.\n🌐\nwww.healthychildren.org\n#مادر_و_کودک\n#حل_مسئله\n🖥\n@Dr_SalamatX",
-        "original_username": "dr_salamatx",
-        "original_text": "✅\nبگذار خودش راه‌حل پیدا کند\n🌟\nاگر کودک هنگام ساخت پازل یا بازی با مشکل روبه‌رو شد، بلافاصله پاسخ را نگویید. کمی فرصت فکر کردن به او بدهید. این کار مهارت حل مسئله و اعتمادبه‌نفس را تقویت می‌کند.\n🌐\nwww.healthychildren.org\n#مادر_و_کودک\n#حل_مسئله\n🖥\n@Dr_SalamatX",
-        "original_link": "https://t.me/Dr_SalamatX/55373",
-        "post_id": 55373,
-        "message_id": 7650,
-        "message_kind": "caption",
-        "sources": [
-          "dr_salamatx"
-        ],
-        "created_at": "2026-10-09T13:24:49.186177+00:00"
-      },
-      {
-        "fingerprint": "6929e90ce9a8117327dcaeacdebf45cdf1acaf319d8c2f086cf46665ac958e70",
-        "media_fingerprint": "2548112fd0b442b6dee612363009d54f41355aaed69b150bae537b493c34d008",
-        "text": "🏅\nحضور دو مدافع مصدوم پرسپولیس در ورزشگاه شهدای شهرقدس\n⏺\nمحمدحسین کنعانی‌زادگان و دانیال ایری در محل برگزاری دیدار سرخ‌پوشان مقابل صنعت نفت آبادان حضور پیدا کردند.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_username": "total_fut",
-        "original_text": "🏅\nحضور دو مدافع مصدوم پرسپولیس در ورزشگاه شهدای شهرقدس\n⏺\nمحمدحسین کنعانی‌زادگان و دانیال ایری در محل برگزاری دیدار سرخ‌پوشان مقابل صنعت نفت آبادان حضور پیدا کردند.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_link": "https://t.me/total_fut/237556",
-        "post_id": 237556,
-        "message_id": 7651,
-        "message_kind": "caption",
-        "sources": [
-          "total_fut"
-        ],
-        "created_at": "2026-10-09T13:24:55.898076+00:00"
-      },
-      {
-        "fingerprint": "0e7cdbc4a369321a3daf17685ce97711a374dca7a1268fb155965583537bb083",
-        "media_fingerprint": "fd627986d7c320ec671d491f24156a12d8d5de3ecb0cf0176f662cf93808be9c",
-        "text": "‼️\n🔴\nهوادار پرسپولیس: به عنوان یک لر بختیاری از بیرانوند متنفرم!\n⚽️\n@Futball180TV",
-        "original_username": "futball180tv",
-        "original_text": "‼️\n🔴\nهوادار پرسپولیس: به عنوان یک لر بختیاری از بیرانوند متنفرم!\n⚽️\n@Futball180TV",
-        "original_link": "https://t.me/Futball180TV/108191",
-        "post_id": 108191,
-        "message_id": 7652,
-        "message_kind": "caption",
-        "sources": [
-          "futball180tv"
-        ],
-        "created_at": "2026-10-09T13:51:23.499900+00:00"
-      },
-      {
-        "fingerprint": "6b519c5780810779cd615a147eaf9f7d485ae16b7857fdae01a2e292d5910609",
-        "media_fingerprint": "a1de8a5bdac2c8568f34b36a80c1545b07792f885d83e9639566e2d87d655a50",
-        "text": "ترکیب صنعت نفت مقابل پرسپولیس\nلیگ برتر ایران/ ساعت ۱۷:۰۰\n🔘\n@N\navadnewstelegram",
-        "original_username": "footballvision2",
-        "original_text": "ترکیب صنعت نفت مقابل پرسپولیس\nلیگ برتر ایران/ ساعت ۱۷:۰۰\n🔘\n@N\navadnewstelegram",
-        "original_link": "https://t.me/footballvision2/170819",
-        "post_id": 170819,
-        "message_id": 7653,
-        "message_kind": "caption",
-        "sources": [
-          "footballvision2"
-        ],
-        "created_at": "2026-10-09T13:51:27.432243+00:00"
-      },
-      {
-        "fingerprint": "c1a08c7e4c219d7107adc86cf16b3691e5c4fe81730f2f97d4f6c84f57a164ee",
-        "media_fingerprint": "35c9804d7ce3498fef184d0f1422013a7fd75ebbd1f108faf454a29acb55456c",
-        "text": "♦️\nدیوار مهربانی در یکی از بیمارستان‌های شیراز؛ مهربانی برای نجات جان‌ها\n🔹\nدر این طرح، افراد به‌اندازه توان خود کمک مالی می‌کنند و رسید پرداخت را به دیوار می‌چسبانند تا بیمارانی که برای تأمین هزینه‌های درمانی نیازمندند، از این کمک‌ها استفاده کنند.\n#اخبار_فارس\nدر فضای مجازی\n👇\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nدیوار مهربانی در یکی از بیمارستان‌های شیراز؛ مهربانی برای نجات جان‌ها\n🔹\nدر این طرح، افراد به‌اندازه توان خود کمک مالی می‌کنند و رسید پرداخت را به دیوار می‌چسبانند تا بیمارانی که برای تأمین هزینه‌های درمانی نیازمندند، از این کمک‌ها استفاده کنند.\n#اخبار_فارس\nدر فضای مجازی\n👇\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143365",
-        "post_id": 143365,
-        "message_id": 7654,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-09T13:51:31.690868+00:00"
-      },
-      {
-        "fingerprint": "b9dee5c68a12d6f12072fdc93a6cae516b9ebac5ad7a69839ea2c1c4f6d3f4ff",
-        "media_fingerprint": "c3a1a7a7f8d990ca879b476ff1147a19d7ea3efbcdc8178199c4fdb48da53151",
-        "text": "📺\nهم اکنون\nپخش دیدار فوتبال پرسپولیس - نفت آبادان\n📺\nلینک پخش برنامه\n🆔\n@varzesh3",
-        "original_username": "varzesh3",
-        "original_text": "📺\nهم اکنون\nپخش دیدار فوتبال پرسپولیس - نفت آبادان\n📺\nلینک پخش برنامه\n🆔\n@varzesh3",
-        "original_link": "https://t.me/varzesh3/303678",
-        "post_id": 303678,
-        "message_id": 7655,
-        "message_kind": "caption",
-        "sources": [
-          "varzesh3"
-        ],
-        "created_at": "2026-10-09T13:51:35.832115+00:00"
-      },
-      {
-        "fingerprint": "e267f24c3c6964a9971a46a79b3a65c53001d9b011fa03f9bd8a395161ca24e6",
-        "media_fingerprint": "14595c6fff624249b21f65795a992489872bb52b817432879e95029e4b76cf75",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26396",
-        "post_id": 26396,
-        "message_id": 7656,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-09T13:51:39.309114+00:00"
-      },
-      {
-        "fingerprint": "f6f7a3e991d59c5eee50d277fd1eaef84febb52e20430a308bf273d725cc0f36",
-        "media_fingerprint": "717fd6fb4f84b32c71b850d9a7d205f51f7c78b4cee6948d0daa11abdc480955",
-        "text": "📊\nتاریخچه تقابل‌های دو تیم پرسپولیس\n🆚\nصنعت نفت آبادان درتمام مسابقات: 48 مسابقه، 31 پیروزی پرسپولیس، 6 برد صنعت نفت و 11 بازی مساوی.\n🆔\n@mazdak_hattrick",
-        "original_username": "mazdak_hattrick",
-        "original_text": "📊\nتاریخچه تقابل‌های دو تیم پرسپولیس\n🆚\nصنعت نفت آبادان درتمام مسابقات: 48 مسابقه، 31 پیروزی پرسپولیس، 6 برد صنعت نفت و 11 بازی مساوی.\n🆔\n@mazdak_hattrick",
-        "original_link": "https://t.me/mazdak_hattrick/182461",
-        "post_id": 182461,
-        "message_id": 7657,
-        "message_kind": "caption",
-        "sources": [
-          "mazdak_hattrick"
-        ],
-        "created_at": "2026-10-09T13:51:43.616995+00:00"
-      },
-      {
-        "fingerprint": "03cf4ecdde1dceb8ec31d55840833de51c750a92638724c85156b5fc4e9db055",
-        "media_fingerprint": "6480ad6bfce0e7b7a3874c81bca2fd49e0f9a50ab3ca06f8e335aef41b064367",
-        "text": "🔴\nیه نفر تو توییتر اومد توئیت زد و گفت:\nدوستم پزشکی دانشگاه ایران میخونه، برای جشن فارغ التحصیلی از\n«امیرحسین قیاسی»\nدعوت کردن تا برنامه اجرا کنه.\n▪️\nبنظرتون رقم پیشنهادیش چقدر بود!؟\nظاهرا آقای قیاسی گفتن، برای یه ساعت اجرا تقریبا 1 میلیارد تومن میگیرم؛ ولی چون پول نداشتن با 200 میلیون تومن\n«ابوطالب حسینی»\nرو آوردن.\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "🔴\nیه نفر تو توییتر اومد توئیت زد و گفت:\nدوستم پزشکی دانشگاه ایران میخونه، برای جشن فارغ التحصیلی از\n«امیرحسین قیاسی»\nدعوت کردن تا برنامه اجرا کنه.\n▪️\nبنظرتون رقم پیشنهادیش چقدر بود!؟\nظاهرا آقای قیاسی گفتن، برای یه ساعت اجرا تقریبا 1 میلیارد تومن میگیرم؛ ولی چون پول نداشتن با 200 میلیون تومن\n«ابوطالب حسینی»\nرو آوردن.\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52792",
-        "post_id": 52792,
-        "message_id": 7658,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-09T13:51:48.431833+00:00"
-      },
-      {
-        "fingerprint": "1a2cb1ffae7bd3b5f823eef265cd0d60df6df571de1ea1f7bdcb9b221baea372",
-        "media_fingerprint": "8bb10ad66f507c04d6a3a17e1ac6eda1fb136a6ee1aa62d9c1a37c1bb4366f05",
-        "text": "🔴\nعکسی از ناو هواپیمابر «یو‌اس‌اس آبراهام لینکلن\n🇺🇸\n» در حال ورود به سن‌دیگو پس از حدود ۱۱ ماه مأموریت؛\nروی بدنه این ناو، تمام تجهیزاتی که آمریکا از ایران\n🇮🇷\n(مثل زیردریایی، پهپاد شاهد و رزمناو یا ناوشکن...) نابود کرده رو حکاکی کردن.\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nعکسی از ناو هواپیمابر «یو‌اس‌اس آبراهام لینکلن\n🇺🇸\n» در حال ورود به سن‌دیگو پس از حدود ۱۱ ماه مأموریت؛\nروی بدنه این ناو، تمام تجهیزاتی که آمریکا از ایران\n🇮🇷\n(مثل زیردریایی، پهپاد شاهد و رزمناو یا ناوشکن...) نابود کرده رو حکاکی کردن.\n@DrTeL",
-        "original_link": "https://t.me/drtel/67505",
-        "post_id": 67505,
-        "message_id": 7659,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-09T13:51:52.983149+00:00"
-      },
-      {
-        "fingerprint": "5b055688e76a69787d6b39f386108b8503d73caf7744f639831515e9e3c6b353",
-        "media_fingerprint": "",
-        "text": "بیفومااا",
-        "original_username": "footballvision2",
-        "original_text": "بیفومااا",
-        "original_link": "https://t.me/footballvision2/170821",
-        "post_id": 170821,
-        "message_id": 7660,
-        "message_kind": "text",
-        "sources": [
-          "footballvision2"
-        ],
-        "created_at": "2026-10-09T13:51:55.651467+00:00"
-      },
       {
         "fingerprint": "4dc4badad0366ea532f91ad645c8a1f6303cb4d8641c0ec927c46f09f9424447",
         "media_fingerprint": "",
@@ -34703,6 +34507,216 @@
           "akhbar_cafenet"
         ],
         "created_at": "2026-10-12T12:37:24.435251+00:00"
+      },
+      {
+        "fingerprint": "0acb80569b736e7b3a2897c7bd380bf60051b1b83f05feaa46f827fc175ef0d7",
+        "media_fingerprint": "e48931f2ec036963d2252d985373e4f4554ce8be59f8312c62020c71ee77982a",
+        "text": "لحظه‌ای پیشرفته، دقیق و شگفت‌انگیز از فعالیتِ یک رباتِ جراح و پزشکِ هوشمند در یک اتاقِ عملِ استریل و فوقِ مدرن.\n👌\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "لحظه‌ای پیشرفته، دقیق و شگفت‌انگیز از فعالیتِ یک رباتِ جراح و پزشکِ هوشمند در یک اتاقِ عملِ استریل و فوقِ مدرن.\n👌\n@irWonders",
+        "original_link": "https://t.me/irwonders/58627",
+        "post_id": 58627,
+        "message_id": 8708,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-12T13:14:59.818047+00:00"
+      },
+      {
+        "fingerprint": "9941db5f645fd7f85b821cafc6d71ed8737db6ff14e8c34ec39ff2a5f295e7f7",
+        "media_fingerprint": "8c64c53566f52516318106ceff00807a06f8368d71b2e267d2aa42f8553224d7",
+        "text": "🔴\nامروز ۲۰ مهرماه، روز بزرگداشت حافظ شیرازیه.\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nامروز ۲۰ مهرماه، روز بزرگداشت حافظ شیرازیه.\n@DrTeL",
+        "original_link": "https://t.me/drtel/67623",
+        "post_id": 67623,
+        "message_id": 8709,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-12T13:15:06.384543+00:00"
+      },
+      {
+        "fingerprint": "acf115deec7e443629b3a7c2c2c5bac52a0bb024ba4c4062be5c224aab757a2c",
+        "media_fingerprint": "f0d0f0f4eeb93d381f3fd15f26949d227fb1736d5d4b6d20af9e65091f856510",
+        "text": "ترشی تخم مرغ عجیب ترین چیزی که میتونید ببنید\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "ترشی تخم مرغ عجیب ترین چیزی که میتونید ببنید\n@irWonders",
+        "original_link": "https://t.me/irwonders/58628",
+        "post_id": 58628,
+        "message_id": 8710,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-12T13:15:13.168332+00:00"
+      },
+      {
+        "fingerprint": "a38896302ec0b5c524fcf13f216be05b92f45488a52c8e96d52de9e309b53a08",
+        "media_fingerprint": "1cf3fa1fbd4d1970e85f334d3bce487444c3278adcdd89d8f4446cc557e53404",
+        "text": "پسر ۱۶ ساله از بدنش عکس و فیلم گذاشته.\nبعد زنان بالغ (grown ass women) تو کامنتاش!\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "پسر ۱۶ ساله از بدنش عکس و فیلم گذاشته.\nبعد زنان بالغ (grown ass women) تو کامنتاش!\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48321",
+        "post_id": 48321,
+        "message_id": 8711,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-12T13:15:23.125397+00:00"
+      },
+      {
+        "fingerprint": "2c5e67580a673b29e0a1182f6344b102ce44d6f3b2ab0ca221bbf4786f6dfbb5",
+        "media_fingerprint": "",
+        "text": "🔴\nنه تا از آدرس های مهم از اداره ها که اتباع افغانستان جهت مدارک شناسایی خود به آنها نیاز دارند.\n🔵\nسفارت افغانستان در تهران : خیابان شهید بهشتی ،مترو شهید بهشتی ،خیابان پاکستان ، کوچه هرات\n🔵\nاداره اتباع شهر تهران : بزرگراه حکیم ،نرسیده به شهرزیبا ،بلوار شهید فرساد شرقی ، خیابان نیلوفر ،جنب بیمه ملت ، مسیر قابل دسترسی از میدان ازادی اتوبوس های کوهسار باید سوار شوید.\n🔵\nمرکز اردوگاه سلیمانخانی: تهرانسر انتهای بلوار گلها تقاطع بزرگراه فتح به سمت غرب ، مسیر قابل دسترسی از میدان آزادی اتوبوس های تهرانسر و یا شماره دو باید سوار شوید.\n🔵\nکانون دفاتر کفالت کل کشور : انتهای بزرگراه همت غرب ، محله گلستان ، میدان فولادوند، خیابان گلستان،خیابان زیبا پلاک ۳۰\n🔵\nاداره کل امور اتباع کشور: میدان ونک ، جنب شیرخوارگاه آمنه ، جنب پمپ بنزین\n🔵\nکنسولگری افغانستان در شهر مشهد: مشهد ، خیابان اخوند خراسانی، اخوند خراسانی ۲۳\n🔵\nاداره پلیس ناجا غرب تهران : اندیشه ،فاز چهار ،بالاتر از چهارراه ارغوان\n🔵\nاداره پلیس ناجا کوه نور : خیابان مطهری ، نرسیده به ایستگاه مترو مفتح ، خیابان کوه نور\n🔵\nاداره پلیس گذرنامه ستارخان ناجا: ستارخان،خیابان پاتریس لومومبا ، جنب حسینیه دریانی ها\nلینک کانال:\nhttp://t.me/cafenet_zarjooyi",
+        "original_username": "cafenet_zarjooyi",
+        "original_text": "🔴\nنه تا از آدرس های مهم از اداره ها که اتباع افغانستان جهت مدارک شناسایی خود به آنها نیاز دارند.\n🔵\nسفارت افغانستان در تهران : خیابان شهید بهشتی ،مترو شهید بهشتی ،خیابان پاکستان ، کوچه هرات\n🔵\nاداره اتباع شهر تهران : بزرگراه حکیم ،نرسیده به شهرزیبا ،بلوار شهید فرساد شرقی ، خیابان نیلوفر ،جنب بیمه ملت ، مسیر قابل دسترسی از میدان ازادی اتوبوس های کوهسار باید سوار شوید.\n🔵\nمرکز اردوگاه سلیمانخانی: تهرانسر انتهای بلوار گلها تقاطع بزرگراه فتح به سمت غرب ، مسیر قابل دسترسی از میدان آزادی اتوبوس های تهرانسر و یا شماره دو باید سوار شوید.\n🔵\nکانون دفاتر کفالت کل کشور : انتهای بزرگراه همت غرب ، محله گلستان ، میدان فولادوند، خیابان گلستان،خیابان زیبا پلاک ۳۰\n🔵\nاداره کل امور اتباع کشور: میدان ونک ، جنب شیرخوارگاه آمنه ، جنب پمپ بنزین\n🔵\nکنسولگری افغانستان در شهر مشهد: مشهد ، خیابان اخوند خراسانی، اخوند خراسانی ۲۳\n🔵\nاداره پلیس ناجا غرب تهران : اندیشه ،فاز چهار ،بالاتر از چهارراه ارغوان\n🔵\nاداره پلیس ناجا کوه نور : خیابان مطهری ، نرسیده به ایستگاه مترو مفتح ، خیابان کوه نور\n🔵\nاداره پلیس گذرنامه ستارخان ناجا: ستارخان،خیابان پاتریس لومومبا ، جنب حسینیه دریانی ها\nلینک کانال:\nhttp://t.me/cafenet_zarjooyi",
+        "original_link": "https://t.me/cafenet_zarjooyi/2099",
+        "post_id": 2099,
+        "message_id": 8714,
+        "message_kind": "text",
+        "sources": [
+          "cafenet_zarjooyi"
+        ],
+        "created_at": "2026-10-12T13:15:27.498226+00:00"
+      },
+      {
+        "fingerprint": "17fe74f3a769a34eb6857047b00bc6879afff20c56515613c42b030f9c6a059f",
+        "media_fingerprint": "",
+        "text": "‼️\n⚽\nفدراسیون فوتبال: پرسپولیس، استقلال خوزستان، صنعت نفت، خیبر و فجر سپاسی تا پایان مهر برای ارسال صورت‌های مالی حسابرسی‌شده مهلت گرفته‌اند.\n⚪️\nمهلت استقلال، تراکتور و آلومینیوم اراک تا هفته اول آبان تمدید شده و تمدید مجدد امکان‌پذیر نیست.\n⚪️\n9 باشگاه مدارک خود را ارسال کرده‌اند و برای مس شهر بابک به دلیل عدم اقدام در مهلت مقرر اخطار اولیه صادر شده است.\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "‼️\n⚽\nفدراسیون فوتبال: پرسپولیس، استقلال خوزستان، صنعت نفت، خیبر و فجر سپاسی تا پایان مهر برای ارسال صورت‌های مالی حسابرسی‌شده مهلت گرفته‌اند.\n⚪️\nمهلت استقلال، تراکتور و آلومینیوم اراک تا هفته اول آبان تمدید شده و تمدید مجدد امکان‌پذیر نیست.\n⚪️\n9 باشگاه مدارک خود را ارسال کرده‌اند و برای مس شهر بابک به دلیل عدم اقدام در مهلت مقرر اخطار اولیه صادر شده است.\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/84749",
+        "post_id": 84749,
+        "message_id": 8715,
+        "message_kind": "text",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-12T13:15:30.649826+00:00"
+      },
+      {
+        "fingerprint": "f629e6abf3d5faf9d0e415ba7c806f4ca66a1467bc54246047cbf2d5f725a1d7",
+        "media_fingerprint": "",
+        "text": "♦️\nحبیب بادام‌فیروز دادستان عمومی و انقلاب شهرستان اقلید شد\n🔹\nآیین تودیع و معارفه دادستان عمومی و انقلاب شهرستان اقلید برگزار شد و طی آن، حبیب بادام‌فیروز به‌عنوان دادستان جدید این شهرستان معرفی و از خدمات احسان حیدری قدردانی شد.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nحبیب بادام‌فیروز دادستان عمومی و انقلاب شهرستان اقلید شد\n🔹\nآیین تودیع و معارفه دادستان عمومی و انقلاب شهرستان اقلید برگزار شد و طی آن، حبیب بادام‌فیروز به‌عنوان دادستان جدید این شهرستان معرفی و از خدمات احسان حیدری قدردانی شد.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143564",
+        "post_id": 143564,
+        "message_id": 8716,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-12T13:15:33.569592+00:00"
+      },
+      {
+        "fingerprint": "d6aa0217701cdcb9d769513fe1c945146b29e2f6d39fcbbad10d9f6519d56b00",
+        "media_fingerprint": "988de0c78f6b333c2819bfaae20b20b448bb5d706d53a3671e729f4f3ea67b07",
+        "text": "چرا درد عضلات چند ساعت بعد از ورزش شروع می‌شود؟\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "چرا درد عضلات چند ساعت بعد از ورزش شروع می‌شود؟\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38712",
+        "post_id": 38712,
+        "message_id": 8717,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-12T13:15:37.821672+00:00"
+      },
+      {
+        "fingerprint": "41750dc2468e29e75686dc52b1c3a6c6c2c18e55c9a734edb7cbc4d0ac080c52",
+        "media_fingerprint": "",
+        "text": "بعضی آدم‌ها شما را در زندگی‌شان نمی‌خواهند. بلکه فقط می‌خواهند بدانند آیا هنوز آن‌ها را می‌خواهید یا نه. وقتی مطمئن می‌شوند که هنوز برایتان مهم‌اند، دوباره فاصله می‌گیرند. چون آنچه می‌ خواهند، صمیمیت نیست، بلکه تأیید شدن است.\n✍\nروان‌شناسِ ایرانی\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
+        "original_username": "ghandeharipoet",
+        "original_text": "بعضی آدم‌ها شما را در زندگی‌شان نمی‌خواهند. بلکه فقط می‌خواهند بدانند آیا هنوز آن‌ها را می‌خواهید یا نه. وقتی مطمئن می‌شوند که هنوز برایتان مهم‌اند، دوباره فاصله می‌گیرند. چون آنچه می‌ خواهند، صمیمیت نیست، بلکه تأیید شدن است.\n✍\nروان‌شناسِ ایرانی\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
+        "original_link": "https://t.me/Ghandeharipoet/42699",
+        "post_id": 42699,
+        "message_id": 8718,
+        "message_kind": "text",
+        "sources": [
+          "ghandeharipoet"
+        ],
+        "created_at": "2026-10-12T13:15:40.780662+00:00"
+      },
+      {
+        "fingerprint": "4ac040b0d4826171c5d23aaa81ed688ed7fcbf23bc100a0a1717a114732b85c1",
+        "media_fingerprint": "80db339a0c888b63a471eed89ce6406790fba20bc53858bf435850e8a62c88f2",
+        "text": "ورود به قطب جنوب، با کفش‌های آلوده ممنوع!\nپیش از سوار شدن به هواپیما یا کشتی عازم قطب جنوب، کفش‌ها شسته و ضدعفونی می‌شوند تا بذرها، میکروب‌ها و موجودات ریز ناخواسته وارد این قاره نشوند.\nاکوسیستم قطب جنوب بسیار شکننده و منحصربه‌فرد است؛ حتی آلودگی‌های کوچک هم می‌توانند تعادل طبیعی آن را تهدید کنند. این پاکسازی، اقدامی مهم برای حفاظت از یکی از بکرترین مناطق زمین است.\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "ورود به قطب جنوب، با کفش‌های آلوده ممنوع!\nپیش از سوار شدن به هواپیما یا کشتی عازم قطب جنوب، کفش‌ها شسته و ضدعفونی می‌شوند تا بذرها، میکروب‌ها و موجودات ریز ناخواسته وارد این قاره نشوند.\nاکوسیستم قطب جنوب بسیار شکننده و منحصربه‌فرد است؛ حتی آلودگی‌های کوچک هم می‌توانند تعادل طبیعی آن را تهدید کنند. این پاکسازی، اقدامی مهم برای حفاظت از یکی از بکرترین مناطق زمین است.\n@irWonders",
+        "original_link": "https://t.me/irwonders/58629",
+        "post_id": 58629,
+        "message_id": 8719,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-12T13:15:47.896235+00:00"
+      },
+      {
+        "fingerprint": "6c358ca450e167d4af2910b26c759140f618bf3442fc19aebda063e0407c4ce4",
+        "media_fingerprint": "c18c43ec9d6a201fb9c94d6b311c8509506170d00b6f13d6c2ce2db480f8bcfb",
+        "text": "ژله به روایت تصویر\n😍\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "ژله به روایت تصویر\n😍\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/3257",
+        "post_id": 3257,
+        "message_id": 8720,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-12T13:15:58.577802+00:00"
+      },
+      {
+        "fingerprint": "9b1bd66ec365b0cdb89f4dc93cf42659761c8e887ba1c28b39c79acc353c04ec",
+        "media_fingerprint": "8c9e448ec1a231463c85102632bfb45607933f252944d408ae91c055417cd3b4",
+        "text": "اصفهانی جماعت :\n😂\n😍\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "اصفهانی جماعت :\n😂\n😍\n@comentiat",
+        "original_link": "https://t.me/Comentiat/26463",
+        "post_id": 26463,
+        "message_id": 8721,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-12T13:16:02.337601+00:00"
+      },
+      {
+        "fingerprint": "b1719b36e587d71c57f79f4381376b66d9cbcb553508f79d13a2c519d771ff21",
+        "media_fingerprint": "",
+        "text": "🚨\n⚪️\n🔴\nکانون هواداران باشگاه خیبر خرم آباد اعلام کرد هر هوادار پرسپولیس که برای دیدن بازی با خیبر به خرم آباد میره از اسکان رایگان توسط هواداران خیر بهره میبره و نیازی به گرفتن هتل و خونه نیست.\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🚨\n⚪️\n🔴\nکانون هواداران باشگاه خیبر خرم آباد اعلام کرد هر هوادار پرسپولیس که برای دیدن بازی با خیبر به خرم آباد میره از اسکان رایگان توسط هواداران خیر بهره میبره و نیازی به گرفتن هتل و خونه نیست.\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/235240",
+        "post_id": 235240,
+        "message_id": 8722,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-12T13:16:05.250944+00:00"
+      },
+      {
+        "fingerprint": "058dd990c8b47fb3e82fc5307c28cf187b9c80e6b00bdd1172d32755ec26e8a6",
+        "media_fingerprint": "fdf8c2ec3506e3bd074f0b14e7f6e06e84f29ba8bff3f2b9b73f0973bba2608c",
+        "text": "♦️\nگلباران آرامگاه حافظ با حضور جمعی از دوستداران فرهنگ و ادب در شیراز\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nگلباران آرامگاه حافظ با حضور جمعی از دوستداران فرهنگ و ادب در شیراز\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143565",
+        "post_id": 143565,
+        "message_id": 8723,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-12T13:16:09.327074+00:00"
       }
     ]
   }
