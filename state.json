@@ -1,11 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143553,
+      "last_id": 143563,
       "processed_ids": [
-        142443,
-        142444,
-        142445,
         142446,
         142447,
         142448,
@@ -1002,15 +999,16 @@
         143550,
         143551,
         143552,
-        143553
+        143553,
+        143554,
+        143562,
+        143563
       ],
-      "sent_count": 897
+      "sent_count": 899
     },
     "total_fut": {
-      "last_id": 237763,
+      "last_id": 237765,
       "processed_ids": [
-        236709,
-        236710,
         236711,
         236712,
         236713,
@@ -2008,15 +2006,15 @@
         237760,
         237761,
         237762,
-        237763
+        237763,
+        237764,
+        237765
       ],
       "sent_count": 126
     },
     "footballvision2": {
-      "last_id": 171059,
+      "last_id": 171061,
       "processed_ids": [
-        169955,
-        169956,
         169957,
         169958,
         169959,
@@ -3014,7 +3012,9 @@
         171056,
         171057,
         171058,
-        171059
+        171059,
+        171060,
+        171061
       ],
       "sent_count": 133
     },
@@ -5226,7 +5226,7 @@
       "sent_count": 135
     },
     "akhbar_cafenet": {
-      "last_id": 23268,
+      "last_id": 23272,
       "processed_ids": [
         22432,
         22433,
@@ -6011,9 +6011,12 @@
         23265,
         23266,
         23267,
-        23268
+        23268,
+        23269,
+        23271,
+        23272
       ],
-      "sent_count": 425
+      "sent_count": 426
     },
     "comentiat": {
       "last_id": 26460,
@@ -9461,10 +9464,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109781,
+      "last_id": 109783,
       "processed_ids": [
-        108701,
-        108702,
         108703,
         108704,
         108705,
@@ -10462,15 +10463,15 @@
         109777,
         109779,
         109780,
-        109781
+        109781,
+        109782,
+        109783
       ],
       "sent_count": 139
     },
     "varzesh3": {
-      "last_id": 303898,
+      "last_id": 303900,
       "processed_ids": [
-        302797,
-        302798,
         302799,
         302800,
         302801,
@@ -11468,12 +11469,14 @@
         303895,
         303896,
         303897,
-        303898
+        303898,
+        303899,
+        303900
       ],
       "sent_count": 91
     },
     "totalfut_plus": {
-      "last_id": 26709,
+      "last_id": 26710,
       "processed_ids": [
         25870,
         25871,
@@ -12286,15 +12289,14 @@
         26706,
         26707,
         26708,
-        26709
+        26709,
+        26710
       ],
       "sent_count": 58
     },
     "adak_ir_official": {
-      "last_id": 235236,
+      "last_id": 235238,
       "processed_ids": [
-        234209,
-        234210,
         234211,
         234212,
         234213,
@@ -13292,15 +13294,15 @@
         235233,
         235234,
         235235,
-        235236
+        235236,
+        235237,
+        235238
       ],
       "sent_count": 192
     },
     "futball180tv": {
-      "last_id": 108400,
+      "last_id": 108402,
       "processed_ids": [
-        107379,
-        107380,
         107381,
         107382,
         107383,
@@ -14298,14 +14300,15 @@
         108397,
         108398,
         108399,
-        108400
+        108400,
+        108401,
+        108402
       ],
       "sent_count": 88
     },
     "hattric_official": {
-      "last_id": 84746,
+      "last_id": 84748,
       "processed_ids": [
-        83690,
         83691,
         83692,
         83693,
@@ -15304,12 +15307,13 @@
         84743,
         84744,
         84745,
-        84746
+        84746,
+        84748
       ],
       "sent_count": 124
     },
     "mazdak_hattrick": {
-      "last_id": 182537,
+      "last_id": 182538,
       "processed_ids": [
         181991,
         181992,
@@ -15844,7 +15848,8 @@
         182533,
         182534,
         182536,
-        182537
+        182537,
+        182538
       ],
       "sent_count": 49
     },
@@ -19054,7 +19059,7 @@
       "sent_count": 63
     },
     "peach_tweet": {
-      "last_id": 3255,
+      "last_id": 3256,
       "processed_ids": [
         2745,
         2749,
@@ -19320,12 +19325,13 @@
         3252,
         3253,
         3254,
-        3255
+        3255,
+        3256
       ],
       "sent_count": 162
     },
     "funy_khand": {
-      "last_id": 25802,
+      "last_id": 25804,
       "processed_ids": [
         25704,
         25705,
@@ -19425,12 +19431,14 @@
         25799,
         25800,
         25801,
-        25802
+        25802,
+        25803,
+        25804
       ],
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6268,
+      "last_id": 6270,
       "processed_ids": [
         6113,
         6114,
@@ -19573,7 +19581,9 @@
         6265,
         6266,
         6267,
-        6268
+        6268,
+        6269,
+        6270
       ],
       "sent_count": 5
     },
@@ -19606,53 +19616,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "de83fe969f09b486eccf1c9ce2e8d0aa495bb3239245fda7e18dabb286708d83",
-        "media_fingerprint": "d452e2cad03cbf12f01a04335ed9e926f298351ce50b4f09ef2be097239b21b5",
-        "text": "♦️\n۳ گروه متخلف شکار و صید در مناطق ممنوعه فراشبند دستگیر شدند\nرئیس اداره حفاظت محیط زیست شهرستان فراشبند:\n🔹\nمأموران یگان حفاظت محیط زیست شهرستان فراشبند در هفته نخست مهرماه، در جریان پایش و کنترل مناطق تحت مدیریت، سه گروه متخلف را که اقدام به شکار و حمل و نگهداری سلاح کرده بودند، شناسایی و دستگیر کردند.\n🔹\nاز این متخلفان یک قبضه سلاح پنج‌تیرپران غیرمجاز، ۲ قبضه سلاح مجاز و سایر ادوات شکار کشف و ضبط شد.\n@Akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\n۳ گروه متخلف شکار و صید در مناطق ممنوعه فراشبند دستگیر شدند\nرئیس اداره حفاظت محیط زیست شهرستان فراشبند:\n🔹\nمأموران یگان حفاظت محیط زیست شهرستان فراشبند در هفته نخست مهرماه، در جریان پایش و کنترل مناطق تحت مدیریت، سه گروه متخلف را که اقدام به شکار و حمل و نگهداری سلاح کرده بودند، شناسایی و دستگیر کردند.\n🔹\nاز این متخلفان یک قبضه سلاح پنج‌تیرپران غیرمجاز، ۲ قبضه سلاح مجاز و سایر ادوات شکار کشف و ضبط شد.\n@Akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143364",
-        "post_id": 143364,
-        "message_id": 7644,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-09T13:24:14.959242+00:00"
-      },
-      {
-        "fingerprint": "632e003876697ba2fb730cfaf8a5427a77bc5d121bc8c1aa16fafa521b158ad8",
-        "media_fingerprint": "782768edcf43bc84871599bd68a95906b44d7e80f70d3af7be6526902ceb49e8",
-        "text": "یک صبح معمولی در پرو\nخیابان‌های اولانتایتامبو با صدای بوق‌ها و حضور دسته ای از لاماها، زنده شده است. این یک روش بسیار به‌یادماندنی برای شروع روز است.⁠\n⁠\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "یک صبح معمولی در پرو\nخیابان‌های اولانتایتامبو با صدای بوق‌ها و حضور دسته ای از لاماها، زنده شده است. این یک روش بسیار به‌یادماندنی برای شروع روز است.⁠\n⁠\n@irWonders",
-        "original_link": "https://t.me/irwonders/58510",
-        "post_id": 58510,
-        "message_id": 7645,
-        "message_kind": "text",
-        "sources": [
-          "irwonders",
-          "jaleb",
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-09T13:24:19.515374+00:00"
-      },
-      {
-        "fingerprint": "8f81e181e999a3879a839d62741b8e4d0458f0f9347e3c1b63fc1f4caef12ab3",
-        "media_fingerprint": "6a7493672b70dc479a8f0b2d48c32e6c18b2ac3f197fd7cdbf28598aedd7631a",
-        "text": "🔴\nبانوی پرسپولیسی: به خاطر پدرم استقلالی بودم اما زود متوجه بزرگی‌ پرسپولیس شدم!\n⚽️\n@Futball180TV",
-        "original_username": "futball180tv",
-        "original_text": "🔴\nبانوی پرسپولیسی: به خاطر پدرم استقلالی بودم اما زود متوجه بزرگی‌ پرسپولیس شدم!\n⚽️\n@Futball180TV",
-        "original_link": "https://t.me/Futball180TV/108189",
-        "post_id": 108189,
-        "message_id": 7646,
-        "message_kind": "caption",
-        "sources": [
-          "futball180tv"
-        ],
-        "created_at": "2026-10-09T13:24:27.842002+00:00"
-      },
       {
         "fingerprint": "f076b596638c0543e0a6535d4679e37dcd7fb28199b9122f43b20fa226c297bc",
         "media_fingerprint": "",
@@ -33820,7 +33783,8 @@
         "message_id": 8636,
         "message_kind": "text",
         "sources": [
-          "dashagh"
+          "dashagh",
+          "peach_tweet"
         ],
         "created_at": "2026-10-12T09:24:02.626068+00:00"
       },
@@ -34694,6 +34658,51 @@
           "akhbar_cafenet"
         ],
         "created_at": "2026-10-12T11:55:06.817972+00:00"
+      },
+      {
+        "fingerprint": "7dc1fdf20419be676bb8a925488ebed7d12871683f64f5c1b4b6a8724e680c32",
+        "media_fingerprint": "feb4676fd0e71e03fcd45b9ea982627e48e4c4d03bd655b51ac2671bc3d4edd9",
+        "text": "♦️\nتصاویری از حضور رهبر شهید انقلاب در حافظیه شیراز\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nتصاویری از حضور رهبر شهید انقلاب در حافظیه شیراز\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143554",
+        "post_id": 143554,
+        "message_id": 8698,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-12T12:37:17.452063+00:00"
+      },
+      {
+        "fingerprint": "336676f4a3b21431bfbb5720232534158fac87272a319dbe79e21c3694c6ef77",
+        "media_fingerprint": "e5595995559c5522ea48e6b534e04faf276c43282500a5179c76d48e1bfa9966",
+        "text": "♦️\nسفر یک روزه به تبریز چقدر آب میخوره؟\n#ایرانگردی\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nسفر یک روزه به تبریز چقدر آب میخوره؟\n#ایرانگردی\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143562",
+        "post_id": 143562,
+        "message_id": 8706,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-12T12:37:21.904752+00:00"
+      },
+      {
+        "fingerprint": "45e9564f915a5976da9f232408e719da5a0423b8c67ded7959aa0dbd8d0d37af",
+        "media_fingerprint": "",
+        "text": "📖\nفهرست دروس و كتاب‌های منبع سؤالات کنکور ۱۴۰۶ منتشر شد\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "📖\nفهرست دروس و كتاب‌های منبع سؤالات کنکور ۱۴۰۶ منتشر شد\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23269",
+        "post_id": 23269,
+        "message_id": 8707,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-12T12:37:24.435251+00:00"
       }
     ]
   }
