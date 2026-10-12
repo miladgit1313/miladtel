@@ -1,11 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143570,
+      "last_id": 143577,
       "processed_ids": [
-        142453,
-        142454,
-        142455,
         142456,
         142457,
         142458,
@@ -1002,14 +999,16 @@
         143567,
         143568,
         143569,
-        143570
+        143570,
+        143571,
+        143572,
+        143577
       ],
-      "sent_count": 904
+      "sent_count": 906
     },
     "total_fut": {
-      "last_id": 237772,
+      "last_id": 237773,
       "processed_ids": [
-        236717,
         236718,
         236719,
         236720,
@@ -2008,17 +2007,14 @@
         237768,
         237770,
         237771,
-        237772
+        237772,
+        237773
       ],
       "sent_count": 126
     },
     "footballvision2": {
-      "last_id": 171063,
+      "last_id": 171067,
       "processed_ids": [
-        169959,
-        169960,
-        169961,
-        169962,
         169963,
         169964,
         169965,
@@ -3014,7 +3010,11 @@
         171060,
         171061,
         171062,
-        171063
+        171063,
+        171064,
+        171065,
+        171066,
+        171067
       ],
       "sent_count": 133
     },
@@ -3324,7 +3324,7 @@
       "sent_count": 8
     },
     "drtel": {
-      "last_id": 67625,
+      "last_id": 67626,
       "processed_ids": [
         66561,
         66565,
@@ -4159,12 +4159,13 @@
         67622,
         67623,
         67624,
-        67625
+        67625,
+        67626
       ],
-      "sent_count": 468
+      "sent_count": 469
     },
     "techtube": {
-      "last_id": 18499,
+      "last_id": 18501,
       "processed_ids": [
         18261,
         18262,
@@ -4320,9 +4321,10 @@
         18494,
         18497,
         18498,
-        18499
+        18499,
+        18501
       ],
-      "sent_count": 54
+      "sent_count": 55
     },
     "dafaterepishkhandpd": {
       "last_id": 16066,
@@ -4732,7 +4734,7 @@
       "sent_count": 95
     },
     "coffeenetmanager": {
-      "last_id": 51825,
+      "last_id": 51828,
       "processed_ids": [
         51537,
         51538,
@@ -5001,9 +5003,12 @@
         51822,
         51823,
         51824,
-        51825
+        51825,
+        51826,
+        51827,
+        51828
       ],
-      "sent_count": 90
+      "sent_count": 93
     },
     "roidbest": {
       "last_id": 21845,
@@ -5233,7 +5238,7 @@
       "sent_count": 135
     },
     "akhbar_cafenet": {
-      "last_id": 23275,
+      "last_id": 23276,
       "processed_ids": [
         22432,
         22433,
@@ -6024,9 +6029,10 @@
         23272,
         23273,
         23274,
-        23275
+        23275,
+        23276
       ],
-      "sent_count": 426
+      "sent_count": 427
     },
     "comentiat": {
       "last_id": 26463,
@@ -6541,7 +6547,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38712,
+      "last_id": 38713,
       "processed_ids": [
         38432,
         38433,
@@ -6820,9 +6826,10 @@
         38709,
         38710,
         38711,
-        38712
+        38712,
+        38713
       ],
-      "sent_count": 166
+      "sent_count": 167
     },
     "gizmiztel": {
       "last_id": 163157,
@@ -7956,7 +7963,7 @@
       "sent_count": 75
     },
     "jaleb": {
-      "last_id": 52868,
+      "last_id": 52873,
       "processed_ids": [
         52261,
         52262,
@@ -8493,9 +8500,14 @@
         52865,
         52866,
         52867,
-        52868
+        52868,
+        52869,
+        52870,
+        52871,
+        52872,
+        52873
       ],
-      "sent_count": 275
+      "sent_count": 278
     },
     "ajayebe_jahann": {
       "last_id": 159751,
@@ -9481,12 +9493,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109788,
+      "last_id": 109792,
       "processed_ids": [
-        108708,
-        108709,
-        108710,
-        108711,
         108712,
         108713,
         108714,
@@ -10482,16 +10490,17 @@
         109785,
         109786,
         109787,
-        109788
+        109788,
+        109789,
+        109790,
+        109791,
+        109792
       ],
       "sent_count": 139
     },
     "varzesh3": {
-      "last_id": 303903,
+      "last_id": 303906,
       "processed_ids": [
-        302802,
-        302803,
-        302804,
         302805,
         302806,
         302807,
@@ -11488,12 +11497,15 @@
         303900,
         303901,
         303902,
-        303903
+        303903,
+        303904,
+        303905,
+        303906
       ],
       "sent_count": 91
     },
     "totalfut_plus": {
-      "last_id": 26715,
+      "last_id": 26716,
       "processed_ids": [
         25870,
         25871,
@@ -12312,18 +12324,14 @@
         26712,
         26713,
         26714,
-        26715
+        26715,
+        26716
       ],
       "sent_count": 59
     },
     "adak_ir_official": {
-      "last_id": 235243,
+      "last_id": 235248,
       "processed_ids": [
-        234216,
-        234217,
-        234218,
-        234219,
-        234220,
         234221,
         234222,
         234223,
@@ -13318,15 +13326,18 @@
         235240,
         235241,
         235242,
-        235243
+        235243,
+        235244,
+        235245,
+        235246,
+        235247,
+        235248
       ],
       "sent_count": 193
     },
     "futball180tv": {
-      "last_id": 108413,
+      "last_id": 108415,
       "processed_ids": [
-        107391,
-        107392,
         107393,
         107394,
         107395,
@@ -14324,16 +14335,15 @@
         108410,
         108411,
         108412,
-        108413
+        108413,
+        108414,
+        108415
       ],
       "sent_count": 88
     },
     "hattric_official": {
-      "last_id": 84755,
+      "last_id": 84758,
       "processed_ids": [
-        83698,
-        83699,
-        83700,
         83701,
         83702,
         83703,
@@ -15330,12 +15340,15 @@
         84752,
         84753,
         84754,
-        84755
+        84755,
+        84756,
+        84757,
+        84758
       ],
       "sent_count": 125
     },
     "mazdak_hattrick": {
-      "last_id": 182539,
+      "last_id": 182542,
       "processed_ids": [
         181991,
         181992,
@@ -15872,7 +15885,10 @@
         182536,
         182537,
         182538,
-        182539
+        182539,
+        182540,
+        182541,
+        182542
       ],
       "sent_count": 49
     },
@@ -16018,7 +16034,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58631,
+      "last_id": 58632,
       "processed_ids": [
         58030,
         58031,
@@ -16569,9 +16585,10 @@
         58628,
         58629,
         58630,
-        58631
+        58631,
+        58632
       ],
-      "sent_count": 348
+      "sent_count": 349
     },
     "razcom": {
       "last_id": 70491,
@@ -18150,7 +18167,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306965,
+      "last_id": 306969,
       "processed_ids": [
         306563,
         306564,
@@ -18548,9 +18565,13 @@
         306962,
         306963,
         306964,
-        306965
+        306965,
+        306966,
+        306967,
+        306968,
+        306969
       ],
-      "sent_count": 171
+      "sent_count": 172
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -19015,7 +19036,7 @@
       "sent_count": 39
     },
     "shakhmovie": {
-      "last_id": 4137,
+      "last_id": 4138,
       "processed_ids": [
         4017,
         4018,
@@ -19088,9 +19109,10 @@
         4130,
         4131,
         4136,
-        4137
+        4137,
+        4138
       ],
-      "sent_count": 63
+      "sent_count": 64
     },
     "peach_tweet": {
       "last_id": 3258,
@@ -19367,7 +19389,7 @@
       "sent_count": 164
     },
     "funy_khand": {
-      "last_id": 25806,
+      "last_id": 25808,
       "processed_ids": [
         25704,
         25705,
@@ -19471,12 +19493,14 @@
         25803,
         25804,
         25805,
-        25806
+        25806,
+        25807,
+        25808
       ],
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6276,
+      "last_id": 6277,
       "processed_ids": [
         6113,
         6114,
@@ -19626,7 +19650,8 @@
         6273,
         6274,
         6275,
-        6276
+        6276,
+        6277
       ],
       "sent_count": 5
     },
@@ -19644,7 +19669,7 @@
       "sent_count": 6
     },
     "dashagh": {
-      "last_id": 48324,
+      "last_id": 48325,
       "processed_ids": [
         48313,
         48314,
@@ -19655,253 +19680,21 @@
         48319,
         48320,
         48321,
-        48324
+        48324,
+        48325
       ],
-      "sent_count": 8
+      "sent_count": 9
+    },
+    "apkclub": {
+      "last_id": 72962,
+      "processed_ids": [
+        72962
+      ],
+      "sent_count": 0
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "25bb6e04b94f0b869f8c863adaeb95d088ad78d2b856e7546c65c83b1e7e640b",
-        "media_fingerprint": "",
-        "text": "کتاب ۳۱۹ ساله نسخه دست نویس در دوران صفویه\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "کتاب ۳۱۹ ساله نسخه دست نویس در دوران صفویه\n@irWonders",
-        "original_link": "https://t.me/irwonders/58511",
-        "post_id": 58511,
-        "message_id": 7680,
-        "message_kind": "text",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-09T13:53:48.182401+00:00"
-      },
-      {
-        "fingerprint": "025438dc210350e15485c60405aaf29af8cabc4753456f64721c3e401f4dc51d",
-        "media_fingerprint": "",
-        "text": "✉️\nدیگه به هیچ کی چشم نمیگم ...\n🎬\n🎬\nدومین عاشقانه بامدادخمار را اختصاصی از پلتفرم شیدا ببینید؛\nکارگردان: نرگس آبیار\nتهیه‌کننده: محمدحسین قاسمی\nمدیر پروژه: مجیدرضا مصطفوی\n@BajeFilm",
-        "original_username": "bajefilm",
-        "original_text": "✉️\nدیگه به هیچ کی چشم نمیگم ...\n🎬\n🎬\nدومین عاشقانه بامدادخمار را اختصاصی از پلتفرم شیدا ببینید؛\nکارگردان: نرگس آبیار\nتهیه‌کننده: محمدحسین قاسمی\nمدیر پروژه: مجیدرضا مصطفوی\n@BajeFilm",
-        "original_link": "https://t.me/bajefilm/11615",
-        "post_id": 11615,
-        "message_id": 7681,
-        "message_kind": "text",
-        "sources": [
-          "bajefilm"
-        ],
-        "created_at": "2026-10-09T13:53:51.250038+00:00"
-      },
-      {
-        "fingerprint": "1e4c50fd6ba8636684a32578b801c35a81bb8a976ae6b4acd19eac55ee03cacd",
-        "media_fingerprint": "62beecbb405289af241de9ec34b6f60ee950f26817c6eec66b3c083b211cf4e2",
-        "text": "⚽️\n🔴\nگل اول پرسپولیس | بیفوما '5 پرسپولیس 1 - نفت آبادان 0\n🆔\n@varzesh3",
-        "original_username": "varzesh3",
-        "original_text": "⚽️\n🔴\nگل اول پرسپولیس | بیفوما '5 پرسپولیس 1 - نفت آبادان 0\n🆔\n@varzesh3",
-        "original_link": "https://t.me/varzesh3/303680",
-        "post_id": 303680,
-        "message_id": 7682,
-        "message_kind": "caption",
-        "sources": [
-          "varzesh3"
-        ],
-        "created_at": "2026-10-09T13:53:57.455595+00:00"
-      },
-      {
-        "fingerprint": "4288f704df89d48ba5090e87108fcf6948eec05958aac1ffce3474c545fdeb61",
-        "media_fingerprint": "2c90e7d8016aa7bc6206b43b4d4364771fa27d7cf5e5201903d927433068f2b3",
-        "text": "گل اول پرسپولیس به نفت آبادان\n⚽️\nبیفوما\n⏱️\nدقیقه 5\nپرسپولیس 1_0 نفت آبادان\n‌\n🆔\n@mazdak_hattrick",
-        "original_username": "mazdak_hattrick",
-        "original_text": "گل اول پرسپولیس به نفت آبادان\n⚽️\nبیفوما\n⏱️\nدقیقه 5\nپرسپولیس 1_0 نفت آبادان\n‌\n🆔\n@mazdak_hattrick",
-        "original_link": "https://t.me/mazdak_hattrick/182462",
-        "post_id": 182462,
-        "message_id": 7683,
-        "message_kind": "caption",
-        "sources": [
-          "mazdak_hattrick"
-        ],
-        "created_at": "2026-10-09T13:54:03.149604+00:00"
-      },
-      {
-        "fingerprint": "48351bd9555cfb0e33f28c03b3ecd42e53c32ba1d072f9f056bc94df356cc196",
-        "media_fingerprint": "e68b6915d298f0595b0aafe0e9ca66ad9a0a435fb50813cb5e2f10fd0d112e24",
-        "text": "روی ضدحمله سریع\n🔸\nپرسپولیس [۱]-۰ صنعت‌نفت\n🔸\n⚽️\nبیفوما\n🔴\nدقیقه ۵  @Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "روی ضدحمله سریع\n🔸\nپرسپولیس [۱]-۰ صنعت‌نفت\n🔸\n⚽️\nبیفوما\n🔴\nدقیقه ۵  @Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/109452",
-        "post_id": 109452,
-        "message_id": 7684,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-09T13:54:09.114072+00:00"
-      },
-      {
-        "fingerprint": "06f4f8dd0149617dc7c0360746a38520b26c62b40443ea680fc84f38bb0b0410",
-        "media_fingerprint": "f9799f740495e5a536b290c7ea3772461e665bdb817fbc991f99a2bacc7bb671",
-        "text": "-\n​​\nیادتونه این بازی رو :)\n@RoidBest",
-        "original_username": "roidbest",
-        "original_text": "-\n​​\nیادتونه این بازی رو :)\n@RoidBest",
-        "original_link": "https://t.me/RoidBest/21821",
-        "post_id": 21821,
-        "message_id": 7685,
-        "message_kind": "caption",
-        "sources": [
-          "roidbest"
-        ],
-        "created_at": "2026-10-09T14:22:57.237087+00:00"
-      },
-      {
-        "fingerprint": "52ba9922a8a2c26daed4734f582c924dde58b9309276ea4f74bf73d518cdcd0a",
-        "media_fingerprint": "4ec35182d3818ef54da1a2b0402b49b87731ff348133d346d2c6667c486c899f",
-        "text": "🏅\nکلیپ باشگاه پرسپولیس به بهانه گلزنی بیفوما\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_username": "total_fut",
-        "original_text": "🏅\nکلیپ باشگاه پرسپولیس به بهانه گلزنی بیفوما\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_link": "https://t.me/total_fut/237560",
-        "post_id": 237560,
-        "message_id": 7686,
-        "message_kind": "caption",
-        "sources": [
-          "total_fut"
-        ],
-        "created_at": "2026-10-09T14:23:04.530115+00:00"
-      },
-      {
-        "fingerprint": "e552142830778fde4bc03fa6b46f97f82cdb9cc77e9f5a915c82a89fe8c44808",
-        "media_fingerprint": "f175ab761c5321bfadb00ebc2e8839631a20cfbd211168a0023b8a9d81060da8",
-        "text": "🎖️\n📊\nمقایسه افتخارات رئیس دو باشگاه رئال مادرید و بارسلونا!\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_username": "totalfut_plus",
-        "original_text": "🎖️\n📊\nمقایسه افتخارات رئیس دو باشگاه رئال مادرید و بارسلونا!\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_link": "https://t.me/totalfut_plus/26611",
-        "post_id": 26611,
-        "message_id": 7687,
-        "message_kind": "caption",
-        "sources": [
-          "totalfut_plus"
-        ],
-        "created_at": "2026-10-09T14:23:10.044077+00:00"
-      },
-      {
-        "fingerprint": "88bc6b9688de7411b1b14b35b476ab73d2d0eec975fae0d4cb7e3c3680c3f289",
-        "media_fingerprint": "",
-        "text": "🔴\nادعای وزیر خزانه‌داری آمریکا: دولت آمریکا در حال رایزنی با پاکستان و ترکیه برای بستن تمام مسیرهای زمینی ورود و خروج از ایران است\n.\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "🔴\nادعای وزیر خزانه‌داری آمریکا: دولت آمریکا در حال رایزنی با پاکستان و ترکیه برای بستن تمام مسیرهای زمینی ورود و خروج از ایران است\n.\n@irWonders",
-        "original_link": "https://t.me/irwonders/58512",
-        "post_id": 58512,
-        "message_id": 7688,
-        "message_kind": "text",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-09T14:23:12.828577+00:00"
-      },
-      {
-        "fingerprint": "abea36f33ac39ca0f7a2bee8a425ecdd72eea3ab369f6c541d8e842a7071555d",
-        "media_fingerprint": "",
-        "text": "بیفوما چیو رییید",
-        "original_username": "footballvision2",
-        "original_text": "بیفوما چیو رییید",
-        "original_link": "https://t.me/footballvision2/170834",
-        "post_id": 170834,
-        "message_id": 7689,
-        "message_kind": "text",
-        "sources": [
-          "footballvision2"
-        ],
-        "created_at": "2026-10-09T14:23:15.456131+00:00"
-      },
-      {
-        "fingerprint": "1ad84116e1afe318be766a16d673faac292ab4248cac722441350f4ea3baeb59",
-        "media_fingerprint": "9081caa72dd79a3fa8aeab34f70653de9b5528c9eeaa8fc198b9dabfd92c78bf",
-        "text": "موقعیت حساسی که بیفوما موفق به استفاده از آن نشد!\n@Hattric_Official",
-        "original_username": "hattric_official",
-        "original_text": "موقعیت حساسی که بیفوما موفق به استفاده از آن نشد!\n@Hattric_Official",
-        "original_link": "https://t.me/Hattric_Official/84555",
-        "post_id": 84555,
-        "message_id": 7690,
-        "message_kind": "caption",
-        "sources": [
-          "hattric_official"
-        ],
-        "created_at": "2026-10-09T14:23:22.855161+00:00"
-      },
-      {
-        "fingerprint": "a2b07fc2cdaa3c8324c17789b8d64b1dc1944e26f604c10206eff560f7603d11",
-        "media_fingerprint": "ec2f222cf1e3050e75fe25f9bdb764760163982e103578f7ab2abb872845ddce",
-        "text": "طوفان شدید در سیسیل در جنوب ایتالیا\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "طوفان شدید در سیسیل در جنوب ایتالیا\n@irWonders",
-        "original_link": "https://t.me/irwonders/58513",
-        "post_id": 58513,
-        "message_id": 7691,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-09T14:23:29.815407+00:00"
-      },
-      {
-        "fingerprint": "124fbd6449e80db299b9a1998b3c227e1393977ad7e48460afd87b7c904dbaa1",
-        "media_fingerprint": "0302fde62f9f11493e57e1d9250ee696436ceb2362277e1f0a13253d79ab7cd1",
-        "text": "🔴\n🟡\nفرصت‌سوزی بیفوما در موقعیت تک به تک\n🔘\n@Navadnewstelegram",
-        "original_username": "footballvision2",
-        "original_text": "🔴\n🟡\nفرصت‌سوزی بیفوما در موقعیت تک به تک\n🔘\n@Navadnewstelegram",
-        "original_link": "https://t.me/footballvision2/170835",
-        "post_id": 170835,
-        "message_id": 7692,
-        "message_kind": "caption",
-        "sources": [
-          "footballvision2"
-        ],
-        "created_at": "2026-10-09T14:23:36.370840+00:00"
-      },
-      {
-        "fingerprint": "7ccd6716e1e71a8f3e4fff99ecd28f523c2cec02ec449a77bf8f6f397d5b8681",
-        "media_fingerprint": "",
-        "text": "♦️\nسخنگوی سازمان غذا و دارو، از ورود محموله‌ جدید واکسن آنفلوانزای فرانسوی و روسی به کشور خبر داد/ مهر\n@Akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nسخنگوی سازمان غذا و دارو، از ورود محموله‌ جدید واکسن آنفلوانزای فرانسوی و روسی به کشور خبر داد/ مهر\n@Akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143369",
-        "post_id": 143369,
-        "message_id": 7693,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-09T14:23:39.050649+00:00"
-      },
-      {
-        "fingerprint": "aab6035da629dcbec6901e31537e04f5a424b963bab038b18bef74568fab03d1",
-        "media_fingerprint": "",
-        "text": "چه پاسی داد خدابنده‌لو",
-        "original_username": "footballvision2",
-        "original_text": "چه پاسی داد خدابنده‌لو",
-        "original_link": "https://t.me/footballvision2/170837",
-        "post_id": 170837,
-        "message_id": 7694,
-        "message_kind": "text",
-        "sources": [
-          "footballvision2"
-        ],
-        "created_at": "2026-10-09T14:23:41.625000+00:00"
-      },
-      {
-        "fingerprint": "fabf8a19f678d3960836fbecea1bd928f0ac7aa0e2bc3f502173d2dc6f66295d",
-        "media_fingerprint": "",
-        "text": "خدابنده لو داره خدایی میکنه برا پرسپولیس",
-        "original_username": "footballvision2",
-        "original_text": "خدابنده لو داره خدایی میکنه برا پرسپولیس",
-        "original_link": "https://t.me/footballvision2/170838",
-        "post_id": 170838,
-        "message_id": 7695,
-        "message_kind": "text",
-        "sources": [
-          "footballvision2"
-        ],
-        "created_at": "2026-10-09T14:23:44.181024+00:00"
-      },
       {
         "fingerprint": "8283504765ea4d16919fadfe924b4408ed04e2d0cb46343a6aa93b7b794f3274",
         "media_fingerprint": "9e928de8f911213d3749e2517f7d61592dfe4d7c7084c9995629e6de52f5553f",
@@ -33769,7 +33562,8 @@
         "message_id": 8667,
         "message_kind": "caption",
         "sources": [
-          "irwonders"
+          "irwonders",
+          "jaleb"
         ],
         "created_at": "2026-10-12T10:52:36.441368+00:00"
       },
@@ -34399,7 +34193,8 @@
         "message_id": 8719,
         "message_kind": "caption",
         "sources": [
-          "irwonders"
+          "irwonders",
+          "jaleb"
         ],
         "created_at": "2026-10-12T13:15:47.896235+00:00"
       },
@@ -34747,6 +34542,246 @@
           "amozesh_cafenet"
         ],
         "created_at": "2026-10-12T14:25:55.527704+00:00"
+      },
+      {
+        "fingerprint": "4ee0e6be72a6ed4d360216081f7f4d9656830f96de215ed08b6afb272d894c19",
+        "media_fingerprint": "4d2f84e27d325f6e7c9e7023533161457a0c4f411bc0eec500cc662b616f05d4",
+        "text": "🎥\nروش جدید سوخت‌گیری با کارت اضطراری جایگاه‌ها چگونه است؟\n🛢\nعباس باصفا مدیر سامانه هوشمند سوخت شرکت ملی پخش فرآورده‌های نفتی ایران گفت: فرایند استفاده از کارت سوخت اضطراری جایگاه در طرح جدید شناسه دار کردن مصرف سوخت کمتر از یک دقیقه زمان می برد.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🎥\nروش جدید سوخت‌گیری با کارت اضطراری جایگاه‌ها چگونه است؟\n🛢\nعباس باصفا مدیر سامانه هوشمند سوخت شرکت ملی پخش فرآورده‌های نفتی ایران گفت: فرایند استفاده از کارت سوخت اضطراری جایگاه در طرح جدید شناسه دار کردن مصرف سوخت کمتر از یک دقیقه زمان می برد.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23276",
+        "post_id": 23276,
+        "message_id": 8743,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-12T14:56:04.249272+00:00"
+      },
+      {
+        "fingerprint": "2a885a009559c4166040d314437f676f3fba782708f0b6c6bdc66816a3ffb314",
+        "media_fingerprint": "476d3bbfacdf6361ac5a6c147137863b8ba8f019b9b8696491022bac9ab27ca8",
+        "text": "‏این آدمها دوقلو نیستند\n!\nاین عکسها حاصل 12 سال تحقیق یک عکاس 62 ساله کانادایی بنام Francois Bryunnel هستند که به اثبات وجود همزاد پرداخته است!\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "‏این آدمها دوقلو نیستند\n!\nاین عکسها حاصل 12 سال تحقیق یک عکاس 62 ساله کانادایی بنام Francois Bryunnel هستند که به اثبات وجود همزاد پرداخته است!\n@irWonders",
+        "original_link": "https://t.me/irwonders/58632",
+        "post_id": 58632,
+        "message_id": 8744,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-12T14:56:08.936855+00:00"
+      },
+      {
+        "fingerprint": "dafe48dc601c0ca51a11ec653b5a7f2e7ea639451ec4b42e1dde32643de07e1a",
+        "media_fingerprint": "c8279a0ced0c7e6d7f18f8f8bef2902f8700013740511712a57ad5dd39b7e3cf",
+        "text": "🔥\nست سوییشرت و شلوار مردانه بالنسیاگا مدل Hami\n✔️\nجنس پلی‌استر سبک و باکیفیت\n✔️\nفری‌سایز مناسب L و XL\n✔️\nمناسب هوای خنک بهاری و استفاده روزمره\n✨\nشیک، راحت و خوش‌فرم؛ مناسب سفر، دورهمی و پیاده‌روی!\n📏\nقد سوییشرت: ۷۲ | قد شلوار: ۱۰۰ سانتی‌متر\n🔴\nقیمت 1,650,000 تومان\n✅\nپرداخت درب منزل\nضمانت تعویض سه روزه کالا\nبرای خرید کلیک کن\n👇\nhttps://memarket24.ir/product/fast/51854/180124/",
+        "original_username": "akhbarfars",
+        "original_text": "🔥\nست سوییشرت و شلوار مردانه بالنسیاگا مدل Hami\n✔️\nجنس پلی‌استر سبک و باکیفیت\n✔️\nفری‌سایز مناسب L و XL\n✔️\nمناسب هوای خنک بهاری و استفاده روزمره\n✨\nشیک، راحت و خوش‌فرم؛ مناسب سفر، دورهمی و پیاده‌روی!\n📏\nقد سوییشرت: ۷۲ | قد شلوار: ۱۰۰ سانتی‌متر\n🔴\nقیمت 1,650,000 تومان\n✅\nپرداخت درب منزل\nضمانت تعویض سه روزه کالا\nبرای خرید کلیک کن\n👇\nhttps://memarket24.ir/product/fast/51854/180124/",
+        "original_link": "https://t.me/akhbarfars/143571",
+        "post_id": 143571,
+        "message_id": 8745,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-12T14:56:13.920857+00:00"
+      },
+      {
+        "fingerprint": "d0cf019e37eb71feb8427a4e947ac6237d0588f7bdb30d7c981f7f1c1a60cdd0",
+        "media_fingerprint": "9551d2455228b198a9a34e07afd83efa9b8cd574ea7f2b4fe3e0f49dbe51a21c",
+        "text": "بانو تو 57 سالته، چجوری با این استایل\n🍑\nهنوز انقدر خوبی؟\n📷\n|\n@ShakhMovie",
+        "original_username": "shakhmovie",
+        "original_text": "بانو تو 57 سالته، چجوری با این استایل\n🍑\nهنوز انقدر خوبی؟\n📷\n|\n@ShakhMovie",
+        "original_link": "https://t.me/Shakhmovie/4138",
+        "post_id": 4138,
+        "message_id": 8746,
+        "message_kind": "caption",
+        "sources": [
+          "shakhmovie"
+        ],
+        "created_at": "2026-10-12T14:56:18.053832+00:00"
+      },
+      {
+        "fingerprint": "8fe8d27671020d3c2ac47fdff44fb2c90e7d15e898a6cb35f1b523a96732e172",
+        "media_fingerprint": "4aea16099399e9fd62754347f7599800629709fa6e2825d12c47cd36a290f54e",
+        "text": "- میای خونمون چیزی که مامانم درست کرده رو بخوری؟\n+ مامانت چی درست کرده؟\n- منو\n🥺\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "- میای خونمون چیزی که مامانم درست کرده رو بخوری؟\n+ مامانت چی درست کرده؟\n- منو\n🥺\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48325",
+        "post_id": 48325,
+        "message_id": 8747,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-12T14:56:22.136978+00:00"
+      },
+      {
+        "fingerprint": "a2c0b0e5373e44191d220ed6a65d70c60735e25b09a190bc91a3da8e1b01b58a",
+        "media_fingerprint": "0b092dbf2d0f109ffed87d1652cfe42c5de39ad380fd5fd95d8a234b66031dcc",
+        "text": "دمویی از شبیه ساز یخچال برای ایفون Duo\n🔎\nverylazypixels\n📍\n@TechTube",
+        "original_username": "techtube",
+        "original_text": "دمویی از شبیه ساز یخچال برای ایفون Duo\n🔎\nverylazypixels\n📍\n@TechTube",
+        "original_link": "https://t.me/TechTube/18501",
+        "post_id": 18501,
+        "message_id": 8748,
+        "message_kind": "caption",
+        "sources": [
+          "techtube"
+        ],
+        "created_at": "2026-10-12T14:56:29.546826+00:00"
+      },
+      {
+        "fingerprint": "db8eae33d91fa2f97b87c1a4d4593a0be05baf2187a8cebc03095acf9d4decb3",
+        "media_fingerprint": "e6e9b697827fd5c08b5e93d99894fceebcbec0f561e0247959eb2419d6deedac",
+        "text": "🔴\nعبدالملکی؛ وزیر کارِ دولت رئیسی:\nاگه گرونی رو کنار بذاریم، دیگه هیچ مشکل اقتصادی تو کشور نداریم\n!\nما تو کشور درگیر فاجعه اقتصادی نیستیم فقط گرونی داریم.\n+ عبدالملکی همونیه که چندسال پیش گفته بود با 1 میلیون تومن میشه شغل ایجاد کرد.\n‌\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nعبدالملکی؛ وزیر کارِ دولت رئیسی:\nاگه گرونی رو کنار بذاریم، دیگه هیچ مشکل اقتصادی تو کشور نداریم\n!\nما تو کشور درگیر فاجعه اقتصادی نیستیم فقط گرونی داریم.\n+ عبدالملکی همونیه که چندسال پیش گفته بود با 1 میلیون تومن میشه شغل ایجاد کرد.\n‌\n@DrTeL",
+        "original_link": "https://t.me/drtel/67626",
+        "post_id": 67626,
+        "message_id": 8749,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-12T14:56:35.467523+00:00"
+      },
+      {
+        "fingerprint": "15c3a0f445786fabc47022f3a2b64957944c6496a659a693ca4ae23aa6c03c97",
+        "media_fingerprint": "04c05d0e411dfcfe6c99b9d8d8b213ada7babfb32bc260482ec0e7b3f5f056ce",
+        "text": "دوربین مخفی چاه‌بست\nفقط آخرش\n😂\n😂\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "دوربین مخفی چاه‌بست\nفقط آخرش\n😂\n😂\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306969",
+        "post_id": 306969,
+        "message_id": 8750,
+        "message_kind": "text",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-12T14:56:39.313648+00:00"
+      },
+      {
+        "fingerprint": "3eb1eeb54ff60880f01d786362d25a0b791b85c9d66600af1b9e051b5674b7aa",
+        "media_fingerprint": "ea37774441e0ca63e6a2f70d1bbfd7683b193206224f41fbbb059d9771ec010c",
+        "text": "اگه کنجکاوید بدونید مدادرنگی تو کارخونه چطوری تولید میشه...\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "اگه کنجکاوید بدونید مدادرنگی تو کارخونه چطوری تولید میشه...\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52869",
+        "post_id": 52869,
+        "message_id": 8751,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-12T14:56:45.351169+00:00"
+      },
+      {
+        "fingerprint": "1e6df83a0d9662af18d7f04543dd762e76a8e8f07693aa7bd38fc292045c3b7a",
+        "media_fingerprint": "c3e69acc49166a500b862f411fc8900ee89340a7bbe034d458b340c98def40f6",
+        "text": "🔴\nموز برای اینکه کیلویی 400 هزار تومن شده و مردم توان مالیشو نداشتن که بخرن بار طرف خراب شده همشو دارن میریزن سطل زباله....\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "🔴\nموز برای اینکه کیلویی 400 هزار تومن شده و مردم توان مالیشو نداشتن که بخرن بار طرف خراب شده همشو دارن میریزن سطل زباله....\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52871",
+        "post_id": 52871,
+        "message_id": 8752,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-12T14:57:02.315341+00:00"
+      },
+      {
+        "fingerprint": "25533562085890a5d28a300058d72d42093b5ea4dc0edf62f13b15c3fcf2daa5",
+        "media_fingerprint": "90cd9f10c9f58a7d9e08482788806668d105228aa0e68f838fc77f4f1b97524e",
+        "text": "کریستیانو رونالدو این عمارت 30 میلیون یورویی رو در لیسبون خرید تا بعد از بازنشستگی بره توش زندگی کنه\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "کریستیانو رونالدو این عمارت 30 میلیون یورویی رو در لیسبون خرید تا بعد از بازنشستگی بره توش زندگی کنه\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52872",
+        "post_id": 52872,
+        "message_id": 8753,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-12T14:57:07.541286+00:00"
+      },
+      {
+        "fingerprint": "9a3c6a7d7fa84b0bfe5fb5fdd7fae31cda9bfcb1117748328e584b0749523090",
+        "media_fingerprint": "e13df8dc8cca6bfab3fbed8012dfe8f62856448dea30017e5a789abfec91e6a1",
+        "text": "🔰\nبدون شرح ..",
+        "original_username": "coffeenetmanager",
+        "original_text": "🔰\nبدون شرح ..",
+        "original_link": "https://t.me/CoffeenetManager/51826",
+        "post_id": 51826,
+        "message_id": 8754,
+        "message_kind": "caption",
+        "sources": [
+          "coffeenetmanager"
+        ],
+        "created_at": "2026-10-12T14:57:15.814037+00:00"
+      },
+      {
+        "fingerprint": "542dfae74ca02b354e514d88eeee6568ebbe5e59f064826868cd1c7c5f0d437b",
+        "media_fingerprint": "",
+        "text": "♦️\nهشدار هواشناسی در فارس؛ احتمال رگبار، رعدوبرق و سیلابی شدن مسیل‌ها\nحسینی، مدیرکل هواشناسی فارس:\n🔹️\nناپایداری‌های جوی در برخی مناطق شمالی، شرقی و جنوبی استان در بعدازظهر دوشنبه ۲۰ مهرماه پیش‌بینی می‌شود.\n🔹️\nاین سامانه از بعدازظهر دوشنبه فعالیت خود را آغاز می‌کند و ناپایداری‌های جوی تا اواخر همان روز ادامه خواهد داشت.\n🔹️\nرگبارهای پراکنده و نقطه‌ای باران، رعدوبرق و وزش باد از پدیده‌های مورد انتظار این سامانه است که به‌ویژه در بخش‌هایی از شهرستان‌های شمالی، شرقی و جنوبی استان، از جمله مهر، لامرد و خنج، پیش‌بینی می‌شود.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nهشدار هواشناسی در فارس؛ احتمال رگبار، رعدوبرق و سیلابی شدن مسیل‌ها\nحسینی، مدیرکل هواشناسی فارس:\n🔹️\nناپایداری‌های جوی در برخی مناطق شمالی، شرقی و جنوبی استان در بعدازظهر دوشنبه ۲۰ مهرماه پیش‌بینی می‌شود.\n🔹️\nاین سامانه از بعدازظهر دوشنبه فعالیت خود را آغاز می‌کند و ناپایداری‌های جوی تا اواخر همان روز ادامه خواهد داشت.\n🔹️\nرگبارهای پراکنده و نقطه‌ای باران، رعدوبرق و وزش باد از پدیده‌های مورد انتظار این سامانه است که به‌ویژه در بخش‌هایی از شهرستان‌های شمالی، شرقی و جنوبی استان، از جمله مهر، لامرد و خنج، پیش‌بینی می‌شود.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143577",
+        "post_id": 143577,
+        "message_id": 8755,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-12T14:57:19.115627+00:00"
+      },
+      {
+        "fingerprint": "d4efffb03a2e7e33f7e084fe3bb22dedd1994af84d94fca9b1112b90fe8a0e5e",
+        "media_fingerprint": "75e74eeedd23eb8716a0efa2738a6192bce20f384efae5a2fc63098d1b354e65",
+        "text": "یافته جدید دانشمندان: کاهش تراکم استخوان با پیری سریع‌تر مغز ارتباط دارد\n◽️\nپژوهشگران دریافتند تراکم پایین‌تر مواد معدنی استخوان‌های ستون فقرات با نشانه‌های پیری سریع‌تر مغز و افت بیشتر توانایی‌های شناختی پیوند دارد. این نشانه‌ها شامل تغییرات ساختاری در ماده سفید مغز و افزایش ضایعات قابل مشاهده در اسکن‌های مغزی هستند.\n◽️\nیکی از کاربردهای این یافته‌ها، شناسایی افرادی است که ممکن است در معرض خطر بیشتری برای افت توانایی‌های شناختی و بیماری‌های مرتبط با آن قرار داشته باشند. در این رویکرد، اندازه‌گیری تراکم استخوان می‌تواند به‌عنوان یکی از نشانه‌های احتمالی خطر مورد بررسی قرار گیرد.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "یافته جدید دانشمندان: کاهش تراکم استخوان با پیری سریع‌تر مغز ارتباط دارد\n◽️\nپژوهشگران دریافتند تراکم پایین‌تر مواد معدنی استخوان‌های ستون فقرات با نشانه‌های پیری سریع‌تر مغز و افت بیشتر توانایی‌های شناختی پیوند دارد. این نشانه‌ها شامل تغییرات ساختاری در ماده سفید مغز و افزایش ضایعات قابل مشاهده در اسکن‌های مغزی هستند.\n◽️\nیکی از کاربردهای این یافته‌ها، شناسایی افرادی است که ممکن است در معرض خطر بیشتری برای افت توانایی‌های شناختی و بیماری‌های مرتبط با آن قرار داشته باشند. در این رویکرد، اندازه‌گیری تراکم استخوان می‌تواند به‌عنوان یکی از نشانه‌های احتمالی خطر مورد بررسی قرار گیرد.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38713",
+        "post_id": 38713,
+        "message_id": 8756,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-12T14:57:24.426739+00:00"
+      },
+      {
+        "fingerprint": "a900dcef614792d52a56b08b24effd772cd2d04fb667b7ed9307b1f556cc5af7",
+        "media_fingerprint": "921c76a66e1f915e3962735d870f893149f99b7bef428bec84effdcad7b93959",
+        "text": "همینطوری که میرید خوداظهاری کالابرگ رو پر میکنید چهارقلم جنس هم با کلابرگ بخرید\n🤭",
+        "original_username": "coffeenetmanager",
+        "original_text": "همینطوری که میرید خوداظهاری کالابرگ رو پر میکنید چهارقلم جنس هم با کلابرگ بخرید\n🤭",
+        "original_link": "https://t.me/CoffeenetManager/51827",
+        "post_id": 51827,
+        "message_id": 8757,
+        "message_kind": "caption",
+        "sources": [
+          "coffeenetmanager"
+        ],
+        "created_at": "2026-10-12T14:57:28.669639+00:00"
+      },
+      {
+        "fingerprint": "97e3b96c74c66f16ce7f7bbbb9f02afaea3fb1d301a83d340d5a48e1f28d933f",
+        "media_fingerprint": "82dd7ac37c908e1418ef12eef057390d18f9775c390892aa9d9e5be8ce981f3a",
+        "text": "",
+        "original_username": "coffeenetmanager",
+        "original_text": "",
+        "original_link": "https://t.me/CoffeenetManager/51828",
+        "post_id": 51828,
+        "message_id": 8758,
+        "message_kind": "caption",
+        "sources": [
+          "coffeenetmanager"
+        ],
+        "created_at": "2026-10-12T14:57:33.302941+00:00"
       }
     ]
   }
