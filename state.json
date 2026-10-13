@@ -1,11 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143635,
+      "last_id": 143639,
       "processed_ids": [
-        142506,
-        142507,
-        142508,
         142509,
         142510,
         142511,
@@ -1002,14 +999,16 @@
         143632,
         143633,
         143634,
-        143635
+        143635,
+        143636,
+        143637,
+        143639
       ],
       "sent_count": 933
     },
     "total_fut": {
-      "last_id": 237863,
+      "last_id": 237864,
       "processed_ids": [
-        236802,
         236803,
         236804,
         236805,
@@ -2008,7 +2007,8 @@
         237860,
         237861,
         237862,
-        237863
+        237863,
+        237864
       ],
       "sent_count": 129
     },
@@ -3294,7 +3294,7 @@
       "sent_count": 122
     },
     "behzistikomitenews": {
-      "last_id": 13971,
+      "last_id": 13972,
       "processed_ids": [
         13937,
         13939,
@@ -3327,7 +3327,8 @@
         13968,
         13969,
         13970,
-        13971
+        13971,
+        13972
       ],
       "sent_count": 10
     },
@@ -5294,7 +5295,7 @@
       "sent_count": 138
     },
     "akhbar_cafenet": {
-      "last_id": 23301,
+      "last_id": 23304,
       "processed_ids": [
         22432,
         22433,
@@ -6109,9 +6110,12 @@
         23298,
         23299,
         23300,
-        23301
+        23301,
+        23302,
+        23303,
+        23304
       ],
-      "sent_count": 435
+      "sent_count": 436
     },
     "comentiat": {
       "last_id": 26478,
@@ -6927,11 +6931,8 @@
       "sent_count": 171
     },
     "gizmiztel": {
-      "last_id": 163200,
+      "last_id": 163206,
       "processed_ids": [
-        162084,
-        162085,
-        162086,
         162087,
         162088,
         162089,
@@ -7928,7 +7929,10 @@
         163196,
         163197,
         163199,
-        163200
+        163200,
+        163202,
+        163203,
+        163206
       ],
       "sent_count": 801
     },
@@ -8061,7 +8065,7 @@
       "sent_count": 77
     },
     "jaleb": {
-      "last_id": 52884,
+      "last_id": 52889,
       "processed_ids": [
         52261,
         52262,
@@ -8614,12 +8618,15 @@
         52881,
         52882,
         52883,
-        52884
+        52884,
+        52885,
+        52887,
+        52889
       ],
-      "sent_count": 284
+      "sent_count": 286
     },
     "ajayebe_jahann": {
-      "last_id": 159772,
+      "last_id": 159776,
       "processed_ids": [
         158956,
         158957,
@@ -9420,9 +9427,12 @@
         159769,
         159770,
         159771,
-        159772
+        159772,
+        159774,
+        159775,
+        159776
       ],
-      "sent_count": 324
+      "sent_count": 327
     },
     "etelaate_omoomi": {
       "last_id": 43128,
@@ -9621,11 +9631,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109882,
+      "last_id": 109885,
       "processed_ids": [
-        108800,
-        108801,
-        108802,
         108803,
         108804,
         108805,
@@ -10622,15 +10629,16 @@
         109878,
         109880,
         109881,
-        109882
+        109882,
+        109883,
+        109884,
+        109885
       ],
-      "sent_count": 143
+      "sent_count": 144
     },
     "varzesh3": {
-      "last_id": 303970,
+      "last_id": 303972,
       "processed_ids": [
-        302876,
-        302877,
         302878,
         302879,
         302880,
@@ -11628,12 +11636,14 @@
         303967,
         303968,
         303969,
-        303970
+        303970,
+        303971,
+        303972
       ],
       "sent_count": 94
     },
     "totalfut_plus": {
-      "last_id": 26742,
+      "last_id": 26744,
       "processed_ids": [
         25870,
         25871,
@@ -12479,14 +12489,15 @@
         26739,
         26740,
         26741,
-        26742
+        26742,
+        26743,
+        26744
       ],
       "sent_count": 59
     },
     "adak_ir_official": {
-      "last_id": 235292,
+      "last_id": 235293,
       "processed_ids": [
-        234265,
         234266,
         234267,
         234268,
@@ -13485,14 +13496,14 @@
         235289,
         235290,
         235291,
-        235292
+        235292,
+        235293
       ],
       "sent_count": 197
     },
     "futball180tv": {
-      "last_id": 108544,
+      "last_id": 108545,
       "processed_ids": [
-        107512,
         107513,
         107514,
         107515,
@@ -14491,14 +14502,14 @@
         108541,
         108542,
         108543,
-        108544
+        108544,
+        108545
       ],
       "sent_count": 95
     },
     "hattric_official": {
-      "last_id": 84828,
+      "last_id": 84830,
       "processed_ids": [
-        83767,
         83768,
         83771,
         83773,
@@ -15497,7 +15508,8 @@
         84825,
         84826,
         84827,
-        84828
+        84828,
+        84830
       ],
       "sent_count": 130
     },
@@ -18836,7 +18848,7 @@
       "sent_count": 2
     },
     "film_news": {
-      "last_id": 15003,
+      "last_id": 15004,
       "processed_ids": [
         14976,
         14978,
@@ -18863,9 +18875,10 @@
         15000,
         15001,
         15002,
-        15003
+        15003,
+        15004
       ],
-      "sent_count": 16
+      "sent_count": 17
     },
     "cinematicketorg": {
       "last_id": 24408,
@@ -19357,7 +19370,7 @@
       "sent_count": 67
     },
     "peach_tweet": {
-      "last_id": 3412,
+      "last_id": 3416,
       "processed_ids": [
         2745,
         2749,
@@ -19690,7 +19703,10 @@
         3405,
         3406,
         3407,
-        3412
+        3412,
+        3414,
+        3415,
+        3416
       ],
       "sent_count": 191
     },
@@ -19824,7 +19840,7 @@
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6322,
+      "last_id": 6324,
       "processed_ids": [
         6113,
         6114,
@@ -20016,7 +20032,9 @@
         6319,
         6320,
         6321,
-        6322
+        6322,
+        6323,
+        6324
       ],
       "sent_count": 6
     },
@@ -20096,128 +20114,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "784332d79049f415865c34cf40e6d91a4f90079e6b215029966ab492af7dc8fc",
-        "media_fingerprint": "6a02cb5f7b3fa044fcb0b668c9c5eae78f8115f932416a28f6ccc23fd90ff3bc",
-        "text": "دغدغتون گا......\nچیزی نیست\n😐\n😐\n😐\n😐\nجشن اولین پریودی خانم بلاگر برای دخترشونه\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "دغدغتون گا......\nچیزی نیست\n😐\n😐\n😐\n😐\nجشن اولین پریودی خانم بلاگر برای دخترشونه\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/3183",
-        "post_id": 3183,
-        "message_id": 7935,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-09T20:19:41.937529+00:00"
-      },
-      {
-        "fingerprint": "321981e42de092088e5241a637bb0013fb09ef1c155632a48564c0e2c0a39140",
-        "media_fingerprint": "",
-        "text": "پرسپولیس در خط هافبک به دنبال تقویت",
-        "original_username": "adak_ir_official",
-        "original_text": "پرسپولیس در خط هافبک به دنبال تقویت",
-        "original_link": "https://t.me/ADAK_IR_official/235084",
-        "post_id": 235084,
-        "message_id": 7936,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-09T20:49:38.004317+00:00"
-      },
-      {
-        "fingerprint": "7201355761f2026cf62a50396506ccd8b85253fc25bbcfbcd631c94577224a34",
-        "media_fingerprint": "044f5bc9bd6afd5358c9da88185ab72d6881fc150fffe59116a725e4563db033",
-        "text": "🔴\nشایان یو، رپر مملکت چند سال با این خانوم تو رابطه بوده که بالأخره کات کردن؛\nحالا دختره رفته با \"ارسلان قاسمی\" بازیگر معروف سینما دوست شده و حتی امروز تو اکران یه فیلم هم باهم حضور پیدا کردن!\nحالا شایان کسخلش در رفته و همین‌جوری داره موزیک‌های شکست عشقی میده...\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nشایان یو، رپر مملکت چند سال با این خانوم تو رابطه بوده که بالأخره کات کردن؛\nحالا دختره رفته با \"ارسلان قاسمی\" بازیگر معروف سینما دوست شده و حتی امروز تو اکران یه فیلم هم باهم حضور پیدا کردن!\nحالا شایان کسخلش در رفته و همین‌جوری داره موزیک‌های شکست عشقی میده...\n@DrTeL",
-        "original_link": "https://t.me/drtel/67525",
-        "post_id": 67525,
-        "message_id": 7937,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-09T20:49:44.209301+00:00"
-      },
-      {
-        "fingerprint": "a7d6c8eef4dede668842e8f06dff539b28e7304f2e5ee2887876d60c38dfad3c",
-        "media_fingerprint": "",
-        "text": "🎖️\n#اختصاصی_توتال\n🏅\nمدیران باشگاه فجرسپاسی در ۲۴ ساعت اخیر مذاکراتی با مهدی رجب‌زاده برای جانشینی رسول خطیبی داشته‌اند!\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_username": "total_fut",
-        "original_text": "🎖️\n#اختصاصی_توتال\n🏅\nمدیران باشگاه فجرسپاسی در ۲۴ ساعت اخیر مذاکراتی با مهدی رجب‌زاده برای جانشینی رسول خطیبی داشته‌اند!\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_link": "https://t.me/total_fut/237613",
-        "post_id": 237613,
-        "message_id": 7939,
-        "message_kind": "text",
-        "sources": [
-          "total_fut",
-          "totalfut_plus"
-        ],
-        "created_at": "2026-10-09T20:49:47.562181+00:00"
-      },
-      {
-        "fingerprint": "23a1ad588f8cc621a6b0ebde9b4925c56d36d5a89882071433854396f53acbb0",
-        "media_fingerprint": "590b02109ff8c2730b7a2bc81ee744ad6dfc2f9329fd6e716cef9f965a78b85b",
-        "text": "آنلاین شاپ هامون\n🔥\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "آنلاین شاپ هامون\n🔥\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/3189",
-        "post_id": 3189,
-        "message_id": 7940,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-09T20:49:54.476390+00:00"
-      },
-      {
-        "fingerprint": "484cc7bc66896ef5c864adf0e0f388acb2db273304e2100e435cea774b81fdbe",
-        "media_fingerprint": "daa091283cb47010d40736c691678bd1e60ea174b268f935f8dc8219f40fc65c",
-        "text": "ویدیوی وایرال شده از اجرای امیرمحمد، نوجوون ارومیه‌ای داخل برنامه Kaos Show ترکیه\n+ این برنامه، اونایی که تو فضای مجازی معروف شدن رو دعوت میکنه تا مردم بهشون بخندن.\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "ویدیوی وایرال شده از اجرای امیرمحمد، نوجوون ارومیه‌ای داخل برنامه Kaos Show ترکیه\n+ این برنامه، اونایی که تو فضای مجازی معروف شدن رو دعوت میکنه تا مردم بهشون بخندن.\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163037",
-        "post_id": 163037,
-        "message_id": 7941,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel",
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-09T20:50:01.281250+00:00"
-      },
-      {
-        "fingerprint": "01224960c150165b989c6c863a4b408bfc36186ce416ec793a4496b809e0dbd6",
-        "media_fingerprint": "3702cbc5e39c2e90500858ee8c17c3b9e7bdd005c91f7d10db01426786d98171",
-        "text": "هوتن شکیبا: من اصلاً آدم ازدواج نیستم، بخاطر بازی نقش حبیب دچار شرم می‌شدم!\n😄\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "هوتن شکیبا: من اصلاً آدم ازدواج نیستم، بخاطر بازی نقش حبیب دچار شرم می‌شدم!\n😄\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163038",
-        "post_id": 163038,
-        "message_id": 7942,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-09T20:50:07.375843+00:00"
-      },
-      {
-        "fingerprint": "57dcdc30fedd8f326066f509fd504ce4caadb92b0d9fe9bfa6ac49b2a2289b0b",
-        "media_fingerprint": "db4e5e08c3e2cdbbd72b4a70966e5341f847e4c0eed586ae0073e831f25a8e80",
-        "text": "ویدیو وایرال شده از وضعیت استعمال دخانیات توسط دانش آموزان داخل سرویس بهداشتی های یک مدرسه سمپادی در تهران\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "ویدیو وایرال شده از وضعیت استعمال دخانیات توسط دانش آموزان داخل سرویس بهداشتی های یک مدرسه سمپادی در تهران\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163039",
-        "post_id": 163039,
-        "message_id": 7943,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-09T20:50:13.046887+00:00"
-      },
       {
         "fingerprint": "476e7f111e657fe9ff5c87b54fb189cb16b020ca1e8b58b19f24593c3d834d37",
         "media_fingerprint": "",
@@ -33835,7 +33731,8 @@
         "message_id": 8913,
         "message_kind": "caption",
         "sources": [
-          "drtel"
+          "drtel",
+          "gizmiztel"
         ],
         "created_at": "2026-10-12T21:49:55.699709+00:00"
       },
@@ -34485,7 +34382,8 @@
         "message_id": 8960,
         "message_kind": "caption",
         "sources": [
-          "gizmiztel"
+          "gizmiztel",
+          "jaleb"
         ],
         "created_at": "2026-10-13T05:52:20.911222+00:00"
       },
@@ -34937,7 +34835,8 @@
         "message_id": 8994,
         "message_kind": "caption",
         "sources": [
-          "dashagh"
+          "dashagh",
+          "peach_tweet"
         ],
         "created_at": "2026-10-13T07:53:39.973437+00:00"
       },
@@ -35195,6 +35094,126 @@
           "dashagh"
         ],
         "created_at": "2026-10-13T08:53:51.716004+00:00"
+      },
+      {
+        "fingerprint": "6126e9135057919bd55c2b22a0cd927f88a11409e2db35d352fbf7bee0979c0f",
+        "media_fingerprint": "fb23d142f3541b9bcd043e5632b13fc017316071cf0104d61fc26cc873025a96",
+        "text": "به همراه دیدارهای معوقه هفته ۷\n📆\nاعلام برنامه دیدارهای هفته ۸ تا ۱۲ لیگ برتر ایران\n🔸\nهفته ۸: ۱۶-۱۷-۱۸ مهر\n🔸\nهفته ۹: ۲۵-۲۶-۲۷ مهر\n🔸\nهفته ۱۰: ۲۹ و ۳۰ مهر و ۱-۳ آبان\n🔸\nهفته ۱۱: ۷-۸-۹ آبان\n🔸\nهفته ۱۲: ۱۴-۱۵-۱۶-۱۷ آبان\n🔸\nهمچنین دیدارهای معوقه هفته هفتم لیگ…",
+        "original_username": "ft360_ir",
+        "original_text": "به همراه دیدارهای معوقه هفته ۷\n📆\nاعلام برنامه دیدارهای هفته ۸ تا ۱۲ لیگ برتر ایران\n🔸\nهفته ۸: ۱۶-۱۷-۱۸ مهر\n🔸\nهفته ۹: ۲۵-۲۶-۲۷ مهر\n🔸\nهفته ۱۰: ۲۹ و ۳۰ مهر و ۱-۳ آبان\n🔸\nهفته ۱۱: ۷-۸-۹ آبان\n🔸\nهفته ۱۲: ۱۴-۱۵-۱۶-۱۷ آبان\n🔸\nهمچنین دیدارهای معوقه هفته هفتم لیگ…",
+        "original_link": "https://t.me/ft360_ir/109884",
+        "post_id": 109884,
+        "message_id": 9012,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-13T09:23:10.276805+00:00"
+      },
+      {
+        "fingerprint": "ab6a252e44db0bf6f756ce0987e81a350a97fe410103604ed3b1573bec583055",
+        "media_fingerprint": "",
+        "text": "دستگاه اجرایی سیستان و بلوچستان.pdf",
+        "original_username": "akhbar_cafenet",
+        "original_text": "دستگاه اجرایی سیستان و بلوچستان.pdf",
+        "original_link": "https://t.me/akhbar_cafenet/23302",
+        "post_id": 23302,
+        "message_id": 9013,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-13T09:23:12.781269+00:00"
+      },
+      {
+        "fingerprint": "3935e48ad584e2272ebc05432702265263fb6b9ec9e3bd438d0956292e8a7f76",
+        "media_fingerprint": "d8421abcc122ce5b938d7bb39af33342042293911c5c71be6bc706090e430faa",
+        "text": "🐝\n🍯\nعسل خودبافت سبلان؛ مستقیم از زنبوردار، زیر قیمت بازار!\nطبیعی، خام و با موم طبیعی زنبور\n⛰️\n🌿\n🔬\nساکاروز: ۲٪\n🍯\nعسلی خاص، در حد عسل وحشی؛\nمناسب برای علاقه‌مندان به عسل‌های کوهستانی و رژیم غذایی مرتبط با مشکلات گوارشی\n👇\nاین فیلم رو ببین، خودت قضاوت کن:\nhttps://t.me/banooye_asal/14466",
+        "original_username": "ajayebe_jahann",
+        "original_text": "🐝\n🍯\nعسل خودبافت سبلان؛ مستقیم از زنبوردار، زیر قیمت بازار!\nطبیعی، خام و با موم طبیعی زنبور\n⛰️\n🌿\n🔬\nساکاروز: ۲٪\n🍯\nعسلی خاص، در حد عسل وحشی؛\nمناسب برای علاقه‌مندان به عسل‌های کوهستانی و رژیم غذایی مرتبط با مشکلات گوارشی\n👇\nاین فیلم رو ببین، خودت قضاوت کن:\nhttps://t.me/banooye_asal/14466",
+        "original_link": "https://t.me/Ajayebe_jahann/159774",
+        "post_id": 159774,
+        "message_id": 9014,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-13T09:23:19.326009+00:00"
+      },
+      {
+        "fingerprint": "cb3ce133d4b6e7d5035a9ed93e8ad37317147929b4b1df34260d69e536a8d77b",
+        "media_fingerprint": "",
+        "text": "دوای خیلی از بیماریها است مثل زخم معده،بیحالی، سستی، سردی بدن،   روماتیسم، و غیر...\nفقط یک ماه مداومت در مصرف تو رو از معده درد رها میکنه\nعضویت در کانال\n👇\nhttps://t.me/+ejr3jVZOO2Y2MTM0",
+        "original_username": "ajayebe_jahann",
+        "original_text": "دوای خیلی از بیماریها است مثل زخم معده،بیحالی، سستی، سردی بدن،   روماتیسم، و غیر...\nفقط یک ماه مداومت در مصرف تو رو از معده درد رها میکنه\nعضویت در کانال\n👇\nhttps://t.me/+ejr3jVZOO2Y2MTM0",
+        "original_link": "https://t.me/Ajayebe_jahann/159775",
+        "post_id": 159775,
+        "message_id": 9015,
+        "message_kind": "text",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-13T09:23:22.152442+00:00"
+      },
+      {
+        "fingerprint": "e34c046eaf9e0685c3396a94bd22295b42dfdeab21718428b810806a4628e93c",
+        "media_fingerprint": "09e0b517b769837b02d7940345d4dde0bc22590b2a74be473891beda20253c40",
+        "text": "🟠\nچرا مس را ازخانه هایمان حذف کرده اند!؟\nمس فقط یه فلز معمولی نیست!\nمس خاصیت ضدباکتریایی داره و به همین دلیل، از گذشته برای نگهداری آب و ساخت ظروف استفاده می‌شده.\n‌‌‌‌‌‌‌‌‌‌‌\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "🟠\nچرا مس را ازخانه هایمان حذف کرده اند!؟\nمس فقط یه فلز معمولی نیست!\nمس خاصیت ضدباکتریایی داره و به همین دلیل، از گذشته برای نگهداری آب و ساخت ظروف استفاده می‌شده.\n‌‌‌‌‌‌‌‌‌‌‌\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/159776",
+        "post_id": 159776,
+        "message_id": 9016,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-13T09:23:29.399231+00:00"
+      },
+      {
+        "fingerprint": "5249fa5d806f26a5e0dad407d0e21574aa3e34fbd14cfe230331f16731e67f2f",
+        "media_fingerprint": "5085998d76b9f7a26bfd1b40227c6f62ad42f3e4c6d99ccc2c337ee4d260612e",
+        "text": "به وقت پارسا\n6 سریال ، 6 نقش به‌یادماندنی از پارسا پیروزفر\nاز این هفته، سریال جدید آیدا پناهنده با نام «سرخ و سیاه» در پلتفرم فیلیمو مننتشر می‌شود و پارسا پیروزفر را به عنوان یکی از بازیگران اصلی سریال، در گریم و نقشی متفاوت خواهیم دید. پیروزفر از جمله بازیگرانی است که فعالیتش را از سریال‌های تلویزیونی شروع کرده و با اولین سریال‌هایش به شهرت رسیده است. او در تلویزیون و شبکه نمایش خانگی، آثار مهمی از خود برجا گذاشته و حالا باید دید در «سرخ و سیاه» چه خواهد کرد. به بهانه نزدیکی به شروع انتشار «سرخ و سیاه»، مروری داریم بر 6 سریال کارنامه این بازیگر.\nمتن کامل را در پیج «فیلم‌نیوز سریال» بخوانید\nhttps://B2n.ir/pw9991",
+        "original_username": "film_news",
+        "original_text": "به وقت پارسا\n6 سریال ، 6 نقش به‌یادماندنی از پارسا پیروزفر\nاز این هفته، سریال جدید آیدا پناهنده با نام «سرخ و سیاه» در پلتفرم فیلیمو مننتشر می‌شود و پارسا پیروزفر را به عنوان یکی از بازیگران اصلی سریال، در گریم و نقشی متفاوت خواهیم دید. پیروزفر از جمله بازیگرانی است که فعالیتش را از سریال‌های تلویزیونی شروع کرده و با اولین سریال‌هایش به شهرت رسیده است. او در تلویزیون و شبکه نمایش خانگی، آثار مهمی از خود برجا گذاشته و حالا باید دید در «سرخ و سیاه» چه خواهد کرد. به بهانه نزدیکی به شروع انتشار «سرخ و سیاه»، مروری داریم بر 6 سریال کارنامه این بازیگر.\nمتن کامل را در پیج «فیلم‌نیوز سریال» بخوانید\nhttps://B2n.ir/pw9991",
+        "original_link": "https://t.me/Film_news/15004",
+        "post_id": 15004,
+        "message_id": 9017,
+        "message_kind": "caption",
+        "sources": [
+          "film_news"
+        ],
+        "created_at": "2026-10-13T09:23:34.698846+00:00"
+      },
+      {
+        "fingerprint": "287ffb75ef0de66a895a3443de9220a822e0e40334a70efa4a3b43481d3434a9",
+        "media_fingerprint": "fbfeb3bbf9ee1e106a3ad6f21b0ca72bb5fffc792a56fe832081a008a3fcc224",
+        "text": "🔴\nتوبی مگوایر(اولین بازیگر اسپایدرمن) مجری مراسم ازدواج و عاقد همسر سابقش با شوهر جدیدش که یک میلیاردر هست شد!\nلئوناردو دی‌کاپریو و جف بزوس هم به عنوان مهمان تو این مراسم حضور داشتن.\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "🔴\nتوبی مگوایر(اولین بازیگر اسپایدرمن) مجری مراسم ازدواج و عاقد همسر سابقش با شوهر جدیدش که یک میلیاردر هست شد!\nلئوناردو دی‌کاپریو و جف بزوس هم به عنوان مهمان تو این مراسم حضور داشتن.\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52887",
+        "post_id": 52887,
+        "message_id": 9018,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-13T09:23:41.457453+00:00"
+      },
+      {
+        "fingerprint": "dff0709aeda39aeb9ba169eff0f8ca938330fd7afa67d492cdb436fe8d7841b9",
+        "media_fingerprint": "3baff9794d3462038848a262c4efbaaf0f7f443de5be8484e49df2fcec978d12",
+        "text": "🔴\nدختره با لباس‌های نو و شیک، رفته بود بغل یه شتر عکس بگیره و استوری کنه که، شتره همچین حرکتی رو میزنه :\nبالاخره این شتر هم دل داره دیگه\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "🔴\nدختره با لباس‌های نو و شیک، رفته بود بغل یه شتر عکس بگیره و استوری کنه که، شتره همچین حرکتی رو میزنه :\nبالاخره این شتر هم دل داره دیگه\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52889",
+        "post_id": 52889,
+        "message_id": 9020,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-13T09:23:47.030778+00:00"
       }
     ]
   }
