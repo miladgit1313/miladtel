@@ -1,9 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143610,
+      "last_id": 143611,
       "processed_ids": [
-        142484,
         142485,
         142486,
         142487,
@@ -1002,7 +1001,8 @@
         143607,
         143608,
         143609,
-        143610
+        143610,
+        143611
       ],
       "sent_count": 922
     },
@@ -2013,9 +2013,8 @@
       "sent_count": 127
     },
     "footballvision2": {
-      "last_id": 171213,
+      "last_id": 171214,
       "processed_ids": [
-        170088,
         170089,
         170090,
         170091,
@@ -3014,7 +3013,8 @@
         171210,
         171211,
         171212,
-        171213
+        171213,
+        171214
       ],
       "sent_count": 137
     },
@@ -3290,7 +3290,7 @@
       "sent_count": 121
     },
     "behzistikomitenews": {
-      "last_id": 13970,
+      "last_id": 13971,
       "processed_ids": [
         13937,
         13939,
@@ -3322,9 +3322,10 @@
         13967,
         13968,
         13969,
-        13970
+        13970,
+        13971
       ],
-      "sent_count": 9
+      "sent_count": 10
     },
     "drtel": {
       "last_id": 67654,
@@ -5279,7 +5280,7 @@
       "sent_count": 136
     },
     "akhbar_cafenet": {
-      "last_id": 23285,
+      "last_id": 23287,
       "processed_ids": [
         22432,
         22433,
@@ -6078,9 +6079,11 @@
         23280,
         23282,
         23284,
-        23285
+        23285,
+        23286,
+        23287
       ],
-      "sent_count": 430
+      "sent_count": 431
     },
     "comentiat": {
       "last_id": 26477,
@@ -6894,17 +6897,8 @@
       "sent_count": 170
     },
     "gizmiztel": {
-      "last_id": 163185,
+      "last_id": 163199,
       "processed_ids": [
-        162074,
-        162075,
-        162076,
-        162077,
-        162078,
-        162079,
-        162080,
-        162081,
-        162082,
         162083,
         162084,
         162085,
@@ -7895,9 +7889,18 @@
         163176,
         163178,
         163180,
-        163185
+        163185,
+        163189,
+        163190,
+        163191,
+        163192,
+        163193,
+        163195,
+        163196,
+        163197,
+        163199
       ],
-      "sent_count": 792
+      "sent_count": 800
     },
     "dr_salamatx": {
       "last_id": 55390,
@@ -10587,9 +10590,8 @@
       "sent_count": 142
     },
     "varzesh3": {
-      "last_id": 303962,
+      "last_id": 303963,
       "processed_ids": [
-        302867,
         302869,
         302870,
         302871,
@@ -11588,7 +11590,8 @@
         303958,
         303960,
         303961,
-        303962
+        303962,
+        303963
       ],
       "sent_count": 93
     },
@@ -13442,9 +13445,8 @@
       "sent_count": 195
     },
     "futball180tv": {
-      "last_id": 108529,
+      "last_id": 108530,
       "processed_ids": [
-        107496,
         107497,
         107498,
         107499,
@@ -14443,16 +14445,14 @@
         108526,
         108527,
         108528,
-        108529
+        108529,
+        108530
       ],
       "sent_count": 91
     },
     "hattric_official": {
-      "last_id": 84809,
+      "last_id": 84812,
       "processed_ids": [
-        83750,
-        83751,
-        83752,
         83753,
         83754,
         83755,
@@ -15449,9 +15449,12 @@
         84806,
         84807,
         84808,
-        84809
+        84809,
+        84810,
+        84811,
+        84812
       ],
-      "sent_count": 126
+      "sent_count": 127
     },
     "mazdak_hattrick": {
       "last_id": 182552,
@@ -18303,7 +18306,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306978,
+      "last_id": 306980,
       "processed_ids": [
         306563,
         306564,
@@ -18714,9 +18717,11 @@
         306975,
         306976,
         306977,
-        306978
+        306978,
+        306979,
+        306980
       ],
-      "sent_count": 177
+      "sent_count": 179
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -19991,207 +19996,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "6241703e7ff83c6604757fd91ee0e701152b95e87853709828eac439d4bf932f",
-        "media_fingerprint": "13099155a8671d040de590cb5db4a95722ab3e376e0ea0121ade9251e89b6b28",
-        "text": "وقتی کات میکنی میری طبعیت مووآن کنی\nواکنش طبعیت که منو یاد تو انداخت :\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "وقتی کات میکنی میری طبعیت مووآن کنی\nواکنش طبعیت که منو یاد تو انداخت :\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/3047",
-        "post_id": 3047,
-        "message_id": 7865,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-09T18:22:16.275724+00:00"
-      },
-      {
-        "fingerprint": "81fcc06d6dfe54e8ff3ce68608d8a4080d069dc4c91e72cc8d8ffcdbea46a158",
-        "media_fingerprint": "a3fbdd5e9f04a2050f027991110504943e88027b30c89a30c4ec7e13e69756e8",
-        "text": "آبنمایی در جمهوری چک که با قطرات آب، زمان و کلمات را در هوا نمایش می‌دهد!\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "آبنمایی در جمهوری چک که با قطرات آب، زمان و کلمات را در هوا نمایش می‌دهد!\n@irWonders",
-        "original_link": "https://t.me/irwonders/58523",
-        "post_id": 58523,
-        "message_id": 7866,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-09T18:22:24.498745+00:00"
-      },
-      {
-        "fingerprint": "d3ddc4075d4c29a45f41f29fb8f758848ab85a14579498f7e178f655c64b2e08",
-        "media_fingerprint": "6b50a0cccdf401e37b58663ff74d11ee4f5c2d6ffd0f5426cb227219d606d4ae",
-        "text": "ایشونم اون دختر اهوازیه که بهش بنز کادو دادن:\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "ایشونم اون دختر اهوازیه که بهش بنز کادو دادن:\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/3053",
-        "post_id": 3053,
-        "message_id": 7867,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-09T18:22:31.670714+00:00"
-      },
-      {
-        "fingerprint": "6f128244ba3e0a52c696abd8232ac10b7fa96b9d6f8cbcaf9634a2771ee81577",
-        "media_fingerprint": "985383a117ab920798feb4a2dddd371958ed0f63d996187c8146edd0fd3460d7",
-        "text": "تو گوهر دشت کرج یه خانم میره میشینه روی پای شوهرش خودشو بالا پایین میکنه میگه من میخوام.\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "تو گوهر دشت کرج یه خانم میره میشینه روی پای شوهرش خودشو بالا پایین میکنه میگه من میخوام.\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/3058",
-        "post_id": 3058,
-        "message_id": 7869,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-09T18:22:39.967553+00:00"
-      },
-      {
-        "fingerprint": "c48b081319c3eadaf718a94e66876f19a91e093faa6c2db65ea0d07fc270ca72",
-        "media_fingerprint": "",
-        "text": "🔸\nپرسپولیس ۲-[۱] صنعت‌نفت\n🔸\n⚽️\nباصری\n🔴\nدقیقه ۶۶  @Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "🔸\nپرسپولیس ۲-[۱] صنعت‌نفت\n🔸\n⚽️\nباصری\n🔴\nدقیقه ۶۶  @Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/109496",
-        "post_id": 109496,
-        "message_id": 7870,
-        "message_kind": "text",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-09T18:22:42.669273+00:00"
-      },
-      {
-        "fingerprint": "a1d5634a08ba51f054beaddeb8eb8653d92e5d18df3a0b583509a5bfbefc1afe",
-        "media_fingerprint": "980c29511eff1e34111912ab2a6d7f25809095d2be73e755734026f3e92577eb",
-        "text": "دخترم ۲۰ سالمه از طریق هوش مصنوعی ماهی ۲۰۰ میلیون درامد دارم؛ آموزشارو از این کانال یاد گرفتم رایگان:\n@ChatGPT",
-        "original_username": "peach_tweet",
-        "original_text": "دخترم ۲۰ سالمه از طریق هوش مصنوعی ماهی ۲۰۰ میلیون درامد دارم؛ آموزشارو از این کانال یاد گرفتم رایگان:\n@ChatGPT",
-        "original_link": "https://t.me/peach_tweet/3067",
-        "post_id": 3067,
-        "message_id": 7871,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-09T18:22:47.101005+00:00"
-      },
-      {
-        "fingerprint": "b2e2f8b5f2a214f8a72cdf6abd355e511e78dfcf5222844139539a59c4e74590",
-        "media_fingerprint": "",
-        "text": "♦️\nاخبار فارس در هفته ای که گذشت\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nاخبار فارس در هفته ای که گذشت\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143384",
-        "post_id": 143384,
-        "message_id": 7872,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-09T18:22:49.633433+00:00"
-      },
-      {
-        "fingerprint": "ed08bbdbdfc9363fcbb2bc868ecb8499ae933a6c02987e50a5907700d30a6eb5",
-        "media_fingerprint": "",
-        "text": "🔹\nکار هوش مصنوعی با حقوق ساعتی ۴۵۰تومن :\n@Kaaar",
-        "original_username": "peach_tweet",
-        "original_text": "🔹\nکار هوش مصنوعی با حقوق ساعتی ۴۵۰تومن :\n@Kaaar",
-        "original_link": "https://t.me/peach_tweet/3068",
-        "post_id": 3068,
-        "message_id": 7873,
-        "message_kind": "text",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-09T18:22:52.264847+00:00"
-      },
-      {
-        "fingerprint": "565d240f5343e625ae579a4d45a770f1f02c6368b5ed4d06da4fbe6f47c28866",
-        "media_fingerprint": "",
-        "text": "",
-        "original_username": "ajayebe_jahann",
-        "original_text": "",
-        "original_link": "https://t.me/Ajayebe_jahann/159669",
-        "post_id": 159669,
-        "message_id": 7874,
-        "message_kind": "text",
-        "sources": [
-          "ajayebe_jahann",
-          "techtube",
-          "yejoorayi",
-          "apkclub",
-          "akhbarfars",
-          "bajefilm",
-          "ghandeharipoet"
-        ],
-        "created_at": "2026-10-09T18:22:54.859295+00:00"
-      },
-      {
-        "fingerprint": "9685cc46d1594d2d3c269e8c1aa50448eb344e54069224eb0ede00f38b694a63",
-        "media_fingerprint": "",
-        "text": "⭕️\nکار با هوش‌مصنوعی با حقوق هفتگی ۳۷/۰۰۰/۰۰۰ میلیون\n😐\n:\n@Kaaar",
-        "original_username": "peach_tweet",
-        "original_text": "⭕️\nکار با هوش‌مصنوعی با حقوق هفتگی ۳۷/۰۰۰/۰۰۰ میلیون\n😐\n:\n@Kaaar",
-        "original_link": "https://t.me/peach_tweet/3070",
-        "post_id": 3070,
-        "message_id": 7875,
-        "message_kind": "text",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-09T18:22:57.531976+00:00"
-      },
-      {
-        "fingerprint": "fb60dea2dd74338ed2adf3749beaf33028c46dbb9385cc12b96d00974f1d6448",
-        "media_fingerprint": "7da17a23c4a97840cf68c29719c8bd7adbd5a5a21996a603948a8ce3c1c0e8f2",
-        "text": "🏅\nبه‌ جا مانده از بازی پرسپولیس و صنعت‌نفت؛ ابوالفضل جلالی با اتوبوس پرسپولیسی‌ها برنگشت!\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_username": "total_fut",
-        "original_text": "🏅\nبه‌ جا مانده از بازی پرسپولیس و صنعت‌نفت؛ ابوالفضل جلالی با اتوبوس پرسپولیسی‌ها برنگشت!\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_link": "https://t.me/total_fut/237598",
-        "post_id": 237598,
-        "message_id": 7876,
-        "message_kind": "caption",
-        "sources": [
-          "total_fut"
-        ],
-        "created_at": "2026-10-09T18:23:11.230837+00:00"
-      },
-      {
-        "fingerprint": "162f63efadd2ae7b37c11bf921568f0635ef8c7cf83a64dd55a40e54d2b0fe58",
-        "media_fingerprint": "",
-        "text": "🎖️\n🏅\nابوالفضل جلالی با اتوبوس پرسپولیس برنگشته ...\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_username": "totalfut_plus",
-        "original_text": "🎖️\n🏅\nابوالفضل جلالی با اتوبوس پرسپولیس برنگشته ...\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_link": "https://t.me/totalfut_plus/26622",
-        "post_id": 26622,
-        "message_id": 7877,
-        "message_kind": "text",
-        "sources": [
-          "totalfut_plus"
-        ],
-        "created_at": "2026-10-09T18:52:45.296482+00:00"
-      },
-      {
-        "fingerprint": "8f906229b959f3782f034634457f9572bdad4fdb63920e1d0df0f2cda753e252",
-        "media_fingerprint": "5c10c76aee618ac459aad3152308803bf3395c6651582c130a46ac665d04c276",
-        "text": "ازعجایب ایران_قرچک:\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "ازعجایب ایران_قرچک:\n@irWonders",
-        "original_link": "https://t.me/irwonders/58524",
-        "post_id": 58524,
-        "message_id": 7878,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-09T18:52:50.166618+00:00"
-      },
       {
         "fingerprint": "65e76ec9da2fff9c96e2d42e4b6b431da169dff6aa6c7029b5397b6f820bfbd8",
         "media_fingerprint": "5f8633758d408c7174db11d984d89bc4aa2dff10a9becff08edf63f101a1fe75",
@@ -35089,6 +34893,201 @@
           "majalepezeshki"
         ],
         "created_at": "2026-10-13T04:54:43.398611+00:00"
+      },
+      {
+        "fingerprint": "086325613a7b5d9648efea04ec41fe24246c737e20ede5594f624e4ee015926e",
+        "media_fingerprint": "d4ce48dc4e1002243a89ad6a9f7bf2a2664ee1373c0bc099d46cdf0b1bd45807",
+        "text": "🌐\nنحوه پیگیری کارت سوخت جامانده در جایگاه‌ها\n🔵\nدر صورتی که شهروندی کارت سوخت خود را در جایگاه سوخت جا بگذارد، جایگاه تا چند روز موظف به نگهداری آن است و مالک کارت می‌تواند با مراجعه به جایگاه، کارت خود را دریافت کند.\n🟠\nهمچنین افرادی که از محل جاماندن کارت سوخت خود مطمئن نیستند، می‌توانند به سامانه\nfcs.niopdc.ir\nمراجعه کنند و با انتخاب گزینه کارت‌های جامانده در جایگاه و طی کردن مراحل مربوطه از آخرین وضعیت کارت خود مطلع شوند.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🌐\nنحوه پیگیری کارت سوخت جامانده در جایگاه‌ها\n🔵\nدر صورتی که شهروندی کارت سوخت خود را در جایگاه سوخت جا بگذارد، جایگاه تا چند روز موظف به نگهداری آن است و مالک کارت می‌تواند با مراجعه به جایگاه، کارت خود را دریافت کند.\n🟠\nهمچنین افرادی که از محل جاماندن کارت سوخت خود مطمئن نیستند، می‌توانند به سامانه\nfcs.niopdc.ir\nمراجعه کنند و با انتخاب گزینه کارت‌های جامانده در جایگاه و طی کردن مراحل مربوطه از آخرین وضعیت کارت خود مطلع شوند.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23287",
+        "post_id": 23287,
+        "message_id": 8941,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-13T05:21:48.578399+00:00"
+      },
+      {
+        "fingerprint": "3f3d1ce405dbc7800ee6c91e0bc6cf80cc1d47f804f2dd50279fafc52158499a",
+        "media_fingerprint": "",
+        "text": "🤩\nکنداکتور آنلاین | 1405/07/21\n🟢\n2026/10/13 |\n🔴\nلیگ نخبگان آسیا\n⚪️\nنیوکاسل جتس\n✅\nگامبا اوساکا\n😥\nساعت 11:15 | شبکه ورزش\n📺\n🔴\nلیگ نخبگان آسیا\n⚪️\nشانگهای پورت\n✅\nدِیژون سیتیزن\n😥\nساعت 13:30 | شبکه ورزش\n📺\n❤️\nمعوقه هفته هفتم لیگ برتر\n⚪️\nذوب آهن\n✅\nسپاهان\n😥\nساعت 16:00 |  شبکه ورزش\n📺\n❤️\nمعوقه هفته هفتم لیگ برتر\n⚪️\nملوان\n✅\nفولاد\n😥\nساعت 17:00\n❤️\nمعوقه هفته هفتم لیگ برتر\n⚪️\nفجر سپاسی\n✅\nآلومینیوم\n😥\nساعت 17:00\n🔴\nلیگ نخبگان آسیا\n⚪️\nالسد\n✅\nالهلال\n😥\nساعت 19:30 | شبکه ورزش\n📺\n🔴\nلیگ نخبگان آسیا\n⚪️\nالاتحاد\n✅\nشباب الاهلی\n😥\nساعت 21:45\n🇪🇺\nلیگ قهرمانان اروپا\n⚪️\nاتلتیکو مادرید\n✅\nمنچستر یونایتد\n😥\nساعت 22:30\n🇪🇺\nلیگ قهرمانان اروپا\n⚪️\nگالاتاسرای\n✅\nبارسلونا\n😥\nساعت 22:30\n🇪🇺\nلیگ قهرمانان اروپا\n⚪️\nآرسنال\n✅\nلیل\n😥\nساعت 22:30\n🇪🇺\nلیگ قهرمانان اروپا\n⚪️\nوایکینگ\n✅\nبایرن مونیخ\n😥\nساعت 22:30\n🇪🇺\nلیگ قهرمانان اروپا\n⚪️\nویارئال\n✅\nناپولی\n😥\nساعت 22:30\n🇪🇺\nلیگ قهرمانان اروپا\n⚪️\nاینتر\n✅\nکلوب بروژ\n😥\nساعت 22:30\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "🤩\nکنداکتور آنلاین | 1405/07/21\n🟢\n2026/10/13 |\n🔴\nلیگ نخبگان آسیا\n⚪️\nنیوکاسل جتس\n✅\nگامبا اوساکا\n😥\nساعت 11:15 | شبکه ورزش\n📺\n🔴\nلیگ نخبگان آسیا\n⚪️\nشانگهای پورت\n✅\nدِیژون سیتیزن\n😥\nساعت 13:30 | شبکه ورزش\n📺\n❤️\nمعوقه هفته هفتم لیگ برتر\n⚪️\nذوب آهن\n✅\nسپاهان\n😥\nساعت 16:00 |  شبکه ورزش\n📺\n❤️\nمعوقه هفته هفتم لیگ برتر\n⚪️\nملوان\n✅\nفولاد\n😥\nساعت 17:00\n❤️\nمعوقه هفته هفتم لیگ برتر\n⚪️\nفجر سپاسی\n✅\nآلومینیوم\n😥\nساعت 17:00\n🔴\nلیگ نخبگان آسیا\n⚪️\nالسد\n✅\nالهلال\n😥\nساعت 19:30 | شبکه ورزش\n📺\n🔴\nلیگ نخبگان آسیا\n⚪️\nالاتحاد\n✅\nشباب الاهلی\n😥\nساعت 21:45\n🇪🇺\nلیگ قهرمانان اروپا\n⚪️\nاتلتیکو مادرید\n✅\nمنچستر یونایتد\n😥\nساعت 22:30\n🇪🇺\nلیگ قهرمانان اروپا\n⚪️\nگالاتاسرای\n✅\nبارسلونا\n😥\nساعت 22:30\n🇪🇺\nلیگ قهرمانان اروپا\n⚪️\nآرسنال\n✅\nلیل\n😥\nساعت 22:30\n🇪🇺\nلیگ قهرمانان اروپا\n⚪️\nوایکینگ\n✅\nبایرن مونیخ\n😥\nساعت 22:30\n🇪🇺\nلیگ قهرمانان اروپا\n⚪️\nویارئال\n✅\nناپولی\n😥\nساعت 22:30\n🇪🇺\nلیگ قهرمانان اروپا\n⚪️\nاینتر\n✅\nکلوب بروژ\n😥\nساعت 22:30\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/84810",
+        "post_id": 84810,
+        "message_id": 8942,
+        "message_kind": "text",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-13T05:21:52.245619+00:00"
+      },
+      {
+        "fingerprint": "b2e2218da36c4aabd6098bed6f7d5cf66c8ac37ba93163c0b1a76fc47800152e",
+        "media_fingerprint": "",
+        "text": "قابل توجه مددجویان تحت پوشش سازمان بهزیستی؛ لطفا اول با دقت بخوانید\n👇\nامروز مستمری مهر ماه ۱۴۰۵ واریز شد و برای بیشتر عزیزان با تاخیر چند ساعته واریز شد، بیشتر اوقات به دلیل اختلال در سیستم  بانکی و یا مشکلات فنی و سیستمی برای بیشتر شما عزیزان پیامک واریزی…",
+        "original_username": "behzistikomitenews",
+        "original_text": "قابل توجه مددجویان تحت پوشش سازمان بهزیستی؛ لطفا اول با دقت بخوانید\n👇\nامروز مستمری مهر ماه ۱۴۰۵ واریز شد و برای بیشتر عزیزان با تاخیر چند ساعته واریز شد، بیشتر اوقات به دلیل اختلال در سیستم  بانکی و یا مشکلات فنی و سیستمی برای بیشتر شما عزیزان پیامک واریزی…",
+        "original_link": "https://t.me/BehzistiKomiteNews/13971",
+        "post_id": 13971,
+        "message_id": 8943,
+        "message_kind": "text",
+        "sources": [
+          "behzistikomitenews"
+        ],
+        "created_at": "2026-10-13T05:21:55.127510+00:00"
+      },
+      {
+        "fingerprint": "8f4c9e8b4489401bfb589680ddf8fbd359a90fb172f7649335c60297684a52ab",
+        "media_fingerprint": "9e6b0cb8dfad3e1455fe76a1e9e9f6ec3ba731f032de7446a647697df0ec83e8",
+        "text": "یکی از زیباترین صحنه هایی بود که امروز دیدم\n🥹\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "یکی از زیباترین صحنه هایی بود که امروز دیدم\n🥹\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163189",
+        "post_id": 163189,
+        "message_id": 8944,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-13T05:22:00.122831+00:00"
+      },
+      {
+        "fingerprint": "9a42df69267069759b0bc04e0a768e597e67ac741bdde943f793048c524fc763",
+        "media_fingerprint": "5e7d633778745b37c9e41f12b176dab9f63ba144879716c5d886d5fc541d456c",
+        "text": "اگه ارثی بهتون رسید\nمالیات‌هاشو طبق جدول بالا\nباهاتون حساب می‌کنن\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "اگه ارثی بهتون رسید\nمالیات‌هاشو طبق جدول بالا\nباهاتون حساب می‌کنن\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163190",
+        "post_id": 163190,
+        "message_id": 8945,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-13T05:22:03.784049+00:00"
+      },
+      {
+        "fingerprint": "e6541c32a1021d7352a30da623d15e925bed2fa0f23c1fa3a04b664e71da13f7",
+        "media_fingerprint": "ff2cfebcfa54134e867607b9d0585572e6554e41d5608159585db4091d77f885",
+        "text": "علی ضیا و زنشم دیشب رفته بودن تماشای یک تئاتر که ویدئوشون وایرال شده\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "علی ضیا و زنشم دیشب رفته بودن تماشای یک تئاتر که ویدئوشون وایرال شده\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163191",
+        "post_id": 163191,
+        "message_id": 8946,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-13T05:22:09.228702+00:00"
+      },
+      {
+        "fingerprint": "419e2dd5d456a54e6303e8716e8f7b2872d4b434e352ee50c0f21364558ee812",
+        "media_fingerprint": "234cb0611152dc4e4628793e71c918badab52f91fa4f9f73161bd17175006ff1",
+        "text": "این‌ ماشین احتمالا گرون ترین ماشین پلاک ملی شده ایران باشه.\nبنتلی کانتیننتال GT؛ قیمت ۴۰۰ میلیارد تومن!\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "این‌ ماشین احتمالا گرون ترین ماشین پلاک ملی شده ایران باشه.\nبنتلی کانتیننتال GT؛ قیمت ۴۰۰ میلیارد تومن!\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163193",
+        "post_id": 163193,
+        "message_id": 8947,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-13T05:22:13.333772+00:00"
+      },
+      {
+        "fingerprint": "112a6c6af908c2fecac43f0335cfdfb2aa521264f5a72c977528ba2a72274655",
+        "media_fingerprint": "4e9a69472a0e948eb2d41c63d1ac70befa686c2385787ab187746034fdf5313d",
+        "text": "بهاره رهنما هم تصمیم گرفت تو سن ۵۲ سالگی تیر آخر رو بر پیکر نيمه جانِ موسیقی بزنه:\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "بهاره رهنما هم تصمیم گرفت تو سن ۵۲ سالگی تیر آخر رو بر پیکر نيمه جانِ موسیقی بزنه:\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163195",
+        "post_id": 163195,
+        "message_id": 8948,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-13T05:22:19.087404+00:00"
+      },
+      {
+        "fingerprint": "b248497812368a5b31e84ea9ddd247d7668aa32dcc0dd8eaa5d69e100b6bfb83",
+        "media_fingerprint": "e90edabc6e606821fbf20fd4067a4e0013e6c2b93171d731f99d0480375be5a4",
+        "text": "دهنتون سرویس، اینا چیه میسازید\n😂\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "دهنتون سرویس، اینا چیه میسازید\n😂\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163196",
+        "post_id": 163196,
+        "message_id": 8949,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-13T05:22:24.580832+00:00"
+      },
+      {
+        "fingerprint": "5f8263aedd2cb52e1705bcf09620a8c0912f1667d8297e3dbb38304a08b3d4d5",
+        "media_fingerprint": "3e5fdb3a95d878f36af07e333311c3499629df261a5baa1863af7f97f56d2a9d",
+        "text": "🔻\nجلوگیری مدارس باکو از ورود دانش‌آموزان و معلمان محجبه\n🔹\nپس از تصمیم دولت الهام علیف در باکو، مبنی بر ممنوعیت ورود معلمان و دانش آموزان با پوشش اسلامی به مدارس، اعتراضات دانش آموزان مسلمان و والدین آنها بسیار خبرساز شده است\n🔸\nنکته قابل توجه این است که بیش از ۹۵ درصد از جمعیت آذربایجان را مسلمانان تشکیل می دهند و معلوم نیست دولت الهام علیف به چه علت این تصمیم را عملی کرده است\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "🔻\nجلوگیری مدارس باکو از ورود دانش‌آموزان و معلمان محجبه\n🔹\nپس از تصمیم دولت الهام علیف در باکو، مبنی بر ممنوعیت ورود معلمان و دانش آموزان با پوشش اسلامی به مدارس، اعتراضات دانش آموزان مسلمان و والدین آنها بسیار خبرساز شده است\n🔸\nنکته قابل توجه این است که بیش از ۹۵ درصد از جمعیت آذربایجان را مسلمانان تشکیل می دهند و معلوم نیست دولت الهام علیف به چه علت این تصمیم را عملی کرده است\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163197",
+        "post_id": 163197,
+        "message_id": 8950,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-13T05:22:30.992563+00:00"
+      },
+      {
+        "fingerprint": "1d201ae43a3ff7e59f0581e9d5fd76d62de5cc36bc34ca44512e70b6ceb9332c",
+        "media_fingerprint": "0a0784d1b96865de8497f88567bd12ba9c20189bde430f65b9e85168f7d90460",
+        "text": "در این صبح زیبای پائیزی ...\nدر قوری دوستی چای دم کنید،\nبا قند مهربانی نوش جان کنید\nو با عشق، با هم بودن را جشن بگیرید\nچای گاهی فقط یک بهانه است\nبرای دقایقی در کنار هم بودن\nسلام صبح پاییزی تون بخیر\n☕️\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "در این صبح زیبای پائیزی ...\nدر قوری دوستی چای دم کنید،\nبا قند مهربانی نوش جان کنید\nو با عشق، با هم بودن را جشن بگیرید\nچای گاهی فقط یک بهانه است\nبرای دقایقی در کنار هم بودن\nسلام صبح پاییزی تون بخیر\n☕️\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306979",
+        "post_id": 306979,
+        "message_id": 8951,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-13T05:22:35.204940+00:00"
+      },
+      {
+        "fingerprint": "1fc385547a554f27db807f4f042f2540e081e2faabf7fc3b107b000953093334",
+        "media_fingerprint": "441c942a37cf8e3634ac374ba3058ce89e3da22dde0a3c61895cd21aaaabef5e",
+        "text": "صحنه ای زیبا در لیگ یک فوتبال،\nببینید و لذت ببرید...\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "صحنه ای زیبا در لیگ یک فوتبال،\nببینید و لذت ببرید...\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306980",
+        "post_id": 306980,
+        "message_id": 8952,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-13T05:22:47.829675+00:00"
+      },
+      {
+        "fingerprint": "ddb4468bc397ffdfc1e75342f86ce7240b275db0e18900108850826f678afc3f",
+        "media_fingerprint": "b4c34a10dfedc0c1d53590038e722aa69b31ad68409b8ab8c67460650bc58d39",
+        "text": "شعار علیه لیونل مسی در میدان انقلاب تهران\nخوبه که فرد ذلیلی نباشیم\nمثل مسی اسرائیلی نباشیم\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "شعار علیه لیونل مسی در میدان انقلاب تهران\nخوبه که فرد ذلیلی نباشیم\nمثل مسی اسرائیلی نباشیم\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163199",
+        "post_id": 163199,
+        "message_id": 8953,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-13T05:22:53.120306+00:00"
       }
     ]
   }
