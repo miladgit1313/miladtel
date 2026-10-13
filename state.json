@@ -1,12 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143667,
+      "last_id": 143671,
       "processed_ids": [
-        142540,
-        142541,
-        142542,
-        142543,
         142544,
         142545,
         142546,
@@ -1002,14 +998,17 @@
         143664,
         143665,
         143666,
-        143667
+        143667,
+        143668,
+        143669,
+        143670,
+        143671
       ],
-      "sent_count": 953
+      "sent_count": 954
     },
     "total_fut": {
-      "last_id": 237909,
+      "last_id": 237910,
       "processed_ids": [
-        236847,
         236848,
         236849,
         236850,
@@ -2008,14 +2007,14 @@
         237906,
         237907,
         237908,
-        237909
+        237909,
+        237910
       ],
       "sent_count": 135
     },
     "footballvision2": {
-      "last_id": 171285,
+      "last_id": 171286,
       "processed_ids": [
-        170161,
         170162,
         170163,
         170164,
@@ -3014,7 +3013,8 @@
         171282,
         171283,
         171284,
-        171285
+        171285,
+        171286
       ],
       "sent_count": 140
     },
@@ -3063,7 +3063,7 @@
       "sent_count": 6
     },
     "fars_today": {
-      "last_id": 132209,
+      "last_id": 132212,
       "processed_ids": [
         131975,
         131976,
@@ -3293,9 +3293,12 @@
         132206,
         132207,
         132208,
-        132209
+        132209,
+        132210,
+        132211,
+        132212
       ],
-      "sent_count": 122
+      "sent_count": 123
     },
     "behzistikomitenews": {
       "last_id": 13973,
@@ -3338,7 +3341,7 @@
       "sent_count": 10
     },
     "drtel": {
-      "last_id": 67675,
+      "last_id": 67677,
       "processed_ids": [
         66561,
         66565,
@@ -4204,7 +4207,8 @@
         67672,
         67673,
         67674,
-        67675
+        67675,
+        67677
       ],
       "sent_count": 487
     },
@@ -5327,7 +5331,7 @@
       "sent_count": 140
     },
     "akhbar_cafenet": {
-      "last_id": 23334,
+      "last_id": 23335,
       "processed_ids": [
         22432,
         22433,
@@ -6175,9 +6179,10 @@
         23331,
         23332,
         23333,
-        23334
+        23334,
+        23335
       ],
-      "sent_count": 456
+      "sent_count": 457
     },
     "comentiat": {
       "last_id": 26486,
@@ -8012,7 +8017,7 @@
       "sent_count": 808
     },
     "dr_salamatx": {
-      "last_id": 55394,
+      "last_id": 55395,
       "processed_ids": [
         55270,
         55271,
@@ -8138,12 +8143,13 @@
         55391,
         55392,
         55393,
-        55394
+        55394,
+        55395
       ],
       "sent_count": 78
     },
     "jaleb": {
-      "last_id": 52898,
+      "last_id": 52902,
       "processed_ids": [
         52261,
         52262,
@@ -8704,9 +8710,12 @@
         52894,
         52896,
         52897,
-        52898
+        52898,
+        52900,
+        52901,
+        52902
       ],
-      "sent_count": 288
+      "sent_count": 290
     },
     "ajayebe_jahann": {
       "last_id": 159795,
@@ -9732,13 +9741,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109942,
+      "last_id": 109947,
       "processed_ids": [
-        108864,
-        108865,
-        108866,
-        108867,
-        108868,
         108869,
         108870,
         108871,
@@ -10733,14 +10737,18 @@
         109939,
         109940,
         109941,
-        109942
+        109942,
+        109943,
+        109944,
+        109945,
+        109946,
+        109947
       ],
-      "sent_count": 152
+      "sent_count": 154
     },
     "varzesh3": {
-      "last_id": 304001,
+      "last_id": 304002,
       "processed_ids": [
-        302909,
         302911,
         302912,
         302913,
@@ -11739,7 +11747,8 @@
         303998,
         303999,
         304000,
-        304001
+        304001,
+        304002
       ],
       "sent_count": 94
     },
@@ -12607,9 +12616,8 @@
       "sent_count": 61
     },
     "adak_ir_official": {
-      "last_id": 235322,
+      "last_id": 235323,
       "processed_ids": [
-        234294,
         234295,
         234296,
         234297,
@@ -13608,14 +13616,14 @@
         235319,
         235320,
         235321,
-        235322
+        235322,
+        235323
       ],
-      "sent_count": 202
+      "sent_count": 203
     },
     "futball180tv": {
-      "last_id": 108572,
+      "last_id": 108573,
       "processed_ids": [
-        107540,
         107541,
         107542,
         107543,
@@ -14614,14 +14622,14 @@
         108569,
         108570,
         108571,
-        108572
+        108572,
+        108573
       ],
       "sent_count": 98
     },
     "hattric_official": {
-      "last_id": 84858,
+      "last_id": 84859,
       "processed_ids": [
-        83799,
         83800,
         83801,
         83802,
@@ -15620,9 +15628,10 @@
         84855,
         84856,
         84857,
-        84858
+        84858,
+        84859
       ],
-      "sent_count": 135
+      "sent_count": 136
     },
     "mazdak_hattrick": {
       "last_id": 182569,
@@ -16340,7 +16349,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58674,
+      "last_id": 58675,
       "processed_ids": [
         58030,
         58031,
@@ -16929,9 +16938,10 @@
         58671,
         58672,
         58673,
-        58674
+        58674,
+        58675
       ],
-      "sent_count": 372
+      "sent_count": 373
     },
     "razcom": {
       "last_id": 70496,
@@ -18519,7 +18529,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 307000,
+      "last_id": 307001,
       "processed_ids": [
         306563,
         306564,
@@ -18950,9 +18960,10 @@
         306997,
         306998,
         306999,
-        307000
+        307000,
+        307001
       ],
-      "sent_count": 187
+      "sent_count": 188
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -19447,7 +19458,7 @@
       "sent_count": 39
     },
     "shakhmovie": {
-      "last_id": 4154,
+      "last_id": 4156,
       "processed_ids": [
         4017,
         4018,
@@ -19533,9 +19544,10 @@
         4151,
         4152,
         4153,
-        4154
+        4154,
+        4156
       ],
-      "sent_count": 73
+      "sent_count": 74
     },
     "peach_tweet": {
       "last_id": 3430,
@@ -20031,7 +20043,7 @@
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6348,
+      "last_id": 6350,
       "processed_ids": [
         6113,
         6114,
@@ -20246,7 +20258,8 @@
         6345,
         6346,
         6347,
-        6348
+        6348,
+        6350
       ],
       "sent_count": 6
     },
@@ -20352,188 +20365,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "65d7d87e246bc569ec8d5c7271e8945f800e0c2398d369361b4458605e38f935",
-        "media_fingerprint": "1d9d18e009b3d7b0200c870176083d3bf25968f46315edff14233212e308f0cc",
-        "text": "🎖️\n📊\nمقایسه عملکرد کلی ترنت الکساندر آرنولد مدافع راست رئال مادرید با ژائو کانسلو مدافع راست بارسلونا.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_username": "totalfut_plus",
-        "original_text": "🎖️\n📊\nمقایسه عملکرد کلی ترنت الکساندر آرنولد مدافع راست رئال مادرید با ژائو کانسلو مدافع راست بارسلونا.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_link": "https://t.me/totalfut_plus/26645",
-        "post_id": 26645,
-        "message_id": 8119,
-        "message_kind": "caption",
-        "sources": [
-          "totalfut_plus"
-        ],
-        "created_at": "2026-10-10T13:47:29.616764+00:00"
-      },
-      {
-        "fingerprint": "f9673bfa91011fedcc44b19f6f9fc78e8e3a5efdfb7b315e537a0dd6096d31bb",
-        "media_fingerprint": "80980fce014ea66b10739ee010d15570868f34a5da87789c21edb7a60173945f",
-        "text": "منم همینطور\n🆔\n@YeJoorayi",
-        "original_username": "yejoorayi",
-        "original_text": "منم همینطور\n🆔\n@YeJoorayi",
-        "original_link": "https://t.me/YeJoorayi/533",
-        "post_id": 533,
-        "message_id": 8120,
-        "message_kind": "caption",
-        "sources": [
-          "yejoorayi"
-        ],
-        "created_at": "2026-10-10T13:47:33.610103+00:00"
-      },
-      {
-        "fingerprint": "5ebfab966f7f5e9ac48453df7bf7091179f751abfbd315eb3ad24f12da838e62",
-        "media_fingerprint": "",
-        "text": "🚨\n🔵\n‼️\nامیرحسین صادقی، پیشکسوت استقلال: اگه بیرانوند بیاد استقلال، دیگه طرفدار استقلال نیستم. زنوزی تاجی هست. پرسپولیس هرکاری کرد که سهمیه بگیره.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n🔵\n‼️\nامیرحسین صادقی، پیشکسوت استقلال: اگه بیرانوند بیاد استقلال، دیگه طرفدار استقلال نیستم. زنوزی تاجی هست. پرسپولیس هرکاری کرد که سهمیه بگیره.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/235122",
-        "post_id": 235122,
-        "message_id": 8121,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-10T13:47:36.208129+00:00"
-      },
-      {
-        "fingerprint": "157d7c1700f9f2431f8d4349ae034c004debd359cf02ba1be5e8cc408a59cc43",
-        "media_fingerprint": "",
-        "text": "🎖️\n🏅\nاستقلال با پرواز اختصاصی از فرودگاه مهرآباد عازم دوحه شد.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_username": "totalfut_plus",
-        "original_text": "🎖️\n🏅\nاستقلال با پرواز اختصاصی از فرودگاه مهرآباد عازم دوحه شد.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_link": "https://t.me/totalfut_plus/26646",
-        "post_id": 26646,
-        "message_id": 8122,
-        "message_kind": "text",
-        "sources": [
-          "totalfut_plus"
-        ],
-        "created_at": "2026-10-10T13:47:38.798343+00:00"
-      },
-      {
-        "fingerprint": "e7cc2adbaf66afe196fe84dfadc623657e1ecb59cb2dc8ea7882ef358d04dc9c",
-        "media_fingerprint": "976068db4f8f2c964134f24507e651b4090219b06784aac186b9500f85ab2443",
-        "text": "🏅\nپرسپولیس امروز در دیداری تدارکاتی در ورزشگاه شهید کاظمی به مصاف تیم دسته دومی فولاد هرمزگان رفت و با سه گل به پیروزی رسید. دنیل گرا، اوستون ارونوف و پوریا شهرآبادی گلزنان پرسپولیس در این بازی بودند.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_username": "total_fut",
-        "original_text": "🏅\nپرسپولیس امروز در دیداری تدارکاتی در ورزشگاه شهید کاظمی به مصاف تیم دسته دومی فولاد هرمزگان رفت و با سه گل به پیروزی رسید. دنیل گرا، اوستون ارونوف و پوریا شهرآبادی گلزنان پرسپولیس در این بازی بودند.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
-        "original_link": "https://t.me/total_fut/237642",
-        "post_id": 237642,
-        "message_id": 8123,
-        "message_kind": "caption",
-        "sources": [
-          "total_fut"
-        ],
-        "created_at": "2026-10-10T13:47:43.118753+00:00"
-      },
-      {
-        "fingerprint": "0d307cda163e19b13ddbeb410b1ad67fdc54e39d379ece1570478b6bc3e5a6a2",
-        "media_fingerprint": "6939d14b9921544dac440674481e0dc9f22321d528a5d7cbedbcbf746d24f7f5",
-        "text": "هموسو چه بلاییه\n😂\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "هموسو چه بلاییه\n😂\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/306912",
-        "post_id": 306912,
-        "message_id": 8124,
-        "message_kind": "caption",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-10T14:17:44.667019+00:00"
-      },
-      {
-        "fingerprint": "eb36b782e1e4df7342d3fb45fa4685bd6c269539143ad5c10d0be8775d8b1ca7",
-        "media_fingerprint": "278613d76ba84323475e915efd80ad131b9d7edb3894dc35744d8b5c9933fdfe",
-        "text": "✅\nبرد ۳ گله پرسپولیس با گلزنی دنیل گرا!\n🔸\nپرسپولیس امروز در دیداری تدارکاتی تیم دسته دومی فولاد هرمزگان را با نتیجه ۳ بر صفر شکست داد.\n⚽️\nدنیل گرا، اوستون ارونوف و پوریا شهرآبادی گلزنان پرسپولیس در این بازی بودند.\n@Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "✅\nبرد ۳ گله پرسپولیس با گلزنی دنیل گرا!\n🔸\nپرسپولیس امروز در دیداری تدارکاتی تیم دسته دومی فولاد هرمزگان را با نتیجه ۳ بر صفر شکست داد.\n⚽️\nدنیل گرا، اوستون ارونوف و پوریا شهرآبادی گلزنان پرسپولیس در این بازی بودند.\n@Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/109560",
-        "post_id": 109560,
-        "message_id": 8125,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir",
-          "hattric_official"
-        ],
-        "created_at": "2026-10-10T14:17:49.098639+00:00"
-      },
-      {
-        "fingerprint": "15e828c0a4f780ed95399d209122a504189d5037414facbdfe6a0ee6a64a37d5",
-        "media_fingerprint": "",
-        "text": "♦️\nپزشکیان: مگر کالا گم می‌شود، مگر کالا می‌تواند در این دنیایی که ما در آن زندگی می‌کنیم احتکار شود، از ناآگاهی ما است که این اتفاق می‌افتد، همه این‌ها قابل مدیریت است\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nپزشکیان: مگر کالا گم می‌شود، مگر کالا می‌تواند در این دنیایی که ما در آن زندگی می‌کنیم احتکار شود، از ناآگاهی ما است که این اتفاق می‌افتد، همه این‌ها قابل مدیریت است\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143427",
-        "post_id": 143427,
-        "message_id": 8126,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-10T14:17:51.740979+00:00"
-      },
-      {
-        "fingerprint": "75b0b637960249acf846b542870b0490fb4d7d8a9bea0eae0bc55b561c798897",
-        "media_fingerprint": "26d1f25f631b1d15f07633495b825a31a433bdf6f0082205ea421e5d5089d479",
-        "text": "🔴\nتریلر رسمی از فیلم «جن‌گیر | The Exorcist: Martyrs» با بازی اسکارلت جوهانسون منتشر شد.\n📆\nتاریخ اکران: 21 اسفند\n📷\n|\n@ShakhMovie",
-        "original_username": "shakhmovie",
-        "original_text": "🔴\nتریلر رسمی از فیلم «جن‌گیر | The Exorcist: Martyrs» با بازی اسکارلت جوهانسون منتشر شد.\n📆\nتاریخ اکران: 21 اسفند\n📷\n|\n@ShakhMovie",
-        "original_link": "https://t.me/Shakhmovie/4121",
-        "post_id": 4121,
-        "message_id": 8127,
-        "message_kind": "caption",
-        "sources": [
-          "shakhmovie"
-        ],
-        "created_at": "2026-10-10T14:17:55.825181+00:00"
-      },
-      {
-        "fingerprint": "f6c1ce67e6ba0f2015e97d36238fb42a4de69992cd2ea1abde8228fc1f94b61a",
-        "media_fingerprint": "b9b9d0b405b03ca436a49e57048edbd08899fe7b09e1bf7215a8008256b5f863",
-        "text": "می دونستید یه ابر کومولونیمبوس میتونه تا یک میلیون کیلو گرم وزن داشته باشه ، یعنی بیشتر از وزن هزار تا پراید !\nعلت اینکه در آسمان معلق میمونه صرفا بخاطر چگالیِ پایین اون هست\nعکس از آسمون تهران\n@Midanesti",
-        "original_username": "midanesti",
-        "original_text": "می دونستید یه ابر کومولونیمبوس میتونه تا یک میلیون کیلو گرم وزن داشته باشه ، یعنی بیشتر از وزن هزار تا پراید !\nعلت اینکه در آسمان معلق میمونه صرفا بخاطر چگالیِ پایین اون هست\nعکس از آسمون تهران\n@Midanesti",
-        "original_link": "https://t.me/midanesti/73275",
-        "post_id": 73275,
-        "message_id": 8128,
-        "message_kind": "caption",
-        "sources": [
-          "midanesti"
-        ],
-        "created_at": "2026-10-10T14:18:00.303932+00:00"
-      },
-      {
-        "fingerprint": "ff40c3cd5f025ca98c2e4e2a283e5cdbab9d02e78eeae1a3b7c1c0fd1896a094",
-        "media_fingerprint": "50a10d83ad6e31d4ae0a71c9b8255e23498c24ef242c8fb64df698c44aac08ec",
-        "text": "تهران، خیابان ویلا، کمی بالاتر از تقاطع انقلاب، دهه ۵۰ شمسی\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "تهران، خیابان ویلا، کمی بالاتر از تقاطع انقلاب، دهه ۵۰ شمسی\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163066",
-        "post_id": 163066,
-        "message_id": 8129,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel",
-          "jaleb"
-        ],
-        "created_at": "2026-10-10T14:18:04.509947+00:00"
-      },
-      {
-        "fingerprint": "2590a26dda1db039a3f0160732a52a6e9b2440864c30842af4636bc4c58c63b0",
-        "media_fingerprint": "922fc35166dd6db4c33c258304d18890faf5523bf11be3a6a5882ff13904a54a",
-        "text": "پاسخ شهاب مرادی به خانمی که میگه میخوام مهریه ام رو ببخشم!\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "پاسخ شهاب مرادی به خانمی که میگه میخوام مهریه ام رو ببخشم!\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163067",
-        "post_id": 163067,
-        "message_id": 8130,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-10T14:18:10.196986+00:00"
-      },
       {
         "fingerprint": "bdc3aa11543ef7c928db0589287d314bad509b3083886f104976fe971a67da70",
         "media_fingerprint": "",
@@ -29834,7 +29665,8 @@
         "message_kind": "caption",
         "sources": [
           "gizmiztel",
-          "razcom"
+          "razcom",
+          "jaleb"
         ],
         "created_at": "2026-10-12T17:21:10.710973+00:00"
       },
@@ -34408,7 +34240,8 @@
         "message_id": 9126,
         "message_kind": "text",
         "sources": [
-          "akhbar_cafenet"
+          "akhbar_cafenet",
+          "akhbarfars"
         ],
         "created_at": "2026-10-13T13:57:28.425906+00:00"
       },
@@ -35448,6 +35281,186 @@
           "majalepezeshki"
         ],
         "created_at": "2026-10-13T16:54:59.438688+00:00"
+      },
+      {
+        "fingerprint": "13c6e61ca4449c899b57c8e1ebe9dde02fd0d116011f118d07a41c5473035f82",
+        "media_fingerprint": "f055412fe76c4e0fee527b812455ff63d9a9c205b50e298dc8fb4987b32ecdf1",
+        "text": "شادمهر عقیلی: یکی از مداحان داخلی یکی از آهنگ‌های من رو تغییر داده، گوشش دادم جالب بود\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "شادمهر عقیلی: یکی از مداحان داخلی یکی از آهنگ‌های من رو تغییر داده، گوشش دادم جالب بود\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52900",
+        "post_id": 52900,
+        "message_id": 9202,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-13T17:20:41.640020+00:00"
+      },
+      {
+        "fingerprint": "27aa9fdd5bf06934c56781d5598b9a0365fb527b0f426903c1fcf812a0841588",
+        "media_fingerprint": "4f7e1c3915ae40924d3544d64ee571fbc3a5a4af5f9173c1294fdd5957907f38",
+        "text": "ساعت آبی مسجد همت تجریش؛ سازه خلاقانه و جذاب که بدون نیاز به برق یا باتری کار میکنه\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "ساعت آبی مسجد همت تجریش؛ سازه خلاقانه و جذاب که بدون نیاز به برق یا باتری کار میکنه\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52901",
+        "post_id": 52901,
+        "message_id": 9203,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-13T17:20:49.690427+00:00"
+      },
+      {
+        "fingerprint": "f64db851d498db33398943c5a16ecc5468a1f344d0296b71054cb713bcb6649b",
+        "media_fingerprint": "3abe71e126773e151f93d3818b254ff97276d115d36110a8eaccaf8f730e953f",
+        "text": "ریمونتادای قرمزها در سن‌سیروس!\n😱\nدقایق پایانی، مردابی برای غرق‌شدن؛ برد شگفت‌انگیز فولاد مقابل ملوان، صعود شاگردان مطهری به رده پنجم با پنالتی دقیقه ۶+۹۰\n🔸\nلیگ برتر ایران - معوقه هفته ۷\n🔸\nگلزنی وحید امیری در لیگ بعد از ۲ سال، آتشی که در دل اهوازی‌ها روشن…",
+        "original_username": "ft360_ir",
+        "original_text": "ریمونتادای قرمزها در سن‌سیروس!\n😱\nدقایق پایانی، مردابی برای غرق‌شدن؛ برد شگفت‌انگیز فولاد مقابل ملوان، صعود شاگردان مطهری به رده پنجم با پنالتی دقیقه ۶+۹۰\n🔸\nلیگ برتر ایران - معوقه هفته ۷\n🔸\nگلزنی وحید امیری در لیگ بعد از ۲ سال، آتشی که در دل اهوازی‌ها روشن…",
+        "original_link": "https://t.me/ft360_ir/109943",
+        "post_id": 109943,
+        "message_id": 9204,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-13T17:20:59.682423+00:00"
+      },
+      {
+        "fingerprint": "477e93673d120a1d24da5f85b0753cf520df85e0d01369d4f66c9b7d1cefeee2",
+        "media_fingerprint": "7f5189e34322d31ade69d598fd06e105f7d348078f70326808a7ab4a2b5ef3b5",
+        "text": "سنگ تموم هوادارای پرسپولیس از کاروان این  مقابل هتل محل اقامت تیم\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "سنگ تموم هوادارای پرسپولیس از کاروان این  مقابل هتل محل اقامت تیم\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/84859",
+        "post_id": 84859,
+        "message_id": 9205,
+        "message_kind": "caption",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-13T17:21:08.960718+00:00"
+      },
+      {
+        "fingerprint": "81f30d4f84ef5ba1dbc5523d73d9224167abad9bf234cbc4be479780a60dca63",
+        "media_fingerprint": "09b6b993b7725e91a194c85729622a13649f1c351904f64c89d1d98947d6f808",
+        "text": "🔴\nپوستر باشگاه پرسپولیس برای بازی با خیبر\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🔴\nپوستر باشگاه پرسپولیس برای بازی با خیبر\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/235323",
+        "post_id": 235323,
+        "message_id": 9206,
+        "message_kind": "caption",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-13T17:21:13.900863+00:00"
+      },
+      {
+        "fingerprint": "367a372d04d4395147f53bd010f3bf90bf226593658c2a2e0155bdb5465a8e0a",
+        "media_fingerprint": "",
+        "text": "👨‍🏫\nآغاز پذیرش بدون کنکور دانشگاه فرهنگیان ۱۴۰۵\n🔵\nهم اکنون پذیرش بدون کنکور دانشگاه فرهنگیان ۱۴۰۵ در سایت این دانشگاه آغاز شد و تا تاریخ ۲۲ مهر ماه ادامه دارد. متقاضیان پذیرش در رشته های تحصیلی دانشگاه فرهنگیان به صورت جذب و پذیرش استعداد های برتر ملی، می توانند…",
+        "original_username": "akhbar_cafenet",
+        "original_text": "👨‍🏫\nآغاز پذیرش بدون کنکور دانشگاه فرهنگیان ۱۴۰۵\n🔵\nهم اکنون پذیرش بدون کنکور دانشگاه فرهنگیان ۱۴۰۵ در سایت این دانشگاه آغاز شد و تا تاریخ ۲۲ مهر ماه ادامه دارد. متقاضیان پذیرش در رشته های تحصیلی دانشگاه فرهنگیان به صورت جذب و پذیرش استعداد های برتر ملی، می توانند…",
+        "original_link": "https://t.me/akhbar_cafenet/23335",
+        "post_id": 23335,
+        "message_id": 9207,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-13T17:21:17.147690+00:00"
+      },
+      {
+        "fingerprint": "7cc5099502336c41bcb56c7443e5d29bd55394f4b5b07e7797e1142f84ac4d28",
+        "media_fingerprint": "9fdd192ef29de8a54edfe79ef59e4837a894443e0b6b6ff44519cca99117b94e",
+        "text": "پرفروش‌ترین فیلم‌های سال 2026\n📷\n|\n@ShakhMovie",
+        "original_username": "shakhmovie",
+        "original_text": "پرفروش‌ترین فیلم‌های سال 2026\n📷\n|\n@ShakhMovie",
+        "original_link": "https://t.me/Shakhmovie/4156",
+        "post_id": 4156,
+        "message_id": 9208,
+        "message_kind": "caption",
+        "sources": [
+          "shakhmovie"
+        ],
+        "created_at": "2026-10-13T17:21:22.203682+00:00"
+      },
+      {
+        "fingerprint": "c0074b4442a67834a5de17e0c9cd4267fbda3b024166ee1604ddb8b740ece9f2",
+        "media_fingerprint": "929face4f71b2d24a2fa94873f26027681776f2ce6dd3e04a786143f03423cdb",
+        "text": "عجیب ترین چیزایی که از ایران صادر میشود چیست؟\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "عجیب ترین چیزایی که از ایران صادر میشود چیست؟\n@irWonders",
+        "original_link": "https://t.me/irwonders/58675",
+        "post_id": 58675,
+        "message_id": 9209,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-13T17:21:29.242469+00:00"
+      },
+      {
+        "fingerprint": "78d9efdd03425598c32a8ee75e9feeaafc22b766413b0ed63e7f16848d1e0b68",
+        "media_fingerprint": "6237c2c0aba54a2264339f393669a6ca97b183ef067dd8e3db2bf93c1634c1d1",
+        "text": "بالاخره در میهمانی باخت؛ چون خانه سابقش بود!\n✔️\nرسول رفت، یادگارش شوک داد!/ برد درخشان فجرسپاسی مقابل آلومینیوم با بریس عرب در اولین بازی رجب‌زاده\n🔸\nلیگ برتر ایران - معوقه هفته ۷\n🔸\nبازی سراسر تهاجمی فجر برای آشتی‌ با برد پس از ۴ هفته؛ جهش بلند شیرازی‌ها…",
+        "original_username": "ft360_ir",
+        "original_text": "بالاخره در میهمانی باخت؛ چون خانه سابقش بود!\n✔️\nرسول رفت، یادگارش شوک داد!/ برد درخشان فجرسپاسی مقابل آلومینیوم با بریس عرب در اولین بازی رجب‌زاده\n🔸\nلیگ برتر ایران - معوقه هفته ۷\n🔸\nبازی سراسر تهاجمی فجر برای آشتی‌ با برد پس از ۴ هفته؛ جهش بلند شیرازی‌ها…",
+        "original_link": "https://t.me/ft360_ir/109945",
+        "post_id": 109945,
+        "message_id": 9210,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-13T17:21:38.997310+00:00"
+      },
+      {
+        "fingerprint": "80d7f8ea5fb3c6cd01736433d01c9ea2827ca930c0d7c280cc5314c07ba15f26",
+        "media_fingerprint": "a311f7b31ccbf252b7b918af9c2fa4cf01c3032f5c3e08b96d2bff80590962b8",
+        "text": "دقیقا همینه\nمن واقعا نمیدونم چطور شما عکس بچه هاتون رو پست می‌کنید!\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "دقیقا همینه\nمن واقعا نمیدونم چطور شما عکس بچه هاتون رو پست می‌کنید!\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/307001",
+        "post_id": 307001,
+        "message_id": 9211,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-13T17:21:46.438797+00:00"
+      },
+      {
+        "fingerprint": "13012283fa037e786f7338fa4076570843eb97a89ca4017bb3ff811cce190597",
+        "media_fingerprint": "d45414a836319883b629d0f940b95d6d853c5d6b97c1c1bae6747fee6e631378",
+        "text": "♦️\nرعدوبرق کارخانه سیمان استهبان\n٢١ مهر ١۴٠۵\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nرعدوبرق کارخانه سیمان استهبان\n٢١ مهر ١۴٠۵\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143669",
+        "post_id": 143669,
+        "message_id": 9212,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-13T17:21:52.729115+00:00"
+      },
+      {
+        "fingerprint": "fae1598bf10d8575867f6590454064be509187becd5f361647412224393d0b3f",
+        "media_fingerprint": "bd7577b7c74d0d2c51686a690db7904c226302dff17170b9afaa34c23e1ac1a3",
+        "text": "فعالیت توده تندری درغرب شهر شیراز\nتصویر رعد و برق امشب شیراز",
+        "original_username": "fars_today",
+        "original_text": "فعالیت توده تندری درغرب شهر شیراز\nتصویر رعد و برق امشب شیراز",
+        "original_link": "https://t.me/Fars_today/132212",
+        "post_id": 132212,
+        "message_id": 9213,
+        "message_kind": "caption",
+        "sources": [
+          "fars_today"
+        ],
+        "created_at": "2026-10-13T17:21:57.274421+00:00"
       }
     ]
   }
