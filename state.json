@@ -1,14 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143682,
+      "last_id": 143688,
       "processed_ids": [
-        142552,
-        142553,
-        142554,
-        142555,
-        142556,
-        142557,
         142558,
         142559,
         142560,
@@ -1002,9 +996,15 @@
         143679,
         143680,
         143681,
-        143682
+        143682,
+        143683,
+        143684,
+        143685,
+        143686,
+        143687,
+        143688
       ],
-      "sent_count": 960
+      "sent_count": 962
     },
     "total_fut": {
       "last_id": 237918,
@@ -2013,13 +2013,8 @@
       "sent_count": 135
     },
     "footballvision2": {
-      "last_id": 171298,
+      "last_id": 171303,
       "processed_ids": [
-        170174,
-        170175,
-        170176,
-        170177,
-        170178,
         170179,
         170185,
         170186,
@@ -3014,7 +3009,12 @@
         171295,
         171296,
         171297,
-        171298
+        171298,
+        171299,
+        171300,
+        171301,
+        171302,
+        171303
       ],
       "sent_count": 141
     },
@@ -4515,7 +4515,7 @@
       "sent_count": 0
     },
     "amozesh_cafenet": {
-      "last_id": 3170,
+      "last_id": 3171,
       "processed_ids": [
         3087,
         3088,
@@ -4588,7 +4588,8 @@
         3167,
         3168,
         3169,
-        3170
+        3170,
+        3171
       ],
       "sent_count": 38
     },
@@ -4806,7 +4807,7 @@
       "sent_count": 100
     },
     "coffeenetmanager": {
-      "last_id": 51845,
+      "last_id": 51846,
       "processed_ids": [
         51537,
         51538,
@@ -5095,7 +5096,8 @@
         51842,
         51843,
         51844,
-        51845
+        51845,
+        51846
       ],
       "sent_count": 95
     },
@@ -5335,7 +5337,7 @@
       "sent_count": 140
     },
     "akhbar_cafenet": {
-      "last_id": 23338,
+      "last_id": 23339,
       "processed_ids": [
         22432,
         22433,
@@ -6187,7 +6189,8 @@
         23335,
         23336,
         23337,
-        23338
+        23338,
+        23339
       ],
       "sent_count": 458
     },
@@ -9761,15 +9764,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109974,
+      "last_id": 109981,
       "processed_ids": [
-        108896,
-        108897,
-        108898,
-        108899,
-        108900,
-        108901,
-        108902,
         108903,
         108904,
         108914,
@@ -10762,18 +10758,20 @@
         109970,
         109971,
         109972,
-        109974
+        109974,
+        109975,
+        109976,
+        109977,
+        109978,
+        109979,
+        109980,
+        109981
       ],
-      "sent_count": 155
+      "sent_count": 156
     },
     "varzesh3": {
-      "last_id": 304015,
+      "last_id": 304020,
       "processed_ids": [
-        302923,
-        302924,
-        302925,
-        302926,
-        302927,
         302928,
         302929,
         302930,
@@ -11768,9 +11766,14 @@
         304011,
         304013,
         304014,
-        304015
+        304015,
+        304016,
+        304017,
+        304018,
+        304019,
+        304020
       ],
-      "sent_count": 95
+      "sent_count": 96
     },
     "totalfut_plus": {
       "last_id": 26758,
@@ -12639,10 +12642,8 @@
       "sent_count": 61
     },
     "adak_ir_official": {
-      "last_id": 235331,
+      "last_id": 235333,
       "processed_ids": [
-        234303,
-        234304,
         234305,
         234306,
         234307,
@@ -13640,22 +13641,15 @@
         235328,
         235329,
         235330,
-        235331
+        235331,
+        235332,
+        235333
       ],
-      "sent_count": 204
+      "sent_count": 205
     },
     "futball180tv": {
-      "last_id": 108578,
+      "last_id": 108587,
       "processed_ids": [
-        107546,
-        107547,
-        107548,
-        107549,
-        107550,
-        107551,
-        107552,
-        107553,
-        107554,
         107555,
         107556,
         107557,
@@ -14646,15 +14640,22 @@
         108575,
         108576,
         108577,
-        108578
+        108578,
+        108579,
+        108580,
+        108581,
+        108582,
+        108583,
+        108584,
+        108585,
+        108586,
+        108587
       ],
       "sent_count": 99
     },
     "hattric_official": {
-      "last_id": 84868,
+      "last_id": 84870,
       "processed_ids": [
-        83809,
-        83810,
         83811,
         83812,
         83813,
@@ -15652,7 +15653,9 @@
         84865,
         84866,
         84867,
-        84868
+        84868,
+        84869,
+        84870
       ],
       "sent_count": 138
     },
@@ -16374,7 +16377,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58678,
+      "last_id": 58679,
       "processed_ids": [
         58030,
         58031,
@@ -16967,7 +16970,8 @@
         58675,
         58676,
         58677,
-        58678
+        58678,
+        58679
       ],
       "sent_count": 376
     },
@@ -17017,7 +17021,7 @@
       "sent_count": 10
     },
     "midanesti": {
-      "last_id": 73287,
+      "last_id": 73288,
       "processed_ids": [
         73193,
         73194,
@@ -17108,9 +17112,10 @@
         73284,
         73285,
         73286,
-        73287
+        73287,
+        73288
       ],
-      "sent_count": 44
+      "sent_count": 45
     },
     "gilin_gilin": {
       "last_id": 284180,
@@ -18557,7 +18562,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 307004,
+      "last_id": 307007,
       "processed_ids": [
         306563,
         306564,
@@ -18992,9 +18997,12 @@
         307001,
         307002,
         307003,
-        307004
+        307004,
+        307005,
+        307006,
+        307007
       ],
-      "sent_count": 189
+      "sent_count": 190
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -20084,7 +20092,7 @@
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6358,
+      "last_id": 6360,
       "processed_ids": [
         6113,
         6114,
@@ -20306,9 +20314,11 @@
         6354,
         6355,
         6356,
-        6358
+        6358,
+        6359,
+        6360
       ],
-      "sent_count": 6
+      "sent_count": 7
     },
     "ghandeharipoet": {
       "last_id": 42718,
@@ -20343,7 +20353,7 @@
       "sent_count": 22
     },
     "dashagh": {
-      "last_id": 48361,
+      "last_id": 48362,
       "processed_ids": [
         48313,
         48314,
@@ -20382,9 +20392,10 @@
         48357,
         48358,
         48360,
-        48361
+        48361,
+        48362
       ],
-      "sent_count": 30
+      "sent_count": 31
     },
     "apkclub": {
       "last_id": 72986,
@@ -20420,141 +20431,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "f6eed45c5a3998cec103eb1547674a712120e0f2a693f20634ce7f36a92d16a0",
-        "media_fingerprint": "306c75db4dbf3d7002080700402763104fa6368efe8a8c954c173db403a35e08",
-        "text": "🚨\n🔴\nکامنت هواداران پرسپولیس زیر پیچ الغرافه\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n🔴\nکامنت هواداران پرسپولیس زیر پیچ الغرافه\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/235136",
-        "post_id": 235136,
-        "message_id": 8174,
-        "message_kind": "caption",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-10T16:48:38.409951+00:00"
-      },
-      {
-        "fingerprint": "07c6b977aef77ffe18465b1e82c31baac464bab61a22c49930e9e7f36f5a05f3",
-        "media_fingerprint": "00274c798f74d37f44f288f163209458032d71e9ee70248241451b46570cc5ab",
-        "text": "اگه ژانر جنایی دوست دارین اصلا این سریالو از دست ندین؛\nسریالی با یه داستان بی‌رحم و پر از پیچیدگی.\n📷\n|\n@ShakhMovie",
-        "original_username": "shakhmovie",
-        "original_text": "اگه ژانر جنایی دوست دارین اصلا این سریالو از دست ندین؛\nسریالی با یه داستان بی‌رحم و پر از پیچیدگی.\n📷\n|\n@ShakhMovie",
-        "original_link": "https://t.me/Shakhmovie/4124",
-        "post_id": 4124,
-        "message_id": 8175,
-        "message_kind": "caption",
-        "sources": [
-          "shakhmovie"
-        ],
-        "created_at": "2026-10-10T17:16:36.872725+00:00"
-      },
-      {
-        "fingerprint": "679e4b06bffc89b4b4a979b4c487079e122acd6cdc73f1d0d9b67a49e99217ea",
-        "media_fingerprint": "6957e39ff2f55040ea48ab9c68b953eb8acdbb2ce80fc1e95868060b40156426",
-        "text": "♦️\n۶ اشتباه رایج که عمر ماشینت رو کم میکنه\n#مکانیک_شو\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\n۶ اشتباه رایج که عمر ماشینت رو کم میکنه\n#مکانیک_شو\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143434",
-        "post_id": 143434,
-        "message_id": 8176,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-10T17:16:41.076972+00:00"
-      },
-      {
-        "fingerprint": "8eb7470f0c7ba39f5a08a56b0d40c75c2099c1f5bc7dad6dcab2f4c1ad607b45",
-        "media_fingerprint": "89f38543336c8b305d82cb6159232028ec6abaa07a91d43109afac3a5e5bba17",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26417",
-        "post_id": 26417,
-        "message_id": 8177,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-10T17:16:44.506213+00:00"
-      },
-      {
-        "fingerprint": "13fe9146c3e15a2a2b7db05b4d43380676f114aac76c8f261e4e324a6f2db740",
-        "media_fingerprint": "2fd37c7df44630e279a694977005516bfbe3aba325019ba751b9f8c4f0d1efc4",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26418",
-        "post_id": 26418,
-        "message_id": 8178,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-10T17:16:48.725380+00:00"
-      },
-      {
-        "fingerprint": "0e2d16dbac24f67ce2eb92925c6783088b41b64adaa7091671b80c7598b705d0",
-        "media_fingerprint": "d324d167ee66cffddefed089ed28c34c943131b69132f60a9a29d44e238d51ca",
-        "text": "رفیق، میوه مورد علاقتو پیدا کردم:)))\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "رفیق، میوه مورد علاقتو پیدا کردم:)))\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/3226",
-        "post_id": 3226,
-        "message_id": 8179,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-10T17:16:52.607631+00:00"
-      },
-      {
-        "fingerprint": "a9bcd9c778658e3b8f81369a147710b60f3e626562f41c26b8d3b8ad9146273d",
-        "media_fingerprint": "",
-        "text": "رونمایی از تیزر رسمی نمایش “ریشه بُر” همزمان شروع فروش بلیط روزهای پایانی\nنویسنده و کارگردان : مهیار علیزاده\nبازیگران : سپاس ‌رضایی ، صدف ‌نظری ، عرفان ‌صالح ، مبینا ‌قاسملو ، عرفان ‌کوچکی ، شیوا ‌الهی ، امیر دهقان ، احد ‌شکری ، آزاد ‌اکبری ‌مطلق ، آرنوشا ‌بهزاد ، امیرعلی ‌اسلام ‌بیک\nخواننده : نوید واحدی\nگروه کر :  مبینا رشیدی ، رها جلیلی ، هستی احمدی ، دارا دادخواه\n🔺\nتهیه بلیت از سایت تیوال\n🔗\ntiwall.com/p/rishe2\nساخت تیزر : استودیو تبلیغات وطنی\n🗓\nمهرماه ۱۴۰۵\n📍\nکاخ ‌هنر\n⏰\nساعت ۲۱:۰۰ |  ۱ ساعت\n@BajeFilm",
-        "original_username": "bajefilm",
-        "original_text": "رونمایی از تیزر رسمی نمایش “ریشه بُر” همزمان شروع فروش بلیط روزهای پایانی\nنویسنده و کارگردان : مهیار علیزاده\nبازیگران : سپاس ‌رضایی ، صدف ‌نظری ، عرفان ‌صالح ، مبینا ‌قاسملو ، عرفان ‌کوچکی ، شیوا ‌الهی ، امیر دهقان ، احد ‌شکری ، آزاد ‌اکبری ‌مطلق ، آرنوشا ‌بهزاد ، امیرعلی ‌اسلام ‌بیک\nخواننده : نوید واحدی\nگروه کر :  مبینا رشیدی ، رها جلیلی ، هستی احمدی ، دارا دادخواه\n🔺\nتهیه بلیت از سایت تیوال\n🔗\ntiwall.com/p/rishe2\nساخت تیزر : استودیو تبلیغات وطنی\n🗓\nمهرماه ۱۴۰۵\n📍\nکاخ ‌هنر\n⏰\nساعت ۲۱:۰۰ |  ۱ ساعت\n@BajeFilm",
-        "original_link": "https://t.me/bajefilm/11621",
-        "post_id": 11621,
-        "message_id": 8180,
-        "message_kind": "text",
-        "sources": [
-          "bajefilm"
-        ],
-        "created_at": "2026-10-10T17:16:55.730661+00:00"
-      },
-      {
-        "fingerprint": "c51d7740340938dd25651cb7b5ba482e3924197be6e189c72a43b61648361721",
-        "media_fingerprint": "",
-        "text": "♦️\nایوب غفاری فرماندار خرامه شد\n🔹\nبا حکم استاندار فارس، ایوب غفاری به‌عنوان فرماندار شهرستان خرامه منصوب شد و در آیینی با حضور مسئولان استانی و شهرستانی معرفی شد.\n🔹\nهادی مقصودی نیز نزدیک به دو سال مسئولیت فرمانداری خرامه را بر عهده داشت و در این مراسم از تلاش‌های وی در دوران مسئولیت تقدیر شد.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nایوب غفاری فرماندار خرامه شد\n🔹\nبا حکم استاندار فارس، ایوب غفاری به‌عنوان فرماندار شهرستان خرامه منصوب شد و در آیینی با حضور مسئولان استانی و شهرستانی معرفی شد.\n🔹\nهادی مقصودی نیز نزدیک به دو سال مسئولیت فرمانداری خرامه را بر عهده داشت و در این مراسم از تلاش‌های وی در دوران مسئولیت تقدیر شد.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143435",
-        "post_id": 143435,
-        "message_id": 8181,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-10T17:16:58.624972+00:00"
-      },
-      {
-        "fingerprint": "12bacf7cce67a7d7510eee5e2feb59b42bfd4788c3ef6c6c6e901931cc42d5c9",
-        "media_fingerprint": "",
-        "text": "🏭\nآغاز حضور ماموت در بازار سرمایه؛ فِساپ را بهتر بشناسید شرکت سازه پوشش ماموت با نماد «فِساپ»، از شرکت‌های صنعتی گروه ماموت است که در سه حوزه فعالیت می‌کند:\n🔹\nساندویچ‌پانل\n🔹\nسازه فلزی و سوله صنعتی\n🔹\nکانکس در این ویدئو، علاوه بر معرفی کسب‌وکارهای اصلی، بخشی…",
-        "original_username": "irwonders",
-        "original_text": "🏭\nآغاز حضور ماموت در بازار سرمایه؛ فِساپ را بهتر بشناسید شرکت سازه پوشش ماموت با نماد «فِساپ»، از شرکت‌های صنعتی گروه ماموت است که در سه حوزه فعالیت می‌کند:\n🔹\nساندویچ‌پانل\n🔹\nسازه فلزی و سوله صنعتی\n🔹\nکانکس در این ویدئو، علاوه بر معرفی کسب‌وکارهای اصلی، بخشی…",
-        "original_link": "https://t.me/irwonders/58559",
-        "post_id": 58559,
-        "message_id": 8182,
-        "message_kind": "text",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-10T17:17:01.445240+00:00"
-      },
       {
         "fingerprint": "8181f505aa22b6e0e6e4f447ef64790db5986ff3a6c68a3a37b20844dc3bac24",
         "media_fingerprint": "e77066acb10c9ce5cd5e8446a7489f3a3455a2177e7404c416acdde7e9a44560",
@@ -35517,6 +35393,141 @@
           "ajayebe_jahann"
         ],
         "created_at": "2026-10-13T19:03:11.844383+00:00"
+      },
+      {
+        "fingerprint": "aba2e4a976c0ddf298324747faf828b1e5fc8b884330f0df480be976def0e8a8",
+        "media_fingerprint": "",
+        "text": "#هم_اکنون\nپخش دیدارهای مرحله گروهی لیگ قهرمانان اروپا\n⚽️\nلیگ قهرمانان اروپا - ساعت ۲۲:۳۰\nفوتبال آرسنال - لیل (گزارش محمد معصومی)\n🔥\n📡\nلینک پخش برنامه\nفوتبال اتلتیکومادرید - منچستریونایتد (گزارش رضا محمدعلی)\n🔥\n📡\nلینک پخش برنامه\nفوتبال گالاتاسرای - بارسلونا (گزارش حسین علیرضایی)\n🔥\n📡\nلینک پخش برنامه\nفوتبال اینتر - کلوب بروژ\n📡\nلینک پخش برنامه\nفوتبال ویکینگ - بایرن مونیخ\n📡\nلینک پخش برنامه\nفوتبال ویارئال - ناپولی\n📡\nلینک پخش برنامه\n👈\nکانال جــدیــد آنتن\n🚨\n📡\n@anten",
+        "original_username": "varzesh3",
+        "original_text": "#هم_اکنون\nپخش دیدارهای مرحله گروهی لیگ قهرمانان اروپا\n⚽️\nلیگ قهرمانان اروپا - ساعت ۲۲:۳۰\nفوتبال آرسنال - لیل (گزارش محمد معصومی)\n🔥\n📡\nلینک پخش برنامه\nفوتبال اتلتیکومادرید - منچستریونایتد (گزارش رضا محمدعلی)\n🔥\n📡\nلینک پخش برنامه\nفوتبال گالاتاسرای - بارسلونا (گزارش حسین علیرضایی)\n🔥\n📡\nلینک پخش برنامه\nفوتبال اینتر - کلوب بروژ\n📡\nلینک پخش برنامه\nفوتبال ویکینگ - بایرن مونیخ\n📡\nلینک پخش برنامه\nفوتبال ویارئال - ناپولی\n📡\nلینک پخش برنامه\n👈\nکانال جــدیــد آنتن\n🚨\n📡\n@anten",
+        "original_link": "https://t.me/varzesh3/304016",
+        "post_id": 304016,
+        "message_id": 9261,
+        "message_kind": "text",
+        "sources": [
+          "varzesh3"
+        ],
+        "created_at": "2026-10-13T19:31:16.205660+00:00"
+      },
+      {
+        "fingerprint": "73e955b467e1f573be566bc68db9e797ffc6426e4f786fddc920ae10737c4a08",
+        "media_fingerprint": "",
+        "text": "♦️\nصاعقه‌‌زدگی مرد ۳۰ ساله در فراشبند\nمسئول اورژانس فراشبند:\n🔹️\nمردی ۳۰ ساله ساعت ۱۴:۵۰ دقیقه امروز بر اثر صاعقه‌زدگی در شهرک نارک شهرستان فراشبند فارس مصدوم شد و با تلاش کارشناسان اورژانس ۱۱۵ درمان و به بیمارستان انتقال یافت\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nصاعقه‌‌زدگی مرد ۳۰ ساله در فراشبند\nمسئول اورژانس فراشبند:\n🔹️\nمردی ۳۰ ساله ساعت ۱۴:۵۰ دقیقه امروز بر اثر صاعقه‌زدگی در شهرک نارک شهرستان فراشبند فارس مصدوم شد و با تلاش کارشناسان اورژانس ۱۱۵ درمان و به بیمارستان انتقال یافت\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143683",
+        "post_id": 143683,
+        "message_id": 9262,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-13T19:31:19.050272+00:00"
+      },
+      {
+        "fingerprint": "0fe8abfa19c8e42bae9d359fedfb2edc5c07f8fee69973e262556eacc940faaf",
+        "media_fingerprint": "a7bd1087097eb2cc4dffc775129d745a8c0c7df18ba8fb641d858b312cdb2f7b",
+        "text": "راه حل غذا دادن به بچه بدغذا\n😂\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "راه حل غذا دادن به بچه بدغذا\n😂\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/307007",
+        "post_id": 307007,
+        "message_id": 9263,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-13T19:31:25.703013+00:00"
+      },
+      {
+        "fingerprint": "064eb800c6c6dbff87f4891c163b23912a350d6371eba3ac4b48f1a244dcf998",
+        "media_fingerprint": "e834f1d356ea069aa2d5f454a76f0ebb460d587544cbd774a3885d8ff6ecbcca",
+        "text": "♦️\nاولین بارش باران پاییزی در شیراز\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nاولین بارش باران پاییزی در شیراز\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143684",
+        "post_id": 143684,
+        "message_id": 9264,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-13T19:31:33.155671+00:00"
+      },
+      {
+        "fingerprint": "84a69b1751cdf545450dfe15cac1955252794233817453a89e5f3a7c5d20f430",
+        "media_fingerprint": "",
+        "text": "🚨\n🔴\nپرسپولیس زمینه آزادی ۱۰ زندانی جرایم غیرعمد در خرم‌آباد را همزمان با بازی مقابل خیبر فراهم می‌کند.\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🚨\n🔴\nپرسپولیس زمینه آزادی ۱۰ زندانی جرایم غیرعمد در خرم‌آباد را همزمان با بازی مقابل خیبر فراهم می‌کند.\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/235332",
+        "post_id": 235332,
+        "message_id": 9265,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-13T19:31:35.899327+00:00"
+      },
+      {
+        "fingerprint": "f56e8c8b97612c81f1ccb506e5e4bdbfa300cda4df54cd9fe4f4822bf127b090",
+        "media_fingerprint": "7f6bf387e242ab51120cac63353818e6f73ba82066ee65c6dc95912e5910531f",
+        "text": "ماساژور های حرفه ای ، چشم ها رو به این شکل ماساژ میدن ( این ماساژ به شدت خواب آور هست )\n@Midanesti",
+        "original_username": "midanesti",
+        "original_text": "ماساژور های حرفه ای ، چشم ها رو به این شکل ماساژ میدن ( این ماساژ به شدت خواب آور هست )\n@Midanesti",
+        "original_link": "https://t.me/midanesti/73288",
+        "post_id": 73288,
+        "message_id": 9266,
+        "message_kind": "caption",
+        "sources": [
+          "midanesti"
+        ],
+        "created_at": "2026-10-13T19:31:42.401747+00:00"
+      },
+      {
+        "fingerprint": "686cf221bcecff753144b4102ec3a43cdb5abd7571e172ed45001f3dcc6c035f",
+        "media_fingerprint": "fba70d230e09675aa8070007ddbe3d52787deda9a9aa95613761778162ff4648",
+        "text": "پاره شدم\n😂\n😂\n😂\nهواشناسی فقط هواشناسی آذربایجان\nترجمه : به گفته های من باور نداشته باشید چون که زمین و هوا  مال خداست ،خدا خودش میدونه اونجایی که دماغت نمیره سرتو نکن توش همچی دست خداست\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "پاره شدم\n😂\n😂\n😂\nهواشناسی فقط هواشناسی آذربایجان\nترجمه : به گفته های من باور نداشته باشید چون که زمین و هوا  مال خداست ،خدا خودش میدونه اونجایی که دماغت نمیره سرتو نکن توش همچی دست خداست\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48362",
+        "post_id": 48362,
+        "message_id": 9267,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-13T19:31:51.335825+00:00"
+      },
+      {
+        "fingerprint": "39285c3d1811c0047c35082cfe6c5f790c8880f567bc8b22586f4b8f3eee8f7a",
+        "media_fingerprint": "5d51a468140f066a8ee783e7133ea98e8ff3bf116056d75bc5cc8bfca179ad63",
+        "text": "🔸\nگالاتاسرای - بارسلونا\n🔸\n🔸\nهفته ۲ لیگ قهرمانان اروپا\n🔗\nپخش زنده ساعت ۲۲:۳۰ در فوتبال ۳۶۰  @Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "🔸\nگالاتاسرای - بارسلونا\n🔸\n🔸\nهفته ۲ لیگ قهرمانان اروپا\n🔗\nپخش زنده ساعت ۲۲:۳۰ در فوتبال ۳۶۰  @Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/109980",
+        "post_id": 109980,
+        "message_id": 9268,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-13T19:31:58.195782+00:00"
+      },
+      {
+        "fingerprint": "a28944347d06f861e7f6d42b6ac049dc5db140635538a86a632539e3affafcd0",
+        "media_fingerprint": "69a44ef558d735ea2142c886156a4066132821a19be27de1ba92af2083696676",
+        "text": "🔴\n🔻\nترکیب احتمالی پرسپولیس در دیدار فردای این تیم مقابل خیبر خرم‌آباد:\nپیام نیازمند مجید عیدی، مهدی زارع، حسین ابرقویی، مهدی تیکدری، پویا پورعلی، محمد خدابنده‌لو، محمد مهدی محبی، اوستون اورونوف، علی علیپور و ایگور سرگیف\n🔘\n@Persiana_Pluss",
+        "original_username": "persiana_pluss",
+        "original_text": "🔴\n🔻\nترکیب احتمالی پرسپولیس در دیدار فردای این تیم مقابل خیبر خرم‌آباد:\nپیام نیازمند مجید عیدی، مهدی زارع، حسین ابرقویی، مهدی تیکدری، پویا پورعلی، محمد خدابنده‌لو، محمد مهدی محبی، اوستون اورونوف، علی علیپور و ایگور سرگیف\n🔘\n@Persiana_Pluss",
+        "original_link": "https://t.me/Persiana_Pluss/6360",
+        "post_id": 6360,
+        "message_id": 9269,
+        "message_kind": "caption",
+        "sources": [
+          "persiana_pluss"
+        ],
+        "created_at": "2026-10-13T19:32:04.665363+00:00"
       }
     ]
   }
