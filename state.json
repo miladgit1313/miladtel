@@ -1,9 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143649,
+      "last_id": 143650,
       "processed_ids": [
-        142522,
         142523,
         142524,
         142525,
@@ -1002,16 +1001,14 @@
         143646,
         143647,
         143648,
-        143649
+        143649,
+        143650
       ],
       "sent_count": 939
     },
     "total_fut": {
-      "last_id": 237875,
+      "last_id": 237879,
       "processed_ids": [
-        236814,
-        236815,
-        236816,
         236817,
         236819,
         236820,
@@ -2008,19 +2005,16 @@
         237872,
         237873,
         237874,
-        237875
+        237875,
+        237877,
+        237878,
+        237879
       ],
       "sent_count": 132
     },
     "footballvision2": {
-      "last_id": 171245,
+      "last_id": 171251,
       "processed_ids": [
-        170120,
-        170121,
-        170122,
-        170123,
-        170124,
-        170125,
         170126,
         170127,
         170128,
@@ -3014,7 +3008,13 @@
         171242,
         171243,
         171244,
-        171245
+        171245,
+        171246,
+        171247,
+        171248,
+        171249,
+        171250,
+        171251
       ],
       "sent_count": 138
     },
@@ -3335,7 +3335,7 @@
       "sent_count": 10
     },
     "drtel": {
-      "last_id": 67666,
+      "last_id": 67667,
       "processed_ids": [
         66561,
         66565,
@@ -4195,9 +4195,10 @@
         67663,
         67664,
         67665,
-        67666
+        67666,
+        67667
       ],
-      "sent_count": 482
+      "sent_count": 483
     },
     "techtube": {
       "last_id": 18511,
@@ -5310,7 +5311,7 @@
       "sent_count": 139
     },
     "akhbar_cafenet": {
-      "last_id": 23317,
+      "last_id": 23326,
       "processed_ids": [
         22432,
         22433,
@@ -6141,12 +6142,21 @@
         23314,
         23315,
         23316,
-        23317
+        23317,
+        23318,
+        23319,
+        23320,
+        23321,
+        23322,
+        23323,
+        23324,
+        23325,
+        23326
       ],
-      "sent_count": 445
+      "sent_count": 451
     },
     "comentiat": {
-      "last_id": 26482,
+      "last_id": 26483,
       "processed_ids": [
         25844,
         25845,
@@ -6660,9 +6670,10 @@
         26478,
         26479,
         26481,
-        26482
+        26482,
+        26483
       ],
-      "sent_count": 376
+      "sent_count": 377
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -6672,7 +6683,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38721,
+      "last_id": 38722,
       "processed_ids": [
         38432,
         38433,
@@ -6959,7 +6970,8 @@
         38717,
         38718,
         38720,
-        38721
+        38721,
+        38722
       ],
       "sent_count": 171
     },
@@ -9676,11 +9688,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109902,
+      "last_id": 109905,
       "processed_ids": [
-        108820,
-        108821,
-        108822,
         108823,
         108824,
         108825,
@@ -10677,16 +10686,16 @@
         109899,
         109900,
         109901,
-        109902
+        109902,
+        109903,
+        109904,
+        109905
       ],
       "sent_count": 148
     },
     "varzesh3": {
-      "last_id": 303980,
+      "last_id": 303983,
       "processed_ids": [
-        302886,
-        302887,
-        302888,
         302889,
         302890,
         302891,
@@ -11683,12 +11692,15 @@
         303977,
         303978,
         303979,
-        303980
+        303980,
+        303981,
+        303982,
+        303983
       ],
       "sent_count": 94
     },
     "totalfut_plus": {
-      "last_id": 26747,
+      "last_id": 26748,
       "processed_ids": [
         25870,
         25871,
@@ -12539,9 +12551,10 @@
         26744,
         26745,
         26746,
-        26747
+        26747,
+        26748
       ],
-      "sent_count": 59
+      "sent_count": 60
     },
     "adak_ir_official": {
       "last_id": 235303,
@@ -13550,10 +13563,8 @@
       "sent_count": 201
     },
     "futball180tv": {
-      "last_id": 108553,
+      "last_id": 108555,
       "processed_ids": [
-        107521,
-        107522,
         107523,
         107524,
         107525,
@@ -14551,15 +14562,15 @@
         108550,
         108551,
         108552,
-        108553
+        108553,
+        108554,
+        108555
       ],
       "sent_count": 97
     },
     "hattric_official": {
-      "last_id": 84840,
+      "last_id": 84842,
       "processed_ids": [
-        83783,
-        83784,
         83785,
         83786,
         83787,
@@ -15557,7 +15568,9 @@
         84837,
         84838,
         84839,
-        84840
+        84840,
+        84841,
+        84842
       ],
       "sent_count": 131
     },
@@ -16186,7 +16199,7 @@
       "sent_count": 5
     },
     "niazcom_ir": {
-      "last_id": 61619,
+      "last_id": 61620,
       "processed_ids": [
         61580,
         61581,
@@ -16226,9 +16239,10 @@
         61616,
         61617,
         61618,
-        61619
+        61619,
+        61620
       ],
-      "sent_count": 15
+      "sent_count": 16
     },
     "tgacademy": {
       "last_id": 22402,
@@ -16899,7 +16913,7 @@
       "sent_count": 10
     },
     "midanesti": {
-      "last_id": 73286,
+      "last_id": 73287,
       "processed_ids": [
         73193,
         73194,
@@ -16989,7 +17003,8 @@
         73283,
         73284,
         73285,
-        73286
+        73286,
+        73287
       ],
       "sent_count": 44
     },
@@ -19017,7 +19032,7 @@
       "sent_count": 11
     },
     "bajefilm": {
-      "last_id": 11635,
+      "last_id": 11636,
       "processed_ids": [
         11552,
         11553,
@@ -19102,9 +19117,10 @@
         11632,
         11633,
         11634,
-        11635
+        11635,
+        11636
       ],
-      "sent_count": 68
+      "sent_count": 69
     },
     "yejoorayi": {
       "last_id": 560,
@@ -19354,7 +19370,7 @@
       "sent_count": 39
     },
     "shakhmovie": {
-      "last_id": 4151,
+      "last_id": 4152,
       "processed_ids": [
         4017,
         4018,
@@ -19437,12 +19453,13 @@
         4146,
         4147,
         4148,
-        4151
+        4151,
+        4152
       ],
-      "sent_count": 70
+      "sent_count": 71
     },
     "peach_tweet": {
-      "last_id": 3419,
+      "last_id": 3420,
       "processed_ids": [
         2745,
         2749,
@@ -19780,12 +19797,13 @@
         3415,
         3416,
         3417,
-        3419
+        3419,
+        3420
       ],
-      "sent_count": 192
+      "sent_count": 193
     },
     "funy_khand": {
-      "last_id": 25831,
+      "last_id": 25833,
       "processed_ids": [
         25704,
         25705,
@@ -19914,12 +19932,14 @@
         25828,
         25829,
         25830,
-        25831
+        25831,
+        25832,
+        25833
       ],
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6329,
+      "last_id": 6330,
       "processed_ids": [
         6113,
         6114,
@@ -20117,7 +20137,8 @@
         6325,
         6327,
         6328,
-        6329
+        6329,
+        6330
       ],
       "sent_count": 6
     },
@@ -20185,7 +20206,7 @@
       "sent_count": 24
     },
     "apkclub": {
-      "last_id": 72977,
+      "last_id": 72978,
       "processed_ids": [
         72962,
         72963,
@@ -20202,225 +20223,14 @@
         72974,
         72975,
         72976,
-        72977
+        72977,
+        72978
       ],
-      "sent_count": 2
+      "sent_count": 3
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "5f83ebec585d39f2f691892661069dbc00f47d261c9359762db6f13fdba9a984",
-        "media_fingerprint": "cd4b9697c97c7c12e1cb326e0da44a6a4013df07de167bbc53090725800b84d5",
-        "text": "🚘\nقرعه کشی پیش فروش بزرگ محصولات ایران خودرو ویژه مهرماه ۱۴۰۵ انجام شد ؛ آمار تعداد متقاضیان به تفکیک هر محصول در قرعه کشی شانزدهمین دوره عرضه محصولات ایران خودرو\n🔵\nبراساس آمار منتشر شده توسط ایران خودرو در دوره شانزدهم عرضه محصولات این شرکت به صورت قرعه کشی ۱,۳۲۱,۱۰۲ نفر شرکت کرده اند\n📉\nآمار تفکیک شده متقاضیان:\n👨‍💼\nعادی: ۱,۱۳۰,۳۲۷\n🤰\nمادران: ۱۷۱,۵۴۰\n🚌\nفرسوده: ۱۹,۲۳۵\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🚘\nقرعه کشی پیش فروش بزرگ محصولات ایران خودرو ویژه مهرماه ۱۴۰۵ انجام شد ؛ آمار تعداد متقاضیان به تفکیک هر محصول در قرعه کشی شانزدهمین دوره عرضه محصولات ایران خودرو\n🔵\nبراساس آمار منتشر شده توسط ایران خودرو در دوره شانزدهم عرضه محصولات این شرکت به صورت قرعه کشی ۱,۳۲۱,۱۰۲ نفر شرکت کرده اند\n📉\nآمار تفکیک شده متقاضیان:\n👨‍💼\nعادی: ۱,۱۳۰,۳۲۷\n🤰\nمادران: ۱۷۱,۵۴۰\n🚌\nفرسوده: ۱۹,۲۳۵\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/23155",
-        "post_id": 23155,
-        "message_id": 8010,
-        "message_kind": "caption",
-        "sources": [
-          "akhbar_cafenet",
-          "coffeenetmanager"
-        ],
-        "created_at": "2026-10-10T08:21:09.598377+00:00"
-      },
-      {
-        "fingerprint": "adce3e51e7ab3d161dedf363af2132372dee78bf9f3aac24d1b6819b74fc95ac",
-        "media_fingerprint": "",
-        "text": "🟠\n⚪️\nمس شهربابک به دنبال جذب بازیکن آزاد خارجی پیش از دیدار با پرسپولیس\nشعبان‌زاده، سرپرست مس شهربابک\n🔸\nکادر فنی درخواست جذب یک بازیکن آزاد را ارائه کرده و باشگاه نیز پیگیر انجام این کار است. گزینه موردنظر خارجی است و تلاش می‌کنیم شرایط حضور او در تیم را فراهم کنیم.\n🔸\nهنوز زمان دقیق حضور این بازیکن در ایران مشخص نیست و باید منتظر ماند تا روند مذاکرات و پیگیری‌ها به نتیجه برسد اما به احتمال زیاد او تا ۹۶ ساعت آینده به ایران خواهد آمد.\n🆔\n@footballvision2",
-        "original_username": "footballvision2",
-        "original_text": "🟠\n⚪️\nمس شهربابک به دنبال جذب بازیکن آزاد خارجی پیش از دیدار با پرسپولیس\nشعبان‌زاده، سرپرست مس شهربابک\n🔸\nکادر فنی درخواست جذب یک بازیکن آزاد را ارائه کرده و باشگاه نیز پیگیر انجام این کار است. گزینه موردنظر خارجی است و تلاش می‌کنیم شرایط حضور او در تیم را فراهم کنیم.\n🔸\nهنوز زمان دقیق حضور این بازیکن در ایران مشخص نیست و باید منتظر ماند تا روند مذاکرات و پیگیری‌ها به نتیجه برسد اما به احتمال زیاد او تا ۹۶ ساعت آینده به ایران خواهد آمد.\n🆔\n@footballvision2",
-        "original_link": "https://t.me/footballvision2/170918",
-        "post_id": 170918,
-        "message_id": 8011,
-        "message_kind": "text",
-        "sources": [
-          "footballvision2"
-        ],
-        "created_at": "2026-10-10T08:21:13.063543+00:00"
-      },
-      {
-        "fingerprint": "c840f7a57507d3c79394ad70a4ac1abbcde87fb74c9e222a96f7fd46e03ff05d",
-        "media_fingerprint": "202526643fe6de26bc22d0151a057c43b5497a85be2f4202c88dfc3861ee97ac",
-        "text": "اسمت رو توی گوگل سرچ کنن؛ چی می‌بینن؟\n👀\nبا مورچینو فقط با چند کلیک، سایت شخصی خودت رو بساز و مهارت‌ها، تخصص و سوابق‌ت رو حرفه‌ای معرفی کن.\n🔎\nسایت شخصی تو، ویترین آنلاین توئه.\nساخت سایت شخصی با مورچینو؛ ساده، سریع و بدون دردسر\n(ترجیحا بدون فیلترشکن وارد شو)\nhttps://moorchino.com/go/alvudx",
-        "original_username": "gizmiztel",
-        "original_text": "اسمت رو توی گوگل سرچ کنن؛ چی می‌بینن؟\n👀\nبا مورچینو فقط با چند کلیک، سایت شخصی خودت رو بساز و مهارت‌ها، تخصص و سوابق‌ت رو حرفه‌ای معرفی کن.\n🔎\nسایت شخصی تو، ویترین آنلاین توئه.\nساخت سایت شخصی با مورچینو؛ ساده، سریع و بدون دردسر\n(ترجیحا بدون فیلترشکن وارد شو)\nhttps://moorchino.com/go/alvudx",
-        "original_link": "https://t.me/gizmiztel/163051",
-        "post_id": 163051,
-        "message_id": 8012,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-10T08:21:18.391566+00:00"
-      },
-      {
-        "fingerprint": "14182b33e4fd2d2efdace5791aecf389d673b78c7c6b94b546f2ab1da7fcb62d",
-        "media_fingerprint": "5767bee23eed5bfa9e930f443b0c93c9640cfcf8a2d079ea9ba9404af6324904",
-        "text": "بازیگرامون قبلا پشت دوربین باهم راحت بودن، الان دیگه جلوی دوربین هم راحتن و زن و مرد باهم دست میدن و همدیگه رو بغل میکنن\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "بازیگرامون قبلا پشت دوربین باهم راحت بودن، الان دیگه جلوی دوربین هم راحتن و زن و مرد باهم دست میدن و همدیگه رو بغل میکنن\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163054",
-        "post_id": 163054,
-        "message_id": 8013,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-10T08:21:26.877452+00:00"
-      },
-      {
-        "fingerprint": "e95c92357761898e0a0767baaefe39ab93692f937071760eed77819b5d20cc50",
-        "media_fingerprint": "",
-        "text": "♦️\nسرمایه‌گذاری گردشگری راهی برای حفظ فرهنگ شیراز است\nمدیرکل میراث فرهنگی، گردشگری و صنایع دستی فارس:\n🔹️\nسرمایه‌گذاری در گردشگری می‌تواند به حفظ فرهنگ و آبادانی شیراز کمک کند.\n🔹️\nآغاز این رویدادها با همراهی تشکل‌ها و انجمن‌های تخصصی شکل گرفته و باور داریم تشکل‌ها صرفاً زینت‌بخش محافل و مجالس نیستند، بلکه باید در متن برنامه‌ریزی‌ها و فعالیت‌های اجرایی حضور داشته باشند.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nسرمایه‌گذاری گردشگری راهی برای حفظ فرهنگ شیراز است\nمدیرکل میراث فرهنگی، گردشگری و صنایع دستی فارس:\n🔹️\nسرمایه‌گذاری در گردشگری می‌تواند به حفظ فرهنگ و آبادانی شیراز کمک کند.\n🔹️\nآغاز این رویدادها با همراهی تشکل‌ها و انجمن‌های تخصصی شکل گرفته و باور داریم تشکل‌ها صرفاً زینت‌بخش محافل و مجالس نیستند، بلکه باید در متن برنامه‌ریزی‌ها و فعالیت‌های اجرایی حضور داشته باشند.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143407",
-        "post_id": 143407,
-        "message_id": 8014,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-10T08:21:30.182940+00:00"
-      },
-      {
-        "fingerprint": "7b2958c913ba41c6aeb7069f8cee785baea97169841577a8f0b194e606d65328",
-        "media_fingerprint": "ac54a780d79e78160b470406fd6558d5c9fc97693b5749b04c1d32f3e06942e0",
-        "text": "🔻\nرعدوبرق های تماشایی بامداد امروز اسفراین\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "🔻\nرعدوبرق های تماشایی بامداد امروز اسفراین\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159682",
-        "post_id": 159682,
-        "message_id": 8015,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-10T08:21:40.944545+00:00"
-      },
-      {
-        "fingerprint": "05bca3f350dfdfeca67266661ecbc1a659db423a77f59a9e3c7aa7242d0a157a",
-        "media_fingerprint": "",
-        "text": "⚽\nیکی از هواداران دچار سندروم پرسپولیس رفته تو تمرین سرخپوشان و این شاهکار با بازیکنان خلق کرد (ارزش دانلود\n۱۰۰۰)\n😂\n😂\n😂\n⚽️\n@Hattric_Official",
-        "original_username": "hattric_official",
-        "original_text": "⚽\nیکی از هواداران دچار سندروم پرسپولیس رفته تو تمرین سرخپوشان و این شاهکار با بازیکنان خلق کرد (ارزش دانلود\n۱۰۰۰)\n😂\n😂\n😂\n⚽️\n@Hattric_Official",
-        "original_link": "https://t.me/Hattric_Official/84621",
-        "post_id": 84621,
-        "message_id": 8019,
-        "message_kind": "text",
-        "sources": [
-          "hattric_official"
-        ],
-        "created_at": "2026-10-10T08:21:43.742891+00:00"
-      },
-      {
-        "fingerprint": "7f6f8e3323658145c8ed6eab96ace9349a9ce9c74d2e843eb72baa80ef96d339",
-        "media_fingerprint": "03945e93cb0fe0b4e7958610db3b1ced62667a8344a66f1c8dac4a62f283485b",
-        "text": "👨‍🏫\nآغاز پذیرش بدون کنکور دانشگاه فرهنگیان ۱۴۰۵\n🔵\nهم اکنون پذیرش بدون کنکور دانشگاه فرهنگیان ۱۴۰۵ در سایت این دانشگاه آغاز شد و تا تاریخ ۲۲ مهر ماه ادامه دارد. متقاضیان پذیرش در رشته های تحصیلی دانشگاه فرهنگیان به صورت جذب و پذیرش استعداد های برتر ملی، می توانند…",
-        "original_username": "akhbar_cafenet",
-        "original_text": "👨‍🏫\nآغاز پذیرش بدون کنکور دانشگاه فرهنگیان ۱۴۰۵\n🔵\nهم اکنون پذیرش بدون کنکور دانشگاه فرهنگیان ۱۴۰۵ در سایت این دانشگاه آغاز شد و تا تاریخ ۲۲ مهر ماه ادامه دارد. متقاضیان پذیرش در رشته های تحصیلی دانشگاه فرهنگیان به صورت جذب و پذیرش استعداد های برتر ملی، می توانند…",
-        "original_link": "https://t.me/akhbar_cafenet/23156",
-        "post_id": 23156,
-        "message_id": 8020,
-        "message_kind": "caption",
-        "sources": [
-          "akhbar_cafenet",
-          "coffeenetmanager"
-        ],
-        "created_at": "2026-10-10T08:48:01.507649+00:00"
-      },
-      {
-        "fingerprint": "aa1a43520040f4dbc50b8df0a3d096723ec117928d56d741df0a6c78975b8d28",
-        "media_fingerprint": "",
-        "text": "♦️\nهمه مردم نیاز به تزریق واکسن آنفلوآنزا ندارند\nمعاون بهداشت وزیر بهداشت:\n🔹️\nتزریق واکسن آنفلوآنزا برای عموم مردم ضروری نیست، توزیع این واکسن برای گروه‌های هدف مانند بیماران مزمن و زمینه‌ای به صورت رایگان در حال انجام است.\n🔹\nاولین سری از واکسن‌هایی که وارد کشور شده، به کادر درمان اختصاص یافته و توضیحات لازم نیز در این زمینه به آنها ارائه شده است.\n🔹\nقیمت عادی واکسن بین ۶۰۰ هزار تا یک میلیون تومان باشد؛ اما این واکسن برای گروه‌های هدف و بیماران خاص به‌ صورت رایگان تأمین می‌شود.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nهمه مردم نیاز به تزریق واکسن آنفلوآنزا ندارند\nمعاون بهداشت وزیر بهداشت:\n🔹️\nتزریق واکسن آنفلوآنزا برای عموم مردم ضروری نیست، توزیع این واکسن برای گروه‌های هدف مانند بیماران مزمن و زمینه‌ای به صورت رایگان در حال انجام است.\n🔹\nاولین سری از واکسن‌هایی که وارد کشور شده، به کادر درمان اختصاص یافته و توضیحات لازم نیز در این زمینه به آنها ارائه شده است.\n🔹\nقیمت عادی واکسن بین ۶۰۰ هزار تا یک میلیون تومان باشد؛ اما این واکسن برای گروه‌های هدف و بیماران خاص به‌ صورت رایگان تأمین می‌شود.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143409",
-        "post_id": 143409,
-        "message_id": 8021,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-10T08:48:04.786475+00:00"
-      },
-      {
-        "fingerprint": "9205f06304d30240d4e1b4ce6444bdd510cf21fb7a1a8bfbc3d3119d66fe5014",
-        "media_fingerprint": "46e4192968e794d655a59bd11b73b53896d1347f6e112fbb518b3a3c3ee83ad5",
-        "text": "⚽\n⚽️\nویدئوی وایرال شده از بازی دیروز پرسپولیس و صنعت، ریکانی گلوی پورعلی رو محکم میگیره ولی بازیکن پرسپولیس به طرز عجیبی هیچ واکنشی نشون نمیده و معذرت خواهی میکنه\n⚽️\n@Hattric_Official",
-        "original_username": "hattric_official",
-        "original_text": "⚽\n⚽️\nویدئوی وایرال شده از بازی دیروز پرسپولیس و صنعت، ریکانی گلوی پورعلی رو محکم میگیره ولی بازیکن پرسپولیس به طرز عجیبی هیچ واکنشی نشون نمیده و معذرت خواهی میکنه\n⚽️\n@Hattric_Official",
-        "original_link": "https://t.me/Hattric_Official/84623",
-        "post_id": 84623,
-        "message_id": 8022,
-        "message_kind": "caption",
-        "sources": [
-          "hattric_official"
-        ],
-        "created_at": "2026-10-10T08:48:10.961582+00:00"
-      },
-      {
-        "fingerprint": "82a446aa1866d1506fc0b35b4551896cdd29fb40c52000c649968dd49eca9ec1",
-        "media_fingerprint": "2eb23eaee00cc14172feeb8ab256a46de14d06b7470f6fda9fa549454915dfbc",
-        "text": "این علائم یعنی دچار بحران میان‌سالی شده‌اید\nبا ما همراه باشید تا به شما بگوییم چه نشانه‌هایی می‌گویند در حال پشت‌سر گذاشتن بحران میان‌سالی هستید.\n۱.خطرپذیری‌تان بالا رفته است\n۲.عمیقا احساس می‌کنید باید تغییری اساسی در زندگی تجربه کنید\n۳.بی‌قراری می‌کنید و هر روز هفته ۲۴ساعته درجه‌ای پایین از اضطراب دارید\n۴.در زمان کوتاه نوسان خلقی شدیدی را تجربه می‌کنید\n۵.سعی می‌کنید چیزهایی را امتحان کنید که قبلا هرگز نکرده‌اید\n۶.سبک‌های تازه لباس‌پوشیدن را امتحان می‌کنید\n۷.دارید عادت‌ها و روزمرگی‌هایتان را تغییر می‌دهید\n۸.خریدهای بزرگ و تکانشی دارید\n۹.روابط‌تان در حال گذر از تحولات بزرگ است\n۱۰.دلتنگی شدیدی برای گذشته‌ احساس می‌کنید\n۱۱.دوستان و حلقه اجتماعی‌تان بسیار تغییر می‌کند\n۱۲.از انتخاب‌ها و شغل‌تان انتقاد می‌کنید\n۱۳.به مرگ و کوتاهی زندگی خیلی فکر می‌کنید.\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "این علائم یعنی دچار بحران میان‌سالی شده‌اید\nبا ما همراه باشید تا به شما بگوییم چه نشانه‌هایی می‌گویند در حال پشت‌سر گذاشتن بحران میان‌سالی هستید.\n۱.خطرپذیری‌تان بالا رفته است\n۲.عمیقا احساس می‌کنید باید تغییری اساسی در زندگی تجربه کنید\n۳.بی‌قراری می‌کنید و هر روز هفته ۲۴ساعته درجه‌ای پایین از اضطراب دارید\n۴.در زمان کوتاه نوسان خلقی شدیدی را تجربه می‌کنید\n۵.سعی می‌کنید چیزهایی را امتحان کنید که قبلا هرگز نکرده‌اید\n۶.سبک‌های تازه لباس‌پوشیدن را امتحان می‌کنید\n۷.دارید عادت‌ها و روزمرگی‌هایتان را تغییر می‌دهید\n۸.خریدهای بزرگ و تکانشی دارید\n۹.روابط‌تان در حال گذر از تحولات بزرگ است\n۱۰.دلتنگی شدیدی برای گذشته‌ احساس می‌کنید\n۱۱.دوستان و حلقه اجتماعی‌تان بسیار تغییر می‌کند\n۱۲.از انتخاب‌ها و شغل‌تان انتقاد می‌کنید\n۱۳.به مرگ و کوتاهی زندگی خیلی فکر می‌کنید.\n@irWonders",
-        "original_link": "https://t.me/irwonders/58538",
-        "post_id": 58538,
-        "message_id": 8023,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-10T08:48:15.791088+00:00"
-      },
-      {
-        "fingerprint": "16b42b95759b154e27cf5c0c972ed75e0e06904aee548dde7bd4d2c9d989dc9c",
-        "media_fingerprint": "402bbbb799642af8f5c5d35e452b397586d5c5ca5170f2fcfd3aacc9a5d046ac",
-        "text": "🔴\nمیرسلیم، عضو مجمع تشخیص مصلحت نظام:\nفلسفه بازنشستگی در یک کشور اسلامی هیچ مفهومی ندارد و مسلمان واقعی باید تا آنجا که می‌تواند خدمت کند\nحیف است که افراد ۸۰ و ۹۰ ساله را از خدمت کنار بگذاریم\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "🔴\nمیرسلیم، عضو مجمع تشخیص مصلحت نظام:\nفلسفه بازنشستگی در یک کشور اسلامی هیچ مفهومی ندارد و مسلمان واقعی باید تا آنجا که می‌تواند خدمت کند\nحیف است که افراد ۸۰ و ۹۰ ساله را از خدمت کنار بگذاریم\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52811",
-        "post_id": 52811,
-        "message_id": 8024,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-10T08:48:24.082474+00:00"
-      },
-      {
-        "fingerprint": "d3b0b1b404e49ffee41b26b800cf0ff67eacdab1ac15947b701d1dd44c2c39d8",
-        "media_fingerprint": "",
-        "text": "♦️\nرئیس سازمان امور دانشجویان: دانشگاه‌ها در هیچ شرایطی تعطیل نمی‌شوند\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nرئیس سازمان امور دانشجویان: دانشگاه‌ها در هیچ شرایطی تعطیل نمی‌شوند\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143410",
-        "post_id": 143410,
-        "message_id": 8025,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-10T08:48:26.893135+00:00"
-      },
-      {
-        "fingerprint": "d1900e05fe6a78f088ac3c60063758d304e90eeccfe96af67ee360d9b397668d",
-        "media_fingerprint": "6f673107ad5821d02da4e2556c626a48b422b8a5aee9d8a0a04fc8b2078d29e6",
-        "text": "برای فهمیدن کیفیت مواد غذایی در آشپزخانه از  این روش ها استفاده کنید\n.\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "برای فهمیدن کیفیت مواد غذایی در آشپزخانه از  این روش ها استفاده کنید\n.\n@irWonders",
-        "original_link": "https://t.me/irwonders/58539",
-        "post_id": 58539,
-        "message_id": 8026,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-10T08:48:32.755005+00:00"
-      },
       {
         "fingerprint": "9274713b6e7e53c28ef8f47330ed87979a10f7fe9e0c09708c73d866cbb5dcb8",
         "media_fingerprint": "",
@@ -35261,7 +35071,8 @@
         "message_id": 9088,
         "message_kind": "text",
         "sources": [
-          "ajayebe_jahann"
+          "ajayebe_jahann",
+          "akhbar_cafenet"
         ],
         "created_at": "2026-10-13T12:28:56.028239+00:00"
       },
@@ -35309,6 +35120,216 @@
           "drtel"
         ],
         "created_at": "2026-10-13T12:29:11.076403+00:00"
+      },
+      {
+        "fingerprint": "68e25296201e876e130de691371677b291f637c9882626128681c39799ed6533",
+        "media_fingerprint": "0b2dabc5e44420e7781efcd6c58ee2b2244450b5fcbc0b87fa11ed6e999260a1",
+        "text": "سریال‌هایی که ذهن‌تون رو به چالش میکشونن و تا مدت ها از ذهن‌تون خارج نمیشن.\n📷\n|\n@ShakhMovie",
+        "original_username": "shakhmovie",
+        "original_text": "سریال‌هایی که ذهن‌تون رو به چالش میکشونن و تا مدت ها از ذهن‌تون خارج نمیشن.\n📷\n|\n@ShakhMovie",
+        "original_link": "https://t.me/Shakhmovie/4152",
+        "post_id": 4152,
+        "message_id": 9092,
+        "message_kind": "caption",
+        "sources": [
+          "shakhmovie"
+        ],
+        "created_at": "2026-10-13T13:00:41.207418+00:00"
+      },
+      {
+        "fingerprint": "79b36f9d2509975b024154ca48013c00765be1c69865968cdd908c9077268313",
+        "media_fingerprint": "",
+        "text": "🎖️\n🏅\nدانیال ایری بعد برطرف شدن مصدومیتش به تمرینات پرسپولیس برگشت...\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
+        "original_username": "totalfut_plus",
+        "original_text": "🎖️\n🏅\nدانیال ایری بعد برطرف شدن مصدومیتش به تمرینات پرسپولیس برگشت...\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
+        "original_link": "https://t.me/totalfut_plus/26748",
+        "post_id": 26748,
+        "message_id": 9093,
+        "message_kind": "text",
+        "sources": [
+          "totalfut_plus"
+        ],
+        "created_at": "2026-10-13T13:00:44.026479+00:00"
+      },
+      {
+        "fingerprint": "98e7b7363c25331c7aaf304a6a406d3e60937130a48a582070152a8902c137f9",
+        "media_fingerprint": "8d083454599c5822334e98f13683b6e72a8e32bb6c67330aea5b7b2260d1e8aa",
+        "text": "واسه کی داری خودت رو به کشتن می‌دی؟\n🎬\nقسمت نهم سریال\n#کنکل\n، ۸ صبح فردا، به‌صورت اختصاصی در\n#فیلیمو\nنویسنده و کارگردان: رامتین لوافی\nتهیه‌کننده: محمد مسعود\nتهیه‌شده در استودیو فیلیمو\nطراح تیزر: پریسا فدائی\n@BajeFilm",
+        "original_username": "bajefilm",
+        "original_text": "واسه کی داری خودت رو به کشتن می‌دی؟\n🎬\nقسمت نهم سریال\n#کنکل\n، ۸ صبح فردا، به‌صورت اختصاصی در\n#فیلیمو\nنویسنده و کارگردان: رامتین لوافی\nتهیه‌کننده: محمد مسعود\nتهیه‌شده در استودیو فیلیمو\nطراح تیزر: پریسا فدائی\n@BajeFilm",
+        "original_link": "https://t.me/bajefilm/11636",
+        "post_id": 11636,
+        "message_id": 9094,
+        "message_kind": "caption",
+        "sources": [
+          "bajefilm"
+        ],
+        "created_at": "2026-10-13T13:00:53.827365+00:00"
+      },
+      {
+        "fingerprint": "20a3fcc65caee725b531f1aff06da7c045e5337859de6c6fd5eb29b8b0401122",
+        "media_fingerprint": "98d2b7ad66ca2e8f594d8cc50eb417ef495baba5aa95a5d6c7cb1f10df7c235e",
+        "text": "🔥\n5 عدد اکانت فیلترشکن اکسپرس\n🔺\nEmail :\nike.713@hotmail.com\n🔴\nPassword :\n@Titanium713\n🔺\nEmail :\nvernonharmon@me.com\n🔴\nPassword :\nSylvester202*\n🔺\nEmail :\nadam.harshman@gmail.com\n🔴\nPassword :\ndowork4DB#\n🔺\nEmail :\ntthomas922@yahoo.com\n🔴\nPassword :\nNoah9210!\n🔺\nEmail :\nhbejerano@achievehealthmanagement.com\n🔴\nPassword :\nCostaRica#2021\n📱\nلینک دانلود برنامه:\nاندروید | ویندوز | آیفون\n🌟\n@APKCLUB\n|\n@APKCLUB_GP",
+        "original_username": "apkclub",
+        "original_text": "🔥\n5 عدد اکانت فیلترشکن اکسپرس\n🔺\nEmail :\nike.713@hotmail.com\n🔴\nPassword :\n@Titanium713\n🔺\nEmail :\nvernonharmon@me.com\n🔴\nPassword :\nSylvester202*\n🔺\nEmail :\nadam.harshman@gmail.com\n🔴\nPassword :\ndowork4DB#\n🔺\nEmail :\ntthomas922@yahoo.com\n🔴\nPassword :\nNoah9210!\n🔺\nEmail :\nhbejerano@achievehealthmanagement.com\n🔴\nPassword :\nCostaRica#2021\n📱\nلینک دانلود برنامه:\nاندروید | ویندوز | آیفون\n🌟\n@APKCLUB\n|\n@APKCLUB_GP",
+        "original_link": "https://t.me/apkclub/72978",
+        "post_id": 72978,
+        "message_id": 9095,
+        "message_kind": "caption",
+        "sources": [
+          "apkclub"
+        ],
+        "created_at": "2026-10-13T13:00:58.739801+00:00"
+      },
+      {
+        "fingerprint": "16cb63853fb66339e7327e307011aa096cffe8dc4190455e6fd50e572e3877cf",
+        "media_fingerprint": "",
+        "text": "🚑\nسخنگوی اورژانس استان تهران: اختلال در سامانه ۱۱۵ به‌دلیل مشکلات فنی شبکه مخابرات رخ داده و رفع آن در دست اقدام است.\nمردم تا رفع مشکل از شماره‌های جایگزین استفاده کنند\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🚑\nسخنگوی اورژانس استان تهران: اختلال در سامانه ۱۱۵ به‌دلیل مشکلات فنی شبکه مخابرات رخ داده و رفع آن در دست اقدام است.\nمردم تا رفع مشکل از شماره‌های جایگزین استفاده کنند\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23319",
+        "post_id": 23319,
+        "message_id": 9096,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-13T13:01:01.719909+00:00"
+      },
+      {
+        "fingerprint": "f23e7e1ac56edcd45a2c2837a2da08ec1317979a449e41abdcf36099850fe851",
+        "media_fingerprint": "a1fb72172d0a4ece7f5b6f06c626a468e01c1e9d0ca5fec0b270543dfadfca26",
+        "text": "زیبایی ببینید خستگیتون در بره\n☺️\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "زیبایی ببینید خستگیتون در بره\n☺️\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/3420",
+        "post_id": 3420,
+        "message_id": 9097,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-13T13:01:09.319445+00:00"
+      },
+      {
+        "fingerprint": "c1286606a0ea90a037e0be10798d1696c9d0b90ef34f9a8764b33d13cb408fe6",
+        "media_fingerprint": "cfa51188cf4c0b7720da35a7f1fa4035053a00831baca5022eb40e585199f659",
+        "text": "🎥\nمبنای دقیق دهک بندی برای دریافت یارانه و کالابرگ از زبان اندایش معاون وزیر رفاه وزارت کار\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🎥\nمبنای دقیق دهک بندی برای دریافت یارانه و کالابرگ از زبان اندایش معاون وزیر رفاه وزارت کار\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23320",
+        "post_id": 23320,
+        "message_id": 9098,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-13T13:01:16.441368+00:00"
+      },
+      {
+        "fingerprint": "d7f14e2a376bb6e41439ea15b7de43797a3c1c270f7ae6a495fa098f5a0ce121",
+        "media_fingerprint": "e48f00ef102ffaaefeee7a3aed6038fb217235de2fc9ff1e2ae757fdb3759644",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26483",
+        "post_id": 26483,
+        "message_id": 9099,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-13T13:01:20.829601+00:00"
+      },
+      {
+        "fingerprint": "98b4e3338ee41f6c96e77df45c9ac4f4c24bb668dbe5c1f617348f39a038fb52",
+        "media_fingerprint": "b4412056ee8864ddd7bfb5eb838fd85a00d7814510c096108ffd1d05dfc7a71e",
+        "text": "💵\nمدیرعامل سازمان هدفمندی یارانه‌ها: منابع مورد نیاز برای افزایش مبلغ کالابرگ از سوی دولت اندیشیده شده و این مبالغ موجود است\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "💵\nمدیرعامل سازمان هدفمندی یارانه‌ها: منابع مورد نیاز برای افزایش مبلغ کالابرگ از سوی دولت اندیشیده شده و این مبالغ موجود است\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23321",
+        "post_id": 23321,
+        "message_id": 9100,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-13T13:01:27.342440+00:00"
+      },
+      {
+        "fingerprint": "ef9ce7bd983048c9c871cf41632daf63c25cf1645067feaf488fed015e21f1f1",
+        "media_fingerprint": "755330a5ce47dec3474695ff9b986df7a06cef3abe98d20b4be4308d8d12544e",
+        "text": "🔴\nشمارهٔ 115 اورژانس\n🚑\n🤩\nتهران قطع شد؛\nاگه کاری داشتید، با شماره‌های جایگزین تماس بگیرید.\n02146015981\n02146015619\n02146015948\n02146015734\n02146015732\n02146015873\n02146015613\n02146015703\n02146015648\n02144896391\n02144891399\n02144891525\n02144896345\n02144896376\n02144896389\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nشمارهٔ 115 اورژانس\n🚑\n🤩\nتهران قطع شد؛\nاگه کاری داشتید، با شماره‌های جایگزین تماس بگیرید.\n02146015981\n02146015619\n02146015948\n02146015734\n02146015732\n02146015873\n02146015613\n02146015703\n02146015648\n02144896391\n02144891399\n02144891525\n02144896345\n02144896376\n02144896389\n@DrTeL",
+        "original_link": "https://t.me/drtel/67667",
+        "post_id": 67667,
+        "message_id": 9101,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-13T13:01:32.963294+00:00"
+      },
+      {
+        "fingerprint": "19ea91b19ed87f2ba10bcce704f134fbd75b662a3fbd7e1508bb125f984685ff",
+        "media_fingerprint": "6ae6c46b61d6b27153c6f3317f98a7cb27bda9d73afa50b25203fdffb89b5b02",
+        "text": "🎥\nزنگنه: به بیش از ۸۷ میلیون نفر کالابرگ یک میلیون تومانی می‌دهیم/  یک عده را می‌توان مثل آب خوردن کنار گذاشت\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🎥\nزنگنه: به بیش از ۸۷ میلیون نفر کالابرگ یک میلیون تومانی می‌دهیم/  یک عده را می‌توان مثل آب خوردن کنار گذاشت\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23324",
+        "post_id": 23324,
+        "message_id": 9102,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-13T13:01:44.309812+00:00"
+      },
+      {
+        "fingerprint": "dc43581fd60039e8dc23996d51f72ef3bdf97b167ac3c31ffcfacf8839653b21",
+        "media_fingerprint": "",
+        "text": "🌐\nبازگشایی مرحله‌ای سکوهای خارجی در دستور کار؛ حمایت ۵۰۰ میلیارد تومانی از سکوهای داخلی\n🔵\nسند «تسهیل دسترسی به سکوهای خارجی و ارتقای حکمرانی قانونمند» مصوب شورای عالی فضای مجازی، بازگشایی مرحله‌ای سکوهای خارجی از جمله گوگل‌پلی، واتس‌اپ، یوتیوب و تلگرام را در کنار حمایت زیرساختی و تبلیغاتی از سکوهای داخلی پیش‌بینی کرده است.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🌐\nبازگشایی مرحله‌ای سکوهای خارجی در دستور کار؛ حمایت ۵۰۰ میلیارد تومانی از سکوهای داخلی\n🔵\nسند «تسهیل دسترسی به سکوهای خارجی و ارتقای حکمرانی قانونمند» مصوب شورای عالی فضای مجازی، بازگشایی مرحله‌ای سکوهای خارجی از جمله گوگل‌پلی، واتس‌اپ، یوتیوب و تلگرام را در کنار حمایت زیرساختی و تبلیغاتی از سکوهای داخلی پیش‌بینی کرده است.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23325",
+        "post_id": 23325,
+        "message_id": 9103,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-13T13:01:47.642789+00:00"
+      },
+      {
+        "fingerprint": "2d07698b3a8851b94f6802c7427ae4ae3eb6f54ee77b67f47dc083be2a2ad94e",
+        "media_fingerprint": "",
+        "text": "🌐\nسازمان برنامه و بودجه متولی جدید کالابرگ شد\n🔵\nمعاون امور اقتصادی وزارت تعاون:  براساس تصمیم دولت، سازمان برنامه و بودجه به‌عنوان متولی اصلی طرح کالابرگ الکترونیک تعیین شده است.\n🟠\nتمامی نهادها و دستگاه‌ها باید برای اجرای بهینه این طرح با سازمان برنامه و بودجه همکاری کنند.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🌐\nسازمان برنامه و بودجه متولی جدید کالابرگ شد\n🔵\nمعاون امور اقتصادی وزارت تعاون:  براساس تصمیم دولت، سازمان برنامه و بودجه به‌عنوان متولی اصلی طرح کالابرگ الکترونیک تعیین شده است.\n🟠\nتمامی نهادها و دستگاه‌ها باید برای اجرای بهینه این طرح با سازمان برنامه و بودجه همکاری کنند.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23326",
+        "post_id": 23326,
+        "message_id": 9104,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-13T13:01:50.950607+00:00"
+      },
+      {
+        "fingerprint": "46815d6b7a1b440a20c66e146d05bd108b4791c6b159bb15d6f06f2cfbc62256",
+        "media_fingerprint": "560511d11a9623de644c1c38298877357e84a1e119455bd43415a0920b9613bb",
+        "text": "آگاهانه لباس بپوشید\n👌\n@Niazcom_ir",
+        "original_username": "niazcom_ir",
+        "original_text": "آگاهانه لباس بپوشید\n👌\n@Niazcom_ir",
+        "original_link": "https://t.me/niazcom_ir/61620",
+        "post_id": 61620,
+        "message_id": 9105,
+        "message_kind": "caption",
+        "sources": [
+          "niazcom_ir"
+        ],
+        "created_at": "2026-10-13T13:01:59.761620+00:00"
       }
     ]
   }
