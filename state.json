@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143656,
+      "last_id": 143658,
       "processed_ids": [
-        142529,
-        142530,
         142531,
         142532,
         142533,
@@ -1002,17 +1000,15 @@
         143653,
         143654,
         143655,
-        143656
+        143656,
+        143657,
+        143658
       ],
-      "sent_count": 945
+      "sent_count": 946
     },
     "total_fut": {
-      "last_id": 237890,
+      "last_id": 237895,
       "processed_ids": [
-        236829,
-        236830,
-        236831,
-        236832,
         236833,
         236834,
         236835,
@@ -2008,7 +2004,11 @@
         237887,
         237888,
         237889,
-        237890
+        237890,
+        237891,
+        237892,
+        237893,
+        237895
       ],
       "sent_count": 134
     },
@@ -3337,7 +3337,7 @@
       "sent_count": 10
     },
     "drtel": {
-      "last_id": 67672,
+      "last_id": 67673,
       "processed_ids": [
         66561,
         66565,
@@ -4200,9 +4200,10 @@
         67666,
         67667,
         67668,
-        67672
+        67672,
+        67673
       ],
-      "sent_count": 485
+      "sent_count": 486
     },
     "techtube": {
       "last_id": 18516,
@@ -5320,7 +5321,7 @@
       "sent_count": 139
     },
     "akhbar_cafenet": {
-      "last_id": 23331,
+      "last_id": 23332,
       "processed_ids": [
         22432,
         22433,
@@ -6165,12 +6166,13 @@
         23328,
         23329,
         23330,
-        23331
+        23331,
+        23332
       ],
-      "sent_count": 455
+      "sent_count": 456
     },
     "comentiat": {
-      "last_id": 26484,
+      "last_id": 26485,
       "processed_ids": [
         25844,
         25845,
@@ -6686,9 +6688,10 @@
         26481,
         26482,
         26483,
-        26484
+        26484,
+        26485
       ],
-      "sent_count": 378
+      "sent_count": 379
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -6698,7 +6701,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38723,
+      "last_id": 38724,
       "processed_ids": [
         38432,
         38433,
@@ -6987,9 +6990,10 @@
         38720,
         38721,
         38722,
-        38723
+        38723,
+        38724
       ],
-      "sent_count": 172
+      "sent_count": 173
     },
     "gizmiztel": {
       "last_id": 163219,
@@ -8695,7 +8699,7 @@
       "sent_count": 288
     },
     "ajayebe_jahann": {
-      "last_id": 159787,
+      "last_id": 159788,
       "processed_ids": [
         158956,
         158957,
@@ -9509,9 +9513,10 @@
         159784,
         159785,
         159786,
-        159787
+        159787,
+        159788
       ],
-      "sent_count": 329
+      "sent_count": 330
     },
     "etelaate_omoomi": {
       "last_id": 43128,
@@ -9710,12 +9715,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109919,
+      "last_id": 109923,
       "processed_ids": [
-        108836,
-        108837,
-        108838,
-        108839,
         108840,
         108841,
         108842,
@@ -10711,15 +10712,17 @@
         109915,
         109916,
         109918,
-        109919
+        109919,
+        109920,
+        109921,
+        109922,
+        109923
       ],
       "sent_count": 149
     },
     "varzesh3": {
-      "last_id": 303991,
+      "last_id": 303993,
       "processed_ids": [
-        302898,
-        302899,
         302900,
         302902,
         302903,
@@ -11717,12 +11720,14 @@
         303988,
         303989,
         303990,
-        303991
+        303991,
+        303992,
+        303993
       ],
       "sent_count": 94
     },
     "totalfut_plus": {
-      "last_id": 26752,
+      "last_id": 26753,
       "processed_ids": [
         25870,
         25871,
@@ -12577,14 +12582,14 @@
         26748,
         26749,
         26750,
-        26752
+        26752,
+        26753
       ],
-      "sent_count": 60
+      "sent_count": 61
     },
     "adak_ir_official": {
-      "last_id": 235313,
+      "last_id": 235314,
       "processed_ids": [
-        234285,
         234286,
         234287,
         234288,
@@ -13583,7 +13588,8 @@
         235310,
         235311,
         235312,
-        235313
+        235313,
+        235314
       ],
       "sent_count": 201
     },
@@ -14594,10 +14600,8 @@
       "sent_count": 98
     },
     "hattric_official": {
-      "last_id": 84850,
+      "last_id": 84852,
       "processed_ids": [
-        83792,
-        83793,
         83794,
         83795,
         83796,
@@ -15595,12 +15599,14 @@
         84847,
         84848,
         84849,
-        84850
+        84850,
+        84851,
+        84852
       ],
-      "sent_count": 132
+      "sent_count": 134
     },
     "mazdak_hattrick": {
-      "last_id": 182567,
+      "last_id": 182568,
       "processed_ids": [
         181991,
         181992,
@@ -16164,7 +16170,8 @@
         182564,
         182565,
         182566,
-        182567
+        182567,
+        182568
       ],
       "sent_count": 52
     },
@@ -16312,7 +16319,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58665,
+      "last_id": 58669,
       "processed_ids": [
         58030,
         58031,
@@ -16895,7 +16902,8 @@
         58662,
         58663,
         58664,
-        58665
+        58665,
+        58669
       ],
       "sent_count": 368
     },
@@ -19068,7 +19076,7 @@
       "sent_count": 11
     },
     "bajefilm": {
-      "last_id": 11636,
+      "last_id": 11637,
       "processed_ids": [
         11552,
         11553,
@@ -19154,9 +19162,10 @@
         11633,
         11634,
         11635,
-        11636
+        11636,
+        11637
       ],
-      "sent_count": 69
+      "sent_count": 70
     },
     "yejoorayi": {
       "last_id": 562,
@@ -19408,7 +19417,7 @@
       "sent_count": 39
     },
     "shakhmovie": {
-      "last_id": 4153,
+      "last_id": 4154,
       "processed_ids": [
         4017,
         4018,
@@ -19493,12 +19502,13 @@
         4148,
         4151,
         4152,
-        4153
+        4153,
+        4154
       ],
-      "sent_count": 72
+      "sent_count": 73
     },
     "peach_tweet": {
-      "last_id": 3421,
+      "last_id": 3429,
       "processed_ids": [
         2745,
         2749,
@@ -19838,9 +19848,12 @@
         3417,
         3419,
         3420,
-        3421
+        3421,
+        3427,
+        3428,
+        3429
       ],
-      "sent_count": 193
+      "sent_count": 194
     },
     "funy_khand": {
       "last_id": 25837,
@@ -19983,7 +19996,7 @@
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6338,
+      "last_id": 6340,
       "processed_ids": [
         6113,
         6114,
@@ -20189,7 +20202,8 @@
         6334,
         6335,
         6337,
-        6338
+        6338,
+        6340
       ],
       "sent_count": 6
     },
@@ -20223,7 +20237,7 @@
       "sent_count": 19
     },
     "dashagh": {
-      "last_id": 48355,
+      "last_id": 48356,
       "processed_ids": [
         48313,
         48314,
@@ -20257,9 +20271,10 @@
         48352,
         48353,
         48354,
-        48355
+        48355,
+        48356
       ],
-      "sent_count": 26
+      "sent_count": 27
     },
     "apkclub": {
       "last_id": 72980,
@@ -20289,202 +20304,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "2ab1c1e4ef222c184a120c42f9b4ae7a65077a708640fb3e455462673c337044",
-        "media_fingerprint": "2f598388d479a7e2efd35dae7f806cfe45d7f3ccaf76f3313f90e9a2465c2ecc",
-        "text": "🔴\nجان سینا از دومین ایرانی هم لب گرفت؛\n🎬\nتو فیلم جدید Matchbox (2026)  | مچ‌باکس با بازی جان سینا، یهو گلشیفته وارد میشه و اينجوری لب‌های سینا جان رو به دور از چشمِ\nشهرزاد\n(زن واقعیِ جان‌سینا) می‌خوره...\nاین فیلم اکشن و ماجراجوییه، داستان هم درباره «شان واکر»، مأمور مخفی سازمان سیا با بازی جان سیناست که بعد از سال‌ها به زادگاهش برمی‌گرده و با دوستای دوران بچگیش دیدار می‌کنه.\nاما این دورهمی خیلی زود به یه ماجرای خطرناک بین‌المللی تبدیل می‌شه و همگی ناخواسته درگیر مأموریتی می‌شن که باید دنیا رو از یه فاجعه بزرگ نجات بدن.\n@FUTBALLI18",
-        "original_username": "drtel",
-        "original_text": "🔴\nجان سینا از دومین ایرانی هم لب گرفت؛\n🎬\nتو فیلم جدید Matchbox (2026)  | مچ‌باکس با بازی جان سینا، یهو گلشیفته وارد میشه و اينجوری لب‌های سینا جان رو به دور از چشمِ\nشهرزاد\n(زن واقعیِ جان‌سینا) می‌خوره...\nاین فیلم اکشن و ماجراجوییه، داستان هم درباره «شان واکر»، مأمور مخفی سازمان سیا با بازی جان سیناست که بعد از سال‌ها به زادگاهش برمی‌گرده و با دوستای دوران بچگیش دیدار می‌کنه.\nاما این دورهمی خیلی زود به یه ماجرای خطرناک بین‌المللی تبدیل می‌شه و همگی ناخواسته درگیر مأموریتی می‌شن که باید دنیا رو از یه فاجعه بزرگ نجات بدن.\n@FUTBALLI18",
-        "original_link": "https://t.me/drtel/67544",
-        "post_id": 67544,
-        "message_id": 8075,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-10T11:46:47.311103+00:00"
-      },
-      {
-        "fingerprint": "02897bb2cbd3277d46f5d3ccc35dc0846befc247186fcbcc946a71940834398b",
-        "media_fingerprint": "99abe24c4b4c25752be041592ba44477495438b195801e757a6b9ae5afda2b40",
-        "text": "",
-        "original_username": "behzistikomitenews",
-        "original_text": "",
-        "original_link": "https://t.me/BehzistiKomiteNews/13962",
-        "post_id": 13962,
-        "message_id": 8076,
-        "message_kind": "caption",
-        "sources": [
-          "behzistikomitenews"
-        ],
-        "created_at": "2026-10-10T11:46:51.497136+00:00"
-      },
-      {
-        "fingerprint": "6385553dcb2fedff8235152361bf6bf0eda37051d0b0f7cccb0bf76e919eff27",
-        "media_fingerprint": "55f902caf162955d076d978cbde157e68abf0bcde897b5881cb07c647fc96eb2",
-        "text": "📊\nتیم‌هایی که علیپور مقابلشون گلزنی کرده؛\nعلی علیپور دیروز به رکورد ۹۷ گل برای پرسپولیس رسید و با ۵۷ گل دیگر تبدیل به بهترین گلزن تاریخ باشگاه پرسپولیس خواهد شد.\n🔘\n@Persiana_Pluss",
-        "original_username": "persiana_pluss",
-        "original_text": "📊\nتیم‌هایی که علیپور مقابلشون گلزنی کرده؛\nعلی علیپور دیروز به رکورد ۹۷ گل برای پرسپولیس رسید و با ۵۷ گل دیگر تبدیل به بهترین گلزن تاریخ باشگاه پرسپولیس خواهد شد.\n🔘\n@Persiana_Pluss",
-        "original_link": "https://t.me/Persiana_Pluss/6139",
-        "post_id": 6139,
-        "message_id": 8077,
-        "message_kind": "caption",
-        "sources": [
-          "persiana_pluss"
-        ],
-        "created_at": "2026-10-10T11:46:55.925565+00:00"
-      },
-      {
-        "fingerprint": "2c893cfa5376ebde06bab6748840fc60793a1325fb7748357e26defa9d22c7bc",
-        "media_fingerprint": "a698e61662c5e056f9c8f45a2f17c8856a84cb45a79d66a028e8aa4bc392d604",
-        "text": "♎️\nتعادل بدنت را تمرین بده\n☯️\nتمرین‌های تعادلی فقط مخصوص سالمندان نیستند. ایستادن روی یک پا، حرکات کنترل‌شده و تمرین‌های ساده تعادلی می‌توانند هماهنگی عضلات و کنترل بدن را در هر سنی بهبود دهند.\n🌐\nwww.cdc.gov/physicalactivity/\n#ورزش_و_تندرستی\n#تمرین_تعادل\n🖥\n@Dr_SalamatX",
-        "original_username": "dr_salamatx",
-        "original_text": "♎️\nتعادل بدنت را تمرین بده\n☯️\nتمرین‌های تعادلی فقط مخصوص سالمندان نیستند. ایستادن روی یک پا، حرکات کنترل‌شده و تمرین‌های ساده تعادلی می‌توانند هماهنگی عضلات و کنترل بدن را در هر سنی بهبود دهند.\n🌐\nwww.cdc.gov/physicalactivity/\n#ورزش_و_تندرستی\n#تمرین_تعادل\n🖥\n@Dr_SalamatX",
-        "original_link": "https://t.me/Dr_SalamatX/55378",
-        "post_id": 55378,
-        "message_id": 8078,
-        "message_kind": "caption",
-        "sources": [
-          "dr_salamatx"
-        ],
-        "created_at": "2026-10-10T11:47:00.531624+00:00"
-      },
-      {
-        "fingerprint": "62d66897f211177200343575747e436424947c23901d93090e90acddb91a8be0",
-        "media_fingerprint": "a6a21861229d75c99e5be41cac4c8ac22fb815b6c1f41936c12a8f25d04cf21d",
-        "text": "🆔\n@YeJoorayi",
-        "original_username": "yejoorayi",
-        "original_text": "🆔\n@YeJoorayi",
-        "original_link": "https://t.me/YeJoorayi/532",
-        "post_id": 532,
-        "message_id": 8079,
-        "message_kind": "caption",
-        "sources": [
-          "yejoorayi"
-        ],
-        "created_at": "2026-10-10T11:47:04.458202+00:00"
-      },
-      {
-        "fingerprint": "93413fc48b746cea5819f1bcae0e3410768024a244997447a302885e182d6199",
-        "media_fingerprint": "1ac7de7d3fcad55a4d16fe7340575a0459dd1a7ae51fd92a7b8e5082619d88c1",
-        "text": "دوستانی که فروشگاه استارز یا تلگرام پریمیوم دارن میتونن کارشون رو کاملا اتوماتیک و آنی بکنن.\nبخش api به پلتفرم\npremium stars\nاضافه شد.\nبر روی پروفایل خود کلیک کنید و سپس بخش API را انتخاب کنید.\nکلید خود را بسازید و مستندات را به ایجنت یا برنامه نویس خود بدهید.\n@PremiumAndStarBot\nقابلیت ها:\n• خرید استارز\n• خرید یوزرنیم\n• خرید گیفت ان اف تی\n• خرید تلگرام پریمیوم",
-        "original_username": "techtube",
-        "original_text": "دوستانی که فروشگاه استارز یا تلگرام پریمیوم دارن میتونن کارشون رو کاملا اتوماتیک و آنی بکنن.\nبخش api به پلتفرم\npremium stars\nاضافه شد.\nبر روی پروفایل خود کلیک کنید و سپس بخش API را انتخاب کنید.\nکلید خود را بسازید و مستندات را به ایجنت یا برنامه نویس خود بدهید.\n@PremiumAndStarBot\nقابلیت ها:\n• خرید استارز\n• خرید یوزرنیم\n• خرید گیفت ان اف تی\n• خرید تلگرام پریمیوم",
-        "original_link": "https://t.me/TechTube/18481",
-        "post_id": 18481,
-        "message_id": 8080,
-        "message_kind": "caption",
-        "sources": [
-          "techtube"
-        ],
-        "created_at": "2026-10-10T11:47:09.352650+00:00"
-      },
-      {
-        "fingerprint": "19481e0c77b0a73f9d86424875814282479da4be53fa57e4af186c0cc8db5832",
-        "media_fingerprint": "",
-        "text": "#اختصاصی مسئولان فجر میخوان خطیبی رو اخراج کنن   خطیبی هم داره از تهران لابی میکنه\n🆔\n@footballvision2",
-        "original_username": "footballvision2",
-        "original_text": "#اختصاصی مسئولان فجر میخوان خطیبی رو اخراج کنن   خطیبی هم داره از تهران لابی میکنه\n🆔\n@footballvision2",
-        "original_link": "https://t.me/footballvision2/170925",
-        "post_id": 170925,
-        "message_id": 8081,
-        "message_kind": "text",
-        "sources": [
-          "footballvision2"
-        ],
-        "created_at": "2026-10-10T11:47:11.918867+00:00"
-      },
-      {
-        "fingerprint": "4880a1889e2b1333b0b14f81f2bbe7b0a709af76239d846496fcbf049c6a6d7f",
-        "media_fingerprint": "",
-        "text": "♦️\n۵۷ پژوهشگر دانشگاه شیراز در جمع ۲ درصد پراستناد جهان قرار گرفتند\n🔹\nنام ۵۷ پژوهشگر دانشگاه شیراز در فهرست پژوهشگران پراستناد ۲ درصد برتر جهان در سال ۲۰۲۶ قرار گرفت؛ فهرستی بین‌المللی که بر اساس شاخص‌های استنادی پایگاه اسکوپوس و با انتشار گزارش سالانه مؤسسه الزویر تهیه شده است.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\n۵۷ پژوهشگر دانشگاه شیراز در جمع ۲ درصد پراستناد جهان قرار گرفتند\n🔹\nنام ۵۷ پژوهشگر دانشگاه شیراز در فهرست پژوهشگران پراستناد ۲ درصد برتر جهان در سال ۲۰۲۶ قرار گرفت؛ فهرستی بین‌المللی که بر اساس شاخص‌های استنادی پایگاه اسکوپوس و با انتشار گزارش سالانه مؤسسه الزویر تهیه شده است.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143419",
-        "post_id": 143419,
-        "message_id": 8082,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-10T11:47:14.815800+00:00"
-      },
-      {
-        "fingerprint": "575284842319f379cc6677c624eb8bbc63e7d301fac4c914e6f730fbcf84a69e",
-        "media_fingerprint": "4f7481d2717b5fa520e63660a91c8f6cb213916922bf1790bd0a50cace4e3bd0",
-        "text": "از لیگ برتر تا دانشگاه هاروارد\n🎓\nسیمونز دانشجو شد\n🔵\nبه نقل از فوت مرکاتو، ژاوی سیمونز که آوریل امسال دچار پارگی رباط صلیبی شد، تصمیم گرفته از دوران نقاهت خود برای یادگیری و پیشرفت استفاده کند.\n📚\nستاره هلندی در دانشگاه هاروارد پذیرفته شده و در دوره‌های آنلاین این دانشگاه شرکت می‌کند؛ دوره‌هایی که با هدف کمک به ورزشکاران حرفه‌ای برای توسعه مهارت‌های کسب‌وکار و پیشبرد پروژه‌های کارآفرینی طراحی شده‌اند.\n@Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "از لیگ برتر تا دانشگاه هاروارد\n🎓\nسیمونز دانشجو شد\n🔵\nبه نقل از فوت مرکاتو، ژاوی سیمونز که آوریل امسال دچار پارگی رباط صلیبی شد، تصمیم گرفته از دوران نقاهت خود برای یادگیری و پیشرفت استفاده کند.\n📚\nستاره هلندی در دانشگاه هاروارد پذیرفته شده و در دوره‌های آنلاین این دانشگاه شرکت می‌کند؛ دوره‌هایی که با هدف کمک به ورزشکاران حرفه‌ای برای توسعه مهارت‌های کسب‌وکار و پیشبرد پروژه‌های کارآفرینی طراحی شده‌اند.\n@Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/109537",
-        "post_id": 109537,
-        "message_id": 8083,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-10T11:47:19.321399+00:00"
-      },
-      {
-        "fingerprint": "301bcd67a9b52499528694c64c65062f7d711d7b12192cf27e7e53148587939f",
-        "media_fingerprint": "",
-        "text": "🏠\nرئیس بنیاد مسکن انقلاب اسلامی: سقف وام مسکن روستایی به یک میلیارد و ۱۰۰ میلیون تومان رسید\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🏠\nرئیس بنیاد مسکن انقلاب اسلامی: سقف وام مسکن روستایی به یک میلیارد و ۱۰۰ میلیون تومان رسید\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/23167",
-        "post_id": 23167,
-        "message_id": 8084,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-10T11:47:21.944812+00:00"
-      },
-      {
-        "fingerprint": "9ee5d468a5b11d7cd6ac4eadd33a28740ea3ed9a89d7a1982be866d67517f2d6",
-        "media_fingerprint": "e6cbc55b33c02bf01bc21684db3ca9fc528aaba70bc8529d209bb0cfcf87c8e4",
-        "text": "🔸\nآرسنال - لیدز\n🔸\n🔸\nلیگ برتر انگلیس\n🔗\nپخش زنده ساعت ۱۵:۰۰ در فوتبال ۳۶۰  @Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "🔸\nآرسنال - لیدز\n🔸\n🔸\nلیگ برتر انگلیس\n🔗\nپخش زنده ساعت ۱۵:۰۰ در فوتبال ۳۶۰  @Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/109538",
-        "post_id": 109538,
-        "message_id": 8085,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-10T11:47:28.861305+00:00"
-      },
-      {
-        "fingerprint": "45e974d75ed628e03b30f4773c78e2632b685504b092a299c067913481a3719d",
-        "media_fingerprint": "4aa6d0c8bf6df48417c07ca9fd11f3bf478c745f20643df145a3f51042fe9200",
-        "text": "فیلم وایرال شده از افتتاحیه یک نمایشگاه در شیراز:\nباور کنید اگه ننویسه ایران من فکر میکنم خارجه\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "فیلم وایرال شده از افتتاحیه یک نمایشگاه در شیراز:\nباور کنید اگه ننویسه ایران من فکر میکنم خارجه\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/3214",
-        "post_id": 3214,
-        "message_id": 8086,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-10T11:47:44.434956+00:00"
-      },
-      {
-        "fingerprint": "ce3e5e7ae06c404944f6e6b25854923ca62a339b1ae5bb11d78b9c6a375b41cf",
-        "media_fingerprint": "a60214ae724864501fd70d458166cc9312ac31e5422bfd6a58556e10670272ee",
-        "text": "حاصل ۶۰ سال تحصیل و دو مدرک دکتری این نود ثانیه از مفهوم زندگی است که میبینید\n🫴🏻\n💆🏻‍♀️\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "حاصل ۶۰ سال تحصیل و دو مدرک دکتری این نود ثانیه از مفهوم زندگی است که میبینید\n🫴🏻\n💆🏻‍♀️\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159688",
-        "post_id": 159688,
-        "message_id": 8087,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann",
-          "irwonders"
-        ],
-        "created_at": "2026-10-10T11:47:51.392410+00:00"
-      },
       {
         "fingerprint": "177922bc59f7bea42284d08bb17f2bde1bcb78b994c0b055c5814fb345676c32",
         "media_fingerprint": "",
@@ -34674,7 +34493,8 @@
         "message_id": 9104,
         "message_kind": "text",
         "sources": [
-          "akhbar_cafenet"
+          "akhbar_cafenet",
+          "akhbarfars"
         ],
         "created_at": "2026-10-13T13:01:50.950607+00:00"
       },
@@ -35384,6 +35204,201 @@
           "akhbarfars"
         ],
         "created_at": "2026-10-13T14:56:19.815160+00:00"
+      },
+      {
+        "fingerprint": "99f259f4cb3890816c46cce822376442c210c3a05c41927f853b09abfa109c3e",
+        "media_fingerprint": "1d3de8d2def38fc2a72d0bc84287781cc433802648b0bca2d32f1130d5338dea",
+        "text": "دانشمندان دستگاهی قابل تزریق به بدن ساختند که می‌تواند درد مزمن را بهبود دهد\n!\n◽️\nپژوهشگران ابوظبی دستگاهی بی‌سیم و به‌اندازه یک دانه بسیار کوچک ساخته‌اند که می‌توان آن را بدون جراحی به بدن تزریق کرد تا فعالیت عصب‌های مشخص را کنترل کند. این فناوری با ارسال سیگنال‌های الکتریکی قابل تنظیم، می‌تواند در آینده به درمان درد مزمن و اختلالات حرکتی کمک کند.\n◽️\nاین دستگاه کوچک در نزدیکی عصب هدف قرار می‌گیرد و بدون نیاز به باتری یا سیم، سیگنال‌های الکتریکی دقیقی به آن می‌فرستد. انرژی موردنیاز دستگاه از بیرون بدن و به‌صورت بی‌سیم تأمین می‌شود. پزشکان یا بیماران نیز می‌توانند شدت تحریک الکتریکی را در لحظه تنظیم کنند.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "دانشمندان دستگاهی قابل تزریق به بدن ساختند که می‌تواند درد مزمن را بهبود دهد\n!\n◽️\nپژوهشگران ابوظبی دستگاهی بی‌سیم و به‌اندازه یک دانه بسیار کوچک ساخته‌اند که می‌توان آن را بدون جراحی به بدن تزریق کرد تا فعالیت عصب‌های مشخص را کنترل کند. این فناوری با ارسال سیگنال‌های الکتریکی قابل تنظیم، می‌تواند در آینده به درمان درد مزمن و اختلالات حرکتی کمک کند.\n◽️\nاین دستگاه کوچک در نزدیکی عصب هدف قرار می‌گیرد و بدون نیاز به باتری یا سیم، سیگنال‌های الکتریکی دقیقی به آن می‌فرستد. انرژی موردنیاز دستگاه از بیرون بدن و به‌صورت بی‌سیم تأمین می‌شود. پزشکان یا بیماران نیز می‌توانند شدت تحریک الکتریکی را در لحظه تنظیم کنند.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38724",
+        "post_id": 38724,
+        "message_id": 9153,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-13T15:23:04.288230+00:00"
+      },
+      {
+        "fingerprint": "ad3dc14eace667fa35968ca3e153147ef487f27a69e3754f27b4bafdc111745f",
+        "media_fingerprint": "",
+        "text": "وضعیت مدرسه ها انقدر دارک وحشتناکه که یه فوبیا دیگه باید داشته باشیم بچمون بگا نره :)))))\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "وضعیت مدرسه ها انقدر دارک وحشتناکه که یه فوبیا دیگه باید داشته باشیم بچمون بگا نره :)))))\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48356",
+        "post_id": 48356,
+        "message_id": 9154,
+        "message_kind": "text",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-13T15:23:06.995867+00:00"
+      },
+      {
+        "fingerprint": "3f14a72308135ae3bac4dadcedc517d06d5e7c26867e1f5d345d2e5e5fd884ab",
+        "media_fingerprint": "",
+        "text": "♦️\nکشف ۲۹ دستگاه ماينر غيرمجاز در خرامه\nفرمانده انتظامی شهرستان خرامه:\n🔹️\nدر پی کسب خبري مبني بر فعاليت غيرمجاز دستگاه‌های ارز دیجیتال در منزلی در يکي از محلات  این شهرستان، بررسي موضوع  در دستور کار ماموران انتظامي قرار گرفت.\n🔹\nماموران در بازرسي از آن مکان، ۲۹ دستگاه ماينر غيرمجاز را کشف کردند.\n🔹️\nارزش ماينرهاي کشف شده برابر نظر کارشناسان ۵۰ ميليارد ريال برآورد شده است؛ در اين خصوص يک نفر دستگير شد .\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nکشف ۲۹ دستگاه ماينر غيرمجاز در خرامه\nفرمانده انتظامی شهرستان خرامه:\n🔹️\nدر پی کسب خبري مبني بر فعاليت غيرمجاز دستگاه‌های ارز دیجیتال در منزلی در يکي از محلات  این شهرستان، بررسي موضوع  در دستور کار ماموران انتظامي قرار گرفت.\n🔹\nماموران در بازرسي از آن مکان، ۲۹ دستگاه ماينر غيرمجاز را کشف کردند.\n🔹️\nارزش ماينرهاي کشف شده برابر نظر کارشناسان ۵۰ ميليارد ريال برآورد شده است؛ در اين خصوص يک نفر دستگير شد .\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143657",
+        "post_id": 143657,
+        "message_id": 9155,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-13T15:23:10.131533+00:00"
+      },
+      {
+        "fingerprint": "29434134ce46abb4c2119384de0a99e2b9feb76544f34d677835d91bcbe4aa86",
+        "media_fingerprint": "",
+        "text": "🤩\n#اختصاصی_هتریک\n⚽\nترکیب پرسپولیس در دیدار فردا مقابل خیبرخرم آباد از نگاه هتریک:\n🔴\nسیستم پایه: 442\n🔴\nپیام نیازمند\n🔴\nمجید عیدی\n🔴\nمحمد مهدی‌زارع\n🔴\nحسین ابرقویی\n🔴\nمهدی تیکدری‌نژاد\n🔴\nمحمد خدابنده‌لو\n🔴\nپویا پورعلی\n🔴\nاوستون اورونوف\n🔴\nمحمد مهدی محبی\n🔴\nعلی علیپور\n🔴\nایگور سرگیف\n❌\nپ‌ن: تیوی بیفوما به دلیل سرماخوردگی کار را از روی نیمکت آغاز خواهد کرد و برخلاف شایعات مشکل او مصدومیت نیست.\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "🤩\n#اختصاصی_هتریک\n⚽\nترکیب پرسپولیس در دیدار فردا مقابل خیبرخرم آباد از نگاه هتریک:\n🔴\nسیستم پایه: 442\n🔴\nپیام نیازمند\n🔴\nمجید عیدی\n🔴\nمحمد مهدی‌زارع\n🔴\nحسین ابرقویی\n🔴\nمهدی تیکدری‌نژاد\n🔴\nمحمد خدابنده‌لو\n🔴\nپویا پورعلی\n🔴\nاوستون اورونوف\n🔴\nمحمد مهدی محبی\n🔴\nعلی علیپور\n🔴\nایگور سرگیف\n❌\nپ‌ن: تیوی بیفوما به دلیل سرماخوردگی کار را از روی نیمکت آغاز خواهد کرد و برخلاف شایعات مشکل او مصدومیت نیست.\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/84851",
+        "post_id": 84851,
+        "message_id": 9156,
+        "message_kind": "text",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-13T15:23:13.213350+00:00"
+      },
+      {
+        "fingerprint": "679486175b74d98e0688cb0f551b4e4bc41b3cca5f181be195e4de8a240240e1",
+        "media_fingerprint": "492a24009bf68099cd7257c21a280a9a6d48ad4787eb58e7bab8a455830b85a0",
+        "text": "از صنف های دیگم اومدن کمکمون\n😂\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "از صنف های دیگم اومدن کمکمون\n😂\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23332",
+        "post_id": 23332,
+        "message_id": 9157,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-13T15:23:17.573898+00:00"
+      },
+      {
+        "fingerprint": "ecdb7302ce049fdb318430369be6ee62c936fe5aba82d1fb3b3a3233d5187e85",
+        "media_fingerprint": "a65526fb7448443b96dc919d5e34dbc668a7729fb1ea337254fca7e8de513b44",
+        "text": "🔻\nاگه گوشی سامسونگت همش شارژ خالی میکنه باتریش خراب نشده فقط کشش پر شده!\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "🔻\nاگه گوشی سامسونگت همش شارژ خالی میکنه باتریش خراب نشده فقط کشش پر شده!\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/159788",
+        "post_id": 159788,
+        "message_id": 9158,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-13T15:23:24.375954+00:00"
+      },
+      {
+        "fingerprint": "a0223955692ff31191c921b1d3f53424d80461ae8e215ff1b0d224f8f13a482e",
+        "media_fingerprint": "e224987d846efbfb7d2cc2d052fd751b0738965ce1292da1946c32fd3c6f5d50",
+        "text": "تاریخ را فاتحان می‌نویسند\nاما این روایتِ مردمانِ مغلوب است\n⏳\n۳ روز دیگر تا شروع سریال\n#سرخ_و_سیاه\n🎬\nسریال «سرخ و سیاه»، جمعه ۲۴ مهرماه، به‎‌صورت اختصاصی در\n#فیلیمو\nکارگردان: آیدا پناهنده\nنویسندگان: ارسلان امیری و آیدا پناهنده\nتهیه‌کنندگان: محمد یمینی و محسن خباز\n@BajeFilm",
+        "original_username": "bajefilm",
+        "original_text": "تاریخ را فاتحان می‌نویسند\nاما این روایتِ مردمانِ مغلوب است\n⏳\n۳ روز دیگر تا شروع سریال\n#سرخ_و_سیاه\n🎬\nسریال «سرخ و سیاه»، جمعه ۲۴ مهرماه، به‎‌صورت اختصاصی در\n#فیلیمو\nکارگردان: آیدا پناهنده\nنویسندگان: ارسلان امیری و آیدا پناهنده\nتهیه‌کنندگان: محمد یمینی و محسن خباز\n@BajeFilm",
+        "original_link": "https://t.me/bajefilm/11637",
+        "post_id": 11637,
+        "message_id": 9159,
+        "message_kind": "caption",
+        "sources": [
+          "bajefilm"
+        ],
+        "created_at": "2026-10-13T15:23:32.222706+00:00"
+      },
+      {
+        "fingerprint": "62ae46e9146fd3069cd9750613bae2bea5a5dbd6fc930941db147823d19265c2",
+        "media_fingerprint": "d13e39f8b85668c30a706c5a4d5ba610674107360800dfd23a769919835a1951",
+        "text": "🎖️\n⚽️\nنمرات‌ درخشان‌ رودری‌دستاره 30 ساله بارسلونا در فصل جدید باپیراهن آبی اناری‌ها و تیم ملی اسپانیا.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
+        "original_username": "totalfut_plus",
+        "original_text": "🎖️\n⚽️\nنمرات‌ درخشان‌ رودری‌دستاره 30 ساله بارسلونا در فصل جدید باپیراهن آبی اناری‌ها و تیم ملی اسپانیا.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
+        "original_link": "https://t.me/totalfut_plus/26753",
+        "post_id": 26753,
+        "message_id": 9160,
+        "message_kind": "caption",
+        "sources": [
+          "totalfut_plus"
+        ],
+        "created_at": "2026-10-13T15:23:36.567967+00:00"
+      },
+      {
+        "fingerprint": "64f8463d06d061aeadc7e6d53af6ec86b6512f9b49eaa662a69883fadd36ce36",
+        "media_fingerprint": "4ffe4c3d1d2f5f75c6cdf3da1e61e2d17920317a2d82f4a8805ce6cbcfa39bae",
+        "text": "🔴\nیه یارویی اومده خواننده‌ی خوش صدای کشورمون، امیرمحمد (سِنی نردن گوردوم) رو نشونده پشت خودش تَرک موتور؛\nبعد این بنده خدا انقد خایه کرده که نیفته یا باد نبرتش که عین کمربند چسبیده به راننده :\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nیه یارویی اومده خواننده‌ی خوش صدای کشورمون، امیرمحمد (سِنی نردن گوردوم) رو نشونده پشت خودش تَرک موتور؛\nبعد این بنده خدا انقد خایه کرده که نیفته یا باد نبرتش که عین کمربند چسبیده به راننده :\n@DrTeL",
+        "original_link": "https://t.me/drtel/67673",
+        "post_id": 67673,
+        "message_id": 9161,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-13T15:23:43.272108+00:00"
+      },
+      {
+        "fingerprint": "fca994a390c6653a6ebbe414445bac29738051fca39c83cf83ab82ea5f6738bb",
+        "media_fingerprint": "",
+        "text": "⚽\nعیادت مدیران باشگاه پرسپولیس از علی افچنگی، هوادار باسابقه و توانیاب سرخ‌پوشان در سبزوار؛ دیداری که با گفت‌وگوی تصویری دکتر پیمان حدادی، مدیرعامل باشگاه، همراه شد.\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "⚽\nعیادت مدیران باشگاه پرسپولیس از علی افچنگی، هوادار باسابقه و توانیاب سرخ‌پوشان در سبزوار؛ دیداری که با گفت‌وگوی تصویری دکتر پیمان حدادی، مدیرعامل باشگاه، همراه شد.\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/84852",
+        "post_id": 84852,
+        "message_id": 9162,
+        "message_kind": "text",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-13T15:23:46.703371+00:00"
+      },
+      {
+        "fingerprint": "4b22a1071f1a61f3e98206e6523426270b21ac1c2113c9c98687ee677ed36fb4",
+        "media_fingerprint": "d58d52ab75c598cba93ce5989f3706e5f48e744347e57a11251ba15aa89de6ea",
+        "text": "میلی بابی براون\nکی وقت کرد انقدر بزرگ بشه\n🍒\n📷\n|\n@ShakhMovie",
+        "original_username": "shakhmovie",
+        "original_text": "میلی بابی براون\nکی وقت کرد انقدر بزرگ بشه\n🍒\n📷\n|\n@ShakhMovie",
+        "original_link": "https://t.me/Shakhmovie/4154",
+        "post_id": 4154,
+        "message_id": 9163,
+        "message_kind": "caption",
+        "sources": [
+          "shakhmovie"
+        ],
+        "created_at": "2026-10-13T15:24:02.355174+00:00"
+      },
+      {
+        "fingerprint": "0c473ff9e77c85f5467fc6067dab9e688a29764a9fb5791e412c09eb792e6425",
+        "media_fingerprint": "410b6f4a0357ec31abed6eb484b16162e3b007fe1bb3378fbf02363cccb04633",
+        "text": "اینو ببین تا هروقت پارتنرت این کارارو انجام داد بدونی باید چیکار کنی.\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "اینو ببین تا هروقت پارتنرت این کارارو انجام داد بدونی باید چیکار کنی.\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/3429",
+        "post_id": 3429,
+        "message_id": 9164,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-13T15:24:06.541960+00:00"
+      },
+      {
+        "fingerprint": "b18e818a4de8d656efb81458be421492f25717f37c31b44ec4807916a8df8863",
+        "media_fingerprint": "36c2611e8493d1b8c38f9b1fd75bc1a58b887b252a4c51566c2f4f7245bdead3",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26485",
+        "post_id": 26485,
+        "message_id": 9165,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-13T15:24:10.427760+00:00"
       }
     ]
   }
