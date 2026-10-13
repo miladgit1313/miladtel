@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143688,
+      "last_id": 143690,
       "processed_ids": [
-        142558,
-        142559,
         142560,
         142561,
         142562,
@@ -1002,14 +1000,15 @@
         143685,
         143686,
         143687,
-        143688
+        143688,
+        143689,
+        143690
       ],
       "sent_count": 962
     },
     "total_fut": {
-      "last_id": 237918,
+      "last_id": 237919,
       "processed_ids": [
-        236855,
         236856,
         236857,
         236858,
@@ -2008,23 +2007,14 @@
         237915,
         237916,
         237917,
-        237918
+        237918,
+        237919
       ],
       "sent_count": 135
     },
     "footballvision2": {
-      "last_id": 171303,
+      "last_id": 171315,
       "processed_ids": [
-        170179,
-        170185,
-        170186,
-        170187,
-        170188,
-        170189,
-        170190,
-        170191,
-        170192,
-        170193,
         170194,
         170195,
         170196,
@@ -3014,7 +3004,17 @@
         171300,
         171301,
         171302,
-        171303
+        171303,
+        171304,
+        171306,
+        171308,
+        171309,
+        171310,
+        171311,
+        171312,
+        171313,
+        171314,
+        171315
       ],
       "sent_count": 141
     },
@@ -3341,7 +3341,7 @@
       "sent_count": 10
     },
     "drtel": {
-      "last_id": 67680,
+      "last_id": 67681,
       "processed_ids": [
         66561,
         66565,
@@ -4211,9 +4211,10 @@
         67677,
         67678,
         67679,
-        67680
+        67680,
+        67681
       ],
-      "sent_count": 489
+      "sent_count": 490
     },
     "techtube": {
       "last_id": 18519,
@@ -5337,7 +5338,7 @@
       "sent_count": 140
     },
     "akhbar_cafenet": {
-      "last_id": 23339,
+      "last_id": 23341,
       "processed_ids": [
         22432,
         22433,
@@ -6190,7 +6191,9 @@
         23336,
         23337,
         23338,
-        23339
+        23339,
+        23340,
+        23341
       ],
       "sent_count": 458
     },
@@ -7023,14 +7026,8 @@
       "sent_count": 174
     },
     "gizmiztel": {
-      "last_id": 163226,
+      "last_id": 163232,
       "processed_ids": [
-        162104,
-        162105,
-        162106,
-        162107,
-        162108,
-        162110,
         162111,
         162112,
         162117,
@@ -8024,9 +8021,15 @@
         163223,
         163224,
         163225,
-        163226
+        163226,
+        163227,
+        163228,
+        163229,
+        163230,
+        163231,
+        163232
       ],
-      "sent_count": 813
+      "sent_count": 817
     },
     "dr_salamatx": {
       "last_id": 55397,
@@ -8734,7 +8737,7 @@
       "sent_count": 290
     },
     "ajayebe_jahann": {
-      "last_id": 159802,
+      "last_id": 159804,
       "processed_ids": [
         158956,
         158957,
@@ -9563,7 +9566,9 @@
         159799,
         159800,
         159801,
-        159802
+        159802,
+        159803,
+        159804
       ],
       "sent_count": 332
     },
@@ -9764,22 +9769,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109981,
+      "last_id": 109995,
       "processed_ids": [
-        108903,
-        108904,
-        108914,
-        108915,
-        108916,
-        108917,
-        108918,
-        108919,
-        108920,
-        108921,
-        108922,
-        108923,
-        108924,
-        108925,
         108926,
         108927,
         108928,
@@ -10765,23 +10756,27 @@
         109978,
         109979,
         109980,
-        109981
+        109981,
+        109982,
+        109983,
+        109984,
+        109985,
+        109986,
+        109987,
+        109988,
+        109989,
+        109990,
+        109991,
+        109992,
+        109993,
+        109994,
+        109995
       ],
-      "sent_count": 156
+      "sent_count": 159
     },
     "varzesh3": {
-      "last_id": 304020,
+      "last_id": 304030,
       "processed_ids": [
-        302928,
-        302929,
-        302930,
-        302931,
-        302932,
-        302933,
-        302934,
-        302935,
-        302936,
-        302937,
         302938,
         302939,
         302940,
@@ -11771,12 +11766,22 @@
         304017,
         304018,
         304019,
-        304020
+        304020,
+        304021,
+        304022,
+        304023,
+        304024,
+        304025,
+        304026,
+        304027,
+        304028,
+        304029,
+        304030
       ],
-      "sent_count": 96
+      "sent_count": 98
     },
     "totalfut_plus": {
-      "last_id": 26758,
+      "last_id": 26759,
       "processed_ids": [
         25870,
         25871,
@@ -12637,15 +12642,14 @@
         26755,
         26756,
         26757,
-        26758
+        26758,
+        26759
       ],
       "sent_count": 61
     },
     "adak_ir_official": {
-      "last_id": 235333,
+      "last_id": 235335,
       "processed_ids": [
-        234305,
-        234306,
         234307,
         234308,
         234309,
@@ -13643,32 +13647,15 @@
         235330,
         235331,
         235332,
-        235333
+        235333,
+        235334,
+        235335
       ],
       "sent_count": 205
     },
     "futball180tv": {
-      "last_id": 108587,
+      "last_id": 108606,
       "processed_ids": [
-        107555,
-        107556,
-        107557,
-        107558,
-        107559,
-        107560,
-        107561,
-        107562,
-        107563,
-        107564,
-        107565,
-        107566,
-        107567,
-        107568,
-        107569,
-        107570,
-        107571,
-        107572,
-        107573,
         107574,
         107575,
         107576,
@@ -14649,14 +14636,32 @@
         108584,
         108585,
         108586,
-        108587
+        108587,
+        108588,
+        108589,
+        108590,
+        108591,
+        108592,
+        108593,
+        108594,
+        108595,
+        108596,
+        108597,
+        108598,
+        108599,
+        108600,
+        108601,
+        108602,
+        108603,
+        108604,
+        108605,
+        108606
       ],
-      "sent_count": 99
+      "sent_count": 101
     },
     "hattric_official": {
-      "last_id": 84870,
+      "last_id": 84871,
       "processed_ids": [
-        83811,
         83812,
         83813,
         83814,
@@ -15655,9 +15660,10 @@
         84867,
         84868,
         84869,
-        84870
+        84870,
+        84871
       ],
-      "sent_count": 138
+      "sent_count": 139
     },
     "mazdak_hattrick": {
       "last_id": 182571,
@@ -16377,7 +16383,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58679,
+      "last_id": 58681,
       "processed_ids": [
         58030,
         58031,
@@ -16971,9 +16977,11 @@
         58676,
         58677,
         58678,
-        58679
+        58679,
+        58680,
+        58681
       ],
-      "sent_count": 376
+      "sent_count": 377
     },
     "razcom": {
       "last_id": 70496,
@@ -18562,7 +18570,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 307007,
+      "last_id": 307009,
       "processed_ids": [
         306563,
         306564,
@@ -19000,7 +19008,9 @@
         307004,
         307005,
         307006,
-        307007
+        307007,
+        307008,
+        307009
       ],
       "sent_count": 190
     },
@@ -19593,7 +19603,7 @@
       "sent_count": 75
     },
     "peach_tweet": {
-      "last_id": 3432,
+      "last_id": 3434,
       "processed_ids": [
         2745,
         2749,
@@ -19939,12 +19949,13 @@
         3429,
         3430,
         3431,
-        3432
+        3432,
+        3434
       ],
       "sent_count": 197
     },
     "funy_khand": {
-      "last_id": 25845,
+      "last_id": 25847,
       "processed_ids": [
         25704,
         25705,
@@ -20087,7 +20098,9 @@
         25842,
         25843,
         25844,
-        25845
+        25845,
+        25846,
+        25847
       ],
       "sent_count": 0
     },
@@ -20321,7 +20334,7 @@
       "sent_count": 7
     },
     "ghandeharipoet": {
-      "last_id": 42718,
+      "last_id": 42719,
       "processed_ids": [
         42693,
         42694,
@@ -20348,7 +20361,8 @@
         42715,
         42716,
         42717,
-        42718
+        42718,
+        42719
       ],
       "sent_count": 22
     },
@@ -20398,7 +20412,7 @@
       "sent_count": 31
     },
     "apkclub": {
-      "last_id": 72986,
+      "last_id": 72988,
       "processed_ids": [
         72962,
         72963,
@@ -20424,225 +20438,15 @@
         72983,
         72984,
         72985,
-        72986
+        72986,
+        72987,
+        72988
       ],
       "sent_count": 4
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "8181f505aa22b6e0e6e4f447ef64790db5986ff3a6c68a3a37b20844dc3bac24",
-        "media_fingerprint": "e77066acb10c9ce5cd5e8446a7489f3a3455a2177e7404c416acdde7e9a44560",
-        "text": "🔸\nبارسلونا [۱]-۰ ختافه\n🔸\n⚽️\nگوردون\n🔴\nدقیقه ۲\n🎞\nتماشای گل\n🔗\nپخش زنده در فوتبال ۳۶۰  @Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "🔸\nبارسلونا [۱]-۰ ختافه\n🔸\n⚽️\nگوردون\n🔴\nدقیقه ۲\n🎞\nتماشای گل\n🔗\nپخش زنده در فوتبال ۳۶۰  @Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/109621",
-        "post_id": 109621,
-        "message_id": 8183,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-10T17:17:05.879212+00:00"
-      },
-      {
-        "fingerprint": "5d8d1fe2b5089132943588418cb2686609576323c38069c9a7ba586d2efd23f5",
-        "media_fingerprint": "562bf5bf90ab74000b4ee35564c581db10606188baa896b6849b5b7a3ec305af",
-        "text": "🇪🇸\nگل‌دوم بارسلونا به ختافه توسط گابریل ژسوس\n⚽️\n@Futball180TV",
-        "original_username": "futball180tv",
-        "original_text": "🇪🇸\nگل‌دوم بارسلونا به ختافه توسط گابریل ژسوس\n⚽️\n@Futball180TV",
-        "original_link": "https://t.me/Futball180TV/108284",
-        "post_id": 108284,
-        "message_id": 8184,
-        "message_kind": "caption",
-        "sources": [
-          "futball180tv"
-        ],
-        "created_at": "2026-10-10T17:17:11.204523+00:00"
-      },
-      {
-        "fingerprint": "101ebee8af7ffccea2f8113b555b0ee65ed80b91501b9f75b375bd1ddaf68982",
-        "media_fingerprint": "381b9f62de0e33444d8e42d42f51408306465a79c2eb6579c50c870353d65c86",
-        "text": "مقصد امروز: گویلین، چین\n🇨🇳\n| Guilin, China\nدر جنوب چین، منطقه‌ای وجود دارد که کوه‌های سرسبز و قله‌های آهکی عجیبش، منظره‌ای شبیه دنیای افسانه‌ها ساخته‌اند؛ جایی که مه روی کوه‌ها می‌نشیند و رودخانه‌ها از میان طبیعتی تماشایی عبور می‌کنند.\n😍\n⛰️\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "مقصد امروز: گویلین، چین\n🇨🇳\n| Guilin, China\nدر جنوب چین، منطقه‌ای وجود دارد که کوه‌های سرسبز و قله‌های آهکی عجیبش، منظره‌ای شبیه دنیای افسانه‌ها ساخته‌اند؛ جایی که مه روی کوه‌ها می‌نشیند و رودخانه‌ها از میان طبیعتی تماشایی عبور می‌کنند.\n😍\n⛰️\n@irWonders",
-        "original_link": "https://t.me/irwonders/58560",
-        "post_id": 58560,
-        "message_id": 8185,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-10T17:17:18.079968+00:00"
-      },
-      {
-        "fingerprint": "eb5ce496e2cfd9b2ac2b6d9648b2c45f6789bf9cca054b9e43d8244f1bca542b",
-        "media_fingerprint": "4370530170444e299aa879b6ece3b30ab414ef9af0569592f7d0af2afccc1900",
-        "text": "🔴\nسازمان بهداشت جهانی : اکثر بیماران دیسک کمر بدون جراحی درمان میشود\n🔺\nتزریق گاز\nاوزون\nبدون هیچ عارضه به همراه\nلیرز\nاکسیژن رسانی به بافت را افزایش داده و باعث ترمیم آن میشود\n❌\nبدون بیهوشی و عمل جراحی\n📞\n09127370271\n☎️\n02126701272\n🆔\n@DrseyedamirMJ\n👈🏻\nآیدی مشاوره\n✅\nبه کانال سینوهه در تلگرام بپیوندید\n👇\n👇\nhttps://t.me/joinchat/AAAAAD93H-IdLmhm9MlqeQ\nآدرس وبسایت\nWww.dr-jamaly.com",
-        "original_username": "dr_salamatx",
-        "original_text": "🔴\nسازمان بهداشت جهانی : اکثر بیماران دیسک کمر بدون جراحی درمان میشود\n🔺\nتزریق گاز\nاوزون\nبدون هیچ عارضه به همراه\nلیرز\nاکسیژن رسانی به بافت را افزایش داده و باعث ترمیم آن میشود\n❌\nبدون بیهوشی و عمل جراحی\n📞\n09127370271\n☎️\n02126701272\n🆔\n@DrseyedamirMJ\n👈🏻\nآیدی مشاوره\n✅\nبه کانال سینوهه در تلگرام بپیوندید\n👇\n👇\nhttps://t.me/joinchat/AAAAAD93H-IdLmhm9MlqeQ\nآدرس وبسایت\nWww.dr-jamaly.com",
-        "original_link": "https://t.me/Dr_SalamatX/55379",
-        "post_id": 55379,
-        "message_id": 8186,
-        "message_kind": "caption",
-        "sources": [
-          "dr_salamatx",
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-10T17:45:55.640229+00:00"
-      },
-      {
-        "fingerprint": "19711912dc4f51584f6e8c94ffcdbb6ebf88c5b706fa7ba0d3c325c85a4bd49b",
-        "media_fingerprint": "874ac42bb527c8b93da4cb8d1f45b9f2c7adc21a75993dcd9386a3f54e44fbf3",
-        "text": "🆔\n@YeJoorayi",
-        "original_username": "yejoorayi",
-        "original_text": "🆔\n@YeJoorayi",
-        "original_link": "https://t.me/YeJoorayi/534",
-        "post_id": 534,
-        "message_id": 8187,
-        "message_kind": "caption",
-        "sources": [
-          "yejoorayi"
-        ],
-        "created_at": "2026-10-10T17:46:01.581408+00:00"
-      },
-      {
-        "fingerprint": "49a034dc452a4498701c2d4202cd2f6263e23aed1542bf240f8b15dc0291f30a",
-        "media_fingerprint": "504d2e7d15a3dc1497c31578b74930f854689f479dd2b0d105f541f3e2dbbb6c",
-        "text": "متاسفانه یه طوفان خورشیدی که بر اثر فعالیت های شراره‌های خورشید به‌وجود اومده و قراره طی روزهای آینده به زمین برسه و ممکنه اینترنت رو مختل کنه و کیفیت خواب آدما رو موقتاً بهم بریزه\n@Midanesti",
-        "original_username": "midanesti",
-        "original_text": "متاسفانه یه طوفان خورشیدی که بر اثر فعالیت های شراره‌های خورشید به‌وجود اومده و قراره طی روزهای آینده به زمین برسه و ممکنه اینترنت رو مختل کنه و کیفیت خواب آدما رو موقتاً بهم بریزه\n@Midanesti",
-        "original_link": "https://t.me/midanesti/73276",
-        "post_id": 73276,
-        "message_id": 8188,
-        "message_kind": "caption",
-        "sources": [
-          "midanesti"
-        ],
-        "created_at": "2026-10-10T17:46:06.220898+00:00"
-      },
-      {
-        "fingerprint": "76506b35a978fc9a83b351c2b171fcb787e624c1868d1dddaa44faf19850f40b",
-        "media_fingerprint": "26b8b7d99f5e247ddbde8f7b70c096b0143f5b25b6462a7c3ebf97631d7aef43",
-        "text": "🔴\nتصاویر نفتکش متخلف درحال سوختن\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "🔴\nتصاویر نفتکش متخلف درحال سوختن\n@irWonders",
-        "original_link": "https://t.me/irwonders/58562",
-        "post_id": 58562,
-        "message_id": 8189,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-10T17:46:12.006866+00:00"
-      },
-      {
-        "fingerprint": "c2c718f52afc51b9d852648a235533480e4f805b8589acafe7b92bd7a39a0341",
-        "media_fingerprint": "",
-        "text": "🔴\nفکت؛ بیفوما فصل گذشته در ۱۴ بازی برای پرسپولیس، ۱ گل، ۲ پاس گل داده بود و این فصل در ۷ بازی، ۲ گل، ۱ پاس گل داده و یک پنالتی هم کسب کرده است.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🔴\nفکت؛ بیفوما فصل گذشته در ۱۴ بازی برای پرسپولیس، ۱ گل، ۲ پاس گل داده بود و این فصل در ۷ بازی، ۲ گل، ۱ پاس گل داده و یک پنالتی هم کسب کرده است.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/235138",
-        "post_id": 235138,
-        "message_id": 8190,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official",
-          "mazdak_hattrick"
-        ],
-        "created_at": "2026-10-10T17:46:14.654463+00:00"
-      },
-      {
-        "fingerprint": "b68bcd930443f470e64b5642b5ad0daf72b1df14ec663d0371ea5b07fba04e1d",
-        "media_fingerprint": "8a11e2be744e6b5d836caa841e59f6ca4eec959fa491d3c99cb5f31e0b4ea357",
-        "text": "♦️\nشیراز مهیای پاسداشت خواجه اهل راز در بیستم مهرماه\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nشیراز مهیای پاسداشت خواجه اهل راز در بیستم مهرماه\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143436",
-        "post_id": 143436,
-        "message_id": 8191,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-10T17:46:22.559584+00:00"
-      },
-      {
-        "fingerprint": "96f627b0ec44db13e1c5eba753d71af42c4806e850ec6cd46203cd93c34e1c64",
-        "media_fingerprint": "",
-        "text": "از همکاران پروفایل کویر تایر ماشین پراید اگر کسی داشت به آی دی زیر ارسال کنه\n@Cafenet_Dorna",
-        "original_username": "akhbar_cafenet",
-        "original_text": "از همکاران پروفایل کویر تایر ماشین پراید اگر کسی داشت به آی دی زیر ارسال کنه\n@Cafenet_Dorna",
-        "original_link": "https://t.me/akhbar_cafenet/23179",
-        "post_id": 23179,
-        "message_id": 8192,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-10T17:46:25.154156+00:00"
-      },
-      {
-        "fingerprint": "82441369f798adbb8051cab168e64544cdb3cfae49f721eb8497fc479544ce0e",
-        "media_fingerprint": "7fe295f28ec016639e26619606adeaafc8cf604d909d7163ae3e22e3dce7d1ed",
-        "text": "❔\nمیخوای دیگه تو گشت‌و‌گذار اینترنتی محتواهای\n🔞\nبهت نمایش داده نشه؟!\n❗️\nاین افزونه بهت کمک می‌کنه از محتوای ناخواسته و نامناسب توی وب دور بمونی؛ با استفاده از فناوری تشخیص چهره و NSFW، این افزونه به صورت خودکار تصاویر و ویدیوهایی که مناسب نیستند رو تار می‌کنه.\n❗️\nنکته جالب این اکستنشن هم اینجاسن که خودت می‌تونی تنظیماتش رو شخصی‌سازی کنی؛ از نوع محتوایی که می‌خوای شناسایی بشه گرفته تا میزان محو شدن!\n🔄\nchrome\n|\n🐩\nfirefox\n|\n👨‍💻\nGitHub\n@RoidBest",
-        "original_username": "roidbest",
-        "original_text": "❔\nمیخوای دیگه تو گشت‌و‌گذار اینترنتی محتواهای\n🔞\nبهت نمایش داده نشه؟!\n❗️\nاین افزونه بهت کمک می‌کنه از محتوای ناخواسته و نامناسب توی وب دور بمونی؛ با استفاده از فناوری تشخیص چهره و NSFW، این افزونه به صورت خودکار تصاویر و ویدیوهایی که مناسب نیستند رو تار می‌کنه.\n❗️\nنکته جالب این اکستنشن هم اینجاسن که خودت می‌تونی تنظیماتش رو شخصی‌سازی کنی؛ از نوع محتوایی که می‌خوای شناسایی بشه گرفته تا میزان محو شدن!\n🔄\nchrome\n|\n🐩\nfirefox\n|\n👨‍💻\nGitHub\n@RoidBest",
-        "original_link": "https://t.me/RoidBest/21832",
-        "post_id": 21832,
-        "message_id": 8193,
-        "message_kind": "caption",
-        "sources": [
-          "roidbest"
-        ],
-        "created_at": "2026-10-10T17:46:29.413769+00:00"
-      },
-      {
-        "fingerprint": "ec1256e82ab5aa8e386aa5ed1c2f7f7b32104881e05fd72940ff5a9b80f24765",
-        "media_fingerprint": "d3d5b06714824b5944ac73095f4e791eb6de9364d0812c3f5d3b91e62d5301a0",
-        "text": "کتونیا و کفشاتو اینجوری خشك کن\n💚\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "کتونیا و کفشاتو اینجوری خشك کن\n💚\n@irWonders",
-        "original_link": "https://t.me/irwonders/58563",
-        "post_id": 58563,
-        "message_id": 8194,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-10T17:46:34.933091+00:00"
-      },
-      {
-        "fingerprint": "4d619f24a272bdf934cad809a3fb1a1e61f04a69c834ce0b5a392171e80caa22",
-        "media_fingerprint": "e940379c40d8f885f103a7e35e64023ce5b9724f28e87752d1c8f51cca5d2ecb",
-        "text": "در پایان هفته ۸\n📊\nجدول رده‌بندی لیگ برتر  @Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "در پایان هفته ۸\n📊\nجدول رده‌بندی لیگ برتر  @Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/109622",
-        "post_id": 109622,
-        "message_id": 8195,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-10T17:46:41.714158+00:00"
-      },
-      {
-        "fingerprint": "82aa66378f916fc0ad5f30b8967e163b8b2bdb2739512ad8c80d57d1e880cc24",
-        "media_fingerprint": "fc31b0afc920bd54974d26b1f803f1b3af5a2e029a2c2ed9156cd4bc4a0fc832",
-        "text": "توی گیت یه مفهومی داریم به اسم hunk که به هر تیکه از تغییرات توی خروجی\ngit diff\nگفته میشه\nیعنی چی؟ مثلا ما اومدیم سه قسمت از کد رو تغییر دادیم که با هم دیگه فاصله دارن و بینشون از کدهای قدیمی وجود داره. معمولاً هرکدوم از این بخش‌ها یه hunk حساب میشن\nکاربردش چیه؟ گاهی ما می‌خوایم فقط یکی از این تغییرات رو کامیت کنیم و بقیه رو برای بعد نگه داریم یا برعکس، می‌خوایم یکی از این بخش‌ها فعلاً کامیت نشه\nبرای این کار از دستور\ngit add -p\nیا\ngit add --patch\nاستفاده می‌کنیم. گیت میاد و برای هرکدوم از این بخش‌ها ازمون می‌پرسه که می‌خوای به staging اضافش کنم یا نه\nما می‌تونیم با زدن کلید y تأیید کنیم و با n ردش کنیم. اگه بخوایم یکی از این hunkها رو به بخش‌های کوچیک‌تر تقسیم کنیم، می‌تونیم s رو بزنیم تا گیت در صورت امکان این کار رو انجام بده. اگه نتونست تقسیمش کنه، می‌تونیم با زدن e خودمون patch رو دستی ادیت کنیم.\n#git\n@CleverDevs\n-\n@CleverDevsGp",
-        "original_username": "techtube",
-        "original_text": "توی گیت یه مفهومی داریم به اسم hunk که به هر تیکه از تغییرات توی خروجی\ngit diff\nگفته میشه\nیعنی چی؟ مثلا ما اومدیم سه قسمت از کد رو تغییر دادیم که با هم دیگه فاصله دارن و بینشون از کدهای قدیمی وجود داره. معمولاً هرکدوم از این بخش‌ها یه hunk حساب میشن\nکاربردش چیه؟ گاهی ما می‌خوایم فقط یکی از این تغییرات رو کامیت کنیم و بقیه رو برای بعد نگه داریم یا برعکس، می‌خوایم یکی از این بخش‌ها فعلاً کامیت نشه\nبرای این کار از دستور\ngit add -p\nیا\ngit add --patch\nاستفاده می‌کنیم. گیت میاد و برای هرکدوم از این بخش‌ها ازمون می‌پرسه که می‌خوای به staging اضافش کنم یا نه\nما می‌تونیم با زدن کلید y تأیید کنیم و با n ردش کنیم. اگه بخوایم یکی از این hunkها رو به بخش‌های کوچیک‌تر تقسیم کنیم، می‌تونیم s رو بزنیم تا گیت در صورت امکان این کار رو انجام بده. اگه نتونست تقسیمش کنه، می‌تونیم با زدن e خودمون patch رو دستی ادیت کنیم.\n#git\n@CleverDevs\n-\n@CleverDevsGp",
-        "original_link": "https://t.me/TechTube/18485",
-        "post_id": 18485,
-        "message_id": 8197,
-        "message_kind": "caption",
-        "sources": [
-          "techtube"
-        ],
-        "created_at": "2026-10-10T17:46:54.922053+00:00"
-      },
       {
         "fingerprint": "b137f655f9faf5ae445b40b4470f5b9d4a5ecc2ec291819399d008271056b2f2",
         "media_fingerprint": "",
@@ -34760,7 +34564,8 @@
         "message_id": 9211,
         "message_kind": "caption",
         "sources": [
-          "khandehabadd"
+          "khandehabadd",
+          "gizmiztel"
         ],
         "created_at": "2026-10-13T17:21:46.438797+00:00"
       },
@@ -35495,7 +35300,8 @@
         "message_id": 9267,
         "message_kind": "caption",
         "sources": [
-          "dashagh"
+          "dashagh",
+          "peach_tweet"
         ],
         "created_at": "2026-10-13T19:31:51.335825+00:00"
       },
@@ -35528,6 +35334,216 @@
           "persiana_pluss"
         ],
         "created_at": "2026-10-13T19:32:04.665363+00:00"
+      },
+      {
+        "fingerprint": "72afbeb23c9affb7fd6f897d80ea8f132b0548a3070389ca63559266202a3cbb",
+        "media_fingerprint": "01a908afb1aac371b3c8fcf0a14456a705b9f139136e04690d7124b69aa3a3fa",
+        "text": "🚨\n🇹🇷\nگل اول گالاتاسرای به بارسلونا\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "🚨\n🇹🇷\nگل اول گالاتاسرای به بارسلونا\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/108588",
+        "post_id": 108588,
+        "message_id": 9271,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-13T20:00:32.613972+00:00"
+      },
+      {
+        "fingerprint": "e9b96cdfa61eeb67c180ef4664afb1cde3d810cf9f6cee81abb2c08615b230ed",
+        "media_fingerprint": "4107a0ba85c589d9d65438351c3ecb7dfb901f28d16062e6047cb883db4c6b19",
+        "text": "ضربه گوردون و واکنش چاکر\n🔸\nگالاتاسرای ۰-۰ بارسلونا\n🔸\n🔴\nدقیقه ۱۶\n🔗\nپخش زنده در فوتبال ۳۶۰  @Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "ضربه گوردون و واکنش چاکر\n🔸\nگالاتاسرای ۰-۰ بارسلونا\n🔸\n🔴\nدقیقه ۱۶\n🔗\nپخش زنده در فوتبال ۳۶۰  @Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/109985",
+        "post_id": 109985,
+        "message_id": 9272,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-13T20:00:40.466503+00:00"
+      },
+      {
+        "fingerprint": "94d989a9e711675bc50e6620a34d4819ccf43c098b277396f89acfb48a5f1e21",
+        "media_fingerprint": "1583f614a424fc3fffca9a49b1cdc4341c58bdfbaa3748ffcdf7e3cb19a3aaaa",
+        "text": "🔴\nدیروز تو یونان\n🇬🇷\nمراسم شکرگزاری برگزار شد و خانم \"کیمبرلی گیلفویل\" سفیر آمریکا\n🇺🇸\nتو یونان با این لباس نازک و براق تو این مراسم شرکت کرد که حسابی رسانه‌های خارجی بهش پرداختن؛ حالا خیلی‌ها میگن همچین لباسی واسه یه مراسم رسمی دیپلماتیک مناسب نیست\n👍\nبعضی‌ها هم…",
+        "original_username": "drtel",
+        "original_text": "🔴\nدیروز تو یونان\n🇬🇷\nمراسم شکرگزاری برگزار شد و خانم \"کیمبرلی گیلفویل\" سفیر آمریکا\n🇺🇸\nتو یونان با این لباس نازک و براق تو این مراسم شرکت کرد که حسابی رسانه‌های خارجی بهش پرداختن؛ حالا خیلی‌ها میگن همچین لباسی واسه یه مراسم رسمی دیپلماتیک مناسب نیست\n👍\nبعضی‌ها هم…",
+        "original_link": "https://t.me/drtel/67681",
+        "post_id": 67681,
+        "message_id": 9273,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-13T20:00:47.684150+00:00"
+      },
+      {
+        "fingerprint": "fcbff49b15cbaaaa409fb07ecb70a7ee7ce8f03de180dc1bbd5505e4b5b2e6fd",
+        "media_fingerprint": "4f692a18e8dab68148d927724bf60169dc1d1d2bbfbda3f5c8f08335a4494864",
+        "text": "حرکت زیبای لیائو؛\n⚽️\n🇹🇷\nگل اول گالاتاسرای | باتراکوف '28 گالاتاسرای 1 - بارسلونا 0\n🆔\n@varzesh3",
+        "original_username": "varzesh3",
+        "original_text": "حرکت زیبای لیائو؛\n⚽️\n🇹🇷\nگل اول گالاتاسرای | باتراکوف '28 گالاتاسرای 1 - بارسلونا 0\n🆔\n@varzesh3",
+        "original_link": "https://t.me/varzesh3/304025",
+        "post_id": 304025,
+        "message_id": 9274,
+        "message_kind": "caption",
+        "sources": [
+          "varzesh3"
+        ],
+        "created_at": "2026-10-13T20:00:56.051112+00:00"
+      },
+      {
+        "fingerprint": "829d08c8b2e1c61d0c2dc44dbee76becc20ccda5d5db195df9d47d4a081907a7",
+        "media_fingerprint": "42c41b7b1fd0dd51787404c2e73f90c9a4728b2170ae0cbaf7090361e74e6ffa",
+        "text": "ضدحمله سریع روی حرکت زیبای لیائو\n🔸\nگالاتاسرای [۱]-۰ بارسلونا\n🔸\n⚽️\nباتراکوف\n🔴\nدقیقه ۲۸\n🔗\nپخش زنده در فوتبال ۳۶۰  @Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "ضدحمله سریع روی حرکت زیبای لیائو\n🔸\nگالاتاسرای [۱]-۰ بارسلونا\n🔸\n⚽️\nباتراکوف\n🔴\nدقیقه ۲۸\n🔗\nپخش زنده در فوتبال ۳۶۰  @Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/109987",
+        "post_id": 109987,
+        "message_id": 9275,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-13T20:01:03.451907+00:00"
+      },
+      {
+        "fingerprint": "1ed1abc3719880bda6db66c4637ab7cd88e61a44a7a85002e1cfcf4c091e50b8",
+        "media_fingerprint": "eb2b64e0b580c0c3ceb904f244340a7c1a89b753e8837f81fdc62db17256a2cb",
+        "text": "یک آموزش ساده و کاربردی برای از بین بردن خط‌وخش‌های سطحی خودرو.\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "یک آموزش ساده و کاربردی برای از بین بردن خط‌وخش‌های سطحی خودرو.\n@irWonders",
+        "original_link": "https://t.me/irwonders/58680",
+        "post_id": 58680,
+        "message_id": 9276,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-13T20:01:10.753150+00:00"
+      },
+      {
+        "fingerprint": "ca2c72c04e80f43f07a5e2fd2d6fb6d78df0c6f26f48e1a50833a4ebd4431291",
+        "media_fingerprint": "831429adcfe826bca3a1fbd9a07944fc6ad2f2457f6805d59a550373e2258262",
+        "text": "کشف ۳۰ تن گوشت فاسد در کارخانه تولید همبرگر در شاهرود!\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "کشف ۳۰ تن گوشت فاسد در کارخانه تولید همبرگر در شاهرود!\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163228",
+        "post_id": 163228,
+        "message_id": 9277,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-13T20:01:20.214475+00:00"
+      },
+      {
+        "fingerprint": "7143b256fa43ac574cd86362cf66ae8e179e908a997cc45b8bdec4a6459ec937",
+        "media_fingerprint": "",
+        "text": "کلاس چهارم که دوستم مسأله‌ی رابطه والدین و نحوه تولید بچه رو برام شکافت بهش گفتم ممکنه مادر پدر شما چنین کاری بکنن ولی پدر مادر من هرگز\n😂\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "کلاس چهارم که دوستم مسأله‌ی رابطه والدین و نحوه تولید بچه رو برام شکافت بهش گفتم ممکنه مادر پدر شما چنین کاری بکنن ولی پدر مادر من هرگز\n😂\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163229",
+        "post_id": 163229,
+        "message_id": 9278,
+        "message_kind": "text",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-13T20:01:22.953808+00:00"
+      },
+      {
+        "fingerprint": "1febe83bbd77c85a89b0efab0a1f357536142c709de45bd54ff51a1143a2cd91",
+        "media_fingerprint": "e18ed35bf86ce7e39b915ed6ebbef5249209d3d1a1002f76899d16e0fdcbb6f1",
+        "text": "🇪🇸\nگل اول بارسلونا به گالاتاسرای توسط کانسلو\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "🇪🇸\nگل اول بارسلونا به گالاتاسرای توسط کانسلو\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/108604",
+        "post_id": 108604,
+        "message_id": 9279,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-13T20:01:29.632829+00:00"
+      },
+      {
+        "fingerprint": "5badd56ff0a9549e7d43122276eede16a3f0067c5724691206be6dd02b8d6217",
+        "media_fingerprint": "f7bf33062738c948c673a4ea238c98d8d9dc2bb62de24b4b7c12d03e652024da",
+        "text": "طبق تحقیقات جدید؛\nخانواده‌های دختردار معمولا بیشترین میزان خوشبختی و شادی رو تجربه میکنن.\nیه تحقیق روی ۵۰ هزار نفر تو چین نشون داد والدینی که بچه داشتن به‌طور میانگین شادتر از افرادی بودن که هیچ فرزندی نداشتن‌ و بین این والدین؛ اونایی که دختر داشتن شادی بیشتری گزارش کردن. این ارتباط تو خانواده‌ هایی که دو تا دختر داشتن بسیار قوی‌تر هم بوده‌.\nیعنی عملاً دو تا دختر توی خونه میتونن سهم بزرگی تو شادی خانواده داشته باشن.\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "طبق تحقیقات جدید؛\nخانواده‌های دختردار معمولا بیشترین میزان خوشبختی و شادی رو تجربه میکنن.\nیه تحقیق روی ۵۰ هزار نفر تو چین نشون داد والدینی که بچه داشتن به‌طور میانگین شادتر از افرادی بودن که هیچ فرزندی نداشتن‌ و بین این والدین؛ اونایی که دختر داشتن شادی بیشتری گزارش کردن. این ارتباط تو خانواده‌ هایی که دو تا دختر داشتن بسیار قوی‌تر هم بوده‌.\nیعنی عملاً دو تا دختر توی خونه میتونن سهم بزرگی تو شادی خانواده داشته باشن.\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163231",
+        "post_id": 163231,
+        "message_id": 9280,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-13T20:01:34.920225+00:00"
+      },
+      {
+        "fingerprint": "fb95afaa515ed14798399769b6e4d7ab23986a7e0ac2cbf1ca5495e61c1eae98",
+        "media_fingerprint": "bc0124d45d12047973ab12412d8d35c58443bc969930e142013ff0af2c8ea225",
+        "text": "بیچاره ممد؛\nنه از رفیقاش شانس آورد نه از دوس ‌دختر\n🤣\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "بیچاره ممد؛\nنه از رفیقاش شانس آورد نه از دوس ‌دختر\n🤣\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163232",
+        "post_id": 163232,
+        "message_id": 9281,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-13T20:01:41.997379+00:00"
+      },
+      {
+        "fingerprint": "41af618e43d5292d040169a1e462a58f9c4587eb41a6a3d08acb911340e7fe15",
+        "media_fingerprint": "6c6d5c382c7acddb6436fef5cefc4dfecec32f3994a47891544329a327912dc5",
+        "text": "گل ییلماز به دلیل آفساید رد شد\n🔸\nگالاتاسرای ۱-۰ بارسلونا\n🔸\n🔴\nدقیقه ۳۵\n🔗\nپخش زنده در فوتبال ۳۶۰  @Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "گل ییلماز به دلیل آفساید رد شد\n🔸\nگالاتاسرای ۱-۰ بارسلونا\n🔸\n🔴\nدقیقه ۳۵\n🔗\nپخش زنده در فوتبال ۳۶۰  @Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/109991",
+        "post_id": 109991,
+        "message_id": 9282,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-13T20:01:49.558505+00:00"
+      },
+      {
+        "fingerprint": "883c3171d31edb07028df630a6c978bcb4ccf743b5523a67d158dd56ec8fa10c",
+        "media_fingerprint": "cd468af0ec93fe4eed807906d937ed3f6b7962639859aa3f02b9c2a1cb37a08f",
+        "text": "گل اول و مساوی بارسلونا به گالاتاسرای توسط کانسلو\n@Hattric_X",
+        "original_username": "hattric_official",
+        "original_text": "گل اول و مساوی بارسلونا به گالاتاسرای توسط کانسلو\n@Hattric_X",
+        "original_link": "https://t.me/Hattric_Official/84871",
+        "post_id": 84871,
+        "message_id": 9283,
+        "message_kind": "caption",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-13T20:01:57.735556+00:00"
+      },
+      {
+        "fingerprint": "8d55ca2a4a216d8bfbb455a3710318fd0cbaac3febbd6e57d3edacc5fa64469b",
+        "media_fingerprint": "c20563fe2e6155b1c542233be9c6ac08b0a609eb1e1fd7bf9a4b6e3c92705f67",
+        "text": "🔈\nپایان نیمه نخست\n🔵\nگالاتاسرای 1 - بارسلونا 1\n🔵\nاتلتیکومادرید 1 - منچستریونایتد 0\n🔵\nوایکینگ 2 - بایرن مونیخ 0\n🔵\nاینتر 1 - کلوب‌بروژ 1\n🔵\nویارئال 2 - ناپولی 1\n🔵\nآرسنال 0 - لیل 0\n🔵\nلایپزیش 0 - آیندهوون 0\n🇪🇺\nهفته دوم\n#لیگ_قهرمانان_اروپا2027\n🆔\n@varzesh3",
+        "original_username": "varzesh3",
+        "original_text": "🔈\nپایان نیمه نخست\n🔵\nگالاتاسرای 1 - بارسلونا 1\n🔵\nاتلتیکومادرید 1 - منچستریونایتد 0\n🔵\nوایکینگ 2 - بایرن مونیخ 0\n🔵\nاینتر 1 - کلوب‌بروژ 1\n🔵\nویارئال 2 - ناپولی 1\n🔵\nآرسنال 0 - لیل 0\n🔵\nلایپزیش 0 - آیندهوون 0\n🇪🇺\nهفته دوم\n#لیگ_قهرمانان_اروپا2027\n🆔\n@varzesh3",
+        "original_link": "https://t.me/varzesh3/304030",
+        "post_id": 304030,
+        "message_id": 9284,
+        "message_kind": "caption",
+        "sources": [
+          "varzesh3"
+        ],
+        "created_at": "2026-10-13T20:02:02.841632+00:00"
       }
     ]
   }
