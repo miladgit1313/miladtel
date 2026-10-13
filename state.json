@@ -1,12 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143613,
+      "last_id": 143617,
       "processed_ids": [
-        142487,
-        142488,
-        142489,
-        142490,
         142491,
         142492,
         142493,
@@ -1002,17 +998,17 @@
         143610,
         143611,
         143612,
-        143613
+        143613,
+        143614,
+        143615,
+        143616,
+        143617
       ],
-      "sent_count": 923
+      "sent_count": 926
     },
     "total_fut": {
-      "last_id": 237848,
+      "last_id": 237853,
       "processed_ids": [
-        236788,
-        236789,
-        236790,
-        236791,
         236792,
         236793,
         236794,
@@ -2008,17 +2004,17 @@
         237845,
         237846,
         237847,
-        237848
+        237848,
+        237850,
+        237851,
+        237852,
+        237853
       ],
-      "sent_count": 127
+      "sent_count": 128
     },
     "footballvision2": {
-      "last_id": 171218,
+      "last_id": 171222,
       "processed_ids": [
-        170093,
-        170094,
-        170095,
-        170096,
         170097,
         170098,
         170099,
@@ -3014,7 +3010,11 @@
         171215,
         171216,
         171217,
-        171218
+        171218,
+        171219,
+        171220,
+        171221,
+        171222
       ],
       "sent_count": 137
     },
@@ -3060,7 +3060,7 @@
       "sent_count": 5
     },
     "fars_today": {
-      "last_id": 132203,
+      "last_id": 132204,
       "processed_ids": [
         131975,
         131976,
@@ -3285,9 +3285,10 @@
         132200,
         132201,
         132202,
-        132203
+        132203,
+        132204
       ],
-      "sent_count": 121
+      "sent_count": 122
     },
     "behzistikomitenews": {
       "last_id": 13971,
@@ -3328,7 +3329,7 @@
       "sent_count": 10
     },
     "drtel": {
-      "last_id": 67654,
+      "last_id": 67655,
       "processed_ids": [
         66561,
         66565,
@@ -4181,7 +4182,8 @@
         67648,
         67652,
         67653,
-        67654
+        67654,
+        67655
       ],
       "sent_count": 479
     },
@@ -5281,7 +5283,7 @@
       "sent_count": 136
     },
     "akhbar_cafenet": {
-      "last_id": 23290,
+      "last_id": 23293,
       "processed_ids": [
         22432,
         22433,
@@ -6085,7 +6087,10 @@
         23287,
         23288,
         23289,
-        23290
+        23290,
+        23291,
+        23292,
+        23293
       ],
       "sent_count": 432
     },
@@ -8591,7 +8596,7 @@
       "sent_count": 283
     },
     "ajayebe_jahann": {
-      "last_id": 159768,
+      "last_id": 159772,
       "processed_ids": [
         158956,
         158957,
@@ -9388,9 +9393,13 @@
         159765,
         159766,
         159767,
-        159768
+        159768,
+        159769,
+        159770,
+        159771,
+        159772
       ],
-      "sent_count": 322
+      "sent_count": 324
     },
     "etelaate_omoomi": {
       "last_id": 43128,
@@ -9589,11 +9598,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109870,
+      "last_id": 109874,
       "processed_ids": [
-        108790,
-        108791,
-        108792,
         108793,
         108795,
         108796,
@@ -10590,14 +10596,16 @@
         109867,
         109868,
         109869,
-        109870
+        109870,
+        109871,
+        109873,
+        109874
       ],
-      "sent_count": 142
+      "sent_count": 143
     },
     "varzesh3": {
-      "last_id": 303963,
+      "last_id": 303964,
       "processed_ids": [
-        302869,
         302870,
         302871,
         302872,
@@ -11596,12 +11604,13 @@
         303960,
         303961,
         303962,
-        303963
+        303963,
+        303964
       ],
-      "sent_count": 93
+      "sent_count": 94
     },
     "totalfut_plus": {
-      "last_id": 26735,
+      "last_id": 26738,
       "processed_ids": [
         25870,
         25871,
@@ -12440,14 +12449,16 @@
         26732,
         26733,
         26734,
-        26735
+        26735,
+        26736,
+        26737,
+        26738
       ],
       "sent_count": 59
     },
     "adak_ir_official": {
-      "last_id": 235283,
+      "last_id": 235284,
       "processed_ids": [
-        234256,
         234257,
         234258,
         234259,
@@ -13446,16 +13457,14 @@
         235280,
         235281,
         235282,
-        235283
+        235283,
+        235284
       ],
       "sent_count": 195
     },
     "futball180tv": {
-      "last_id": 108532,
+      "last_id": 108535,
       "processed_ids": [
-        107499,
-        107500,
-        107501,
         107502,
         107503,
         107504,
@@ -14452,14 +14461,16 @@
         108529,
         108530,
         108531,
-        108532
+        108532,
+        108533,
+        108534,
+        108535
       ],
-      "sent_count": 92
+      "sent_count": 93
     },
     "hattric_official": {
-      "last_id": 84815,
+      "last_id": 84816,
       "processed_ids": [
-        83756,
         83757,
         83758,
         83759,
@@ -15458,7 +15469,8 @@
         84812,
         84813,
         84814,
-        84815
+        84815,
+        84816
       ],
       "sent_count": 128
     },
@@ -18314,7 +18326,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306980,
+      "last_id": 306983,
       "processed_ids": [
         306563,
         306564,
@@ -18727,9 +18739,12 @@
         306977,
         306978,
         306979,
-        306980
+        306980,
+        306981,
+        306982,
+        306983
       ],
-      "sent_count": 179
+      "sent_count": 180
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -19755,7 +19770,7 @@
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6312,
+      "last_id": 6313,
       "processed_ids": [
         6113,
         6114,
@@ -19938,7 +19953,8 @@
         6308,
         6309,
         6310,
-        6312
+        6312,
+        6313
       ],
       "sent_count": 5
     },
@@ -20009,171 +20025,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "a9f668614bcec3a16fb89b2827188c4ba08f25469f39e93ac8db5d7a09609856",
-        "media_fingerprint": "45d9988ea861f73f53004592c511b380d0e75b26724c1f83e939fcb8a500d89f",
-        "text": "نماد چشم زخم که برای جلوگیری از چشم خوردن بکار میرود از پر طاووس گرفته شده است\nقدیمی‌ها بر این باور بودند که این فرم در انتهای پرطاووس جلوی چشم خوردن طاووس را میگیرد و نماد خوشبختی است\n@Midanesti",
-        "original_username": "midanesti",
-        "original_text": "نماد چشم زخم که برای جلوگیری از چشم خوردن بکار میرود از پر طاووس گرفته شده است\nقدیمی‌ها بر این باور بودند که این فرم در انتهای پرطاووس جلوی چشم خوردن طاووس را میگیرد و نماد خوشبختی است\n@Midanesti",
-        "original_link": "https://t.me/midanesti/73273",
-        "post_id": 73273,
-        "message_id": 7888,
-        "message_kind": "caption",
-        "sources": [
-          "midanesti"
-        ],
-        "created_at": "2026-10-09T19:18:26.720561+00:00"
-      },
-      {
-        "fingerprint": "e3b8f6fe54d8fbb0dffdae73a2f95af80e14a5370161c06f7a511d23f2ebb4e2",
-        "media_fingerprint": "",
-        "text": "🚨\n🔴\nطبق شنیده‌ها؛ باشگاه پرسپولیس مذاکرات خود را با مدیربرنامه‌های بشار رسن عراقی آغاز کرده تابرای جذب این بازیکن در نیم فصل به توافق برسد.\n🔘\n@Persiana_Pluss",
-        "original_username": "futball180tv",
-        "original_text": "🚨\n🔴\nطبق شنیده‌ها؛ باشگاه پرسپولیس مذاکرات خود را با مدیربرنامه‌های بشار رسن عراقی آغاز کرده تابرای جذب این بازیکن در نیم فصل به توافق برسد.\n🔘\n@Persiana_Pluss",
-        "original_link": "https://t.me/Futball180TV/108211",
-        "post_id": 108211,
-        "message_id": 7889,
-        "message_kind": "text",
-        "sources": [
-          "futball180tv"
-        ],
-        "created_at": "2026-10-09T19:18:29.546153+00:00"
-      },
-      {
-        "fingerprint": "2f41c7bbc1ed869eb951446096a2c78bc1c1013ee145017de66718447117155a",
-        "media_fingerprint": "",
-        "text": "♦️\nحفارمرد صنعت نفت هنگام برپایی دکل آسمانی شد؛ تشییع شنبه ۱۸مهرماه در نودان\n🔹\nزنده‌یاد اصغر سلیمانی، از کارکنان مدیریت سیالات شرکت ملی حفاری ایران، هنگام انجام وظیفه در دستگاه حفاری ۹۳ فتح، مستقر در محدوده شهر اهواز در استان خوزستان، در پی وقوع سانحه‌ای هنگام برپایی دکل، آسمانی شد.\n🔹\nزمان و مکان تشییع و خاکسپاری: روز شنبه ۱۸ مهرماه، ساعت ۱۵:۳۰، در گلزار شهدای شهر نودان، از توابع شهرستان کوه‌چنار در استان فارس.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nحفارمرد صنعت نفت هنگام برپایی دکل آسمانی شد؛ تشییع شنبه ۱۸مهرماه در نودان\n🔹\nزنده‌یاد اصغر سلیمانی، از کارکنان مدیریت سیالات شرکت ملی حفاری ایران، هنگام انجام وظیفه در دستگاه حفاری ۹۳ فتح، مستقر در محدوده شهر اهواز در استان خوزستان، در پی وقوع سانحه‌ای هنگام برپایی دکل، آسمانی شد.\n🔹\nزمان و مکان تشییع و خاکسپاری: روز شنبه ۱۸ مهرماه، ساعت ۱۵:۳۰، در گلزار شهدای شهر نودان، از توابع شهرستان کوه‌چنار در استان فارس.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143389",
-        "post_id": 143389,
-        "message_id": 7890,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-09T19:18:32.729969+00:00"
-      },
-      {
-        "fingerprint": "babcd18f2c8572af1e3a52cbdfec9d1fc2eca2021f1b8bc4042aeac03a345011",
-        "media_fingerprint": "9b5a724f12e25c35f0af1955219266fdedc3f3dca9b8d5cb547d1556b14b7956",
-        "text": "ماجرای پزشک قلابی اینستاگرامی که با سرم بیهوشی وارد منازل می‌شد\n!\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_username": "majalepezeshki",
-        "original_text": "ماجرای پزشک قلابی اینستاگرامی که با سرم بیهوشی وارد منازل می‌شد\n!\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_link": "https://t.me/MajalePezeshki/38682",
-        "post_id": 38682,
-        "message_id": 7891,
-        "message_kind": "caption",
-        "sources": [
-          "majalepezeshki"
-        ],
-        "created_at": "2026-10-09T19:18:38.758388+00:00"
-      },
-      {
-        "fingerprint": "25202977e9a75c8238b219537c912d938405205f55670c1b67556f3755b8c1fb",
-        "media_fingerprint": "",
-        "text": "🚨\nدر صورت شکست صنعت نفت آبادان برابر پرسپولیس، محمد نوری از سرمربیگری این تیم اخراج خواهد شد.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\nدر صورت شکست صنعت نفت آبادان برابر پرسپولیس، محمد نوری از سرمربیگری این تیم اخراج خواهد شد.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/235074",
-        "post_id": 235074,
-        "message_id": 7892,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-09T19:18:41.440885+00:00"
-      },
-      {
-        "fingerprint": "07835678b92379ed2b8157e48cded6e1a3e65276bd0dd6c91272bccf635c402c",
-        "media_fingerprint": "568a0fc051bef9b97ef84a29aa39a5bfb35c93d2b494c080833c69cae8770977",
-        "text": "این خانوم که میبینید سه تا همسر داره و هر چهارتاشون هم کاملا از این موضوع راضی هستن و باهم زندگی میکنن.\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "این خانوم که میبینید سه تا همسر داره و هر چهارتاشون هم کاملا از این موضوع راضی هستن و باهم زندگی میکنن.\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/3104",
-        "post_id": 3104,
-        "message_id": 7893,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-09T19:18:47.132138+00:00"
-      },
-      {
-        "fingerprint": "2540f31c9fbda02bd1c3c24835a1179406ef90141963d7559f9973f565837f42",
-        "media_fingerprint": "6b42862d202224e3a2710914ae2a03a983f88343bea86b24733dc94c420711e1",
-        "text": "از باهوشای نسل زد هستن\n😄\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "از باهوشای نسل زد هستن\n😄\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163026",
-        "post_id": 163026,
-        "message_id": 7894,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-09T19:18:53.381146+00:00"
-      },
-      {
-        "fingerprint": "67c74d66fbc7b25d62b95753cc52243c3c84a349776c6cb200632fa261d68263",
-        "media_fingerprint": "5582036433ec82cae2151f791a6b28d2e430ec261699f3a639ebf81586610efa",
-        "text": "از شکل‌گیری تا خروج؛ سفری شگفت‌انگیز که یک تخم‌مرغ در بدن مرغ طی می‌کنه\n🥚\n🐔\n+اون وسط یه لحظه نیمرو شد :)\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "از شکل‌گیری تا خروج؛ سفری شگفت‌انگیز که یک تخم‌مرغ در بدن مرغ طی می‌کنه\n🥚\n🐔\n+اون وسط یه لحظه نیمرو شد :)\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163027",
-        "post_id": 163027,
-        "message_id": 7895,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-09T19:19:00.208465+00:00"
-      },
-      {
-        "fingerprint": "a162a7919066f70478bdca5f7cd51a7610e1b0920df9f69bebf2f6c43d91b55f",
-        "media_fingerprint": "b73264b1101e85ebb6eb6ef503ee79e8e9336dc1ffa8ce7d98a94073da30320c",
-        "text": "پناهیان: در تجمعات کسانی که می‌گفتند مذاکرات خیانت به خون شهداست را دستگیر کردند مشخص شد هم ضدانقلاب هستند هم بهایی!\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "پناهیان: در تجمعات کسانی که می‌گفتند مذاکرات خیانت به خون شهداست را دستگیر کردند مشخص شد هم ضدانقلاب هستند هم بهایی!\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163029",
-        "post_id": 163029,
-        "message_id": 7896,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-09T19:19:06.344683+00:00"
-      },
-      {
-        "fingerprint": "999f9798da25b9b35adb4a66e279f448cd6360089b6cfc7cc4ff6cf6afbe4efa",
-        "media_fingerprint": "",
-        "text": "‼️\n⚽️\nمحمد نوری، سرمربی تیم صنعت‌نفت آبادان پس از باخت امشب مقابل پرسپولیس از هدایت صنعت‌نفت برکنار شد\n⚽️\n@Hattric_Official",
-        "original_username": "hattric_official",
-        "original_text": "‼️\n⚽️\nمحمد نوری، سرمربی تیم صنعت‌نفت آبادان پس از باخت امشب مقابل پرسپولیس از هدایت صنعت‌نفت برکنار شد\n⚽️\n@Hattric_Official",
-        "original_link": "https://t.me/Hattric_Official/84602",
-        "post_id": 84602,
-        "message_id": 7897,
-        "message_kind": "text",
-        "sources": [
-          "hattric_official"
-        ],
-        "created_at": "2026-10-09T19:19:08.961046+00:00"
-      },
-      {
-        "fingerprint": "9b5483e2995769670d4e1709df0526225bfaed3c98039f3d122616cc94a6a2e3",
-        "media_fingerprint": "86e299515a84cd7eba65c169cdac75ab6f2db944a5b03014f0179ad665544733",
-        "text": "اونایی که تو فکر تتو زدن هستن، این ویدئو رو قبلش ببینن\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "اونایی که تو فکر تتو زدن هستن، این ویدئو رو قبلش ببینن\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163030",
-        "post_id": 163030,
-        "message_id": 7898,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-09T19:19:15.446514+00:00"
-      },
       {
         "fingerprint": "8f638a2feb42d99a8d90ef590f5db414accd21e9af877c23696f259785f9e8cf",
         "media_fingerprint": "d6158fb10f6fba8165746de1a3d225c1acad52cb2f9f9fb14e20eb55872d6234",
@@ -34438,7 +34289,8 @@
         "message_id": 8912,
         "message_kind": "caption",
         "sources": [
-          "dashagh"
+          "dashagh",
+          "drtel"
         ],
         "created_at": "2026-10-12T21:49:46.884349+00:00"
       },
@@ -35056,7 +34908,8 @@
         "message_id": 8957,
         "message_kind": "text",
         "sources": [
-          "techtube"
+          "techtube",
+          "akhbar_cafenet"
         ],
         "created_at": "2026-10-13T05:51:56.976787+00:00"
       },
@@ -35104,6 +34957,171 @@
           "gizmiztel"
         ],
         "created_at": "2026-10-13T05:52:20.911222+00:00"
+      },
+      {
+        "fingerprint": "87610ea0613b88ea4802563c9cd4cf57e9c5675da1f56139ab4db790bb5c65c6",
+        "media_fingerprint": "b95286f3518c2f6e0a8e6e3eba2010b49361d7e76b110941ec3e26212f650ece",
+        "text": "♦️\nصنعت خودرو در قاب یک تجربه تازه با اتوپلازای تهران\n🔹\nاتوپلازا تهران، با فضای نمایشگاهی و حضور خودروهای متنوع، تصویری متفاوت از مواجهه با دنیای خودرو پیش روی بازدیدکنندگان می‌گذارد.\n🔹\nاتوپلازای تهران با تلفیق ۹۰ شوروم تخصصی، خدمات کامل فنی و اداری و فضاهای تفریحی و رسانه‌ای، زنجیره کاملی از تجربه مالکیت خودرو را زیر یک سقف گرد هم آورده است.\n🔹\nاین ویدئو مروری است بر دنیای جذاب خودروها از سایبرتراک تا خودروهای کلاسیک و نگاه مدیران آن به تعامل میان صنعت، متخصصان و سبک زندگی علاقه‌مندان.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nصنعت خودرو در قاب یک تجربه تازه با اتوپلازای تهران\n🔹\nاتوپلازا تهران، با فضای نمایشگاهی و حضور خودروهای متنوع، تصویری متفاوت از مواجهه با دنیای خودرو پیش روی بازدیدکنندگان می‌گذارد.\n🔹\nاتوپلازای تهران با تلفیق ۹۰ شوروم تخصصی، خدمات کامل فنی و اداری و فضاهای تفریحی و رسانه‌ای، زنجیره کاملی از تجربه مالکیت خودرو را زیر یک سقف گرد هم آورده است.\n🔹\nاین ویدئو مروری است بر دنیای جذاب خودروها از سایبرتراک تا خودروهای کلاسیک و نگاه مدیران آن به تعامل میان صنعت، متخصصان و سبک زندگی علاقه‌مندان.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143614",
+        "post_id": 143614,
+        "message_id": 8961,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-13T06:27:46.532112+00:00"
+      },
+      {
+        "fingerprint": "08e0f4c1ed311285fe855b5906d23a907dbbfe059ad1e979860a0d2078bd4934",
+        "media_fingerprint": "3bbbb4bf38f14b67eb82bc601d680800ad3bf782d6e4efae892280ad80bf4fb6",
+        "text": "🚨\nبازگشت خودروی خاطره‌انگیز سیتروئن\nاین بار تمام‌برقی با قیمت ۱۵ هزار یورو!\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "🚨\nبازگشت خودروی خاطره‌انگیز سیتروئن\nاین بار تمام‌برقی با قیمت ۱۵ هزار یورو!\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/159769",
+        "post_id": 159769,
+        "message_id": 8962,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-13T06:27:53.003139+00:00"
+      },
+      {
+        "fingerprint": "15b823e4d93ad6bf5bad3a0d37014285c713f0226fed9f541f55787b89bc99c6",
+        "media_fingerprint": "5409b7e5a8efc5b180dbdd4d36c5735c68709567bf4c144a04974786957f45a2",
+        "text": "🇮🇷\nامیر قلعه‌نویی: در پست خدابنده‌لو، عزت‌اللهی، قربانی، حاجی‌عیدی و نورافکن را داریم و به همین دلیل دعوت نشد\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_username": "total_fut",
+        "original_text": "🇮🇷\nامیر قلعه‌نویی: در پست خدابنده‌لو، عزت‌اللهی، قربانی، حاجی‌عیدی و نورافکن را داریم و به همین دلیل دعوت نشد\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_link": "https://t.me/total_fut/237851",
+        "post_id": 237851,
+        "message_id": 8963,
+        "message_kind": "caption",
+        "sources": [
+          "total_fut"
+        ],
+        "created_at": "2026-10-13T06:28:00.043499+00:00"
+      },
+      {
+        "fingerprint": "ea147159d0553e6d1380e1adadc2604d0999ccd9ade58537a3e3506ebd17febc",
+        "media_fingerprint": "",
+        "text": "♦️\nمدیر سامانه هوشمند سوخت: با طرح شناسه‌دار کردن، سقف استفاده از کارت های اضطراری در جایگاه برداشته می‌شود؛ مردم نگران کم شدن کارت آزاد در آخر ماه‌ نباشند و با خیال راحت از نرخ اول و دوم سهمیه کارت خود استفاده کنند\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nمدیر سامانه هوشمند سوخت: با طرح شناسه‌دار کردن، سقف استفاده از کارت های اضطراری در جایگاه برداشته می‌شود؛ مردم نگران کم شدن کارت آزاد در آخر ماه‌ نباشند و با خیال راحت از نرخ اول و دوم سهمیه کارت خود استفاده کنند\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143615",
+        "post_id": 143615,
+        "message_id": 8964,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-13T06:28:02.911316+00:00"
+      },
+      {
+        "fingerprint": "8f12376b6ad321c95f71875743f911eb27bea1b696f9aef8cedd5a000838f0c6",
+        "media_fingerprint": "dcfff213e85849b5694c15bbebbf88c4a4d43d34987c5273745cfcf05d623c68",
+        "text": "✔️\n🔥\n▶️\nچهار سال پیش در چنین روزی، دیدار مس رفسنجان و پرسپولیس\n- بازوبند مشکیه؟\n+ تخمشو دارم داری؟ تخمشو داری بزار\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "✔️\n🔥\n▶️\nچهار سال پیش در چنین روزی، دیدار مس رفسنجان و پرسپولیس\n- بازوبند مشکیه؟\n+ تخمشو دارم داری؟ تخمشو داری بزار\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/108534",
+        "post_id": 108534,
+        "message_id": 8965,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-13T06:28:08.032132+00:00"
+      },
+      {
+        "fingerprint": "6bd8de16dda3395417c0c736b6b4abf41f47864e3ca4185c06037b2c18d3d820",
+        "media_fingerprint": "c3d04387005a013fb1cd1cb5c3a744817eff517041a131cd449e78b0ad250bad",
+        "text": "🔸\nدر پایان بازی‌های هفته ۶\n🔼\nبالانشینان و برترین گلزنان لیگ برتر انگلیس\n📊\nآمار و ارقام لیگ برتر انگلیس در فوتبال ۳۶۰\n@Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "🔸\nدر پایان بازی‌های هفته ۶\n🔼\nبالانشینان و برترین گلزنان لیگ برتر انگلیس\n📊\nآمار و ارقام لیگ برتر انگلیس در فوتبال ۳۶۰\n@Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/109871",
+        "post_id": 109871,
+        "message_id": 8966,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-13T06:28:14.475933+00:00"
+      },
+      {
+        "fingerprint": "7713ed510dc8acbfbb9d01b1d530ea06ba9d47ee55be457ef47c2bafb4227ebc",
+        "media_fingerprint": "",
+        "text": "🟪\nمدیر سامانه هوشمند سوخت: فرد وقتی به جایگاه مراجعه میکند اول باید از طریق یکی از کارت های بانکی احراز هویت شود\nهزینه احراز هویت هزار تومان است.",
+        "original_username": "fars_today",
+        "original_text": "🟪\nمدیر سامانه هوشمند سوخت: فرد وقتی به جایگاه مراجعه میکند اول باید از طریق یکی از کارت های بانکی احراز هویت شود\nهزینه احراز هویت هزار تومان است.",
+        "original_link": "https://t.me/Fars_today/132204",
+        "post_id": 132204,
+        "message_id": 8968,
+        "message_kind": "text",
+        "sources": [
+          "fars_today"
+        ],
+        "created_at": "2026-10-13T06:28:17.365849+00:00"
+      },
+      {
+        "fingerprint": "5e85415405b80d85b0d48e104c08c7e1ee981c7ecdc76b536e51f2b7192c69d4",
+        "media_fingerprint": "ec1aff7300abc31daf2da541736a53bc9049866dfd219890fb3d488d6b15224a",
+        "text": "♦️\nجایگاه شهرهای ایرانی در میان هزار شهر برتر جهان\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nجایگاه شهرهای ایرانی در میان هزار شهر برتر جهان\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143616",
+        "post_id": 143616,
+        "message_id": 8969,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-13T06:28:21.696802+00:00"
+      },
+      {
+        "fingerprint": "4de78475d24064684af111006f0de9af87d7f7f25ee650f4c050b3ed5fe68015",
+        "media_fingerprint": "87a8217f198833b5f8a7d68f86a16e7240742031f8df1cafd8355d09bf72badd",
+        "text": "آرشیو صدا و سیما در یک قاب\n😂\n🤦‍♂\n🤏\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "آرشیو صدا و سیما در یک قاب\n😂\n🤦‍♂\n🤏\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306983",
+        "post_id": 306983,
+        "message_id": 8970,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-13T06:28:29.390279+00:00"
+      },
+      {
+        "fingerprint": "aab2440778a33b6fceeb9b1202cd7420471a6f1c10b0fe7a189ea16fb188c2ff",
+        "media_fingerprint": "e08362bc9a1e42b9f6119edfd892658e3007b75242f3dde98ff8625816aadad1",
+        "text": "🎙\n🇪🇺\nنشست خبری\n#لیگ_قهرمانان_اروپا2027\nآرسنال - لیل\n🏴󠁧󠁢󠁥󠁮󠁧󠁿\nآرتتا: امروز شاهد یک اتفاق بد و بی‌سابقه بودیم!\n👈\n(لینک خبر)\n🏴󠁧󠁢󠁥󠁮󠁧󠁿\nگابریل: آرسنال برای انتقام فینال پارسال برگشته\n👈\n(لینک خبر)\nاتلتیکومادرید - منچستریونایتد\n🇪🇸\nسیمئونه: بازی به بازی تا فینال لیگ قهرمانان می‌رویم!\n👈\n(لینک خبر)\n🇪🇸\nهانکو: یونایتد بدون شک غول است\n👈\n(لینک خبر)\n🏴󠁧󠁢󠁥󠁮󠁧󠁿\nکریک: شاو و ماینو غایب هستند\n👈\n(لینک خبر)\n🏴󠁧󠁢󠁥󠁮󠁧󠁿\nیورو: منچستریونایتد به اوج برمی‌گردد\n👈\n(لینک خبر)\nگالاتاسرای - بارسلونا\n🇹🇷\nبوروک: جلوی بارسا کلین‌شیت می‌خواهیم\n👈\n(لینک خبر)\n🇪🇸\nفلیک: امیدوارم یک روز یاد بگیرید\n👈\n(لینک خبر)\n🇪🇸\nکوبارسی: یامال بهترین دنیا است، همه می‌دانند\n👈\n(لینک خبر)\nاینتر - کلوب بروژ\n🇮🇹\nکیوو: قهرمانی چمپیونزلیگ خریدنی نیست\n👈\n(لینک خبر)\n🇮🇹\nآکانجی: جام‌هایم را در زمین بردم و نگران سیتی نیستم\n👈\n(لینک خبر)\nوایکینگ - بایرن مونیخ\n🇩🇪\nکمپانی: بایرن از چمن مصنوعی بهانه نمی‌گیرد\n👈\n(لینک خبر)\n🇩🇪\nتاه: وایکینگ مثل وایکینگ‌ها شجاع است!\n👈\n(لینک خبر)\n🆔\n@varzesh3",
+        "original_username": "varzesh3",
+        "original_text": "🎙\n🇪🇺\nنشست خبری\n#لیگ_قهرمانان_اروپا2027\nآرسنال - لیل\n🏴󠁧󠁢󠁥󠁮󠁧󠁿\nآرتتا: امروز شاهد یک اتفاق بد و بی‌سابقه بودیم!\n👈\n(لینک خبر)\n🏴󠁧󠁢󠁥󠁮󠁧󠁿\nگابریل: آرسنال برای انتقام فینال پارسال برگشته\n👈\n(لینک خبر)\nاتلتیکومادرید - منچستریونایتد\n🇪🇸\nسیمئونه: بازی به بازی تا فینال لیگ قهرمانان می‌رویم!\n👈\n(لینک خبر)\n🇪🇸\nهانکو: یونایتد بدون شک غول است\n👈\n(لینک خبر)\n🏴󠁧󠁢󠁥󠁮󠁧󠁿\nکریک: شاو و ماینو غایب هستند\n👈\n(لینک خبر)\n🏴󠁧󠁢󠁥󠁮󠁧󠁿\nیورو: منچستریونایتد به اوج برمی‌گردد\n👈\n(لینک خبر)\nگالاتاسرای - بارسلونا\n🇹🇷\nبوروک: جلوی بارسا کلین‌شیت می‌خواهیم\n👈\n(لینک خبر)\n🇪🇸\nفلیک: امیدوارم یک روز یاد بگیرید\n👈\n(لینک خبر)\n🇪🇸\nکوبارسی: یامال بهترین دنیا است، همه می‌دانند\n👈\n(لینک خبر)\nاینتر - کلوب بروژ\n🇮🇹\nکیوو: قهرمانی چمپیونزلیگ خریدنی نیست\n👈\n(لینک خبر)\n🇮🇹\nآکانجی: جام‌هایم را در زمین بردم و نگران سیتی نیستم\n👈\n(لینک خبر)\nوایکینگ - بایرن مونیخ\n🇩🇪\nکمپانی: بایرن از چمن مصنوعی بهانه نمی‌گیرد\n👈\n(لینک خبر)\n🇩🇪\nتاه: وایکینگ مثل وایکینگ‌ها شجاع است!\n👈\n(لینک خبر)\n🆔\n@varzesh3",
+        "original_link": "https://t.me/varzesh3/303964",
+        "post_id": 303964,
+        "message_id": 8971,
+        "message_kind": "caption",
+        "sources": [
+          "varzesh3"
+        ],
+        "created_at": "2026-10-13T06:28:43.771575+00:00"
+      },
+      {
+        "fingerprint": "72af04e683ac835fe08e3f80d68c0003b949a4ec698508ea837eb8f808395fbe",
+        "media_fingerprint": "9f17cc7976051ebf1157076fd9030c262c4bbad6cd2b729a98d3155828103706",
+        "text": "🔸\nشرکت تسلا خانه های کوچک ۳۰ متر مربعی تا ۱۰۰ مترمربعی ساخته که با انرژی خورشیدی تامین میشوند و ساخت آنها تنها ۳ ساعت زمان می برد و تعدادی از اینها به کالیفرنیا فرستاده شده!\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "🔸\nشرکت تسلا خانه های کوچک ۳۰ متر مربعی تا ۱۰۰ مترمربعی ساخته که با انرژی خورشیدی تامین میشوند و ساخت آنها تنها ۳ ساعت زمان می برد و تعدادی از اینها به کالیفرنیا فرستاده شده!\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/159772",
+        "post_id": 159772,
+        "message_id": 8972,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-13T06:28:48.385880+00:00"
       }
     ]
   }
