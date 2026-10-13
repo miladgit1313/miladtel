@@ -1,9 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143639,
+      "last_id": 143640,
       "processed_ids": [
-        142509,
         142510,
         142511,
         142512,
@@ -1002,17 +1001,14 @@
         143635,
         143636,
         143637,
-        143639
+        143639,
+        143640
       ],
       "sent_count": 933
     },
     "total_fut": {
-      "last_id": 237864,
+      "last_id": 237868,
       "processed_ids": [
-        236803,
-        236804,
-        236805,
-        236806,
         236807,
         236808,
         236809,
@@ -2008,15 +2004,17 @@
         237861,
         237862,
         237863,
-        237864
+        237864,
+        237865,
+        237866,
+        237867,
+        237868
       ],
       "sent_count": 129
     },
     "footballvision2": {
-      "last_id": 171233,
+      "last_id": 171235,
       "processed_ids": [
-        170107,
-        170108,
         170109,
         170110,
         170111,
@@ -3014,7 +3012,9 @@
         171230,
         171231,
         171232,
-        171233
+        171233,
+        171234,
+        171235
       ],
       "sent_count": 138
     },
@@ -3333,7 +3333,7 @@
       "sent_count": 10
     },
     "drtel": {
-      "last_id": 67658,
+      "last_id": 67659,
       "processed_ids": [
         66561,
         66565,
@@ -4188,12 +4188,13 @@
         67653,
         67654,
         67655,
-        67658
+        67658,
+        67659
       ],
-      "sent_count": 479
+      "sent_count": 480
     },
     "techtube": {
-      "last_id": 18506,
+      "last_id": 18511,
       "processed_ids": [
         18261,
         18262,
@@ -4353,7 +4354,9 @@
         18501,
         18502,
         18505,
-        18506
+        18506,
+        18510,
+        18511
       ],
       "sent_count": 57
     },
@@ -5295,7 +5298,7 @@
       "sent_count": 138
     },
     "akhbar_cafenet": {
-      "last_id": 23304,
+      "last_id": 23305,
       "processed_ids": [
         22432,
         22433,
@@ -6113,12 +6116,13 @@
         23301,
         23302,
         23303,
-        23304
+        23304,
+        23305
       ],
       "sent_count": 436
     },
     "comentiat": {
-      "last_id": 26478,
+      "last_id": 26479,
       "processed_ids": [
         25844,
         25845,
@@ -6629,9 +6633,10 @@
         26474,
         26476,
         26477,
-        26478
+        26478,
+        26479
       ],
-      "sent_count": 373
+      "sent_count": 374
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -9631,10 +9636,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109885,
+      "last_id": 109887,
       "processed_ids": [
-        108803,
-        108804,
         108805,
         108806,
         108807,
@@ -10632,16 +10635,15 @@
         109882,
         109883,
         109884,
-        109885
+        109885,
+        109886,
+        109887
       ],
       "sent_count": 144
     },
     "varzesh3": {
-      "last_id": 303972,
+      "last_id": 303975,
       "processed_ids": [
-        302878,
-        302879,
-        302880,
         302881,
         302882,
         302883,
@@ -11638,7 +11640,10 @@
         303969,
         303970,
         303971,
-        303972
+        303972,
+        303973,
+        303974,
+        303975
       ],
       "sent_count": 94
     },
@@ -12496,9 +12501,8 @@
       "sent_count": 59
     },
     "adak_ir_official": {
-      "last_id": 235293,
+      "last_id": 235294,
       "processed_ids": [
-        234266,
         234267,
         234268,
         234269,
@@ -13497,14 +13501,14 @@
         235290,
         235291,
         235292,
-        235293
+        235293,
+        235294
       ],
       "sent_count": 197
     },
     "futball180tv": {
-      "last_id": 108545,
+      "last_id": 108546,
       "processed_ids": [
-        107513,
         107514,
         107515,
         107516,
@@ -14503,14 +14507,14 @@
         108542,
         108543,
         108544,
-        108545
+        108545,
+        108546
       ],
       "sent_count": 95
     },
     "hattric_official": {
-      "last_id": 84830,
+      "last_id": 84831,
       "processed_ids": [
-        83768,
         83771,
         83773,
         83775,
@@ -15509,12 +15513,13 @@
         84826,
         84827,
         84828,
-        84830
+        84830,
+        84831
       ],
       "sent_count": 130
     },
     "mazdak_hattrick": {
-      "last_id": 182560,
+      "last_id": 182561,
       "processed_ids": [
         181991,
         181992,
@@ -16071,7 +16076,8 @@
         182557,
         182558,
         182559,
-        182560
+        182560,
+        182561
       ],
       "sent_count": 50
     },
@@ -18379,7 +18385,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306987,
+      "last_id": 306990,
       "processed_ids": [
         306563,
         306564,
@@ -18799,9 +18805,12 @@
         306984,
         306985,
         306986,
-        306987
+        306987,
+        306988,
+        306989,
+        306990
       ],
-      "sent_count": 181
+      "sent_count": 182
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -19040,7 +19049,7 @@
       "sent_count": 68
     },
     "yejoorayi": {
-      "last_id": 558,
+      "last_id": 559,
       "processed_ids": [
         426,
         427,
@@ -19167,9 +19176,10 @@
         555,
         556,
         557,
-        558
+        558,
+        559
       ],
-      "sent_count": 114
+      "sent_count": 115
     },
     "onlinecofe_ir": {
       "last_id": 2887,
@@ -19711,7 +19721,7 @@
       "sent_count": 191
     },
     "funy_khand": {
-      "last_id": 25826,
+      "last_id": 25827,
       "processed_ids": [
         25704,
         25705,
@@ -19835,7 +19845,8 @@
         25823,
         25824,
         25825,
-        25826
+        25826,
+        25827
       ],
       "sent_count": 0
     },
@@ -20039,7 +20050,7 @@
       "sent_count": 6
     },
     "ghandeharipoet": {
-      "last_id": 42708,
+      "last_id": 42709,
       "processed_ids": [
         42693,
         42694,
@@ -20056,12 +20067,13 @@
         42705,
         42706,
         42707,
-        42708
+        42708,
+        42709
       ],
       "sent_count": 13
     },
     "dashagh": {
-      "last_id": 48349,
+      "last_id": 48350,
       "processed_ids": [
         48313,
         48314,
@@ -20090,9 +20102,10 @@
         48346,
         48347,
         48348,
-        48349
+        48349,
+        48350
       ],
-      "sent_count": 21
+      "sent_count": 22
     },
     "apkclub": {
       "last_id": 72972,
@@ -20114,81 +20127,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "476e7f111e657fe9ff5c87b54fb189cb16b020ca1e8b58b19f24593c3d834d37",
-        "media_fingerprint": "",
-        "text": "دلتنگ روزهایی ام که دغدغه ام پخش نشدن خاله شادونه بود\n🆔\n@YeJoorayi",
-        "original_username": "yejoorayi",
-        "original_text": "دلتنگ روزهایی ام که دغدغه ام پخش نشدن خاله شادونه بود\n🆔\n@YeJoorayi",
-        "original_link": "https://t.me/YeJoorayi/528",
-        "post_id": 528,
-        "message_id": 7944,
-        "message_kind": "text",
-        "sources": [
-          "yejoorayi"
-        ],
-        "created_at": "2026-10-09T20:50:15.484691+00:00"
-      },
-      {
-        "fingerprint": "239018cd9f4f739817076a9f5ab9d2ff17c31bd6ac1b322756036a16676927c5",
-        "media_fingerprint": "",
-        "text": "انگار موج‌ جدید حملات سنگین از امشب قرار دوباره شروع بشه، اخبار واقعی رو اینجا بخونید ؛\n@Khabar",
-        "original_username": "peach_tweet",
-        "original_text": "انگار موج‌ جدید حملات سنگین از امشب قرار دوباره شروع بشه، اخبار واقعی رو اینجا بخونید ؛\n@Khabar",
-        "original_link": "https://t.me/peach_tweet/3201",
-        "post_id": 3201,
-        "message_id": 7945,
-        "message_kind": "text",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-09T20:50:18.985173+00:00"
-      },
-      {
-        "fingerprint": "c0c25482346b36e17eb7c3809b06e8c2fa1c5c1963aa04d9360cbd89206afb55",
-        "media_fingerprint": "",
-        "text": "🎖️\n🏅\nاستقلال هنوز در حال مکاتبه با قطر برای پرواز اختصاصی به این کشور است!\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_username": "totalfut_plus",
-        "original_text": "🎖️\n🏅\nاستقلال هنوز در حال مکاتبه با قطر برای پرواز اختصاصی به این کشور است!\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_link": "https://t.me/totalfut_plus/26627",
-        "post_id": 26627,
-        "message_id": 7946,
-        "message_kind": "text",
-        "sources": [
-          "totalfut_plus"
-        ],
-        "created_at": "2026-10-09T20:50:21.704371+00:00"
-      },
-      {
-        "fingerprint": "b5f23e8f56bfed0b87b7a3a3a0b236362b379526a7379171fed9d9d4ead56c9a",
-        "media_fingerprint": "1715d32630b97dde6f87458f9066ab06ea50d685a3ee059c3118df0f27f32c93",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26401",
-        "post_id": 26401,
-        "message_id": 7947,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-09T21:19:16.658339+00:00"
-      },
-      {
-        "fingerprint": "5070f58f4861bea84cfce36378d96ea25989702fea316bbbc5d1de9128b177d3",
-        "media_fingerprint": "cb4d260fd1b8961693c4bbd39f23552786a6b67be581e7f045d91c1bd39cf36a",
-        "text": "این ویدیو از نحوه صحیح مسواک زدن توسط یه دختر دندون پزشک ایرانی میلیونی ویو خورده و وایرال شده\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "این ویدیو از نحوه صحیح مسواک زدن توسط یه دختر دندون پزشک ایرانی میلیونی ویو خورده و وایرال شده\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/3207",
-        "post_id": 3207,
-        "message_id": 7948,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-09T21:19:36.104251+00:00"
-      },
       {
         "fingerprint": "d578cac8ca52dcc92e29daaee3b5b946d807e6ca6cb5f621ba79402264f14d17",
         "media_fingerprint": "0e8f907a79e736b9f6771284cc39714520e1d9dda78c595190c4f2674febe892",
@@ -34790,7 +34728,8 @@
         "message_id": 8988,
         "message_kind": "text",
         "sources": [
-          "total_fut"
+          "total_fut",
+          "mazdak_hattrick"
         ],
         "created_at": "2026-10-13T07:26:21.543638+00:00"
       },
@@ -35214,6 +35153,81 @@
           "jaleb"
         ],
         "created_at": "2026-10-13T09:23:47.030778+00:00"
+      },
+      {
+        "fingerprint": "6d3eeb3f56ce314beddc31020c7b9d4853f7928313c40e6c15f16b5813ba035b",
+        "media_fingerprint": "c8ad2e0b0b8b8b53b10b45da8a9c65d49a0fdfdc1f92ba45a59f5c3a448cac10",
+        "text": "🔴\nهشدار برای پسران سرزمینم وضعیت خطرناک‌تر شده دیگه پسرا هم امنیت ندارن\nاین خانم دکتر پسرها رو با بهانه رابطه جنسی به باغ می‌برد، با بیهوش‌کردن، اعضای بدنشون رو قاچاق می‌کنه. این زن سر ۳۴ نفر این کار رو کرده و دستگیر شده.\n﻿\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "🔴\nهشدار برای پسران سرزمینم وضعیت خطرناک‌تر شده دیگه پسرا هم امنیت ندارن\nاین خانم دکتر پسرها رو با بهانه رابطه جنسی به باغ می‌برد، با بیهوش‌کردن، اعضای بدنشون رو قاچاق می‌کنه. این زن سر ۳۴ نفر این کار رو کرده و دستگیر شده.\n﻿\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48350",
+        "post_id": 48350,
+        "message_id": 9021,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-13T09:52:00.623471+00:00"
+      },
+      {
+        "fingerprint": "ed258db7be1b50ea34af986c004b432ff1e94f3ee53088c7780a7a3cc3f7fe93",
+        "media_fingerprint": "e6a34690ea952fff64fee8d2e8fb730b410732a092f8ccb36ff0116a5264cecd",
+        "text": "🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/559",
+        "post_id": 559,
+        "message_id": 9022,
+        "message_kind": "caption",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-13T09:52:04.392625+00:00"
+      },
+      {
+        "fingerprint": "e464f1ef3b236da93bf506b03cec4f0927839fc22f0e5a9332336917cacb6684",
+        "media_fingerprint": "54cccf50fe7310d0befa06555f5efecec610317e5e1814b47ad3198b3c93afbe",
+        "text": "همسر نمونه فقط خودت\n😂\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "همسر نمونه فقط خودت\n😂\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/306990",
+        "post_id": 306990,
+        "message_id": 9023,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-13T09:52:11.728581+00:00"
+      },
+      {
+        "fingerprint": "586c3a5ee6add62042731a0f94cf2cad303d86b84257022bfd2e7259ff480729",
+        "media_fingerprint": "f579d573499079e1f0b83b3b12326f9be2506bc4ee0ac4fc2a4b82e8278a6de8",
+        "text": "🔴\nدیروز یه عکاس فرانسوی تونست از پدیده‌ی زیبای red sprite | رِد اسپرایت ، عکاسی کنه؛\nرد اسپریت‌ها نورهای قرمز کوتاه‌مدتی هستن که گاهی بالای ابرهای تندری، تو آسمون دیده میشن.\nاونا فقط چند لحظه (هزارم ثانیه) می‌درخشن و معمولاً بعد از رعدوبرق‌های خیلی قوی ظاهر میشن.\n‌\n@DrTeL\n| Accuweather",
+        "original_username": "drtel",
+        "original_text": "🔴\nدیروز یه عکاس فرانسوی تونست از پدیده‌ی زیبای red sprite | رِد اسپرایت ، عکاسی کنه؛\nرد اسپریت‌ها نورهای قرمز کوتاه‌مدتی هستن که گاهی بالای ابرهای تندری، تو آسمون دیده میشن.\nاونا فقط چند لحظه (هزارم ثانیه) می‌درخشن و معمولاً بعد از رعدوبرق‌های خیلی قوی ظاهر میشن.\n‌\n@DrTeL\n| Accuweather",
+        "original_link": "https://t.me/drtel/67659",
+        "post_id": 67659,
+        "message_id": 9024,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-13T09:52:25.092792+00:00"
+      },
+      {
+        "fingerprint": "004de33e408fdeaf65382d002e7ac615b77ce157ec29dd5eb3ceca4ff5cf44c3",
+        "media_fingerprint": "7df3c2d3beb6af59b46964a1a1c72f7147617eb0094fa8fbef62d645f3d87487",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26479",
+        "post_id": 26479,
+        "message_id": 9028,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-13T09:52:30.242453+00:00"
       }
     ]
   }
