@@ -1,11 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143679,
+      "last_id": 143682,
       "processed_ids": [
-        142549,
-        142550,
-        142551,
         142552,
         142553,
         142554,
@@ -1002,15 +999,16 @@
         143672,
         143673,
         143678,
-        143679
+        143679,
+        143680,
+        143681,
+        143682
       ],
-      "sent_count": 958
+      "sent_count": 960
     },
     "total_fut": {
-      "last_id": 237916,
+      "last_id": 237918,
       "processed_ids": [
-        236853,
-        236854,
         236855,
         236856,
         236857,
@@ -2008,17 +2006,15 @@
         237913,
         237914,
         237915,
-        237916
+        237916,
+        237917,
+        237918
       ],
       "sent_count": 135
     },
     "footballvision2": {
-      "last_id": 171294,
+      "last_id": 171298,
       "processed_ids": [
-        170170,
-        170171,
-        170172,
-        170173,
         170174,
         170175,
         170176,
@@ -3014,7 +3010,11 @@
         171291,
         171292,
         171293,
-        171294
+        171294,
+        171295,
+        171296,
+        171297,
+        171298
       ],
       "sent_count": 141
     },
@@ -3341,7 +3341,7 @@
       "sent_count": 10
     },
     "drtel": {
-      "last_id": 67679,
+      "last_id": 67680,
       "processed_ids": [
         66561,
         66565,
@@ -4210,9 +4210,10 @@
         67675,
         67677,
         67678,
-        67679
+        67679,
+        67680
       ],
-      "sent_count": 488
+      "sent_count": 489
     },
     "techtube": {
       "last_id": 18519,
@@ -5334,7 +5335,7 @@
       "sent_count": 140
     },
     "akhbar_cafenet": {
-      "last_id": 23337,
+      "last_id": 23338,
       "processed_ids": [
         22432,
         22433,
@@ -6185,7 +6186,8 @@
         23334,
         23335,
         23336,
-        23337
+        23337,
+        23338
       ],
       "sent_count": 458
     },
@@ -6721,7 +6723,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38725,
+      "last_id": 38726,
       "processed_ids": [
         38432,
         38433,
@@ -7012,7 +7014,8 @@
         38722,
         38723,
         38724,
-        38725
+        38725,
+        38726
       ],
       "sent_count": 174
     },
@@ -8023,7 +8026,7 @@
       "sent_count": 813
     },
     "dr_salamatx": {
-      "last_id": 55396,
+      "last_id": 55397,
       "processed_ids": [
         55270,
         55271,
@@ -8151,12 +8154,13 @@
         55393,
         55394,
         55395,
-        55396
+        55396,
+        55397
       ],
-      "sent_count": 79
+      "sent_count": 80
     },
     "jaleb": {
-      "last_id": 52902,
+      "last_id": 52904,
       "processed_ids": [
         52261,
         52262,
@@ -8720,12 +8724,14 @@
         52898,
         52900,
         52901,
-        52902
+        52902,
+        52903,
+        52904
       ],
       "sent_count": 290
     },
     "ajayebe_jahann": {
-      "last_id": 159798,
+      "last_id": 159802,
       "processed_ids": [
         158956,
         158957,
@@ -9550,9 +9556,13 @@
         159795,
         159796,
         159797,
-        159798
+        159798,
+        159799,
+        159800,
+        159801,
+        159802
       ],
-      "sent_count": 331
+      "sent_count": 332
     },
     "etelaate_omoomi": {
       "last_id": 43128,
@@ -9751,19 +9761,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109962,
+      "last_id": 109974,
       "processed_ids": [
-        108884,
-        108885,
-        108886,
-        108887,
-        108888,
-        108889,
-        108890,
-        108891,
-        108893,
-        108894,
-        108895,
         108896,
         108897,
         108898,
@@ -10752,16 +10751,24 @@
         109959,
         109960,
         109961,
-        109962
+        109962,
+        109963,
+        109964,
+        109965,
+        109966,
+        109967,
+        109968,
+        109969,
+        109970,
+        109971,
+        109972,
+        109974
       ],
-      "sent_count": 154
+      "sent_count": 155
     },
     "varzesh3": {
-      "last_id": 304011,
+      "last_id": 304015,
       "processed_ids": [
-        302920,
-        302921,
-        302922,
         302923,
         302924,
         302925,
@@ -11758,12 +11765,15 @@
         304008,
         304009,
         304010,
-        304011
+        304011,
+        304013,
+        304014,
+        304015
       ],
       "sent_count": 95
     },
     "totalfut_plus": {
-      "last_id": 26757,
+      "last_id": 26758,
       "processed_ids": [
         25870,
         25871,
@@ -12623,18 +12633,14 @@
         26754,
         26755,
         26756,
-        26757
+        26757,
+        26758
       ],
       "sent_count": 61
     },
     "adak_ir_official": {
-      "last_id": 235326,
+      "last_id": 235331,
       "processed_ids": [
-        234298,
-        234299,
-        234300,
-        234301,
-        234302,
         234303,
         234304,
         234305,
@@ -13629,15 +13635,18 @@
         235323,
         235324,
         235325,
-        235326
+        235326,
+        235327,
+        235328,
+        235329,
+        235330,
+        235331
       ],
-      "sent_count": 203
+      "sent_count": 204
     },
     "futball180tv": {
-      "last_id": 108576,
+      "last_id": 108578,
       "processed_ids": [
-        107544,
-        107545,
         107546,
         107547,
         107548,
@@ -14635,14 +14644,15 @@
         108573,
         108574,
         108575,
-        108576
+        108576,
+        108577,
+        108578
       ],
       "sent_count": 99
     },
     "hattric_official": {
-      "last_id": 84867,
+      "last_id": 84868,
       "processed_ids": [
-        83808,
         83809,
         83810,
         83811,
@@ -15641,7 +15651,8 @@
         84863,
         84865,
         84866,
-        84867
+        84867,
+        84868
       ],
       "sent_count": 138
     },
@@ -16363,7 +16374,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58677,
+      "last_id": 58678,
       "processed_ids": [
         58030,
         58031,
@@ -16955,9 +16966,10 @@
         58674,
         58675,
         58676,
-        58677
+        58677,
+        58678
       ],
-      "sent_count": 375
+      "sent_count": 376
     },
     "razcom": {
       "last_id": 70496,
@@ -19573,7 +19585,7 @@
       "sent_count": 75
     },
     "peach_tweet": {
-      "last_id": 3431,
+      "last_id": 3432,
       "processed_ids": [
         2745,
         2749,
@@ -19918,12 +19930,13 @@
         3428,
         3429,
         3430,
-        3431
+        3431,
+        3432
       ],
-      "sent_count": 196
+      "sent_count": 197
     },
     "funy_khand": {
-      "last_id": 25843,
+      "last_id": 25845,
       "processed_ids": [
         25704,
         25705,
@@ -20064,12 +20077,14 @@
         25840,
         25841,
         25842,
-        25843
+        25843,
+        25844,
+        25845
       ],
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6355,
+      "last_id": 6358,
       "processed_ids": [
         6113,
         6114,
@@ -20289,7 +20304,9 @@
         6352,
         6353,
         6354,
-        6355
+        6355,
+        6356,
+        6358
       ],
       "sent_count": 6
     },
@@ -20326,7 +20343,7 @@
       "sent_count": 22
     },
     "dashagh": {
-      "last_id": 48360,
+      "last_id": 48361,
       "processed_ids": [
         48313,
         48314,
@@ -20364,12 +20381,13 @@
         48356,
         48357,
         48358,
-        48360
+        48360,
+        48361
       ],
-      "sent_count": 29
+      "sent_count": 30
     },
     "apkclub": {
-      "last_id": 72984,
+      "last_id": 72986,
       "processed_ids": [
         72962,
         72963,
@@ -20393,163 +20411,15 @@
         72981,
         72982,
         72983,
-        72984
+        72984,
+        72985,
+        72986
       ],
       "sent_count": 4
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "5142871c7c632a85e7cd5f1897c219b11636f4e3791fec00f456462d400442da",
-        "media_fingerprint": "dcbd9d13f9e97136c025e52751bb31234f2611a542c33628c5d2dce1df9fd360",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26414",
-        "post_id": 26414,
-        "message_id": 8163,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-10T16:18:31.488059+00:00"
-      },
-      {
-        "fingerprint": "b52884bbb5dc6ddcf09b5e9bc328954d7ef78f70fb54d0f91001beebd504c9b9",
-        "media_fingerprint": "",
-        "text": "🔴\nجذاب‌ترین مدلِ رقصِ مردونه\n🕺\nواسه تحت تاثیر قرار دادن خانم‌ها معلوم شد؛  بعد تحقیقات فراوان و استفاده از چندین مدل هوش مصنوعی، دانشمندان بررسی کردن که چه مدل رقصیدنی از نظر زن‌ها جذاب‌تره!  تو این پژوهش واسه اینکه ظاهر افراد روی قضاوت خانم‌ها تأثیر نذاره،…",
-        "original_username": "drtel",
-        "original_text": "🔴\nجذاب‌ترین مدلِ رقصِ مردونه\n🕺\nواسه تحت تاثیر قرار دادن خانم‌ها معلوم شد؛  بعد تحقیقات فراوان و استفاده از چندین مدل هوش مصنوعی، دانشمندان بررسی کردن که چه مدل رقصیدنی از نظر زن‌ها جذاب‌تره!  تو این پژوهش واسه اینکه ظاهر افراد روی قضاوت خانم‌ها تأثیر نذاره،…",
-        "original_link": "https://t.me/drtel/67552",
-        "post_id": 67552,
-        "message_id": 8165,
-        "message_kind": "text",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-10T16:47:59.005126+00:00"
-      },
-      {
-        "fingerprint": "b2261abbdc936fb2a4988292035691a41a849a72c65466796b1a4339db79ce63",
-        "media_fingerprint": "2ca1668982f82291a0634d0df12753e866b1c0977f2b69f3acf6e7c07f7f3719",
-        "text": "🎓\nصدای شما، مسیر آموزش‌های آینده را می‌سازد!\nمی‌خوایم بدونیم شما به چه موضوعات آموزشی علاقه‌مندید، چه تجربه‌ای از دوره‌های آنلاین داشتید و چه عواملی در انتخاب و شرکت شما در یک دوره آموزشی مؤثره.\n💡\nبا تکمیل این پرسشنامه کوتاه، به ما کمک می‌کنید دوره‌هایی متناسب‌تر با نیازها، علایق و انتظارات واقعی شما طراحی و برگزار کنیم.\n⏱️\nفقط چند دقیقه از زمان شما کافیه.\nاز اینکه با به‌اشتراک‌گذاشتن دیدگاه‌ها و تجربه‌هاتون در طراحی آموزش‌های بهتر همراه ما هستید، از شما متشکریم.\n🌱\n🔗\nبرای تکمیل پرسشنامه، از طریق لینک زیر اقدام کنید:\n👇\nhttps://zaya.io/survey-form-1-6",
-        "original_username": "techtube",
-        "original_text": "🎓\nصدای شما، مسیر آموزش‌های آینده را می‌سازد!\nمی‌خوایم بدونیم شما به چه موضوعات آموزشی علاقه‌مندید، چه تجربه‌ای از دوره‌های آنلاین داشتید و چه عواملی در انتخاب و شرکت شما در یک دوره آموزشی مؤثره.\n💡\nبا تکمیل این پرسشنامه کوتاه، به ما کمک می‌کنید دوره‌هایی متناسب‌تر با نیازها، علایق و انتظارات واقعی شما طراحی و برگزار کنیم.\n⏱️\nفقط چند دقیقه از زمان شما کافیه.\nاز اینکه با به‌اشتراک‌گذاشتن دیدگاه‌ها و تجربه‌هاتون در طراحی آموزش‌های بهتر همراه ما هستید، از شما متشکریم.\n🌱\n🔗\nبرای تکمیل پرسشنامه، از طریق لینک زیر اقدام کنید:\n👇\nhttps://zaya.io/survey-form-1-6",
-        "original_link": "https://t.me/TechTube/18484",
-        "post_id": 18484,
-        "message_id": 8166,
-        "message_kind": "caption",
-        "sources": [
-          "techtube"
-        ],
-        "created_at": "2026-10-10T16:48:04.308763+00:00"
-      },
-      {
-        "fingerprint": "bf516eb4a4efd5f968fa1ea8c5a22ee2b69ca22dbbcd62d7ca990616747bfc31",
-        "media_fingerprint": "a4b825a8e4f6b1da7143ebf06be41808b1899cb4f86c89efa16657605cef00b0",
-        "text": "🔴\n👤\nتفکیک 97 گل علیپور برای‌تیم پرسپولیس؛\nعلی علیپور روز گذشته 97 گل خود برای پرسپولیس را بثمر رساند.\n🆔\n@mazdak_hattrick",
-        "original_username": "mazdak_hattrick",
-        "original_text": "🔴\n👤\nتفکیک 97 گل علیپور برای‌تیم پرسپولیس؛\nعلی علیپور روز گذشته 97 گل خود برای پرسپولیس را بثمر رساند.\n🆔\n@mazdak_hattrick",
-        "original_link": "https://t.me/mazdak_hattrick/182492",
-        "post_id": 182492,
-        "message_id": 8167,
-        "message_kind": "caption",
-        "sources": [
-          "mazdak_hattrick"
-        ],
-        "created_at": "2026-10-10T16:48:08.889425+00:00"
-      },
-      {
-        "fingerprint": "c70f8b4ece2b3e1cab6c8ea5bed3fa844a196f0a0343d9785a8dd014d15c49e7",
-        "media_fingerprint": "3c1fc9e7a25e8eb1d5ee4ddd2c4e2424b1a0c7da303bda8b6c54dedcb247e556",
-        "text": "آتش‌بازی چلسی و کامبک رویایی ایپسویچ\nهفته ششم لیگ برتر فوتبال انگلیس با برد پرگل چلسی برابر بورنموث و کامبک لحظات پایانی ایپسویچ مقابل فولام همراه بود.\nچلسی ۵-۱ بورنموث\n🆔\n@footballvision2",
-        "original_username": "footballvision2",
-        "original_text": "آتش‌بازی چلسی و کامبک رویایی ایپسویچ\nهفته ششم لیگ برتر فوتبال انگلیس با برد پرگل چلسی برابر بورنموث و کامبک لحظات پایانی ایپسویچ مقابل فولام همراه بود.\nچلسی ۵-۱ بورنموث\n🆔\n@footballvision2",
-        "original_link": "https://t.me/footballvision2/170952",
-        "post_id": 170952,
-        "message_id": 8168,
-        "message_kind": "caption",
-        "sources": [
-          "footballvision2"
-        ],
-        "created_at": "2026-10-10T16:48:13.360862+00:00"
-      },
-      {
-        "fingerprint": "6b4841619448175767fc03c778189b10f765b3459eb7f1f219c29c9a1a75e2c0",
-        "media_fingerprint": "",
-        "text": "بارسلونا دقیقه ۲ گل زددددددد",
-        "original_username": "futball180tv",
-        "original_text": "بارسلونا دقیقه ۲ گل زددددددد",
-        "original_link": "https://t.me/Futball180TV/108277",
-        "post_id": 108277,
-        "message_id": 8169,
-        "message_kind": "text",
-        "sources": [
-          "futball180tv"
-        ],
-        "created_at": "2026-10-10T16:48:15.876051+00:00"
-      },
-      {
-        "fingerprint": "f3c091ff27a406d0dd1972e213a06357cab63c7b5420ee640992b39ac7929fd2",
-        "media_fingerprint": "bee15c1a9d92b70fe4fd191e11aaa0163ecf33fc48b0ba331b268a8ac6b91aa8",
-        "text": "🔸\nبارسلونا - ختافه\n🔸\n🔸\nهفته ۸ لالیگا\n🔗\nپخش زنده ساعت ۲۰:۰۰ در فوتبال ۳۶۰  @Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "🔸\nبارسلونا - ختافه\n🔸\n🔸\nهفته ۸ لالیگا\n🔗\nپخش زنده ساعت ۲۰:۰۰ در فوتبال ۳۶۰  @Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/109615",
-        "post_id": 109615,
-        "message_id": 8170,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-10T16:48:19.989580+00:00"
-      },
-      {
-        "fingerprint": "a0c66d5195162060aa1c7ad0c6adbb9fe6e5fc01075f782d2c07517d04042c51",
-        "media_fingerprint": "be00327e23cc597471a996dfd7c81821dc84b010bab97a989c63360c756529ea",
-        "text": "🇪🇸\nگل‌اول بارسلونا به ختافه توسط آنتونی گوردون\n⚽️\n@Futball180TV",
-        "original_username": "futball180tv",
-        "original_text": "🇪🇸\nگل‌اول بارسلونا به ختافه توسط آنتونی گوردون\n⚽️\n@Futball180TV",
-        "original_link": "https://t.me/Futball180TV/108279",
-        "post_id": 108279,
-        "message_id": 8171,
-        "message_kind": "caption",
-        "sources": [
-          "futball180tv"
-        ],
-        "created_at": "2026-10-10T16:48:25.506195+00:00"
-      },
-      {
-        "fingerprint": "d1a43d84c3e8e9e8295698767ff95376fe495ab8cf3139e1a0d7585752b19197",
-        "media_fingerprint": "d675b6b95768583fa58e18fe29bf8aebe00d065c6975c56bad7abebe3f9918fb",
-        "text": "📷\nتقدیر از پدرو پیش از دیدار بارسلونا مقابل ختافه  @Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "📷\nتقدیر از پدرو پیش از دیدار بارسلونا مقابل ختافه  @Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/109617",
-        "post_id": 109617,
-        "message_id": 8172,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-10T16:48:29.675375+00:00"
-      },
-      {
-        "fingerprint": "1a900e2d87d7ca5578f90b00541a60cfb891e3b5220a460c8038b50113012070",
-        "media_fingerprint": "3b7d8b3d3b05d38ab9afb54d9d14aa23923283a5e871bfa4213039f5c1800923",
-        "text": "امروز دهم اکتبر روز جهانی سلامت روان.\nوقتشه بعضی آدما رو از زندگیت دیلیت کنی\n!\n◽️\nگاهی برای رسیدن به آرامش، نه دارو لازم داری، نه یوگا و مدیتیشن!!! فقط باید از رابطه‌هایی فاصله بگیری که بیشتر از اینکه بهت عشق بدن، روانت رو فرسوده می‌کنن!\n🙂\n◽️\nبعضی وقت‌ها بلاک کردن یک آدم سمی، بهترین کاریه که می‌تونی برای خودت انجام بدی.\n◽️\nسلامت روانت رو خرج رابطه‌های فرسایشی و لست‌سین‌های مبهم نکن آرامش تو از هر رابطه‌ای مهم‌تره.\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_username": "majalepezeshki",
-        "original_text": "امروز دهم اکتبر روز جهانی سلامت روان.\nوقتشه بعضی آدما رو از زندگیت دیلیت کنی\n!\n◽️\nگاهی برای رسیدن به آرامش، نه دارو لازم داری، نه یوگا و مدیتیشن!!! فقط باید از رابطه‌هایی فاصله بگیری که بیشتر از اینکه بهت عشق بدن، روانت رو فرسوده می‌کنن!\n🙂\n◽️\nبعضی وقت‌ها بلاک کردن یک آدم سمی، بهترین کاریه که می‌تونی برای خودت انجام بدی.\n◽️\nسلامت روانت رو خرج رابطه‌های فرسایشی و لست‌سین‌های مبهم نکن آرامش تو از هر رابطه‌ای مهم‌تره.\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_link": "https://t.me/MajalePezeshki/38690",
-        "post_id": 38690,
-        "message_id": 8173,
-        "message_kind": "caption",
-        "sources": [
-          "majalepezeshki"
-        ],
-        "created_at": "2026-10-10T16:48:34.658833+00:00"
-      },
       {
         "fingerprint": "f6eed45c5a3998cec103eb1547674a712120e0f2a693f20634ce7f36a92d16a0",
         "media_fingerprint": "306c75db4dbf3d7002080700402763104fa6368efe8a8c954c173db403a35e08",
@@ -35497,6 +35367,156 @@
           "akhbarfars"
         ],
         "created_at": "2026-10-13T18:29:10.484389+00:00"
+      },
+      {
+        "fingerprint": "55658846cf6192929b4cb3da49195642f1449b0cfcc078df7c2d426d718d099e",
+        "media_fingerprint": "dc228c4515f1b7a866522fa7fcf141ed4643819d75b9617eacd6dcea1a30853c",
+        "text": "دوستان دیگه نیازی نیست سانت کنید،راحت باشید\n😂\n😂\n😂\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "دوستان دیگه نیازی نیست سانت کنید،راحت باشید\n😂\n😂\n😂\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48361",
+        "post_id": 48361,
+        "message_id": 9251,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-13T19:02:29.028464+00:00"
+      },
+      {
+        "fingerprint": "edb3ab11d4510ef9a45dd7b4be203cc9cd59f33181c22bdf7236eee12138977a",
+        "media_fingerprint": "bf6b9e1a9b8426f2e81bb8b8b3ead5ff04d5aa1a5bbd39d64df8629792fa1fde",
+        "text": "♦️\nظریف: اکثر مردم لامرد مخالف مذاکره هستند؛ چون آمریکا موشک‌هایش را روی مردم آنجا تست کرد!\n🔹\nآمریکایی‌ها نفهمیدند که با فشار و تهدید؛ مردم ایران مقاومت می‌کنند.‌\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nظریف: اکثر مردم لامرد مخالف مذاکره هستند؛ چون آمریکا موشک‌هایش را روی مردم آنجا تست کرد!\n🔹\nآمریکایی‌ها نفهمیدند که با فشار و تهدید؛ مردم ایران مقاومت می‌کنند.‌\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143680",
+        "post_id": 143680,
+        "message_id": 9252,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-13T19:02:35.504968+00:00"
+      },
+      {
+        "fingerprint": "ed36f92eedd13825cd07507df972e3d2a2aa95df78da5626c177a867ceed5ab3",
+        "media_fingerprint": "",
+        "text": "❌\nاستخدام ویژه\n❌\nبه تعدادی ادمین جهت درج آگهی در دیوار\nبا حقوق و مزایای عالی نیازمندیم .\n✅\nهر ماه ۱ آگهی برای ما میزنید در دیوار ، تا\n۳۰ روز پاسخگوی مشتریان در چت دیوار هستید\n✅\nحقوق روزانه 650 هزار تومان است و هر\nشب تسویه میشه\n✅\nکار به صورت همیشگی هست\n🌹\nدر صورت تمایل به همکاری با ما کلمه\nادمین رو به ایدی زیر ارسال کنید\n👇\n👇\n🆔\n@parisa_lalezar\nنمونه واریز حقوق کارکنان\n👇\n👇\nhttps://t.me/va_rizi_admin",
+        "original_username": "dr_salamatx",
+        "original_text": "❌\nاستخدام ویژه\n❌\nبه تعدادی ادمین جهت درج آگهی در دیوار\nبا حقوق و مزایای عالی نیازمندیم .\n✅\nهر ماه ۱ آگهی برای ما میزنید در دیوار ، تا\n۳۰ روز پاسخگوی مشتریان در چت دیوار هستید\n✅\nحقوق روزانه 650 هزار تومان است و هر\nشب تسویه میشه\n✅\nکار به صورت همیشگی هست\n🌹\nدر صورت تمایل به همکاری با ما کلمه\nادمین رو به ایدی زیر ارسال کنید\n👇\n👇\n🆔\n@parisa_lalezar\nنمونه واریز حقوق کارکنان\n👇\n👇\nhttps://t.me/va_rizi_admin",
+        "original_link": "https://t.me/Dr_SalamatX/55397",
+        "post_id": 55397,
+        "message_id": 9253,
+        "message_kind": "text",
+        "sources": [
+          "dr_salamatx"
+        ],
+        "created_at": "2026-10-13T19:02:38.559932+00:00"
+      },
+      {
+        "fingerprint": "1995fefe1a1d0edc42402b211175297b9900f4f846a064cf0e43eb9a7863e06e",
+        "media_fingerprint": "",
+        "text": "فردا در ترکیب اصلی پرسپولیس حضور داره",
+        "original_username": "adak_ir_official",
+        "original_text": "فردا در ترکیب اصلی پرسپولیس حضور داره",
+        "original_link": "https://t.me/ADAK_IR_official/235327",
+        "post_id": 235327,
+        "message_id": 9254,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-13T19:02:41.246049+00:00"
+      },
+      {
+        "fingerprint": "7803b73fc8eb60415906394664655a55ab3496aa981271ccf51fbcba6f5eb950",
+        "media_fingerprint": "b6f15e0850e038ac357079eb79c736924d8bfbdeac0427de6920fc42fd71dd13",
+        "text": "🔴\nیه دختره تو ژاپن\n🇯🇵\nاومده خودشو از طبقه 11 پرت کرده پایین که خودکشی کنه، ولی از شانس عنش مستقیم میفته رو سرِ یه دختر دیگه و باعث مرگ اون میشه ولی خودش هیچیش نمیشه!\n@DrTeL\n| RTcom",
+        "original_username": "drtel",
+        "original_text": "🔴\nیه دختره تو ژاپن\n🇯🇵\nاومده خودشو از طبقه 11 پرت کرده پایین که خودکشی کنه، ولی از شانس عنش مستقیم میفته رو سرِ یه دختر دیگه و باعث مرگ اون میشه ولی خودش هیچیش نمیشه!\n@DrTeL\n| RTcom",
+        "original_link": "https://t.me/drtel/67680",
+        "post_id": 67680,
+        "message_id": 9255,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-13T19:02:46.556523+00:00"
+      },
+      {
+        "fingerprint": "3ae8202075710c17e51751be92f476f35fdb98a215c868f873eb565c53d4b756",
+        "media_fingerprint": "4f5935b4de8ca5af1095b8b595301663b3c324cd1bc6ebd10fb131b33afbc796",
+        "text": "آنلاین شاپ هامون:\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "آنلاین شاپ هامون:\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/3432",
+        "post_id": 3432,
+        "message_id": 9256,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-13T19:02:52.977711+00:00"
+      },
+      {
+        "fingerprint": "12167486e53645ec9014ba085276b25db93bcf6ec2bdf0253a88375b48830f99",
+        "media_fingerprint": "85db7e83b718b254273b3eaf5f39d7974defa60fcc4201bbc3b0d08d1be6f47f",
+        "text": "کدام داروها در آمریکا بیشتر تجویز می‌شوند؟\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "کدام داروها در آمریکا بیشتر تجویز می‌شوند؟\n@irWonders",
+        "original_link": "https://t.me/irwonders/58678",
+        "post_id": 58678,
+        "message_id": 9257,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-13T19:02:58.089907+00:00"
+      },
+      {
+        "fingerprint": "e3e41a2e1e7dea9edb98592fa75308cbb056e07b9d59699502df7789da834d6c",
+        "media_fingerprint": "e177107e5420c1069b127e02e0d108f99a4c7133d1ea75bddb6838e4c3b35831",
+        "text": "♦️\nشیراز در هوای پاییزی، حال‌وهوای دیگری دارد...\n🍂\n🌧️\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nشیراز در هوای پاییزی، حال‌وهوای دیگری دارد...\n🍂\n🌧️\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143681",
+        "post_id": 143681,
+        "message_id": 9258,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-13T19:03:03.185983+00:00"
+      },
+      {
+        "fingerprint": "6707549d18fb8ad07379935b2fd6aefb41627450e51b694e150b12a8a336ef54",
+        "media_fingerprint": "2ddf2c5fc2f11ecccbd5fdab2f564703206c3ceb3b74ea099a0885eba434b87b",
+        "text": "🔸\nترکیب بارسلونا مقابل گالاتاسرای\n🔸\nلیگ قهرمانان اروپا\n🕥\nساعت ۲۲:۳۰\n🔴\nپخش زنده در فوتبال ۳۶۰  @Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "🔸\nترکیب بارسلونا مقابل گالاتاسرای\n🔸\nلیگ قهرمانان اروپا\n🕥\nساعت ۲۲:۳۰\n🔴\nپخش زنده در فوتبال ۳۶۰  @Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/109970",
+        "post_id": 109970,
+        "message_id": 9259,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-13T19:03:07.086910+00:00"
+      },
+      {
+        "fingerprint": "d347a8b3c5223060b7337b9c3d1ae2f7c9f12f29d9b3a7cd308cb20ebebbecbb",
+        "media_fingerprint": "a85aa583e9dca795cc72a23960b20c05fe0edac1e9b1d924366ab626a8139b8e",
+        "text": "🍊\nگریپ‌فرو\nت و\nآب گریپ‌فرو\nت می‌توانند اثر بعضی داروها را تغییر دهند؛ حتی ممکن است مقدار دارو در خون را بیش از حد بالا ببرند.\nاگر\nداروی فشار خون، چربی خون یا قل\nب مصرف می‌کنید، روی بروشور دارو یا از داروساز درباره گریپ‌فروت بپرسید.\n‌‌‌‌‌‌‌‌‌‌‌\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "🍊\nگریپ‌فرو\nت و\nآب گریپ‌فرو\nت می‌توانند اثر بعضی داروها را تغییر دهند؛ حتی ممکن است مقدار دارو در خون را بیش از حد بالا ببرند.\nاگر\nداروی فشار خون، چربی خون یا قل\nب مصرف می‌کنید، روی بروشور دارو یا از داروساز درباره گریپ‌فروت بپرسید.\n‌‌‌‌‌‌‌‌‌‌‌\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/159799",
+        "post_id": 159799,
+        "message_id": 9260,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-13T19:03:11.844383+00:00"
       }
     ]
   }
