@@ -1,16 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143658,
+      "last_id": 143666,
       "processed_ids": [
-        142531,
-        142532,
-        142533,
-        142534,
-        142535,
-        142536,
-        142537,
-        142538,
         142539,
         142540,
         142541,
@@ -1002,14 +994,21 @@
         143655,
         143656,
         143657,
-        143658
+        143658,
+        143659,
+        143660,
+        143661,
+        143662,
+        143663,
+        143664,
+        143665,
+        143666
       ],
-      "sent_count": 946
+      "sent_count": 952
     },
     "total_fut": {
-      "last_id": 237905,
+      "last_id": 237906,
       "processed_ids": [
-        236843,
         236844,
         236845,
         236846,
@@ -2008,7 +2007,8 @@
         237902,
         237903,
         237904,
-        237905
+        237905,
+        237906
       ],
       "sent_count": 135
     },
@@ -3337,7 +3337,7 @@
       "sent_count": 10
     },
     "drtel": {
-      "last_id": 67673,
+      "last_id": 67675,
       "processed_ids": [
         66561,
         66565,
@@ -4201,9 +4201,11 @@
         67667,
         67668,
         67672,
-        67673
+        67673,
+        67674,
+        67675
       ],
-      "sent_count": 486
+      "sent_count": 487
     },
     "techtube": {
       "last_id": 18516,
@@ -4504,7 +4506,7 @@
       "sent_count": 0
     },
     "amozesh_cafenet": {
-      "last_id": 3168,
+      "last_id": 3170,
       "processed_ids": [
         3087,
         3088,
@@ -4575,9 +4577,11 @@
         3165,
         3166,
         3167,
-        3168
+        3168,
+        3169,
+        3170
       ],
-      "sent_count": 36
+      "sent_count": 38
     },
     "sabtnamkh0dro": {
       "last_id": 14416,
@@ -5087,7 +5091,7 @@
       "sent_count": 95
     },
     "roidbest": {
-      "last_id": 21852,
+      "last_id": 21853,
       "processed_ids": [
         21613,
         21614,
@@ -5316,12 +5320,13 @@
         21849,
         21850,
         21851,
-        21852
+        21852,
+        21853
       ],
-      "sent_count": 139
+      "sent_count": 140
     },
     "akhbar_cafenet": {
-      "last_id": 23333,
+      "last_id": 23334,
       "processed_ids": [
         22432,
         22433,
@@ -6168,7 +6173,8 @@
         23330,
         23331,
         23332,
-        23333
+        23333,
+        23334
       ],
       "sent_count": 456
     },
@@ -9719,12 +9725,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 109933,
+      "last_id": 109937,
       "processed_ids": [
-        108853,
-        108855,
-        108856,
-        108858,
         108859,
         108860,
         108861,
@@ -10720,14 +10722,17 @@
         109930,
         109931,
         109932,
-        109933
+        109933,
+        109934,
+        109935,
+        109936,
+        109937
       ],
       "sent_count": 150
     },
     "varzesh3": {
-      "last_id": 303999,
+      "last_id": 304000,
       "processed_ids": [
-        302907,
         302908,
         302909,
         302911,
@@ -11726,12 +11731,13 @@
         303996,
         303997,
         303998,
-        303999
+        303999,
+        304000
       ],
       "sent_count": 94
     },
     "totalfut_plus": {
-      "last_id": 26753,
+      "last_id": 26754,
       "processed_ids": [
         25870,
         25871,
@@ -12587,7 +12593,8 @@
         26749,
         26750,
         26752,
-        26753
+        26753,
+        26754
       ],
       "sent_count": 61
     },
@@ -13598,9 +13605,8 @@
       "sent_count": 202
     },
     "futball180tv": {
-      "last_id": 108569,
+      "last_id": 108570,
       "processed_ids": [
-        107537,
         107538,
         107539,
         107540,
@@ -14599,15 +14605,14 @@
         108566,
         108567,
         108568,
-        108569
+        108569,
+        108570
       ],
       "sent_count": 98
     },
     "hattric_official": {
-      "last_id": 84856,
+      "last_id": 84858,
       "processed_ids": [
-        83797,
-        83798,
         83799,
         83800,
         83801,
@@ -15605,7 +15610,9 @@
         84852,
         84853,
         84855,
-        84856
+        84856,
+        84857,
+        84858
       ],
       "sent_count": 135
     },
@@ -16325,7 +16332,7 @@
       "sent_count": 13
     },
     "irwonders": {
-      "last_id": 58670,
+      "last_id": 58671,
       "processed_ids": [
         58030,
         58031,
@@ -16910,9 +16917,10 @@
         58664,
         58665,
         58669,
-        58670
+        58670,
+        58671
       ],
-      "sent_count": 369
+      "sent_count": 370
     },
     "razcom": {
       "last_id": 70496,
@@ -18500,7 +18508,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 306998,
+      "last_id": 307000,
       "processed_ids": [
         306563,
         306564,
@@ -18929,9 +18937,11 @@
         306994,
         306995,
         306997,
-        306998
+        306998,
+        306999,
+        307000
       ],
-      "sent_count": 185
+      "sent_count": 187
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -20006,7 +20016,7 @@
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6342,
+      "last_id": 6344,
       "processed_ids": [
         6113,
         6114,
@@ -20215,7 +20225,9 @@
         6338,
         6340,
         6341,
-        6342
+        6342,
+        6343,
+        6344
       ],
       "sent_count": 6
     },
@@ -20319,203 +20331,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "b3a807e07f4cf30f845ed23dc537da82dd06547be8c682c82312488d55f95ec0",
-        "media_fingerprint": "ded1b9abcb0d652bcc3c17edb371edee1d81ac1293df999ba9785ae6f819a9af",
-        "text": "اسمی که برای سرخ‌ها بازی کرد، متولد ۸۸ است\n📊\nجوان‌تربن بازیکنان تاریخ پرسپولیس؛ پویا اسمی دوم شد\n🔸\nپویا اسمی که در دقایق پایانی بازی پرسپولیس - صنعت‌نفت جای حسین ابرقویی را گرفت، با ۱۷ سال و ۴۷ روز سن به جوان‌ترین بازیکن پرسپولیس در یک بازی لیگ برتری تبدیل…",
-        "original_username": "ft360_ir",
-        "original_text": "اسمی که برای سرخ‌ها بازی کرد، متولد ۸۸ است\n📊\nجوان‌تربن بازیکنان تاریخ پرسپولیس؛ پویا اسمی دوم شد\n🔸\nپویا اسمی که در دقایق پایانی بازی پرسپولیس - صنعت‌نفت جای حسین ابرقویی را گرفت، با ۱۷ سال و ۴۷ روز سن به جوان‌ترین بازیکن پرسپولیس در یک بازی لیگ برتری تبدیل…",
-        "original_link": "https://t.me/ft360_ir/109544",
-        "post_id": 109544,
-        "message_id": 8097,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-10T12:23:18.572285+00:00"
-      },
-      {
-        "fingerprint": "aa18de4b0bd7ed91ecaca9e5056aa46ffda556270f67706625731fa1d378f405",
-        "media_fingerprint": "",
-        "text": "♦️\nرئیس سازمان هدفمندسازی یارانه‌ها: یارانه نقدی تا پایان سال بدون تأخیر پرداخت خواهد‌ شد\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nرئیس سازمان هدفمندسازی یارانه‌ها: یارانه نقدی تا پایان سال بدون تأخیر پرداخت خواهد‌ شد\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143423",
-        "post_id": 143423,
-        "message_id": 8098,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars",
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-10T12:23:21.222791+00:00"
-      },
-      {
-        "fingerprint": "b44643bddf85973bc11ef4ba7b6f96d65adb18829e81a98616012b3cf89a749d",
-        "media_fingerprint": "b10046dcbd1f236400631e6ea3c0f51f6799a0f72b58d3fd6b6e290e84b73801",
-        "text": "هم اکنون| رنگین کمان در آسمان اراک\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "هم اکنون| رنگین کمان در آسمان اراک\n@irWonders",
-        "original_link": "https://t.me/irwonders/58549",
-        "post_id": 58549,
-        "message_id": 8099,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-10T12:53:10.269972+00:00"
-      },
-      {
-        "fingerprint": "ada46f02bb48d94e5ded244172b49e04796228782d3de7b5e96090a246a2976f",
-        "media_fingerprint": "d589898ff1d3f3939ef3528a25388ff2524ede4f3f7e684e2bbe0709c815a091",
-        "text": "🔴\nامروز صبح یه پسر جوون وارد یکی از واحدهای تجاری تو طبقه چهارمِ پاساژ سعدی تو خیابون سعدی تهران شد؛\nاین جوونِ 25 ساله همونجا کُلت رو درآورد و منشیِ زنِ شرکت رو کُشت و بعد تا قبل رسیدن پلیس، خودشم کُشت!\nهنوز علت این خون و خون‌ریزی معلوم نیست...\n@DrTeL\n| MEHR",
-        "original_username": "drtel",
-        "original_text": "🔴\nامروز صبح یه پسر جوون وارد یکی از واحدهای تجاری تو طبقه چهارمِ پاساژ سعدی تو خیابون سعدی تهران شد؛\nاین جوونِ 25 ساله همونجا کُلت رو درآورد و منشیِ زنِ شرکت رو کُشت و بعد تا قبل رسیدن پلیس، خودشم کُشت!\nهنوز علت این خون و خون‌ریزی معلوم نیست...\n@DrTeL\n| MEHR",
-        "original_link": "https://t.me/drtel/67545",
-        "post_id": 67545,
-        "message_id": 8100,
-        "message_kind": "caption",
-        "sources": [
-          "drtel",
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-10T12:53:14.719442+00:00"
-      },
-      {
-        "fingerprint": "c5f7ca8f80346847eded6f43edf33123784e98f96f91047c3c6893ce475e3712",
-        "media_fingerprint": "d8101de838a384672a258f44fbcfada392ce983de7dc82e650bc90adca1f82ea",
-        "text": "✂️\n🔥\nاصلاح تمیز و حرفه‌ای، بدون دردسر رفتن به آرایشگاه!\n✨\nصفرزن و خط‌زن\nبرای اصلاح دقیق\n🔪\nتیغه استیل باکیفیت\n⚡️\nتا\n۴ ساعت استفاده\nبا یک شارژ\n📊\nنمایشگر میزان شارژ\n💈\nهمراه با\n۴ شانه اصلاح\nبرای اندازه‌های مختلف\n💥\nقیمت ویژه: فقط ۱,۳۹۸,۰۰۰ تومان\n❌\nقیمت قبلی:\n۱,۶۹۸,۰۰۰ تومان\n💳\nالان بخر، بعداً پرداخت کن!\n✅\nامکان پرداخت\nقسطی با ترب‌پی\n🔥\nهم برای اصلاح روزمره، هم برای مرتب کردن خط و ریش؛ یک انتخاب کاربردی و اقتصادی.\n👇\nhttps://memarket24.ir/product/fast/47608/180124/",
-        "original_username": "akhbarfars",
-        "original_text": "✂️\n🔥\nاصلاح تمیز و حرفه‌ای، بدون دردسر رفتن به آرایشگاه!\n✨\nصفرزن و خط‌زن\nبرای اصلاح دقیق\n🔪\nتیغه استیل باکیفیت\n⚡️\nتا\n۴ ساعت استفاده\nبا یک شارژ\n📊\nنمایشگر میزان شارژ\n💈\nهمراه با\n۴ شانه اصلاح\nبرای اندازه‌های مختلف\n💥\nقیمت ویژه: فقط ۱,۳۹۸,۰۰۰ تومان\n❌\nقیمت قبلی:\n۱,۶۹۸,۰۰۰ تومان\n💳\nالان بخر، بعداً پرداخت کن!\n✅\nامکان پرداخت\nقسطی با ترب‌پی\n🔥\nهم برای اصلاح روزمره، هم برای مرتب کردن خط و ریش؛ یک انتخاب کاربردی و اقتصادی.\n👇\nhttps://memarket24.ir/product/fast/47608/180124/",
-        "original_link": "https://t.me/akhbarfars/143424",
-        "post_id": 143424,
-        "message_id": 8101,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-10T12:53:21.573449+00:00"
-      },
-      {
-        "fingerprint": "ccb6eb7f1ab3d478f314393a398573d9746bca9a7729e97138f6a39acaedfa87",
-        "media_fingerprint": "32433651f93736a9c41d66ddf9dd5bb2f2601c4cca1a160397586123df0bf2a7",
-        "text": "‼️\n🇮🇷\n🇮🇷\nدر فاصله دو روز مانده به بازی استقلال و الغرافه قطر، هواداران پرسپولیس درحال کامنت گذاری زیر پیج این تیم قطری درباره یاسر‌آسانی هستند. این درحالیست که آسانی بدلیل مصدومیت مقابل الغرافه به میدان نخواهد رفت\n⚽️\n@Futball180TV",
-        "original_username": "futball180tv",
-        "original_text": "‼️\n🇮🇷\n🇮🇷\nدر فاصله دو روز مانده به بازی استقلال و الغرافه قطر، هواداران پرسپولیس درحال کامنت گذاری زیر پیج این تیم قطری درباره یاسر‌آسانی هستند. این درحالیست که آسانی بدلیل مصدومیت مقابل الغرافه به میدان نخواهد رفت\n⚽️\n@Futball180TV",
-        "original_link": "https://t.me/Futball180TV/108251",
-        "post_id": 108251,
-        "message_id": 8102,
-        "message_kind": "caption",
-        "sources": [
-          "futball180tv"
-        ],
-        "created_at": "2026-10-10T12:53:25.887813+00:00"
-      },
-      {
-        "fingerprint": "f432c9c73700611a52be1099074739329c2ca2524bec89553ad5b3c51e235579",
-        "media_fingerprint": "f8b8588ba351a0216d2201c300f7a6eab272849b9e1d09ce06c296ba21973993",
-        "text": "«فقط خسته‌ام» یا دچار فرسودگی شغلی شده‌ام؟\n◽️\nفرسودگی شغلی فقط خستگی معمولی نیست؛ نتیجه‌ی استرس طولانی و مدیریت‌نشده در محیط کار است. نشانه‌های اصلی آن شامل خستگی و تحلیل انرژی، بی‌انگیزگی، فاصله گرفتن ذهنی از کار و کاهش احساس توانمندی است.\n◽️\nبا توجه به افزایش مشکلات سلامت روان در محیط‌های کاری، متخصصان تأکید می‌کنند که تنها استراحت کافی نیست؛ بلکه کاهش فشار کاری، ایجاد مرز بین کار و زندگی شخصی و حمایت محیط کار برای پیشگیری از فرسودگی ضروری است.\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_username": "majalepezeshki",
-        "original_text": "«فقط خسته‌ام» یا دچار فرسودگی شغلی شده‌ام؟\n◽️\nفرسودگی شغلی فقط خستگی معمولی نیست؛ نتیجه‌ی استرس طولانی و مدیریت‌نشده در محیط کار است. نشانه‌های اصلی آن شامل خستگی و تحلیل انرژی، بی‌انگیزگی، فاصله گرفتن ذهنی از کار و کاهش احساس توانمندی است.\n◽️\nبا توجه به افزایش مشکلات سلامت روان در محیط‌های کاری، متخصصان تأکید می‌کنند که تنها استراحت کافی نیست؛ بلکه کاهش فشار کاری، ایجاد مرز بین کار و زندگی شخصی و حمایت محیط کار برای پیشگیری از فرسودگی ضروری است.\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_link": "https://t.me/MajalePezeshki/38688",
-        "post_id": 38688,
-        "message_id": 8103,
-        "message_kind": "caption",
-        "sources": [
-          "majalepezeshki"
-        ],
-        "created_at": "2026-10-10T12:53:30.663558+00:00"
-      },
-      {
-        "fingerprint": "d17884d48ee31fdd1c704eaec2641174e73bb6c8a9feb008c6048362ae944468",
-        "media_fingerprint": "f7e2c439b63df940417f86cefe0d0e0af6b7cc62bcd293cae1d170c92f93e610",
-        "text": "مدیونید اگر فکر کنید هدف چیزی جز اشپزی بود:)))\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "مدیونید اگر فکر کنید هدف چیزی جز اشپزی بود:)))\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/3218",
-        "post_id": 3218,
-        "message_id": 8104,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-10T12:53:35.925920+00:00"
-      },
-      {
-        "fingerprint": "8edd9a81e4d60e64a6d32e2a642ff37f354f7d1ff6c343cd48487dd7abcd9db6",
-        "media_fingerprint": "",
-        "text": "قارچی که با یک ضربه، رنگش تغییر می‌کنه\n!\n🍄\n🔹\nاین قارچ عجیب با بریدن یا خراشیده شدن، به رنگ آبی درمیاد؛ پدیده‌ای شگفت‌انگیز که به واکنش‌های شیمیایی در بافت قارچ مربوطه!\n🧪\n🌿\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "قارچی که با یک ضربه، رنگش تغییر می‌کنه\n!\n🍄\n🔹\nاین قارچ عجیب با بریدن یا خراشیده شدن، به رنگ آبی درمیاد؛ پدیده‌ای شگفت‌انگیز که به واکنش‌های شیمیایی در بافت قارچ مربوطه!\n🧪\n🌿\n@irWonders",
-        "original_link": "https://t.me/irwonders/58550",
-        "post_id": 58550,
-        "message_id": 8105,
-        "message_kind": "text",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-10T12:53:38.718096+00:00"
-      },
-      {
-        "fingerprint": "69b92da6bc91903a9775bdca8404b3dd675b880bb384dd2c574eb0a3a35c6383",
-        "media_fingerprint": "22a495cfe98075e98976c09d0bfb6c5343e3de4a4d553fb024e9fde44ce7b949",
-        "text": "🔸\nترکیب چلسی مقابل بورنموث\n🔸\nهفته ۶ لیگ برتر انگلیس\n🕠\nساعت ۱۷:۳۰\n🔴\nپخش زنده در فوتبال ۳۶۰\n@Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "🔸\nترکیب چلسی مقابل بورنموث\n🔸\nهفته ۶ لیگ برتر انگلیس\n🕠\nساعت ۱۷:۳۰\n🔴\nپخش زنده در فوتبال ۳۶۰\n@Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/109548",
-        "post_id": 109548,
-        "message_id": 8106,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-10T12:53:42.411417+00:00"
-      },
-      {
-        "fingerprint": "8638848d586b4aa182390798a3e33898308ceec7b42d6963730235b5a13302e3",
-        "media_fingerprint": "",
-        "text": "🛰\nونزوئلا به «استارلینک» مجوز فعالیت داد\n🇻🇪\nدِلسی رودریگز، رئیس‌جمهور موقت ونزوئلا، به «استارلینک» — سرویس اینترنت ماهواره‌ای تحت مدیریت شرکت «اسپیس‌اکس» متعلق به ایلان ماسک — مجوز فعالیت در این کشور آمریکای لاتین را اعطا کرد.\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🛰\nونزوئلا به «استارلینک» مجوز فعالیت داد\n🇻🇪\nدِلسی رودریگز، رئیس‌جمهور موقت ونزوئلا، به «استارلینک» — سرویس اینترنت ماهواره‌ای تحت مدیریت شرکت «اسپیس‌اکس» متعلق به ایلان ماسک — مجوز فعالیت در این کشور آمریکای لاتین را اعطا کرد.\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/23169",
-        "post_id": 23169,
-        "message_id": 8107,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-10T13:18:28.862280+00:00"
-      },
-      {
-        "fingerprint": "d07432439022e4355531feb956b2aeb6d862f073ce7485e3543507cb8f4a950e",
-        "media_fingerprint": "f7277092431b965149d5e0d79a580ba52a848c3d0920446a6ab3af4fba058733",
-        "text": "‼️\nلیگ سرمربیان تیم‌های لیگ برتر در فصل بیست و ششم؛ محمد نوری دومین اخراجی فصل جدید.\n🆔\n@mazdak_hattrick",
-        "original_username": "mazdak_hattrick",
-        "original_text": "‼️\nلیگ سرمربیان تیم‌های لیگ برتر در فصل بیست و ششم؛ محمد نوری دومین اخراجی فصل جدید.\n🆔\n@mazdak_hattrick",
-        "original_link": "https://t.me/mazdak_hattrick/182485",
-        "post_id": 182485,
-        "message_id": 8108,
-        "message_kind": "caption",
-        "sources": [
-          "mazdak_hattrick"
-        ],
-        "created_at": "2026-10-10T13:18:33.520510+00:00"
-      },
-      {
-        "fingerprint": "67b97ab4c2752b5390bb9c620daf429d6709aee46f7b42c766c48489993c0048",
-        "media_fingerprint": "",
-        "text": "♦️\nاعزام زائران عمره که قرار بود از نیمه مهر آغاز شود، به‌دلیل نهایی‌نشدن جداول پروازی و تخصیص‌نیافتن ارز زیارتی به تأخیر افتاده است\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nاعزام زائران عمره که قرار بود از نیمه مهر آغاز شود، به‌دلیل نهایی‌نشدن جداول پروازی و تخصیص‌نیافتن ارز زیارتی به تأخیر افتاده است\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143426",
-        "post_id": 143426,
-        "message_id": 8109,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-10T13:18:36.201860+00:00"
-      },
       {
         "fingerprint": "00c1a50d23bf42125a1cc62f353e5a58f66972282aff68748f136fea49eea23a",
         "media_fingerprint": "017e8aeb8e5f24f07aa97960e160c56a4031b033fc1d509fb4d18eb2876b7c00",
@@ -34857,7 +34672,8 @@
         "message_id": 9137,
         "message_kind": "text",
         "sources": [
-          "akhbar_cafenet"
+          "akhbar_cafenet",
+          "akhbarfars"
         ],
         "created_at": "2026-10-13T14:24:15.389086+00:00"
       },
@@ -35415,6 +35231,201 @@
           "bajefilm"
         ],
         "created_at": "2026-10-13T15:53:51.512870+00:00"
+      },
+      {
+        "fingerprint": "cec517cc4a2234f864328fa16c4b8243709017a49e1eb4b4a6e7def04eabd9a7",
+        "media_fingerprint": "7c0bd29b4aa22339474940543689ddc983137b3faf1273064d581ba6090142b6",
+        "text": "♦️\nگل اول آلومینیوم به فجر سپاسی توسط رضا زلفی پور در دقیقه ۹۳\n🔹️\nفجر سپاسی ۲-۱ آلومینیوم اراک\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nگل اول آلومینیوم به فجر سپاسی توسط رضا زلفی پور در دقیقه ۹۳\n🔹️\nفجر سپاسی ۲-۱ آلومینیوم اراک\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143659",
+        "post_id": 143659,
+        "message_id": 9176,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-13T16:23:05.405974+00:00"
+      },
+      {
+        "fingerprint": "b686bdaaded5a829068475296f19b8ecbd6ca82865c8f1d3d10a6b5f3dc4576b",
+        "media_fingerprint": "eebaeae9597f1c18e84acce83b31eb8dbc5eb415b0f3f47f5b75d597479b466d",
+        "text": "تا حالا شده وسط کار با ChatGPT به محدودیت بخوری؟\n😩\nهر وقت به ChatGPT نیاز داری، محدودیت می‌تونه وسط کارت متوقفت کنه.\n🤖\n💜\nبا  زرین اکانت، راحت‌تر از ChatGPT استفاده کن و محدودیت رو بذار کنار!\n💰\nچت جی‌پی‌تی رو ۵ میلیون نخر!\n🔥\nبیا ۱ میلیون و ۲۰۰ بخر!\n👇\nhttps://zarinacc.com/go/xpjzg\nhttps://zarinacc.com/go/xpjzg\nتلگرام ما\n👇\n@zarinacccbot\n@zarinacccbot",
+        "original_username": "khandehabadd",
+        "original_text": "تا حالا شده وسط کار با ChatGPT به محدودیت بخوری؟\n😩\nهر وقت به ChatGPT نیاز داری، محدودیت می‌تونه وسط کارت متوقفت کنه.\n🤖\n💜\nبا  زرین اکانت، راحت‌تر از ChatGPT استفاده کن و محدودیت رو بذار کنار!\n💰\nچت جی‌پی‌تی رو ۵ میلیون نخر!\n🔥\nبیا ۱ میلیون و ۲۰۰ بخر!\n👇\nhttps://zarinacc.com/go/xpjzg\nhttps://zarinacc.com/go/xpjzg\nتلگرام ما\n👇\n@zarinacccbot\n@zarinacccbot",
+        "original_link": "https://t.me/khandehabadd/306999",
+        "post_id": 306999,
+        "message_id": 9177,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-13T16:23:10.296149+00:00"
+      },
+      {
+        "fingerprint": "4742f00f96282dec8257b70e858229a60accc0e9c07f8dd3593f46d10097a381",
+        "media_fingerprint": "4448d197a1f609a8bdb8c30602e8fdbef3356bceda45219bf8fc411a8123dff4",
+        "text": "الان هر کی عقل داره از قبل داره\n😐\n🚬\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "الان هر کی عقل داره از قبل داره\n😐\n🚬\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/307000",
+        "post_id": 307000,
+        "message_id": 9178,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-13T16:23:17.352652+00:00"
+      },
+      {
+        "fingerprint": "a84cfe79859d229e6f517a95635129e0eee82f2e27661e7c502ff574572c54d6",
+        "media_fingerprint": "fb7d85ef14f03027d9563074dce14aebb6e40a71c47b3422c721c391074f6b09",
+        "text": "ورق‌های خالی قرص را دور نریزید\nاگر در داروخانه‌ها دستگاه جمع‌آوری بلیستر دیدید، ورق‌های خالی قرص‌هاتون رو داخلش بندازید. این بلیسترها بازیافت می‌شن تا به حمایت از درمان بیماران نیازمند کمک کنند.\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "ورق‌های خالی قرص را دور نریزید\nاگر در داروخانه‌ها دستگاه جمع‌آوری بلیستر دیدید، ورق‌های خالی قرص‌هاتون رو داخلش بندازید. این بلیسترها بازیافت می‌شن تا به حمایت از درمان بیماران نیازمند کمک کنند.\n@irWonders",
+        "original_link": "https://t.me/irwonders/58671",
+        "post_id": 58671,
+        "message_id": 9179,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-13T16:23:24.705329+00:00"
+      },
+      {
+        "fingerprint": "b919f2b84e2d3be877715871150deff05655a849d9c9ee7173093613fd599176",
+        "media_fingerprint": "",
+        "text": "♦️\nچه کسانی مشمول افزایش اعتبار کالابرگ می‌شوند؟\nمعاون وزیر کار:\n🔹\nافراد نیازمندِ خارج از پوشش کمیته امداد و بهزیستی، در صورت تأیید نیازمندی از سوی این نهادها، مشمول طرح می‌شوند.\n🔹\nافراد در صف حمایت، دریافت‌کنندگان کمک‌های موردی و خانوارهای فاقد خودرو و ملک با درآمد کمتر از سقف تعیین‌شده نیز در این گروه قرار دارند.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nچه کسانی مشمول افزایش اعتبار کالابرگ می‌شوند؟\nمعاون وزیر کار:\n🔹\nافراد نیازمندِ خارج از پوشش کمیته امداد و بهزیستی، در صورت تأیید نیازمندی از سوی این نهادها، مشمول طرح می‌شوند.\n🔹\nافراد در صف حمایت، دریافت‌کنندگان کمک‌های موردی و خانوارهای فاقد خودرو و ملک با درآمد کمتر از سقف تعیین‌شده نیز در این گروه قرار دارند.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143662",
+        "post_id": 143662,
+        "message_id": 9180,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-13T16:23:27.893883+00:00"
+      },
+      {
+        "fingerprint": "01f2536bfc6bc14238b4390f6ffb6605cd52f23ae026a0f108e5ddb03b8d6a29",
+        "media_fingerprint": "bc179375b8c0b5e287691873f24e350adf7a0d2ae6fe8b03b1bb2fc80918e12d",
+        "text": "🔴\nشعارهای منطقیِ مجری رونالدو فن تو تجمعات شبانه؛\nاز اون که یار دشمن کافره\nرونالدو\n🇵🇹\nوالا غيرتش بیشتره\nخوبه که فرد ذلیلی نباشیم\nمثل\nمسی\n🇦🇷\nاسرائیلی نباشیم\n@FUTBALLI18",
+        "original_username": "drtel",
+        "original_text": "🔴\nشعارهای منطقیِ مجری رونالدو فن تو تجمعات شبانه؛\nاز اون که یار دشمن کافره\nرونالدو\n🇵🇹\nوالا غيرتش بیشتره\nخوبه که فرد ذلیلی نباشیم\nمثل\nمسی\n🇦🇷\nاسرائیلی نباشیم\n@FUTBALLI18",
+        "original_link": "https://t.me/drtel/67675",
+        "post_id": 67675,
+        "message_id": 9181,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-13T16:23:34.450200+00:00"
+      },
+      {
+        "fingerprint": "d22a5a912457e1aa69499d542ad1c8c2f69848f3b5de1dcbb25aa3e450381b1f",
+        "media_fingerprint": "dd23258e74f556088a8fb63d1f24f1c7741c691ffe9a48181de66ae98019c874",
+        "text": "ذهن مریض سازنده\n😭\n😭\n😭\n@RoidBest",
+        "original_username": "roidbest",
+        "original_text": "ذهن مریض سازنده\n😭\n😭\n😭\n@RoidBest",
+        "original_link": "https://t.me/RoidBest/21853",
+        "post_id": 21853,
+        "message_id": 9182,
+        "message_kind": "text",
+        "sources": [
+          "roidbest"
+        ],
+        "created_at": "2026-10-13T16:23:37.866777+00:00"
+      },
+      {
+        "fingerprint": "acbde56709b6f01027f3d28d54c87b75984618029cdd15d8df1d8fa6cc65d280",
+        "media_fingerprint": "a57a0956394629f321a64c8b0ff3e83666830a8824a16bfc7909d0d97de5530b",
+        "text": "♦️\nبارش شدید باران و آب گیری انجیرستان های کوه دهنه، ایج، شرق استهبان\n٢١ مهر ١۴٠۵\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nبارش شدید باران و آب گیری انجیرستان های کوه دهنه، ایج، شرق استهبان\n٢١ مهر ١۴٠۵\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143663",
+        "post_id": 143663,
+        "message_id": 9183,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-13T16:23:42.645639+00:00"
+      },
+      {
+        "fingerprint": "947f6f2b3c5842513903e9f00d0c2be5e428d048e0c3ca3e0ca892a06b72d05f",
+        "media_fingerprint": "220123b1f1c58ecc1244a48c5303621ca7fd70dfe2ed6723c665aafebec390a6",
+        "text": "♦️\nشهر شیراز ، ۲۱ مهر ماه ۱۴۰۵ رگبار باران\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nشهر شیراز ، ۲۱ مهر ماه ۱۴۰۵ رگبار باران\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143664",
+        "post_id": 143664,
+        "message_id": 9184,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-13T16:23:49.832520+00:00"
+      },
+      {
+        "fingerprint": "53f71cd693123ce75015b70909569724d4d19729df3be39660c6d271f60fe614",
+        "media_fingerprint": "c221ebc5ded1aa6d8d82baf978b28182e805f95369001f8c70941b085ba1ab86",
+        "text": "♦️\nبارش شدید باران ، شیراز، میدان اطلسی\n٢١ مهر ١۴٠۵\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nبارش شدید باران ، شیراز، میدان اطلسی\n٢١ مهر ١۴٠۵\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143665",
+        "post_id": 143665,
+        "message_id": 9185,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-13T16:23:55.966659+00:00"
+      },
+      {
+        "fingerprint": "ac8642f4eee95f095d36ac2d8005a3a163eaf5034dd301b66133b3a911bd854f",
+        "media_fingerprint": "65139c9549098dd9c2ba1baa057ca25ec23080b26cd5074dd6ef573d01d6c112",
+        "text": "♦️\nجاری شدن مسیلها، روستای درجوه، شهرستان بختگان ٢١ مهر ١۴٠۵\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nجاری شدن مسیلها، روستای درجوه، شهرستان بختگان ٢١ مهر ١۴٠۵\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143666",
+        "post_id": 143666,
+        "message_id": 9186,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-13T16:24:05.629378+00:00"
+      },
+      {
+        "fingerprint": "08db2f85c8ff32bd5d5696496ed05666ba27c846900af6b32b4943825ae1b902",
+        "media_fingerprint": "f78eefb095ae9a832b70a8d60fdc07f7d5a8eaf08ffac0ed1042afcbce40254e",
+        "text": "",
+        "original_username": "amozesh_cafenet",
+        "original_text": "",
+        "original_link": "https://t.me/amozesh_cafenet/3169",
+        "post_id": 3169,
+        "message_id": 9187,
+        "message_kind": "caption",
+        "sources": [
+          "amozesh_cafenet"
+        ],
+        "created_at": "2026-10-13T16:24:12.366229+00:00"
+      },
+      {
+        "fingerprint": "6ef038e28a3489ac2aecdc3c5784bdca12fdeee3e1332d1acce1428b11906ba8",
+        "media_fingerprint": "",
+        "text": "✅\nسایت روان شد با موزیلا بزنید.",
+        "original_username": "amozesh_cafenet",
+        "original_text": "✅\nسایت روان شد با موزیلا بزنید.",
+        "original_link": "https://t.me/amozesh_cafenet/3170",
+        "post_id": 3170,
+        "message_id": 9188,
+        "message_kind": "text",
+        "sources": [
+          "amozesh_cafenet"
+        ],
+        "created_at": "2026-10-13T16:24:14.915552+00:00"
       }
     ]
   }
