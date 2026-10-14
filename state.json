@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143703,
+      "last_id": 143705,
       "processed_ids": [
-        142574,
-        142575,
         142576,
         142577,
         142578,
@@ -1002,15 +1000,15 @@
         143700,
         143701,
         143702,
-        143703
+        143703,
+        143704,
+        143705
       ],
-      "sent_count": 970
+      "sent_count": 971
     },
     "total_fut": {
-      "last_id": 237938,
+      "last_id": 237940,
       "processed_ids": [
-        236876,
-        236877,
         236878,
         236879,
         236880,
@@ -2008,15 +2006,15 @@
         237935,
         237936,
         237937,
-        237938
+        237938,
+        237939,
+        237940
       ],
-      "sent_count": 138
+      "sent_count": 139
     },
     "footballvision2": {
-      "last_id": 171363,
+      "last_id": 171365,
       "processed_ids": [
-        170262,
-        170263,
         170264,
         170265,
         170266,
@@ -3014,7 +3012,9 @@
         171360,
         171361,
         171362,
-        171363
+        171363,
+        171364,
+        171365
       ],
       "sent_count": 147
     },
@@ -3065,7 +3065,7 @@
       "sent_count": 6
     },
     "fars_today": {
-      "last_id": 132214,
+      "last_id": 132215,
       "processed_ids": [
         131975,
         131976,
@@ -3300,7 +3300,8 @@
         132211,
         132212,
         132213,
-        132214
+        132214,
+        132215
       ],
       "sent_count": 124
     },
@@ -4830,7 +4831,7 @@
       "sent_count": 101
     },
     "coffeenetmanager": {
-      "last_id": 51854,
+      "last_id": 51857,
       "processed_ids": [
         51537,
         51538,
@@ -5128,12 +5129,15 @@
         51851,
         51852,
         51853,
-        51854
+        51854,
+        51855,
+        51856,
+        51857
       ],
-      "sent_count": 96
+      "sent_count": 97
     },
     "roidbest": {
-      "last_id": 21856,
+      "last_id": 21857,
       "processed_ids": [
         21613,
         21614,
@@ -5366,12 +5370,13 @@
         21853,
         21854,
         21855,
-        21856
+        21856,
+        21857
       ],
-      "sent_count": 140
+      "sent_count": 141
     },
     "akhbar_cafenet": {
-      "last_id": 23352,
+      "last_id": 23360,
       "processed_ids": [
         22432,
         22433,
@@ -6237,9 +6242,17 @@
         23349,
         23350,
         23351,
-        23352
+        23352,
+        23353,
+        23354,
+        23355,
+        23356,
+        23357,
+        23358,
+        23359,
+        23360
       ],
-      "sent_count": 463
+      "sent_count": 465
     },
     "comentiat": {
       "last_id": 26497,
@@ -9835,11 +9848,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 110050,
+      "last_id": 110053,
       "processed_ids": [
-        108984,
-        108985,
-        108996,
         108997,
         108998,
         108999,
@@ -10836,15 +10846,16 @@
         110047,
         110048,
         110049,
-        110050
+        110050,
+        110051,
+        110052,
+        110053
       ],
-      "sent_count": 167
+      "sent_count": 168
     },
     "varzesh3": {
-      "last_id": 304073,
+      "last_id": 304075,
       "processed_ids": [
-        302984,
-        302985,
         302986,
         302987,
         302988,
@@ -11842,12 +11853,14 @@
         304070,
         304071,
         304072,
-        304073
+        304073,
+        304074,
+        304075
       ],
-      "sent_count": 105
+      "sent_count": 106
     },
     "totalfut_plus": {
-      "last_id": 26768,
+      "last_id": 26770,
       "processed_ids": [
         25870,
         25871,
@@ -12718,7 +12731,9 @@
         26765,
         26766,
         26767,
-        26768
+        26768,
+        26769,
+        26770
       ],
       "sent_count": 63
     },
@@ -13729,11 +13744,8 @@
       "sent_count": 211
     },
     "futball180tv": {
-      "last_id": 108661,
+      "last_id": 108664,
       "processed_ids": [
-        107622,
-        107623,
-        107624,
         107625,
         107626,
         107627,
@@ -14730,17 +14742,16 @@
         108658,
         108659,
         108660,
-        108661
+        108661,
+        108662,
+        108663,
+        108664
       ],
       "sent_count": 106
     },
     "hattric_official": {
-      "last_id": 84887,
+      "last_id": 84891,
       "processed_ids": [
-        83829,
-        83830,
-        83831,
-        83832,
         83833,
         83834,
         83835,
@@ -15736,12 +15747,16 @@
         84884,
         84885,
         84886,
-        84887
+        84887,
+        84888,
+        84889,
+        84890,
+        84891
       ],
       "sent_count": 145
     },
     "mazdak_hattrick": {
-      "last_id": 182578,
+      "last_id": 182579,
       "processed_ids": [
         181991,
         181992,
@@ -16316,7 +16331,8 @@
         182575,
         182576,
         182577,
-        182578
+        182578,
+        182579
       ],
       "sent_count": 54
     },
@@ -16435,7 +16451,7 @@
       "sent_count": 0
     },
     "khooroosjangi": {
-      "last_id": 85754,
+      "last_id": 85755,
       "processed_ids": [
         85726,
         85727,
@@ -16464,12 +16480,13 @@
         85750,
         85752,
         85753,
-        85754
+        85754,
+        85755
       ],
-      "sent_count": 13
+      "sent_count": 14
     },
     "irwonders": {
-      "last_id": 58688,
+      "last_id": 58690,
       "processed_ids": [
         58030,
         58031,
@@ -17072,9 +17089,11 @@
         58685,
         58686,
         58687,
-        58688
+        58688,
+        58689,
+        58690
       ],
-      "sent_count": 379
+      "sent_count": 381
     },
     "razcom": {
       "last_id": 70496,
@@ -18664,7 +18683,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 307014,
+      "last_id": 307015,
       "processed_ids": [
         306563,
         306564,
@@ -19109,9 +19128,10 @@
         307011,
         307012,
         307013,
-        307014
+        307014,
+        307015
       ],
-      "sent_count": 193
+      "sent_count": 194
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -19194,7 +19214,7 @@
       "sent_count": 18
     },
     "cinematicketorg": {
-      "last_id": 24409,
+      "last_id": 24410,
       "processed_ids": [
         24353,
         24354,
@@ -19236,9 +19256,10 @@
         24406,
         24407,
         24408,
-        24409
+        24409,
+        24410
       ],
-      "sent_count": 29
+      "sent_count": 30
     },
     "cinemadaily": {
       "last_id": 20758,
@@ -19703,7 +19724,7 @@
       "sent_count": 75
     },
     "peach_tweet": {
-      "last_id": 3440,
+      "last_id": 3443,
       "processed_ids": [
         2745,
         2749,
@@ -20055,12 +20076,15 @@
         3437,
         3438,
         3439,
-        3440
+        3440,
+        3441,
+        3442,
+        3443
       ],
-      "sent_count": 200
+      "sent_count": 203
     },
     "funy_khand": {
-      "last_id": 25853,
+      "last_id": 25855,
       "processed_ids": [
         25704,
         25705,
@@ -20211,12 +20235,14 @@
         25850,
         25851,
         25852,
-        25853
+        25853,
+        25854,
+        25855
       ],
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6385,
+      "last_id": 6389,
       "processed_ids": [
         6113,
         6114,
@@ -20461,9 +20487,12 @@
         6382,
         6383,
         6384,
-        6385
+        6385,
+        6386,
+        6388,
+        6389
       ],
-      "sent_count": 7
+      "sent_count": 8
     },
     "ghandeharipoet": {
       "last_id": 42723,
@@ -20503,7 +20532,7 @@
       "sent_count": 25
     },
     "dashagh": {
-      "last_id": 48370,
+      "last_id": 48372,
       "processed_ids": [
         48313,
         48314,
@@ -20550,12 +20579,14 @@
         48366,
         48367,
         48369,
-        48370
+        48370,
+        48371,
+        48372
       ],
-      "sent_count": 36
+      "sent_count": 37
     },
     "apkclub": {
-      "last_id": 72990,
+      "last_id": 72992,
       "processed_ids": [
         72962,
         72963,
@@ -20585,303 +20616,15 @@
         72987,
         72988,
         72989,
-        72990
+        72990,
+        72991,
+        72992
       ],
-      "sent_count": 5
+      "sent_count": 6
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "823242f38a124029e0ce9a9050a83101390e6684eae77dbb50f96e87990762c0",
-        "media_fingerprint": "0cb01ea8f74b788ae15fff35ce4142d7e829445d7714b151960aee4ef7f3a0d2",
-        "text": "از شکل‌گیری تا خروج؛ سفری شگفت‌انگیز که یک تخم‌مرغ در بدن مرغ طی می‌کنه\n🥚\n🐔\nویدئویی که یکی از جالب‌ترین فرایندهای طبیعت رو از نزدیک نشان می‌ده\n@Razcom",
-        "original_username": "razcom",
-        "original_text": "از شکل‌گیری تا خروج؛ سفری شگفت‌انگیز که یک تخم‌مرغ در بدن مرغ طی می‌کنه\n🥚\n🐔\nویدئویی که یکی از جالب‌ترین فرایندهای طبیعت رو از نزدیک نشان می‌ده\n@Razcom",
-        "original_link": "https://t.me/Razcom/70491",
-        "post_id": 70491,
-        "message_id": 8317,
-        "message_kind": "caption",
-        "sources": [
-          "razcom",
-          "irwonders",
-          "midanesti"
-        ],
-        "created_at": "2026-10-11T07:48:48.356306+00:00"
-      },
-      {
-        "fingerprint": "26eb7be9e194c6bc6e7b625ecb45ead611dd65fbb116f57f499b1e03d868102a",
-        "media_fingerprint": "b284c64ab487050b3142e852a99a14156d43a7dbad08231e0a175be774d85774",
-        "text": "🔴\nبا صدرنشینی پویا اسمی؛\n🖥\nجوان‌ترین بازیکنان تاریخ باشگاه پرسپولیس\n🆔\n@varzesh3",
-        "original_username": "varzesh3",
-        "original_text": "🔴\nبا صدرنشینی پویا اسمی؛\n🖥\nجوان‌ترین بازیکنان تاریخ باشگاه پرسپولیس\n🆔\n@varzesh3",
-        "original_link": "https://t.me/varzesh3/303824",
-        "post_id": 303824,
-        "message_id": 8318,
-        "message_kind": "caption",
-        "sources": [
-          "varzesh3"
-        ],
-        "created_at": "2026-10-11T07:48:52.960609+00:00"
-      },
-      {
-        "fingerprint": "c8f1bff9045e294e1a078d345009921d32caa3e4711273951b815b87856bcbb7",
-        "media_fingerprint": "",
-        "text": "❌\nدرگاه دولت من به فنا رفت\n🤦🏻‍♂️",
-        "original_username": "amozesh_cafenet",
-        "original_text": "❌\nدرگاه دولت من به فنا رفت\n🤦🏻‍♂️",
-        "original_link": "https://t.me/amozesh_cafenet/3155",
-        "post_id": 3155,
-        "message_id": 8319,
-        "message_kind": "text",
-        "sources": [
-          "amozesh_cafenet"
-        ],
-        "created_at": "2026-10-11T08:20:19.281142+00:00"
-      },
-      {
-        "fingerprint": "6856e2d49a70a64f89b4ac36adb224ee9f22b6d76c00413f74cef071cf078a3f",
-        "media_fingerprint": "fa99f76a6a96dd0a2dea3fa773de1087f26c20aa8d6a259b18f3f72ae1360a95",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26432",
-        "post_id": 26432,
-        "message_id": 8320,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-11T08:20:23.627946+00:00"
-      },
-      {
-        "fingerprint": "08bda017cb0e0c9242d744ed12f4ace8ca29ca19d3d8e666f428ebb5da2f2df5",
-        "media_fingerprint": "90d8965ef89edb8abed5aaa387326d5a8d7e2937c382ae1761a6f7148813a493",
-        "text": "♦️\nغذای همیشگیت با مرغ میشه\n🤩\nمواد لازم:\n🔹️\nسه عدد ران مرغ\n🔹️\nیک عدد پیاز\n🔹️\nیک عدد گوجه فرنگی\n🔹️\nسه حبه سیر\n🔹️\nسه قاشق غذاخوری روغن زیتون\n🔹️\nدو قاشق غذاخوری آبلیمو\n🔹️\nیک قاشق غذاخوری رب\n🔹️\nسیب زمینی\n🔹️\nفلفل دلمه\n🔹️\nادویه ها شامل: نمک، فلفل سیاه، زردچوبه، پاپریکا و پودر زیره یک قاشق چایخوری\n🔹️\nدارچین، زنجبیل، آویشن نصف قاشق چایخوری، همه رو با هم مخلوط میکنیم\n🔹️\nسه پیمانه برنج\n🔹️\nدو عدد هل\n🔹️\nدو تکه چوب دارچین\n#آشپزی\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nغذای همیشگیت با مرغ میشه\n🤩\nمواد لازم:\n🔹️\nسه عدد ران مرغ\n🔹️\nیک عدد پیاز\n🔹️\nیک عدد گوجه فرنگی\n🔹️\nسه حبه سیر\n🔹️\nسه قاشق غذاخوری روغن زیتون\n🔹️\nدو قاشق غذاخوری آبلیمو\n🔹️\nیک قاشق غذاخوری رب\n🔹️\nسیب زمینی\n🔹️\nفلفل دلمه\n🔹️\nادویه ها شامل: نمک، فلفل سیاه، زردچوبه، پاپریکا و پودر زیره یک قاشق چایخوری\n🔹️\nدارچین، زنجبیل، آویشن نصف قاشق چایخوری، همه رو با هم مخلوط میکنیم\n🔹️\nسه پیمانه برنج\n🔹️\nدو عدد هل\n🔹️\nدو تکه چوب دارچین\n#آشپزی\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143460",
-        "post_id": 143460,
-        "message_id": 8321,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-11T08:20:28.000597+00:00"
-      },
-      {
-        "fingerprint": "0720461da3aa7bd2d2678cb09c85665109c16ec9274c24b4ada8e45363e60cd9",
-        "media_fingerprint": "b2900896bafcaf841d187062cbff678eb26b70b684a17272cf13ef330b9c704b",
-        "text": "ساعت بیولوژیکی قهوه نوشی\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "ساعت بیولوژیکی قهوه نوشی\n@irWonders",
-        "original_link": "https://t.me/irwonders/58580",
-        "post_id": 58580,
-        "message_id": 8322,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-11T08:20:32.165610+00:00"
-      },
-      {
-        "fingerprint": "d60be38c29854f650ced3487a747354ba755353a4bc84a5e4cc83b3dc0d783f5",
-        "media_fingerprint": "efbe22e3c4434181c43fdf45f52ba983aa3d6b268fd02ee8bf00443336b0c4ed",
-        "text": "ژابی برای بلعیدن گیلاس‌ها، عجله داشت!\n✔️\nسریع تمومش می‌کنند؛ برد خیره‌کننده چلسی مقابل بورنموث/  بریس عجیب هندرسون، نعمت طولانی‌شدن فیفادی برای ژائو پدرو!\n🔸\nلیگ برتر انگلیس - هفته ۶  @Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "ژابی برای بلعیدن گیلاس‌ها، عجله داشت!\n✔️\nسریع تمومش می‌کنند؛ برد خیره‌کننده چلسی مقابل بورنموث/  بریس عجیب هندرسون، نعمت طولانی‌شدن فیفادی برای ژائو پدرو!\n🔸\nلیگ برتر انگلیس - هفته ۶  @Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/109690",
-        "post_id": 109690,
-        "message_id": 8323,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-11T08:20:36.868268+00:00"
-      },
-      {
-        "fingerprint": "0cdb8961fa5fb83af3e0bdb6f947e9af59be03ff67b9f0b8330c3178188f708c",
-        "media_fingerprint": "f73aff7d7c7cad681c0cc5c3a32f56c96f6f8c42ac838cd4b2ad9502906d7b23",
-        "text": "امروز ۱۱ اکتبر ؛ روز جهانی دختر بچه‌هاست\nتموم عروسکهای دنیا تا همیشه یتیم می شدن...\n🧸\nاگه خدا دختر را نمی آفرید\nخدا لبخند زد دختر آفریده شد\nلبخند خدا، روزت مبارک\n💋\n❤️\nقویتــرین ظرافت جهان روزت مبـارک\n❤️\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "امروز ۱۱ اکتبر ؛ روز جهانی دختر بچه‌هاست\nتموم عروسکهای دنیا تا همیشه یتیم می شدن...\n🧸\nاگه خدا دختر را نمی آفرید\nخدا لبخند زد دختر آفریده شد\nلبخند خدا، روزت مبارک\n💋\n❤️\nقویتــرین ظرافت جهان روزت مبـارک\n❤️\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163088",
-        "post_id": 163088,
-        "message_id": 8324,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-11T08:20:41.679029+00:00"
-      },
-      {
-        "fingerprint": "968f1d949eb2c5f74ac31e251bd96a137784a2db65ffc719b531784bad47094d",
-        "media_fingerprint": "98a1f2edb4eb9bf58f0fb30a9bb95f08fef90f2f2a3a9eabf104beab5ec349ad",
-        "text": "وضعیت سلامت روانم این روزها\n😂\n🧠\n۱۸ مهر، روز جهانی سلامت روان\nامروز حداقل با خودتون مهربون‌تر باشید؛\nدنیا خودش به اندازه کافی روی اعصابه. :)\n❤️\n@cinematicketorg",
-        "original_username": "cinematicketorg",
-        "original_text": "وضعیت سلامت روانم این روزها\n😂\n🧠\n۱۸ مهر، روز جهانی سلامت روان\nامروز حداقل با خودتون مهربون‌تر باشید؛\nدنیا خودش به اندازه کافی روی اعصابه. :)\n❤️\n@cinematicketorg",
-        "original_link": "https://t.me/cinematicketorg/24403",
-        "post_id": 24403,
-        "message_id": 8325,
-        "message_kind": "caption",
-        "sources": [
-          "cinematicketorg"
-        ],
-        "created_at": "2026-10-11T08:20:49.868262+00:00"
-      },
-      {
-        "fingerprint": "91594656f0eb3754f946e350d28473dab95cf90499e8b7c87ad41042f730d9f3",
-        "media_fingerprint": "",
-        "text": "♦️\nامروز، آخرین مهلت انتخاب رشتهٔ آزمون‌های سراسری و پذیرش دانشجو معلم\n🔹\nمهلت انتخاب رشتهٔ آزمون‌های سراسری و پذیرش دانشجو-معلم، و همچنین پذیرش براساس سوابق تحصیلی سال ۱۴۰۵، امروز یکشنبه به پایان می‌رسد.\n🔹\nمتقاضیان تا ساعت ۲۴ امروز می‌توانند برای انتخاب رشته و یا ویرایش آن اقدام کنند.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nامروز، آخرین مهلت انتخاب رشتهٔ آزمون‌های سراسری و پذیرش دانشجو معلم\n🔹\nمهلت انتخاب رشتهٔ آزمون‌های سراسری و پذیرش دانشجو-معلم، و همچنین پذیرش براساس سوابق تحصیلی سال ۱۴۰۵، امروز یکشنبه به پایان می‌رسد.\n🔹\nمتقاضیان تا ساعت ۲۴ امروز می‌توانند برای انتخاب رشته و یا ویرایش آن اقدام کنند.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143461",
-        "post_id": 143461,
-        "message_id": 8326,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars",
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-11T08:20:52.999412+00:00"
-      },
-      {
-        "fingerprint": "760a04dd94818513c388f480bad94179c2b076ff8b512375bdd51cd2b2367ebe",
-        "media_fingerprint": "d388da78ca5382f5188826507240e402bfc417afe687bafdcfd6c7ab172a33eb",
-        "text": "من چنین چیزی رو در مورد بچه‌ام شاهد باشم مطمئن می‌شم تو بیمارستان عوضش نکردن و ژن‌ها دارن خودشون رو نشون می‌دن\n😁\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "من چنین چیزی رو در مورد بچه‌ام شاهد باشم مطمئن می‌شم تو بیمارستان عوضش نکردن و ژن‌ها دارن خودشون رو نشون می‌دن\n😁\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/306925",
-        "post_id": 306925,
-        "message_id": 8327,
-        "message_kind": "caption",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-11T08:20:59.625262+00:00"
-      },
-      {
-        "fingerprint": "887035a0a4a8c56ff462231334ef0c1c60d7680ee7a689b56d9b15637bdda5f1",
-        "media_fingerprint": "",
-        "text": "♦️\nساعت ۱۱:۴۷ هنگام اذان ظهر به افق مرکز استان\n🌱\nمارا از دعا فراموش نکنید\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nساعت ۱۱:۴۷ هنگام اذان ظهر به افق مرکز استان\n🌱\nمارا از دعا فراموش نکنید\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143463",
-        "post_id": 143463,
-        "message_id": 8328,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-11T08:21:03.457538+00:00"
-      },
-      {
-        "fingerprint": "a3c7ed414c62792f91117cf821254cf7f1a0f319caa6314593a77dd653a87729",
-        "media_fingerprint": "adb52e3d84100f7a67cc5996c4fc7c4fd62a8d563d9f37c64ff4f3cf993ad240",
-        "text": "چقدر اذیت شده که تو این سن اینجوری تعریف میکنه\nخنده های مصنوعی واشقانی واقعا رو مُخه\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "چقدر اذیت شده که تو این سن اینجوری تعریف میکنه\nخنده های مصنوعی واشقانی واقعا رو مُخه\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163090",
-        "post_id": 163090,
-        "message_id": 8329,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-11T08:48:53.004992+00:00"
-      },
-      {
-        "fingerprint": "e9e16fe31084021e204cb0f46be63cb5c6e76b99b8c8f6a350a26bba619cb2c6",
-        "media_fingerprint": "43b3d41d00b575525589ac2564aae543de688fa04ccabd15b7ad4f1bf30e667b",
-        "text": "ویدئوی این خانوم یه زمان بلوتوث‌ها رو تسخیر کرده بود\n🥲\n👌🏻\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "ویدئوی این خانوم یه زمان بلوتوث‌ها رو تسخیر کرده بود\n🥲\n👌🏻\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163091",
-        "post_id": 163091,
-        "message_id": 8330,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-11T08:48:58.534229+00:00"
-      },
-      {
-        "fingerprint": "f9f1442dc055c944328ea8c70a530213262826a4610551b5b22cca318de67e3b",
-        "media_fingerprint": "8530f1c6e53ca35113ec187e89805861778acad5156f7ae1f02a7fe46b2daeb7",
-        "text": "من +تو + طبیعت :\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "من +تو + طبیعت :\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/3233",
-        "post_id": 3233,
-        "message_id": 8331,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-11T08:49:02.682914+00:00"
-      },
-      {
-        "fingerprint": "79db73ad9f8d89bde1d9f20d81d29b3f04e165380942eb74c2f6450d6d06f896",
-        "media_fingerprint": "",
-        "text": "🔹\nدرآمد تضمین شده روزانه ۶۰ میلیون تومن سود خالص\n🔹\nراه اندازی خط تولید سوخت از انواع ضایعات\n🤑\nتامین تضمینی مواد اولیه ؛ خرید تضمینی تمام تولیدات طبق قرارداد رسمی\n💡\nنقد - اقساط ( بازپرداخت اقساط از محل سود خرید تضمینی )\nمشاوره رایگان\n◀️\n02191007871\nاینستاگرام\n🔹\n.\n.",
-        "original_username": "akhbarfars",
-        "original_text": "🔹\nدرآمد تضمین شده روزانه ۶۰ میلیون تومن سود خالص\n🔹\nراه اندازی خط تولید سوخت از انواع ضایعات\n🤑\nتامین تضمینی مواد اولیه ؛ خرید تضمینی تمام تولیدات طبق قرارداد رسمی\n💡\nنقد - اقساط ( بازپرداخت اقساط از محل سود خرید تضمینی )\nمشاوره رایگان\n◀️\n02191007871\nاینستاگرام\n🔹\n.\n.",
-        "original_link": "https://t.me/akhbarfars/143466",
-        "post_id": 143466,
-        "message_id": 8332,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-11T08:49:05.630850+00:00"
-      },
-      {
-        "fingerprint": "546dffc78d90866762d8d4dcd9f68ac3f7f208434af3db799917475a6d465c34",
-        "media_fingerprint": "ce453c4437be204adb188c2aafaffc8ab6c3816b6f95b4a886648188700ead26",
-        "text": "‼️\nیک روز کاملا عادی در خاورمیانه:\nدرگیری حوثی ها با نیروهای هم‌پیمان عربستان در نزدیکی باب‌المندب.\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "‼️\nیک روز کاملا عادی در خاورمیانه:\nدرگیری حوثی ها با نیروهای هم‌پیمان عربستان در نزدیکی باب‌المندب.\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52836",
-        "post_id": 52836,
-        "message_id": 8333,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb",
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-11T08:49:10.743075+00:00"
-      },
-      {
-        "fingerprint": "a96f0601b5ec3233de4b30c86bcc0f126d2b18c16d58c1e3f2c0f1ccc8d87a06",
-        "media_fingerprint": "b61efd9c7da572a327aa2989fb86e3ebd440882e45894ba4dfbd7c1b3a1e0eff",
-        "text": "‼️\nکسانی که حملات اضطرابی و پنیک بهشون دست میده؛ این روش می‌تونه خیلی بهشون کمک کنه\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "‼️\nکسانی که حملات اضطرابی و پنیک بهشون دست میده؛ این روش می‌تونه خیلی بهشون کمک کنه\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52838",
-        "post_id": 52838,
-        "message_id": 8334,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb",
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-11T08:49:17.202151+00:00"
-      },
-      {
-        "fingerprint": "e80603df2e3fc8748f5bf69a445758097361f4d585e77861a898227a17ec7020",
-        "media_fingerprint": "",
-        "text": "فرم درخواست افزایش کالابرگ",
-        "original_username": "amozesh_cafenet",
-        "original_text": "فرم درخواست افزایش کالابرگ",
-        "original_link": "https://t.me/amozesh_cafenet/3156",
-        "post_id": 3156,
-        "message_id": 8335,
-        "message_kind": "text",
-        "sources": [
-          "amozesh_cafenet"
-        ],
-        "created_at": "2026-10-11T08:49:19.613683+00:00"
-      },
       {
         "fingerprint": "76d62cd05ade37f6afde760334bc86c8f2b04d53b0fe554ba0341916dff6afb2",
         "media_fingerprint": "",
@@ -35695,6 +35438,291 @@
           "varzesh3"
         ],
         "created_at": "2026-10-14T08:09:56.415847+00:00"
+      },
+      {
+        "fingerprint": "d12e3b3e3d5c9d16b0b9df09b9ce02d76ccde54fb4afcacdb6f58e2ec6a9881a",
+        "media_fingerprint": "bd86c51c3f2e4c88bf04d5acbb4a14bbf8f55a16adc966fd62dccea6b90905f9",
+        "text": "🏅\nپوستر خیبر برای دیدار امروز با پرسپولیس\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_username": "total_fut",
+        "original_text": "🏅\nپوستر خیبر برای دیدار امروز با پرسپولیس\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_link": "https://t.me/total_fut/237939",
+        "post_id": 237939,
+        "message_id": 9390,
+        "message_kind": "caption",
+        "sources": [
+          "total_fut"
+        ],
+        "created_at": "2026-10-14T09:06:16.042481+00:00"
+      },
+      {
+        "fingerprint": "cf8761345aae20ad79024e4ffea5a806fcfa3cee911b9a77f2cbe032ab0f5505",
+        "media_fingerprint": "",
+        "text": "👨‍🎓\nافزایش شهریه دانشگاه پیام نور  ۱۴۰۵ - ۱۴۰۶\n🔵\nمبلغ شهریه دانشگاه پیام نور برای سال تحصیلی ۱۴۰۵-۱۴۰۶ از سوی این دانشگاه اعلام شده است؛ بر این اساس، شهریه مقطع کارشناسی ۶۰ درصد، کارشناسی ارشد ۵۰ درصد و دکتری ۲۰ درصد افزایش یافته است.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "👨‍🎓\nافزایش شهریه دانشگاه پیام نور  ۱۴۰۵ - ۱۴۰۶\n🔵\nمبلغ شهریه دانشگاه پیام نور برای سال تحصیلی ۱۴۰۵-۱۴۰۶ از سوی این دانشگاه اعلام شده است؛ بر این اساس، شهریه مقطع کارشناسی ۶۰ درصد، کارشناسی ارشد ۵۰ درصد و دکتری ۲۰ درصد افزایش یافته است.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23355",
+        "post_id": 23355,
+        "message_id": 9391,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-14T09:06:18.960401+00:00"
+      },
+      {
+        "fingerprint": "3847df75a964e16cc5054ef29d6cf6b920969e474a4bdfa08da1fa2bbe3be472",
+        "media_fingerprint": "c13b0b9ae951fcdd1255949b50fc86390258510c6638f9bb88583285880cbbcd",
+        "text": "یکم زیبایی ببینید از کراش العالمین\nآنا د ارماس :\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "یکم زیبایی ببینید از کراش العالمین\nآنا د ارماس :\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48372",
+        "post_id": 48372,
+        "message_id": 9392,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-14T09:06:24.665489+00:00"
+      },
+      {
+        "fingerprint": "45527dc4abf190f7bc3889edd54b3ca565ae96b73d258ab1175ea9361b990591",
+        "media_fingerprint": "f469af7214b24718489e933eaa6d11fb15f2e5fa2e85aacaabe732c2144d3687",
+        "text": "عجب صحـنه ی نـابی بوجود اومد\n🥹\n❤️\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "عجب صحـنه ی نـابی بوجود اومد\n🥹\n❤️\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/307015",
+        "post_id": 307015,
+        "message_id": 9394,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-14T09:06:30.867354+00:00"
+      },
+      {
+        "fingerprint": "c8c65937e86ffda1e08dfaae0aba579623805ed4fc48a03736e67a3d00b5f7c4",
+        "media_fingerprint": "18e74173676ce66d52c8962ab2fa64a9864069c867dbd245f794dd8996db67bc",
+        "text": "یه شهروند آمریکایی این دو تا رسید رو گذاشته کنار هم و گفته ببینید در طی ۲۴ سال چطور قیمت اجناس سه برابر شده، داریم بدبخت میشیم!!!\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "یه شهروند آمریکایی این دو تا رسید رو گذاشته کنار هم و گفته ببینید در طی ۲۴ سال چطور قیمت اجناس سه برابر شده، داریم بدبخت میشیم!!!\n@irWonders",
+        "original_link": "https://t.me/irwonders/58689",
+        "post_id": 58689,
+        "message_id": 9395,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-14T09:06:35.065252+00:00"
+      },
+      {
+        "fingerprint": "72308aa9af8275a833d89d0689290804a159a4c28e2e1e08af22ea5846b9f62d",
+        "media_fingerprint": "3a231872a7f47504972c80e21293c79b5ca212a5efc57c62ce8b5150d0e42d1d",
+        "text": "مامان‌باباها! برای آخر هفته بچه‌ها تخفیف داریم!\nبچه‌ها رو به دنیای پرماجرای تئاتر جذاب «جومانجی» ببرید!\n🦁\n🌴\n🎭\nنمایش کودک موزیکال «جومانجی»\n🎬\nکارگردان: اشکان درویشی\nکد تخفیف ویژه:\nchildct\n📍\nپردیس سینمایی زندگی\n⭐️\nامتیاز ۴.۸ از نگاه تماشاگرها\nصندلی‌ها زود پر می‌شن؛ پس همین حالا بلیت بچه‌ها رو رزرو کنید!\n❤️\nهمین حالا با تخفیف بلیت بگیرید\n👇🏻\nhttps://ctkt.ir/jomanji1\n@cinematicketorg",
+        "original_username": "cinematicketorg",
+        "original_text": "مامان‌باباها! برای آخر هفته بچه‌ها تخفیف داریم!\nبچه‌ها رو به دنیای پرماجرای تئاتر جذاب «جومانجی» ببرید!\n🦁\n🌴\n🎭\nنمایش کودک موزیکال «جومانجی»\n🎬\nکارگردان: اشکان درویشی\nکد تخفیف ویژه:\nchildct\n📍\nپردیس سینمایی زندگی\n⭐️\nامتیاز ۴.۸ از نگاه تماشاگرها\nصندلی‌ها زود پر می‌شن؛ پس همین حالا بلیت بچه‌ها رو رزرو کنید!\n❤️\nهمین حالا با تخفیف بلیت بگیرید\n👇🏻\nhttps://ctkt.ir/jomanji1\n@cinematicketorg",
+        "original_link": "https://t.me/cinematicketorg/24410",
+        "post_id": 24410,
+        "message_id": 9396,
+        "message_kind": "caption",
+        "sources": [
+          "cinematicketorg"
+        ],
+        "created_at": "2026-10-14T09:06:39.431080+00:00"
+      },
+      {
+        "fingerprint": "454197d1de9564fe004654178aa8f72e0d7b3054368d74c41a30a3ddd85ebdb5",
+        "media_fingerprint": "30f3f5fe865393cbfb651e834ec4f0d70c57e442db407ef2345285355eed4fba",
+        "text": "ترین‌های هفته\n🏹\nپاس‌های برتر هفته هشتم لیگ برتر  @Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "ترین‌های هفته\n🏹\nپاس‌های برتر هفته هشتم لیگ برتر  @Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/110052",
+        "post_id": 110052,
+        "message_id": 9397,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-14T09:06:46.410936+00:00"
+      },
+      {
+        "fingerprint": "98e85f5a1ab630ac97b504602dc1d0558c7928084002e2f34cda6162d767c746",
+        "media_fingerprint": "",
+        "text": "🛜\nاینترنت ارزان‌تر و پرسرعت‌تر برای افراد دارای معلولیت\n🦻\nرئیس سازمان بهزیستی کشور از موافقت اپراتورهای ارتباطی با ارائه اینترنت نیم‌بها و پرسرعت به افراد دارای معلولیت خبر داد؛ طرحی که گروه‌هایی از جمله نابینایان را نیز در بر می‌گیرد.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🛜\nاینترنت ارزان‌تر و پرسرعت‌تر برای افراد دارای معلولیت\n🦻\nرئیس سازمان بهزیستی کشور از موافقت اپراتورهای ارتباطی با ارائه اینترنت نیم‌بها و پرسرعت به افراد دارای معلولیت خبر داد؛ طرحی که گروه‌هایی از جمله نابینایان را نیز در بر می‌گیرد.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23359",
+        "post_id": 23359,
+        "message_id": 9398,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-14T09:06:49.340338+00:00"
+      },
+      {
+        "fingerprint": "be4378d0b26365ce575ec782fc416b65714ba9c3cd2c3c86cc6bc37792d1e089",
+        "media_fingerprint": "f56ae9d7695dfbbeac9543d7ef0bbe357eda6fb67ca506db84370c1cf9100c55",
+        "text": "💻\nCloneNest: Multiple Accounts\n🔝\nV1.0.75.20\n⭐️\nنسخه پریمیوم اپلیکیشن فضای دوم بازی و برنامه-مستقل و جداگانه\n🔖\nویژگی‌های برنامه:\n🔵\nایجاد فضای دوم برای اجرای اپلیکیشن‌ها\n🔵\nاجرای هم‌زمان چند حساب کاربری\n🔵\nنسخه پریمیوم بدون تبلیغات\n📱\nبرای دانلود فایل از ربات بر روی (\nدانــلود\n)  کلیک کنید.\n🌟\n@APKCLUB",
+        "original_username": "apkclub",
+        "original_text": "💻\nCloneNest: Multiple Accounts\n🔝\nV1.0.75.20\n⭐️\nنسخه پریمیوم اپلیکیشن فضای دوم بازی و برنامه-مستقل و جداگانه\n🔖\nویژگی‌های برنامه:\n🔵\nایجاد فضای دوم برای اجرای اپلیکیشن‌ها\n🔵\nاجرای هم‌زمان چند حساب کاربری\n🔵\nنسخه پریمیوم بدون تبلیغات\n📱\nبرای دانلود فایل از ربات بر روی (\nدانــلود\n)  کلیک کنید.\n🌟\n@APKCLUB",
+        "original_link": "https://t.me/apkclub/72992",
+        "post_id": 72992,
+        "message_id": 9399,
+        "message_kind": "caption",
+        "sources": [
+          "apkclub"
+        ],
+        "created_at": "2026-10-14T09:06:53.381132+00:00"
+      },
+      {
+        "fingerprint": "314a78a66908ed28149d6bd8d179a5e2c40fbd60b106440472ec3534d73dd0c4",
+        "media_fingerprint": "",
+        "text": "باسلام\nیک عدد سریال انتخاب رشته آزاد مقطع کاردانی براساس سوابق تحصیلی موجوده\nآیدی جهت هماهنگی:\n@m_t_ashrafi08",
+        "original_username": "coffeenetmanager",
+        "original_text": "باسلام\nیک عدد سریال انتخاب رشته آزاد مقطع کاردانی براساس سوابق تحصیلی موجوده\nآیدی جهت هماهنگی:\n@m_t_ashrafi08",
+        "original_link": "https://t.me/CoffeenetManager/51857",
+        "post_id": 51857,
+        "message_id": 9400,
+        "message_kind": "text",
+        "sources": [
+          "coffeenetmanager"
+        ],
+        "created_at": "2026-10-14T09:06:55.956214+00:00"
+      },
+      {
+        "fingerprint": "571709290dcf675d9b28555a541307ed68099d93bf01835ff44a5b523a627df5",
+        "media_fingerprint": "3cd725fd45a42633f044a6fb816f2bebf7a1a96ec3ae0646afc6b902860a6cea",
+        "text": "♦️\nآمار بارش در ایستگاههای هواشناسی فارس ٢۴ ساعت منتهی به ساعت ۶:۳۰ صبح روز ٢٢ مهر ١۴٠۵\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nآمار بارش در ایستگاههای هواشناسی فارس ٢۴ ساعت منتهی به ساعت ۶:۳۰ صبح روز ٢٢ مهر ١۴٠۵\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143705",
+        "post_id": 143705,
+        "message_id": 9401,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-14T09:07:14.832243+00:00"
+      },
+      {
+        "fingerprint": "667e10b7cffbc3c9d5ac07806f1b09b594c8d40729608e187d3047227d314eab",
+        "media_fingerprint": "a93f62c46b5daf0e51917c78736af923c532af3404ecb30dd77d5bebaef876cb",
+        "text": "هت‌تریک وین امشب ۳ از ۳ دقیق و تمیز\n🎯\n✅\nشب درخشان چنل با تحلیل دقیق آپشن‌های خاص و ضرایب سنگین:\n1️⃣\nبایرن مونیخ - وایکینگ\n🔹\nآپشن:\nگل با سر (بله)\n| ضریب:\n1.79\n🟢\nوین شد\n2️⃣\nپی‌اس‌وی آیندهوون - لایپزیگ\n🔹\nآپشن:\nگل از خارج محوطه جریمه (بله)\n| ضریب:\n2.38\n🟢\nوین شد\n3️⃣\nاینتر میلان - کلوب بروژ\n🔹\nآپشن:\nبریس (دو گل یک بازیکن - بله)\n| ضریب:\n3.30\n🟢\nوین شد\n💰\nسود خالص و لذت‌بخش برای کسایی که همراه بودن نوش جونتون\n❤️\nمنتظر فرم‌های بعدی باشید بمب‌های بعدی تو راهه…\n💣\n👇\n🔰\nhttps://t.me/+36WRUcdQM-w2Y2M0\n🔰\nhttps://t.me/+36WRUcdQM-w2Y2M0",
+        "original_username": "peach_tweet",
+        "original_text": "هت‌تریک وین امشب ۳ از ۳ دقیق و تمیز\n🎯\n✅\nشب درخشان چنل با تحلیل دقیق آپشن‌های خاص و ضرایب سنگین:\n1️⃣\nبایرن مونیخ - وایکینگ\n🔹\nآپشن:\nگل با سر (بله)\n| ضریب:\n1.79\n🟢\nوین شد\n2️⃣\nپی‌اس‌وی آیندهوون - لایپزیگ\n🔹\nآپشن:\nگل از خارج محوطه جریمه (بله)\n| ضریب:\n2.38\n🟢\nوین شد\n3️⃣\nاینتر میلان - کلوب بروژ\n🔹\nآپشن:\nبریس (دو گل یک بازیکن - بله)\n| ضریب:\n3.30\n🟢\nوین شد\n💰\nسود خالص و لذت‌بخش برای کسایی که همراه بودن نوش جونتون\n❤️\nمنتظر فرم‌های بعدی باشید بمب‌های بعدی تو راهه…\n💣\n👇\n🔰\nhttps://t.me/+36WRUcdQM-w2Y2M0\n🔰\nhttps://t.me/+36WRUcdQM-w2Y2M0",
+        "original_link": "https://t.me/peach_tweet/3441",
+        "post_id": 3441,
+        "message_id": 9402,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-14T09:07:19.152943+00:00"
+      },
+      {
+        "fingerprint": "4de18ab0647135fe39ec9df2d2aca6ecf8cf785796a045c2f3d353d09930a044",
+        "media_fingerprint": "",
+        "text": "هت‌تریک وین امشب ۳ از ۳ دقیق و تمیز\n🎯\n✅\nشب درخشان چنل با تحلیل دقیق آپشن‌های خاص و ضرایب سنگین:\n1️⃣\nبایرن مونیخ - وایکینگ\n🔹\nآپشن: گل با سر (بله) | ضریب: 1.79\n🟢\nوین شد\n2️⃣\nپی‌اس‌وی آیندهوون - لایپزیگ\n🔹\nآپشن: گل از خارج محوطه جریمه (بله) | ضریب: 2.38\n🟢\nوین شد…",
+        "original_username": "peach_tweet",
+        "original_text": "هت‌تریک وین امشب ۳ از ۳ دقیق و تمیز\n🎯\n✅\nشب درخشان چنل با تحلیل دقیق آپشن‌های خاص و ضرایب سنگین:\n1️⃣\nبایرن مونیخ - وایکینگ\n🔹\nآپشن: گل با سر (بله) | ضریب: 1.79\n🟢\nوین شد\n2️⃣\nپی‌اس‌وی آیندهوون - لایپزیگ\n🔹\nآپشن: گل از خارج محوطه جریمه (بله) | ضریب: 2.38\n🟢\nوین شد…",
+        "original_link": "https://t.me/peach_tweet/3442",
+        "post_id": 3442,
+        "message_id": 9403,
+        "message_kind": "text",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-14T09:07:22.023740+00:00"
+      },
+      {
+        "fingerprint": "7940fefd76426a86cd855ef3726c97b7ba47c0bfdfb5103bb021a70c2f9addd5",
+        "media_fingerprint": "6c199da7c2913f7fa420d74965cb19ba38cf2196d70565050e72538aa1889b37",
+        "text": "کیوت ترین ویدیویی که امروز میتونید ببینید.:))))\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "کیوت ترین ویدیویی که امروز میتونید ببینید.:))))\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/3443",
+        "post_id": 3443,
+        "message_id": 9404,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-14T09:07:27.801569+00:00"
+      },
+      {
+        "fingerprint": "24617bcae9baa3cf61684d00893da436a4b3b335580d3c9a032f64b5b40b4f45",
+        "media_fingerprint": "",
+        "text": "میخایین لوپز، کارلین یا ولاسوف؟\n🎙\n⭐️\nبرترین فرنگی‌کار تاریخ جهان از نگاه طالب نعمت‌پور\n🔴\nمصاحبه اختصاصی با مربی تیم ملی #کشتی فرنگی\n▶️\nمصاحبه کامل در یوتیوب\n🆔\n@varzesh3",
+        "original_username": "varzesh3",
+        "original_text": "میخایین لوپز، کارلین یا ولاسوف؟\n🎙\n⭐️\nبرترین فرنگی‌کار تاریخ جهان از نگاه طالب نعمت‌پور\n🔴\nمصاحبه اختصاصی با مربی تیم ملی #کشتی فرنگی\n▶️\nمصاحبه کامل در یوتیوب\n🆔\n@varzesh3",
+        "original_link": "https://t.me/varzesh3/304075",
+        "post_id": 304075,
+        "message_id": 9405,
+        "message_kind": "text",
+        "sources": [
+          "varzesh3"
+        ],
+        "created_at": "2026-10-14T09:07:30.523423+00:00"
+      },
+      {
+        "fingerprint": "46641e599eac8d042032008171b4bcf33e02e0bcd16820983bf18ad1f27049fa",
+        "media_fingerprint": "af67785b82528b8748c69c0615d29bf0822b0ba26e1798e9387283cfa7649403",
+        "text": "🤖\nجمنای مدل Gemini 4 Argon را برای همه در دسترس قرار می‌دهد!\n🗂\nقابلیت‌های Argon:\n🔘\nعملکرد مشابه Astra و Fable در تست‌های معیار و در برخی موارد، از آن‌ها بهتر عمل می‌کند.\n🔘\nتوانایی قوی در کدنویسی: این مدل در داخل گوگل برای بازنویسی 800 هزار خط از کد هسته سیستم عامل به زبان Rust استفاده می‌شود.\n🔘\nقابلیت پردازش ویدیوهای طولانی و حفظ جزئیات که این ویژگی برای تجزیه و تحلیل ویدیوها در یوتیوب بسیار مفید است.\n+برای اینکه ببینید دسترسی مدل برای شما فراهم شده به AI Studio یا هوش مصنوعی Antigravity مراجعه کنید.\n@RoidBest",
+        "original_username": "roidbest",
+        "original_text": "🤖\nجمنای مدل Gemini 4 Argon را برای همه در دسترس قرار می‌دهد!\n🗂\nقابلیت‌های Argon:\n🔘\nعملکرد مشابه Astra و Fable در تست‌های معیار و در برخی موارد، از آن‌ها بهتر عمل می‌کند.\n🔘\nتوانایی قوی در کدنویسی: این مدل در داخل گوگل برای بازنویسی 800 هزار خط از کد هسته سیستم عامل به زبان Rust استفاده می‌شود.\n🔘\nقابلیت پردازش ویدیوهای طولانی و حفظ جزئیات که این ویژگی برای تجزیه و تحلیل ویدیوها در یوتیوب بسیار مفید است.\n+برای اینکه ببینید دسترسی مدل برای شما فراهم شده به AI Studio یا هوش مصنوعی Antigravity مراجعه کنید.\n@RoidBest",
+        "original_link": "https://t.me/RoidBest/21857",
+        "post_id": 21857,
+        "message_id": 9406,
+        "message_kind": "caption",
+        "sources": [
+          "roidbest"
+        ],
+        "created_at": "2026-10-14T09:07:35.190816+00:00"
+      },
+      {
+        "fingerprint": "d96ce98d512c30b34ee6863d4cfde6ff33fa2b61dea8bc5978965d59228dc211",
+        "media_fingerprint": "d04d1499a68eeb5ea1ff60d3d523351fc56ed3cfda10782b58e821cecc881f08",
+        "text": "یک زوایه دید جالب از داخل یک\nکشتی سوراخ شده در خلیج فارس\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "یک زوایه دید جالب از داخل یک\nکشتی سوراخ شده در خلیج فارس\n@irWonders",
+        "original_link": "https://t.me/irwonders/58690",
+        "post_id": 58690,
+        "message_id": 9407,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-14T09:07:41.589021+00:00"
+      },
+      {
+        "fingerprint": "347645f730e6eb3ce9ec7b9f25985544bc9863a654d5eaed5d4472ce846cb469",
+        "media_fingerprint": "d3682a355610c5c0fca447c30298cd8023761fcafec0abecd66dbb7232d55cf0",
+        "text": "👤\nاورونوف در جمع برترین گلزنان تاریخ پرسپولیس؛\nاوستون اورونوف با ۱۶ گل در ۶۶ بازی، حالا در کنار آلن ویتل در رتبه دوم بهترین گلزنان خارجی تاریخ پرسپولیس قرار دارد؛ فهرستی که گئورگی گولسیانی با ۲۰ گل در صدر آن ایستاده است.\n🔘\n@Persiana_Pluss",
+        "original_username": "persiana_pluss",
+        "original_text": "👤\nاورونوف در جمع برترین گلزنان تاریخ پرسپولیس؛\nاوستون اورونوف با ۱۶ گل در ۶۶ بازی، حالا در کنار آلن ویتل در رتبه دوم بهترین گلزنان خارجی تاریخ پرسپولیس قرار دارد؛ فهرستی که گئورگی گولسیانی با ۲۰ گل در صدر آن ایستاده است.\n🔘\n@Persiana_Pluss",
+        "original_link": "https://t.me/Persiana_Pluss/6389",
+        "post_id": 6389,
+        "message_id": 9408,
+        "message_kind": "caption",
+        "sources": [
+          "persiana_pluss"
+        ],
+        "created_at": "2026-10-14T09:07:47.614822+00:00"
+      },
+      {
+        "fingerprint": "66da4e3476b880bc30b5c25166d530295d04f9e8f6c6de43920974ce27a7f669",
+        "media_fingerprint": "00640154479b41dcea70c25bbe6d6e323982ae0fac94090c3a106ce88dc00b8c",
+        "text": "این روده‌ ی منه\n🤦🏻‍♀️\n🤦🏻‍♀️\n🤦🏻‍♀️\nchannel➣\n🐓\n@khooroosjangi",
+        "original_username": "khooroosjangi",
+        "original_text": "این روده‌ ی منه\n🤦🏻‍♀️\n🤦🏻‍♀️\n🤦🏻‍♀️\nchannel➣\n🐓\n@khooroosjangi",
+        "original_link": "https://t.me/khooroosjangi/85755",
+        "post_id": 85755,
+        "message_id": 9410,
+        "message_kind": "caption",
+        "sources": [
+          "khooroosjangi"
+        ],
+        "created_at": "2026-10-14T09:07:52.903307+00:00"
       }
     ]
   }
