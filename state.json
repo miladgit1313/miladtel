@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143707,
+      "last_id": 143709,
       "processed_ids": [
-        142578,
-        142579,
         142580,
         142581,
         142582,
@@ -1002,16 +1000,15 @@
         143704,
         143705,
         143706,
-        143707
+        143707,
+        143708,
+        143709
       ],
-      "sent_count": 971
+      "sent_count": 972
     },
     "total_fut": {
-      "last_id": 237941,
+      "last_id": 237944,
       "processed_ids": [
-        236879,
-        236880,
-        236881,
         236882,
         236883,
         236885,
@@ -2008,14 +2005,16 @@
         237938,
         237939,
         237940,
-        237941
+        237941,
+        237942,
+        237943,
+        237944
       ],
       "sent_count": 139
     },
     "footballvision2": {
-      "last_id": 171366,
+      "last_id": 171367,
       "processed_ids": [
-        170265,
         170266,
         170267,
         170268,
@@ -3014,7 +3013,8 @@
         171363,
         171364,
         171365,
-        171366
+        171366,
+        171367
       ],
       "sent_count": 147
     },
@@ -3308,7 +3308,7 @@
       "sent_count": 125
     },
     "behzistikomitenews": {
-      "last_id": 13974,
+      "last_id": 13975,
       "processed_ids": [
         13937,
         13939,
@@ -3344,7 +3344,8 @@
         13971,
         13972,
         13973,
-        13974
+        13974,
+        13975
       ],
       "sent_count": 10
     },
@@ -5143,7 +5144,7 @@
       "sent_count": 97
     },
     "roidbest": {
-      "last_id": 21857,
+      "last_id": 21858,
       "processed_ids": [
         21613,
         21614,
@@ -5377,12 +5378,13 @@
         21854,
         21855,
         21856,
-        21857
+        21857,
+        21858
       ],
-      "sent_count": 141
+      "sent_count": 142
     },
     "akhbar_cafenet": {
-      "last_id": 23360,
+      "last_id": 23361,
       "processed_ids": [
         22432,
         22433,
@@ -6256,7 +6258,8 @@
         23357,
         23358,
         23359,
-        23360
+        23360,
+        23361
       ],
       "sent_count": 465
     },
@@ -8240,7 +8243,7 @@
       "sent_count": 81
     },
     "jaleb": {
-      "last_id": 52916,
+      "last_id": 52918,
       "processed_ids": [
         52261,
         52262,
@@ -8816,9 +8819,11 @@
         52913,
         52914,
         52915,
-        52916
+        52916,
+        52917,
+        52918
       ],
-      "sent_count": 294
+      "sent_count": 295
     },
     "ajayebe_jahann": {
       "last_id": 159810,
@@ -9859,9 +9864,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 110057,
+      "last_id": 110058,
       "processed_ids": [
-        109001,
         109002,
         109003,
         109004,
@@ -10860,14 +10864,14 @@
         110054,
         110055,
         110056,
-        110057
+        110057,
+        110058
       ],
       "sent_count": 169
     },
     "varzesh3": {
-      "last_id": 304077,
+      "last_id": 304078,
       "processed_ids": [
-        302988,
         302989,
         302990,
         302991,
@@ -11866,9 +11870,10 @@
         304074,
         304075,
         304076,
-        304077
+        304077,
+        304078
       ],
-      "sent_count": 106
+      "sent_count": 107
     },
     "totalfut_plus": {
       "last_id": 26772,
@@ -12751,10 +12756,8 @@
       "sent_count": 63
     },
     "adak_ir_official": {
-      "last_id": 235358,
+      "last_id": 235360,
       "processed_ids": [
-        234330,
-        234331,
         234332,
         234333,
         234334,
@@ -13752,15 +13755,15 @@
         235355,
         235356,
         235357,
-        235358
+        235358,
+        235359,
+        235360
       ],
       "sent_count": 213
     },
     "futball180tv": {
-      "last_id": 108667,
+      "last_id": 108669,
       "processed_ids": [
-        107628,
-        107629,
         107630,
         107631,
         107632,
@@ -14758,14 +14761,15 @@
         108664,
         108665,
         108666,
-        108667
+        108667,
+        108668,
+        108669
       ],
       "sent_count": 106
     },
     "hattric_official": {
-      "last_id": 84894,
+      "last_id": 84895,
       "processed_ids": [
-        83836,
         83837,
         83840,
         83841,
@@ -15764,7 +15768,8 @@
         84891,
         84892,
         84893,
-        84894
+        84894,
+        84895
       ],
       "sent_count": 146
     },
@@ -16500,7 +16505,7 @@
       "sent_count": 14
     },
     "irwonders": {
-      "last_id": 58690,
+      "last_id": 58691,
       "processed_ids": [
         58030,
         58031,
@@ -17105,9 +17110,10 @@
         58687,
         58688,
         58689,
-        58690
+        58690,
+        58691
       ],
-      "sent_count": 381
+      "sent_count": 382
     },
     "razcom": {
       "last_id": 70496,
@@ -18697,7 +18703,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 307015,
+      "last_id": 307019,
       "processed_ids": [
         306563,
         306564,
@@ -19143,9 +19149,13 @@
         307012,
         307013,
         307014,
-        307015
+        307015,
+        307016,
+        307017,
+        307018,
+        307019
       ],
-      "sent_count": 194
+      "sent_count": 196
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -20104,7 +20114,7 @@
       "sent_count": 204
     },
     "funy_khand": {
-      "last_id": 25857,
+      "last_id": 25859,
       "processed_ids": [
         25704,
         25705,
@@ -20259,12 +20269,14 @@
         25854,
         25855,
         25856,
-        25857
+        25857,
+        25858,
+        25859
       ],
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6393,
+      "last_id": 6394,
       "processed_ids": [
         6113,
         6114,
@@ -20515,7 +20527,8 @@
         6389,
         6391,
         6392,
-        6393
+        6393,
+        6394
       ],
       "sent_count": 9
     },
@@ -20558,7 +20571,7 @@
       "sent_count": 26
     },
     "dashagh": {
-      "last_id": 48374,
+      "last_id": 48375,
       "processed_ids": [
         48313,
         48314,
@@ -20608,12 +20621,13 @@
         48370,
         48371,
         48372,
-        48374
+        48374,
+        48375
       ],
-      "sent_count": 38
+      "sent_count": 39
     },
     "apkclub": {
-      "last_id": 72992,
+      "last_id": 72994,
       "processed_ids": [
         72962,
         72963,
@@ -20645,149 +20659,15 @@
         72989,
         72990,
         72991,
-        72992
+        72992,
+        72993,
+        72994
       ],
-      "sent_count": 6
+      "sent_count": 7
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "adac6e6928cc9ad17ba67a149a42fe21d5810ce8c931cbdc846cb4352b67f47f",
-        "media_fingerprint": "131c063717a6308095bad207d07e97a35b8de77dedb570124edd6478874be47b",
-        "text": "خیلی خوب بود فقط قیافه تسو\n😂\nخنده های جومونگ\n😂\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "خیلی خوب بود فقط قیافه تسو\n😂\nخنده های جومونگ\n😂\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/306932",
-        "post_id": 306932,
-        "message_id": 8360,
-        "message_kind": "caption",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-11T10:19:03.987438+00:00"
-      },
-      {
-        "fingerprint": "9f4c471284e440d1c63de42d480773c792c0c7f1f4f8550a00f99765ff1825a6",
-        "media_fingerprint": "3ec42bc348b756ddaeebd2bfae53662dd16a850c78722040ee292566c6fc9340",
-        "text": "یک روز پس از بازی در تیم بزرگسالان\n🎞\nحضور پویا اسمی در داربی جوانان   پویا اسمی، پدیده جوان پرسپولیس که روز گذشته در ترکیب تیم بزرگسالان مقابل صنعت‌نفت به میدان رفت، امروز در ترکیب اصلی تیم جوانان سرخ‌پوشان برای دیدار مقابل استقلال قرار گرفته است.  @Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "یک روز پس از بازی در تیم بزرگسالان\n🎞\nحضور پویا اسمی در داربی جوانان   پویا اسمی، پدیده جوان پرسپولیس که روز گذشته در ترکیب تیم بزرگسالان مقابل صنعت‌نفت به میدان رفت، امروز در ترکیب اصلی تیم جوانان سرخ‌پوشان برای دیدار مقابل استقلال قرار گرفته است.  @Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/109701",
-        "post_id": 109701,
-        "message_id": 8361,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-11T10:19:09.515314+00:00"
-      },
-      {
-        "fingerprint": "7ea6b6f3b93d10053c7e65597c2a02c7e9a3ab210b1b3ffa29b3882d7afa17ab",
-        "media_fingerprint": "ca66942f205ed0a387a7b20d7df79680a40729e6bba2ed8d01004c83b2febd53",
-        "text": "شاید فکر کنی النگوی توی دستت خیلی تمیزه ولی در واقع اینجوره\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "شاید فکر کنی النگوی توی دستت خیلی تمیزه ولی در واقع اینجوره\n@irWonders",
-        "original_link": "https://t.me/irwonders/58585",
-        "post_id": 58585,
-        "message_id": 8362,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-11T10:19:15.888721+00:00"
-      },
-      {
-        "fingerprint": "059b7587f5a696f2a1cf8b0cd0d2d5ac7864834f8a0357c3e29cf1f478ead3e9",
-        "media_fingerprint": "0426049f68281fd1520d709a421a187c4eecfa2954269a410cfa6c4648c016b6",
-        "text": "🪟\nWindows12 Core:\n😭\n@RoidBest",
-        "original_username": "roidbest",
-        "original_text": "🪟\nWindows12 Core:\n😭\n@RoidBest",
-        "original_link": "https://t.me/RoidBest/21835",
-        "post_id": 21835,
-        "message_id": 8363,
-        "message_kind": "caption",
-        "sources": [
-          "roidbest"
-        ],
-        "created_at": "2026-10-11T10:19:19.865468+00:00"
-      },
-      {
-        "fingerprint": "b4e8b61e1e75e88284cd86d36d057aab974111eb339cfdabaa9896f7226fb0ef",
-        "media_fingerprint": "",
-        "text": "♦️\nگزارش مقدماتی زمین‌لرزه\n🔹️\nبزرگی: ۳.۳\n🔹️\nمحل وقوع: مرز استان‌های بوشهر و فارس - حوالی وحدتیه\n🔹️\nتاریخ و زمان وقوع به وقت محلی: ۱۴۰۵/۰۷/۱۹ ۱۳:۲۸:۴۳\n🔹️\nطول جغرافیایی: ۵۱.۲۲\n🔹️\nعرض جغرافیایی: ۲۹.۵۴\n🔹️\nعمق زمین‌لرزه: ۸ کیلومتر\nنزدیک‌ترین شهرها:\n🔹️\n۶ کیلومتری وحدتیه (بوشهر)\n🔹️\n۱۱ کیلومتری خشت (فارس)\n🔹️\n۱۶ کیلومتری کنار تخته (فارس)\nنزدیک‌ترین مراکز استان:\n🔹️\n۷۶ کیلومتری بوشهر\n🔹️\n۱۲۶ کیلومتری شیراز\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nگزارش مقدماتی زمین‌لرزه\n🔹️\nبزرگی: ۳.۳\n🔹️\nمحل وقوع: مرز استان‌های بوشهر و فارس - حوالی وحدتیه\n🔹️\nتاریخ و زمان وقوع به وقت محلی: ۱۴۰۵/۰۷/۱۹ ۱۳:۲۸:۴۳\n🔹️\nطول جغرافیایی: ۵۱.۲۲\n🔹️\nعرض جغرافیایی: ۲۹.۵۴\n🔹️\nعمق زمین‌لرزه: ۸ کیلومتر\nنزدیک‌ترین شهرها:\n🔹️\n۶ کیلومتری وحدتیه (بوشهر)\n🔹️\n۱۱ کیلومتری خشت (فارس)\n🔹️\n۱۶ کیلومتری کنار تخته (فارس)\nنزدیک‌ترین مراکز استان:\n🔹️\n۷۶ کیلومتری بوشهر\n🔹️\n۱۲۶ کیلومتری شیراز\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/143476",
-        "post_id": 143476,
-        "message_id": 8364,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-11T10:47:55.195211+00:00"
-      },
-      {
-        "fingerprint": "04d33b74e3fb276360a0ba432a380223dc5ae3167f597717709709a2a63508a2",
-        "media_fingerprint": "c9b85b4be045f32dde99396b5d3a846f8f181a5707818ef3feeab83ca93769cf",
-        "text": "🔴\nروز همه دخترای ناز، خوشگل، مهربون و دوست‌داشتنی مبارک؛\nروز اونایی که با یه لبخندشون می‌تونن حال آدمو خوب کنن، با بودنشون به زندگی رنگ و قشنگی می‌دن و با قلب مهربونشون دنیا رو جای بهتری می‌کنن.\nدخترایی که وجودشون پر از عشق و لطافته و قشنگی‌شون فقط به چهره‌شون نیست، بلکه به دل پاک، اخلاق قشنگ و مهربونی بی‌انتهاشونه.\n+ این پست رو بفرست برای اون دختر خاصی که وجودش قشنگ‌ترین سکانس زندگیت شده و لبخندش از هزار تا اتفاق خوب برات باارزش‌تره\n💕\n📷\n|\n@ShakhMovie",
-        "original_username": "shakhmovie",
-        "original_text": "🔴\nروز همه دخترای ناز، خوشگل، مهربون و دوست‌داشتنی مبارک؛\nروز اونایی که با یه لبخندشون می‌تونن حال آدمو خوب کنن، با بودنشون به زندگی رنگ و قشنگی می‌دن و با قلب مهربونشون دنیا رو جای بهتری می‌کنن.\nدخترایی که وجودشون پر از عشق و لطافته و قشنگی‌شون فقط به چهره‌شون نیست، بلکه به دل پاک، اخلاق قشنگ و مهربونی بی‌انتهاشونه.\n+ این پست رو بفرست برای اون دختر خاصی که وجودش قشنگ‌ترین سکانس زندگیت شده و لبخندش از هزار تا اتفاق خوب برات باارزش‌تره\n💕\n📷\n|\n@ShakhMovie",
-        "original_link": "https://t.me/Shakhmovie/4126",
-        "post_id": 4126,
-        "message_id": 8365,
-        "message_kind": "caption",
-        "sources": [
-          "shakhmovie"
-        ],
-        "created_at": "2026-10-11T10:48:00.156726+00:00"
-      },
-      {
-        "fingerprint": "842190c5ddecdb2a0f5bbbbdc7ac07a6ea2f33eab382df366839b8c4c378d417",
-        "media_fingerprint": "99f24814e772263176eb49a3802c0ce8b2dbe167cabfdeb22850d4b156d60072",
-        "text": "پرورش یک دانش آموز مهم تر از آموزش اوست\n👏\nمعلمین آگاه امروزی حاصل دهه شصت به بعد هاست!\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "پرورش یک دانش آموز مهم تر از آموزش اوست\n👏\nمعلمین آگاه امروزی حاصل دهه شصت به بعد هاست!\n@irWonders",
-        "original_link": "https://t.me/irwonders/58587",
-        "post_id": 58587,
-        "message_id": 8366,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-11T10:48:07.158838+00:00"
-      },
-      {
-        "fingerprint": "895ac1547a75a71aef8079618d0cc122f1bb1011bcd78c08eea29b724db671d3",
-        "media_fingerprint": "6b2b5dc77b9731e04cb276a1ed994dd6fbb2381717d6e6b27fbc6da135f57d38",
-        "text": "📷\nاعلام اسامی داوران بازی‌های معوقه هفته هفتم لیگ برتر\n🔘\n@Navadnewstelegram",
-        "original_username": "footballvision2",
-        "original_text": "📷\nاعلام اسامی داوران بازی‌های معوقه هفته هفتم لیگ برتر\n🔘\n@Navadnewstelegram",
-        "original_link": "https://t.me/footballvision2/170995",
-        "post_id": 170995,
-        "message_id": 8367,
-        "message_kind": "caption",
-        "sources": [
-          "footballvision2",
-          "mazdak_hattrick"
-        ],
-        "created_at": "2026-10-11T10:48:10.780892+00:00"
-      },
-      {
-        "fingerprint": "f322d8a413f79b2818b0438dd21feb8cc2d108a28d8618052e6a5801a4712453",
-        "media_fingerprint": "9dc65b306aaf9a94488b54980d0a18649ef1ca2278ba59437db0076c58075a09",
-        "text": "خداحافظی عجیب خانم کمبرلی سفیر آمریکا در یونان با ربیو وزیر امورخارجه آمریکا\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "خداحافظی عجیب خانم کمبرلی سفیر آمریکا در یونان با ربیو وزیر امورخارجه آمریکا\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163094",
-        "post_id": 163094,
-        "message_id": 8368,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-11T10:48:17.049449+00:00"
-      },
       {
         "fingerprint": "3a329571d5c8cb7557ddb4e97f253e831302ec3263127680a9c5693b70b7ebd6",
         "media_fingerprint": "",
@@ -34078,7 +33958,8 @@
         "message_id": 9314,
         "message_kind": "caption",
         "sources": [
-          "hattric_official"
+          "hattric_official",
+          "futball180tv"
         ],
         "created_at": "2026-10-13T21:29:03.577463+00:00"
       },
@@ -35750,6 +35631,141 @@
           "adak_ir_official"
         ],
         "created_at": "2026-10-14T10:08:18.754020+00:00"
+      },
+      {
+        "fingerprint": "f459edffd76ff726431fe4a588b95492adecdc3487296ae2924765a017f3891c",
+        "media_fingerprint": "1c9091178802f14ef262303a873e204b2b0dd2e46fb0cd6b2cd0f1ca7e40e036",
+        "text": "🤖\nجمنای مدل Gemini 4 Argon را برای همه در دسترس قرار می‌دهد!\n🗂\nقابلیت‌های Argon:\n🔘\nعملکرد مشابه Astra و Fable در تست‌های معیار و در برخی موارد، از آن‌ها بهتر عمل می‌کند.\n🔘\nتوانایی قوی در کدنویسی: این مدل در داخل گوگل برای بازنویسی 800 هزار خط از کد هسته سیستم…",
+        "original_username": "roidbest",
+        "original_text": "🤖\nجمنای مدل Gemini 4 Argon را برای همه در دسترس قرار می‌دهد!\n🗂\nقابلیت‌های Argon:\n🔘\nعملکرد مشابه Astra و Fable در تست‌های معیار و در برخی موارد، از آن‌ها بهتر عمل می‌کند.\n🔘\nتوانایی قوی در کدنویسی: این مدل در داخل گوگل برای بازنویسی 800 هزار خط از کد هسته سیستم…",
+        "original_link": "https://t.me/RoidBest/21858",
+        "post_id": 21858,
+        "message_id": 9432,
+        "message_kind": "caption",
+        "sources": [
+          "roidbest"
+        ],
+        "created_at": "2026-10-14T10:37:17.925960+00:00"
+      },
+      {
+        "fingerprint": "2d280eb6888acb8ee2814e804d860faf3e362cde471002539fa564c3c44025c3",
+        "media_fingerprint": "3867911cb5a7ff6a3281a831d792f3ca4bdaabe11cc837dda54dffa90e27f937",
+        "text": "دنیای خزه‌ها از نمای بسیار نزدیک\n😍\n👌\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "دنیای خزه‌ها از نمای بسیار نزدیک\n😍\n👌\n@irWonders",
+        "original_link": "https://t.me/irwonders/58691",
+        "post_id": 58691,
+        "message_id": 9433,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-14T10:37:25.008709+00:00"
+      },
+      {
+        "fingerprint": "2ae33cb68094cf8a1243279287ddfe102b98057ac12adc4ded55272534aca55c",
+        "media_fingerprint": "2a76dfa81096b860c5ab41e05fd13bce07d4f248f20da0809c74b5fe9acff5d0",
+        "text": "بعضی بچه‌ها قبل از اینکه سوژه‌ی عکاسی باشن، خودشون یه اثر هنری‌ان\n🍼\n🤍\n😍\n🍋\n🥹\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "بعضی بچه‌ها قبل از اینکه سوژه‌ی عکاسی باشن، خودشون یه اثر هنری‌ان\n🍼\n🤍\n😍\n🍋\n🥹\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/307016",
+        "post_id": 307016,
+        "message_id": 9434,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-14T10:37:33.010824+00:00"
+      },
+      {
+        "fingerprint": "8d20c6d222d183314320c30ea4c320ddb168799843f6be44cdf0e24ac46225bc",
+        "media_fingerprint": "a3fb7352f3ed38bba056fd77f2537531a0adc6fdba74c03d9ed9b9e095638137",
+        "text": "سکوتش از ضعف نبود،از درک درد آدم ها بود دمت گرم که بهمون یاد دادی قبل از قضاوت حال همدیگه رو درک کنیم\n❤️\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "سکوتش از ضعف نبود،از درک درد آدم ها بود دمت گرم که بهمون یاد دادی قبل از قضاوت حال همدیگه رو درک کنیم\n❤️\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/307019",
+        "post_id": 307019,
+        "message_id": 9435,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-14T10:37:40.264694+00:00"
+      },
+      {
+        "fingerprint": "4feec7439135a05dc3268fe9536d46e7cdbac21a5cd982dcdfcd5eea620df13f",
+        "media_fingerprint": "",
+        "text": "🎙\nتعریف و تمجید دادمرز از رئیس فدراسیون کشتی\n🟢\nآقای دبیر واقعا نابغه است\n🟢\nایشان با ساختن زیرساخت و گرفتن اسپانسر کار بزرگی کرد\n🟢\nدبیر 10 کار خوب کند، بعضی‌ها فقط آن یک اشتباه را می‌بینند\n🔴\nمصاحبه اختصاصی با ستاره تیم #کشتی فرنگی\n🆔\nمصاحبه کامل در سایت ورزش…",
+        "original_username": "varzesh3",
+        "original_text": "🎙\nتعریف و تمجید دادمرز از رئیس فدراسیون کشتی\n🟢\nآقای دبیر واقعا نابغه است\n🟢\nایشان با ساختن زیرساخت و گرفتن اسپانسر کار بزرگی کرد\n🟢\nدبیر 10 کار خوب کند، بعضی‌ها فقط آن یک اشتباه را می‌بینند\n🔴\nمصاحبه اختصاصی با ستاره تیم #کشتی فرنگی\n🆔\nمصاحبه کامل در سایت ورزش…",
+        "original_link": "https://t.me/varzesh3/304078",
+        "post_id": 304078,
+        "message_id": 9436,
+        "message_kind": "text",
+        "sources": [
+          "varzesh3"
+        ],
+        "created_at": "2026-10-14T10:37:43.248652+00:00"
+      },
+      {
+        "fingerprint": "3ba0340507e757b9baa38573b4cb808b5568ae3d9cdfa0acbc243b85c62519d1",
+        "media_fingerprint": "",
+        "text": "♦️\nشهد شهادت بر سرنوشت مادر لامردی جاریست\n🔹\nمادر شهیده زهرا اسدی‌نژاد، دخترم هنوز ۲ ساله نشده بود که پدرش در راه میهن جانش را فدا کرد و عنوان «دختر شهید» نخستین افتخار او شد، در روزهایی که پرستار همسر جانبازش بود، موشک دشمن متجاوز، جان دختر جوانش را گرفت تا دومین مدال او مادری شهید باشد و اندکی بعد مرد خانه او نیز خود را به کاروان شهدا رسانید. حالا او مادرانه از سه یادگار دخترش نگهداری می‌کند؛ نوگلهایی ترکش جراحت را بر تن ظریفشان دارند.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nشهد شهادت بر سرنوشت مادر لامردی جاریست\n🔹\nمادر شهیده زهرا اسدی‌نژاد، دخترم هنوز ۲ ساله نشده بود که پدرش در راه میهن جانش را فدا کرد و عنوان «دختر شهید» نخستین افتخار او شد، در روزهایی که پرستار همسر جانبازش بود، موشک دشمن متجاوز، جان دختر جوانش را گرفت تا دومین مدال او مادری شهید باشد و اندکی بعد مرد خانه او نیز خود را به کاروان شهدا رسانید. حالا او مادرانه از سه یادگار دخترش نگهداری می‌کند؛ نوگلهایی ترکش جراحت را بر تن ظریفشان دارند.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143708",
+        "post_id": 143708,
+        "message_id": 9437,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-14T10:37:46.443423+00:00"
+      },
+      {
+        "fingerprint": "d7b31c5bf6229e47659957746bfaa5ac481b81d0668ff87fb40ff3a81e0c0b55",
+        "media_fingerprint": "d25167c5f506cabb8390d31e24755cc2cd47c9dc2b56ccd9cc3b71115264ae3d",
+        "text": "🔴\nخاله نرگس، مجری برنامه کودک :\nبچه‌ها میدونید چرا به ما میگن ارزشی؟\nچون ما با ارزشیم و مخالفانمون بی ارزش.\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "🔴\nخاله نرگس، مجری برنامه کودک :\nبچه‌ها میدونید چرا به ما میگن ارزشی؟\nچون ما با ارزشیم و مخالفانمون بی ارزش.\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/52918",
+        "post_id": 52918,
+        "message_id": 9438,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-14T10:37:50.740209+00:00"
+      },
+      {
+        "fingerprint": "ba6baad347e2e0d5e149c8431d4c92abd8b8e8006e5693f1a905fa5740ccc936",
+        "media_fingerprint": "fa56f965ce21c29b75a14cbc7a9ac227fb440a893a6c07e6d19c5cf8070e04b1",
+        "text": "از جمله قوانین عجیب و کمتر شنیده شده به اسم «فسخ نکاح» برای عدم پرداخت مهریه...\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "از جمله قوانین عجیب و کمتر شنیده شده به اسم «فسخ نکاح» برای عدم پرداخت مهریه...\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48375",
+        "post_id": 48375,
+        "message_id": 9439,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-14T10:37:57.363468+00:00"
+      },
+      {
+        "fingerprint": "aa93fa2677aee7d61a7c5344ca9c80ace9a4ddb44d5d577816bb975d1933f927",
+        "media_fingerprint": "5d452d26f04870738757c58959232fc772c871750bd5c8bac1dd6ee8e88a9826",
+        "text": "💻\nKegel Trainer\n🔝\nV11.1.0\n⭐️\nنسخه پریمیوم اپلیکیشن مربی هوشمند تمرینات کیگل\n🔖\nویژگی‌های برنامه:\n🔵\nتمرینات حرفه ای برای بانوان و آقایان\n🔵\nنسخه پریمیوم بدون تبلیغات\n📱\nبرای دانلود فایل از ربات بر روی (\nدانــلود\n)  کلیک کنید.\n🌟\n@APKCLUB",
+        "original_username": "apkclub",
+        "original_text": "💻\nKegel Trainer\n🔝\nV11.1.0\n⭐️\nنسخه پریمیوم اپلیکیشن مربی هوشمند تمرینات کیگل\n🔖\nویژگی‌های برنامه:\n🔵\nتمرینات حرفه ای برای بانوان و آقایان\n🔵\nنسخه پریمیوم بدون تبلیغات\n📱\nبرای دانلود فایل از ربات بر روی (\nدانــلود\n)  کلیک کنید.\n🌟\n@APKCLUB",
+        "original_link": "https://t.me/apkclub/72994",
+        "post_id": 72994,
+        "message_id": 9440,
+        "message_kind": "caption",
+        "sources": [
+          "apkclub"
+        ],
+        "created_at": "2026-10-14T10:38:01.990153+00:00"
       }
     ]
   }
