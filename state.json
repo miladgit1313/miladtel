@@ -1007,10 +1007,8 @@
       "sent_count": 1108
     },
     "total_fut": {
-      "last_id": 238254,
+      "last_id": 238256,
       "processed_ids": [
-        237160,
-        237161,
         237162,
         237163,
         237164,
@@ -2008,23 +2006,15 @@
         238250,
         238251,
         238252,
-        238254
+        238254,
+        238255,
+        238256
       ],
-      "sent_count": 184
+      "sent_count": 185
     },
     "footballvision2": {
-      "last_id": 171928,
+      "last_id": 171938,
       "processed_ids": [
-        170600,
-        170601,
-        170602,
-        170603,
-        170604,
-        170605,
-        170606,
-        170607,
-        170608,
-        170609,
         170610,
         170611,
         170613,
@@ -3014,7 +3004,17 @@
         171925,
         171926,
         171927,
-        171928
+        171928,
+        171929,
+        171930,
+        171931,
+        171932,
+        171933,
+        171934,
+        171935,
+        171936,
+        171937,
+        171938
       ],
       "sent_count": 178
     },
@@ -3396,11 +3396,8 @@
       "sent_count": 10
     },
     "drtel": {
-      "last_id": 71473,
+      "last_id": 71482,
       "processed_ids": [
-        66575,
-        66576,
-        66580,
         66581,
         66582,
         66583,
@@ -4397,7 +4394,10 @@
         71467,
         71468,
         71472,
-        71473
+        71473,
+        71477,
+        71480,
+        71482
       ],
       "sent_count": 564
     },
@@ -5708,7 +5708,7 @@
       "sent_count": 164
     },
     "akhbar_cafenet": {
-      "last_id": 23470,
+      "last_id": 23471,
       "processed_ids": [
         22432,
         22433,
@@ -6690,12 +6690,13 @@
         23467,
         23468,
         23469,
-        23470
+        23470,
+        23471
       ],
-      "sent_count": 507
+      "sent_count": 508
     },
     "comentiat": {
-      "last_id": 26600,
+      "last_id": 26602,
       "processed_ids": [
         25844,
         25845,
@@ -7299,9 +7300,11 @@
         26597,
         26598,
         26599,
-        26600
+        26600,
+        26601,
+        26602
       ],
-      "sent_count": 447
+      "sent_count": 449
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -7311,7 +7314,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38780,
+      "last_id": 38781,
       "processed_ids": [
         38432,
         38433,
@@ -7655,7 +7658,8 @@
         38776,
         38777,
         38779,
-        38780
+        38780,
+        38781
       ],
       "sent_count": 206
     },
@@ -8831,7 +8835,7 @@
       "sent_count": 98
     },
     "jaleb": {
-      "last_id": 53025,
+      "last_id": 53028,
       "processed_ids": [
         52261,
         52262,
@@ -9503,9 +9507,12 @@
         53022,
         53023,
         53024,
-        53025
+        53025,
+        53026,
+        53027,
+        53028
       ],
-      "sent_count": 340
+      "sent_count": 341
     },
     "ajayebe_jahann": {
       "last_id": 159988,
@@ -10721,18 +10728,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 110590,
+      "last_id": 110600,
       "processed_ids": [
-        109368,
-        109369,
-        109370,
-        109371,
-        109372,
-        109373,
-        109374,
-        109375,
-        109376,
-        109377,
         109378,
         109379,
         109380,
@@ -11722,21 +11719,23 @@
         110587,
         110588,
         110589,
-        110590
+        110590,
+        110591,
+        110592,
+        110593,
+        110594,
+        110595,
+        110596,
+        110597,
+        110598,
+        110599,
+        110600
       ],
       "sent_count": 213
     },
     "varzesh3": {
-      "last_id": 304423,
+      "last_id": 304431,
       "processed_ids": [
-        303267,
-        303268,
-        303269,
-        303270,
-        303271,
-        303272,
-        303273,
-        303274,
         303275,
         303276,
         303277,
@@ -12728,16 +12727,21 @@
         304420,
         304421,
         304422,
-        304423
+        304423,
+        304424,
+        304425,
+        304426,
+        304427,
+        304428,
+        304429,
+        304430,
+        304431
       ],
-      "sent_count": 132
+      "sent_count": 133
     },
     "totalfut_plus": {
-      "last_id": 26917,
+      "last_id": 26920,
       "processed_ids": [
-        25876,
-        25877,
-        25878,
         25879,
         25880,
         25881,
@@ -13734,18 +13738,16 @@
         26913,
         26914,
         26915,
-        26917
+        26917,
+        26918,
+        26919,
+        26920
       ],
-      "sent_count": 80
+      "sent_count": 81
     },
     "adak_ir_official": {
-      "last_id": 235645,
+      "last_id": 235650,
       "processed_ids": [
-        234603,
-        234605,
-        234606,
-        234607,
-        234608,
         234609,
         234610,
         234611,
@@ -14740,25 +14742,18 @@
         235642,
         235643,
         235644,
-        235645
+        235645,
+        235646,
+        235647,
+        235648,
+        235649,
+        235650
       ],
       "sent_count": 268
     },
     "futball180tv": {
-      "last_id": 109105,
+      "last_id": 109117,
       "processed_ids": [
-        107953,
-        107954,
-        107955,
-        107956,
-        107957,
-        107958,
-        107959,
-        107960,
-        107961,
-        107962,
-        107963,
-        107964,
         107965,
         107966,
         107967,
@@ -15746,16 +15741,25 @@
         109102,
         109103,
         109104,
-        109105
+        109105,
+        109106,
+        109107,
+        109108,
+        109109,
+        109110,
+        109111,
+        109112,
+        109113,
+        109114,
+        109115,
+        109116,
+        109117
       ],
       "sent_count": 139
     },
     "hattric_official": {
-      "last_id": 85185,
+      "last_id": 85188,
       "processed_ids": [
-        84116,
-        84117,
-        84118,
         84119,
         84120,
         84121,
@@ -16752,12 +16756,15 @@
         85182,
         85183,
         85184,
-        85185
+        85185,
+        85186,
+        85187,
+        85188
       ],
-      "sent_count": 208
+      "sent_count": 209
     },
     "mazdak_hattrick": {
-      "last_id": 182646,
+      "last_id": 182648,
       "processed_ids": [
         181991,
         181992,
@@ -17392,7 +17399,9 @@
         182643,
         182644,
         182645,
-        182646
+        182646,
+        182647,
+        182648
       ],
       "sent_count": 65
     },
@@ -17557,7 +17566,7 @@
       "sent_count": 15
     },
     "irwonders": {
-      "last_id": 58857,
+      "last_id": 58858,
       "processed_ids": [
         58030,
         58031,
@@ -18310,7 +18319,8 @@
         58852,
         58854,
         58855,
-        58857
+        58857,
+        58858
       ],
       "sent_count": 482
     },
@@ -20805,7 +20815,7 @@
       "sent_count": 97
     },
     "yejoorayi": {
-      "last_id": 596,
+      "last_id": 597,
       "processed_ids": [
         426,
         427,
@@ -20964,9 +20974,10 @@
         591,
         592,
         593,
-        596
+        596,
+        597
       ],
-      "sent_count": 145
+      "sent_count": 146
     },
     "onlinecofe_ir": {
       "last_id": 2887,
@@ -21207,7 +21218,7 @@
       "sent_count": 102
     },
     "peach_tweet": {
-      "last_id": 4132,
+      "last_id": 4134,
       "processed_ids": [
         2745,
         2749,
@@ -21750,9 +21761,11 @@
         4129,
         4130,
         4131,
-        4132
+        4132,
+        4133,
+        4134
       ],
-      "sent_count": 295
+      "sent_count": 296
     },
     "funy_khand": {
       "last_id": 25992,
@@ -22050,7 +22063,7 @@
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6665,
+      "last_id": 6671,
       "processed_ids": [
         6113,
         6114,
@@ -22540,7 +22553,13 @@
         6662,
         6663,
         6664,
-        6665
+        6665,
+        6666,
+        6667,
+        6668,
+        6669,
+        6670,
+        6671
       ],
       "sent_count": 12
     },
@@ -22640,7 +22659,7 @@
       "sent_count": 69
     },
     "dashagh": {
-      "last_id": 48513,
+      "last_id": 48516,
       "processed_ids": [
         48313,
         48314,
@@ -22798,9 +22817,12 @@
         48509,
         48510,
         48512,
-        48513
+        48513,
+        48514,
+        48515,
+        48516
       ],
-      "sent_count": 113
+      "sent_count": 115
     },
     "apkclub": {
       "last_id": 73090,
@@ -22934,7 +22956,7 @@
       "sent_count": 29
     },
     "boob_sfangi": {
-      "last_id": 2654,
+      "last_id": 2658,
       "processed_ids": [
         2587,
         2590,
@@ -22991,12 +23013,16 @@
         2651,
         2652,
         2653,
-        2654
+        2654,
+        2655,
+        2656,
+        2657,
+        2658
       ],
-      "sent_count": 38
+      "sent_count": 39
     },
     "fucknewsi": {
-      "last_id": 13651,
+      "last_id": 13664,
       "processed_ids": [
         13561,
         13562,
@@ -23054,9 +23080,15 @@
         13648,
         13649,
         13650,
-        13651
+        13651,
+        13654,
+        13655,
+        13656,
+        13659,
+        13663,
+        13664
       ],
-      "sent_count": 31
+      "sent_count": 34
     },
     "https://t.me/+hhcepayguws1nti0": {
       "last_id": 0,
@@ -23074,7 +23106,7 @@
       "sent_count": 0
     },
     "bimaariha": {
-      "last_id": 19244,
+      "last_id": 19245,
       "processed_ids": [
         19155,
         19156,
@@ -23116,7 +23148,8 @@
         19229,
         19242,
         19243,
-        19244
+        19244,
+        19245
       ],
       "sent_count": 20
     },
@@ -23128,255 +23161,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "413de88af60a962c0fb5bb210df9117964ec69fd9f5444775891235ac8155076",
-        "media_fingerprint": "3f0a6b965c2c5ad142b077a058e2e2a3db92b48d89e15e8f05aba8961e4329b8",
-        "text": "عجیب‌ترین ازدواج‌های سال ۱۴۰۵ به خاطر پول!\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "عجیب‌ترین ازدواج‌های سال ۱۴۰۵ به خاطر پول!\n@irWonders",
-        "original_link": "https://t.me/irwonders/58749",
-        "post_id": 58749,
-        "message_id": 10036,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-16T05:46:24.173084+00:00"
-      },
-      {
-        "fingerprint": "eb74e77bc73c64ed06c592bbbbecdc3df110cbb655ed68c7bc994038c9dc9c74",
-        "media_fingerprint": "265b4b0d336890a894896a729db09064da4b85f51384d56f9ab0e0cc0456c0b8",
-        "text": "🔴\nاولین تصویرِ استفاده‌ی آمریکا از بمب قدرتمند GBU-43/B MOAB در 13 آوریل 2017 :\nاین بمب علیه غارهایی که تحت کنترل شاخه خراسان داعش در افغانستان بود، به کار گرفته شد.\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "🔴\nاولین تصویرِ استفاده‌ی آمریکا از بمب قدرتمند GBU-43/B MOAB در 13 آوریل 2017 :\nاین بمب علیه غارهایی که تحت کنترل شاخه خراسان داعش در افغانستان بود، به کار گرفته شد.\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52958",
-        "post_id": 52958,
-        "message_id": 10037,
-        "message_kind": "text",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-16T05:46:42.538477+00:00"
-      },
-      {
-        "fingerprint": "eac8a15224c87c5fb2c0711efa01694b29fb074eb41bc307003e8f83e4ccadc8",
-        "media_fingerprint": "04487bfc513f8c2886089d0e6b431cee7740f352d14e7372b8c5a85098201196",
-        "text": "🔴\nرئیس جمهور کره جنوبی با یه پست از مردم کشورش خواهش کرد که خودکشی نکنن:\nما باید زندگی کنیم. باید به هر شکلی که شده به زندگی ادامه بدیم. اگه شرایط سخته، لطفاً با شماره ۱۰۹ تماس بگیرید. در واقع، «گیل» به شما کمک می‌کنه تا با هم دلایلی واسه ادامه زندگی پیدا کنید.\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "🔴\nرئیس جمهور کره جنوبی با یه پست از مردم کشورش خواهش کرد که خودکشی نکنن:\nما باید زندگی کنیم. باید به هر شکلی که شده به زندگی ادامه بدیم. اگه شرایط سخته، لطفاً با شماره ۱۰۹ تماس بگیرید. در واقع، «گیل» به شما کمک می‌کنه تا با هم دلایلی واسه ادامه زندگی پیدا کنید.\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52959",
-        "post_id": 52959,
-        "message_id": 10038,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-16T05:46:46.606437+00:00"
-      },
-      {
-        "fingerprint": "f98c568d63218dcc58941c04c7094ebbf0e87fd89eadf2583640983be45b0b50",
-        "media_fingerprint": "20aa443f4d646d427578fe914816b0ea81c181333c5c0489cca121c35a1d0f10",
-        "text": "▪️\nپلیس مکزیک بعد از بازرسی یه پسر بچه دانش آموز تو مدرسه، متوجه یه بسته مشکوک تو کیفش میشه و اونو دستگیر می‌کنه.\n▪️\nاول پلیس با دیدن بسته و شکلش، فکر کرد مواد مخدر هست. ولی وقتی که باز کرد دید داخل بسته دوتا ساندویچ بوده که مادرش براش گذاشته بود...\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "▪️\nپلیس مکزیک بعد از بازرسی یه پسر بچه دانش آموز تو مدرسه، متوجه یه بسته مشکوک تو کیفش میشه و اونو دستگیر می‌کنه.\n▪️\nاول پلیس با دیدن بسته و شکلش، فکر کرد مواد مخدر هست. ولی وقتی که باز کرد دید داخل بسته دوتا ساندویچ بوده که مادرش براش گذاشته بود...\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/52961",
-        "post_id": 52961,
-        "message_id": 10039,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb",
-          "irwonders"
-        ],
-        "created_at": "2026-10-16T05:46:50.737874+00:00"
-      },
-      {
-        "fingerprint": "ac5e24a7ed7c068aa994db4f622ec11237970dbeeab668f6632a4d3dca63b1a8",
-        "media_fingerprint": "",
-        "text": "حمله نظامی امریکا به ایران درحال انجامه ؟\nمشاهده خبر\n🇺🇸\n🇮🇷",
-        "original_username": "peach_tweet",
-        "original_text": "حمله نظامی امریکا به ایران درحال انجامه ؟\nمشاهده خبر\n🇺🇸\n🇮🇷",
-        "original_link": "https://t.me/peach_tweet/3682",
-        "post_id": 3682,
-        "message_id": 10040,
-        "message_kind": "text",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-16T05:46:53.259571+00:00"
-      },
-      {
-        "fingerprint": "57b5f2ed22a893fe3026a018c4d4531ed2a652f3eed09d1d4b3cf100b225533d",
-        "media_fingerprint": "69284773bd743774f3ba4d9d860f672042a2340e44518ae71e1c1a1832214b02",
-        "text": "🚨\n🚨\n🔵\nکنایه تند مدیر استقلال به پرسپولیس\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n🚨\n🔵\nکنایه تند مدیر استقلال به پرسپولیس\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/235459",
-        "post_id": 235459,
-        "message_id": 10041,
-        "message_kind": "caption",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-16T11:13:39.254078+00:00"
-      },
-      {
-        "fingerprint": "b0cf1bd9d1e567eb1c8ae61dbcb6dfe7c37d6b90cf73d7de277d51386731c12b",
-        "media_fingerprint": "3fb91a529874ed17dfaef27d96d8f4cc3a5d56b22712256e5066e04902413030",
-        "text": "سلام عزیزان صبح\nجمعه تون بخیر\nامروز قلم موی اراده\nرا بردار آغشته\nبه رنگ عشق کن\nرنگ تازه ای بزن\nبربوم زندگی\nتا جان بگیرند طرح\nهای آرزوهای قشنگت...\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "سلام عزیزان صبح\nجمعه تون بخیر\nامروز قلم موی اراده\nرا بردار آغشته\nبه رنگ عشق کن\nرنگ تازه ای بزن\nبربوم زندگی\nتا جان بگیرند طرح\nهای آرزوهای قشنگت...\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/307067",
-        "post_id": 307067,
-        "message_id": 10042,
-        "message_kind": "caption",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-16T11:13:44.812044+00:00"
-      },
-      {
-        "fingerprint": "5211f17d8d5afce97af670a6c52e0bd4e9790c9ca9d98ab9ba0e2d10ce8fd43a",
-        "media_fingerprint": "ed831278a899f30b1ae6b364e65cf8bfc05c5d67f8214508d84be6ea69a06f04",
-        "text": "خدایا، هر آرزویی که این پدر از ته دل داره، به زیباترین شکل براش برآورده کن. آمین ای مهربان ترین...\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "خدایا، هر آرزویی که این پدر از ته دل داره، به زیباترین شکل براش برآورده کن. آمین ای مهربان ترین...\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/307068",
-        "post_id": 307068,
-        "message_id": 10043,
-        "message_kind": "caption",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-16T11:13:54.471884+00:00"
-      },
-      {
-        "fingerprint": "621c26ceee3b56fa0c734ef303a206837aeeeaf91a5dc3d114b123f938fcf8de",
-        "media_fingerprint": "3a903fa4b5d460862ec74129a9ffe11de5f330b2a7079ed0cda4ba64e3cb8709",
-        "text": "در پایان بازی‌های هفته هشتم\n🧤\nبیشترین کلین‌شیت در لیگ برتر\n@Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "در پایان بازی‌های هفته هشتم\n🧤\nبیشترین کلین‌شیت در لیگ برتر\n@Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/110255",
-        "post_id": 110255,
-        "message_id": 10044,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-16T11:13:59.541636+00:00"
-      },
-      {
-        "fingerprint": "a549cf4bde4ab279c8f14d807d536b03892c627c92061ad01b499c0ccf64a5ff",
-        "media_fingerprint": "dbb01e6a4f5313c6027a0e3843ba9165c966a6e250903efd389eca866da70dba",
-        "text": "میانگین تعداد رابطه جنـسی در هر سن.\nاگه میانگین مال توام مثل من صفر بار در ساله؛ سلام خداقوت\n✋🏻\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "میانگین تعداد رابطه جنـسی در هر سن.\nاگه میانگین مال توام مثل من صفر بار در ساله؛ سلام خداقوت\n✋🏻\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/3686",
-        "post_id": 3686,
-        "message_id": 10045,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-16T11:14:04.544723+00:00"
-      },
-      {
-        "fingerprint": "bc18e11405a0445cade4baed21e7d1ce021014f84ac48e2e608b3ec466ab224c",
-        "media_fingerprint": "eb46530115bda28ba965a43af874f32282dc951a61edd9fdb471fb0c58ec176b",
-        "text": "امپراطور بیخیال جومونگ و بانو یوها نمیشه…\n📷\n|\n@ShakhMovie",
-        "original_username": "shakhmovie",
-        "original_text": "امپراطور بیخیال جومونگ و بانو یوها نمیشه…\n📷\n|\n@ShakhMovie",
-        "original_link": "https://t.me/Shakhmovie/4180",
-        "post_id": 4180,
-        "message_id": 10046,
-        "message_kind": "caption",
-        "sources": [
-          "shakhmovie"
-        ],
-        "created_at": "2026-10-16T11:14:13.349011+00:00"
-      },
-      {
-        "fingerprint": "97fe4522ba909745c6741a1177a9971408fe571be50f61246044a151fc5ff21b",
-        "media_fingerprint": "",
-        "text": "🚨\n🇮🇷\nرئیس دپارتمان VAR فدراسیون شایعه استفاده از یک دوربین در بازی پرسپولیس برابر خیبر خرم‌آباد را رد کرد.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n🇮🇷\nرئیس دپارتمان VAR فدراسیون شایعه استفاده از یک دوربین در بازی پرسپولیس برابر خیبر خرم‌آباد را رد کرد.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/235460",
-        "post_id": 235460,
-        "message_id": 10047,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-16T11:14:16.949489+00:00"
-      },
-      {
-        "fingerprint": "9185aa57573b1a453fd3fce837c7116bd46f2137bed64ea8e157f922db0aeeea",
-        "media_fingerprint": "5dbef52d0b086996a78aebc43b3e5cb24f35dc366cbbbcdded7c71e2ba3169af",
-        "text": "🇪🇸\nخط حمله بارسلونا در این‌فصل: ۱۰ بازی ۴۳ گل\n⚽️\n@Futball180TV",
-        "original_username": "futball180tv",
-        "original_text": "🇪🇸\nخط حمله بارسلونا در این‌فصل: ۱۰ بازی ۴۳ گل\n⚽️\n@Futball180TV",
-        "original_link": "https://t.me/Futball180TV/108849",
-        "post_id": 108849,
-        "message_id": 10048,
-        "message_kind": "caption",
-        "sources": [
-          "futball180tv"
-        ],
-        "created_at": "2026-10-16T11:14:22.408855+00:00"
-      },
-      {
-        "fingerprint": "565d240f5343e625ae579a4d45a770f1f02c6368b5ed4d06da4fbe6f47c28866",
-        "media_fingerprint": "",
-        "text": "",
-        "original_username": "apkclub",
-        "original_text": "",
-        "original_link": "https://t.me/apkclub/73021",
-        "post_id": 73021,
-        "message_id": 10049,
-        "message_kind": "text",
-        "sources": [
-          "apkclub",
-          "ghandeharipoet",
-          "techtube",
-          "ajayebe_jahann",
-          "akhbarfars",
-          "dashagh",
-          "cinematicketorg",
-          "khandehabadd",
-          "bajefilm"
-        ],
-        "created_at": "2026-10-16T11:14:25.123963+00:00"
-      },
-      {
-        "fingerprint": "8a7bde8d27d73f29d8cc1e767d4ff812cc0586bbe6d1fb0bdc8a9b8a979c309e",
-        "media_fingerprint": "",
-        "text": "کالابرگ برخی خانوارها فردا شارژ می‌شود\n🔹\nفردا شنبه ۲۵ مهر ۱۴۰۵ کالابرگ خانوارهایی که رقم انتهای کد ملی سرپرستان آنها ۳، ۴، ۵ و ۶ است، شارژ می‌شود.\n---------------------‐------\n♦️\nآخرین خبر فارس و شیراز\n●  تلگرام:\nt.me/Fars_today\n●  بله:\nble.ir/fars_online",
-        "original_username": "fars_today",
-        "original_text": "کالابرگ برخی خانوارها فردا شارژ می‌شود\n🔹\nفردا شنبه ۲۵ مهر ۱۴۰۵ کالابرگ خانوارهایی که رقم انتهای کد ملی سرپرستان آنها ۳، ۴، ۵ و ۶ است، شارژ می‌شود.\n---------------------‐------\n♦️\nآخرین خبر فارس و شیراز\n●  تلگرام:\nt.me/Fars_today\n●  بله:\nble.ir/fars_online",
-        "original_link": "https://t.me/Fars_today/132231",
-        "post_id": 132231,
-        "message_id": 10050,
-        "message_kind": "text",
-        "sources": [
-          "fars_today"
-        ],
-        "created_at": "2026-10-16T11:14:29.093030+00:00"
-      },
-      {
-        "fingerprint": "37290428a6c5fc3dccb6c8a55980a9e677b2ff26d282e381cf49d5e1d7509db6",
-        "media_fingerprint": "",
-        "text": "‌سلام بر آنان که سزاوارِ تمام دل خوشی های رویِ زمین اند...\nصبح بخیر\n🫀\n🌤\n🤍\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
-        "original_username": "ghandeharipoet",
-        "original_text": "‌سلام بر آنان که سزاوارِ تمام دل خوشی های رویِ زمین اند...\nصبح بخیر\n🫀\n🌤\n🤍\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
-        "original_link": "https://t.me/Ghandeharipoet/42751",
-        "post_id": 42751,
-        "message_id": 10051,
-        "message_kind": "text",
-        "sources": [
-          "ghandeharipoet"
-        ],
-        "created_at": "2026-10-16T11:14:37.996955+00:00"
-      },
       {
         "fingerprint": "419832ca6b64055a338020331e9cd4c24c714885b0bfa9fd2567ebae5439d625",
         "media_fingerprint": "",
@@ -36876,7 +36660,8 @@
         "message_id": 10990,
         "message_kind": "caption",
         "sources": [
-          "gizmiztel"
+          "gizmiztel",
+          "jaleb"
         ],
         "created_at": "2026-10-18T18:05:31.914994+00:00"
       },
@@ -37236,7 +37021,8 @@
         "message_id": 11015,
         "message_kind": "caption",
         "sources": [
-          "drtel"
+          "drtel",
+          "fucknewsi"
         ],
         "created_at": "2026-10-18T18:08:05.885904+00:00"
       },
@@ -38248,6 +38034,246 @@
           "boob_sfangi"
         ],
         "created_at": "2026-10-18T20:35:49.428649+00:00"
+      },
+      {
+        "fingerprint": "d0a985906d26a052fa492f0358351469cfcc752329b8e82ce46bf6ac4e710ac6",
+        "media_fingerprint": "",
+        "text": "✅\n#اختصاصی_هتریک\n⚽\nترکیب استقلال در دیدار فردا مقابل گل‌گهر\n🔵\nسیستم پایه 3421\n🔵\nحبیب فرعباسی\n🔵\nرستم آشرماتوف\n🔵\nسامان فلاح\n🔵\nعارف آقاسی\n🔵\nحسین گودرزی\n🔵\nصالح حردانی\n🔵\nروزبه چشمی\n🔵\nمحمد حسین اسلامی\n🔵\nاسماعیل قلی‌زاده\n🔵\nجلال الدین ماشاریپوف\n🔵\nسعید سحرخیزان\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "✅\n#اختصاصی_هتریک\n⚽\nترکیب استقلال در دیدار فردا مقابل گل‌گهر\n🔵\nسیستم پایه 3421\n🔵\nحبیب فرعباسی\n🔵\nرستم آشرماتوف\n🔵\nسامان فلاح\n🔵\nعارف آقاسی\n🔵\nحسین گودرزی\n🔵\nصالح حردانی\n🔵\nروزبه چشمی\n🔵\nمحمد حسین اسلامی\n🔵\nاسماعیل قلی‌زاده\n🔵\nجلال الدین ماشاریپوف\n🔵\nسعید سحرخیزان\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/85187",
+        "post_id": 85187,
+        "message_id": 11087,
+        "message_kind": "text",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-18T22:33:33.350787+00:00"
+      },
+      {
+        "fingerprint": "2790ecb0ba65dec0a6d5124e88fce74e3f34e472d09b3bb855b1c2d50cb10e67",
+        "media_fingerprint": "c4c62f735fffe42864c3d3352107a814ad05a6cd202189c10c7884735c9b6f41",
+        "text": "🔴\nبازداشت جنجالی در افغانستان، مردی که ادعای امام زمان بو\nدن بردات؟\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "🔴\nبازداشت جنجالی در افغانستان، مردی که ادعای امام زمان بو\nدن بردات؟\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/53027",
+        "post_id": 53027,
+        "message_id": 11088,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-18T22:33:38.939356+00:00"
+      },
+      {
+        "fingerprint": "91ad524818b0e8d923cb72da7db4f89ca04346e796ab29c3dd0b1b7532eb7e85",
+        "media_fingerprint": "",
+        "text": "🎖️\n#اختصاصی_توتال\n🏅\nترکیب پرسپولیس در بازی فردا برابر مس شهر باباک\n🔹\nسیستم پایه:۴۴۲\n🔹\nپیام نیازمند\n🔹\nمحمد‌مهدی زارع\n🔹\nحسین ابرقویی\n🔹\nابوالفضل جلالی\n🔹\nمهدی تیکدری‌نژاد\n🔹\nپویا پورعلی\n🔹\nمحمد خدابنده‌لو\n🔹\nمحمد‌ مهدی محبی\n🔹\nاوستون اورونوف\n🔹\nتیوی بیفوما\n🔹\nعلی علیپور\n❌\nپ.ن:این احتمال وجود دارد که مجید عیدی جایگزین ابوالفضل جلالی شده و تیکدری در پست دفاع چپ بازی کند.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_username": "total_fut",
+        "original_text": "🎖️\n#اختصاصی_توتال\n🏅\nترکیب پرسپولیس در بازی فردا برابر مس شهر باباک\n🔹\nسیستم پایه:۴۴۲\n🔹\nپیام نیازمند\n🔹\nمحمد‌مهدی زارع\n🔹\nحسین ابرقویی\n🔹\nابوالفضل جلالی\n🔹\nمهدی تیکدری‌نژاد\n🔹\nپویا پورعلی\n🔹\nمحمد خدابنده‌لو\n🔹\nمحمد‌ مهدی محبی\n🔹\nاوستون اورونوف\n🔹\nتیوی بیفوما\n🔹\nعلی علیپور\n❌\nپ.ن:این احتمال وجود دارد که مجید عیدی جایگزین ابوالفضل جلالی شده و تیکدری در پست دفاع چپ بازی کند.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@total_fut",
+        "original_link": "https://t.me/total_fut/238255",
+        "post_id": 238255,
+        "message_id": 11089,
+        "message_kind": "text",
+        "sources": [
+          "total_fut"
+        ],
+        "created_at": "2026-10-18T22:33:42.759450+00:00"
+      },
+      {
+        "fingerprint": "f8d9155cc1e02f71fe51719d9536ec31cdefb404ee6d5078bcf9f583ea4a48ba",
+        "media_fingerprint": "",
+        "text": "🚨\n🎖️\n🏅\nترکیب پرسپولیس برابر مس شهر بابک تو بازی فردا ...\nعلیپور  بیفوما\nمحبی                       اورونوف\nپورعلی   خدابنده‌لو\nتیکدری    زارع    ابرقویی    جلالی\nنیازمند\n❌\nاین احتمال وجود دارد که مجید عیدی جایگزین ابوالفضل جلالی شده و تیکدری در پست دفاع چپ بازی کند.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جایزه‌ هفتگی 15 میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
+        "original_username": "totalfut_plus",
+        "original_text": "🚨\n🎖️\n🏅\nترکیب پرسپولیس برابر مس شهر بابک تو بازی فردا ...\nعلیپور  بیفوما\nمحبی                       اورونوف\nپورعلی   خدابنده‌لو\nتیکدری    زارع    ابرقویی    جلالی\nنیازمند\n❌\nاین احتمال وجود دارد که مجید عیدی جایگزین ابوالفضل جلالی شده و تیکدری در پست دفاع چپ بازی کند.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جایزه‌ هفتگی 15 میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
+        "original_link": "https://t.me/totalfut_plus/26919",
+        "post_id": 26919,
+        "message_id": 11090,
+        "message_kind": "text",
+        "sources": [
+          "totalfut_plus"
+        ],
+        "created_at": "2026-10-18T22:33:45.764402+00:00"
+      },
+      {
+        "fingerprint": "0498beed4d5645c22135e1dae4bb65e5bbc8a10c0096a346efe3fd3e5bea9919",
+        "media_fingerprint": "95b4877f53044f65168e52df8bda5c28b34a07da6d3a0402e42b42e789e2de0e",
+        "text": "دختر 19 ساله:\nمتاسفانه پسرا دیگه اصلا لاشی نیستن من کسی رو میخوام که به جز من همزمان با چند نفر دیگه باشه و فقط گاهی بیاد بکنه و بره\n@FuckNewsi",
+        "original_username": "fucknewsi",
+        "original_text": "دختر 19 ساله:\nمتاسفانه پسرا دیگه اصلا لاشی نیستن من کسی رو میخوام که به جز من همزمان با چند نفر دیگه باشه و فقط گاهی بیاد بکنه و بره\n@FuckNewsi",
+        "original_link": "https://t.me/FuckNewsi/13654",
+        "post_id": 13654,
+        "message_id": 11091,
+        "message_kind": "caption",
+        "sources": [
+          "fucknewsi"
+        ],
+        "created_at": "2026-10-18T22:33:52.317863+00:00"
+      },
+      {
+        "fingerprint": "82688dd5bd34e29b6238331127e4804396091607bb5899572807b235e7a95028",
+        "media_fingerprint": "",
+        "text": "دلم نمی خواد قبول کنم زندگی همینیه که دارم میگذرونم\n🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "دلم نمی خواد قبول کنم زندگی همینیه که دارم میگذرونم\n🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/597",
+        "post_id": 597,
+        "message_id": 11092,
+        "message_kind": "text",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-18T22:33:54.788442+00:00"
+      },
+      {
+        "fingerprint": "3e18a8a6cea6ea7f23010d380cf11326503dd19e4b18cfcc6a0164b739a1ac94",
+        "media_fingerprint": "c3220e524305a7aa1d686f97b5c2dc1fea0df3c9f9fbe123743a12d552955c16",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26601",
+        "post_id": 26601,
+        "message_id": 11093,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-18T22:33:59.095506+00:00"
+      },
+      {
+        "fingerprint": "839c1bb571717d1e2c738af066d8a825f12160164a415bc15ad2faed812ab7bb",
+        "media_fingerprint": "cac46eaa47d9eb8aa00b8bed91406ca69e675c0fd7ddfefe211d31155125f7c3",
+        "text": "📱\nکنترل پنل به‌زودی از ویندوز ۱۱ حذف می‌شود؟\n⠀\n🔵\nمایکروسافت برنامه‌های آزمایشی جدیدی را با نام رمز Project Odeon در مایکروسافت استور قرار داده است. رابط کاربری این پکیج شباهت زیادی به بخش تنظیمات ویندوز ۱۱ دارد و هدف از توسعه آن، انتقال تدریجی قابلیت‌های قدیمی به محیط مدرن است.\n⠀\n🟠\nبررسی فایل‌های داخلی نشان می‌دهد که این بسته برای اجرا به بیلد ۲۶۱۰۰ یا نسخه‌های جدیدتر نیاز دارد. وجود فایل‌های کمکی مانند PrinterSettingsHelper به مایکروسافت اجازه می‌دهد تغییرات سیستمی را بدون نیاز به آپدیت‌های حجیم، مستقیما از طریق استور اعمال کند.\n🔵\nاین رویکرد سرعت حذف کنترل‌ پنل قدیمی را افزایش می‌دهد، اما احتمال بروز اختلال در سرورهای استور می‌تواند اجرای تنظیمات را با چالش روبه‌رو کند.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "📱\nکنترل پنل به‌زودی از ویندوز ۱۱ حذف می‌شود؟\n⠀\n🔵\nمایکروسافت برنامه‌های آزمایشی جدیدی را با نام رمز Project Odeon در مایکروسافت استور قرار داده است. رابط کاربری این پکیج شباهت زیادی به بخش تنظیمات ویندوز ۱۱ دارد و هدف از توسعه آن، انتقال تدریجی قابلیت‌های قدیمی به محیط مدرن است.\n⠀\n🟠\nبررسی فایل‌های داخلی نشان می‌دهد که این بسته برای اجرا به بیلد ۲۶۱۰۰ یا نسخه‌های جدیدتر نیاز دارد. وجود فایل‌های کمکی مانند PrinterSettingsHelper به مایکروسافت اجازه می‌دهد تغییرات سیستمی را بدون نیاز به آپدیت‌های حجیم، مستقیما از طریق استور اعمال کند.\n🔵\nاین رویکرد سرعت حذف کنترل‌ پنل قدیمی را افزایش می‌دهد، اما احتمال بروز اختلال در سرورهای استور می‌تواند اجرای تنظیمات را با چالش روبه‌رو کند.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23471",
+        "post_id": 23471,
+        "message_id": 11094,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-18T22:34:04.991994+00:00"
+      },
+      {
+        "fingerprint": "f84bd92d0463e2197d73f0e4389d6ab942bf7be3322bf6bf7fcb90f3694cad80",
+        "media_fingerprint": "b5f71b7a45218d6e865317c7d67bdcf7e7296faaf4298794dc73d57fcb07801e",
+        "text": "دیگه با خانواده هم نمیشه فیلم ایرانی دید :\n@FuckNewsi",
+        "original_username": "fucknewsi",
+        "original_text": "دیگه با خانواده هم نمیشه فیلم ایرانی دید :\n@FuckNewsi",
+        "original_link": "https://t.me/FuckNewsi/13655",
+        "post_id": 13655,
+        "message_id": 11095,
+        "message_kind": "caption",
+        "sources": [
+          "fucknewsi"
+        ],
+        "created_at": "2026-10-18T22:34:09.867776+00:00"
+      },
+      {
+        "fingerprint": "2718bf34b67a7dd4a603bf34955ea4cd33aef1918259c183ec16abd242ed9a1c",
+        "media_fingerprint": "1b6fca10daf88663c25c9d3664565f02555a3ff3c4a3b15ade9194dc0b249e1e",
+        "text": "ورزش کردن ایشون عضله‌ی\nشومبولمو\nبیشتر قوی میکن:)))\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "ورزش کردن ایشون عضله‌ی\nشومبولمو\nبیشتر قوی میکن:)))\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/4134",
+        "post_id": 4134,
+        "message_id": 11096,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-18T22:34:16.846508+00:00"
+      },
+      {
+        "fingerprint": "9770978028f2643daaea93f1b037e7e9cbb8ee9cb77c7d7b80eb9191f7303ce2",
+        "media_fingerprint": "ef07de18468072b548ea2026957fe70a32b466de9fd89ec779e1b347208d3163",
+        "text": "🔴\nپشماتون بریزه؛ دختری که دریک براش هاپ هاپ کرده بود، برای اثبات ایرانی بودن، اولین بار فارسی حرف زد. ادعا می‌کنه پدرش ایرانیه و همیشه از بهشت تعریف می‌کنه؛ آرزوش اینه بره بهشت\n😐\n😂\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "🔴\nپشماتون بریزه؛ دختری که دریک براش هاپ هاپ کرده بود، برای اثبات ایرانی بودن، اولین بار فارسی حرف زد. ادعا می‌کنه پدرش ایرانیه و همیشه از بهشت تعریف می‌کنه؛ آرزوش اینه بره بهشت\n😐\n😂\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48515",
+        "post_id": 48515,
+        "message_id": 11097,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-18T22:34:23.135685+00:00"
+      },
+      {
+        "fingerprint": "3d8fdff8bd81e9059944071d3f06bc123d3429e4503aabbb80fe7f5ac6e91e1b",
+        "media_fingerprint": "21766273600cfd2a02e889179519f48b1f9ad7b1075683ad5337b58fee559882",
+        "text": "خاله ها چه گرون کردن نرخشون رو آخه نفری سی میلیون؟\nففط اون پسره که گفت شرایط قسطی اسنپ پی دارین\n😂\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
+        "original_username": "boob_sfangi",
+        "original_text": "خاله ها چه گرون کردن نرخشون رو آخه نفری سی میلیون؟\nففط اون پسره که گفت شرایط قسطی اسنپ پی دارین\n😂\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
+        "original_link": "https://t.me/boob_sfangi/2655",
+        "post_id": 2655,
+        "message_id": 11098,
+        "message_kind": "caption",
+        "sources": [
+          "boob_sfangi"
+        ],
+        "created_at": "2026-10-18T22:34:33.961256+00:00"
+      },
+      {
+        "fingerprint": "9220ade835ecb7f34c8b35824bd0fa7e13f0b3f2050837c0498603b53661ca34",
+        "media_fingerprint": "eac9604779ffe71229ddecfd1b6a6ec5fa02622be07133d998dce2e2a6f7a779",
+        "text": "نگرانی دو تیم از وضعیت مصدومان؛\n🚑\nبارسلونا و PSG در آستانه دیدار حساس با دغدغه‌های پزشکی\n🇪🇸\n🆚\n🇫🇷\nبارسلونا و پاری‌سن‌ژرمن سه‌شنبه در هفته سوم لیگ قهرمانان به مصاف هم می‌روند. لوئیز انریکه از مصدومیت نونو مندس و آکلیوش خبر داده، اما مدت دوری آن‌ها مشخص نیست.…",
+        "original_username": "varzesh3",
+        "original_text": "نگرانی دو تیم از وضعیت مصدومان؛\n🚑\nبارسلونا و PSG در آستانه دیدار حساس با دغدغه‌های پزشکی\n🇪🇸\n🆚\n🇫🇷\nبارسلونا و پاری‌سن‌ژرمن سه‌شنبه در هفته سوم لیگ قهرمانان به مصاف هم می‌روند. لوئیز انریکه از مصدومیت نونو مندس و آکلیوش خبر داده، اما مدت دوری آن‌ها مشخص نیست.…",
+        "original_link": "https://t.me/varzesh3/304430",
+        "post_id": 304430,
+        "message_id": 11099,
+        "message_kind": "caption",
+        "sources": [
+          "varzesh3"
+        ],
+        "created_at": "2026-10-18T22:34:38.711205+00:00"
+      },
+      {
+        "fingerprint": "3dc968316333d17e4af3f4ffaf2e2e79b46fb18acef7da04c40eaf9515580470",
+        "media_fingerprint": "af487669011d39eca20c4c87741a05cd223bd6b2053b70cfa274845208b0677c",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26602",
+        "post_id": 26602,
+        "message_id": 11100,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-18T22:34:42.169646+00:00"
+      },
+      {
+        "fingerprint": "bbbb4e6c7930b35f2d5f7dfda41ada6da25b87ba174e19abc2f032eaeb4014dd",
+        "media_fingerprint": "21aea47d6aca7f373f3d696cfefc25b13696c0537c3c04a1554bd96a012fdce6",
+        "text": "رقص عروس پر حاشیه در خونه عروس  ویدیو خودش گویای همچیه :)))))\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "رقص عروس پر حاشیه در خونه عروس  ویدیو خودش گویای همچیه :)))))\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48516",
+        "post_id": 48516,
+        "message_id": 11101,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-18T22:34:48.208787+00:00"
+      },
+      {
+        "fingerprint": "baff1ad1fac53fdd2e8690496d3b64c7c9e66b43e9ad0581edb98f745b919d31",
+        "media_fingerprint": "70bb6edc6534bf521f42c96b8ba21e161372104ff8b89302e87a201c41935333",
+        "text": "چه کیر تو کیری شد\n😂\n😂\n@FuckNewsi",
+        "original_username": "fucknewsi",
+        "original_text": "چه کیر تو کیری شد\n😂\n😂\n@FuckNewsi",
+        "original_link": "https://t.me/FuckNewsi/13664",
+        "post_id": 13664,
+        "message_id": 11102,
+        "message_kind": "caption",
+        "sources": [
+          "fucknewsi"
+        ],
+        "created_at": "2026-10-18T22:34:52.876137+00:00"
       }
     ]
   }
