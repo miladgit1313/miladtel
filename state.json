@@ -1,11 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 143985,
+      "last_id": 143988,
       "processed_ids": [
-        142842,
-        142843,
-        142844,
         142845,
         142846,
         142847,
@@ -1002,9 +999,12 @@
         143981,
         143982,
         143983,
-        143985
+        143985,
+        143986,
+        143987,
+        143988
       ],
-      "sent_count": 1108
+      "sent_count": 1111
     },
     "total_fut": {
       "last_id": 238256,
@@ -2013,10 +2013,8 @@
       "sent_count": 185
     },
     "footballvision2": {
-      "last_id": 171938,
+      "last_id": 171940,
       "processed_ids": [
-        170610,
-        170611,
         170613,
         170614,
         170615,
@@ -3014,9 +3012,11 @@
         171935,
         171936,
         171937,
-        171938
+        171938,
+        171939,
+        171940
       ],
-      "sent_count": 178
+      "sent_count": 179
     },
     "tg_ir": {
       "last_id": 2312,
@@ -5708,7 +5708,7 @@
       "sent_count": 164
     },
     "akhbar_cafenet": {
-      "last_id": 23471,
+      "last_id": 23472,
       "processed_ids": [
         22432,
         22433,
@@ -6691,9 +6691,10 @@
         23468,
         23469,
         23470,
-        23471
+        23471,
+        23472
       ],
-      "sent_count": 508
+      "sent_count": 509
     },
     "comentiat": {
       "last_id": 26605,
@@ -7667,13 +7668,8 @@
       "sent_count": 206
     },
     "gizmiztel": {
-      "last_id": 163516,
+      "last_id": 163522,
       "processed_ids": [
-        162376,
-        162377,
-        162381,
-        162382,
-        162383,
         162384,
         162385,
         162386,
@@ -8668,9 +8664,14 @@
         163513,
         163514,
         163515,
-        163516
+        163516,
+        163518,
+        163519,
+        163520,
+        163521,
+        163522
       ],
-      "sent_count": 971
+      "sent_count": 974
     },
     "dr_salamatx": {
       "last_id": 55430,
@@ -8838,7 +8839,7 @@
       "sent_count": 98
     },
     "jaleb": {
-      "last_id": 53028,
+      "last_id": 53030,
       "processed_ids": [
         52261,
         52262,
@@ -9513,14 +9514,15 @@
         53025,
         53026,
         53027,
-        53028
+        53028,
+        53029,
+        53030
       ],
-      "sent_count": 341
+      "sent_count": 342
     },
     "ajayebe_jahann": {
-      "last_id": 159988,
+      "last_id": 159989,
       "processed_ids": [
-        158958,
         158959,
         158960,
         158961,
@@ -10519,9 +10521,10 @@
         159985,
         159986,
         159987,
-        159988
+        159988,
+        159989
       ],
-      "sent_count": 380
+      "sent_count": 381
     },
     "etelaate_omoomi": {
       "last_id": 43140,
@@ -11737,10 +11740,8 @@
       "sent_count": 213
     },
     "varzesh3": {
-      "last_id": 304431,
+      "last_id": 304433,
       "processed_ids": [
-        303275,
-        303276,
         303277,
         303278,
         303279,
@@ -12738,7 +12739,9 @@
         304428,
         304429,
         304430,
-        304431
+        304431,
+        304432,
+        304433
       ],
       "sent_count": 133
     },
@@ -13749,9 +13752,8 @@
       "sent_count": 81
     },
     "adak_ir_official": {
-      "last_id": 235650,
+      "last_id": 235651,
       "processed_ids": [
-        234609,
         234610,
         234611,
         234612,
@@ -14750,14 +14752,14 @@
         235647,
         235648,
         235649,
-        235650
+        235650,
+        235651
       ],
       "sent_count": 268
     },
     "futball180tv": {
-      "last_id": 109117,
+      "last_id": 109118,
       "processed_ids": [
-        107965,
         107966,
         107967,
         107968,
@@ -15756,14 +15758,14 @@
         109114,
         109115,
         109116,
-        109117
+        109117,
+        109118
       ],
       "sent_count": 139
     },
     "hattric_official": {
-      "last_id": 85188,
+      "last_id": 85189,
       "processed_ids": [
-        84119,
         84120,
         84121,
         84122,
@@ -16762,9 +16764,10 @@
         85185,
         85186,
         85187,
-        85188
+        85188,
+        85189
       ],
-      "sent_count": 209
+      "sent_count": 210
     },
     "mazdak_hattrick": {
       "last_id": 182648,
@@ -20818,7 +20821,7 @@
       "sent_count": 97
     },
     "yejoorayi": {
-      "last_id": 597,
+      "last_id": 598,
       "processed_ids": [
         426,
         427,
@@ -20978,9 +20981,10 @@
         592,
         593,
         596,
-        597
+        597,
+        598
       ],
-      "sent_count": 146
+      "sent_count": 147
     },
     "onlinecofe_ir": {
       "last_id": 2887,
@@ -22066,7 +22070,7 @@
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6671,
+      "last_id": 6675,
       "processed_ids": [
         6113,
         6114,
@@ -22562,12 +22566,15 @@
         6668,
         6669,
         6670,
-        6671
+        6671,
+        6672,
+        6674,
+        6675
       ],
       "sent_count": 12
     },
     "ghandeharipoet": {
-      "last_id": 42786,
+      "last_id": 42789,
       "processed_ids": [
         42693,
         42694,
@@ -22657,9 +22664,12 @@
         42783,
         42784,
         42785,
-        42786
+        42786,
+        42787,
+        42788,
+        42789
       ],
-      "sent_count": 69
+      "sent_count": 71
     },
     "dashagh": {
       "last_id": 48517,
@@ -23110,7 +23120,7 @@
       "sent_count": 0
     },
     "bimaariha": {
-      "last_id": 19245,
+      "last_id": 19246,
       "processed_ids": [
         19155,
         19156,
@@ -23153,7 +23163,8 @@
         19242,
         19243,
         19244,
-        19245
+        19245,
+        19246
       ],
       "sent_count": 20
     },
@@ -23165,217 +23176,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "96b83f445a6b61ba8cab8278514f10a71edd0d5b9a838b1316427492141d3a5a",
-        "media_fingerprint": "",
-        "text": "🎖️\n⚽️\nکوبارسی به‌عنوان بهترین بازیکن فصل گذشته بارسلونا انتخاب شد\n...\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_username": "totalfut_plus",
-        "original_text": "🎖️\n⚽️\nکوبارسی به‌عنوان بهترین بازیکن فصل گذشته بارسلونا انتخاب شد\n...\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_link": "https://t.me/totalfut_plus/26827",
-        "post_id": 26827,
-        "message_id": 10054,
-        "message_kind": "text",
-        "sources": [
-          "totalfut_plus"
-        ],
-        "created_at": "2026-10-16T11:14:47.742460+00:00"
-      },
-      {
-        "fingerprint": "0fa0da7afc74829341d3e3bfd09a41dbb68e5cb6b456eb80a80660ee9933b04b",
-        "media_fingerprint": "",
-        "text": "‏ماشین پرنده می‌خواستین؟ نسخه‌ی جدید تسلا Roadster خدمت شما…\n‏همراه با شتاب ۰ تا ۱۰۰ زیر یک ثانیه.\n‏آنقدر عجیب است که خیلی‌ها فکر می‌کنند ویدیوی ساخته شده با هوش مصنوعی است!\n‏شب خابیدیم صبح پاشدیم باز امریکا از دنیا زد جلو\n🫤\n@comentiat",
-        "original_username": "comentiat",
-        "original_text": "‏ماشین پرنده می‌خواستین؟ نسخه‌ی جدید تسلا Roadster خدمت شما…\n‏همراه با شتاب ۰ تا ۱۰۰ زیر یک ثانیه.\n‏آنقدر عجیب است که خیلی‌ها فکر می‌کنند ویدیوی ساخته شده با هوش مصنوعی است!\n‏شب خابیدیم صبح پاشدیم باز امریکا از دنیا زد جلو\n🫤\n@comentiat",
-        "original_link": "https://t.me/Comentiat/26539",
-        "post_id": 26539,
-        "message_id": 10055,
-        "message_kind": "text",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-16T11:14:51.543767+00:00"
-      },
-      {
-        "fingerprint": "a86c4d47cfcd61ad856e66e078788112639171a1007d1f3389aa6fa7588fbce2",
-        "media_fingerprint": "b9a24fb1a262628043404b83b24ab269b5d3447cfe89b7dedb26930d7c8b6bd1",
-        "text": "◀️\nاستایل مهدی تارتار بعد صدرنشینی\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "◀️\nاستایل مهدی تارتار بعد صدرنشینی\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/235462",
-        "post_id": 235462,
-        "message_id": 10056,
-        "message_kind": "caption",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-16T11:14:56.974935+00:00"
-      },
-      {
-        "fingerprint": "a3baf604ec04e0953ba2bad49da6b6b7636473540089d424e1659884bd597608",
-        "media_fingerprint": "c3d281365133743ef5ca0189250bc04553d950953aa46be6a8edd394c31803ea",
-        "text": "💙\nادوبی رو بی‌خیال شو! پروژه ArtCraft برای هر برنامه ادوبی یک جایگزین ساخته!\nیک پروژه به اسم\nArtCraft\nتوسط Brandon Thomas ساخته شده که هدفش اینه ابزارهای مشابه محصولات Adobe رو با کمک هوش مصنوعی و به‌صورت رایگان و اوپن‌سورس در اختیارت بذاره.\nجالب‌تر اینکه این ابزارها با\nClaude Opus 5.5\nو زبان برنامه‌نویسی Rust توسعه داده شدن.\n📰\nبا این جایگزین‌ها آشنا شو:\n1⃣\nعنوان\nPhotoCraft\n| جایگزین Photoshop:\nکار با لایه‌ها، ماسک‌ها، متن، فیلترها و فایل‌های PSD\n🔢\nعنوان\nVectorCraft\n| جایگزین Illustrator :\nطراحی وکتور و ساخت تصاویر گرافیکی روی مک، ویندوز و لینوکس\n🔢\nعنوان\nLightCraft\n| جایگزین Lightroom :\nمدیریت و مرتب‌سازی عکس‌ها و ویرایش فایل‌های RAW\n🔢\nعنوان\nDesignCraft\n| جایگزین InDesign :\nصفحه‌آرایی مجله و کتاب، ساخت ستون‌ها و تنظیم استایل متن‌ها\n🔢\nعنوان\nPrintCraft\n| جایگزین Acrobat :\nباز کردن، ویرایش، ترکیب و مدیریت فایل‌های PDF\n🔢\nعنوان\nFilmCraft\n| جایگزین Premiere Pro :\nتدوین ویدیو، اصلاح رنگ و صدا و کار با تایم‌لاین\n🔢\nعنوان\nEffectCraft\n| جایگزین After Effects :\nساخت موشن‌گرافیک و جلوه‌های ویژه\n📌\nلینک دانلود:\n🔗\nhttps://getartcraft.com/apps\n@RoidBest",
-        "original_username": "roidbest",
-        "original_text": "💙\nادوبی رو بی‌خیال شو! پروژه ArtCraft برای هر برنامه ادوبی یک جایگزین ساخته!\nیک پروژه به اسم\nArtCraft\nتوسط Brandon Thomas ساخته شده که هدفش اینه ابزارهای مشابه محصولات Adobe رو با کمک هوش مصنوعی و به‌صورت رایگان و اوپن‌سورس در اختیارت بذاره.\nجالب‌تر اینکه این ابزارها با\nClaude Opus 5.5\nو زبان برنامه‌نویسی Rust توسعه داده شدن.\n📰\nبا این جایگزین‌ها آشنا شو:\n1⃣\nعنوان\nPhotoCraft\n| جایگزین Photoshop:\nکار با لایه‌ها، ماسک‌ها، متن، فیلترها و فایل‌های PSD\n🔢\nعنوان\nVectorCraft\n| جایگزین Illustrator :\nطراحی وکتور و ساخت تصاویر گرافیکی روی مک، ویندوز و لینوکس\n🔢\nعنوان\nLightCraft\n| جایگزین Lightroom :\nمدیریت و مرتب‌سازی عکس‌ها و ویرایش فایل‌های RAW\n🔢\nعنوان\nDesignCraft\n| جایگزین InDesign :\nصفحه‌آرایی مجله و کتاب، ساخت ستون‌ها و تنظیم استایل متن‌ها\n🔢\nعنوان\nPrintCraft\n| جایگزین Acrobat :\nباز کردن، ویرایش، ترکیب و مدیریت فایل‌های PDF\n🔢\nعنوان\nFilmCraft\n| جایگزین Premiere Pro :\nتدوین ویدیو، اصلاح رنگ و صدا و کار با تایم‌لاین\n🔢\nعنوان\nEffectCraft\n| جایگزین After Effects :\nساخت موشن‌گرافیک و جلوه‌های ویژه\n📌\nلینک دانلود:\n🔗\nhttps://getartcraft.com/apps\n@RoidBest",
-        "original_link": "https://t.me/RoidBest/21872",
-        "post_id": 21872,
-        "message_id": 10057,
-        "message_kind": "caption",
-        "sources": [
-          "roidbest"
-        ],
-        "created_at": "2026-10-16T11:15:03.602047+00:00"
-      },
-      {
-        "fingerprint": "7f73d2d2bd2538104fefe958fff038c921f25e3b2557505018e196472580dc9d",
-        "media_fingerprint": "432ff475a9d46b98d911437d12346f94a32a9aa2b510c42651fe467bdcfa70f4",
-        "text": "صبح بخیر از دل طبیعت\n❤️\n@Dashagh",
-        "original_username": "dashagh",
-        "original_text": "صبح بخیر از دل طبیعت\n❤️\n@Dashagh",
-        "original_link": "https://t.me/dashagh/48424",
-        "post_id": 48424,
-        "message_id": 10058,
-        "message_kind": "caption",
-        "sources": [
-          "dashagh",
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-16T11:15:10.739226+00:00"
-      },
-      {
-        "fingerprint": "9022595cfeb17fbe37e30ba2877eb6f784d1b5f92dfc1619dde7658e4b751e57",
-        "media_fingerprint": "b2eab9ec7157e5d26147ccfe6d779ffd693751324a997c688cd180ee634305f8",
-        "text": "چشم به این خوشگلی دیده بودین\n😍\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "چشم به این خوشگلی دیده بودین\n😍\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/159883",
-        "post_id": 159883,
-        "message_id": 10059,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-16T11:15:15.772932+00:00"
-      },
-      {
-        "fingerprint": "98681b3320a59fbf388d17c04fcb113f6830d18367e0a40f330ed0ba6496c827",
-        "media_fingerprint": "69e6a2ea415a49e2d7281c5b773ae9fdbf183cd0fe7328d5657ceb8053dd49e2",
-        "text": "زندگی یعنی\n😍\n😎\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "زندگی یعنی\n😍\n😎\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/307071",
-        "post_id": 307071,
-        "message_id": 10060,
-        "message_kind": "text",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-16T11:15:19.651165+00:00"
-      },
-      {
-        "fingerprint": "904edb2b5a104a27dee85bceb63dd0aa6a7f91d4a3a7b8cf04b0de4dd2d86566",
-        "media_fingerprint": "",
-        "text": "🎖️\n⚽️\nفابریزیو رومانو: مارک برنال با بارسلونا به زودی تا 2031 تمدید میشه؛ بند فسخ جدیدش هم به 500 میلیون یورو میرسه.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_username": "totalfut_plus",
-        "original_text": "🎖️\n⚽️\nفابریزیو رومانو: مارک برنال با بارسلونا به زودی تا 2031 تمدید میشه؛ بند فسخ جدیدش هم به 500 میلیون یورو میرسه.\n🎖️\nپیش‌بینی بازی‌های لیگ برتر با جوایز میلیونی |\n@Total_pishbinibot\n@totalfut_plus",
-        "original_link": "https://t.me/totalfut_plus/26829",
-        "post_id": 26829,
-        "message_id": 10061,
-        "message_kind": "text",
-        "sources": [
-          "totalfut_plus"
-        ],
-        "created_at": "2026-10-16T11:15:22.861176+00:00"
-      },
-      {
-        "fingerprint": "aba59a43547d41ff93fe6c5921415ce65e5260985e5cd7a8c7474ebf67cec5b3",
-        "media_fingerprint": "c236826a7c6cbafe58d781186474efa107f2588e7975bde935b6b26a29128a6a",
-        "text": "مردم از همه جای ایران راه افتادن سمت تنگه هرمز تا از دریا آیفون ۱۸ صید کنن.\nچصی جدید جور شد.\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "مردم از همه جای ایران راه افتادن سمت تنگه هرمز تا از دریا آیفون ۱۸ صید کنن.\nچصی جدید جور شد.\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163347",
-        "post_id": 163347,
-        "message_id": 10062,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-16T11:15:38.506738+00:00"
-      },
-      {
-        "fingerprint": "d546ad10b79d8c104d2d2f9c5355c28192b7408abdd99b8ce9dd3a0707f5fb41",
-        "media_fingerprint": "833cf00de81faac210aca5b0637ce868023d2e561e6856cc70441b152c8133b7",
-        "text": "فوری\nاعزام گروهی از غواصان پاساژ علاالدین به اعماق تنگه‌ی هرمز برای به غنیمت گرفتن گوشی‌های آیفون ۱۸\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "فوری\nاعزام گروهی از غواصان پاساژ علاالدین به اعماق تنگه‌ی هرمز برای به غنیمت گرفتن گوشی‌های آیفون ۱۸\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163349",
-        "post_id": 163349,
-        "message_id": 10063,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-16T11:15:43.303576+00:00"
-      },
-      {
-        "fingerprint": "ceecd2610bf783d7ee0d33e08c8cb7b705bbc567ac947249836328df8fb02894",
-        "media_fingerprint": "",
-        "text": "۸ نوع مختلف یخ\nبرای داشتن پوست درخشان‌ت\nر\n۱)\nتکه‌های یخ زردچوبه\n:\n۲ تا ۳ بار در هفته قابل استفاده هست\n۲)\nتکه‌های به با آلوئه ورا\n:\nهر روز قابل استفاده هست\n۳)\nتکه‌های یخ با چای سبز\n:\n۱ تا ۲ بار در هفته\n۴)\nتکه‌های یخ با گلاب :\nهر روز قابل استفاده هست\n۵)\nتکه‌های یخ با خیار :\nهر روز قابل استفاده هست\n۶)\nتکه‌های یخ با آب لیمو\n:\n۲ تا ۳ بار در هفته قابل استفاده هست\n۷)\nتکه‌های یخ با نعنا\n:\nهر روز قابل استفاده هست\n۸)\nتکه‌های یخ با سرکه سیب رقیق شده با آب\n:\n۲ تا ۳ بار در هفته قابل استفاده هست\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "۸ نوع مختلف یخ\nبرای داشتن پوست درخشان‌ت\nر\n۱)\nتکه‌های یخ زردچوبه\n:\n۲ تا ۳ بار در هفته قابل استفاده هست\n۲)\nتکه‌های به با آلوئه ورا\n:\nهر روز قابل استفاده هست\n۳)\nتکه‌های یخ با چای سبز\n:\n۱ تا ۲ بار در هفته\n۴)\nتکه‌های یخ با گلاب :\nهر روز قابل استفاده هست\n۵)\nتکه‌های یخ با خیار :\nهر روز قابل استفاده هست\n۶)\nتکه‌های یخ با آب لیمو\n:\n۲ تا ۳ بار در هفته قابل استفاده هست\n۷)\nتکه‌های یخ با نعنا\n:\nهر روز قابل استفاده هست\n۸)\nتکه‌های یخ با سرکه سیب رقیق شده با آب\n:\n۲ تا ۳ بار در هفته قابل استفاده هست\n@irWonders",
-        "original_link": "https://t.me/irwonders/58753",
-        "post_id": 58753,
-        "message_id": 10064,
-        "message_kind": "text",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-16T11:15:47.723458+00:00"
-      },
-      {
-        "fingerprint": "d833b772320d475e752d73c04c16eef34c80125d22705e024963de5d47a8166c",
-        "media_fingerprint": "63c54c23a0408a7110cdf0fd1974263bb8886e995bdcaeb489de3e44744c8615",
-        "text": "تو یکی از دبیرستانای دخترونه تهران یکی از دانش آموزا داشت برای معلم چاپلوسی میکرد و میگفت امتحانامونو تصحیح کن که یکی از هم‌کلاسیاش برای تشکر ی خودکارو تا ته تو باسنش فرو کرد و دختره ی آه جانانه کشید جلوی معلم :\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "تو یکی از دبیرستانای دخترونه تهران یکی از دانش آموزا داشت برای معلم چاپلوسی میکرد و میگفت امتحانامونو تصحیح کن که یکی از هم‌کلاسیاش برای تشکر ی خودکارو تا ته تو باسنش فرو کرد و دختره ی آه جانانه کشید جلوی معلم :\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/3734",
-        "post_id": 3734,
-        "message_id": 10065,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-16T11:15:53.917483+00:00"
-      },
-      {
-        "fingerprint": "2d26b6a68b140bb0c8612545d1ef9f4ab10b9eb4c8b717b0b159c823e5d34d5a",
-        "media_fingerprint": "8662b8daf0f5f6784e5dfc4e58df00a06a7a8a34609883ccd5b399d32f68bc83",
-        "text": "قسمت اول: جانِ شیفته\nاولین قسمت از سریال\n#سرخ_و_سیاه\nهمین‌حالا به‌صورت اختصاصی در\n#فیلیمو\n🧡\nکارگردان: آیدا پناهنده\nنویسندگان: ارسلان امیری و آیدا پناهنده\nتهیه‌کنندگان: محمد یمینی و محسن خباز\nپوستر: استودیو گاهان\nعکس: فتاح ذی‌نوری\nطراح لوگو: سمیرا امیری\n🎬\nr.filimo.com/TSorkhosiah1\n@BajeFilm",
-        "original_username": "bajefilm",
-        "original_text": "قسمت اول: جانِ شیفته\nاولین قسمت از سریال\n#سرخ_و_سیاه\nهمین‌حالا به‌صورت اختصاصی در\n#فیلیمو\n🧡\nکارگردان: آیدا پناهنده\nنویسندگان: ارسلان امیری و آیدا پناهنده\nتهیه‌کنندگان: محمد یمینی و محسن خباز\nپوستر: استودیو گاهان\nعکس: فتاح ذی‌نوری\nطراح لوگو: سمیرا امیری\n🎬\nr.filimo.com/TSorkhosiah1\n@BajeFilm",
-        "original_link": "https://t.me/bajefilm/11657",
-        "post_id": 11657,
-        "message_id": 10066,
-        "message_kind": "caption",
-        "sources": [
-          "bajefilm"
-        ],
-        "created_at": "2026-10-16T11:15:59.321321+00:00"
-      },
-      {
-        "fingerprint": "3f506326631738016daba994df1a061cf16aecd03422f1a82df4b40b55ff9b77",
-        "media_fingerprint": "e8ba5c6c079c104c5e81e112d4a345153b55ebac029427893f9b624bcc3ccbff",
-        "text": "اگه سینگلی این ویدیو رو باز نکن چون نمیدونی به حال خودت گریه کنی یا به برنامه ریزی این پسر بخندی و فشار بخوری\n😂\n😂\n😂\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "اگه سینگلی این ویدیو رو باز نکن چون نمیدونی به حال خودت گریه کنی یا به برنامه ریزی این پسر بخندی و فشار بخوری\n😂\n😂\n😂\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/3740",
-        "post_id": 3740,
-        "message_id": 10067,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-16T11:16:06.905196+00:00"
-      },
       {
         "fingerprint": "a0e2e6924b371e846cc053b94278ac8c6762ca413187dbf68fb8e358206c64a6",
         "media_fingerprint": "",
@@ -36754,7 +36554,8 @@
         "message_id": 10998,
         "message_kind": "caption",
         "sources": [
-          "irwonders"
+          "irwonders",
+          "jaleb"
         ],
         "created_at": "2026-10-18T18:06:35.823327+00:00"
       },
@@ -38277,6 +38078,216 @@
           "comentiat"
         ],
         "created_at": "2026-10-19T00:26:24.757112+00:00"
+      },
+      {
+        "fingerprint": "911e0f21a3518237f8934359709798340a8ba3318def5ad6da44ac2f08a0a9f6",
+        "media_fingerprint": "",
+        "text": "﻿امروز یه جمله ای خوندم که به دلم نشست....نوشته که:\nزمان حق صبورها رو دیر میده اما عمیق میده..!\nصبح بخیر\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
+        "original_username": "ghandeharipoet",
+        "original_text": "﻿امروز یه جمله ای خوندم که به دلم نشست....نوشته که:\nزمان حق صبورها رو دیر میده اما عمیق میده..!\nصبح بخیر\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
+        "original_link": "https://t.me/Ghandeharipoet/42787",
+        "post_id": 42787,
+        "message_id": 11105,
+        "message_kind": "text",
+        "sources": [
+          "ghandeharipoet"
+        ],
+        "created_at": "2026-10-19T05:12:08.148472+00:00"
+      },
+      {
+        "fingerprint": "565d240f5343e625ae579a4d45a770f1f02c6368b5ed4d06da4fbe6f47c28866",
+        "media_fingerprint": "",
+        "text": "",
+        "original_username": "ghandeharipoet",
+        "original_text": "",
+        "original_link": "https://t.me/Ghandeharipoet/42788",
+        "post_id": 42788,
+        "message_id": 11106,
+        "message_kind": "text",
+        "sources": [
+          "ghandeharipoet"
+        ],
+        "created_at": "2026-10-19T05:12:10.678062+00:00"
+      },
+      {
+        "fingerprint": "a7eed1a3c6f6a9a1c917ef46b1ae5c29bea4cb5aa49d79471fd92b8fea982e66",
+        "media_fingerprint": "",
+        "text": "📆\nبرنامه مسابقات امروز 27 مهر + پخش زنده\n🔹\nهفته نهم لیگ برتر / مس شهر بابک - پرسپولیس\n📺\nشبکه 3 / ساعت 15:30\n🔹\nهفته نهم لیگ برتر / فجر سپاسی - پیکان / ساعت 16:45\n🔹\nهفته نهم لیگ برتر / استقلال - گل‌گهر / ساعت 17:45\n📺\nشبکه 3\n🔹\nهفته هفتم لیگ جزیره / تاتنهام  - کاونتری سیتی / ساعت 22:30\n🆔\n@footballvision2",
+        "original_username": "footballvision2",
+        "original_text": "📆\nبرنامه مسابقات امروز 27 مهر + پخش زنده\n🔹\nهفته نهم لیگ برتر / مس شهر بابک - پرسپولیس\n📺\nشبکه 3 / ساعت 15:30\n🔹\nهفته نهم لیگ برتر / فجر سپاسی - پیکان / ساعت 16:45\n🔹\nهفته نهم لیگ برتر / استقلال - گل‌گهر / ساعت 17:45\n📺\nشبکه 3\n🔹\nهفته هفتم لیگ جزیره / تاتنهام  - کاونتری سیتی / ساعت 22:30\n🆔\n@footballvision2",
+        "original_link": "https://t.me/footballvision2/171939",
+        "post_id": 171939,
+        "message_id": 11107,
+        "message_kind": "text",
+        "sources": [
+          "footballvision2"
+        ],
+        "created_at": "2026-10-19T05:12:13.608817+00:00"
+      },
+      {
+        "fingerprint": "5b98863a72f1ca65223bd2ff245617ae648a5219c3daff5db8aed9b4213e7e9b",
+        "media_fingerprint": "548c82f960120b4cb7c0c101f256610024a97b8ffef4392d6115d025b3cbf6d6",
+        "text": "هر روز خود را آغاز کنید با:\nبِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\n🔹\nبا خواندن دعای عهد و چند دقیقه گفتگو روزانه با امام زمان (عج)، پیمان همراهی و خدمتگزاری‌مان را تازه کنیم.\n#صبح_نو\nامروز دوشنبه\n۲۷ مهر ماه\n۸ جمادی الاول ۱۴۴۸\n۱۹ اکتبر ۲۰۲۶\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "هر روز خود را آغاز کنید با:\nبِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\n🔹\nبا خواندن دعای عهد و چند دقیقه گفتگو روزانه با امام زمان (عج)، پیمان همراهی و خدمتگزاری‌مان را تازه کنیم.\n#صبح_نو\nامروز دوشنبه\n۲۷ مهر ماه\n۸ جمادی الاول ۱۴۴۸\n۱۹ اکتبر ۲۰۲۶\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143986",
+        "post_id": 143986,
+        "message_id": 11108,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-19T05:12:18.602665+00:00"
+      },
+      {
+        "fingerprint": "e4c25dfa52c7999d3949374b1b9dfb83edef8e98fca8e4496dc505b31d526d3f",
+        "media_fingerprint": "b5affa018e4d8dcc38bd28afc41c6cabc2e65bf3cbb8b95d37807bfe8d472530",
+        "text": "🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/598",
+        "post_id": 598,
+        "message_id": 11109,
+        "message_kind": "caption",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-19T05:12:22.622217+00:00"
+      },
+      {
+        "fingerprint": "a9cda5731a1dd1e96395eadd3ecf5af2bc9a55de9f211465c6625b5ebcd530c2",
+        "media_fingerprint": "67850e5bf5dcec2e6128d9c63cbb0c054608a67dabc18e4de3689e079f9ee3e5",
+        "text": "باغ زرشک، روستای افین، خراسان\n🧡\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "باغ زرشک، روستای افین، خراسان\n🧡\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/159989",
+        "post_id": 159989,
+        "message_id": 11110,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-19T05:12:29.026170+00:00"
+      },
+      {
+        "fingerprint": "c5f1f09a4b2b5a8a3982a425efb8d9691964776084e48bcd66e6f85f26ee8328",
+        "media_fingerprint": "",
+        "text": "❤️\nنحوه افتتاح حساب آنلاین بانک مسکن\n🔗\nلینک پیشخوان مجازی مسکن\n🔗\nمشاهده در آپارات\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "❤️\nنحوه افتتاح حساب آنلاین بانک مسکن\n🔗\nلینک پیشخوان مجازی مسکن\n🔗\nمشاهده در آپارات\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23472",
+        "post_id": 23472,
+        "message_id": 11111,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-19T05:12:31.837021+00:00"
+      },
+      {
+        "fingerprint": "6a2d0c222b14381c4e78338faacc4e44e077d127fd2e977186125e0d8199d590",
+        "media_fingerprint": "0cf91aa65a0c80a7e7c284cb42cf3c842d1a14a858a5bf6a68c0d3ac655850d5",
+        "text": "زیارت تک تکتون قبول بدبختا\nحالا دیدیش چی شد؟ یه عکسم گرفتی چی شد؟ گذاشتی تو گوشیت چی شد؟ زدی به دیوار اتاقت چی شد؟ چیزی اضافه کردی؟\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "زیارت تک تکتون قبول بدبختا\nحالا دیدیش چی شد؟ یه عکسم گرفتی چی شد؟ گذاشتی تو گوشیت چی شد؟ زدی به دیوار اتاقت چی شد؟ چیزی اضافه کردی؟\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163518",
+        "post_id": 163518,
+        "message_id": 11112,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-19T05:12:39.166015+00:00"
+      },
+      {
+        "fingerprint": "e949d98e64ac108ef51f575134126bb5c2d09924c283dd35b770403f4ccbf41e",
+        "media_fingerprint": "",
+        "text": "شما اگه قیمت لباس زمستونیا رو ببینی جوری کونت میسوزه که تا آخر زمستون گرم میمونی.\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "شما اگه قیمت لباس زمستونیا رو ببینی جوری کونت میسوزه که تا آخر زمستون گرم میمونی.\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163519",
+        "post_id": 163519,
+        "message_id": 11113,
+        "message_kind": "text",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-19T05:12:42.024420+00:00"
+      },
+      {
+        "fingerprint": "a6a22b9fea12ae249fe88a849eb740f471a2c97bbc42dd5c5fa26301b5da6129",
+        "media_fingerprint": "e39967fc3260c41d3627ab3b97805d9bb50fb5afe0cbfd69c4ea4d292df6ec47",
+        "text": "با دیدن این ویدیو، ناخودآگاه لبخند میزنین.\nاگه همچین آدمی رو پیدا کردین، سفت بچسبین بهش و هیچوقت رهاش نکنین...\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "با دیدن این ویدیو، ناخودآگاه لبخند میزنین.\nاگه همچین آدمی رو پیدا کردین، سفت بچسبین بهش و هیچوقت رهاش نکنین...\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163521",
+        "post_id": 163521,
+        "message_id": 11114,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-19T05:12:49.360313+00:00"
+      },
+      {
+        "fingerprint": "39d4990f672db9a7623be860b7336f82af1c396ee49cfb7aad21788ef0498974",
+        "media_fingerprint": "930c59f57cfc5c59559e6cf18a39ee6cb0bfc4440fb25074d31cdf794b75debb",
+        "text": "🔴\nمعترض‌های فرانسوی وسط شلوغی و راه‌بندون خیابون، به محض رسیدن ماشین آتش‌نشانی سریع کنار کشیدن و مسیر رو براش باز کردن.\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "🔴\nمعترض‌های فرانسوی وسط شلوغی و راه‌بندون خیابون، به محض رسیدن ماشین آتش‌نشانی سریع کنار کشیدن و مسیر رو براش باز کردن.\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/53030",
+        "post_id": 53030,
+        "message_id": 11115,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-19T05:12:56.190484+00:00"
+      },
+      {
+        "fingerprint": "d4943ff53ef9b68f1b3ab8847f85df788aba0ee946863c7a6d5ae129668fd00a",
+        "media_fingerprint": "",
+        "text": "♦️\nکشتی آزاد امید ایران در آمریکا قهرمان جهان شد\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nکشتی آزاد امید ایران در آمریکا قهرمان جهان شد\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143987",
+        "post_id": 143987,
+        "message_id": 11116,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-19T05:12:58.729922+00:00"
+      },
+      {
+        "fingerprint": "4db7d3b85d83e6df60cb6eb60cf385736ba7e3545b68be5345123e8aaa3ca4ee",
+        "media_fingerprint": "",
+        "text": "🤩\nکنداکتور آنلاین | 1405/07/27\n🟢\n2026/10/19 |\n❤️\nهفته نهم لیگ برتر\n🟠\nمس شهر بابک\n✅\nپرسپولیس\n😥\nساعت 15:30 | شبکه سه\n📺\n❤️\nهفته نهم لیگ برتر\n⚪️\nفجر سپاسی\n✅\nپیکان\n😥\nساعت 16:45\n❤️\nهفته نهم لیگ برتر\n⚪️\nاستقلال\n✅\nگل‌گهر\n😥\nساعت 17:45| شبکه سه\n📺\n❤️\nهفته هفتم لیگ جزیره\n⚪️\nتاتنهام\n✅\nکاونتری سیتی\n😥\nساعت 22:30\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "🤩\nکنداکتور آنلاین | 1405/07/27\n🟢\n2026/10/19 |\n❤️\nهفته نهم لیگ برتر\n🟠\nمس شهر بابک\n✅\nپرسپولیس\n😥\nساعت 15:30 | شبکه سه\n📺\n❤️\nهفته نهم لیگ برتر\n⚪️\nفجر سپاسی\n✅\nپیکان\n😥\nساعت 16:45\n❤️\nهفته نهم لیگ برتر\n⚪️\nاستقلال\n✅\nگل‌گهر\n😥\nساعت 17:45| شبکه سه\n📺\n❤️\nهفته هفتم لیگ جزیره\n⚪️\nتاتنهام\n✅\nکاونتری سیتی\n😥\nساعت 22:30\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/85189",
+        "post_id": 85189,
+        "message_id": 11117,
+        "message_kind": "text",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-19T05:13:01.728785+00:00"
+      },
+      {
+        "fingerprint": "19bc16d1ee5a361752a5a0d69b8831f7b6e82e6fd5dd039d8b3c55456d11091b",
+        "media_fingerprint": "b89f50b63c0e04fbc381f708260150a26072fa532286f176e17a29df8617c317",
+        "text": "♦️\nآخرین بدرقه رزمنده لشکر فاطمیون در سروستان فارس\n🔹\nپیکر مطهر شهید محمدرضا رحیمی، از رزمندگان لشکر فاطمیون که ۲۱ مهرماه در درگیری با گروه‌های مسلح در منطقه کورین زاهدان به شهادت رسید، عصر یکشنبه ۲۶ مهرماه با حضور خانواده های معزز شاهد و ایثارگر، همرزمان شهید، فرماندهان نظامی و انتظامی، جمعی از مدیران استانی و شهری در شهرستان سروستان استان فارس تشییع و در گلزار شهدای این شهر به خاک سپرده شد.\n📷\nعکس: احمدرضا مداح\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nآخرین بدرقه رزمنده لشکر فاطمیون در سروستان فارس\n🔹\nپیکر مطهر شهید محمدرضا رحیمی، از رزمندگان لشکر فاطمیون که ۲۱ مهرماه در درگیری با گروه‌های مسلح در منطقه کورین زاهدان به شهادت رسید، عصر یکشنبه ۲۶ مهرماه با حضور خانواده های معزز شاهد و ایثارگر، همرزمان شهید، فرماندهان نظامی و انتظامی، جمعی از مدیران استانی و شهری در شهرستان سروستان استان فارس تشییع و در گلزار شهدای این شهر به خاک سپرده شد.\n📷\nعکس: احمدرضا مداح\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/143988",
+        "post_id": 143988,
+        "message_id": 11118,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-19T05:13:24.720454+00:00"
       }
     ]
   }
