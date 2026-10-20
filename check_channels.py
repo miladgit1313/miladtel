@@ -3,6 +3,7 @@ import json
 import time
 import re
 import hashlib
+from difflib import SequenceMatcher
 from datetime import datetime, timezone
 
 import requests
@@ -23,9 +24,10 @@ API = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
 SEND_DELAY = 2
 MAX_PROCESSED_IDS = 1000
-MAX_GLOBAL_HISTORY = 300
+MAX_GLOBAL_HISTORY = 1000
 
-SIMILARITY_THRESHOLD = 0.50
+SIMILARITY_THRESHOLD = 0.88
+MIN_SIMILARITY_LENGTH = 60
 
 HEADERS = {
     "User-Agent": (
@@ -538,33 +540,43 @@ def content_fingerprint(post):
     ).hexdigest()
 
 
-def persian_words(text):
-    """Return normalized unique Persian words; English and numbers are ignored."""
-    text = normalize_text(text)
-    # Remove Arabic diacritics and tatweel; normalize common Arabic/Persian variants.
-    text = re.sub(r"[\u064b-\u065f\u0670\u0640]", "", text)
-    text = text.replace("أ", "ا").replace("إ", "ا").replace("ؤ", "و").replace("ئ", "ی")
-    # Only words written in the Arabic/Persian script participate in similarity.
-    return set(re.findall(r"[\u0621-\u064a\u067e\u0686\u0698\u06a9\u06af\u06cc]+", text))
-
-
 def text_similarity(a, b):
-    """Similarity based only on Persian words, independent of word order.
+    a = similarity_text(a)
+    b = similarity_text(b)
 
-    Score = shared unique Persian words / unique Persian words in the shorter text.
-    English words, digits, URLs, and punctuation do not affect the score.
-    """
-    words_a = persian_words(a)
-    words_b = persian_words(b)
-
-    if not words_a or not words_b:
+    if not a or not b:
         return 0.0
 
-    shorter_count = min(len(words_a), len(words_b))
-    if shorter_count == 0:
+    if a == b:
+        return 1.0
+
+    if (
+        len(a) < MIN_SIMILARITY_LENGTH
+        or len(b) < MIN_SIMILARITY_LENGTH
+    ):
         return 0.0
 
-    return len(words_a & words_b) / shorter_count
+    sequence_score = SequenceMatcher(
+        None,
+        a,
+        b
+    ).ratio()
+
+    words_a = set(a.split())
+    words_b = set(b.split())
+
+    if words_a and words_b:
+        token_score = (
+            len(words_a & words_b)
+            / len(words_a | words_b)
+        )
+    else:
+        token_score = 0.0
+
+    return max(
+        sequence_score,
+        token_score
+    )
 
 
 def find_duplicate(post, history):
@@ -591,9 +603,9 @@ def find_duplicate(post, history):
                 old_text
             )
 
-            if score > SIMILARITY_THRESHOLD:
+            if score >= 0.70:
                 return item, (
-                    f"same media + Persian word overlap {score:.2f}"
+                    f"same media + similar text {score:.2f}"
                 )
 
     for item in reversed(history):
@@ -607,8 +619,8 @@ def find_duplicate(post, history):
             old_text
         )
 
-        if score > SIMILARITY_THRESHOLD:
-            return item, f"similar Persian words {score:.2f}"
+        if score >= SIMILARITY_THRESHOLD:
+            return item, f"similar text {score:.2f}"
 
     return None, None
 
