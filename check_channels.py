@@ -3,7 +3,6 @@ import json
 import time
 import re
 import hashlib
-from difflib import SequenceMatcher
 from datetime import datetime, timezone
 
 import requests
@@ -24,10 +23,9 @@ API = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
 SEND_DELAY = 2
 MAX_PROCESSED_IDS = 1000
-MAX_GLOBAL_HISTORY = 1000
+MAX_GLOBAL_HISTORY = 300
 
-SIMILARITY_THRESHOLD = 0.88
-MIN_SIMILARITY_LENGTH = 60
+SIMILARITY_THRESHOLD = 0.65
 
 HEADERS = {
     "User-Agent": (
@@ -541,42 +539,28 @@ def content_fingerprint(post):
 
 
 def text_similarity(a, b):
+    """
+    مقایسه‌ی متن بر اساس شباهت واژه‌ها، بدون توجه به ترتیب آن‌ها.
+    امتیاز = تعداد واژه‌های مشترک / تعداد واژه‌های یکتای موجود در اجتماع دو متن.
+    بنابراین جابه‌جایی ترتیب کلمات، فاصله‌ها و علائم نگارشی نتیجه را تغییر نمی‌دهد.
+    """
     a = similarity_text(a)
     b = similarity_text(b)
 
     if not a or not b:
         return 0.0
 
-    if a == b:
-        return 1.0
-
-    if (
-        len(a) < MIN_SIMILARITY_LENGTH
-        or len(b) < MIN_SIMILARITY_LENGTH
-    ):
-        return 0.0
-
-    sequence_score = SequenceMatcher(
-        None,
-        a,
-        b
-    ).ratio()
-
     words_a = set(a.split())
     words_b = set(b.split())
 
-    if words_a and words_b:
-        token_score = (
-            len(words_a & words_b)
-            / len(words_a | words_b)
-        )
-    else:
-        token_score = 0.0
+    if not words_a or not words_b:
+        return 0.0
 
-    return max(
-        sequence_score,
-        token_score
-    )
+    union = words_a | words_b
+    if not union:
+        return 0.0
+
+    return len(words_a & words_b) / len(union)
 
 
 def find_duplicate(post, history):
@@ -603,7 +587,7 @@ def find_duplicate(post, history):
                 old_text
             )
 
-            if score >= 0.70:
+            if score > SIMILARITY_THRESHOLD:
                 return item, (
                     f"same media + similar text {score:.2f}"
                 )
@@ -619,7 +603,7 @@ def find_duplicate(post, history):
             old_text
         )
 
-        if score >= SIMILARITY_THRESHOLD:
+        if score > SIMILARITY_THRESHOLD:
             return item, f"similar text {score:.2f}"
 
     return None, None
