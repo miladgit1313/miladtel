@@ -1,12 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 144055,
+      "last_id": 144059,
       "processed_ids": [
-        142889,
-        142890,
-        142891,
-        142892,
         142894,
         142895,
         142896,
@@ -1002,14 +998,17 @@
         144052,
         144053,
         144054,
-        144055
+        144055,
+        144056,
+        144057,
+        144058,
+        144059
       ],
-      "sent_count": 1132
+      "sent_count": 1135
     },
     "total_fut": {
-      "last_id": 238370,
+      "last_id": 238371,
       "processed_ids": [
-        237245,
         237246,
         237247,
         237248,
@@ -2008,16 +2007,14 @@
         238367,
         238368,
         238369,
-        238370
+        238370,
+        238371
       ],
       "sent_count": 186
     },
     "footballvision2": {
-      "last_id": 172213,
+      "last_id": 172216,
       "processed_ids": [
-        170707,
-        170708,
-        170709,
         170710,
         170711,
         170712,
@@ -3014,9 +3011,12 @@
         172210,
         172211,
         172212,
-        172213
+        172213,
+        172214,
+        172215,
+        172216
       ],
-      "sent_count": 183
+      "sent_count": 184
     },
     "tg_ir": {
       "last_id": 2312,
@@ -5754,9 +5754,8 @@
       "sent_count": 168
     },
     "akhbar_cafenet": {
-      "last_id": 23505,
+      "last_id": 23506,
       "processed_ids": [
-        22440,
         22441,
         22442,
         22443,
@@ -6755,7 +6754,8 @@
         23501,
         23502,
         23504,
-        23505
+        23505,
+        23506
       ],
       "sent_count": 514
     },
@@ -7399,7 +7399,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38799,
+      "last_id": 38800,
       "processed_ids": [
         38432,
         38433,
@@ -7761,23 +7761,14 @@
         38795,
         38796,
         38798,
-        38799
+        38799,
+        38800
       ],
-      "sent_count": 211
+      "sent_count": 212
     },
     "gizmiztel": {
-      "last_id": 163561,
+      "last_id": 163571,
       "processed_ids": [
-        162418,
-        162419,
-        162420,
-        162421,
-        162423,
-        162424,
-        162425,
-        162426,
-        162427,
-        162428,
         162429,
         162430,
         162431,
@@ -8767,12 +8758,22 @@
         163554,
         163555,
         163556,
-        163561
+        163561,
+        163562,
+        163563,
+        163564,
+        163565,
+        163566,
+        163567,
+        163568,
+        163569,
+        163570,
+        163571
       ],
-      "sent_count": 990
+      "sent_count": 997
     },
     "dr_salamatx": {
-      "last_id": 55435,
+      "last_id": 55437,
       "processed_ids": [
         55270,
         55271,
@@ -8936,12 +8937,13 @@
         55431,
         55432,
         55434,
-        55435
+        55435,
+        55437
       ],
-      "sent_count": 100
+      "sent_count": 101
     },
     "jaleb": {
-      "last_id": 53054,
+      "last_id": 53057,
       "processed_ids": [
         52261,
         52262,
@@ -9639,14 +9641,15 @@
         53051,
         53052,
         53053,
-        53054
+        53054,
+        53055,
+        53057
       ],
-      "sent_count": 352
+      "sent_count": 353
     },
     "ajayebe_jahann": {
-      "last_id": 160023,
+      "last_id": 160024,
       "processed_ids": [
-        158991,
         158992,
         158993,
         158994,
@@ -10645,9 +10648,10 @@
         160020,
         160021,
         160022,
-        160023
+        160023,
+        160024
       ],
-      "sent_count": 390
+      "sent_count": 391
     },
     "etelaate_omoomi": {
       "last_id": 43140,
@@ -10857,9 +10861,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 110752,
+      "last_id": 110753,
       "processed_ids": [
-        109453,
         109454,
         109455,
         109456,
@@ -11858,20 +11861,14 @@
         110749,
         110750,
         110751,
-        110752
+        110752,
+        110753
       ],
       "sent_count": 223
     },
     "varzesh3": {
-      "last_id": 304539,
+      "last_id": 304546,
       "processed_ids": [
-        303337,
-        303338,
-        303339,
-        303340,
-        303341,
-        303342,
-        303343,
         303344,
         303345,
         303346,
@@ -12864,7 +12861,14 @@
         304536,
         304537,
         304538,
-        304539
+        304539,
+        304540,
+        304541,
+        304542,
+        304543,
+        304544,
+        304545,
+        304546
       ],
       "sent_count": 137
     },
@@ -13875,9 +13879,8 @@
       "sent_count": 81
     },
     "adak_ir_official": {
-      "last_id": 235741,
+      "last_id": 235742,
       "processed_ids": [
-        234670,
         234679,
         234680,
         234681,
@@ -14876,16 +14879,14 @@
         235738,
         235739,
         235740,
-        235741
+        235741,
+        235742
       ],
       "sent_count": 274
     },
     "futball180tv": {
-      "last_id": 109212,
+      "last_id": 109215,
       "processed_ids": [
-        108030,
-        108031,
-        108032,
         108033,
         108034,
         108035,
@@ -15882,15 +15883,16 @@
         109209,
         109210,
         109211,
-        109212
+        109212,
+        109213,
+        109214,
+        109215
       ],
-      "sent_count": 143
+      "sent_count": 144
     },
     "hattric_official": {
-      "last_id": 85294,
+      "last_id": 85297,
       "processed_ids": [
-        84176,
-        84177,
         84179,
         84180,
         84181,
@@ -16888,9 +16890,11 @@
         85289,
         85290,
         85292,
-        85294
+        85294,
+        85296,
+        85297
       ],
-      "sent_count": 215
+      "sent_count": 216
     },
     "mazdak_hattrick": {
       "last_id": 182682,
@@ -20134,7 +20138,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 307177,
+      "last_id": 307179,
       "processed_ids": [
         306563,
         306564,
@@ -20731,9 +20735,11 @@
         307174,
         307175,
         307176,
-        307177
+        307177,
+        307178,
+        307179
       ],
-      "sent_count": 258
+      "sent_count": 260
     },
     "ravan6enasii": {
       "last_id": 0,
@@ -21048,7 +21054,7 @@
       "sent_count": 101
     },
     "yejoorayi": {
-      "last_id": 605,
+      "last_id": 606,
       "processed_ids": [
         426,
         427,
@@ -21215,9 +21221,10 @@
         601,
         602,
         603,
-        605
+        605,
+        606
       ],
-      "sent_count": 152
+      "sent_count": 153
     },
     "onlinecofe_ir": {
       "last_id": 2887,
@@ -22034,7 +22041,7 @@
       "sent_count": 305
     },
     "funy_khand": {
-      "last_id": 26022,
+      "last_id": 26024,
       "processed_ids": [
         25704,
         25705,
@@ -22354,7 +22361,9 @@
         26019,
         26020,
         26021,
-        26022
+        26022,
+        26023,
+        26024
       ],
       "sent_count": 0
     },
@@ -23557,7 +23566,7 @@
       "sent_count": 0
     },
     "bimaariha": {
-      "last_id": 19285,
+      "last_id": 19289,
       "processed_ids": [
         19155,
         19156,
@@ -23624,9 +23633,11 @@
         19282,
         19283,
         19284,
-        19285
+        19285,
+        19288,
+        19289
       ],
-      "sent_count": 29
+      "sent_count": 30
     },
     "https://t.me/+wwztqghfdltimjnk": {
       "last_id": 0,
@@ -26911,7 +26922,8 @@
         "message_id": 11307,
         "message_kind": "caption",
         "sources": [
-          "jaleb"
+          "jaleb",
+          "gizmiztel"
         ],
         "created_at": "2026-10-19T19:55:18.464318+00:00"
       },
@@ -28026,7 +28038,9 @@
         "message_id": 11384,
         "message_kind": "text",
         "sources": [
-          "ft360_ir"
+          "ft360_ir",
+          "footballvision2",
+          "futball180tv"
         ],
         "created_at": "2026-10-19T23:27:14.147514+00:00"
       },
@@ -28194,6 +28208,322 @@
           "peach_tweet"
         ],
         "created_at": "2026-10-20T02:01:09.936041+00:00"
+      },
+      {
+        "fingerprint": "fe3ed6f2ac5f7c41500a329e9d6ac5e7cc22f20b4950054e066587392f696b00",
+        "media_fingerprint": "21cdf414d253096e40e93a4c0064cb78c6d81620c2c47fd8c5e528264b9eca04",
+        "text": "صبحتون به همین قشنگی\n😍\nچه ناز و کرشمه‌ای هم میاد ننه‌جون\n😂\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "صبحتون به همین قشنگی\n😍\nچه ناز و کرشمه‌ای هم میاد ننه‌جون\n😂\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163562",
+        "post_id": 163562,
+        "message_id": 11401,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-20T05:33:32.703521+00:00"
+      },
+      {
+        "fingerprint": "d119a5c2af6dc4b28fbcb85f3c02f482165e809a251b9775bc88c19e919f0a8a",
+        "media_fingerprint": "3dea32e2fd523834e911b855e07385e10fd6088e0721262a262d6faa7c37c187",
+        "text": "عمل زیبایی اینه\nنه نیم کیلو ژل که اینجا تزریق میکنن و هیولا می سازن\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "عمل زیبایی اینه\nنه نیم کیلو ژل که اینجا تزریق میکنن و هیولا می سازن\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163564",
+        "post_id": 163564,
+        "message_id": 11402,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-20T05:33:40.198170+00:00"
+      },
+      {
+        "fingerprint": "e96e8383f1d6f733f378d170ebaa242193d80e0bf75514bf6dbe00c213ece843",
+        "media_fingerprint": "15276f76f2b009930b52ef4a98c967c616b812c4a528c739730c2a275f0bef83",
+        "text": "بازیگرای ایرانی هر چقد تلاش میکنن استایل کنن\nخروجی میشه فشن شو کابُل\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "بازیگرای ایرانی هر چقد تلاش میکنن استایل کنن\nخروجی میشه فشن شو کابُل\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163565",
+        "post_id": 163565,
+        "message_id": 11403,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-20T05:33:45.464133+00:00"
+      },
+      {
+        "fingerprint": "46374dc049120372a417ce0fc3b0e305033868fe63aa973c53e7e08e0912bf96",
+        "media_fingerprint": "e4922de409f725e3462cf2e6e3e1056c1cc0ed66e4d5a6c1ba6364e16a9764ad",
+        "text": "ایرانیا همه جا هستن\nحتی تو اعتراضات  فرانسه\n😂\nگزارش آنلاین هم میدن\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "ایرانیا همه جا هستن\nحتی تو اعتراضات  فرانسه\n😂\nگزارش آنلاین هم میدن\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163567",
+        "post_id": 163567,
+        "message_id": 11404,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-20T05:33:53.308310+00:00"
+      },
+      {
+        "fingerprint": "9d8a76c5f499df787b4a761b18dead640a63ba8fe1a0425fcecd08ac6846d0bc",
+        "media_fingerprint": "83e0a13132e0bc2f3abd26bf3ad4186f728534ce1bacf3b0988272b6d58ee6ac",
+        "text": "❌\nبرخی از رسانه ها ادعا کردند کیم جونگ اون رهبر کره شمالی در چین به صورت مخفیانه مرده\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "❌\nبرخی از رسانه ها ادعا کردند کیم جونگ اون رهبر کره شمالی در چین به صورت مخفیانه مرده\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/53055",
+        "post_id": 53055,
+        "message_id": 11405,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-20T05:33:57.570231+00:00"
+      },
+      {
+        "fingerprint": "0ec4bfc6c54d88c58bc17ab7b205a3a876789dbf03f777516508f0cf839d4e3b",
+        "media_fingerprint": "110397cdaac6639b6cd7b3910f4f2cb8d79b11a33430c6ed6941300287b4de52",
+        "text": "این خانم چقدر درست و قشنگ میگه.\nزبان فارسی گوهر گرانبهاییه که بعد از ۳۰۰۰ سال به ما رسیده.\nبه این راحتی نباید از دست بره\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "این خانم چقدر درست و قشنگ میگه.\nزبان فارسی گوهر گرانبهاییه که بعد از ۳۰۰۰ سال به ما رسیده.\nبه این راحتی نباید از دست بره\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163568",
+        "post_id": 163568,
+        "message_id": 11406,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-20T05:34:04.923039+00:00"
+      },
+      {
+        "fingerprint": "124756ce7f2451f7555e23fad9e490587874448c4187ad232e54237f691d149c",
+        "media_fingerprint": "60674dbcf4299e81897f305d844eba50de7aeb21b5fc2eca12641117249bd0d4",
+        "text": "از لحاظ میزان اسکل بودن، داداشمون تو یه سطح دیگه ست\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "از لحاظ میزان اسکل بودن، داداشمون تو یه سطح دیگه ست\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163570",
+        "post_id": 163570,
+        "message_id": 11407,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-20T05:34:09.977895+00:00"
+      },
+      {
+        "fingerprint": "30d89f765b48a44a89fb8176c4fe8981fa27a966d5d2578ecc187e5fe6a3e908",
+        "media_fingerprint": "3b4882464a72003a6419f435426e1fd6365f2192675361472ff6a8e7115719ec",
+        "text": "پاییز باغ شاهزاده ماهان کرمان‌\n🍂\n‌\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "پاییز باغ شاهزاده ماهان کرمان‌\n🍂\n‌\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/160024",
+        "post_id": 160024,
+        "message_id": 11408,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-20T05:34:18.020796+00:00"
+      },
+      {
+        "fingerprint": "070819d27b31adf0362b9b6b48ae0b4060539509ab86f5914560e78c78366118",
+        "media_fingerprint": "068a0dc9adf8014d08f92999cf32bdbef3321f3b6c67b9daa37f1a829c2fd967",
+        "text": "🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/606",
+        "post_id": 606,
+        "message_id": 11409,
+        "message_kind": "caption",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-20T05:34:22.779500+00:00"
+      },
+      {
+        "fingerprint": "a2b8323eed6b5c80b34ab7341eab1b33893f46fb75d9982c478190726df69f5b",
+        "media_fingerprint": "fdd76ebfbb4e7f2b18237f1aef5be1ba94fbf0ea5a0d685a2943bacd9cffd367",
+        "text": "مجلس ختم در پیونگ‌یانگ خیابان شهید موگول برگزار میگردد.\n+دیشب شایعه کردن فوت کرده:))\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "مجلس ختم در پیونگ‌یانگ خیابان شهید موگول برگزار میگردد.\n+دیشب شایعه کردن فوت کرده:))\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163571",
+        "post_id": 163571,
+        "message_id": 11410,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-20T05:34:30.624955+00:00"
+      },
+      {
+        "fingerprint": "ea019718ab3599d4d7abc929d6e328873acce4d61ace7fcb67cf588ade1b98b4",
+        "media_fingerprint": "3c62a8cf0c64d50a1e8c865fc20261922d740884f2a8c3e96c166d7042e384c5",
+        "text": "‼️\nموندو :\n🔻\nجرارد مارتین در تمرین گروهی بارسلونا شرکت کرد، اما هنگام وارد کردن فشار روی پایش هنوز کمی احساس درد دارد.  هانسی فلیک امروز تصمیم می‌گیرد که آیا او را در ترکیب اصلی مقابل پاری‌سن‌ژرمن قرار بدهد یا نه.\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "‼️\nموندو :\n🔻\nجرارد مارتین در تمرین گروهی بارسلونا شرکت کرد، اما هنگام وارد کردن فشار روی پایش هنوز کمی احساس درد دارد.  هانسی فلیک امروز تصمیم می‌گیرد که آیا او را در ترکیب اصلی مقابل پاری‌سن‌ژرمن قرار بدهد یا نه.\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/109213",
+        "post_id": 109213,
+        "message_id": 11411,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-20T05:34:35.175857+00:00"
+      },
+      {
+        "fingerprint": "e9c22f01cd8276eabd4042616fe2e23c5462b388307d4396330a95cc8c95a128",
+        "media_fingerprint": "",
+        "text": "♦️\nسپاه: پنجاه‌وچهارمین پهپاد MQ-9 ارتش تروریستی آمریکا بامداد امروز در آسمان تنگهٔ هرمز رهگیری و منهدم شد\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nسپاه: پنجاه‌وچهارمین پهپاد MQ-9 ارتش تروریستی آمریکا بامداد امروز در آسمان تنگهٔ هرمز رهگیری و منهدم شد\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144057",
+        "post_id": 144057,
+        "message_id": 11412,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-20T05:34:37.806807+00:00"
+      },
+      {
+        "fingerprint": "c4e8edfd799ae38b872382d165ad17a7f032329bb9ffdb920fd04bd06125b7d6",
+        "media_fingerprint": "",
+        "text": "🤩\nکنداکتور آنلاین | 1405/07/28\n🟢\n2026/10/20 |\n🇪🇺\nلیگ قهرمانان اروپا\n⚪️\nصباح\n✅\nدورتموند\n😥\nساعت 20:15\n🔥\n🇪🇺\nلیگ قهرمانان اروپا\n⚪️\nپاری‌سن‌ژرمن\n✅\nبارسلونا\n😥\nساعت 22:30 | شبکه سه\n📺\n🇪🇺\nلیگ قهرمانان اروپا\n⚪️\nمنچستر سیتی\n✅\nآاک\n😥\nساعت 22:30\n🇪🇺\nلیگ قهرمانان اروپا\n🟠\nآاس رم\n✅\nاسلوان براتیسلاوا\n😥\nساعت 22:30\n🇪🇺\nلیگ قهرمانان اروپا\n⚪️\nلیورپول\n✅\nویارئال\n😥\nساعت 22:30\n🇪🇺\nلیگ قهرمانان اروپا\n⚪️\nاشتوتگارت\n✅\nاتلتیکو مادرید\n😥\nساعت 22:30\n🇪🇺\nلیگ قهرمانان اروپا\n⚪️\nناپولی\n✅\nبوده گلیمت\n😥\nساعت 22:30\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "🤩\nکنداکتور آنلاین | 1405/07/28\n🟢\n2026/10/20 |\n🇪🇺\nلیگ قهرمانان اروپا\n⚪️\nصباح\n✅\nدورتموند\n😥\nساعت 20:15\n🔥\n🇪🇺\nلیگ قهرمانان اروپا\n⚪️\nپاری‌سن‌ژرمن\n✅\nبارسلونا\n😥\nساعت 22:30 | شبکه سه\n📺\n🇪🇺\nلیگ قهرمانان اروپا\n⚪️\nمنچستر سیتی\n✅\nآاک\n😥\nساعت 22:30\n🇪🇺\nلیگ قهرمانان اروپا\n🟠\nآاس رم\n✅\nاسلوان براتیسلاوا\n😥\nساعت 22:30\n🇪🇺\nلیگ قهرمانان اروپا\n⚪️\nلیورپول\n✅\nویارئال\n😥\nساعت 22:30\n🇪🇺\nلیگ قهرمانان اروپا\n⚪️\nاشتوتگارت\n✅\nاتلتیکو مادرید\n😥\nساعت 22:30\n🇪🇺\nلیگ قهرمانان اروپا\n⚪️\nناپولی\n✅\nبوده گلیمت\n😥\nساعت 22:30\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/85297",
+        "post_id": 85297,
+        "message_id": 11413,
+        "message_kind": "text",
+        "sources": [
+          "hattric_official",
+          "footballvision2"
+        ],
+        "created_at": "2026-10-20T05:34:42.017517+00:00"
+      },
+      {
+        "fingerprint": "6ac012d49d1ff909766d6031003306b31ca526062c422c38c48557b829821454",
+        "media_fingerprint": "",
+        "text": "♦️\nپیش بینی رگبار باران در مناطقی از کشور\nسازمان هواشناسی:\n🔹\nامروز برای برخی مناطق آذربایجان غربی، آذربایجان شرقی، اردبیل، گیلان، مازندران، گلستان، ارتفاعات البرز مرکزی در استانهای زنجان، قزوین، البرز، تهران و سمنان رگبار ، رعد و برق و وزش باد شدید پیش بینی می شود.\n🔹\nاین شرایط برای برخی نواحی ایلام و در ساعات بعد از ظهر در برخی مناطق استان اصفهان، فارس، یزد، سیستان و بلوچستان، کرمان و هرمزگان هم دور از انتظار نیست.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nپیش بینی رگبار باران در مناطقی از کشور\nسازمان هواشناسی:\n🔹\nامروز برای برخی مناطق آذربایجان غربی، آذربایجان شرقی، اردبیل، گیلان، مازندران، گلستان، ارتفاعات البرز مرکزی در استانهای زنجان، قزوین، البرز، تهران و سمنان رگبار ، رعد و برق و وزش باد شدید پیش بینی می شود.\n🔹\nاین شرایط برای برخی نواحی ایلام و در ساعات بعد از ظهر در برخی مناطق استان اصفهان، فارس، یزد، سیستان و بلوچستان، کرمان و هرمزگان هم دور از انتظار نیست.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144058",
+        "post_id": 144058,
+        "message_id": 11414,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-20T05:34:44.920052+00:00"
+      },
+      {
+        "fingerprint": "359a5c3765bc2b689c1bb8b5fbe3b5e09a91ad889d85e5986b9ac3d4612d6b76",
+        "media_fingerprint": "671955eac73dae7221930d483a65183514c896b81b349fc02f248fe5013c125f",
+        "text": "اگر درد گلو دارید آب نمک غرغره کنید!\n◽️\nاگر گلودرد دارید، غرغره کردن آب نمک‌ (نصف قاشق چایخوری نمک در یک فنجان آب گرم‌) درمان ساده و طبیعی برای تسکین گلودرد است. آب نمک می‌تواند به از بین بردن باکتری‌ها، باز کردن گلو و تسکین درد و تورم ناشی از گلودرد کمک کند\n◽️\nغرغره کردن آب نمک راهی سریع، راحت و مقرون‌به‌صرفه است که با آب گرم احساس آرامش بیشتری می‌دهد اما با آب سرد هم موثر است. این روش برای بزرگسالان و کودکانی که می‌توانند درست غرغره کنند، بی‌خطر است.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "اگر درد گلو دارید آب نمک غرغره کنید!\n◽️\nاگر گلودرد دارید، غرغره کردن آب نمک‌ (نصف قاشق چایخوری نمک در یک فنجان آب گرم‌) درمان ساده و طبیعی برای تسکین گلودرد است. آب نمک می‌تواند به از بین بردن باکتری‌ها، باز کردن گلو و تسکین درد و تورم ناشی از گلودرد کمک کند\n◽️\nغرغره کردن آب نمک راهی سریع، راحت و مقرون‌به‌صرفه است که با آب گرم احساس آرامش بیشتری می‌دهد اما با آب سرد هم موثر است. این روش برای بزرگسالان و کودکانی که می‌توانند درست غرغره کنند، بی‌خطر است.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38800",
+        "post_id": 38800,
+        "message_id": 11415,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-20T05:34:49.979470+00:00"
+      },
+      {
+        "fingerprint": "7a5d0e31fea394ab136723f0578f25c929a83866ff4fc55fb6d6dacd724c8e7c",
+        "media_fingerprint": "184a58a926080931ccc30e27f731fb2cff02260de6f374fe6feeb7c13214af46",
+        "text": "و تنها خداست که هر روز صبح\nاز نشان دادن خورشیدش به\nآنها که اهل دیدن هم نیستند\nهرگز خسته نمی شود. از رحمت\nهمچون اویــی نا امیــد نشو....\nسلام صبح سه شنبه تون بخیر\n☕️\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "و تنها خداست که هر روز صبح\nاز نشان دادن خورشیدش به\nآنها که اهل دیدن هم نیستند\nهرگز خسته نمی شود. از رحمت\nهمچون اویــی نا امیــد نشو....\nسلام صبح سه شنبه تون بخیر\n☕️\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/307178",
+        "post_id": 307178,
+        "message_id": 11416,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-20T05:34:56.221709+00:00"
+      },
+      {
+        "fingerprint": "89d0139d3fedf2dcb6aeefd15c12b50bd2c4b6be3f09f607c0ffb793160f80a7",
+        "media_fingerprint": "5f83b875fc88b2ad38d3d38b20a535a75f307db067f8e7867e8eea1f4ba2f3ce",
+        "text": "الهی هر فرزندی که به والدينش خدمت میکنه. اولا صد ساله بشه بعد خداوند خیر دنیا و آخرت رو براش بیاره...\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "الهی هر فرزندی که به والدينش خدمت میکنه. اولا صد ساله بشه بعد خداوند خیر دنیا و آخرت رو براش بیاره...\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/307179",
+        "post_id": 307179,
+        "message_id": 11417,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-20T05:35:03.316154+00:00"
+      },
+      {
+        "fingerprint": "6ad9ea23766c879b06b3c6a02127d9bf660b6fcfe933e249dc32f71847c46f75",
+        "media_fingerprint": "",
+        "text": "🚨\n🚨\n🚨\n🚨\n🦠\nمعرفی بیماری  امروز\n👇\nنام بیماری:\nفشار خون بالا   ...\nدر ادامه همراه ما باشید برای توضیحات کامل...\n🚨\n@Bimaariha\n➕",
+        "original_username": "bimaariha",
+        "original_text": "🚨\n🚨\n🚨\n🚨\n🦠\nمعرفی بیماری  امروز\n👇\nنام بیماری:\nفشار خون بالا   ...\nدر ادامه همراه ما باشید برای توضیحات کامل...\n🚨\n@Bimaariha\n➕",
+        "original_link": "https://t.me/Bimaariha/19288",
+        "post_id": 19288,
+        "message_id": 11418,
+        "message_kind": "text",
+        "sources": [
+          "bimaariha"
+        ],
+        "created_at": "2026-10-20T05:35:05.971230+00:00"
+      },
+      {
+        "fingerprint": "192a71584fc0f0822c5b495c4b39f917dc629c088e2f823a0b468b92ec47c45c",
+        "media_fingerprint": "",
+        "text": "تیم منتخب هفته نهم لیگ برتر فوتبال\nدروازه بان: حبیب فرعباسی(استقلال)\nمدافعان: محمدرضا حسینی (چادرملو)، مجید عیدی (پرسپولیس) و ابوالفضل کوهی (نساجی)\nهافبک ها: خشایار زبرجد (صنعت نفت)، عقیل عنافچه (چادرملو)، امیرحسین فارسی (خیبر)، یادگار رستمی (فجرسپاسی) و اسماعیل قلی زاده (استقلال)\nمهاجم: محسن سیفی (صنعت نفت) و بیفوما (پرسپولیس).\n🆔\n@footballvision2",
+        "original_username": "footballvision2",
+        "original_text": "تیم منتخب هفته نهم لیگ برتر فوتبال\nدروازه بان: حبیب فرعباسی(استقلال)\nمدافعان: محمدرضا حسینی (چادرملو)، مجید عیدی (پرسپولیس) و ابوالفضل کوهی (نساجی)\nهافبک ها: خشایار زبرجد (صنعت نفت)، عقیل عنافچه (چادرملو)، امیرحسین فارسی (خیبر)، یادگار رستمی (فجرسپاسی) و اسماعیل قلی زاده (استقلال)\nمهاجم: محسن سیفی (صنعت نفت) و بیفوما (پرسپولیس).\n🆔\n@footballvision2",
+        "original_link": "https://t.me/footballvision2/172216",
+        "post_id": 172216,
+        "message_id": 11419,
+        "message_kind": "text",
+        "sources": [
+          "footballvision2"
+        ],
+        "created_at": "2026-10-20T05:35:08.774851+00:00"
+      },
+      {
+        "fingerprint": "49e3021abd572699057edb1290242f368726d6ca6002e06209b18d272d9f2d1d",
+        "media_fingerprint": "59af5ff1c3701ee470e72a4e2adf70176c9fbfba651dc23b9d43d1a44a8a56ef",
+        "text": "♦️\nنمایش پهپاد و موشک ساقط شدهٔ آمریکایی در تجمع شبانهٔ مردم لار\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nنمایش پهپاد و موشک ساقط شدهٔ آمریکایی در تجمع شبانهٔ مردم لار\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144059",
+        "post_id": 144059,
+        "message_id": 11420,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-20T05:35:15.597988+00:00"
+      },
+      {
+        "fingerprint": "9442c96112af16d2862910ba17cb1d94126c8f8fb2d24e8b4302b0fe887eda4d",
+        "media_fingerprint": "3a79673014fec25ec9545d004ab6ca0956786d560742ccf0c05a047fc8d2b3c6",
+        "text": "🍆\nبادمجان کبابی؛ خوش‌طعم بدون روغن زیاد\n🔴\nبادمجان را به‌جای سرخ کردن، روی گریل یا در فر بپزید و با ماست، سیر و سبزیجات تازه سرو کنید. این روش، طعم طبیعی بادمجان را حفظ می‌کند و نیاز به روغن فراوان را کاهش می‌دهد.\n🌐\nnutritionsource.harvard.edu\n#ناهار_سالم\n#بادمجان\n🖥\n@Dr_SalamatX",
+        "original_username": "dr_salamatx",
+        "original_text": "🍆\nبادمجان کبابی؛ خوش‌طعم بدون روغن زیاد\n🔴\nبادمجان را به‌جای سرخ کردن، روی گریل یا در فر بپزید و با ماست، سیر و سبزیجات تازه سرو کنید. این روش، طعم طبیعی بادمجان را حفظ می‌کند و نیاز به روغن فراوان را کاهش می‌دهد.\n🌐\nnutritionsource.harvard.edu\n#ناهار_سالم\n#بادمجان\n🖥\n@Dr_SalamatX",
+        "original_link": "https://t.me/Dr_SalamatX/55437",
+        "post_id": 55437,
+        "message_id": 11421,
+        "message_kind": "caption",
+        "sources": [
+          "dr_salamatx"
+        ],
+        "created_at": "2026-10-20T05:35:29.200772+00:00"
       }
     ]
   }
