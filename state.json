@@ -1,13 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 144059,
+      "last_id": 144065,
       "processed_ids": [
-        142894,
-        142895,
-        142896,
-        142897,
-        142898,
         142899,
         142900,
         142901,
@@ -1002,17 +997,18 @@
         144056,
         144057,
         144058,
-        144059
+        144059,
+        144060,
+        144061,
+        144062,
+        144064,
+        144065
       ],
-      "sent_count": 1135
+      "sent_count": 1138
     },
     "total_fut": {
-      "last_id": 238371,
+      "last_id": 238375,
       "processed_ids": [
-        237246,
-        237247,
-        237248,
-        237249,
         237250,
         237251,
         237252,
@@ -2008,19 +2004,17 @@
         238368,
         238369,
         238370,
-        238371
+        238371,
+        238372,
+        238373,
+        238374,
+        238375
       ],
       "sent_count": 186
     },
     "footballvision2": {
-      "last_id": 172216,
+      "last_id": 172222,
       "processed_ids": [
-        170710,
-        170711,
-        170712,
-        170713,
-        170714,
-        170715,
         170716,
         170717,
         170718,
@@ -3014,7 +3008,13 @@
         172213,
         172214,
         172215,
-        172216
+        172216,
+        172217,
+        172218,
+        172219,
+        172220,
+        172221,
+        172222
       ],
       "sent_count": 184
     },
@@ -3075,7 +3075,7 @@
       "sent_count": 6
     },
     "fars_today": {
-      "last_id": 132260,
+      "last_id": 132262,
       "processed_ids": [
         131975,
         131976,
@@ -3353,7 +3353,9 @@
         132256,
         132257,
         132258,
-        132260
+        132260,
+        132261,
+        132262
       ],
       "sent_count": 140
     },
@@ -3403,9 +3405,8 @@
       "sent_count": 10
     },
     "drtel": {
-      "last_id": 71537,
+      "last_id": 71538,
       "processed_ids": [
-        66641,
         66643,
         66644,
         66645,
@@ -4404,7 +4405,8 @@
         71534,
         71535,
         71536,
-        71537
+        71537,
+        71538
       ],
       "sent_count": 580
     },
@@ -5464,7 +5466,7 @@
       "sent_count": 111
     },
     "roidbest": {
-      "last_id": 21915,
+      "last_id": 21916,
       "processed_ids": [
         21613,
         21614,
@@ -5749,22 +5751,14 @@
         21911,
         21912,
         21913,
-        21915
+        21915,
+        21916
       ],
       "sent_count": 168
     },
     "akhbar_cafenet": {
-      "last_id": 23506,
+      "last_id": 23515,
       "processed_ids": [
-        22441,
-        22442,
-        22443,
-        22444,
-        22445,
-        22446,
-        22447,
-        22448,
-        22449,
         22450,
         22451,
         22452,
@@ -6755,12 +6749,21 @@
         23502,
         23504,
         23505,
-        23506
+        23506,
+        23507,
+        23508,
+        23509,
+        23510,
+        23511,
+        23512,
+        23513,
+        23514,
+        23515
       ],
-      "sent_count": 514
+      "sent_count": 515
     },
     "comentiat": {
-      "last_id": 26633,
+      "last_id": 26634,
       "processed_ids": [
         25844,
         25845,
@@ -7387,9 +7390,10 @@
         26629,
         26631,
         26632,
-        26633
+        26633,
+        26634
       ],
-      "sent_count": 463
+      "sent_count": 464
     },
     "boost/fndoni": {
       "last_id": 6,
@@ -7399,7 +7403,7 @@
       "sent_count": 0
     },
     "majalepezeshki": {
-      "last_id": 38800,
+      "last_id": 38801,
       "processed_ids": [
         38432,
         38433,
@@ -7762,7 +7766,8 @@
         38796,
         38798,
         38799,
-        38800
+        38800,
+        38801
       ],
       "sent_count": 212
     },
@@ -8943,7 +8948,7 @@
       "sent_count": 101
     },
     "jaleb": {
-      "last_id": 53057,
+      "last_id": 53061,
       "processed_ids": [
         52261,
         52262,
@@ -9643,17 +9648,17 @@
         53053,
         53054,
         53055,
-        53057
+        53057,
+        53058,
+        53059,
+        53060,
+        53061
       ],
       "sent_count": 353
     },
     "ajayebe_jahann": {
-      "last_id": 160024,
+      "last_id": 160029,
       "processed_ids": [
-        158992,
-        158993,
-        158994,
-        158995,
         158996,
         158997,
         158998,
@@ -10649,9 +10654,13 @@
         160021,
         160022,
         160023,
-        160024
+        160024,
+        160025,
+        160026,
+        160027,
+        160029
       ],
-      "sent_count": 391
+      "sent_count": 392
     },
     "etelaate_omoomi": {
       "last_id": 43140,
@@ -10861,13 +10870,8 @@
       "sent_count": 49
     },
     "ft360_ir": {
-      "last_id": 110753,
+      "last_id": 110758,
       "processed_ids": [
-        109454,
-        109455,
-        109456,
-        109457,
-        109458,
         109459,
         109460,
         109461,
@@ -11862,18 +11866,18 @@
         110750,
         110751,
         110752,
-        110753
+        110753,
+        110754,
+        110755,
+        110756,
+        110757,
+        110758
       ],
       "sent_count": 223
     },
     "varzesh3": {
-      "last_id": 304546,
+      "last_id": 304553,
       "processed_ids": [
-        303344,
-        303345,
-        303346,
-        303347,
-        303348,
         303349,
         303350,
         303351,
@@ -12868,18 +12872,18 @@
         304543,
         304544,
         304545,
-        304546
+        304546,
+        304549,
+        304550,
+        304551,
+        304552,
+        304553
       ],
       "sent_count": 137
     },
     "totalfut_plus": {
-      "last_id": 26958,
+      "last_id": 26965,
       "processed_ids": [
-        25917,
-        25918,
-        25919,
-        25920,
-        25922,
         25923,
         25924,
         25925,
@@ -13874,20 +13878,18 @@
         26954,
         26955,
         26956,
-        26958
+        26958,
+        26959,
+        26961,
+        26963,
+        26964,
+        26965
       ],
       "sent_count": 81
     },
     "adak_ir_official": {
-      "last_id": 235742,
+      "last_id": 235749,
       "processed_ids": [
-        234679,
-        234680,
-        234681,
-        234682,
-        234683,
-        234684,
-        234685,
         234686,
         234687,
         234688,
@@ -14880,18 +14882,20 @@
         235739,
         235740,
         235741,
-        235742
+        235742,
+        235743,
+        235744,
+        235745,
+        235746,
+        235747,
+        235748,
+        235749
       ],
-      "sent_count": 274
+      "sent_count": 276
     },
     "futball180tv": {
-      "last_id": 109215,
+      "last_id": 109220,
       "processed_ids": [
-        108033,
-        108034,
-        108035,
-        108036,
-        108037,
         108038,
         108039,
         108040,
@@ -15886,16 +15890,18 @@
         109212,
         109213,
         109214,
-        109215
+        109215,
+        109216,
+        109217,
+        109218,
+        109219,
+        109220
       ],
       "sent_count": 144
     },
     "hattric_official": {
-      "last_id": 85297,
+      "last_id": 85300,
       "processed_ids": [
-        84179,
-        84180,
-        84181,
         84182,
         84183,
         84184,
@@ -16892,12 +16898,15 @@
         85292,
         85294,
         85296,
-        85297
+        85297,
+        85298,
+        85299,
+        85300
       ],
-      "sent_count": 216
+      "sent_count": 218
     },
     "mazdak_hattrick": {
-      "last_id": 182682,
+      "last_id": 182683,
       "processed_ids": [
         181991,
         181992,
@@ -17559,9 +17568,10 @@
         182679,
         182680,
         182681,
-        182682
+        182682,
+        182683
       ],
-      "sent_count": 69
+      "sent_count": 70
     },
     "djharmony": {
       "last_id": 0,
@@ -17629,7 +17639,7 @@
       "sent_count": 5
     },
     "niazcom_ir": {
-      "last_id": 61633,
+      "last_id": 61636,
       "processed_ids": [
         61580,
         61581,
@@ -17682,9 +17692,12 @@
         61630,
         61631,
         61632,
-        61633
+        61633,
+        61634,
+        61635,
+        61636
       ],
-      "sent_count": 20
+      "sent_count": 22
     },
     "tgacademy": {
       "last_id": 22402,
@@ -17730,7 +17743,7 @@
       "sent_count": 15
     },
     "irwonders": {
-      "last_id": 58896,
+      "last_id": 58902,
       "processed_ids": [
         58030,
         58031,
@@ -18512,9 +18525,13 @@
         58892,
         58893,
         58894,
-        58896
+        58896,
+        58897,
+        58898,
+        58901,
+        58902
       ],
-      "sent_count": 497
+      "sent_count": 498
     },
     "razcom": {
       "last_id": 70506,
@@ -18571,7 +18588,7 @@
       "sent_count": 12
     },
     "midanesti": {
-      "last_id": 73321,
+      "last_id": 73322,
       "processed_ids": [
         73193,
         73194,
@@ -18689,7 +18706,8 @@
         73317,
         73318,
         73319,
-        73321
+        73321,
+        73322
       ],
       "sent_count": 58
     },
@@ -20138,7 +20156,7 @@
       "sent_count": 105
     },
     "khandehabadd": {
-      "last_id": 307179,
+      "last_id": 307181,
       "processed_ids": [
         306563,
         306564,
@@ -20737,7 +20755,9 @@
         307176,
         307177,
         307178,
-        307179
+        307179,
+        307180,
+        307181
       ],
       "sent_count": 260
     },
@@ -21054,7 +21074,7 @@
       "sent_count": 101
     },
     "yejoorayi": {
-      "last_id": 606,
+      "last_id": 607,
       "processed_ids": [
         426,
         427,
@@ -21222,9 +21242,10 @@
         602,
         603,
         605,
-        606
+        606,
+        607
       ],
-      "sent_count": 153
+      "sent_count": 154
     },
     "onlinecofe_ir": {
       "last_id": 2887,
@@ -22041,7 +22062,7 @@
       "sent_count": 305
     },
     "funy_khand": {
-      "last_id": 26024,
+      "last_id": 26026,
       "processed_ids": [
         25704,
         25705,
@@ -22363,12 +22384,14 @@
         26021,
         26022,
         26023,
-        26024
+        26024,
+        26025,
+        26026
       ],
       "sent_count": 0
     },
     "persiana_pluss": {
-      "last_id": 6726,
+      "last_id": 6730,
       "processed_ids": [
         6113,
         6114,
@@ -22915,12 +22938,16 @@
         6723,
         6724,
         6725,
-        6726
+        6726,
+        6727,
+        6728,
+        6729,
+        6730
       ],
       "sent_count": 12
     },
     "ghandeharipoet": {
-      "last_id": 42796,
+      "last_id": 42801,
       "processed_ids": [
         42693,
         42694,
@@ -23019,12 +23046,15 @@
         42793,
         42794,
         42795,
-        42796
+        42796,
+        42798,
+        42800,
+        42801
       ],
-      "sent_count": 77
+      "sent_count": 79
     },
     "dashagh": {
-      "last_id": 48549,
+      "last_id": 48551,
       "processed_ids": [
         48313,
         48314,
@@ -23209,12 +23239,13 @@
         48546,
         48547,
         48548,
-        48549
+        48549,
+        48551
       ],
-      "sent_count": 130
+      "sent_count": 131
     },
     "apkclub": {
-      "last_id": 73110,
+      "last_id": 73112,
       "processed_ids": [
         72962,
         72963,
@@ -23360,7 +23391,9 @@
         73107,
         73108,
         73109,
-        73110
+        73110,
+        73111,
+        73112
       ],
       "sent_count": 34
     },
@@ -23452,7 +23485,7 @@
       "sent_count": 44
     },
     "fucknewsi": {
-      "last_id": 13706,
+      "last_id": 13708,
       "processed_ids": [
         13561,
         13562,
@@ -23546,9 +23579,11 @@
         13703,
         13704,
         13705,
-        13706
+        13706,
+        13707,
+        13708
       ],
-      "sent_count": 45
+      "sent_count": 46
     },
     "https://t.me/+hhcepayguws1nti0": {
       "last_id": 0,
@@ -23566,7 +23601,7 @@
       "sent_count": 0
     },
     "bimaariha": {
-      "last_id": 19289,
+      "last_id": 19302,
       "processed_ids": [
         19155,
         19156,
@@ -23635,9 +23670,21 @@
         19284,
         19285,
         19288,
-        19289
+        19289,
+        19290,
+        19291,
+        19292,
+        19293,
+        19294,
+        19295,
+        19296,
+        19298,
+        19299,
+        19300,
+        19301,
+        19302
       ],
-      "sent_count": 30
+      "sent_count": 39
     },
     "https://t.me/+wwztqghfdltimjnk": {
       "last_id": 0,
@@ -26451,7 +26498,9 @@
         "message_id": 11275,
         "message_kind": "caption",
         "sources": [
-          "ajayebe_jahann"
+          "ajayebe_jahann",
+          "jaleb",
+          "irwonders"
         ],
         "created_at": "2026-10-19T16:08:48.905250+00:00"
       },
@@ -26846,7 +26895,8 @@
         "message_kind": "caption",
         "sources": [
           "gizmiztel",
-          "niazcom_ir"
+          "niazcom_ir",
+          "midanesti"
         ],
         "created_at": "2026-10-19T19:54:52.771375+00:00"
       },
@@ -26862,7 +26912,8 @@
         "message_kind": "caption",
         "sources": [
           "gizmiztel",
-          "boob_sfangi"
+          "boob_sfangi",
+          "irwonders"
         ],
         "created_at": "2026-10-19T19:54:58.278606+00:00"
       },
@@ -27105,7 +27156,8 @@
         "message_id": 11319,
         "message_kind": "caption",
         "sources": [
-          "irwonders"
+          "irwonders",
+          "jaleb"
         ],
         "created_at": "2026-10-19T19:56:27.551229+00:00"
       },
@@ -27723,7 +27775,8 @@
         "message_id": 11362,
         "message_kind": "caption",
         "sources": [
-          "adak_ir_official"
+          "adak_ir_official",
+          "persiana_pluss"
         ],
         "created_at": "2026-10-19T23:25:03.726353+00:00"
       },
@@ -27828,7 +27881,8 @@
         "message_id": 11370,
         "message_kind": "caption",
         "sources": [
-          "jaleb"
+          "jaleb",
+          "ajayebe_jahann"
         ],
         "created_at": "2026-10-19T23:25:46.756635+00:00"
       },
@@ -28055,7 +28109,8 @@
         "message_id": 11385,
         "message_kind": "caption",
         "sources": [
-          "ft360_ir"
+          "ft360_ir",
+          "footballvision2"
         ],
         "created_at": "2026-10-19T23:27:20.495387+00:00"
       },
@@ -28416,7 +28471,8 @@
         "message_id": 11414,
         "message_kind": "text",
         "sources": [
-          "akhbarfars"
+          "akhbarfars",
+          "fars_today"
         ],
         "created_at": "2026-10-20T05:34:44.920052+00:00"
       },
@@ -28524,6 +28580,426 @@
           "dr_salamatx"
         ],
         "created_at": "2026-10-20T05:35:29.200772+00:00"
+      },
+      {
+        "fingerprint": "07c4868c8501a9d18612d16c98542ec4bd13032d610c618ebb4352bd5e99e7e7",
+        "media_fingerprint": "",
+        "text": "🔝\n❤️\nتیم منتخب هفته نهم لیگ برتر فوتبال؛\n🔵\n⚽\nحبیب فرعباسی\n🔵\n🇮🇷\nمحمدرضا حسینی\n🔻\n⚽\nمجید عیدی\n🔴\n⚽️\nابوالفضل کوهی\n🔻\n⚽️\nخشایار زبرجد\n🔵\n🇮🇷\nعقیل عنافچه\n🔻\n🇮🇷\nامیرحسین فارسی\n🔻\n⚽\nیادگار رستمی\n🔵\n⚽\nاسماعیل قلی زاده\n🔻\n⚽️\nمحسن سیفی\n🔻\n⚽\nبیفوما\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "🔝\n❤️\nتیم منتخب هفته نهم لیگ برتر فوتبال؛\n🔵\n⚽\nحبیب فرعباسی\n🔵\n🇮🇷\nمحمدرضا حسینی\n🔻\n⚽\nمجید عیدی\n🔴\n⚽️\nابوالفضل کوهی\n🔻\n⚽️\nخشایار زبرجد\n🔵\n🇮🇷\nعقیل عنافچه\n🔻\n🇮🇷\nامیرحسین فارسی\n🔻\n⚽\nیادگار رستمی\n🔵\n⚽\nاسماعیل قلی زاده\n🔻\n⚽️\nمحسن سیفی\n🔻\n⚽\nبیفوما\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/85298",
+        "post_id": 85298,
+        "message_id": 11422,
+        "message_kind": "text",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-20T07:27:21.447145+00:00"
+      },
+      {
+        "fingerprint": "cf61cb12437060024294dca41d07b20399becc97ba48700f28d7938ad9483121",
+        "media_fingerprint": "",
+        "text": "🚨\n🔴\nترکیب پرسپولیس برابر مس اعلام شد\n⏺\nپیام نیازمند، محمد‌مهدی زارع، حسین ابرقویی، مجید عیدی، مهدی تیکدری، پویا پورعلی، محمد خدابنده‌لو، محمد‌مهدی محبی، اوستون اورونوف، بیفوما و علی علیپور\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🚨\n🔴\nترکیب پرسپولیس برابر مس اعلام شد\n⏺\nپیام نیازمند، محمد‌مهدی زارع، حسین ابرقویی، مجید عیدی، مهدی تیکدری، پویا پورعلی، محمد خدابنده‌لو، محمد‌مهدی محبی، اوستون اورونوف، بیفوما و علی علیپور\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/235745",
+        "post_id": 235745,
+        "message_id": 11423,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-20T07:27:24.434510+00:00"
+      },
+      {
+        "fingerprint": "910b0b62c2f64ffada78589fcc9843c9379d20544e81c1d5846be52345fb10b6",
+        "media_fingerprint": "0212d521000953f6802f90245bb3bd02a6b55f7d90bc2326a6277987fcf37cd5",
+        "text": "🔴\nامروز October 20، روز جهانی کونه\n🍑\n+ این روزو به کسی که زیباترین کون دنیا رو داره تبریک بگو\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "🔴\nامروز October 20، روز جهانی کونه\n🍑\n+ این روزو به کسی که زیباترین کون دنیا رو داره تبریک بگو\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48551",
+        "post_id": 48551,
+        "message_id": 11424,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-20T07:27:31.371788+00:00"
+      },
+      {
+        "fingerprint": "1aac0b5bc67d3addf18122bdfe962cfda6e0aa236ec09ca54a3cb96ba83c97ab",
+        "media_fingerprint": "",
+        "text": "♦️\nایران: تهدید به استفاده از «مادر بمب‌ها» علیه زیرساخت‌های غیرنظامی، نقض حقوق بین‌الملل است\n🔹\nسفیر ایران از سازمان ملل خواست این تهدیدها را محکوم و برای جلوگیری از تجاوز مجدد آمریکا و اسرائیل اقدام کند.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nایران: تهدید به استفاده از «مادر بمب‌ها» علیه زیرساخت‌های غیرنظامی، نقض حقوق بین‌الملل است\n🔹\nسفیر ایران از سازمان ملل خواست این تهدیدها را محکوم و برای جلوگیری از تجاوز مجدد آمریکا و اسرائیل اقدام کند.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144060",
+        "post_id": 144060,
+        "message_id": 11426,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-20T07:27:34.429501+00:00"
+      },
+      {
+        "fingerprint": "fb4454f7df8d48d510e6e3ea4faa8b0f74bb36c1c58c1a9b2e2e38d5e81d975b",
+        "media_fingerprint": "6a383981eae71acbc6402496b277d3994578ca9f4caf6dbfd25bc7fd090b393b",
+        "text": "من این ترفند را از یک رستوران یاد گرفتم! آرد را به آب مرغ در حال جوش اضافه کنید! نتیجه فوق‌العاده است!\nآموزش\nآماده کردنش اینجاست\n👇\n👇\n@ashpaz_ideas\n@ashpaz_ideas",
+        "original_username": "bimaariha",
+        "original_text": "من این ترفند را از یک رستوران یاد گرفتم! آرد را به آب مرغ در حال جوش اضافه کنید! نتیجه فوق‌العاده است!\nآموزش\nآماده کردنش اینجاست\n👇\n👇\n@ashpaz_ideas\n@ashpaz_ideas",
+        "original_link": "https://t.me/Bimaariha/19290",
+        "post_id": 19290,
+        "message_id": 11427,
+        "message_kind": "caption",
+        "sources": [
+          "bimaariha"
+        ],
+        "created_at": "2026-10-20T07:27:38.841967+00:00"
+      },
+      {
+        "fingerprint": "2cfa074462f4707f271fc3f68d27ba893cfbc3fe893eab4f98a73d463372ffc3",
+        "media_fingerprint": "",
+        "text": "اگر آرد رو به مرغ در حال جوش اضافه کنی\n....",
+        "original_username": "bimaariha",
+        "original_text": "اگر آرد رو به مرغ در حال جوش اضافه کنی\n....",
+        "original_link": "https://t.me/Bimaariha/19291",
+        "post_id": 19291,
+        "message_id": 11428,
+        "message_kind": "text",
+        "sources": [
+          "bimaariha"
+        ],
+        "created_at": "2026-10-20T07:27:41.276958+00:00"
+      },
+      {
+        "fingerprint": "defefbd9666116f7446ac2c138dc260c5e2e83ac15b936f0150babb6b13ac53e",
+        "media_fingerprint": "",
+        "text": "آرد رو یهو به مرغ اضاف کن چونکه\n....",
+        "original_username": "bimaariha",
+        "original_text": "آرد رو یهو به مرغ اضاف کن چونکه\n....",
+        "original_link": "https://t.me/Bimaariha/19292",
+        "post_id": 19292,
+        "message_id": 11429,
+        "message_kind": "text",
+        "sources": [
+          "bimaariha"
+        ],
+        "created_at": "2026-10-20T07:27:43.727390+00:00"
+      },
+      {
+        "fingerprint": "6e37b78adc9a37a6ef3936778996f185f550cb14bf2b747fcc1c2feb585d6606",
+        "media_fingerprint": "",
+        "text": "خواص باورنکردنی پای مرغ\n🦴",
+        "original_username": "bimaariha",
+        "original_text": "خواص باورنکردنی پای مرغ\n🦴",
+        "original_link": "https://t.me/Bimaariha/19293",
+        "post_id": 19293,
+        "message_id": 11430,
+        "message_kind": "text",
+        "sources": [
+          "bimaariha"
+        ],
+        "created_at": "2026-10-20T07:27:47.362234+00:00"
+      },
+      {
+        "fingerprint": "cddbc655b96bdfec1a9a3f0626a291398416e8eba90735542c95417ee1cced99",
+        "media_fingerprint": "",
+        "text": "عصاره پای مرغ برای درمان بیماری‌های\n....",
+        "original_username": "bimaariha",
+        "original_text": "عصاره پای مرغ برای درمان بیماری‌های\n....",
+        "original_link": "https://t.me/Bimaariha/19294",
+        "post_id": 19294,
+        "message_id": 11431,
+        "message_kind": "text",
+        "sources": [
+          "bimaariha"
+        ],
+        "created_at": "2026-10-20T07:27:49.919163+00:00"
+      },
+      {
+        "fingerprint": "df08b0ec29fb6131aa6a4dafa3b377f424fe9a4deccef4406299a94569b86d93",
+        "media_fingerprint": "",
+        "text": "🔴\nکارهایی که هر گز نباید با گوشت و مرغ کرد..\nتولید سم بسیار خطرناک\n😮‍💨\nمشاهده\n➡️",
+        "original_username": "bimaariha",
+        "original_text": "🔴\nکارهایی که هر گز نباید با گوشت و مرغ کرد..\nتولید سم بسیار خطرناک\n😮‍💨\nمشاهده\n➡️",
+        "original_link": "https://t.me/Bimaariha/19295",
+        "post_id": 19295,
+        "message_id": 11432,
+        "message_kind": "text",
+        "sources": [
+          "bimaariha"
+        ],
+        "created_at": "2026-10-20T07:27:52.462290+00:00"
+      },
+      {
+        "fingerprint": "d58038de69b5d5fcd5e0e31c399102ee8750051b042c6f270f4faf16ec0a9423",
+        "media_fingerprint": "7e949880cea70120dc26276e974189d0bd515c5b717ce0dff3273051f43e6a88",
+        "text": "این پست رو سیو کن چون احتمالاً یه روز به کارت میاد!\n👥\nبرای اون دوستی هم بفرست که نصف مکالمه‌هاش رو با ایموجی جواب می‌ده\n😂\n➡️\n@NiazCom_ir\n|\n💡\nترفند\n®",
+        "original_username": "niazcom_ir",
+        "original_text": "این پست رو سیو کن چون احتمالاً یه روز به کارت میاد!\n👥\nبرای اون دوستی هم بفرست که نصف مکالمه‌هاش رو با ایموجی جواب می‌ده\n😂\n➡️\n@NiazCom_ir\n|\n💡\nترفند\n®",
+        "original_link": "https://t.me/niazcom_ir/61634",
+        "post_id": 61634,
+        "message_id": 11433,
+        "message_kind": "caption",
+        "sources": [
+          "niazcom_ir"
+        ],
+        "created_at": "2026-10-20T07:28:21.625252+00:00"
+      },
+      {
+        "fingerprint": "7835feb9fcab18f2dfdd90921ba50a56d586ee11c3bd584c868b8c9b053c2f8c",
+        "media_fingerprint": "",
+        "text": "هر آن‌که جانِبِ اَهْلِ خُدا نگه دارد\nخُداش در همه حال از بَلا نگه دارد\nحَدیثِ دوست نگویم مَگَر به حَضْرَتِ دوست\nکه آشنا، سُخَنِ آشنا نگه دارد\nدلا، مَعاش چُنان کُن که گر بِلَغْزَد پای\nفرشته‌ات به دو دستِ دُعا نگه دارد\n#حافظ\n۰\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
+        "original_username": "ghandeharipoet",
+        "original_text": "هر آن‌که جانِبِ اَهْلِ خُدا نگه دارد\nخُداش در همه حال از بَلا نگه دارد\nحَدیثِ دوست نگویم مَگَر به حَضْرَتِ دوست\nکه آشنا، سُخَنِ آشنا نگه دارد\nدلا، مَعاش چُنان کُن که گر بِلَغْزَد پای\nفرشته‌ات به دو دستِ دُعا نگه دارد\n#حافظ\n۰\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
+        "original_link": "https://t.me/Ghandeharipoet/42800",
+        "post_id": 42800,
+        "message_id": 11434,
+        "message_kind": "text",
+        "sources": [
+          "ghandeharipoet"
+        ],
+        "created_at": "2026-10-20T07:28:24.123977+00:00"
+      },
+      {
+        "fingerprint": "039807547c9375983e6f15d9256cd4496537634f3de73991faccd95d3f58935c",
+        "media_fingerprint": "874f2202afdf8a3cf51d806afc157f6f39d62617b276da7ff9aa761465a2d5eb",
+        "text": "این ۹ تا ترکیب با عسل برای بدنت معجزه میکنه\nپس حتما امتحانشون کن\n🍯\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "این ۹ تا ترکیب با عسل برای بدنت معجزه میکنه\nپس حتما امتحانشون کن\n🍯\n@irWonders",
+        "original_link": "https://t.me/irwonders/58901",
+        "post_id": 58901,
+        "message_id": 11435,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-20T07:28:28.559073+00:00"
+      },
+      {
+        "fingerprint": "96ceb5f99c3cfac3a2b9055c69e4658633d82db71fca85ad689f4d07626a9c20",
+        "media_fingerprint": "",
+        "text": "اگر به مرغ  ماست اضاف کنی\n..",
+        "original_username": "bimaariha",
+        "original_text": "اگر به مرغ  ماست اضاف کنی\n..",
+        "original_link": "https://t.me/Bimaariha/19296",
+        "post_id": 19296,
+        "message_id": 11436,
+        "message_kind": "text",
+        "sources": [
+          "bimaariha"
+        ],
+        "created_at": "2026-10-20T07:28:31.638832+00:00"
+      },
+      {
+        "fingerprint": "d714225f866fd0ef24214ded8106dbe7d88f39775fa1b198aab7d521ea708324",
+        "media_fingerprint": "ce581d7322dc9795c2c638c527faf3409853aecfd02f267db046baf273cc0c50",
+        "text": "💣\n📷\n⚽\nپست مادرِ محمدحسین صادقی؛ بعد از اولین گل فرزند خود با لباس پرسپولیس\n⚽️\n@Hattric_X",
+        "original_username": "hattric_official",
+        "original_text": "💣\n📷\n⚽\nپست مادرِ محمدحسین صادقی؛ بعد از اولین گل فرزند خود با لباس پرسپولیس\n⚽️\n@Hattric_X",
+        "original_link": "https://t.me/Hattric_Official/85300",
+        "post_id": 85300,
+        "message_id": 11437,
+        "message_kind": "caption",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-20T07:28:36.085854+00:00"
+      },
+      {
+        "fingerprint": "5e7075196069f28df79ce4b50aa2633ebe75716caf81d2eb4a4c278eea0b73e4",
+        "media_fingerprint": "5b1d1fd5eed356170cafe18e730d58cb11212e630bfeb61568f7a875b601e621",
+        "text": "♦️\nکافیه فقط یکبار این دسر مقوی رو امتحان کنی ،عاشق طعم بی نظیرش میشی\n😍\n🌱\n🌸\nبرای فصل پاییز و برای بچه ها فوق العادست\n👌\n🔹\nمواد لازم:\nشیره انگور :یک پیمانه\nآرد تفت داده و الک شده:یک پیمانه\nآب:۳ پیمانه\nکره:۵۰ گرم\n🔹\nطرز تهیه:\n👩🏻‍🍳\nهمه مواد غیر از کره را مخلوط کرده و روی حرارت قرار بدید تا به غلظت فرنی برسه\nسپس کره رو اضافه کرده و از حرارت بردارید\nداخل ظرف بریزید و نوش جان کنید\n✨\n#آشپزی\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nکافیه فقط یکبار این دسر مقوی رو امتحان کنی ،عاشق طعم بی نظیرش میشی\n😍\n🌱\n🌸\nبرای فصل پاییز و برای بچه ها فوق العادست\n👌\n🔹\nمواد لازم:\nشیره انگور :یک پیمانه\nآرد تفت داده و الک شده:یک پیمانه\nآب:۳ پیمانه\nکره:۵۰ گرم\n🔹\nطرز تهیه:\n👩🏻‍🍳\nهمه مواد غیر از کره را مخلوط کرده و روی حرارت قرار بدید تا به غلظت فرنی برسه\nسپس کره رو اضافه کرده و از حرارت بردارید\nداخل ظرف بریزید و نوش جان کنید\n✨\n#آشپزی\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144062",
+        "post_id": 144062,
+        "message_id": 11438,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-20T07:28:42.829843+00:00"
+      },
+      {
+        "fingerprint": "0e8b8895a8313b50dc905d8eb3968e43f2ee77dc3374c577f4741a09c37cb57c",
+        "media_fingerprint": "84661b64f4410b46325f65a38fa12c98a90b90024c39e2ffe056d1d39252d474",
+        "text": "😍\nمامان‌باباها! این تخفیف رو از دست ندید!\nآخر هفته بچه‌ها رو به یه تئاتر شاد و هیجان‌انگیز مهمون کنید!\n🎟\nکد تخفیف:\nchild50\n⏳\nاعتبار: فقط تا پایان مهرماه\n👜\nروی تمامی تئاترهای کودک و نوجوان، ۵۰ هزار تومان تخفیف بگیرید!\nبرای انتخاب نمایش و خرید بلیت با تخفیف، کلیک کنید\n👇\nhttps://ctkt.ir/d86a21\n@cinematicketorg",
+        "original_username": "niazcom_ir",
+        "original_text": "😍\nمامان‌باباها! این تخفیف رو از دست ندید!\nآخر هفته بچه‌ها رو به یه تئاتر شاد و هیجان‌انگیز مهمون کنید!\n🎟\nکد تخفیف:\nchild50\n⏳\nاعتبار: فقط تا پایان مهرماه\n👜\nروی تمامی تئاترهای کودک و نوجوان، ۵۰ هزار تومان تخفیف بگیرید!\nبرای انتخاب نمایش و خرید بلیت با تخفیف، کلیک کنید\n👇\nhttps://ctkt.ir/d86a21\n@cinematicketorg",
+        "original_link": "https://t.me/niazcom_ir/61635",
+        "post_id": 61635,
+        "message_id": 11439,
+        "message_kind": "caption",
+        "sources": [
+          "niazcom_ir"
+        ],
+        "created_at": "2026-10-20T07:28:47.017568+00:00"
+      },
+      {
+        "fingerprint": "a88acda0456b62b5477ac6b4dffb88001ee76ea0fc12a857f721b02c3bb1c80f",
+        "media_fingerprint": "b83a313426feebd3a7939d0fc4247e5b32c814166ffad1e1c2c6a5a1378e9870",
+        "text": "فواید،بستنی از زبون خودش\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "فواید،بستنی از زبون خودش\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/160029",
+        "post_id": 160029,
+        "message_id": 11440,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-20T07:28:53.609689+00:00"
+      },
+      {
+        "fingerprint": "ec9a3e55292b47548dac917f7db9cb65ce66434f0d2129d29d4ad37e2c87d9c5",
+        "media_fingerprint": "0d71ea072c68740baff23d875608acdf894eaf375c613ec58d5ffab84b31d267",
+        "text": "Keys: صبح سه‌شنبه - میمون\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "Keys: صبح سه‌شنبه - میمون\n@comentiat",
+        "original_link": "https://t.me/Comentiat/26634",
+        "post_id": 26634,
+        "message_id": 11441,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-20T07:28:57.763827+00:00"
+      },
+      {
+        "fingerprint": "e353287ef6ccac96b0ed3859e226da1d4f5f9e8f837ebc1b424ddc5dafff7199",
+        "media_fingerprint": "f0887134ed98fa5673caf63c83b96749aa2b98dac896661ffc16ebe9f16a13c0",
+        "text": "✅\nبرنامه دیدارهای هفته دهم و یازدهم لیگ برتر که بازی های تراکتور و استقلال در هفته یازدهم به دلیل بازی‌های این دو تیم در لیگ نخبگان آسیا لغو شد.\n🆔\n@mazdak_hattrick",
+        "original_username": "mazdak_hattrick",
+        "original_text": "✅\nبرنامه دیدارهای هفته دهم و یازدهم لیگ برتر که بازی های تراکتور و استقلال در هفته یازدهم به دلیل بازی‌های این دو تیم در لیگ نخبگان آسیا لغو شد.\n🆔\n@mazdak_hattrick",
+        "original_link": "https://t.me/mazdak_hattrick/182683",
+        "post_id": 182683,
+        "message_id": 11442,
+        "message_kind": "caption",
+        "sources": [
+          "mazdak_hattrick"
+        ],
+        "created_at": "2026-10-20T07:29:01.831690+00:00"
+      },
+      {
+        "fingerprint": "d618a95fb1e464f83c0775a43444450c09de23a2c51d8bf88e1ec7b0ac3e3189",
+        "media_fingerprint": "a747a3372f3a59e101915c1bf8810071769c852137cb3e389b9ee6ded28dc0f1",
+        "text": "وضعیت خراب اکسپلور\n@FuckNewsi",
+        "original_username": "fucknewsi",
+        "original_text": "وضعیت خراب اکسپلور\n@FuckNewsi",
+        "original_link": "https://t.me/FuckNewsi/13708",
+        "post_id": 13708,
+        "message_id": 11443,
+        "message_kind": "caption",
+        "sources": [
+          "fucknewsi"
+        ],
+        "created_at": "2026-10-20T07:29:25.755488+00:00"
+      },
+      {
+        "fingerprint": "807d12505f57fa016259b921d0ea5bed0ab7fc687879c21a5d62a11b65e8531e",
+        "media_fingerprint": "",
+        "text": "هیچ وقت مرغ رو آبپزش نکن چونکه\n....",
+        "original_username": "bimaariha",
+        "original_text": "هیچ وقت مرغ رو آبپزش نکن چونکه\n....",
+        "original_link": "https://t.me/Bimaariha/19298",
+        "post_id": 19298,
+        "message_id": 11444,
+        "message_kind": "text",
+        "sources": [
+          "bimaariha"
+        ],
+        "created_at": "2026-10-20T07:29:28.172339+00:00"
+      },
+      {
+        "fingerprint": "de00b1d5d2df535f549d04875d2ab7fb49c483ae068b442779573c47b1f1fa5d",
+        "media_fingerprint": "",
+        "text": "🚂\nپیش‌فروش بلیت قطارهای آبان از فردا\n🔵\nپیش‌فروش اینترنتی از ساعت ۸:۳۰ و فروش حضوری از ساعت ۱۱ روز چهارشنبه ۲۹ مهر آغاز می‌شود؛ از ساعت ۱۳:۳۰ نیز فروش به‌صورت هم‌زمان ادامه خواهد داشت.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🚂\nپیش‌فروش بلیت قطارهای آبان از فردا\n🔵\nپیش‌فروش اینترنتی از ساعت ۸:۳۰ و فروش حضوری از ساعت ۱۱ روز چهارشنبه ۲۹ مهر آغاز می‌شود؛ از ساعت ۱۳:۳۰ نیز فروش به‌صورت هم‌زمان ادامه خواهد داشت.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23513",
+        "post_id": 23513,
+        "message_id": 11445,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-20T07:29:30.871665+00:00"
+      },
+      {
+        "fingerprint": "46c3b87fdb6b60b474367f97880d5d8a2c392f71ad7dab9c6c72ab6cafe04fe7",
+        "media_fingerprint": "dc79f5c97c9ad6451c3a25ee784f4f97253efa633b41d55e993b774642aa6c93",
+        "text": "یه روز قبل امتحان\nمن مذهبی ترین شخص توی دنیا میشم\n😄\nشما چطووور?\n😉\n😜\nالان امتحان داررررم\n😂\n😂\n😂\n😂\n😂\n😂\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
+        "original_username": "ghandeharipoet",
+        "original_text": "یه روز قبل امتحان\nمن مذهبی ترین شخص توی دنیا میشم\n😄\nشما چطووور?\n😉\n😜\nالان امتحان داررررم\n😂\n😂\n😂\n😂\n😂\n😂\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
+        "original_link": "https://t.me/Ghandeharipoet/42801",
+        "post_id": 42801,
+        "message_id": 11446,
+        "message_kind": "caption",
+        "sources": [
+          "ghandeharipoet"
+        ],
+        "created_at": "2026-10-20T07:29:35.086964+00:00"
+      },
+      {
+        "fingerprint": "9e84b3dfd134a56647ca9bbb9d5128064425eb10fefcd29a18a6ca8e4ed916c0",
+        "media_fingerprint": "412c3adbadecd09ea5eb08a4867e2849bf46c53e7baacd6d7b52791d793d4731",
+        "text": "🟥\n‼️\nشادی بیفوما پس از گلزنی برای پرسپولیس در واکنش به شایعه دوپینگ که توسط رسانه‌ها سانسور شد!\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🟥\n‼️\nشادی بیفوما پس از گلزنی برای پرسپولیس در واکنش به شایعه دوپینگ که توسط رسانه‌ها سانسور شد!\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/235749",
+        "post_id": 235749,
+        "message_id": 11447,
+        "message_kind": "caption",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-20T07:29:40.696158+00:00"
+      },
+      {
+        "fingerprint": "1251bde1cbb366a83b08d5091956cc336c9b620b34b5ebc9f741b0b772e2f269",
+        "media_fingerprint": "",
+        "text": "اگر با زن متاهل تو رابطه هستید تو رو خدا همین الان این داستان رو بخونید\n…",
+        "original_username": "bimaariha",
+        "original_text": "اگر با زن متاهل تو رابطه هستید تو رو خدا همین الان این داستان رو بخونید\n…",
+        "original_link": "https://t.me/Bimaariha/19301",
+        "post_id": 19301,
+        "message_id": 11448,
+        "message_kind": "text",
+        "sources": [
+          "bimaariha"
+        ],
+        "created_at": "2026-10-20T07:29:43.741888+00:00"
+      },
+      {
+        "fingerprint": "a67e11d823a80ba356f2214aa7449020ec523787e0911fa0964f2fcb2dcc14ae",
+        "media_fingerprint": "2c9433527a633d410ef49f39eb8636f3297795b40da4647e0b8c8516a1bc248a",
+        "text": "♦️\nزیباترین ایستگاه مترو ایران\n🔹\nایستگاه وکیل الرعایا شیراز\n🤍\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nزیباترین ایستگاه مترو ایران\n🔹\nایستگاه وکیل الرعایا شیراز\n🤍\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144065",
+        "post_id": 144065,
+        "message_id": 11449,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-20T07:29:50.586973+00:00"
+      },
+      {
+        "fingerprint": "9e2064351e5b2f0bdad127ae586f8b2a9b4844535f46c0938758f61fbb67d517",
+        "media_fingerprint": "7b4c2ac276de7f56506cd19fce7d187424b0d13f567900d739cf2aeb57a26238",
+        "text": "دایی\n❌\nیزید\n✅\n🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "دایی\n❌\nیزید\n✅\n🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/607",
+        "post_id": 607,
+        "message_id": 11450,
+        "message_kind": "caption",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-20T07:29:56.088124+00:00"
       }
     ]
   }
