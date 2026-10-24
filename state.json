@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 144378,
+      "last_id": 144380,
       "processed_ids": [
-        143098,
-        143099,
         143100,
         143101,
         143102,
@@ -1002,9 +1000,11 @@
         144375,
         144376,
         144377,
-        144378
+        144378,
+        144379,
+        144380
       ],
-      "sent_count": 1225,
+      "sent_count": 1226,
       "failed": {}
     },
     "total_fut": {
@@ -2015,13 +2015,8 @@
       "failed": {}
     },
     "footballvision2": {
-      "last_id": 172725,
+      "last_id": 172730,
       "processed_ids": [
-        170928,
-        170929,
-        170930,
-        170931,
-        170932,
         170933,
         170934,
         170935,
@@ -3016,9 +3011,14 @@
         172722,
         172723,
         172724,
-        172725
+        172725,
+        172726,
+        172727,
+        172728,
+        172729,
+        172730
       ],
-      "sent_count": 196,
+      "sent_count": 198,
       "failed": {}
     },
     "tg_ir": {
@@ -3419,7 +3419,7 @@
       "failed": {}
     },
     "behzistikomitenews": {
-      "last_id": 13983,
+      "last_id": 13986,
       "processed_ids": [
         13937,
         13939,
@@ -3464,16 +3464,17 @@
         13980,
         13981,
         13982,
-        13983
+        13983,
+        13984,
+        13985,
+        13986
       ],
       "sent_count": 10,
       "failed": {}
     },
     "drtel": {
-      "last_id": 71745,
+      "last_id": 71749,
       "processed_ids": [
-        66771,
-        66772,
         66773,
         66774,
         66775,
@@ -4471,9 +4472,11 @@
         71742,
         71743,
         71744,
-        71745
+        71745,
+        71746,
+        71749
       ],
-      "sent_count": 626,
+      "sent_count": 627,
       "failed": {}
     },
     "techtube": {
@@ -11307,17 +11310,8 @@
       "failed": {}
     },
     "ft360_ir": {
-      "last_id": 111260,
+      "last_id": 111269,
       "processed_ids": [
-        109703,
-        109704,
-        109705,
-        109706,
-        109707,
-        109708,
-        109709,
-        109710,
-        109711,
         109712,
         109713,
         109714,
@@ -12308,18 +12302,23 @@
         111256,
         111258,
         111259,
-        111260
+        111260,
+        111261,
+        111262,
+        111263,
+        111264,
+        111265,
+        111266,
+        111267,
+        111268,
+        111269
       ],
-      "sent_count": 254,
+      "sent_count": 256,
       "failed": {}
     },
     "varzesh3": {
-      "last_id": 305002,
+      "last_id": 305006,
       "processed_ids": [
-        303604,
-        303605,
-        303606,
-        303608,
         303609,
         303610,
         303611,
@@ -13315,15 +13314,18 @@
         304999,
         305000,
         305001,
-        305002
+        305002,
+        305003,
+        305004,
+        305005,
+        305006
       ],
       "sent_count": 152,
       "failed": {}
     },
     "totalfut_plus": {
-      "last_id": 27097,
+      "last_id": 27098,
       "processed_ids": [
-        26021,
         26022,
         26023,
         26024,
@@ -14322,19 +14324,15 @@
         27094,
         27095,
         27096,
-        27097
+        27097,
+        27098
       ],
       "sent_count": 88,
       "failed": {}
     },
     "adak_ir_official": {
-      "last_id": 236017,
+      "last_id": 236022,
       "processed_ids": [
-        234854,
-        234855,
-        234856,
-        234857,
-        234858,
         234859,
         234860,
         234861,
@@ -15329,17 +15327,19 @@
         236014,
         236015,
         236016,
-        236017
+        236017,
+        236018,
+        236019,
+        236020,
+        236021,
+        236022
       ],
-      "sent_count": 298,
+      "sent_count": 299,
       "failed": {}
     },
     "futball180tv": {
-      "last_id": 109567,
+      "last_id": 109570,
       "processed_ids": [
-        108250,
-        108251,
-        108252,
         108253,
         108254,
         108255,
@@ -16336,15 +16336,17 @@
         109562,
         109563,
         109564,
-        109567
+        109567,
+        109568,
+        109569,
+        109570
       ],
-      "sent_count": 164,
+      "sent_count": 165,
       "failed": {}
     },
     "hattric_official": {
-      "last_id": 85639,
+      "last_id": 85640,
       "processed_ids": [
-        84363,
         84364,
         84365,
         84367,
@@ -17343,7 +17345,8 @@
         85636,
         85637,
         85638,
-        85639
+        85639,
+        85640
       ],
       "sent_count": 240,
       "failed": {}
@@ -18291,7 +18294,7 @@
       "failed": {}
     },
     "irwonders": {
-      "last_id": 59063,
+      "last_id": 59065,
       "processed_ids": [
         58030,
         58031,
@@ -19203,9 +19206,11 @@
         59060,
         59061,
         59062,
-        59063
+        59063,
+        59064,
+        59065
       ],
-      "sent_count": 582,
+      "sent_count": 583,
       "failed": {}
     },
     "razcom": {
@@ -20878,7 +20883,7 @@
       "failed": {}
     },
     "khandehabadd": {
-      "last_id": 307300,
+      "last_id": 307303,
       "processed_ids": [
         306563,
         306564,
@@ -21577,9 +21582,12 @@
         307297,
         307298,
         307299,
-        307300
+        307300,
+        307301,
+        307302,
+        307303
       ],
-      "sent_count": 303,
+      "sent_count": 306,
       "failed": {}
     },
     "ravan6enasii": {
@@ -21589,7 +21597,7 @@
       "failed": {}
     },
     "ecrannews": {
-      "last_id": 14572,
+      "last_id": 14574,
       "processed_ids": [
         14544,
         14545,
@@ -21618,7 +21626,8 @@
         14569,
         14570,
         14571,
-        14572
+        14572,
+        14574
       ],
       "sent_count": 22,
       "failed": {}
@@ -21949,7 +21958,7 @@
       "failed": {}
     },
     "yejoorayi": {
-      "last_id": 641,
+      "last_id": 642,
       "processed_ids": [
         426,
         427,
@@ -22148,9 +22157,10 @@
         638,
         639,
         640,
-        641
+        641,
+        642
       ],
-      "sent_count": 182,
+      "sent_count": 183,
       "failed": {}
     },
     "onlinecofe_ir": {
@@ -22433,7 +22443,7 @@
       "failed": {}
     },
     "peach_tweet": {
-      "last_id": 4447,
+      "last_id": 4448,
       "processed_ids": [
         2745,
         2749,
@@ -23074,13 +23084,14 @@
         4444,
         4445,
         4446,
-        4447
+        4447,
+        4448
       ],
-      "sent_count": 341,
+      "sent_count": 342,
       "failed": {}
     },
     "funy_khand": {
-      "last_id": 26163,
+      "last_id": 26165,
       "processed_ids": [
         25704,
         25705,
@@ -23520,13 +23531,15 @@
         26160,
         26161,
         26162,
-        26163
+        26163,
+        26164,
+        26165
       ],
       "sent_count": 0,
       "failed": {}
     },
     "persiana_pluss": {
-      "last_id": 7029,
+      "last_id": 7030,
       "processed_ids": [
         6113,
         6114,
@@ -24261,7 +24274,8 @@
         7024,
         7026,
         7028,
-        7029
+        7029,
+        7030
       ],
       "sent_count": 17,
       "failed": {}
@@ -24417,7 +24431,7 @@
       "failed": {}
     },
     "dashagh": {
-      "last_id": 48708,
+      "last_id": 48709,
       "processed_ids": [
         48313,
         48314,
@@ -24683,13 +24697,14 @@
         48705,
         48706,
         48707,
-        48708
+        48708,
+        48709
       ],
-      "sent_count": 185,
+      "sent_count": 186,
       "failed": {}
     },
     "apkclub": {
-      "last_id": 73208,
+      "last_id": 73210,
       "processed_ids": [
         72962,
         72963,
@@ -24916,13 +24931,15 @@
         73205,
         73206,
         73207,
-        73208
+        73208,
+        73209,
+        73210
       ],
-      "sent_count": 69,
+      "sent_count": 70,
       "failed": {}
     },
     "boob_sfangi": {
-      "last_id": 2822,
+      "last_id": 2823,
       "processed_ids": [
         2587,
         2590,
@@ -25093,13 +25110,14 @@
         2818,
         2819,
         2821,
-        2822
+        2822,
+        2823
       ],
-      "sent_count": 108,
+      "sent_count": 109,
       "failed": {}
     },
     "fucknewsi": {
-      "last_id": 13891,
+      "last_id": 13892,
       "processed_ids": [
         13561,
         13562,
@@ -25304,9 +25322,10 @@
         13888,
         13889,
         13890,
-        13891
+        13891,
+        13892
       ],
-      "sent_count": 85,
+      "sent_count": 86,
       "failed": {}
     },
     "https://t.me/+hhcepayguws1nti0": {
@@ -25328,7 +25347,7 @@
       "failed": {}
     },
     "bimaariha": {
-      "last_id": 19581,
+      "last_id": 19583,
       "processed_ids": [
         19155,
         19156,
@@ -25534,7 +25553,9 @@
         19578,
         19579,
         19580,
-        19581
+        19581,
+        19582,
+        19583
       ],
       "sent_count": 110,
       "failed": {}
@@ -25572,276 +25593,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "e40903985ec530bad05cd957091d83f8631a79739ca27fd83a0a70391378d76e",
-        "media_fingerprint": "471ca324d071dcdd75e887e0087018701f47dcb2e810d43463e11ccf2f439497",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26702",
-        "post_id": 26702,
-        "message_id": 13129,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-24T10:08:05.116486+00:00"
-      },
-      {
-        "fingerprint": "0b5765e99cb63aed29602cffa9b102b77ae70b1d28933c427817e80e5d9aec6b",
-        "media_fingerprint": "3f6580487b6e48d33d2d59cfed66068a0e7b4f4db0e541c4a21aa30f56cafc43",
-        "text": "رایان رینولدز امروز 50 ساله شد.\n📷\n|\n@ShakhMovie",
-        "original_username": "shakhmovie",
-        "original_text": "رایان رینولدز امروز 50 ساله شد.\n📷\n|\n@ShakhMovie",
-        "original_link": "https://t.me/Shakhmovie/4252",
-        "post_id": 4252,
-        "message_id": 13130,
-        "message_kind": "caption",
-        "sources": [
-          "shakhmovie"
-        ],
-        "created_at": "2026-10-24T10:08:13.689462+00:00"
-      },
-      {
-        "fingerprint": "12678c82c915851aca51b3123a5e2833c47c02da6b36bdb2e095ca0d724f2f9b",
-        "media_fingerprint": "",
-        "text": "تقی جان زندگیو تو بردی تو این آرامش\n😍\n❤️\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "تقی جان زندگیو تو بردی تو این آرامش\n😍\n❤️\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/307277",
-        "post_id": 307277,
-        "message_id": 13131,
-        "message_kind": "text",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-24T10:08:17.210521+00:00"
-      },
-      {
-        "fingerprint": "d197981c97099f7c4b04de5c80fed2442d8276b406c9f8df7cbf936524ebdabd",
-        "media_fingerprint": "62c922bd47f9006648e945ef830c88a61d822d409584f3b8f4c3dd7a7362f779",
-        "text": "فلوت بینی!\n😐\nساز عجیبیست که در بسیاری مناطق دنیا بعنوان ساز سنتی نواخته میشود. ولی اصالتاً به نیمکره شرقی، تمدن های پولینِزی (Polynesia) و مناطق کرانه ی اقیانوس آرام تعلق دارد.\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "فلوت بینی!\n😐\nساز عجیبیست که در بسیاری مناطق دنیا بعنوان ساز سنتی نواخته میشود. ولی اصالتاً به نیمکره شرقی، تمدن های پولینِزی (Polynesia) و مناطق کرانه ی اقیانوس آرام تعلق دارد.\n@irWonders",
-        "original_link": "https://t.me/irwonders/59028",
-        "post_id": 59028,
-        "message_id": 13132,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-24T10:08:22.244344+00:00"
-      },
-      {
-        "fingerprint": "11655a43b81efcd79fcfdd513fb89d4617a158c4251230ba0dcb473e78139e13",
-        "media_fingerprint": "",
-        "text": "سلام یه سریال استعداد درخشان ارشد آزاد. دارم لطفاً کسی خواست بگه\n09921432052",
-        "original_username": "coffeenetmanager",
-        "original_text": "سلام یه سریال استعداد درخشان ارشد آزاد. دارم لطفاً کسی خواست بگه\n09921432052",
-        "original_link": "https://t.me/CoffeenetManager/51967",
-        "post_id": 51967,
-        "message_id": 13133,
-        "message_kind": "text",
-        "sources": [
-          "coffeenetmanager"
-        ],
-        "created_at": "2026-10-24T10:08:25.736895+00:00"
-      },
-      {
-        "fingerprint": "30638a7affa50ad2c769f23d39fdde59cbe2080749dde6e7e7825d46fcd1d475",
-        "media_fingerprint": "970f1580db636ca3a0a1e27c9ac32fcca889b29694ad9f197ad72a0839285a78",
-        "text": "چند ساله با کاج کباب میپزم:\nزود ذغال میشه و منقل زود آماده میشه\nعطر و طعم فوق‌العاده‌ای به کباب میده\nهیچ درختی برای ذغال شدن قطع نمیشه\nمفته\n@Midanesti",
-        "original_username": "midanesti",
-        "original_text": "چند ساله با کاج کباب میپزم:\nزود ذغال میشه و منقل زود آماده میشه\nعطر و طعم فوق‌العاده‌ای به کباب میده\nهیچ درختی برای ذغال شدن قطع نمیشه\nمفته\n@Midanesti",
-        "original_link": "https://t.me/midanesti/73344",
-        "post_id": 73344,
-        "message_id": 13134,
-        "message_kind": "caption",
-        "sources": [
-          "midanesti"
-        ],
-        "created_at": "2026-10-24T10:08:30.466876+00:00"
-      },
-      {
-        "fingerprint": "1bd538ae19cf7977499de1947c41854188379c53c2be6d4cca69fac6c979014a",
-        "media_fingerprint": "7aa4ef5a1c74166a655b116ac5092a95e45bc7176dbb2014b12f7aff7e3f9127",
-        "text": "🏅\nجدول لیگ برتر پس از مساوی استقلال\n🆔\n@mazdak_hattrick",
-        "original_username": "mazdak_hattrick",
-        "original_text": "🏅\nجدول لیگ برتر پس از مساوی استقلال\n🆔\n@mazdak_hattrick",
-        "original_link": "https://t.me/mazdak_hattrick/182764",
-        "post_id": 182764,
-        "message_id": 13135,
-        "message_kind": "caption",
-        "sources": [
-          "mazdak_hattrick"
-        ],
-        "created_at": "2026-10-24T10:08:35.128293+00:00"
-      },
-      {
-        "fingerprint": "23df3178ba2968d9e4774e240a4a323d254e57395faf471ee01b84bd55f0b6f5",
-        "media_fingerprint": "0e79ee94a6adfb45bc6a23d0c6664afc2d598b80e41d9a913e026f16d43669a8",
-        "text": "❓\nنظرتون راجع‌به قسمت دوم؟\n🎬\nقسمت دوم سریال\n#سرخ_و_سیاه\n،  صبح امروز به‎‌صورت اختصاصی در\n#فیلیمو\nمنتشر شد\nکارگردان: آیدا پناهنده\nنویسندگان: ارسلان امیری و آیدا پناهنده\nتهیه‌کنندگان: محمد یمینی و محسن خباز\n@BajeFilm",
-        "original_username": "bajefilm",
-        "original_text": "❓\nنظرتون راجع‌به قسمت دوم؟\n🎬\nقسمت دوم سریال\n#سرخ_و_سیاه\n،  صبح امروز به‎‌صورت اختصاصی در\n#فیلیمو\nمنتشر شد\nکارگردان: آیدا پناهنده\nنویسندگان: ارسلان امیری و آیدا پناهنده\nتهیه‌کنندگان: محمد یمینی و محسن خباز\n@BajeFilm",
-        "original_link": "https://t.me/bajefilm/11703",
-        "post_id": 11703,
-        "message_id": 13136,
-        "message_kind": "caption",
-        "sources": [
-          "bajefilm"
-        ],
-        "created_at": "2026-10-24T10:08:42.534464+00:00"
-      },
-      {
-        "fingerprint": "937b68976fac7d48b9d7c1724a15fc83c3fd66cffadf5533a9871887171b360d",
-        "media_fingerprint": "f005650c7c7d43fba93147f64c92239e375dae886259190be934669484ea719e",
-        "text": "‏گیاه بسیار کوچک Conophytum pageae که در آفریقای جنوبی پیدا میشه:\n☝️🏼\n🌍\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "‏گیاه بسیار کوچک Conophytum pageae که در آفریقای جنوبی پیدا میشه:\n☝️🏼\n🌍\n@irWonders",
-        "original_link": "https://t.me/irwonders/59029",
-        "post_id": 59029,
-        "message_id": 13137,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-24T10:08:47.556938+00:00"
-      },
-      {
-        "fingerprint": "6d11ed0edeabb34fc12a6f05b3a446597d3d0c848ce4ef733ddbe4b35366e263",
-        "media_fingerprint": "3e10e043dd5cc382e945bc17c7bde604d72c3e8a931364b1933ed58677090863",
-        "text": "ولی زیبایی\n💕\n📷\n|\n@ShakhMovie",
-        "original_username": "shakhmovie",
-        "original_text": "ولی زیبایی\n💕\n📷\n|\n@ShakhMovie",
-        "original_link": "https://t.me/Shakhmovie/4254",
-        "post_id": 4254,
-        "message_id": 13138,
-        "message_kind": "caption",
-        "sources": [
-          "shakhmovie"
-        ],
-        "created_at": "2026-10-24T10:08:52.586158+00:00"
-      },
-      {
-        "fingerprint": "7a16f1adb4e3be79bf8c048550b37927e0bbaf766bc091a5bbafffd5fd1e8a07",
-        "media_fingerprint": "",
-        "text": "",
-        "original_username": "apkclub",
-        "original_text": "",
-        "original_link": "https://t.me/apkclub/73186",
-        "post_id": 73186,
-        "message_id": 13139,
-        "message_kind": "text",
-        "sources": [
-          "apkclub"
-        ],
-        "created_at": "2026-10-24T10:08:56.094042+00:00"
-      },
-      {
-        "fingerprint": "75789327842f8f5731ab1c20513762219e686171a90573d1d28e61d7d0baed44",
-        "media_fingerprint": "8a25e16b75046c125bbedc6d51973ee2f97d99887f6ea02a6175075d94658491",
-        "text": "💻\nMovieBox\n🔝\nV4.0.03.1016.04\n#بزرگسالان\n#فوتبال\n#فیلم\n#سریال\n⭐️\nنسخه مود و بدون تبلیغات برنامه MovieBox ( تماشا به صورت زنده ؛ بدون سانسور و فیلم و سریال و..)\n🔖\nویژگی‌های برنامه:\n🔵\nتماشای میلیون ها فیلم و سریال\n🔵\nتماشای فوتبال به صورت زنده\n🔵\nقابلیت های پولی باز شده\n🔵\nبدون فیلترینگ (تست شده با سامانتل )\n📱\nبرای دانلود فایل بر روی (\nدانــلود\n)  کلیک کنید.\n🌟\n@APKCLUB",
-        "original_username": "apkclub",
-        "original_text": "💻\nMovieBox\n🔝\nV4.0.03.1016.04\n#بزرگسالان\n#فوتبال\n#فیلم\n#سریال\n⭐️\nنسخه مود و بدون تبلیغات برنامه MovieBox ( تماشا به صورت زنده ؛ بدون سانسور و فیلم و سریال و..)\n🔖\nویژگی‌های برنامه:\n🔵\nتماشای میلیون ها فیلم و سریال\n🔵\nتماشای فوتبال به صورت زنده\n🔵\nقابلیت های پولی باز شده\n🔵\nبدون فیلترینگ (تست شده با سامانتل )\n📱\nبرای دانلود فایل بر روی (\nدانــلود\n)  کلیک کنید.\n🌟\n@APKCLUB",
-        "original_link": "https://t.me/apkclub/73187",
-        "post_id": 73187,
-        "message_id": 13140,
-        "message_kind": "caption",
-        "sources": [
-          "apkclub"
-        ],
-        "created_at": "2026-10-24T10:09:05.538913+00:00"
-      },
-      {
-        "fingerprint": "86841fdfa23326abc97ca056058e12ee4e78ddcce7d416cf28b174560969f401",
-        "media_fingerprint": "50b5fa7866c3a21f6dd83107819f568a9c4cc3d14842e2d70f30bb21998c95d4",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26703",
-        "post_id": 26703,
-        "message_id": 13141,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-24T10:09:09.913980+00:00"
-      },
-      {
-        "fingerprint": "676b6682b4e6df8451b6a26a867916cdee25ffa13acdc5e683959be19942068a",
-        "media_fingerprint": "475f9ea3e719a58f943ebcc2348b0579a2a33fa0d8a444e6dddaaf714ab8f62e",
-        "text": "بابک زنجانی با انتشار این فیلم، پاکستان و عراق رو بخاطر بستن مرزهاشون تهدید کرد؛\nپاکستان اسم بزرگی داره، ولی کافیه یه هفته با کمبود برق و گاز مواجه بشه تا مشخص بشه دولت نظامیِ فشل‌شون تا چه اندازه در برابر فشارهای اقتصادی آسیب‌پذیره.\nما مسیر صادرات گاز از ریمدان رو تغییر می‌دیم و گاز ایران رو از مسیرهای دیگه و با قیمت بالاتر به فروش میرسونیم.\nاز دوشنبه، پاکستان منتظر قیمت‌گذاری جدید گاز باشه؛ این می‌تونه درس عبرتی واسه کسایی باشه که منافع‌شون رو با منافع دشمنان ایران گره زدن.\n‌\nهمچنین مرز چذابه عراق هم بسته شده!\nبا عراق هم وارد مرحله جدیدی از بازی اقتصادی خواهیم شد تا اهمیت و جایگاه ایران بزرگ رو بهتر درک کنه.\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "بابک زنجانی با انتشار این فیلم، پاکستان و عراق رو بخاطر بستن مرزهاشون تهدید کرد؛\nپاکستان اسم بزرگی داره، ولی کافیه یه هفته با کمبود برق و گاز مواجه بشه تا مشخص بشه دولت نظامیِ فشل‌شون تا چه اندازه در برابر فشارهای اقتصادی آسیب‌پذیره.\nما مسیر صادرات گاز از ریمدان رو تغییر می‌دیم و گاز ایران رو از مسیرهای دیگه و با قیمت بالاتر به فروش میرسونیم.\nاز دوشنبه، پاکستان منتظر قیمت‌گذاری جدید گاز باشه؛ این می‌تونه درس عبرتی واسه کسایی باشه که منافع‌شون رو با منافع دشمنان ایران گره زدن.\n‌\nهمچنین مرز چذابه عراق هم بسته شده!\nبا عراق هم وارد مرحله جدیدی از بازی اقتصادی خواهیم شد تا اهمیت و جایگاه ایران بزرگ رو بهتر درک کنه.\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/53155",
-        "post_id": 53155,
-        "message_id": 13142,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-24T10:09:17.237610+00:00"
-      },
-      {
-        "fingerprint": "563b3a454f87d6e78f74854d3daba5502204cb123662c23d11b093e4c8ac9b96",
-        "media_fingerprint": "a67ef7a503798e401f1dd962adad4f0f81b0970b0aa8064826d95f094617d3eb",
-        "text": "یه خانواده خوش‌شانس رفتن لب ساحل مثلا ناهار بخورن و خوش بگذرونن که موج زده و زندگی و ناهارشون رو با خودش برده؛\nحالا شما فقط به اون دوتا آقا توجه کنید :\nیکیشون که هنوز نمیدونه چی شده، ریلکس نشسته و داره ادامه ناهارش رو میخوره.\nاون یکی هم داره بشقابِ ماکارونی و جوراب‌هاش رو نجات میده.\nحالا فهمیدید اون همه خرت و پرت و آشغال که میرید تو ساحل میبینید از کجا میان؟\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "یه خانواده خوش‌شانس رفتن لب ساحل مثلا ناهار بخورن و خوش بگذرونن که موج زده و زندگی و ناهارشون رو با خودش برده؛\nحالا شما فقط به اون دوتا آقا توجه کنید :\nیکیشون که هنوز نمیدونه چی شده، ریلکس نشسته و داره ادامه ناهارش رو میخوره.\nاون یکی هم داره بشقابِ ماکارونی و جوراب‌هاش رو نجات میده.\nحالا فهمیدید اون همه خرت و پرت و آشغال که میرید تو ساحل میبینید از کجا میان؟\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/53156",
-        "post_id": 53156,
-        "message_id": 13143,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-24T10:09:25.345599+00:00"
-      },
-      {
-        "fingerprint": "2e2bce3be32a42f58629a2979aa55704026c5ed931be21185591c2c5f5452249",
-        "media_fingerprint": "9c6f5e92028330b9f362afe6359d1ce97d53ff5a68a68e02048fa15e64d15b8a",
-        "text": "قصه‌ی این دِه، سرِ سازگاری با کسی نداره.\nقسمت سوم سریال «یَلْ»\nرا اختصاصی در فیلم‌نت تماشا کنید.\n🎥\nکارگردان\n: جمشید محمودی\n🎞\nتهیه‌کننده:\nنوید محمودی\n🖊\nنویسندگان\n: جمشید محمودی، رضا بهاروند\n🎬\n«یَلْ» جمعه‌ها ۱۲ ظهر در فیلم‌نت\n🔗\nاینجا تماشا کنید\n.\n@filmnetofficial",
-        "original_username": "ajayebe_jahann",
-        "original_text": "قصه‌ی این دِه، سرِ سازگاری با کسی نداره.\nقسمت سوم سریال «یَلْ»\nرا اختصاصی در فیلم‌نت تماشا کنید.\n🎥\nکارگردان\n: جمشید محمودی\n🎞\nتهیه‌کننده:\nنوید محمودی\n🖊\nنویسندگان\n: جمشید محمودی، رضا بهاروند\n🎬\n«یَلْ» جمعه‌ها ۱۲ ظهر در فیلم‌نت\n🔗\nاینجا تماشا کنید\n.\n@filmnetofficial",
-        "original_link": "https://t.me/Ajayebe_jahann/160166",
-        "post_id": 160166,
-        "message_id": 13144,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-24T10:09:30.215459+00:00"
-      },
-      {
-        "fingerprint": "e64c572631f5be5db2b40390661a1c5229240e9ae3789a2d25a17ca42d69a46b",
-        "media_fingerprint": "",
-        "text": "",
-        "original_username": "ajayebe_jahann",
-        "original_text": "",
-        "original_link": "https://t.me/Ajayebe_jahann/160168",
-        "post_id": 160168,
-        "message_id": 13145,
-        "message_kind": "text",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-24T10:09:33.661712+00:00"
-      },
-      {
-        "fingerprint": "49b11048cd818549f265db35f32471198f23c5734f3cd32c4cb7bc24b16b9885",
-        "media_fingerprint": "8b5f8e3de1fc934fbac9fcbd53b85b8fc8bf6cc3e64bf3dee405152da2537028",
-        "text": "روش های درمانی برای هر بیماری\n➕\n➡️\n@NiazCom_ir\n|\n💡\nترفند\n®\n۹",
-        "original_username": "niazcom_ir",
-        "original_text": "روش های درمانی برای هر بیماری\n➕\n➡️\n@NiazCom_ir\n|\n💡\nترفند\n®\n۹",
-        "original_link": "https://t.me/niazcom_ir/61647",
-        "post_id": 61647,
-        "message_id": 13146,
-        "message_kind": "text",
-        "sources": [
-          "niazcom_ir"
-        ],
-        "created_at": "2026-10-24T10:09:37.944772+00:00"
-      },
       {
         "fingerprint": "63c056f84ff5d6598a0ac13a9bc527f9478bfd480cce9d5600d18f28a26de3a2",
         "media_fingerprint": "9a35f9fa1cdd3d55966b2fdd494d0e826e23b9580b7e848134c575afbcee36e3",
@@ -30089,6 +29840,276 @@
           "drtel"
         ],
         "created_at": "2026-10-24T15:56:38.372327+00:00"
+      },
+      {
+        "fingerprint": "23d2bf834d16d78ab61f711446526e771dc17ea554411a4c5f3ef8649ef5eb55",
+        "media_fingerprint": "b2ed3a29f8553d4f7dc7893e98666e16aa4dd4673e019fe3deeeba6f7907c37d",
+        "text": "این چه بازی کسشریه چرا الان من شدم مادرجنده؟",
+        "original_username": "drtel",
+        "original_text": "این چه بازی کسشریه چرا الان من شدم مادرجنده؟",
+        "original_link": "https://t.me/drtel/71746",
+        "post_id": 71746,
+        "message_id": 13447,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-24T16:34:12.563050+00:00"
+      },
+      {
+        "fingerprint": "7b09a2adab6a2aae2f74d194ffe543541379df78609a6c6dd17015c1d90bd4e1",
+        "media_fingerprint": "d13437e0bccae4a0c9bef5dd4e0318f060d78d82b78912dcde76d9a1031e9086",
+        "text": "وقتی میگیم قدر رابطه‌ای که داریدو بدونید\nیعنی همین\n🌟\n💪\n#LarryLobster\n💎\nSpongebob | باب اسفنجی",
+        "original_username": "boob_sfangi",
+        "original_text": "وقتی میگیم قدر رابطه‌ای که داریدو بدونید\nیعنی همین\n🌟\n💪\n#LarryLobster\n💎\nSpongebob | باب اسفنجی",
+        "original_link": "https://t.me/boob_sfangi/2823",
+        "post_id": 2823,
+        "message_id": 13448,
+        "message_kind": "caption",
+        "sources": [
+          "boob_sfangi"
+        ],
+        "created_at": "2026-10-24T16:34:16.919738+00:00"
+      },
+      {
+        "fingerprint": "1c3ae4840dbdc677ade761f089f1276c38fc37fd12e63483004227707ee075da",
+        "media_fingerprint": "1647bb5d6380784fc517defab34498262f9d7c0d74a8427153892a8d86383abb",
+        "text": "وضعیت :\n🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "وضعیت :\n🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/642",
+        "post_id": 642,
+        "message_id": 13449,
+        "message_kind": "caption",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-24T16:34:21.778460+00:00"
+      },
+      {
+        "fingerprint": "5ccd916974f9d3dcde93316949ca7b705cee7e237998f060ed0b591fc9981677",
+        "media_fingerprint": "13af09ec0999661f41808d7f82e1097dbafd566b4246b29e9545d115d45db262",
+        "text": "در چین، دانشمندها ستاره شدند\nچین به‌جای چهره‌های مشهور، تصاویر دانشمندان را در فضاهای عمومی نمایش می‌دهد تا قهرمانان علم بیشتر دیده شوند.\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "در چین، دانشمندها ستاره شدند\nچین به‌جای چهره‌های مشهور، تصاویر دانشمندان را در فضاهای عمومی نمایش می‌دهد تا قهرمانان علم بیشتر دیده شوند.\n@irWonders",
+        "original_link": "https://t.me/irwonders/59064",
+        "post_id": 59064,
+        "message_id": 13450,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-24T16:34:28.956340+00:00"
+      },
+      {
+        "fingerprint": "375ac34eb3d2552e3497c46788de662a1ac44adaf3d6347ce539b92ca0a1a393",
+        "media_fingerprint": "",
+        "text": "♦️\n‌۳ فینال و یک رده‌بندی برای کشتی فرنگی در روز اول\n🔹\nدر وزن ۷۷ کیلوگرم کشتی فرنگی قهرمانی جهان، علی اسکو مقابل حریف آذربایجانی با نتیجۀ ۲ بر ۰ شکست خورد و به رده‌بندی رفت.\n🔹\nدر این دیدار داور مسابقه برخلاف عرف کشتی در هر ۲ راند اخطار را به کشتی‌گیر ایران داد!\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\n‌۳ فینال و یک رده‌بندی برای کشتی فرنگی در روز اول\n🔹\nدر وزن ۷۷ کیلوگرم کشتی فرنگی قهرمانی جهان، علی اسکو مقابل حریف آذربایجانی با نتیجۀ ۲ بر ۰ شکست خورد و به رده‌بندی رفت.\n🔹\nدر این دیدار داور مسابقه برخلاف عرف کشتی در هر ۲ راند اخطار را به کشتی‌گیر ایران داد!\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144379",
+        "post_id": 144379,
+        "message_id": 13451,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-24T16:34:32.366551+00:00"
+      },
+      {
+        "fingerprint": "91a0aea953b9485e71bc15e6fa1ec72394afc1dba1844c148aadfebb5e55c623",
+        "media_fingerprint": "6cbeecc15c5f115670bbf51e6a52343447aed33fb2ecd50aa69e18056add1f5b",
+        "text": "مطهری، سرمربی فولاد\n🎙\nبه فولاد‌ تایم اعتقاد دارم، بعضی‌ها مزه‌پرانی می‌کنند\n💬\nجوان‌های زیادی مثل محمد عمری را در تیم‌های پایه پیدا کردم، خیلی‌ها پُز عمری را دادند، او را در داربی امیدها پیدا کردم و به تیم بزرگسالان بردم.  @Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "مطهری، سرمربی فولاد\n🎙\nبه فولاد‌ تایم اعتقاد دارم، بعضی‌ها مزه‌پرانی می‌کنند\n💬\nجوان‌های زیادی مثل محمد عمری را در تیم‌های پایه پیدا کردم، خیلی‌ها پُز عمری را دادند، او را در داربی امیدها پیدا کردم و به تیم بزرگسالان بردم.  @Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/111263",
+        "post_id": 111263,
+        "message_id": 13452,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-24T16:34:39.698468+00:00"
+      },
+      {
+        "fingerprint": "0e566b4f0e1b5a8c0d6349c371daab052b95a426dc6aac2db2e4cd1a9f1fff85",
+        "media_fingerprint": "583358cb9db1bad898b29b601720d3f26fa74c925bb13e7c89f391530b260308",
+        "text": "اگر زیر ۱۸ سانت آلتته وارد شو نمونه کارارو بیین چون قراره سایزت تغییر کنه\n💢\n💢\n💢\n💢\n💢\n💢\nمشاوره فقط برای ۵۰ نفر اول رایگانه...\n🔴\nافزایش ۲ تا ۶ سانت در طول آلت\n🔴\nافزایش مدت رابطه از ۳ دقیقه به بالای ۷ دقیقه\n🔴\nقوی سازی و تقویت نعوظ\n🔴\nافزایش میل و توان جنسی\nنمونه کار های قبل و بعد بزرگ شده\nنمونه کار های قبل و بعد بزرگ شده\nنمونه کار های قبل و بعد بزرگ شده\nنمونه کار های قبل و بعد بزرگ شده\nوارد شید و نمونه کار های قبل و بعد رو ببینید\n👍\nدرخواست شما بلافاصله\nپذیرفته میشود",
+        "original_username": "khandehabadd",
+        "original_text": "اگر زیر ۱۸ سانت آلتته وارد شو نمونه کارارو بیین چون قراره سایزت تغییر کنه\n💢\n💢\n💢\n💢\n💢\n💢\nمشاوره فقط برای ۵۰ نفر اول رایگانه...\n🔴\nافزایش ۲ تا ۶ سانت در طول آلت\n🔴\nافزایش مدت رابطه از ۳ دقیقه به بالای ۷ دقیقه\n🔴\nقوی سازی و تقویت نعوظ\n🔴\nافزایش میل و توان جنسی\nنمونه کار های قبل و بعد بزرگ شده\nنمونه کار های قبل و بعد بزرگ شده\nنمونه کار های قبل و بعد بزرگ شده\nنمونه کار های قبل و بعد بزرگ شده\nوارد شید و نمونه کار های قبل و بعد رو ببینید\n👍\nدرخواست شما بلافاصله\nپذیرفته میشود",
+        "original_link": "https://t.me/khandehabadd/307301",
+        "post_id": 307301,
+        "message_id": 13453,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-24T16:34:44.360462+00:00"
+      },
+      {
+        "fingerprint": "3fd6c64fa94c7e5128a8b75bffd145ee3697d9020dff9d84e0ada42fb0a53f50",
+        "media_fingerprint": "0efd3e92246b1fe1cbda822e40782e8f5aef841634ba326cf6ba99587d9030ed",
+        "text": "توزیع بسته های حمایتی لوازم مصرفی خودرو در سامانه جامع\nشروع طرح از ساعت ۱۰ صبح روز شنبه ۲ آبان ماه تا اتمام موجودی\nامکان دریافت نقدی و اقساطی\nهموطنان گرامی می‌توانند با مراجعه به سامانه رسمی ایرانکو اقلام مصرفی حمایتی خود را به نرخ مصوب با محدودیت کد‌ملی دریافت نمایند.\nwww.iranko.ir\n.",
+        "original_username": "khandehabadd",
+        "original_text": "توزیع بسته های حمایتی لوازم مصرفی خودرو در سامانه جامع\nشروع طرح از ساعت ۱۰ صبح روز شنبه ۲ آبان ماه تا اتمام موجودی\nامکان دریافت نقدی و اقساطی\nهموطنان گرامی می‌توانند با مراجعه به سامانه رسمی ایرانکو اقلام مصرفی حمایتی خود را به نرخ مصوب با محدودیت کد‌ملی دریافت نمایند.\nwww.iranko.ir\n.",
+        "original_link": "https://t.me/khandehabadd/307302",
+        "post_id": 307302,
+        "message_id": 13454,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-24T16:34:49.203662+00:00"
+      },
+      {
+        "fingerprint": "766cbde26bdda2cdfe7fe068abb1488cfe0296db5d409dcef5d46c2cfd84005d",
+        "media_fingerprint": "db75a6d9006c49f0a207da1a370ab62f483f0c82ce7068f1f251d8b2235503aa",
+        "text": "چرا انقدر آقایون جونشون عزیزه\n🤔\n😂\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "چرا انقدر آقایون جونشون عزیزه\n🤔\n😂\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/307303",
+        "post_id": 307303,
+        "message_id": 13455,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-24T16:34:56.652506+00:00"
+      },
+      {
+        "fingerprint": "d5339fd5e6d37e248966bcde6f108f800fe30b8baf6df68d9da5220aa267a57a",
+        "media_fingerprint": "ee80ff0c1ffc37231d90d4ced5d953f8f713530849ca311a811d88b7d6b7700a",
+        "text": "🔸\nچلسی - تاتنهام\n🔸\n🔸\nلیگ برتر انگلیس\n🔗\nپخش زنده ساعت ۲۰:۰۰ در فوتبال ۳۶۰\n@Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "🔸\nچلسی - تاتنهام\n🔸\n🔸\nلیگ برتر انگلیس\n🔗\nپخش زنده ساعت ۲۰:۰۰ در فوتبال ۳۶۰\n@Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/111267",
+        "post_id": 111267,
+        "message_id": 13456,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-24T16:35:01.556836+00:00"
+      },
+      {
+        "fingerprint": "c9a13c3517a62b1bdf42ff01d11f30381aa73cf5f3dcac1d7ee9f4b2a302cd43",
+        "media_fingerprint": "0a8566084c31550692ef1a1e4da0547aff604ad2f00868e397bd0b938a4b0314",
+        "text": "فکت : پسری که این فیلم رو سه بار نبینه کونیه.\n@FuckNewsi",
+        "original_username": "fucknewsi",
+        "original_text": "فکت : پسری که این فیلم رو سه بار نبینه کونیه.\n@FuckNewsi",
+        "original_link": "https://t.me/FuckNewsi/13892",
+        "post_id": 13892,
+        "message_id": 13457,
+        "message_kind": "caption",
+        "sources": [
+          "fucknewsi"
+        ],
+        "created_at": "2026-10-24T16:35:11.795486+00:00"
+      },
+      {
+        "fingerprint": "267c8e52c35a659fff2a6058f625bd60f42792071e078fe29b63bc84d94c3c3f",
+        "media_fingerprint": "769870f47d8b6f8bd2bcbb64ea2526b8a3685803aebe50a1ee1970c9869d6b63",
+        "text": "⚽️\nلیگ برتر انگلیس| آرسنال از شکست سیتی نهایت بهره را برد\n🔸\nآرسنال دو - اورتون صفر\n🔘\n@Navadnewstelegram",
+        "original_username": "footballvision2",
+        "original_text": "⚽️\nلیگ برتر انگلیس| آرسنال از شکست سیتی نهایت بهره را برد\n🔸\nآرسنال دو - اورتون صفر\n🔘\n@Navadnewstelegram",
+        "original_link": "https://t.me/footballvision2/172727",
+        "post_id": 172727,
+        "message_id": 13458,
+        "message_kind": "caption",
+        "sources": [
+          "footballvision2"
+        ],
+        "created_at": "2026-10-24T16:35:16.551503+00:00"
+      },
+      {
+        "fingerprint": "596058aab104bd43a5a5f4378711df299b2f24696833bcf5b4ed34f67921c899",
+        "media_fingerprint": "",
+        "text": "",
+        "original_username": "apkclub",
+        "original_text": "",
+        "original_link": "https://t.me/apkclub/73209",
+        "post_id": 73209,
+        "message_id": 13459,
+        "message_kind": "text",
+        "sources": [
+          "apkclub"
+        ],
+        "created_at": "2026-10-24T16:35:19.931554+00:00"
+      },
+      {
+        "fingerprint": "5cbb3f9dea639b9708b0172ab5e80bc0ed2152348e87f13a2cafd3d059694e61",
+        "media_fingerprint": "219abf1facc00ddbeafae4a4369485d6bbbab650da33285754fe48f40a22b4f7",
+        "text": "پیت‌بول یکی از خواننده هایی که با جنیفر لوپز همکاری داشته اعتراف کرده که تو حین اجرای برنامه با جنیفر لوپز تو مراسم جوایز موسیقی آمریکا تو سال ۲۰۱۱، واقعاً دچار نعوظ شده:))))\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "پیت‌بول یکی از خواننده هایی که با جنیفر لوپز همکاری داشته اعتراف کرده که تو حین اجرای برنامه با جنیفر لوپز تو مراسم جوایز موسیقی آمریکا تو سال ۲۰۱۱، واقعاً دچار نعوظ شده:))))\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/4448",
+        "post_id": 4448,
+        "message_id": 13460,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-24T16:35:29.215236+00:00"
+      },
+      {
+        "fingerprint": "ac1d43a40e12cefe23c4d8dba6dba4e4dcac7a51425caf0ca9a21ed326ce0e52",
+        "media_fingerprint": "6b7d28bddb415a6bdac4b4f08364c948f781913fea7876ae7332347651ee7bce",
+        "text": "بعضیا تو نود گرفتن چقد خلاقن\nیه اثر هنری خلق میکنن رسما که باید قاب کنی بزنیش به دیوار اتاقت :)))))\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "بعضیا تو نود گرفتن چقد خلاقن\nیه اثر هنری خلق میکنن رسما که باید قاب کنی بزنیش به دیوار اتاقت :)))))\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48709",
+        "post_id": 48709,
+        "message_id": 13462,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-24T16:35:34.115696+00:00"
+      },
+      {
+        "fingerprint": "f77d90b5576aa1043b4d3e65253df7c9d3d4be4e13f5c618928edee2477ea823",
+        "media_fingerprint": "",
+        "text": "ورزش سه: اورونوف به علت مصدومیت بازی با فولاد رو از دست داد\nمشتی چخبرته\n😂\nتارتار تازه بهت اعتماد کرده بود\n🆔\n@footballvision2",
+        "original_username": "footballvision2",
+        "original_text": "ورزش سه: اورونوف به علت مصدومیت بازی با فولاد رو از دست داد\nمشتی چخبرته\n😂\nتارتار تازه بهت اعتماد کرده بود\n🆔\n@footballvision2",
+        "original_link": "https://t.me/footballvision2/172729",
+        "post_id": 172729,
+        "message_id": 13463,
+        "message_kind": "text",
+        "sources": [
+          "footballvision2"
+        ],
+        "created_at": "2026-10-24T16:35:37.546543+00:00"
+      },
+      {
+        "fingerprint": "a9dc733a5ef3971fef0fb97ad6866985c51552f61c7eb474e0b7b9a4f5952c12",
+        "media_fingerprint": "94a148b9319b60fb6302b6fa83b0261d2363de0bf278593418d6bd52e5a1ee79",
+        "text": "🚨\n🚑\n🇮🇷\nاوستون اورونوف بدلیل مصدومیت دیدار فردا پرسپولیس مقابل فولاد را از دست داد\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "🚨\n🚑\n🇮🇷\nاوستون اورونوف بدلیل مصدومیت دیدار فردا پرسپولیس مقابل فولاد را از دست داد\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/109570",
+        "post_id": 109570,
+        "message_id": 13464,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-24T16:35:42.336273+00:00"
+      },
+      {
+        "fingerprint": "745a89af69dfb516bed15846825cf62f10cdd9c143cd58251440245b8961790f",
+        "media_fingerprint": "",
+        "text": "🚨\n🚨\n🚨\n🔴\nدنیل گرا در لیست پرسپولیس برای بازی با فولاد قرار گرفت و مشکلی برای این مسابقه ندارد.\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🚨\n🚨\n🚨\n🔴\nدنیل گرا در لیست پرسپولیس برای بازی با فولاد قرار گرفت و مشکلی برای این مسابقه ندارد.\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/236022",
+        "post_id": 236022,
+        "message_id": 13465,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-24T16:35:45.737458+00:00"
       }
     ]
   }
