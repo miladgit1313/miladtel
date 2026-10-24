@@ -3,6 +3,7 @@ import json
 import time
 import re
 import hashlib
+import shutil
 from datetime import datetime, timezone
 
 import requests
@@ -21,7 +22,12 @@ BOT_STATE_FILE = "bot_state.json"
 
 API = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
-SEND_DELAY = 2
+SEND_DELAY = 3  # گروه‌ها: حداکثر حدود ۲۰ پیام در دقیقه
+MAX_RATE_RETRIES = 3
+MAX_RETRY_WAIT = 60
+MAX_SEND_ATTEMPTS = 5
+CAPTION_LIMIT = 1024
+MESSAGE_LIMIT = 4096
 MAX_PROCESSED_IDS = 1000
 MAX_GLOBAL_HISTORY = 300
 
@@ -53,15 +59,40 @@ class TelegramAPIError(Exception):
         super().__init__(f"Telegram API error {code}: {description}")
 
 
-def load_json(path, default):
+def load_json(path, default, expected_type=None, critical=False):
     if not os.path.exists(path):
         return default
 
     try:
-        with open(path, "r", encoding="utf-8") as f:
-            return json.load(f)
+        with open(path, "r", encoding="utf-8-sig") as f:
+            data = json.load(f)
+
+        if (
+            expected_type is not None
+            and not isinstance(data, expected_type)
+        ):
+            raise ValueError(
+                f"نوع داده نامعتبر است: {type(data).__name__}"
+            )
+
+        return data
+
     except Exception as e:
         print(f"[ERROR] خواندن {path}: {e}")
+
+        if critical:
+            # فایل خراب را با لیست خالی جایگزین نمی‌کنیم تا اطلاعات
+            # (مثلاً لیست کانال‌ها) در پایان اجرا پاک نشود.
+            raise RuntimeError(
+                f"{path} خراب یا نامعتبر است. اجرا متوقف شد؛ "
+                "فایل را اصلاح کنید."
+            ) from e
+
+        try:
+            shutil.copyfile(path, path + ".corrupt")
+        except Exception:
+            pass
+
         return default
 
 
@@ -100,8 +131,12 @@ def similarity_text(text):
     text = re.sub(r"@\w+", " ", text)
     text = text.replace("#", " ")
 
+    # کشیده و اعراب حذف می‌شوند (نه تبدیل به فاصله)
+    text = re.sub(r"[\u0640\u064B-\u065F\u0670]", "", text)
+
+    # همه‌ی علائم نگارشی (از جمله ، ؛ ؟ فارسی) تبدیل به فاصله می‌شوند
     text = re.sub(
-        r"[^\w\s\u0600-\u06FF]",
+        r"[^\w\s]",
         " ",
         text,
         flags=re.UNICODE
@@ -120,6 +155,31 @@ def is_filtered(text):
     return False, None
 
 
+def compact_text(text):
+    return re.sub(r"[\s_\-.]+", "", text)
+
+
+def text_has_word(normalized, word):
+    """
+    تطبیق کلمه در متن نرمال‌شده. اگر کلمه حداقل ۵ حرف باشد، حالت بدون
+    فاصله/خط‌تیره هم بررسی می‌شود (شرط‌بندی = شرطبندی = شرط بندی).
+    """
+    w = normalize_text(word)
+
+    if not w:
+        return False
+
+    if w in normalized:
+        return True
+
+    compact_word = compact_text(w)
+
+    return (
+        len(compact_word) >= 5
+        and compact_word in compact_text(normalized)
+    )
+
+
 def channel_keyword_ok(username, text, channel_keywords):
     """
     اگر این کانال هیچ کلمه‌ی فیلتری نداشته باشد، همه‌چیز مجاز است.
@@ -134,7 +194,7 @@ def channel_keyword_ok(username, text, channel_keywords):
     normalized = normalize_text(text)
 
     for word in required_words:
-        if normalize_text(word) in normalized:
+        if text_has_word(normalized, word):
             return True
 
     return False
@@ -152,7 +212,7 @@ def contains_banned_word(text, banned_words):
     normalized = normalize_text(text)
 
     for word in banned_words:
-        if normalize_text(word) in normalized:
+        if text_has_word(normalized, word):
             return True
 
     return False
@@ -173,7 +233,28 @@ def update_chat_id(new_id):
     CURRENT_CHAT_ID = new_id
 
 
-def telegram_call(method, destination=False, retry_migration=True, **params):
+def rate_limit_wait(result, parameters):
+    if result.get("error_code") != 429:
+        return None
+
+    try:
+        wait = int(parameters.get("retry_after", 0))
+    except Exception:
+        return None
+
+    if wait <= 0 or wait > MAX_RETRY_WAIT:
+        return None
+
+    return wait + 1
+
+
+def telegram_call(
+    method,
+    destination=False,
+    retry_migration=True,
+    rate_retries=MAX_RATE_RETRIES,
+    **params
+):
     if destination:
         params["chat_id"] = CURRENT_CHAT_ID
 
@@ -212,7 +293,22 @@ def telegram_call(method, destination=False, retry_migration=True, **params):
             method,
             destination=True,
             retry_migration=False,
+            rate_retries=rate_retries,
             **retry_params
+        )
+
+    wait = rate_limit_wait(result, parameters)
+
+    if wait and rate_retries > 0:
+        print(f"[RATE LIMIT] {method}: صبر {wait} ثانیه و تلاش دوباره")
+        time.sleep(wait)
+
+        return telegram_call(
+            method,
+            destination=destination,
+            retry_migration=retry_migration,
+            rate_retries=rate_retries - 1,
+            **params
         )
 
     raise TelegramAPIError(
@@ -222,7 +318,13 @@ def telegram_call(method, destination=False, retry_migration=True, **params):
     )
 
 
-def multipart_call(method, data, files, retry_migration=True):
+def multipart_call(
+    method,
+    data,
+    files,
+    retry_migration=True,
+    rate_retries=MAX_RATE_RETRIES
+):
     data = dict(data)
 
     try:
@@ -265,7 +367,22 @@ def multipart_call(method, data, files, retry_migration=True):
             method,
             data,
             files,
-            retry_migration=False
+            retry_migration=False,
+            rate_retries=rate_retries
+        )
+
+    wait = rate_limit_wait(result, parameters)
+
+    if wait and rate_retries > 0:
+        print(f"[RATE LIMIT] {method}: صبر {wait} ثانیه و تلاش دوباره")
+        time.sleep(wait)
+
+        return multipart_call(
+            method,
+            data,
+            files,
+            retry_migration=retry_migration,
+            rate_retries=rate_retries - 1
         )
 
     raise TelegramAPIError(
@@ -528,10 +645,14 @@ def content_fingerprint(post):
 
     media = media_fingerprint(post)
 
-    raw = text + "||" + media
-
-    if not raw.strip():
-        raw = str(post.get("id", ""))
+    if not text and not media:
+        # پست بدون متن و بدون مدیا (ایموجی، ویس، فایل، ...):
+        # هر پست باید یکتا حساب شود، نه «تکراری» پست‌های خالی دیگر.
+        raw = "post||" + str(
+            post.get("link") or post.get("id", "")
+        )
+    else:
+        raw = text + "||" + media
 
     return hashlib.sha256(
         raw.encode("utf-8", errors="ignore")
@@ -609,27 +730,65 @@ def find_duplicate(post, history):
     return None, None
 
 
-def build_caption(username, text, link, sources=None):
+def tg_len(s):
+    # تلگرام طول را بر اساس UTF-16 می‌شمارد (ایموجی = ۲ واحد)
+    return len(s.encode("utf-16-le")) // 2
+
+
+def truncate_tg(s, limit):
+    if tg_len(s) <= limit:
+        return s
+
+    out = []
+    used = 0
+
+    for ch in s:
+        n = tg_len(ch)
+
+        if used + n > limit:
+            break
+
+        out.append(ch)
+        used += n
+
+    return "".join(out)
+
+
+def build_caption(username, text, link, sources=None, max_len=None):
     sources = sources or []
 
-    caption = (
-        f"📢 @{username}\n\n"
-        f"{text}\n\n"
-        f"🔗 {link}"
-    )
+    header = f"📢 @{username}\n\n"
+    footer = f"\n\n🔗 {link}"
 
     unique_sources = list(
         dict.fromkeys(sources)
     )
 
     if len(unique_sources) > 1:
-        caption += (
+        footer += (
             "\n\n📚 کانال‌های منتشرکننده همین محتوا:\n"
             + "\n".join(
                 f"• @{source}"
                 for source in unique_sources
             )
         )
+
+    text = text or ""
+
+    if max_len is not None:
+        # فقط متن اصلی کوتاه می‌شود تا لینک و فهرست منابع همیشه بمانند.
+        available = max_len - tg_len(header) - tg_len(footer)
+
+        if tg_len(text) > available:
+            if available > 1:
+                text = truncate_tg(text, available - 1).rstrip() + "…"
+            else:
+                text = ""
+
+    caption = header + text + footer
+
+    if max_len is not None:
+        caption = truncate_tg(caption, max_len)
 
     return caption
 
@@ -653,27 +812,34 @@ def add_source_to_original(item, username):
 
     new_sources = list(sources) + [username]
 
+    kind = item.get("message_kind")
+
     caption = build_caption(
         item.get("original_username", ""),
         item.get("original_text", ""),
         item.get("original_link", ""),
-        new_sources
+        new_sources,
+        max_len=(
+            MESSAGE_LIMIT
+            if kind == "text"
+            else CAPTION_LIMIT
+        )
     )
 
     try:
-        if item.get("message_kind") == "text":
+        if kind == "text":
             telegram_call(
                 "editMessageText",
                 destination=True,
                 message_id=message_id,
-                text=caption[:4096]
+                text=caption
             )
         else:
             telegram_call(
                 "editMessageCaption",
                 destination=True,
                 message_id=message_id,
-                caption=caption[:1024]
+                caption=caption
             )
 
         sources.append(username)
@@ -711,10 +877,20 @@ def send_post(post, username):
             "message_kind": None
         }
 
-    caption = build_caption(
+    # کپشن مدیا حداکثر ۱۰۲۴ و پیام متنی حداکثر ۴۰۹۶ کاراکتر است.
+    # build_caption فقط متن را کوتاه می‌کند تا لینک همیشه بماند.
+    text_caption = build_caption(
         username,
         text,
-        link
+        link,
+        max_len=MESSAGE_LIMIT
+    )
+
+    media_caption = build_caption(
+        username,
+        text,
+        link,
+        max_len=CAPTION_LIMIT
     )
 
     photos = post.get("photos", [])
@@ -722,7 +898,7 @@ def send_post(post, username):
 
     if not photos and not video:
         try:
-            result = send_message(caption)
+            result = send_message(text_caption)
 
             return {
                 "success": True,
@@ -743,10 +919,13 @@ def send_post(post, username):
 
         for index, photo_url in enumerate(photos):
             photo_caption = (
-                caption
+                media_caption
                 if index == 0
                 else ""
             )
+
+            if index > 0:
+                time.sleep(SEND_DELAY)
 
             try:
                 result = send_photo(
@@ -825,18 +1004,37 @@ def send_post(post, username):
                     if local_file and os.path.exists(local_file):
                         os.remove(local_file)
 
+        message_kind = "caption"
+
+        if first_result is None:
+            # عکس اول (حامل کپشن) ارسال نشد؛ متن و لینک جداگانه
+            # فرستاده می‌شود تا محتوای پست گم نشود.
+            try:
+                first_result = send_message(text_caption)
+                message_kind = "text"
+
+                print("[OK] متن پست به صورت پیام جداگانه ارسال شد.")
+
+            except Exception as e:
+                print(
+                    f"[ERROR] ارسال متن جایگزین: {e}"
+                )
+
         return {
-            "success": sent_count > 0,
+            "success": (
+                sent_count > 0
+                or first_result is not None
+            ),
             "type": "sent",
             "result": first_result,
-            "message_kind": "caption"
+            "message_kind": message_kind
         }
 
     if video:
         try:
             result = send_video(
                 video,
-                caption
+                media_caption
             )
 
             print("[OK] ویدیو ارسال شد.")
@@ -864,7 +1062,7 @@ def send_post(post, username):
             try:
                 result = send_video_file(
                     local_file,
-                    caption
+                    media_caption
                 )
 
                 print(
@@ -885,7 +1083,7 @@ def send_post(post, username):
 
                 result = send_document_file(
                     local_file,
-                    caption
+                    media_caption
                 )
 
                 print(
@@ -910,10 +1108,13 @@ def send_post(post, username):
 
         try:
             result = send_message(
-                f"🎬 پست جدید از @{username}\n\n"
-                f"{text}\n\n"
-                f"🔗 {link}\n\n"
-                "⚠️ ارسال مستقیم ویدیو ناموفق بود."
+                build_caption(
+                    username,
+                    text,
+                    link,
+                    max_len=MESSAGE_LIMIT - 80
+                )
+                + "\n\n⚠️ ارسال مستقیم ویدیو ناموفق بود."
             )
 
             return {
@@ -1017,6 +1218,13 @@ def handle_updates(channels, channel_keywords, banned_words, state, bot_state):
         )
 
         command = parts[0].lower()
+
+        # پیام‌های عادی (غیر دستور) نادیده گرفته می‌شوند
+        if not command.startswith("/"):
+            continue
+
+        # در گروه‌ها دستور به شکل /list@نام_ربات می‌آید
+        command = command.split("@", 1)[0]
 
         argument = (
             parts[1].strip()
@@ -1370,11 +1578,18 @@ def handle_updates(channels, channel_keywords, banned_words, state, bot_state):
 
 
 def send_message_to_chat(chat_id, text):
-    return telegram_call(
-        "sendMessage",
-        chat_id=chat_id,
-        text=text[:4096]
-    )
+    # خطا در ارسال پاسخ دستور نباید کل اجرا را از کار بیندازد.
+    try:
+        return telegram_call(
+            "sendMessage",
+            chat_id=chat_id,
+            text=text[:4096]
+        )
+    except Exception as e:
+        print(
+            f"[WARN] ارسال پاسخ به chat {chat_id} ناموفق بود: {e}"
+        )
+        return None
 
 
 def normalize_state(raw):
@@ -1424,12 +1639,23 @@ def normalize_state(raw):
             except Exception:
                 sent_count = 0
 
+            failed = {}
+            raw_failed = value.get("failed", {})
+
+            if isinstance(raw_failed, dict):
+                for key, attempts in raw_failed.items():
+                    try:
+                        failed[str(int(key))] = int(attempts)
+                    except Exception:
+                        pass
+
             result_channels[name] = {
                 "last_id": last_id,
                 "processed_ids": processed_ids[
                     -MAX_PROCESSED_IDS:
                 ],
-                "sent_count": sent_count
+                "sent_count": sent_count,
+                "failed": failed
             }
 
         global_data = raw.get(
@@ -1475,7 +1701,8 @@ def normalize_state(raw):
             channels[name] = {
                 "last_id": last_id,
                 "processed_ids": [],
-                "sent_count": 0
+                "sent_count": 0,
+                "failed": {}
             }
 
     return {
@@ -1544,6 +1771,11 @@ def mark_processed(
             -MAX_PROCESSED_IDS:
         ]
     )
+
+    failed = channel_state.get("failed")
+
+    if isinstance(failed, dict):
+        failed.pop(str(post_id), None)
 
 
 def add_history(
@@ -1623,12 +1855,28 @@ def check_channels(channels, channel_keywords, banned_words, state):
             channel_states[username] = {
                 "last_id": 0,
                 "processed_ids": [],
-                "sent_count": 0
+                "sent_count": 0,
+                "failed": {}
             }
 
         channel_state = (
             channel_states[username]
         )
+
+        failed = channel_state.setdefault(
+            "failed",
+            {}
+        )
+
+        if posts:
+            visible_ids = {
+                int(p["id"])
+                for p in posts
+            }
+
+            for failed_id in list(failed):
+                if int(failed_id) not in visible_ids:
+                    failed.pop(failed_id, None)
 
         if int(
             channel_state.get(
@@ -1657,7 +1905,9 @@ def check_channels(channels, channel_keywords, banned_words, state):
                 post["id"]
             )
 
-            if post_id <= int(
+            is_retry = str(post_id) in failed
+
+            if not is_retry and post_id <= int(
                 channel_state.get(
                     "last_id",
                     0
@@ -1807,9 +2057,42 @@ def check_channels(channels, channel_keywords, banned_words, state):
                 f"post={post_id}"
             )
 
-            print(
-                "[STATE] این پست عمداً "
-                "پردازش‌شده ثبت نشد تا اجرای بعدی دوباره تلاش کند."
+            failed = channel_state.setdefault(
+                "failed",
+                {}
+            )
+
+            attempts = int(
+                failed.get(
+                    str(post_id),
+                    0
+                )
+            ) + 1
+
+            if attempts >= MAX_SEND_ATTEMPTS:
+                print(
+                    f"[GIVE UP] @{username} "
+                    f"post={post_id} "
+                    f"بعد از {attempts} تلاش رها شد."
+                )
+
+                mark_processed(
+                    channel_state,
+                    post_id
+                )
+
+            else:
+                failed[str(post_id)] = attempts
+
+                print(
+                    f"[RETRY LATER] @{username} "
+                    f"post={post_id} "
+                    f"attempt={attempts}/{MAX_SEND_ATTEMPTS}"
+                )
+
+            save_json(
+                STATE_FILE,
+                state
             )
 
             continue
@@ -1853,17 +2136,23 @@ def main():
 
     channels = load_json(
         CHANNELS_FILE,
-        []
+        [],
+        list,
+        True
     )
 
     channel_keywords = load_json(
         CHANNEL_KEYWORDS_FILE,
-        {}
+        {},
+        dict,
+        True
     )
 
     banned_words = load_json(
         BANNED_WORDS_FILE,
-        []
+        [],
+        list,
+        True
     )
 
     state = normalize_state(
@@ -1886,12 +2175,30 @@ def main():
             "last_update_id": 0
         }
 
-    CURRENT_CHAT_ID = str(
+    # مقصد ذخیره‌شده (بعد از migration گروه) فقط وقتی معتبر است که
+    # secret به نام CHAT_ID از آخرین اجرا تغییر نکرده باشد؛ وگرنه
+    # مقدار جدید secret اولویت دارد.
+    saved_destination = str(
         bot_state.get(
             "destination_chat_id",
-            ENV_CHAT_ID
+            ""
         )
     ).strip()
+
+    saved_env_chat_id = str(
+        bot_state.get(
+            "env_chat_id",
+            ""
+        )
+    ).strip()
+
+    if (
+        saved_destination
+        and saved_env_chat_id == ENV_CHAT_ID
+    ):
+        CURRENT_CHAT_ID = saved_destination
+    else:
+        CURRENT_CHAT_ID = ENV_CHAT_ID
 
     print("")
     print("=" * 60)
@@ -1910,13 +2217,19 @@ def main():
         )
         return
 
-    channels, channel_keywords, banned_words, bot_state = handle_updates(
-        channels,
-        channel_keywords,
-        banned_words,
-        state,
-        bot_state
-    )
+    try:
+        channels, channel_keywords, banned_words, bot_state = handle_updates(
+            channels,
+            channel_keywords,
+            banned_words,
+            state,
+            bot_state
+        )
+    except Exception as e:
+        import traceback
+
+        print(f"[ERROR] پردازش دستورها: {e}")
+        traceback.print_exc()
 
     state = check_channels(
         channels,
@@ -1928,6 +2241,8 @@ def main():
     bot_state["destination_chat_id"] = (
         CURRENT_CHAT_ID
     )
+
+    bot_state["env_chat_id"] = ENV_CHAT_ID
 
     save_json(
         CHANNELS_FILE,
