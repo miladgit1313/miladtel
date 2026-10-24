@@ -1,11 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 144385,
+      "last_id": 144388,
       "processed_ids": [
-        143105,
-        143106,
-        143107,
         143108,
         143109,
         143110,
@@ -1002,17 +999,17 @@
         144382,
         144383,
         144384,
-        144385
+        144385,
+        144386,
+        144387,
+        144388
       ],
-      "sent_count": 1228,
+      "sent_count": 1230,
       "failed": {}
     },
     "total_fut": {
-      "last_id": 238630,
+      "last_id": 238633,
       "processed_ids": [
-        237423,
-        237424,
-        237425,
         237426,
         237427,
         237428,
@@ -2009,17 +2006,17 @@
         238627,
         238628,
         238629,
-        238630
+        238630,
+        238631,
+        238632,
+        238633
       ],
       "sent_count": 192,
       "failed": {}
     },
     "footballvision2": {
-      "last_id": 172731,
+      "last_id": 172734,
       "processed_ids": [
-        170934,
-        170935,
-        170936,
         170937,
         170938,
         170939,
@@ -3016,7 +3013,10 @@
         172728,
         172729,
         172730,
-        172731
+        172731,
+        172732,
+        172733,
+        172734
       ],
       "sent_count": 198,
       "failed": {}
@@ -3087,7 +3087,7 @@
       "failed": {}
     },
     "fars_today": {
-      "last_id": 132308,
+      "last_id": 132310,
       "processed_ids": [
         131975,
         131976,
@@ -3413,9 +3413,11 @@
         132305,
         132306,
         132307,
-        132308
+        132308,
+        132309,
+        132310
       ],
-      "sent_count": 163,
+      "sent_count": 164,
       "failed": {}
     },
     "behzistikomitenews": {
@@ -3473,9 +3475,8 @@
       "failed": {}
     },
     "drtel": {
-      "last_id": 71751,
+      "last_id": 71752,
       "processed_ids": [
-        66775,
         66776,
         66777,
         66778,
@@ -4474,7 +4475,8 @@
         71746,
         71749,
         71750,
-        71751
+        71751,
+        71752
       ],
       "sent_count": 627,
       "failed": {}
@@ -5979,9 +5981,8 @@
       "failed": {}
     },
     "akhbar_cafenet": {
-      "last_id": 23657,
+      "last_id": 23658,
       "processed_ids": [
-        22548,
         22549,
         22550,
         22551,
@@ -6980,13 +6981,14 @@
         23654,
         23655,
         23656,
-        23657
+        23657,
+        23658
       ],
       "sent_count": 552,
       "failed": {}
     },
     "comentiat": {
-      "last_id": 26725,
+      "last_id": 26728,
       "processed_ids": [
         25844,
         25845,
@@ -7677,9 +7679,12 @@
         26722,
         26723,
         26724,
-        26725
+        26725,
+        26726,
+        26727,
+        26728
       ],
-      "sent_count": 514,
+      "sent_count": 516,
       "failed": {}
     },
     "boost/fndoni": {
@@ -7691,7 +7696,7 @@
       "failed": {}
     },
     "majalepezeshki": {
-      "last_id": 38847,
+      "last_id": 38848,
       "processed_ids": [
         38432,
         38433,
@@ -8098,7 +8103,8 @@
         38844,
         38845,
         38846,
-        38847
+        38847,
+        38848
       ],
       "sent_count": 236,
       "failed": {}
@@ -9310,7 +9316,7 @@
       "failed": {}
     },
     "jaleb": {
-      "last_id": 53185,
+      "last_id": 53189,
       "processed_ids": [
         52261,
         52262,
@@ -10099,9 +10105,13 @@
         53182,
         53183,
         53184,
-        53185
+        53185,
+        53186,
+        53187,
+        53188,
+        53189
       ],
-      "sent_count": 386,
+      "sent_count": 387,
       "failed": {}
     },
     "ajayebe_jahann": {
@@ -11112,7 +11122,7 @@
       "failed": {}
     },
     "etelaate_omoomi": {
-      "last_id": 43140,
+      "last_id": 43144,
       "processed_ids": [
         43093,
         43094,
@@ -11159,9 +11169,13 @@
         43137,
         43138,
         43139,
-        43140
+        43140,
+        43141,
+        43142,
+        43143,
+        43144
       ],
-      "sent_count": 18,
+      "sent_count": 20,
       "failed": {}
     },
     "surina_academy": {
@@ -11324,17 +11338,8 @@
       "failed": {}
     },
     "ft360_ir": {
-      "last_id": 111287,
+      "last_id": 111296,
       "processed_ids": [
-        109732,
-        109733,
-        109734,
-        109735,
-        109736,
-        109737,
-        109738,
-        109739,
-        109740,
         109741,
         109742,
         109743,
@@ -12325,18 +12330,23 @@
         111284,
         111285,
         111286,
-        111287
+        111287,
+        111288,
+        111289,
+        111290,
+        111291,
+        111292,
+        111293,
+        111294,
+        111295,
+        111296
       ],
-      "sent_count": 257,
+      "sent_count": 258,
       "failed": {}
     },
     "varzesh3": {
-      "last_id": 305024,
+      "last_id": 305028,
       "processed_ids": [
-        303625,
-        303626,
-        303627,
-        303628,
         303629,
         303630,
         303631,
@@ -13332,16 +13342,18 @@
         305020,
         305021,
         305022,
-        305024
+        305024,
+        305025,
+        305026,
+        305027,
+        305028
       ],
       "sent_count": 152,
       "failed": {}
     },
     "totalfut_plus": {
-      "last_id": 27099,
+      "last_id": 27101,
       "processed_ids": [
-        26023,
-        26024,
         26025,
         26026,
         26027,
@@ -14339,19 +14351,16 @@
         27096,
         27097,
         27098,
-        27099
+        27099,
+        27100,
+        27101
       ],
       "sent_count": 88,
       "failed": {}
     },
     "adak_ir_official": {
-      "last_id": 236030,
+      "last_id": 236035,
       "processed_ids": [
-        234867,
-        234868,
-        234869,
-        234870,
-        234871,
         234873,
         234874,
         234875,
@@ -15346,16 +15355,19 @@
         236027,
         236028,
         236029,
-        236030
+        236030,
+        236031,
+        236032,
+        236033,
+        236034,
+        236035
       ],
       "sent_count": 301,
       "failed": {}
     },
     "futball180tv": {
-      "last_id": 109574,
+      "last_id": 109576,
       "processed_ids": [
-        108257,
-        108258,
         108259,
         108260,
         108261,
@@ -16353,16 +16365,16 @@
         109571,
         109572,
         109573,
-        109574
+        109574,
+        109575,
+        109576
       ],
-      "sent_count": 165,
+      "sent_count": 166,
       "failed": {}
     },
     "hattric_official": {
-      "last_id": 85648,
+      "last_id": 85650,
       "processed_ids": [
-        84371,
-        84372,
         84373,
         84374,
         84375,
@@ -17360,13 +17372,15 @@
         85644,
         85645,
         85646,
-        85648
+        85648,
+        85649,
+        85650
       ],
       "sent_count": 241,
       "failed": {}
     },
     "mazdak_hattrick": {
-      "last_id": 182781,
+      "last_id": 182782,
       "processed_ids": [
         181991,
         181992,
@@ -18108,7 +18122,8 @@
         182777,
         182778,
         182780,
-        182781
+        182781,
+        182782
       ],
       "sent_count": 74,
       "failed": {}
@@ -18309,7 +18324,7 @@
       "failed": {}
     },
     "irwonders": {
-      "last_id": 59068,
+      "last_id": 59069,
       "processed_ids": [
         58030,
         58031,
@@ -19226,9 +19241,10 @@
         59065,
         59066,
         59067,
-        59068
+        59068,
+        59069
       ],
-      "sent_count": 586,
+      "sent_count": 587,
       "failed": {}
     },
     "razcom": {
@@ -21981,7 +21997,7 @@
       "failed": {}
     },
     "yejoorayi": {
-      "last_id": 642,
+      "last_id": 643,
       "processed_ids": [
         426,
         427,
@@ -22181,9 +22197,10 @@
         639,
         640,
         641,
-        642
+        642,
+        643
       ],
-      "sent_count": 183,
+      "sent_count": 184,
       "failed": {}
     },
     "onlinecofe_ir": {
@@ -22301,7 +22318,7 @@
       "failed": {}
     },
     "shakhmovie": {
-      "last_id": 4259,
+      "last_id": 4264,
       "processed_ids": [
         4017,
         4018,
@@ -22461,13 +22478,14 @@
         4256,
         4257,
         4258,
-        4259
+        4259,
+        4264
       ],
-      "sent_count": 137,
+      "sent_count": 138,
       "failed": {}
     },
     "peach_tweet": {
-      "last_id": 4450,
+      "last_id": 4453,
       "processed_ids": [
         2745,
         2749,
@@ -23110,13 +23128,15 @@
         4446,
         4447,
         4448,
-        4450
+        4450,
+        4451,
+        4453
       ],
-      "sent_count": 343,
+      "sent_count": 344,
       "failed": {}
     },
     "funy_khand": {
-      "last_id": 26167,
+      "last_id": 26169,
       "processed_ids": [
         25704,
         25705,
@@ -23560,13 +23580,15 @@
         26164,
         26165,
         26166,
-        26167
+        26167,
+        26168,
+        26169
       ],
       "sent_count": 0,
       "failed": {}
     },
     "persiana_pluss": {
-      "last_id": 7035,
+      "last_id": 7036,
       "processed_ids": [
         6113,
         6114,
@@ -24307,7 +24329,8 @@
         7032,
         7033,
         7034,
-        7035
+        7035,
+        7036
       ],
       "sent_count": 17,
       "failed": {}
@@ -24740,7 +24763,7 @@
       "failed": {}
     },
     "apkclub": {
-      "last_id": 73213,
+      "last_id": 73215,
       "processed_ids": [
         72962,
         72963,
@@ -24972,13 +24995,15 @@
         73210,
         73211,
         73212,
-        73213
+        73213,
+        73214,
+        73215
       ],
-      "sent_count": 71,
+      "sent_count": 72,
       "failed": {}
     },
     "boob_sfangi": {
-      "last_id": 2829,
+      "last_id": 2830,
       "processed_ids": [
         2587,
         2590,
@@ -25156,13 +25181,14 @@
         2826,
         2827,
         2828,
-        2829
+        2829,
+        2830
       ],
-      "sent_count": 111,
+      "sent_count": 112,
       "failed": {}
     },
     "fucknewsi": {
-      "last_id": 13894,
+      "last_id": 13896,
       "processed_ids": [
         13561,
         13562,
@@ -25370,7 +25396,9 @@
         13891,
         13892,
         13893,
-        13894
+        13894,
+        13895,
+        13896
       ],
       "sent_count": 87,
       "failed": {}
@@ -25394,7 +25422,7 @@
       "failed": {}
     },
     "bimaariha": {
-      "last_id": 19593,
+      "last_id": 19597,
       "processed_ids": [
         19155,
         19156,
@@ -25612,9 +25640,13 @@
         19590,
         19591,
         19592,
-        19593
+        19593,
+        19594,
+        19595,
+        19596,
+        19597
       ],
-      "sent_count": 115,
+      "sent_count": 119,
       "failed": {}
     },
     "https://t.me/+wwztqghfdltimjnk": {
@@ -25650,308 +25682,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "971d86e3987aaa1c75bc1126e3990051c9a5c5798b8e3bf308d0c3f636c1d3a3",
-        "media_fingerprint": "16b5344f51ff53e8935e98ad826b8ff8a1d5244aa63ca02a97c27e35be67188b",
-        "text": "می‌دونستین رنگ ها هم اسم دارن؟\n@Razcom",
-        "original_username": "razcom",
-        "original_text": "می‌دونستین رنگ ها هم اسم دارن؟\n@Razcom",
-        "original_link": "https://t.me/Razcom/70523",
-        "post_id": 70523,
-        "message_id": 13188,
-        "message_kind": "caption",
-        "sources": [
-          "razcom",
-          "midanesti"
-        ],
-        "created_at": "2026-10-24T13:59:32.016299+00:00"
-      },
-      {
-        "fingerprint": "4931ea736a5c66a8ced2c02a0c86e343175052b5266858b49e47f3f6fed41291",
-        "media_fingerprint": "0851c242a9062f3dcf5dd128f32792d6cafef95731d1fb63fa83c0e8e89d9222",
-        "text": "به دکتره میگه یجور تزریق کن وقتی لگ می‌پوشم کسم بزنه بیرون معلوم باشه\nدغدغه تو گاییدم دختر :))))))\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "به دکتره میگه یجور تزریق کن وقتی لگ می‌پوشم کسم بزنه بیرون معلوم باشه\nدغدغه تو گاییدم دختر :))))))\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/4406",
-        "post_id": 4406,
-        "message_id": 13192,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-24T13:59:43.316325+00:00"
-      },
-      {
-        "fingerprint": "ad10d62064327f6e9bea692244ab2a215abba828ef9362f6c3a0f31566c06dba",
-        "media_fingerprint": "",
-        "text": "",
-        "original_username": "techtube",
-        "original_text": "",
-        "original_link": "https://t.me/TechTube/18632",
-        "post_id": 18632,
-        "message_id": 13193,
-        "message_kind": "text",
-        "sources": [
-          "techtube"
-        ],
-        "created_at": "2026-10-24T13:59:46.712155+00:00"
-      },
-      {
-        "fingerprint": "f4207e9c913a2f9b52b177b81b27e4d0be614513d029aa4d1df25bc214d5cb63",
-        "media_fingerprint": "8edb8e0e461f34feb433b9c6811bdbe336f1f432f81fc930260d68efcb6093a2",
-        "text": "گزارش آسیب پوستی پس از استفاده شبانه از ساعت گلکسی واچ ۵ پروی سامسونگ\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "گزارش آسیب پوستی پس از استفاده شبانه از ساعت گلکسی واچ ۵ پروی سامسونگ\n@irWonders",
-        "original_link": "https://t.me/irwonders/59036",
-        "post_id": 59036,
-        "message_id": 13194,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders",
-          "majalepezeshki"
-        ],
-        "created_at": "2026-10-24T13:59:51.477135+00:00"
-      },
-      {
-        "fingerprint": "df204e893c10de3b6ddcbccb95e6cea4dc45d736bf6b523ed8316ba582717d8c",
-        "media_fingerprint": "5d77e66c4339488acbc26092a54c584478a5408ada0c1281d9646ae6d8762d39",
-        "text": "فقط میتونم بگم پشماااااتون بعد دیدن این ویدیو لیزر میشه\n😐\n😐\n😐\n😐\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "فقط میتونم بگم پشماااااتون بعد دیدن این ویدیو لیزر میشه\n😐\n😐\n😐\n😐\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/4412",
-        "post_id": 4412,
-        "message_id": 13195,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-24T13:59:58.993818+00:00"
-      },
-      {
-        "fingerprint": "952e54fe249df3b558fabf76f648814713f40c3a56ecb58e019b47a571ba16b4",
-        "media_fingerprint": "8a70f8405ef1fe0fdc99d1b0ac99f532a730c4a0495c57ae5e1a916d0efa3cf7",
-        "text": "دخترا تو د‌وران پریودی همینقدر حساسن؛ تو دوربین به خودش میگه بالای چشمت ابروئه بعد گریش میگیره.\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "دخترا تو د‌وران پریودی همینقدر حساسن؛ تو دوربین به خودش میگه بالای چشمت ابروئه بعد گریش میگیره.\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/4416",
-        "post_id": 4416,
-        "message_id": 13196,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-24T14:00:05.692835+00:00"
-      },
-      {
-        "fingerprint": "f7b69f5fca60a8b14b1c5e10595cfa15739cad6bc74fd82524fdbcbceaffa976",
-        "media_fingerprint": "a906207aad4c3e0bbe45c9e5d78776b2e7b0f09ca526520f484574c2ef6c676c",
-        "text": "چی بگم والا؛ یارو اومده میگه امشب با دوستامون میخوایم بریم مهمونی حسابی برام تنگش کن میخوایم فقط حال کنیم :)))\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "چی بگم والا؛ یارو اومده میگه امشب با دوستامون میخوایم بریم مهمونی حسابی برام تنگش کن میخوایم فقط حال کنیم :)))\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/4421",
-        "post_id": 4421,
-        "message_id": 13197,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-24T14:00:13.563669+00:00"
-      },
-      {
-        "fingerprint": "432b40d5b2ee3cb913a8402754bd4842b2124395a12c1ed6f31256905ea30b39",
-        "media_fingerprint": "",
-        "text": "قیمت بسته ها یه جوری بالا رفته که الان احتیاج به این طرح دارم :\nهزینه اینترنت این ماه رو توی ۴ قسط پرداخت کن\n@RoidBest",
-        "original_username": "roidbest",
-        "original_text": "قیمت بسته ها یه جوری بالا رفته که الان احتیاج به این طرح دارم :\nهزینه اینترنت این ماه رو توی ۴ قسط پرداخت کن\n@RoidBest",
-        "original_link": "https://t.me/RoidBest/21959",
-        "post_id": 21959,
-        "message_id": 13198,
-        "message_kind": "text",
-        "sources": [
-          "roidbest"
-        ],
-        "created_at": "2026-10-24T14:00:16.994163+00:00"
-      },
-      {
-        "fingerprint": "a4c03469e1e3be50e41bd73ff5b7eef6f66f66d24f3dfabcc67428dd54ea2f1d",
-        "media_fingerprint": "f3562df94cdaed2cdb6ad69d56f03d61c04209e219f278e4c14f7c15e14e81e3",
-        "text": "تصویری بسیار جالب از مرز ایران و عراق و دو روستای \"هانه گرمله\" در کردستان ایران و \"بیاره\" در کردستان عراق\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "تصویری بسیار جالب از مرز ایران و عراق و دو روستای \"هانه گرمله\" در کردستان ایران و \"بیاره\" در کردستان عراق\n@irWonders",
-        "original_link": "https://t.me/irwonders/59037",
-        "post_id": 59037,
-        "message_id": 13199,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-24T14:00:21.832373+00:00"
-      },
-      {
-        "fingerprint": "d1407d610fe103ea204032716dedbb0fc0c3d7c27a705fbfa35c1273fe8d7316",
-        "media_fingerprint": "145722a59bdf76e8cf14176a0f65750c5a9320def9298d557ca2434c8df91355",
-        "text": "🔴\nصداوسیما :\nیه پهپاد درست کردیم که سه برابر شاهد 136 سرعت داره و شکل ظاهریش شبیه دلفین هست.\nبزودی ازین پهپاد رونمایی میکنیم تا پشمای آمریکا و اسرائیل فر بخوره :)\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "🔴\nصداوسیما :\nیه پهپاد درست کردیم که سه برابر شاهد 136 سرعت داره و شکل ظاهریش شبیه دلفین هست.\nبزودی ازین پهپاد رونمایی میکنیم تا پشمای آمریکا و اسرائیل فر بخوره :)\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/53161",
-        "post_id": 53161,
-        "message_id": 13200,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-24T14:00:26.488289+00:00"
-      },
-      {
-        "fingerprint": "50a144d43fef80248fee47a36da3fe9b54b5a621b9c23dd026899f715f38dbd9",
-        "media_fingerprint": "e42e768ce93580f5016bb200a2557d2035ca6f5e1ae7b3b78367b6d560cb49eb",
-        "text": "قیمت جدید اعضای بدن\nمنبع: ادمین های اینستاگرام\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "قیمت جدید اعضای بدن\nمنبع: ادمین های اینستاگرام\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/53163",
-        "post_id": 53163,
-        "message_id": 13201,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-24T14:00:31.284019+00:00"
-      },
-      {
-        "fingerprint": "71fc8b3f3b1741f99a6a7b38b34d577ee7ef66264897aed27e7ee28fef9152af",
-        "media_fingerprint": "107544d0ab2f8e0b1c3c34d2d4da77fa2600a2bbe6bb54dd4a1775438e619eb5",
-        "text": "در میان اسامی، دنبال اسم خودم گشتم =)))\n> غزاله\n@Comentiat",
-        "original_username": "comentiat",
-        "original_text": "در میان اسامی، دنبال اسم خودم گشتم =)))\n> غزاله\n@Comentiat",
-        "original_link": "https://t.me/Comentiat/26710",
-        "post_id": 26710,
-        "message_id": 13202,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-24T14:00:35.613149+00:00"
-      },
-      {
-        "fingerprint": "aaad7639065e9426c7054cfffa237bbb3a494f4d77399a8e8b1902c351a5bb9d",
-        "media_fingerprint": "",
-        "text": "زمان میگیره یکی یکی قهرمان هاتو.....\n🆔\n@YeJoorayi",
-        "original_username": "yejoorayi",
-        "original_text": "زمان میگیره یکی یکی قهرمان هاتو.....\n🆔\n@YeJoorayi",
-        "original_link": "https://t.me/YeJoorayi/636",
-        "post_id": 636,
-        "message_id": 13203,
-        "message_kind": "text",
-        "sources": [
-          "yejoorayi"
-        ],
-        "created_at": "2026-10-24T14:00:42.016610+00:00"
-      },
-      {
-        "fingerprint": "af42cd90f825eb94e3efa65cbffb10a38d2760c8fbe951401cc5d47da2080cb3",
-        "media_fingerprint": "dce3cdaf2615276ff9675984daffbf6f91d4a14e12416bd9e47cfc8da24c7cdd",
-        "text": "🔴\nدقایقی پیش صدای یه انفجار سنگین از کرج شنیده شد که گویا یه تانکر حمل سوخت آتیش گرفته و منفجر شده :  @DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nدقایقی پیش صدای یه انفجار سنگین از کرج شنیده شد که گویا یه تانکر حمل سوخت آتیش گرفته و منفجر شده :  @DrTeL",
-        "original_link": "https://t.me/drtel/71711",
-        "post_id": 71711,
-        "message_id": 13204,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-24T14:00:47.012798+00:00"
-      },
-      {
-        "fingerprint": "0320fdf5ddd7c2f75e24fcd8aea2c07961893d4bca0960b0e222153f6713de63",
-        "media_fingerprint": "251bc0b129fd5da56bcac7a2ce6fe108f2ae30ea350fa665955991908d60b99b",
-        "text": "🔴\nخبرنگار اعزامی دکترتل به محل حادثه:  تانکر حمل سوخت نبوده  یه کامیون با بار میلگرد بوده، سوخت داخل باکش ترکیده آتیش گرفته... ابعاد حادثه همچنان در دست بررسیه.  @DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nخبرنگار اعزامی دکترتل به محل حادثه:  تانکر حمل سوخت نبوده  یه کامیون با بار میلگرد بوده، سوخت داخل باکش ترکیده آتیش گرفته... ابعاد حادثه همچنان در دست بررسیه.  @DrTeL",
-        "original_link": "https://t.me/drtel/71713",
-        "post_id": 71713,
-        "message_id": 13205,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-24T14:00:56.360976+00:00"
-      },
-      {
-        "fingerprint": "17a1ff94e4f29fdfe75ae2b62ea537007db232ffd26127e3442e25a32ef20962",
-        "media_fingerprint": "9e47543930bc69a4205242d0cce84e583c654c539b5417cd6a2da2529042c5f4",
-        "text": "آرزوی پسرا در یک قاب:)))\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "آرزوی پسرا در یک قاب:)))\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/4429",
-        "post_id": 4429,
-        "message_id": 13207,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-24T14:01:03.037241+00:00"
-      },
-      {
-        "fingerprint": "a12ae1246de839c76cc1ad50b1f65336ac6f00d02d05aae161058032be4f2c29",
-        "media_fingerprint": "c47cdb4c7027a447a710fa9fc4bd0439224d50454133e348f97846ee568ff1a5",
-        "text": "این چی بود من دیدم\n@FuckNewsi",
-        "original_username": "fucknewsi",
-        "original_text": "این چی بود من دیدم\n@FuckNewsi",
-        "original_link": "https://t.me/FuckNewsi/13867",
-        "post_id": 13867,
-        "message_id": 13208,
-        "message_kind": "caption",
-        "sources": [
-          "fucknewsi"
-        ],
-        "created_at": "2026-10-24T14:01:07.518824+00:00"
-      },
-      {
-        "fingerprint": "08701c29b9ec94484a2cb77d37402bc087c46aa3de70dc22e5eabca8e1894c35",
-        "media_fingerprint": "",
-        "text": "چرا نیرو هاش رو از ایران خارج نمیکنه؟",
-        "original_username": "drtel",
-        "original_text": "چرا نیرو هاش رو از ایران خارج نمیکنه؟",
-        "original_link": "https://t.me/drtel/71716",
-        "post_id": 71716,
-        "message_id": 13209,
-        "message_kind": "text",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-24T14:01:10.971110+00:00"
-      },
-      {
-        "fingerprint": "19e7cd060a14768975bcb760a2ff384d6c0064eab3096d31be7a30afb5273a29",
-        "media_fingerprint": "",
-        "text": "لوکیشن کلنگو واسم بفرستید",
-        "original_username": "drtel",
-        "original_text": "لوکیشن کلنگو واسم بفرستید",
-        "original_link": "https://t.me/drtel/71718",
-        "post_id": 71718,
-        "message_id": 13210,
-        "message_kind": "text",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-24T14:01:14.495594+00:00"
-      },
-      {
-        "fingerprint": "5ac0ad07710bf35c05b9d0866f9c046aec0167e038027585996a1784beb5c6ea",
-        "media_fingerprint": "",
-        "text": "",
-        "original_username": "drtel",
-        "original_text": "",
-        "original_link": "https://t.me/drtel/71719",
-        "post_id": 71719,
-        "message_id": 13211,
-        "message_kind": "text",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-24T14:01:18.045373+00:00"
-      },
       {
         "fingerprint": "1f171c47c2f3454984bc0aa30902f9199fcff88c19af96834c46cd6de6fc2a3d",
         "media_fingerprint": "5f1b92a9f11db711a87ab81f65b85efa116ec9d9c72abd59323d66e9bac090cc",
@@ -29520,7 +29250,8 @@
         "message_id": 13462,
         "message_kind": "caption",
         "sources": [
-          "dashagh"
+          "dashagh",
+          "peach_tweet"
         ],
         "created_at": "2026-10-24T16:35:34.115696+00:00"
       },
@@ -29820,7 +29551,8 @@
         "message_id": 13486,
         "message_kind": "caption",
         "sources": [
-          "gizmiztel"
+          "gizmiztel",
+          "jaleb"
         ],
         "created_at": "2026-10-24T17:29:25.417616+00:00"
       },
@@ -30168,6 +29900,307 @@
           "ghandeharipoet"
         ],
         "created_at": "2026-10-24T18:12:31.968936+00:00"
+      },
+      {
+        "fingerprint": "abc062f562ca65e0c74a498f3e5930d95628eea905a542ef7f7e97b0eed0696d",
+        "media_fingerprint": "eca5672b84c1abc4f7a73e1fcf8b2bcd245fbe1babfcb1b95fa9be6c804d9ffc",
+        "text": "وقتی می‌گن کچلا شانس دارن، می‌گین نه؛\nسال 2009 یه سری عکس از آنا د آرماس که اون موقع فقط 21 سالش بود، کنار یه مرد خیلی بزرگ‌تر از خودش توی جزیره ایبیزای اسپانیا منتشر شد که حسابی سر و صدا کرد!\nجالب اینجاست که هویت مردی که توی این عکسا کنار آنا د آرماس بود، هیچ‌وقت به‌صورت رسمی مشخص نشد.\n📷\n|\n@ShakhMovie",
+        "original_username": "shakhmovie",
+        "original_text": "وقتی می‌گن کچلا شانس دارن، می‌گین نه؛\nسال 2009 یه سری عکس از آنا د آرماس که اون موقع فقط 21 سالش بود، کنار یه مرد خیلی بزرگ‌تر از خودش توی جزیره ایبیزای اسپانیا منتشر شد که حسابی سر و صدا کرد!\nجالب اینجاست که هویت مردی که توی این عکسا کنار آنا د آرماس بود، هیچ‌وقت به‌صورت رسمی مشخص نشد.\n📷\n|\n@ShakhMovie",
+        "original_link": "https://t.me/Shakhmovie/4264",
+        "post_id": 4264,
+        "message_id": 13516,
+        "message_kind": "caption",
+        "sources": [
+          "shakhmovie"
+        ],
+        "created_at": "2026-10-24T18:50:12.096134+00:00"
+      },
+      {
+        "fingerprint": "caa9c6242d13f0b39b80248d114cd7ae77f870cc5a6941b3bcb56167d17f8550",
+        "media_fingerprint": "0a8970a1a88e999f1278e238840b6b90dab3a49741d71fc1fd6501a7937333b5",
+        "text": "🇪🇸\n🆚\n🇪🇸\nتماشای الکلاسیکوی جذاب با گزارش محمدرضا احمدی از آنتن\n💥\nبارسلونا - رئال مادرید\n⏰\nیکشنبه - ساعت ۲۳:۳۰\n🎙\nبا گزارش محمدرضا احمدی\n🔗\nلینک تماشای بازی در آنتن\n📡\n@anten",
+        "original_username": "etelaate_omoomi",
+        "original_text": "🇪🇸\n🆚\n🇪🇸\nتماشای الکلاسیکوی جذاب با گزارش محمدرضا احمدی از آنتن\n💥\nبارسلونا - رئال مادرید\n⏰\nیکشنبه - ساعت ۲۳:۳۰\n🎙\nبا گزارش محمدرضا احمدی\n🔗\nلینک تماشای بازی در آنتن\n📡\n@anten",
+        "original_link": "https://t.me/etelaate_omoomi/43142",
+        "post_id": 43142,
+        "message_id": 13518,
+        "message_kind": "caption",
+        "sources": [
+          "etelaate_omoomi",
+          "jaleb"
+        ],
+        "created_at": "2026-10-24T18:50:17.055941+00:00"
+      },
+      {
+        "fingerprint": "c42e8c1cd122b98093b01b8769dfec3dce6ddf6205344ac353d2b35018faabde",
+        "media_fingerprint": "b9f0da90ddd772565a3125ffeef89f145e16a48ae21dbd76228219f22ec2a38e",
+        "text": "چه زمانی سرماخوردگی خطرناک می‌شود؟\nبیشتر سرماخوردگی‌ها تا ۷–۱۰ روز خوب می‌شوند، اما این علائم می‌توانند هشدار جدی باشند:\n- تب بالا یا بیش از ۴ روز\n- بدتر شدن علائم بعد از بهبود\n- درد شدید صورت و سینوس‌ها با ترشحات غلیظ زرد یا سبز\n- درد یا فشار در قفسه سینه\n- تنگی نفس یا نفس‌نفس زدن\n- درد شدید گوش یا ترشح از گوش\n- سردرد شدید و مداوم\n- درد شدید هنگام بلع و لکه سفید در گلو\nعوارض احتمالی:\nسینوزیت، عفونت گوش، برونشیت، ذات‌الریه، گلودرد چرکی، تشدید آسم و بیماری قلبی\nفورا به اورژانس مراجعه کنید اگر:\nسرفه خونی، گیجی، درد شدید قفسه سینه یا کبودی لب و انگشتان دارید.\nبرای پیشگیری از عوارض:\nاستراحت، مصرف مایعات، پیگیری علائم، شست‌وشوی دست‌ها و تقویت سیستم ایمنی را جدی بگیرید.\n@etelaate_omoomi",
+        "original_username": "etelaate_omoomi",
+        "original_text": "چه زمانی سرماخوردگی خطرناک می‌شود؟\nبیشتر سرماخوردگی‌ها تا ۷–۱۰ روز خوب می‌شوند، اما این علائم می‌توانند هشدار جدی باشند:\n- تب بالا یا بیش از ۴ روز\n- بدتر شدن علائم بعد از بهبود\n- درد شدید صورت و سینوس‌ها با ترشحات غلیظ زرد یا سبز\n- درد یا فشار در قفسه سینه\n- تنگی نفس یا نفس‌نفس زدن\n- درد شدید گوش یا ترشح از گوش\n- سردرد شدید و مداوم\n- درد شدید هنگام بلع و لکه سفید در گلو\nعوارض احتمالی:\nسینوزیت، عفونت گوش، برونشیت، ذات‌الریه، گلودرد چرکی، تشدید آسم و بیماری قلبی\nفورا به اورژانس مراجعه کنید اگر:\nسرفه خونی، گیجی، درد شدید قفسه سینه یا کبودی لب و انگشتان دارید.\nبرای پیشگیری از عوارض:\nاستراحت، مصرف مایعات، پیگیری علائم، شست‌وشوی دست‌ها و تقویت سیستم ایمنی را جدی بگیرید.\n@etelaate_omoomi",
+        "original_link": "https://t.me/etelaate_omoomi/43144",
+        "post_id": 43144,
+        "message_id": 13519,
+        "message_kind": "caption",
+        "sources": [
+          "etelaate_omoomi"
+        ],
+        "created_at": "2026-10-24T18:50:22.170718+00:00"
+      },
+      {
+        "fingerprint": "3eb64a37031c25049fb41cf049c35c840082ba6f2d5c560e2311a7df6483663f",
+        "media_fingerprint": "a098081206c85d367b560cdd1191de48673fec687c446a280d5ad33a238873bc",
+        "text": "♦️\nواکنش جالب سرمربی فجر به سرباز شدن علیرضا بیرانوند\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nواکنش جالب سرمربی فجر به سرباز شدن علیرضا بیرانوند\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144386",
+        "post_id": 144386,
+        "message_id": 13520,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-24T18:50:29.448354+00:00"
+      },
+      {
+        "fingerprint": "88ccddaa0b1babf47f45e28999ef31b42de6bb44789ec884f9cd78a7c5b3d97a",
+        "media_fingerprint": "6abb0a3e4bf4701347bf4eac02f930076a30ee105152c40deca655b6a7a8d9b1",
+        "text": "🔴\nاین عروس و دوماد کره‌ای تو شب عروسیشون، عروس اومد لباس دوماد رو پوشید و دوماد هم لباس عروس رو ؛\nکه در نهایت این شاهکار رو رقم زدن :\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "🔴\nاین عروس و دوماد کره‌ای تو شب عروسیشون، عروس اومد لباس دوماد رو پوشید و دوماد هم لباس عروس رو ؛\nکه در نهایت این شاهکار رو رقم زدن :\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/53187",
+        "post_id": 53187,
+        "message_id": 13521,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-24T18:50:37.028746+00:00"
+      },
+      {
+        "fingerprint": "f7c91d26ee51407b1313f434e26fede0ad3a9255fb144866e3c08ba899fa8ce3",
+        "media_fingerprint": "",
+        "text": "⭕️\nکمبود این ویتامین ها باعث کاهش توان جنسی میشه\nمشاهده\n➡️",
+        "original_username": "bimaariha",
+        "original_text": "⭕️\nکمبود این ویتامین ها باعث کاهش توان جنسی میشه\nمشاهده\n➡️",
+        "original_link": "https://t.me/Bimaariha/19594",
+        "post_id": 19594,
+        "message_id": 13522,
+        "message_kind": "text",
+        "sources": [
+          "bimaariha"
+        ],
+        "created_at": "2026-10-24T18:50:40.483661+00:00"
+      },
+      {
+        "fingerprint": "db785662bbc725a9f5afc18d322add615561ecdc9905c72424ece3059d40a72e",
+        "media_fingerprint": "07143dd8eb7e954afc6baabe728b8ce370c4a67bd85938d84e264e7addd056a0",
+        "text": "شرمنده این چنل کلا سکسه\n🍑\n🔞\nhttps://t.me/+K0LL4OGesoY2ZWY0",
+        "original_username": "peach_tweet",
+        "original_text": "شرمنده این چنل کلا سکسه\n🍑\n🔞\nhttps://t.me/+K0LL4OGesoY2ZWY0",
+        "original_link": "https://t.me/peach_tweet/4451",
+        "post_id": 4451,
+        "message_id": 13523,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-24T18:50:45.116517+00:00"
+      },
+      {
+        "fingerprint": "f83d257abf0380bbee0303e77dc4e6efeee67551965a50c42b45b848a69f2a6e",
+        "media_fingerprint": "",
+        "text": "",
+        "original_username": "apkclub",
+        "original_text": "",
+        "original_link": "https://t.me/apkclub/73214",
+        "post_id": 73214,
+        "message_id": 13524,
+        "message_kind": "text",
+        "sources": [
+          "apkclub"
+        ],
+        "created_at": "2026-10-24T18:50:48.488237+00:00"
+      },
+      {
+        "fingerprint": "ae6e2dd3e4709688f009bbaf15ea1b4f29beeb50b9a348951149e9a3a1b75e0d",
+        "media_fingerprint": "4070c54cb19b95a1e120a6fdd64844e673f6f48406cec926a04b0651ab8188ae",
+        "text": "لیست کشورهایی که زیباترین زنای جهان رو تو سال 2026 دارن منتشر شد که زنان روسیه اول شدن و ایران اصلا تو لیست نیست\n😳\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
+        "original_username": "boob_sfangi",
+        "original_text": "لیست کشورهایی که زیباترین زنای جهان رو تو سال 2026 دارن منتشر شد که زنان روسیه اول شدن و ایران اصلا تو لیست نیست\n😳\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
+        "original_link": "https://t.me/boob_sfangi/2830",
+        "post_id": 2830,
+        "message_id": 13525,
+        "message_kind": "caption",
+        "sources": [
+          "boob_sfangi"
+        ],
+        "created_at": "2026-10-24T18:50:53.448667+00:00"
+      },
+      {
+        "fingerprint": "3bb9314b4c6a2debd5731e1e82954911efbfe989bbe6623ed0f2ec6a8ed682a6",
+        "media_fingerprint": "92741717d85b2a15c200b637f1f2159152a395c784badc84bd25189ddafa6e97",
+        "text": "بهم اعتماد کن فقط بزن پلی بشه\n🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "بهم اعتماد کن فقط بزن پلی بشه\n🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/643",
+        "post_id": 643,
+        "message_id": 13526,
+        "message_kind": "caption",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-24T18:51:04.963664+00:00"
+      },
+      {
+        "fingerprint": "10722be189d89ab1991787a4a7a6a9d5258d9bfd63c81c30e4418f5f5d277936",
+        "media_fingerprint": "",
+        "text": "پایان شلی تناسلی مردان فقط با یک ویتامین",
+        "original_username": "bimaariha",
+        "original_text": "پایان شلی تناسلی مردان فقط با یک ویتامین",
+        "original_link": "https://t.me/Bimaariha/19595",
+        "post_id": 19595,
+        "message_id": 13527,
+        "message_kind": "text",
+        "sources": [
+          "bimaariha"
+        ],
+        "created_at": "2026-10-24T18:51:09.108111+00:00"
+      },
+      {
+        "fingerprint": "c1930bf1f059541680d80df6a0895eb0e7ca6c9f7da3b7eb119880a8747a1856",
+        "media_fingerprint": "7816e1d0cfe1612744d6a0bbf229225e616cebd1d3f0f342d5b68aba972a4106",
+        "text": "بچه شیری که تازه از ضیافت شکار برگشته.\n🍖\nعکاس:  یوهان بوتا.\nمکان: پارک کگالاگادی مرز بین آفریقای جنوبی و بوتسوانا\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "بچه شیری که تازه از ضیافت شکار برگشته.\n🍖\nعکاس:  یوهان بوتا.\nمکان: پارک کگالاگادی مرز بین آفریقای جنوبی و بوتسوانا\n@irWonders",
+        "original_link": "https://t.me/irwonders/59069",
+        "post_id": 59069,
+        "message_id": 13528,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-24T18:51:13.575115+00:00"
+      },
+      {
+        "fingerprint": "bd9a90d38adcb3fa6d200cbf90f5d2fca6eda7708cf0c32d889d230e716f5215",
+        "media_fingerprint": "fc7a0cf539fd37f5b6c1435c699c5309ae13ccefeed69e2f77e713f9aba048b3",
+        "text": "⚽️\n🏴󠁧󠁢󠁥󠁮󠁧󠁿\n🏴󠁧󠁢󠁥󠁮󠁧󠁿\nلیگ برتر انگلیس؛ دربی لندن را دی‌زربی از ژابی برد؛ دومین برد متوالی تاتنهام در لیگ برای فرار از بحران\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "⚽️\n🏴󠁧󠁢󠁥󠁮󠁧󠁿\n🏴󠁧󠁢󠁥󠁮󠁧󠁿\nلیگ برتر انگلیس؛ دربی لندن را دی‌زربی از ژابی برد؛ دومین برد متوالی تاتنهام در لیگ برای فرار از بحران\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/109576",
+        "post_id": 109576,
+        "message_id": 13529,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-24T18:51:18.315694+00:00"
+      },
+      {
+        "fingerprint": "da24676833965d0a1965ab43326c2004f9ba5143e3e222470af953406ae0b244",
+        "media_fingerprint": "045a6b32b0faef8a84a8460da23d5d5e911e7facfe4a717bbacef0edafc2b5c1",
+        "text": "آلت تناسلیت خوابیده....\nفقط با یک \"ویتامین\" ساده بیدارش کن\nمشاهده\n➡️",
+        "original_username": "bimaariha",
+        "original_text": "آلت تناسلیت خوابیده....\nفقط با یک \"ویتامین\" ساده بیدارش کن\nمشاهده\n➡️",
+        "original_link": "https://t.me/Bimaariha/19596",
+        "post_id": 19596,
+        "message_id": 13530,
+        "message_kind": "caption",
+        "sources": [
+          "bimaariha"
+        ],
+        "created_at": "2026-10-24T18:51:23.478292+00:00"
+      },
+      {
+        "fingerprint": "96ee3bd27022c6ac5fa6b5956a0a89fbb84920594ab22473a22066f07e127340",
+        "media_fingerprint": "253f114c9436a41202ade482006c80afb45389bf854e0df418546edd381630df",
+        "text": "تصاویری زیبا از مسجد وکیل_ شیراز\nعکاس : بهار زمانی فرد",
+        "original_username": "fars_today",
+        "original_text": "تصاویری زیبا از مسجد وکیل_ شیراز\nعکاس : بهار زمانی فرد",
+        "original_link": "https://t.me/Fars_today/132310",
+        "post_id": 132310,
+        "message_id": 13531,
+        "message_kind": "caption",
+        "sources": [
+          "fars_today"
+        ],
+        "created_at": "2026-10-24T18:52:04.802932+00:00"
+      },
+      {
+        "fingerprint": "39b25a2752330c9e80930f90e87bac936c86fb87abdf432c7dc65cb9208bd6f7",
+        "media_fingerprint": "28cf5f5874dfe4c1ae5ff1324d49371f8c3075b94c148bc546caf0410919a76b",
+        "text": "نی‌نی‌سایت >>> داستان‌های اساطیر یونان\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "نی‌نی‌سایت >>> داستان‌های اساطیر یونان\n@comentiat",
+        "original_link": "https://t.me/Comentiat/26727",
+        "post_id": 26727,
+        "message_id": 13536,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-24T18:52:09.638385+00:00"
+      },
+      {
+        "fingerprint": "781a16e51d042dc913bb9c6acfc859b7cc1586ffa4f8a323369a11ac75f1fe41",
+        "media_fingerprint": "",
+        "text": "بلند کردن آلت-تناسلی فقط با یک ویتامین\n...",
+        "original_username": "bimaariha",
+        "original_text": "بلند کردن آلت-تناسلی فقط با یک ویتامین\n...",
+        "original_link": "https://t.me/Bimaariha/19597",
+        "post_id": 19597,
+        "message_id": 13537,
+        "message_kind": "text",
+        "sources": [
+          "bimaariha"
+        ],
+        "created_at": "2026-10-24T18:52:13.093366+00:00"
+      },
+      {
+        "fingerprint": "0f66fbbc309951b09cb1ed975a1088482c32806550ae9c840fd271ef9c6b7ac4",
+        "media_fingerprint": "912418b032a6e8b59c6d9f9e65f849584b9b95d3fb2b2f9cd97f6846bf74de60",
+        "text": "وقتی هر جا میری، احساس میکنی غریبه‌ای.\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "وقتی هر جا میری، احساس میکنی غریبه‌ای.\n@comentiat",
+        "original_link": "https://t.me/Comentiat/26728",
+        "post_id": 26728,
+        "message_id": 13538,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-24T18:52:19.670151+00:00"
+      },
+      {
+        "fingerprint": "072c6eee3b4853c78237cb231e7bbb502fc6018b135ebc420650e123826d4c05",
+        "media_fingerprint": "3c3ac2576eb4e112708e4d22459789928a7b945970520b4beea1b0485048b373",
+        "text": "سانچز رفت، پندرز یادش را زنده کرد!\n❌\nنبود دیبو، آقای خونسرد را هم به مرز جنون رساند؛ بهت در بریج، برد باورنکردنی تاتنهام مقابل چلسی، مشت عجیب پندرز و اخراج پالمر\n🔸\nلیگ برتر انگلیس - هفته ۸\n🔸\nاولین برد تاتنهام در استمفوردبریج بعد از ۸ سال؛ خبر بد برای همه…",
+        "original_username": "ft360_ir",
+        "original_text": "سانچز رفت، پندرز یادش را زنده کرد!\n❌\nنبود دیبو، آقای خونسرد را هم به مرز جنون رساند؛ بهت در بریج، برد باورنکردنی تاتنهام مقابل چلسی، مشت عجیب پندرز و اخراج پالمر\n🔸\nلیگ برتر انگلیس - هفته ۸\n🔸\nاولین برد تاتنهام در استمفوردبریج بعد از ۸ سال؛ خبر بد برای همه…",
+        "original_link": "https://t.me/ft360_ir/111295",
+        "post_id": 111295,
+        "message_id": 13539,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-24T18:52:24.373322+00:00"
+      },
+      {
+        "fingerprint": "2ad8549f69336afe29a568b9833636efd01282a5d60832f24e3e739dd72a2ee5",
+        "media_fingerprint": "cc76ff242d864a00962c4827b03de736238b63f141708592fd0ed4ce0ddc6901",
+        "text": "♦️\nزنان روستایی در تخت جمشید، سال ۱۳۳۸ خورشیدی\n#شیراز_قدیم\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nزنان روستایی در تخت جمشید، سال ۱۳۳۸ خورشیدی\n#شیراز_قدیم\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144388",
+        "post_id": 144388,
+        "message_id": 13540,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-24T18:52:29.211598+00:00"
       }
     ]
   }
