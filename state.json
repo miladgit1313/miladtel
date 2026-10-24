@@ -1,12 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 144388,
+      "last_id": 144392,
       "processed_ids": [
-        143108,
-        143109,
-        143110,
-        143111,
         143112,
         143113,
         143114,
@@ -1002,17 +998,18 @@
         144385,
         144386,
         144387,
-        144388
+        144388,
+        144389,
+        144390,
+        144391,
+        144392
       ],
-      "sent_count": 1230,
+      "sent_count": 1232,
       "failed": {}
     },
     "total_fut": {
-      "last_id": 238633,
+      "last_id": 238636,
       "processed_ids": [
-        237426,
-        237427,
-        237428,
         237429,
         237430,
         237431,
@@ -2009,7 +2006,10 @@
         238630,
         238631,
         238632,
-        238633
+        238633,
+        238634,
+        238635,
+        238636
       ],
       "sent_count": 192,
       "failed": {}
@@ -3087,7 +3087,7 @@
       "failed": {}
     },
     "fars_today": {
-      "last_id": 132310,
+      "last_id": 132315,
       "processed_ids": [
         131975,
         131976,
@@ -3415,9 +3415,10 @@
         132307,
         132308,
         132309,
-        132310
+        132310,
+        132315
       ],
-      "sent_count": 164,
+      "sent_count": 165,
       "failed": {}
     },
     "behzistikomitenews": {
@@ -3475,9 +3476,8 @@
       "failed": {}
     },
     "drtel": {
-      "last_id": 71752,
+      "last_id": 71753,
       "processed_ids": [
-        66776,
         66777,
         66778,
         66779,
@@ -4476,7 +4476,8 @@
         71749,
         71750,
         71751,
-        71752
+        71752,
+        71753
       ],
       "sent_count": 627,
       "failed": {}
@@ -5981,9 +5982,8 @@
       "failed": {}
     },
     "akhbar_cafenet": {
-      "last_id": 23658,
+      "last_id": 23660,
       "processed_ids": [
-        22549,
         22550,
         22551,
         22552,
@@ -6982,13 +6982,14 @@
         23655,
         23656,
         23657,
-        23658
+        23658,
+        23660
       ],
-      "sent_count": 552,
+      "sent_count": 553,
       "failed": {}
     },
     "comentiat": {
-      "last_id": 26728,
+      "last_id": 26730,
       "processed_ids": [
         25844,
         25845,
@@ -7682,9 +7683,11 @@
         26725,
         26726,
         26727,
-        26728
+        26728,
+        26729,
+        26730
       ],
-      "sent_count": 516,
+      "sent_count": 517,
       "failed": {}
     },
     "boost/fndoni": {
@@ -8110,14 +8113,8 @@
       "failed": {}
     },
     "gizmiztel": {
-      "last_id": 163838,
+      "last_id": 163844,
       "processed_ids": [
-        162592,
-        162593,
-        162596,
-        162599,
-        162600,
-        162601,
         162602,
         162603,
         162604,
@@ -9111,13 +9108,19 @@
         163834,
         163836,
         163837,
-        163838
+        163838,
+        163839,
+        163840,
+        163841,
+        163842,
+        163843,
+        163844
       ],
-      "sent_count": 1093,
+      "sent_count": 1096,
       "failed": {}
     },
     "dr_salamatx": {
-      "last_id": 55466,
+      "last_id": 55467,
       "processed_ids": [
         55270,
         55271,
@@ -9310,9 +9313,10 @@
         55463,
         55464,
         55465,
-        55466
+        55466,
+        55467
       ],
-      "sent_count": 117,
+      "sent_count": 118,
       "failed": {}
     },
     "jaleb": {
@@ -10115,12 +10119,8 @@
       "failed": {}
     },
     "ajayebe_jahann": {
-      "last_id": 160199,
+      "last_id": 160203,
       "processed_ids": [
-        159132,
-        159133,
-        159134,
-        159135,
         159136,
         159137,
         159138,
@@ -11116,9 +11116,13 @@
         160196,
         160197,
         160198,
-        160199
+        160199,
+        160200,
+        160201,
+        160202,
+        160203
       ],
-      "sent_count": 439,
+      "sent_count": 440,
       "failed": {}
     },
     "etelaate_omoomi": {
@@ -11338,10 +11342,8 @@
       "failed": {}
     },
     "ft360_ir": {
-      "last_id": 111296,
+      "last_id": 111298,
       "processed_ids": [
-        109741,
-        109742,
         109743,
         109744,
         109745,
@@ -12339,16 +12341,16 @@
         111293,
         111294,
         111295,
-        111296
+        111296,
+        111297,
+        111298
       ],
-      "sent_count": 258,
+      "sent_count": 259,
       "failed": {}
     },
     "varzesh3": {
-      "last_id": 305028,
+      "last_id": 305030,
       "processed_ids": [
-        303629,
-        303630,
         303631,
         303632,
         303633,
@@ -13346,15 +13348,16 @@
         305025,
         305026,
         305027,
-        305028
+        305028,
+        305029,
+        305030
       ],
       "sent_count": 152,
       "failed": {}
     },
     "totalfut_plus": {
-      "last_id": 27101,
+      "last_id": 27102,
       "processed_ids": [
-        26025,
         26026,
         26027,
         26028,
@@ -14353,17 +14356,15 @@
         27098,
         27099,
         27100,
-        27101
+        27101,
+        27102
       ],
       "sent_count": 88,
       "failed": {}
     },
     "adak_ir_official": {
-      "last_id": 236035,
+      "last_id": 236038,
       "processed_ids": [
-        234873,
-        234874,
-        234875,
         234876,
         234877,
         234878,
@@ -15360,7 +15361,10 @@
         236032,
         236033,
         236034,
-        236035
+        236035,
+        236036,
+        236037,
+        236038
       ],
       "sent_count": 301,
       "failed": {}
@@ -16373,10 +16377,8 @@
       "failed": {}
     },
     "hattric_official": {
-      "last_id": 85650,
+      "last_id": 85652,
       "processed_ids": [
-        84373,
-        84374,
         84375,
         84376,
         84377,
@@ -17374,13 +17376,15 @@
         85646,
         85648,
         85649,
-        85650
+        85650,
+        85651,
+        85652
       ],
-      "sent_count": 241,
+      "sent_count": 242,
       "failed": {}
     },
     "mazdak_hattrick": {
-      "last_id": 182782,
+      "last_id": 182783,
       "processed_ids": [
         181991,
         181992,
@@ -18123,7 +18127,8 @@
         182778,
         182780,
         182781,
-        182782
+        182782,
+        182783
       ],
       "sent_count": 74,
       "failed": {}
@@ -18324,7 +18329,7 @@
       "failed": {}
     },
     "irwonders": {
-      "last_id": 59069,
+      "last_id": 59070,
       "processed_ids": [
         58030,
         58031,
@@ -19242,7 +19247,8 @@
         59066,
         59067,
         59068,
-        59069
+        59069,
+        59070
       ],
       "sent_count": 587,
       "failed": {}
@@ -19318,7 +19324,7 @@
       "failed": {}
     },
     "midanesti": {
-      "last_id": 73350,
+      "last_id": 73351,
       "processed_ids": [
         73193,
         73194,
@@ -19460,9 +19466,10 @@
         73344,
         73345,
         73346,
-        73350
+        73350,
+        73351
       ],
-      "sent_count": 69,
+      "sent_count": 70,
       "failed": {}
     },
     "gilin_gilin": {
@@ -20917,7 +20924,7 @@
       "failed": {}
     },
     "khandehabadd": {
-      "last_id": 307304,
+      "last_id": 307307,
       "processed_ids": [
         306563,
         306564,
@@ -21620,9 +21627,12 @@
         307301,
         307302,
         307303,
-        307304
+        307304,
+        307305,
+        307306,
+        307307
       ],
-      "sent_count": 307,
+      "sent_count": 308,
       "failed": {}
     },
     "ravan6enasii": {
@@ -22485,7 +22495,7 @@
       "failed": {}
     },
     "peach_tweet": {
-      "last_id": 4453,
+      "last_id": 4456,
       "processed_ids": [
         2745,
         2749,
@@ -23130,9 +23140,10 @@
         4448,
         4450,
         4451,
-        4453
+        4453,
+        4456
       ],
-      "sent_count": 344,
+      "sent_count": 345,
       "failed": {}
     },
     "funy_khand": {
@@ -23588,7 +23599,7 @@
       "failed": {}
     },
     "persiana_pluss": {
-      "last_id": 7036,
+      "last_id": 7038,
       "processed_ids": [
         6113,
         6114,
@@ -24330,7 +24341,9 @@
         7033,
         7034,
         7035,
-        7036
+        7036,
+        7037,
+        7038
       ],
       "sent_count": 17,
       "failed": {}
@@ -25003,7 +25016,7 @@
       "failed": {}
     },
     "boob_sfangi": {
-      "last_id": 2830,
+      "last_id": 2831,
       "processed_ids": [
         2587,
         2590,
@@ -25182,13 +25195,14 @@
         2827,
         2828,
         2829,
-        2830
+        2830,
+        2831
       ],
-      "sent_count": 112,
+      "sent_count": 113,
       "failed": {}
     },
     "fucknewsi": {
-      "last_id": 13896,
+      "last_id": 13898,
       "processed_ids": [
         13561,
         13562,
@@ -25398,9 +25412,11 @@
         13893,
         13894,
         13895,
-        13896
+        13896,
+        13897,
+        13898
       ],
-      "sent_count": 87,
+      "sent_count": 88,
       "failed": {}
     },
     "https://t.me/+hhcepayguws1nti0": {
@@ -25682,261 +25698,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "1f171c47c2f3454984bc0aa30902f9199fcff88c19af96834c46cd6de6fc2a3d",
-        "media_fingerprint": "5f1b92a9f11db711a87ab81f65b85efa116ec9d9c72abd59323d66e9bac090cc",
-        "text": "دسسسخوش\n😂\n😂\n😂\n@FuckNewsi",
-        "original_username": "fucknewsi",
-        "original_text": "دسسسخوش\n😂\n😂\n😂\n@FuckNewsi",
-        "original_link": "https://t.me/FuckNewsi/13869",
-        "post_id": 13869,
-        "message_id": 13212,
-        "message_kind": "caption",
-        "sources": [
-          "fucknewsi"
-        ],
-        "created_at": "2026-10-24T14:01:23.899072+00:00"
-      },
-      {
-        "fingerprint": "12bd1585b28ceb290d3ed80b06ef2607c8e57b1abfff0d2246d37fe17a6f774a",
-        "media_fingerprint": "86e77cb4aa73a6b18aa10d69e892629887b3c75d31fa93c94677904175a1ccc3",
-        "text": "🔴\nطبق تحقیقات میدانی؛\nدرصد بسیار زیادی از دخترها، جز به جز رابطه‌شون رو با دوست‌هاشون درمیون میذارن!\nمنظور از جز به جز یعنی حتی ایموجی که استفاده میکنن هم با مشورتِ شورای عالی امنیت ملیِ خودشونه.\nاین شوراها معمولا به صورت گروهای سه نفره تلگرامی اداره میشه...\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nطبق تحقیقات میدانی؛\nدرصد بسیار زیادی از دخترها، جز به جز رابطه‌شون رو با دوست‌هاشون درمیون میذارن!\nمنظور از جز به جز یعنی حتی ایموجی که استفاده میکنن هم با مشورتِ شورای عالی امنیت ملیِ خودشونه.\nاین شوراها معمولا به صورت گروهای سه نفره تلگرامی اداره میشه...\n@DrTeL",
-        "original_link": "https://t.me/drtel/71721",
-        "post_id": 71721,
-        "message_id": 13213,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-24T14:01:30.873696+00:00"
-      },
-      {
-        "fingerprint": "784fecbe66f898225f84379df6d25dc497686615cee117f268e565725c79b4a9",
-        "media_fingerprint": "fd27acce1af5c5859d4d88d03dcca31414c87f74a1c5d17735f7b54b5a79f735",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26712",
-        "post_id": 26712,
-        "message_id": 13214,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-24T14:01:35.641607+00:00"
-      },
-      {
-        "fingerprint": "3f094ac401b34baa5424b272f9f857153b9e6e6a8c699679c7368742d1419ce2",
-        "media_fingerprint": "33c51e7e15012edf687f006e7f447a8b0f03c09192e831778b0d0da6610b46cb",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26713",
-        "post_id": 26713,
-        "message_id": 13215,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-24T14:01:43.148953+00:00"
-      },
-      {
-        "fingerprint": "7ee0fdb013faf710bd8a13768f3e07a545029b88f4d3d51459c6c982faefdb6d",
-        "media_fingerprint": "e8122e48d4d9b2333d22d0afaa75d138be3fb35eed765b7f25e619d834b26169",
-        "text": "اسپایدرمن تو سن ۱۸ سالگی اگه تو ایران به دنیا میومد :\n😏\n#Squidward\n💎\nSpongebob | باب اسفنجی",
-        "original_username": "boob_sfangi",
-        "original_text": "اسپایدرمن تو سن ۱۸ سالگی اگه تو ایران به دنیا میومد :\n😏\n#Squidward\n💎\nSpongebob | باب اسفنجی",
-        "original_link": "https://t.me/boob_sfangi/2801",
-        "post_id": 2801,
-        "message_id": 13216,
-        "message_kind": "caption",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-24T14:01:49.546185+00:00"
-      },
-      {
-        "fingerprint": "45a1215d5221b64f00edf0b75bdb0f79c7d7fab5092d2cfd65e8030e5f49a38e",
-        "media_fingerprint": "e289a9c330ea4a0e516d58d422ece92965d5414dff47c0591bb0299ada1b86c8",
-        "text": "🆔\n@YeJoorayi",
-        "original_username": "yejoorayi",
-        "original_text": "🆔\n@YeJoorayi",
-        "original_link": "https://t.me/YeJoorayi/637",
-        "post_id": 637,
-        "message_id": 13217,
-        "message_kind": "caption",
-        "sources": [
-          "yejoorayi"
-        ],
-        "created_at": "2026-10-24T14:01:54.387775+00:00"
-      },
-      {
-        "fingerprint": "87464bb9e33c0d3425e9a6b97cb1926d10129a1f1bcd5c04fa40617383de6428",
-        "media_fingerprint": "9694931701dfc0dc662d145f75eb730104a45d635e552c32a8267074bea60a27",
-        "text": "تراپیستم گفت روزی ده دقیقه از وقتت رو به خودت اختصاص بده، بشین روی مبل یا دراز بکش رو تختت و هیچ کاری نکن.\nمن که روزی ۱۸ ساعت تو این وضعیتم:\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "تراپیستم گفت روزی ده دقیقه از وقتت رو به خودت اختصاص بده، بشین روی مبل یا دراز بکش رو تختت و هیچ کاری نکن.\nمن که روزی ۱۸ ساعت تو این وضعیتم:\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/53167",
-        "post_id": 53167,
-        "message_id": 13218,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-24T14:01:58.932649+00:00"
-      },
-      {
-        "fingerprint": "d75f53ed8899df18549e0ae41ae9e14884f79a8daf06c4d50eb0734d024e074d",
-        "media_fingerprint": "1e11d0a8d34afb7645ed2ff0cc76e3c79353681b6358ddcca18250dfef0fb86f",
-        "text": "🔴\nامروز 24 October، روز جهانی سیرابیه.\n@Dashagh",
-        "original_username": "dashagh",
-        "original_text": "🔴\nامروز 24 October، روز جهانی سیرابیه.\n@Dashagh",
-        "original_link": "https://t.me/dashagh/48688",
-        "post_id": 48688,
-        "message_id": 13219,
-        "message_kind": "caption",
-        "sources": [
-          "dashagh"
-        ],
-        "created_at": "2026-10-24T14:02:08.197121+00:00"
-      },
-      {
-        "fingerprint": "1db9a432d543e89bb8b3ac6d57c4b1d92ea02cc42cc8d6f725882f0e8437fa59",
-        "media_fingerprint": "15eecffee20cd33b11692cf4ace6e06b615972daf96fead02ba0679cf9bdc1f4",
-        "text": "🎬\nقسمت نهم\n«روشن»\nمنتشر شد.\n🎬\nr.filimo.com/Troshan9\n#روشن\n@BajeFilm",
-        "original_username": "bajefilm",
-        "original_text": "🎬\nقسمت نهم\n«روشن»\nمنتشر شد.\n🎬\nr.filimo.com/Troshan9\n#روشن\n@BajeFilm",
-        "original_link": "https://t.me/bajefilm/11704",
-        "post_id": 11704,
-        "message_id": 13221,
-        "message_kind": "caption",
-        "sources": [
-          "bajefilm"
-        ],
-        "created_at": "2026-10-24T14:02:12.751741+00:00"
-      },
-      {
-        "fingerprint": "316c33a35b5495db41bb090e5d39d8edca35b0c996d2bdf81c22f061ae3f2ca9",
-        "media_fingerprint": "",
-        "text": "عوارض وحشتناک نگه داشتن باد شکم\n..\n😮‍💨",
-        "original_username": "bimaariha",
-        "original_text": "عوارض وحشتناک نگه داشتن باد شکم\n..\n😮‍💨",
-        "original_link": "https://t.me/Bimaariha/19545",
-        "post_id": 19545,
-        "message_id": 13222,
-        "message_kind": "text",
-        "sources": [
-          "bimaariha"
-        ],
-        "created_at": "2026-10-24T14:02:16.144450+00:00"
-      },
-      {
-        "fingerprint": "b64a4298c355f7b4efb9cc41b1033af795700751d5a731df90ffcce9e73a96c1",
-        "media_fingerprint": "cb6d0b5698021b20b5367601b0b871e8994752e6d89785e674bb4a2c5b60d9c5",
-        "text": "🐟\nماهی را با لیمو بخور؛ نه با یک ظرف سس!\n💛\nماهی می‌تواند منبع خوبی از پروتئین باشد و ماهی‌های چرب، اسیدهای چرب امگا ۳ هم فراهم می‌کنند. اما روش سرو اهمیت دارد؛ ماهی گریل یا تنوری در کنار سبزیجات، لیموی تازه و غلات کامل با ماهی سوخاری‌شده و سس‌های سنگین یک وعده یکسان نمی‌سازد.\n🌐\nwww.heart.org\n#ناهار_سالم\n#ماهی\n#امگا۳\n🖥\n@Dr_SalamatX",
-        "original_username": "dr_salamatx",
-        "original_text": "🐟\nماهی را با لیمو بخور؛ نه با یک ظرف سس!\n💛\nماهی می‌تواند منبع خوبی از پروتئین باشد و ماهی‌های چرب، اسیدهای چرب امگا ۳ هم فراهم می‌کنند. اما روش سرو اهمیت دارد؛ ماهی گریل یا تنوری در کنار سبزیجات، لیموی تازه و غلات کامل با ماهی سوخاری‌شده و سس‌های سنگین یک وعده یکسان نمی‌سازد.\n🌐\nwww.heart.org\n#ناهار_سالم\n#ماهی\n#امگا۳\n🖥\n@Dr_SalamatX",
-        "original_link": "https://t.me/Dr_SalamatX/55463",
-        "post_id": 55463,
-        "message_id": 13223,
-        "message_kind": "caption",
-        "sources": [
-          "dr_salamatx"
-        ],
-        "created_at": "2026-10-24T14:02:21.050841+00:00"
-      },
-      {
-        "fingerprint": "dbda2c623a9631d3f8d15c6b00e006548899583f6aab015970ae975f13401bc5",
-        "media_fingerprint": "fb50df6a465d7cca0fe817d061381a27d8f4da383ecd184b8504260f7cc5ed51",
-        "text": "عظمت کویر لوت_ طولانى ترين تنكَه بيابان لوت\nبه طول تقريبى ١٨ كيلومتر!\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "عظمت کویر لوت_ طولانى ترين تنكَه بيابان لوت\nبه طول تقريبى ١٨ كيلومتر!\n@irWonders",
-        "original_link": "https://t.me/irwonders/59038",
-        "post_id": 59038,
-        "message_id": 13224,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-24T14:02:28.545586+00:00"
-      },
-      {
-        "fingerprint": "7863b261ed04d4c2c76abb86f3f004a99eac03eefef93abb6dbee48b99597e70",
-        "media_fingerprint": "d00f60dcf40fd7d4608c2bd339abfaabf0a9c89e2c6694932c6c37837e07e13e",
-        "text": "متاسفانه مخاطبین کانال قدردان تحلیلای استاد نبودن\n😃\n😏\n#Squidward\n💎\nSpongebob | باب اسفنجی",
-        "original_username": "boob_sfangi",
-        "original_text": "متاسفانه مخاطبین کانال قدردان تحلیلای استاد نبودن\n😃\n😏\n#Squidward\n💎\nSpongebob | باب اسفنجی",
-        "original_link": "https://t.me/boob_sfangi/2802",
-        "post_id": 2802,
-        "message_id": 13225,
-        "message_kind": "caption",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-24T14:02:45.809316+00:00"
-      },
-      {
-        "fingerprint": "6f67fd46558db07415432e386459550b3f5dcf032ec3eb2e5b22bb3b6512fc01",
-        "media_fingerprint": "",
-        "text": "بادشکمت رو نگه ندار چونکه\n....",
-        "original_username": "bimaariha",
-        "original_text": "بادشکمت رو نگه ندار چونکه\n....",
-        "original_link": "https://t.me/Bimaariha/19546",
-        "post_id": 19546,
-        "message_id": 13226,
-        "message_kind": "text",
-        "sources": [
-          "bimaariha"
-        ],
-        "created_at": "2026-10-24T14:02:49.300226+00:00"
-      },
-      {
-        "fingerprint": "981ebf2356cf4b2d87d8b8a89baae7049cb49626066f7314608a791e89549e2d",
-        "media_fingerprint": "6bd3378496091d0c180fc1c95515409ff4511c5a2b4c4480d18038d37a587189",
-        "text": "\"زندگی\" گاهی به سادگی یک لیوان\n\"چای آتیشی\"و یک \"صبحانه‌ی محلی\"\nلذت بخش میشود کافی ست باور\nکنی میتوان \"خوشبختی را ساخت\"...\nسلام دوستان صبح اولین شنبه\nآبان ماهتون پر از مهربانی خدا\n☕️\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "\"زندگی\" گاهی به سادگی یک لیوان\n\"چای آتیشی\"و یک \"صبحانه‌ی محلی\"\nلذت بخش میشود کافی ست باور\nکنی میتوان \"خوشبختی را ساخت\"...\nسلام دوستان صبح اولین شنبه\nآبان ماهتون پر از مهربانی خدا\n☕️\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/307285",
-        "post_id": 307285,
-        "message_id": 13227,
-        "message_kind": "caption",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-24T14:02:53.894738+00:00"
-      },
-      {
-        "fingerprint": "5f1281d6d0f08efe726c268eb016e2bcb06fb931d772f18057699b8eeab3989e",
-        "media_fingerprint": "64379ef8d65bbcb3864fe59b5a21b8e5e5a56e4ddb6e4326d251efe11c744b31",
-        "text": "🔴\nاین صحنه زیبا حین پیاده روی در جاده سلامت_شاهرود روح انسان را جلا می دهد\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "🔴\nاین صحنه زیبا حین پیاده روی در جاده سلامت_شاهرود روح انسان را جلا می دهد\n@irWonders",
-        "original_link": "https://t.me/irwonders/59039",
-        "post_id": 59039,
-        "message_id": 13228,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-24T14:03:02.710440+00:00"
-      },
-      {
-        "fingerprint": "4bb0046f1efcf7c6aee67ed06f727616833837135af1670319bdc0c377c657aa",
-        "media_fingerprint": "1f0f55c2fbf5a83b9aac85b1eed8aab2f7d648c8473482abdf166294446bb178",
-        "text": "از بچه‌های فامیل بهتر تربیت شده\n🐿\n#Sandy\n💎\nSpongebob | باب اسفنجی",
-        "original_username": "boob_sfangi",
-        "original_text": "از بچه‌های فامیل بهتر تربیت شده\n🐿\n#Sandy\n💎\nSpongebob | باب اسفنجی",
-        "original_link": "https://t.me/boob_sfangi/2803",
-        "post_id": 2803,
-        "message_id": 13229,
-        "message_kind": "caption",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-24T14:03:10.285366+00:00"
-      },
       {
         "fingerprint": "7047e38435bc3cf69cefcc78d81854b2cd5d5228f10761fd73d8e27071987e45",
         "media_fingerprint": "",
@@ -30201,6 +29962,261 @@
           "akhbarfars"
         ],
         "created_at": "2026-10-24T18:52:29.211598+00:00"
+      },
+      {
+        "fingerprint": "fa6e44ed906659592f293a3ec3aa22134c099e2dbece3f2ca16ba85f27f53f98",
+        "media_fingerprint": "ef5da764de065ddaea9c1b41200b55bfa0570f430240d742d9ea43165be374af",
+        "text": "رکورد بازدید اینستاگرام شکسته شد!\nیه میمون توی هند، از بس غمگین و تنها بوده، میره داخل یه مغازه و فروشنده رو در آغوش می‌گیره\n🫂\nاین کلیپ تو ۲۴ ساعت، بیش از ۳۰۰ میلیون بازدید خورده و رکورد بازدید اینستاگرام رو شکسته!\n@Midanesti",
+        "original_username": "midanesti",
+        "original_text": "رکورد بازدید اینستاگرام شکسته شد!\nیه میمون توی هند، از بس غمگین و تنها بوده، میره داخل یه مغازه و فروشنده رو در آغوش می‌گیره\n🫂\nاین کلیپ تو ۲۴ ساعت، بیش از ۳۰۰ میلیون بازدید خورده و رکورد بازدید اینستاگرام رو شکسته!\n@Midanesti",
+        "original_link": "https://t.me/midanesti/73351",
+        "post_id": 73351,
+        "message_id": 13541,
+        "message_kind": "caption",
+        "sources": [
+          "midanesti"
+        ],
+        "created_at": "2026-10-24T19:32:18.028106+00:00"
+      },
+      {
+        "fingerprint": "ff388ff3a456b9374618381c1a66b78c557e7e3fa945b4e5d76025db79fc2cbe",
+        "media_fingerprint": "649b30bcab01a47988b478762e369c35b8a2d9ee39de93bf6f08c520f779b63e",
+        "text": "دیده‌ شدن کانگورو تو کرمان\n😄\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "دیده‌ شدن کانگورو تو کرمان\n😄\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163840",
+        "post_id": 163840,
+        "message_id": 13542,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-24T19:32:23.716230+00:00"
+      },
+      {
+        "fingerprint": "c9a2762137dcf367be2659375b60790de0697cf2773ea6855404fcc9cfd524b2",
+        "media_fingerprint": "81d6ece957102b6000e7eeeb15224d94d847d3d148a260979fe583a8f16416d2",
+        "text": "تقاطعی که لوله‌های غذا و هوای شما در آن جدا می‌شوند\n🤯\n👀\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "تقاطعی که لوله‌های غذا و هوای شما در آن جدا می‌شوند\n🤯\n👀\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163842",
+        "post_id": 163842,
+        "message_id": 13543,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-24T19:32:29.611771+00:00"
+      },
+      {
+        "fingerprint": "0adc21222ebf09751941611ca892725a1cbb4c04897635e961b012e1606391d3",
+        "media_fingerprint": "b667bceff7224ed3597e96e15c11943790a97d6caf79134d15791be89b218779",
+        "text": "چربی بافت سبکیه\nدر حجم زیاد وزن کمی داره\nکاهشتونو با تغییر سایز بسنجین نه با تغییر وزن\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "چربی بافت سبکیه\nدر حجم زیاد وزن کمی داره\nکاهشتونو با تغییر سایز بسنجین نه با تغییر وزن\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163843",
+        "post_id": 163843,
+        "message_id": 13544,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-24T19:32:35.495763+00:00"
+      },
+      {
+        "fingerprint": "c6887a4b4019cbcb9d17807ca1cbd55ef6bfd778783ee19d41b359eb6c33598f",
+        "media_fingerprint": "175a072bd7b689bbae108bb3bc70a7b4af1dfe919f35b41141dfdac41ddc75ac",
+        "text": "تو مهدکودک از پسر بچه‌ها میپرسن «دخترا چه شکلین؟»\n+ و حالا جوابای بامزه‌شون رو ببینیم:\n@FuckNewsi",
+        "original_username": "fucknewsi",
+        "original_text": "تو مهدکودک از پسر بچه‌ها میپرسن «دخترا چه شکلین؟»\n+ و حالا جوابای بامزه‌شون رو ببینیم:\n@FuckNewsi",
+        "original_link": "https://t.me/FuckNewsi/13897",
+        "post_id": 13897,
+        "message_id": 13545,
+        "message_kind": "caption",
+        "sources": [
+          "fucknewsi"
+        ],
+        "created_at": "2026-10-24T19:32:42.612510+00:00"
+      },
+      {
+        "fingerprint": "a9ee3ee361289e67ea144a9aade5fb93daef52d2ecb352efd0a38e40b7931af0",
+        "media_fingerprint": "25b2adb7df4c84236ba491df0941434a648379a48b571353bf216755838cef0f",
+        "text": "ملوان در بم ۶ تایی شد\n👀\nبرد کوبنده خاتون پیش از سفر به یانگون\n✅\nدر آغاز هفته پنجم لیگ برتر زنان خاتون بم ۶ بر صفر ملوان بندرانزلی را شکست داد و آوا تهران هم ۲ بر صفر از سد وارش نوشهر گذشت.\n🔼\nخاتون درحالی با برد امروز به رتبه دوم جدول صعود کرد که روز شنبه…",
+        "original_username": "ft360_ir",
+        "original_text": "ملوان در بم ۶ تایی شد\n👀\nبرد کوبنده خاتون پیش از سفر به یانگون\n✅\nدر آغاز هفته پنجم لیگ برتر زنان خاتون بم ۶ بر صفر ملوان بندرانزلی را شکست داد و آوا تهران هم ۲ بر صفر از سد وارش نوشهر گذشت.\n🔼\nخاتون درحالی با برد امروز به رتبه دوم جدول صعود کرد که روز شنبه…",
+        "original_link": "https://t.me/ft360_ir/111297",
+        "post_id": 111297,
+        "message_id": 13546,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-24T19:32:47.428426+00:00"
+      },
+      {
+        "fingerprint": "b3fb819685c7e64ca3f9fb6c7f5cff8287ffc2f9a9d6d42fe6cda551508a4762",
+        "media_fingerprint": "5e7e8788acd1f566bf4c6822eca3ddd1c01abd5acb23aa41db4b1569f1296d5f",
+        "text": "ده بار دیدم هر ده بارم خندیدم\nهوش مصنوعی زبونش نمیچرخه اعداد رو بگه\n😂\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "ده بار دیدم هر ده بارم خندیدم\nهوش مصنوعی زبونش نمیچرخه اعداد رو بگه\n😂\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/307307",
+        "post_id": 307307,
+        "message_id": 13547,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-24T19:32:54.329665+00:00"
+      },
+      {
+        "fingerprint": "4b500cb0ed48d54a6566903b1431b2003f4358f39a2a57c26ab282c8237cf50c",
+        "media_fingerprint": "",
+        "text": "🔴\nالعربیه به نقل از منابع آگاه:\n🔺️\nایران از طریق پاکستان پیشنهادی به دولت آمریکا ارائه کرده است.\n* این پیشنهاد شامل بازگشایی تنگه هرمز در مقابل رفع محاصره آمریکا علیه بنادر ایران است.\n🔺️\nایران به پاکستان اعلام کرده که برای ازسرگیری مذاکرات با آمریکا آمادگی دارد.\n---------------------‐------\n♦️\nآخرین خبر فارس و شیراز\n●  تلگرام:\nt.me/Fars_today\n●  بله:\nble.ir/fars_online",
+        "original_username": "fars_today",
+        "original_text": "🔴\nالعربیه به نقل از منابع آگاه:\n🔺️\nایران از طریق پاکستان پیشنهادی به دولت آمریکا ارائه کرده است.\n* این پیشنهاد شامل بازگشایی تنگه هرمز در مقابل رفع محاصره آمریکا علیه بنادر ایران است.\n🔺️\nایران به پاکستان اعلام کرده که برای ازسرگیری مذاکرات با آمریکا آمادگی دارد.\n---------------------‐------\n♦️\nآخرین خبر فارس و شیراز\n●  تلگرام:\nt.me/Fars_today\n●  بله:\nble.ir/fars_online",
+        "original_link": "https://t.me/Fars_today/132315",
+        "post_id": 132315,
+        "message_id": 13548,
+        "message_kind": "text",
+        "sources": [
+          "fars_today"
+        ],
+        "created_at": "2026-10-24T19:32:57.704750+00:00"
+      },
+      {
+        "fingerprint": "6c429b99628ff235805e878eefbe0b9383c8df41ada1a3ca43a16ace3d02beec",
+        "media_fingerprint": "933ad90d34f32cbf7c96d746790a7f6929e75b8548f1009e0dbfd02f900d9e00",
+        "text": "😐\nاگه میخواید بدونید تو ناشناس دخترا چه خبره این پستو ببینید :\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
+        "original_username": "boob_sfangi",
+        "original_text": "😐\nاگه میخواید بدونید تو ناشناس دخترا چه خبره این پستو ببینید :\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
+        "original_link": "https://t.me/boob_sfangi/2831",
+        "post_id": 2831,
+        "message_id": 13549,
+        "message_kind": "caption",
+        "sources": [
+          "boob_sfangi"
+        ],
+        "created_at": "2026-10-24T19:33:02.704042+00:00"
+      },
+      {
+        "fingerprint": "963f90a7af0e93f6467e30e2773ae00bb2c4e42b4b9d80417eab01d964068393",
+        "media_fingerprint": "264814bc61e597b684e4021ccc01b4540ccf9aa9aa0f4bcdfe868d8db3dd420e",
+        "text": "در شمال ژاپن هر ساله جشن برداشت برنج برپاست و هنرمندان با استفاده از علوفه جمع آوری شده، مجسمه های غول پیکر می سازند. این مجسمه ها از نی برنج ساخته می شوند!\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "در شمال ژاپن هر ساله جشن برداشت برنج برپاست و هنرمندان با استفاده از علوفه جمع آوری شده، مجسمه های غول پیکر می سازند. این مجسمه ها از نی برنج ساخته می شوند!\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/160203",
+        "post_id": 160203,
+        "message_id": 13550,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-24T19:33:07.842747+00:00"
+      },
+      {
+        "fingerprint": "e2ef831dbaae1b57cc38ae37bb6964315e5c689903cf83834a9a897f58ba1f6f",
+        "media_fingerprint": "ccde8a756bffcf83c853900420bde790a64b8c06c680908b7c66778f583c3667",
+        "text": "🎨\nنقاشی کودک را اصلاح نکنید\n💜\nاگر خورشید را بنفش کشید یا خانه‌اش سه پنجره عجیب داشت، لازم نیست فوراً بگوییم «این‌طوری نیست». نقاشی آزاد فرصتی برای تخیل، بیان ایده‌ها و تمرین مهارت‌های ظریف دست است. گاهی بهتر است به‌جای اصلاح کردن بپرسیم: «داستان این نقاشی چیه؟»\n🌐\nwww.healthychildren.org\n#مادرو_کودک\n#خلاقیت_کودک\n#نقاشی\n🖥\n@Dr_SalamatX",
+        "original_username": "dr_salamatx",
+        "original_text": "🎨\nنقاشی کودک را اصلاح نکنید\n💜\nاگر خورشید را بنفش کشید یا خانه‌اش سه پنجره عجیب داشت، لازم نیست فوراً بگوییم «این‌طوری نیست». نقاشی آزاد فرصتی برای تخیل، بیان ایده‌ها و تمرین مهارت‌های ظریف دست است. گاهی بهتر است به‌جای اصلاح کردن بپرسیم: «داستان این نقاشی چیه؟»\n🌐\nwww.healthychildren.org\n#مادرو_کودک\n#خلاقیت_کودک\n#نقاشی\n🖥\n@Dr_SalamatX",
+        "original_link": "https://t.me/Dr_SalamatX/55467",
+        "post_id": 55467,
+        "message_id": 13551,
+        "message_kind": "caption",
+        "sources": [
+          "dr_salamatx"
+        ],
+        "created_at": "2026-10-24T19:33:15.949383+00:00"
+      },
+      {
+        "fingerprint": "09e6d5d17d80db1875e5f70b67bb81bb9e3e6d86eacf1352a5dc1d03f89957ed",
+        "media_fingerprint": "",
+        "text": "💵\nدستورالعمل تبصره ماده ۱۰۰\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "💵\nدستورالعمل تبصره ماده ۱۰۰\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23660",
+        "post_id": 23660,
+        "message_id": 13552,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-24T19:33:19.340896+00:00"
+      },
+      {
+        "fingerprint": "b9140474fb951c01d11f69bf2523d9277be1c951fd384ee0038078e030408895",
+        "media_fingerprint": "3427813b2533d3efb5be5d077892d6ae7cf8c0e590d5f9555aabddc8159fecb4",
+        "text": "♦️\nاوقات شرعی فردا به افق مرکز استان (احتیاط یک تا دو دقیقه‌ای لحاظ شود)\n🌱\nوقت دعا ما رو هم به خاطر داشته باشید\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nاوقات شرعی فردا به افق مرکز استان (احتیاط یک تا دو دقیقه‌ای لحاظ شود)\n🌱\nوقت دعا ما رو هم به خاطر داشته باشید\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144391",
+        "post_id": 144391,
+        "message_id": 13553,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-24T19:33:24.622423+00:00"
+      },
+      {
+        "fingerprint": "7d074c37dd87ceb614d17f5252a17c9993ed767fe7523ddda5d079f07c3711c9",
+        "media_fingerprint": "979001e809dc402f374dc05d71c60654ef9c49d105c3a12adb5deb2e3c67bcd4",
+        "text": "😂\nاولین شکست منچسترسیتی در این فصل از لیگ برتر به دست نیکولاس جکسون رقم خورد.\n☠️\n🔥\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "😂\nاولین شکست منچسترسیتی در این فصل از لیگ برتر به دست نیکولاس جکسون رقم خورد.\n☠️\n🔥\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/85652",
+        "post_id": 85652,
+        "message_id": 13554,
+        "message_kind": "caption",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-24T19:33:31.376445+00:00"
+      },
+      {
+        "fingerprint": "22b6e127008895f42377fa71bcd047783ca84963ce784437f75b780a45122cbc",
+        "media_fingerprint": "c34d7b610b06172d790d3344d0a9885c4a7583e983c6dbd3516a0801456aea8c",
+        "text": "این ورژن شیشه مربا هم خیلی وایرال شده و به این صورته که تمایلت به فانتزی‌های جنسی رو ازت میپرسه و شیشه‌ها رو از ۱ تا ۵ با رنگ دلخواهت، پر‌ میکنه واست:\nhttps://lockedtony.github.io/kink-jars/\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "این ورژن شیشه مربا هم خیلی وایرال شده و به این صورته که تمایلت به فانتزی‌های جنسی رو ازت میپرسه و شیشه‌ها رو از ۱ تا ۵ با رنگ دلخواهت، پر‌ میکنه واست:\nhttps://lockedtony.github.io/kink-jars/\n@comentiat",
+        "original_link": "https://t.me/Comentiat/26730",
+        "post_id": 26730,
+        "message_id": 13555,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-24T19:33:51.148523+00:00"
+      },
+      {
+        "fingerprint": "6f47f63768374a1f289b6cbf512fec3c241b6340c2ab93bd88b79851d43602e6",
+        "media_fingerprint": "b0ee6d3be1ce9f76a7859051662e60f41e076c72fc0909da921e55d4b412adc9",
+        "text": "بعد از شغل معدن تتوکاری یکی از سخت ترین شغلای دنیاست:))))\nلاشی چرا سوتینشو دراوردی\n😂\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "بعد از شغل معدن تتوکاری یکی از سخت ترین شغلای دنیاست:))))\nلاشی چرا سوتینشو دراوردی\n😂\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/4456",
+        "post_id": 4456,
+        "message_id": 13559,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-24T19:33:57.922971+00:00"
+      },
+      {
+        "fingerprint": "89cf38e4b2cec23942bda4f7c6ff2c5d996f75ae60724ac940fb8629d47a2605",
+        "media_fingerprint": "4411dd378064d5a683a9eca1d6c1f0b85bf92c88c635663e5e63cdc33db85300",
+        "text": "♦️\nبا هم دعای فرج را برای سلامتی و فرج آقا امام زمان(عج) می‌خوانیم\n🔹\nبا قرائت دعای فرج به این جمع میلیونی بپیوندیم\n@AkhbareFori",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nبا هم دعای فرج را برای سلامتی و فرج آقا امام زمان(عج) می‌خوانیم\n🔹\nبا قرائت دعای فرج به این جمع میلیونی بپیوندیم\n@AkhbareFori",
+        "original_link": "https://t.me/akhbarfars/144392",
+        "post_id": 144392,
+        "message_id": 13560,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-24T19:34:02.738958+00:00"
       }
     ]
   }
