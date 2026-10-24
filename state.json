@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 144383,
+      "last_id": 144385,
       "processed_ids": [
-        143103,
-        143104,
         143105,
         143106,
         143107,
@@ -1002,15 +1000,16 @@
         144380,
         144381,
         144382,
-        144383
+        144383,
+        144384,
+        144385
       ],
-      "sent_count": 1227,
+      "sent_count": 1228,
       "failed": {}
     },
     "total_fut": {
-      "last_id": 238629,
+      "last_id": 238630,
       "processed_ids": [
-        237422,
         237423,
         237424,
         237425,
@@ -2009,15 +2008,15 @@
         238626,
         238627,
         238628,
-        238629
+        238629,
+        238630
       ],
       "sent_count": 192,
       "failed": {}
     },
     "footballvision2": {
-      "last_id": 172730,
+      "last_id": 172731,
       "processed_ids": [
-        170933,
         170934,
         170935,
         170936,
@@ -3016,7 +3015,8 @@
         172727,
         172728,
         172729,
-        172730
+        172730,
+        172731
       ],
       "sent_count": 198,
       "failed": {}
@@ -3473,9 +3473,8 @@
       "failed": {}
     },
     "drtel": {
-      "last_id": 71750,
+      "last_id": 71751,
       "processed_ids": [
-        66774,
         66775,
         66776,
         66777,
@@ -4474,13 +4473,14 @@
         71745,
         71746,
         71749,
-        71750
+        71750,
+        71751
       ],
       "sent_count": 627,
       "failed": {}
     },
     "techtube": {
-      "last_id": 18635,
+      "last_id": 18637,
       "processed_ids": [
         18261,
         18262,
@@ -4714,7 +4714,8 @@
         18632,
         18633,
         18634,
-        18635
+        18635,
+        18637
       ],
       "sent_count": 77,
       "failed": {}
@@ -5642,7 +5643,7 @@
       "failed": {}
     },
     "roidbest": {
-      "last_id": 21963,
+      "last_id": 21967,
       "processed_ids": [
         21613,
         21614,
@@ -5970,7 +5971,9 @@
         21960,
         21961,
         21962,
-        21963
+        21963,
+        21964,
+        21967
       ],
       "sent_count": 188,
       "failed": {}
@@ -6983,7 +6986,7 @@
       "failed": {}
     },
     "comentiat": {
-      "last_id": 26724,
+      "last_id": 26725,
       "processed_ids": [
         25844,
         25845,
@@ -7673,9 +7676,10 @@
         26721,
         26722,
         26723,
-        26724
+        26724,
+        26725
       ],
-      "sent_count": 513,
+      "sent_count": 514,
       "failed": {}
     },
     "boost/fndoni": {
@@ -7687,7 +7691,7 @@
       "failed": {}
     },
     "majalepezeshki": {
-      "last_id": 38845,
+      "last_id": 38847,
       "processed_ids": [
         38432,
         38433,
@@ -8092,7 +8096,9 @@
         38842,
         38843,
         38844,
-        38845
+        38845,
+        38846,
+        38847
       ],
       "sent_count": 236,
       "failed": {}
@@ -9304,7 +9310,7 @@
       "failed": {}
     },
     "jaleb": {
-      "last_id": 53183,
+      "last_id": 53185,
       "processed_ids": [
         52261,
         52262,
@@ -10091,9 +10097,11 @@
         53180,
         53181,
         53182,
-        53183
+        53183,
+        53184,
+        53185
       ],
-      "sent_count": 385,
+      "sent_count": 386,
       "failed": {}
     },
     "ajayebe_jahann": {
@@ -11316,19 +11324,8 @@
       "failed": {}
     },
     "ft360_ir": {
-      "last_id": 111276,
+      "last_id": 111287,
       "processed_ids": [
-        109721,
-        109722,
-        109723,
-        109724,
-        109725,
-        109726,
-        109727,
-        109728,
-        109729,
-        109730,
-        109731,
         109732,
         109733,
         109734,
@@ -12317,19 +12314,25 @@
         111273,
         111274,
         111275,
-        111276
+        111276,
+        111277,
+        111278,
+        111279,
+        111280,
+        111281,
+        111282,
+        111283,
+        111284,
+        111285,
+        111286,
+        111287
       ],
       "sent_count": 257,
       "failed": {}
     },
     "varzesh3": {
-      "last_id": 305018,
+      "last_id": 305024,
       "processed_ids": [
-        303620,
-        303621,
-        303622,
-        303623,
-        303624,
         303625,
         303626,
         303627,
@@ -13324,7 +13327,12 @@
         305015,
         305016,
         305017,
-        305018
+        305018,
+        305019,
+        305020,
+        305021,
+        305022,
+        305024
       ],
       "sent_count": 152,
       "failed": {}
@@ -14337,10 +14345,8 @@
       "failed": {}
     },
     "adak_ir_official": {
-      "last_id": 236028,
+      "last_id": 236030,
       "processed_ids": [
-        234865,
-        234866,
         234867,
         234868,
         234869,
@@ -15338,17 +15344,16 @@
         236025,
         236026,
         236027,
-        236028
+        236028,
+        236029,
+        236030
       ],
-      "sent_count": 300,
+      "sent_count": 301,
       "failed": {}
     },
     "futball180tv": {
-      "last_id": 109571,
+      "last_id": 109574,
       "processed_ids": [
-        108254,
-        108255,
-        108256,
         108257,
         108258,
         108259,
@@ -16345,17 +16350,17 @@
         109568,
         109569,
         109570,
-        109571
+        109571,
+        109572,
+        109573,
+        109574
       ],
       "sent_count": 165,
       "failed": {}
     },
     "hattric_official": {
-      "last_id": 85644,
+      "last_id": 85648,
       "processed_ids": [
-        84368,
-        84369,
-        84370,
         84371,
         84372,
         84373,
@@ -17352,13 +17357,16 @@
         85640,
         85641,
         85643,
-        85644
+        85644,
+        85645,
+        85646,
+        85648
       ],
       "sent_count": 241,
       "failed": {}
     },
     "mazdak_hattrick": {
-      "last_id": 182780,
+      "last_id": 182781,
       "processed_ids": [
         181991,
         181992,
@@ -18099,9 +18107,10 @@
         182776,
         182777,
         182778,
-        182780
+        182780,
+        182781
       ],
-      "sent_count": 73,
+      "sent_count": 74,
       "failed": {}
     },
     "djharmony": {
@@ -18300,7 +18309,7 @@
       "failed": {}
     },
     "irwonders": {
-      "last_id": 59066,
+      "last_id": 59068,
       "processed_ids": [
         58030,
         58031,
@@ -19215,9 +19224,11 @@
         59063,
         59064,
         59065,
-        59066
+        59066,
+        59067,
+        59068
       ],
-      "sent_count": 584,
+      "sent_count": 586,
       "failed": {}
     },
     "razcom": {
@@ -21660,7 +21671,7 @@
       "failed": {}
     },
     "film_news": {
-      "last_id": 15021,
+      "last_id": 15022,
       "processed_ids": [
         14976,
         14978,
@@ -21703,13 +21714,14 @@
         15016,
         15018,
         15020,
-        15021
+        15021,
+        15022
       ],
-      "sent_count": 29,
+      "sent_count": 30,
       "failed": {}
     },
     "cinematicketorg": {
-      "last_id": 24439,
+      "last_id": 24440,
       "processed_ids": [
         24353,
         24354,
@@ -21777,9 +21789,10 @@
         24436,
         24437,
         24438,
-        24439
+        24439,
+        24440
       ],
-      "sent_count": 50,
+      "sent_count": 51,
       "failed": {}
     },
     "cinemadaily": {
@@ -23103,7 +23116,7 @@
       "failed": {}
     },
     "funy_khand": {
-      "last_id": 26165,
+      "last_id": 26167,
       "processed_ids": [
         25704,
         25705,
@@ -23545,13 +23558,15 @@
         26162,
         26163,
         26164,
-        26165
+        26165,
+        26166,
+        26167
       ],
       "sent_count": 0,
       "failed": {}
     },
     "persiana_pluss": {
-      "last_id": 7033,
+      "last_id": 7035,
       "processed_ids": [
         6113,
         6114,
@@ -24290,13 +24305,15 @@
         7030,
         7031,
         7032,
-        7033
+        7033,
+        7034,
+        7035
       ],
       "sent_count": 17,
       "failed": {}
     },
     "ghandeharipoet": {
-      "last_id": 42845,
+      "last_id": 42846,
       "processed_ids": [
         42693,
         42694,
@@ -24441,13 +24458,14 @@
         42842,
         42843,
         42844,
-        42845
+        42845,
+        42846
       ],
-      "sent_count": 116,
+      "sent_count": 117,
       "failed": {}
     },
     "dashagh": {
-      "last_id": 48710,
+      "last_id": 48711,
       "processed_ids": [
         48313,
         48314,
@@ -24715,9 +24733,10 @@
         48707,
         48708,
         48709,
-        48710
+        48710,
+        48711
       ],
-      "sent_count": 187,
+      "sent_count": 188,
       "failed": {}
     },
     "apkclub": {
@@ -24959,7 +24978,7 @@
       "failed": {}
     },
     "boob_sfangi": {
-      "last_id": 2825,
+      "last_id": 2829,
       "processed_ids": [
         2587,
         2590,
@@ -25133,13 +25152,17 @@
         2822,
         2823,
         2824,
-        2825
+        2825,
+        2826,
+        2827,
+        2828,
+        2829
       ],
-      "sent_count": 110,
+      "sent_count": 111,
       "failed": {}
     },
     "fucknewsi": {
-      "last_id": 13893,
+      "last_id": 13894,
       "processed_ids": [
         13561,
         13562,
@@ -25346,7 +25369,8 @@
         13890,
         13891,
         13892,
-        13893
+        13893,
+        13894
       ],
       "sent_count": 87,
       "failed": {}
@@ -25370,7 +25394,7 @@
       "failed": {}
     },
     "bimaariha": {
-      "last_id": 19585,
+      "last_id": 19593,
       "processed_ids": [
         19155,
         19156,
@@ -25580,9 +25604,17 @@
         19582,
         19583,
         19584,
-        19585
+        19585,
+        19586,
+        19587,
+        19588,
+        19589,
+        19590,
+        19591,
+        19592,
+        19593
       ],
-      "sent_count": 112,
+      "sent_count": 115,
       "failed": {}
     },
     "https://t.me/+wwztqghfdltimjnk": {
@@ -25618,232 +25650,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "9805d909e7fef1a7764a456b0b29bd6546c74bc93ddb9fa6fe10a06501ba7aa8",
-        "media_fingerprint": "5ab6a43bf2b14ca61bd7733da9840ae22c909f77815b5024927164efede3310b",
-        "text": "از ابهت قاجاری تا بیخیالی پشت فرمان\nدرباره بازی متفاوت علی مصفا در سریال‌های «بامداد خمار»و «تاکسی»\nعلی مصفا با بازی در «بامداد خمار» و «تاکسی» نشان داد چطور می‌توان دو شخصیت کاملاً متفاوت را باورپذیر کرد. تفاوت این دو نقش، توانایی او در ساختن شخصیت از دل جزئیات را آشکار می‌کند.\nمتن کامل را در پیج «فیلم‌نیوز سریال» بخوانید\nhttps://B2n.ir/pw9991",
-        "original_username": "film_news",
-        "original_text": "از ابهت قاجاری تا بیخیالی پشت فرمان\nدرباره بازی متفاوت علی مصفا در سریال‌های «بامداد خمار»و «تاکسی»\nعلی مصفا با بازی در «بامداد خمار» و «تاکسی» نشان داد چطور می‌توان دو شخصیت کاملاً متفاوت را باورپذیر کرد. تفاوت این دو نقش، توانایی او در ساختن شخصیت از دل جزئیات را آشکار می‌کند.\nمتن کامل را در پیج «فیلم‌نیوز سریال» بخوانید\nhttps://B2n.ir/pw9991",
-        "original_link": "https://t.me/Film_news/15021",
-        "post_id": 15021,
-        "message_id": 13173,
-        "message_kind": "caption",
-        "sources": [
-          "film_news"
-        ],
-        "created_at": "2026-10-24T10:12:07.977446+00:00"
-      },
-      {
-        "fingerprint": "d4f0e215a5b583a739aba887cfacedfce5ab50968d74a38d75b7fa5437420f06",
-        "media_fingerprint": "c80f98ab386ca638e973e8686fef67b55ad1aff36fb86756eebf0a102a526183",
-        "text": "کلی سوال تو ذهنمهههههه\nاینستا هر روز سوپرایزم میکنه:)))))))\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "کلی سوال تو ذهنمهههههه\nاینستا هر روز سوپرایزم میکنه:)))))))\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/4375",
-        "post_id": 4375,
-        "message_id": 13174,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-24T10:12:15.014774+00:00"
-      },
-      {
-        "fingerprint": "dabaf6195dfec01a4b2fd853369cad73f5ee3f97c5475d5370516764b80e55cc",
-        "media_fingerprint": "02fc045ecc605294b592d49f1ffbfb232dd5d4439e825ca12b095ba05584b0aa",
-        "text": "🔻\nوقتی مبلغ اشتباهی را از کارتخوان کشیدیم چه کاری انجام دهیم؟\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "🔻\nوقتی مبلغ اشتباهی را از کارتخوان کشیدیم چه کاری انجام دهیم؟\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/160173",
-        "post_id": 160173,
-        "message_id": 13175,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann",
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-24T10:12:21.886192+00:00"
-      },
-      {
-        "fingerprint": "b84bae9bc3f46013ea0f3be71bcac498c1e782d121dd50f9ff0c8b38c2a11b4b",
-        "media_fingerprint": "04a9e5a4b2a1f1e0989c2a0f2b6bbb2af80fd7a2f7341c61584fad53b3e1f8d0",
-        "text": "شعر و توصیف این دختر در مورد «خدا» بیشترین بازدید و لایک 24 ساعت اخیر رو داشته!\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "شعر و توصیف این دختر در مورد «خدا» بیشترین بازدید و لایک 24 ساعت اخیر رو داشته!\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/307281",
-        "post_id": 307281,
-        "message_id": 13176,
-        "message_kind": "caption",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-24T10:12:28.162768+00:00"
-      },
-      {
-        "fingerprint": "7c881902b063ee051097d85fef0cacf62a56814ca2c75a00b64f4178f90fd0f7",
-        "media_fingerprint": "897aaed80181f3e7935278ae7db99dcce882b8a0a4806f2e087e3e346699caca",
-        "text": "🔥\nیه شرکت معروف اومده یه گردونه ساخته که بدون قیدو شرط بهت جایزه نقدی میده\n🔥\n🎡\nگردونه شانس رو بچرخون و جایزه نقدی ببر!\n🎁\nفقط با یک کلیک، شانس خودتو امتحان کن!\nکاملا رایگان\n🎯\nبچرخون\n🎁\nبرنده شو\nهر روز ۱۰ شانس رایگان\n🚀\nجایزه‌تو بی قید و شرط دریافت کن\nهمین الان وارد شو و اولین شانس رو امتحان کن\n👇\nhttps://t.me/aiarefaibot?start=ref__Ne77zs",
-        "original_username": "dr_salamatx",
-        "original_text": "🔥\nیه شرکت معروف اومده یه گردونه ساخته که بدون قیدو شرط بهت جایزه نقدی میده\n🔥\n🎡\nگردونه شانس رو بچرخون و جایزه نقدی ببر!\n🎁\nفقط با یک کلیک، شانس خودتو امتحان کن!\nکاملا رایگان\n🎯\nبچرخون\n🎁\nبرنده شو\nهر روز ۱۰ شانس رایگان\n🚀\nجایزه‌تو بی قید و شرط دریافت کن\nهمین الان وارد شو و اولین شانس رو امتحان کن\n👇\nhttps://t.me/aiarefaibot?start=ref__Ne77zs",
-        "original_link": "https://t.me/Dr_SalamatX/55462",
-        "post_id": 55462,
-        "message_id": 13177,
-        "message_kind": "caption",
-        "sources": [
-          "dr_salamatx"
-        ],
-        "created_at": "2026-10-24T10:12:33.809155+00:00"
-      },
-      {
-        "fingerprint": "1bcc8ef79d2519902c942845d6e228ca6717c57f0b2996f3e118cc9da50f8186",
-        "media_fingerprint": "f6f521ee815dc52b9104051ae675039a9b49e3b9f18bffbc9c9b12f8e4325f34",
-        "text": "وقتی میخوای همراه بانکو تو جمع باز کنی :\n(موجودی صد تومن)\n😏\n#Squidward\n💎\nSpongebob | باب اسفنجی",
-        "original_username": "boob_sfangi",
-        "original_text": "وقتی میخوای همراه بانکو تو جمع باز کنی :\n(موجودی صد تومن)\n😏\n#Squidward\n💎\nSpongebob | باب اسفنجی",
-        "original_link": "https://t.me/boob_sfangi/2796",
-        "post_id": 2796,
-        "message_id": 13178,
-        "message_kind": "caption",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-24T10:12:38.522475+00:00"
-      },
-      {
-        "fingerprint": "99898643dbed5edee56c2d9d73cbee1c2b5d306d7d5940905f9ac6607015c900",
-        "media_fingerprint": "b0eb8c76056639f859220a5b99387bbd3d3a5c7e893842d0d63653d65ae00365",
-        "text": "واقعا نباید از رو جلد قضاوت کرد ..\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "واقعا نباید از رو جلد قضاوت کرد ..\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/4386",
-        "post_id": 4386,
-        "message_id": 13179,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-24T10:12:45.364471+00:00"
-      },
-      {
-        "fingerprint": "d92984731695f5c005ad9c45dac77052db2765b57f6049246cd4603ebccb48ae",
-        "media_fingerprint": "02d7284ede95e36dc93549d934afbaccddf122012c73b8b685327b7449f3353c",
-        "text": "🔑\nکلیدت داخل ماشین جا مونده؟\n🚘\nبا این ترفند کاربردی، راه درست باز کردن درب خودرو رو یاد بگیر!\n⚠️\nبرای جلوگیری از آسیب به قفل و سیم‌کشی، از روش‌های غیراصولی استفاده نکن.\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "🔑\nکلیدت داخل ماشین جا مونده؟\n🚘\nبا این ترفند کاربردی، راه درست باز کردن درب خودرو رو یاد بگیر!\n⚠️\nبرای جلوگیری از آسیب به قفل و سیم‌کشی، از روش‌های غیراصولی استفاده نکن.\n@irWonders",
-        "original_link": "https://t.me/irwonders/59035",
-        "post_id": 59035,
-        "message_id": 13180,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-24T10:12:52.098979+00:00"
-      },
-      {
-        "fingerprint": "97376cb3f56d434828d3a0b7b513ff8667778df49ae264f245f889e89f745a5a",
-        "media_fingerprint": "13668c367e79064153077e322ca620120e12acd695f58617e21ca69602f968af",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26709",
-        "post_id": 26709,
-        "message_id": 13181,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-24T13:58:41.253178+00:00"
-      },
-      {
-        "fingerprint": "c5ea1989247c3746fad0f1f3c5d0c4cced54f881ec76d9d55dcf301aa1ca9977",
-        "media_fingerprint": "f689043e464c93c7e095527a3f85bedad4aee2784520d122bb5d784d7c6dbb01",
-        "text": "محمد خردادیان: عاشق یک پسر شدم!\nهنوز نتونستم فراموشش کنم\nخردادیان\n❌️\nقین دادیان\n✅️\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "محمد خردادیان: عاشق یک پسر شدم!\nهنوز نتونستم فراموشش کنم\nخردادیان\n❌️\nقین دادیان\n✅️\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/4392",
-        "post_id": 4392,
-        "message_id": 13182,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-24T13:58:49.248230+00:00"
-      },
-      {
-        "fingerprint": "97fced90dd12ab94f29527cd9290fe86914255c5f071b3f82e3bfda4fe9615c7",
-        "media_fingerprint": "",
-        "text": "بانو برای فوت فتیشا پست جدید گذاشته\n😇",
-        "original_username": "peach_tweet",
-        "original_text": "بانو برای فوت فتیشا پست جدید گذاشته\n😇",
-        "original_link": "https://t.me/peach_tweet/4396",
-        "post_id": 4396,
-        "message_id": 13183,
-        "message_kind": "text",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-24T13:58:52.749048+00:00"
-      },
-      {
-        "fingerprint": "d48a2daf8fe29cead08ac85128e9ffc2e9473edee0e1417b0087be098c0f010b",
-        "media_fingerprint": "b8ff9b3ef4558d78f875f0f08b097430117487a5d09e91bcaacceca4bd94d38c",
-        "text": "این ویدیو به دلایل نامعلوم تو 24 ساعت اخیر بیشترین ویو رو تو‌ اینستاگرام داشته )))\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "این ویدیو به دلایل نامعلوم تو 24 ساعت اخیر بیشترین ویو رو تو‌ اینستاگرام داشته )))\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/4397",
-        "post_id": 4397,
-        "message_id": 13184,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-24T13:58:59.690337+00:00"
-      },
-      {
-        "fingerprint": "7bf8dd1504ceb2136a166b855905016e12e814a1fc7b452be84da15f57b2c3ca",
-        "media_fingerprint": "82d97480177172779dd34d57ec13763a65666214e92171d17e782f22d866ae3b",
-        "text": "سریال‌هایی که با کمک هوش مصنوعی ساخته میشه :\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "سریال‌هایی که با کمک هوش مصنوعی ساخته میشه :\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/4402",
-        "post_id": 4402,
-        "message_id": 13185,
-        "message_kind": "text",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-24T13:59:03.986132+00:00"
-      },
-      {
-        "fingerprint": "99f4522b43f14aa5d6d3598a1d16f6eba19bcde9994493c421dd2dafb523a949",
-        "media_fingerprint": "",
-        "text": "شب با تاریکی اش به ما میفهماند\nهیچ ظلماتی همیشه پایدار نیست\nو شروع تاریکی بی حکمت نیست\nو امید به روشنایی بی نشانه نیست\nتاریکیتان با حضور نور الهی پایان بیابد\n#شب_بخیر\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
-        "original_username": "ghandeharipoet",
-        "original_text": "شب با تاریکی اش به ما میفهماند\nهیچ ظلماتی همیشه پایدار نیست\nو شروع تاریکی بی حکمت نیست\nو امید به روشنایی بی نشانه نیست\nتاریکیتان با حضور نور الهی پایان بیابد\n#شب_بخیر\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
-        "original_link": "https://t.me/Ghandeharipoet/42838",
-        "post_id": 42838,
-        "message_id": 13186,
-        "message_kind": "text",
-        "sources": [
-          "ghandeharipoet"
-        ],
-        "created_at": "2026-10-24T13:59:07.463423+00:00"
-      },
-      {
-        "fingerprint": "bcc96266049d65a50f117b6b27fdd4e9f4e4343421d1c24d3295278b36a85d6d",
-        "media_fingerprint": "94fb9888ed4a840675cc3fbea9ef074c344adb4185736406d8fc48258e77587e",
-        "text": "با توجه به قیمت اینترنت فکر کنم دیگه فیلم دیدن با کیفیت 1080 رفت تو خاطرات و باید سراغ 480 بریم.\n📷\n|\n@ShakhMovie",
-        "original_username": "shakhmovie",
-        "original_text": "با توجه به قیمت اینترنت فکر کنم دیگه فیلم دیدن با کیفیت 1080 رفت تو خاطرات و باید سراغ 480 بریم.\n📷\n|\n@ShakhMovie",
-        "original_link": "https://t.me/Shakhmovie/4256",
-        "post_id": 4256,
-        "message_id": 13187,
-        "message_kind": "caption",
-        "sources": [
-          "shakhmovie"
-        ],
-        "created_at": "2026-10-24T13:59:13.079159+00:00"
-      },
       {
         "fingerprint": "971d86e3987aaa1c75bc1126e3990051c9a5c5798b8e3bf308d0c3f636c1d3a3",
         "media_fingerprint": "16b5344f51ff53e8935e98ad826b8ff8a1d5244aa63ca02a97c27e35be67188b",
@@ -30137,6 +29943,231 @@
           "dashagh"
         ],
         "created_at": "2026-10-24T17:30:29.404613+00:00"
+      },
+      {
+        "fingerprint": "b365f422767692fc98cc484566ffa97bc757a86113c156bed40be8ced50e8407",
+        "media_fingerprint": "",
+        "text": "🚨\n🚨\n🚨\n🚨\n📝\nپرسش‌های متداول\nآیا سنگ کیسه صفرا باعث درد شکم می‌شود؟\nبله، سنگ کیسه صفرا می‌تواند باعث درد در قسمت بالای سمت راست شکم، به‌خصوص پس از مصرف غذای چرب شود.\nعلائم التهاب کیسه صفرا چیست؟\nدرد مداوم سمت راست بالای شکم، تب، تهوع و استفراغ از علائم شایع هستند.\nآیا سنگ کیسه صفرا بدون علامت هم ایجاد می‌شود؟\nبله، بسیاری از افراد سنگ کیسه صفرا دارند، اما هیچ علامتی احساس نمی‌کنند.\nآیا مصرف غذاهای چرب برای کیسه صفرا مضر است؟\nغذاهای پرچرب ممکن است در برخی افراد درد کیسه صفرا را تحریک کنند.\nآیا سنگ کیسه صفرا با دارو درمان می‌شود؟\nدر بیشتر موارد، درمان قطعی سنگ‌های علامت‌دار جراحی است؛ دارو فقط در شرایط خاص کاربرد دارد.\nآیا برداشتن کیسه صفرا خطرناک است؟\nاین جراحی معمولاً ایمن است، اما مانند هر عمل دیگری احتمال عوارض وجود دارد.\nآیا پس از برداشتن کیسه صفرا می‌توان زندگی طبیعی داشت؟\nبله، بیشتر افراد زندگی طبیعی دارند؛ برخی ممکن است مدتی دچار اسهال یا ناراحتی گوارشی شوند.\nچه زمانی درد کیسه صفرا خطرناک است؟\nاگر درد شدید یا مداوم، تب، زردی پوست یا چشم، یا استفراغ مکرر دارید، فوراً به اورژانس مراجعه کنید\n🚨\n@Bimaariha\n➕",
+        "original_username": "bimaariha",
+        "original_text": "🚨\n🚨\n🚨\n🚨\n📝\nپرسش‌های متداول\nآیا سنگ کیسه صفرا باعث درد شکم می‌شود؟\nبله، سنگ کیسه صفرا می‌تواند باعث درد در قسمت بالای سمت راست شکم، به‌خصوص پس از مصرف غذای چرب شود.\nعلائم التهاب کیسه صفرا چیست؟\nدرد مداوم سمت راست بالای شکم، تب، تهوع و استفراغ از علائم شایع هستند.\nآیا سنگ کیسه صفرا بدون علامت هم ایجاد می‌شود؟\nبله، بسیاری از افراد سنگ کیسه صفرا دارند، اما هیچ علامتی احساس نمی‌کنند.\nآیا مصرف غذاهای چرب برای کیسه صفرا مضر است؟\nغذاهای پرچرب ممکن است در برخی افراد درد کیسه صفرا را تحریک کنند.\nآیا سنگ کیسه صفرا با دارو درمان می‌شود؟\nدر بیشتر موارد، درمان قطعی سنگ‌های علامت‌دار جراحی است؛ دارو فقط در شرایط خاص کاربرد دارد.\nآیا برداشتن کیسه صفرا خطرناک است؟\nاین جراحی معمولاً ایمن است، اما مانند هر عمل دیگری احتمال عوارض وجود دارد.\nآیا پس از برداشتن کیسه صفرا می‌توان زندگی طبیعی داشت؟\nبله، بیشتر افراد زندگی طبیعی دارند؛ برخی ممکن است مدتی دچار اسهال یا ناراحتی گوارشی شوند.\nچه زمانی درد کیسه صفرا خطرناک است؟\nاگر درد شدید یا مداوم، تب، زردی پوست یا چشم، یا استفراغ مکرر دارید، فوراً به اورژانس مراجعه کنید\n🚨\n@Bimaariha\n➕",
+        "original_link": "https://t.me/Bimaariha/19586",
+        "post_id": 19586,
+        "message_id": 13496,
+        "message_kind": "text",
+        "sources": [
+          "bimaariha"
+        ],
+        "created_at": "2026-10-24T18:10:18.060013+00:00"
+      },
+      {
+        "fingerprint": "7c234e84ac4b6fac327904aa86d1277111a8649bc20231f9ed925b4b76afead1",
+        "media_fingerprint": "2528abf08bd54d20942b29c3a78f8761d531effef9162e952fbaf49cafbd88b0",
+        "text": "🎭\nپیش فروش نمایش «مه»\n«بهت نگفته بودم تو قهرمان زندگی منی؟»\nنویسنده: نیما نافع\nکارگردان: سهند خیرآبادی\nتهیه‌کننده: صدف رضاپور\nبازیگران: فرنوش نیک‌اندیش و نیما نافع\n📆\nاز ۱۱ آبان ۱۴۰۵\n⏰\nساعت ۱۹:۰۰\n📍\nسالن هامون\n🎟\n️برای خرید بلیت از سینماتیکت کلیک کنید\n@cinematicketorg",
+        "original_username": "jaleb",
+        "original_text": "🎭\nپیش فروش نمایش «مه»\n«بهت نگفته بودم تو قهرمان زندگی منی؟»\nنویسنده: نیما نافع\nکارگردان: سهند خیرآبادی\nتهیه‌کننده: صدف رضاپور\nبازیگران: فرنوش نیک‌اندیش و نیما نافع\n📆\nاز ۱۱ آبان ۱۴۰۵\n⏰\nساعت ۱۹:۰۰\n📍\nسالن هامون\n🎟\n️برای خرید بلیت از سینماتیکت کلیک کنید\n@cinematicketorg",
+        "original_link": "https://t.me/Jaleb/53184",
+        "post_id": 53184,
+        "message_id": 13497,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-24T18:10:23.990063+00:00"
+      },
+      {
+        "fingerprint": "b0ce0fe742ba9c9d834ea1ee0acc8d7b77d86b7a38faf7cdc542c5c9c6131c26",
+        "media_fingerprint": "9752f08abdaa8f5d58416dbc481e94daffb1a2dd9652672b914209bcb395ee5b",
+        "text": "نمایی متفاوت از فلامینگو های دریاچه ارومیه\n🦩\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "نمایی متفاوت از فلامینگو های دریاچه ارومیه\n🦩\n@irWonders",
+        "original_link": "https://t.me/irwonders/59067",
+        "post_id": 59067,
+        "message_id": 13498,
+        "message_kind": "text",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-24T18:10:28.905229+00:00"
+      },
+      {
+        "fingerprint": "385787a7161712a2e2781304d25fc663520ac1ad2a9b1ebc89c9ff3324c01dbe",
+        "media_fingerprint": "0dbcc2bc288c25c30b773af79a77030885eee1591954fbd37de5c320036286e7",
+        "text": "🇮🇷\n⚽️\nتبریک باشگاه پرسپولیس به فدراسیون فوتبال درپی انتخاب یحیی گل‌محمدی به عنوان سرمربی تیم امید\n🆔\n@mazdak_hattrick",
+        "original_username": "mazdak_hattrick",
+        "original_text": "🇮🇷\n⚽️\nتبریک باشگاه پرسپولیس به فدراسیون فوتبال درپی انتخاب یحیی گل‌محمدی به عنوان سرمربی تیم امید\n🆔\n@mazdak_hattrick",
+        "original_link": "https://t.me/mazdak_hattrick/182781",
+        "post_id": 182781,
+        "message_id": 13499,
+        "message_kind": "caption",
+        "sources": [
+          "mazdak_hattrick"
+        ],
+        "created_at": "2026-10-24T18:10:34.749581+00:00"
+      },
+      {
+        "fingerprint": "3c6e0ec8729211e73f3d106928d4f27c5645e8fcbeef5b0f13739794cc6540e5",
+        "media_fingerprint": "ac6c2fc8e20ddf3e836404916d264627ba3704cf11f99d073a6062c2a464be16",
+        "text": "♦️\nیادی کنیم از شیرازی حرف زدن ترلان پروانه\n😁\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nیادی کنیم از شیرازی حرف زدن ترلان پروانه\n😁\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144384",
+        "post_id": 144384,
+        "message_id": 13500,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-24T18:10:44.247757+00:00"
+      },
+      {
+        "fingerprint": "a8e5a443bd607409ff2548ce7739161b1e1bee7dd5912f1c08e49a89fcc024e5",
+        "media_fingerprint": "",
+        "text": "🟠\nتیم فولاد خوزستان فردا پس از دو دهه از پیراهن زرد استفاده می‌کند و با آن به مصاف پرسپولیس می‌رود.\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🟠\nتیم فولاد خوزستان فردا پس از دو دهه از پیراهن زرد استفاده می‌کند و با آن به مصاف پرسپولیس می‌رود.\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/236030",
+        "post_id": 236030,
+        "message_id": 13501,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-24T18:10:47.957912+00:00"
+      },
+      {
+        "fingerprint": "e042c15d98be21f840548fa88615d960cec76759dff301e43e58c7d45c948b0b",
+        "media_fingerprint": "7b71057957d6818fca5ab0ec91e99196add8fead6376f09a4d185ab9c900c6ee",
+        "text": "عجایب ایران_ نوشته وقتی اسنپ نمیوفته به جشن هالوین برسیم(:\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "عجایب ایران_ نوشته وقتی اسنپ نمیوفته به جشن هالوین برسیم(:\n@irWonders",
+        "original_link": "https://t.me/irwonders/59068",
+        "post_id": 59068,
+        "message_id": 13502,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-24T18:10:55.382810+00:00"
+      },
+      {
+        "fingerprint": "1f41145a7fcfb36c334f610cac6cc77e20554ea5080ed5b270f2cd0588e2107a",
+        "media_fingerprint": "5e6bf3cc770106637b4d7390267f0f8fc702b2181ec63c054374fd7a66fc4cbf",
+        "text": "😯\nاز عجایب کرمان :\nیه کانگورو داره برای خودش وسط خیابونای کرمان قدم میزنه و چندتا ماشین و آدم افتادن دنبالش تا بگیرنش\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
+        "original_username": "boob_sfangi",
+        "original_text": "😯\nاز عجایب کرمان :\nیه کانگورو داره برای خودش وسط خیابونای کرمان قدم میزنه و چندتا ماشین و آدم افتادن دنبالش تا بگیرنش\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
+        "original_link": "https://t.me/boob_sfangi/2829",
+        "post_id": 2829,
+        "message_id": 13503,
+        "message_kind": "caption",
+        "sources": [
+          "boob_sfangi"
+        ],
+        "created_at": "2026-10-24T18:11:02.127808+00:00"
+      },
+      {
+        "fingerprint": "2b1f040ce49a7757acb176431b01768c438f59a150085c3ed3976a82e3dd5ea6",
+        "media_fingerprint": "2f311b132a3c07c68bf12c886434df4d32950ad097b1042f68da5a5f55d5e998",
+        "text": "🚀\nاین ۳ میوه\nرگهای\nآلت تناسلی رو باز میکنه ...\n‼️\nافزایش جریان خون در آلت تناسلی ...\nمشاهده مطلب علمی\n➡️",
+        "original_username": "bimaariha",
+        "original_text": "🚀\nاین ۳ میوه\nرگهای\nآلت تناسلی رو باز میکنه ...\n‼️\nافزایش جریان خون در آلت تناسلی ...\nمشاهده مطلب علمی\n➡️",
+        "original_link": "https://t.me/Bimaariha/19592",
+        "post_id": 19592,
+        "message_id": 13504,
+        "message_kind": "caption",
+        "sources": [
+          "bimaariha"
+        ],
+        "created_at": "2026-10-24T18:11:07.835612+00:00"
+      },
+      {
+        "fingerprint": "b8213c757f6c10b3e3f40b0418b362c6f35017ac0b1936a81e53bc438d15628d",
+        "media_fingerprint": "3e2e17c2351e3b8428023b2026d31f3103280a390362d4163b2432971760d465",
+        "text": "«آژانس دوستی»؛ آزمون متفاوت بهرنگ توفیقی\nآیا کارگردان آثاری از جنس «شغال» ، «آمین» و…انتخاب خوبی برای ادامه این سریال است؟\nبهرنگ توفیقی قرار است «آژانس دوستی» را به فصل سوم برساند؛ مجموعه‌ای که جهان قصه‌گویی‌اش با کارنامه این کارگردان تفاوت دارد.\nمتن کامل را در پیج «فیلم‌نیوز سریال» بخوانید\nhttps://B2n.ir/pw9991",
+        "original_username": "film_news",
+        "original_text": "«آژانس دوستی»؛ آزمون متفاوت بهرنگ توفیقی\nآیا کارگردان آثاری از جنس «شغال» ، «آمین» و…انتخاب خوبی برای ادامه این سریال است؟\nبهرنگ توفیقی قرار است «آژانس دوستی» را به فصل سوم برساند؛ مجموعه‌ای که جهان قصه‌گویی‌اش با کارنامه این کارگردان تفاوت دارد.\nمتن کامل را در پیج «فیلم‌نیوز سریال» بخوانید\nhttps://B2n.ir/pw9991",
+        "original_link": "https://t.me/Film_news/15022",
+        "post_id": 15022,
+        "message_id": 13505,
+        "message_kind": "caption",
+        "sources": [
+          "film_news"
+        ],
+        "created_at": "2026-10-24T18:11:34.642387+00:00"
+      },
+      {
+        "fingerprint": "44cb6d59c4e7617eb88a8394919e390487a0a3a7ef3449ada0d31eff43ee9901",
+        "media_fingerprint": "e59462a5aaa8d4c3c469de7eb35d4d3594f9e569ecc449ebf6841912460758da",
+        "text": "خیابانِ فرشته، تهران، آبان  1405\nزیبایی ببینید\n❤️\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "خیابانِ فرشته، تهران، آبان  1405\nزیبایی ببینید\n❤️\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48711",
+        "post_id": 48711,
+        "message_id": 13506,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-24T18:11:44.317700+00:00"
+      },
+      {
+        "fingerprint": "cd78dda09588f236fc090882a40ce0f13a63c195491ffcf9c6cecff9b5c92b00",
+        "media_fingerprint": "7e85491d4399d1c4ec662cd5e2280776f1b7514c1607aad84a99a88c3095a76c",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26725",
+        "post_id": 26725,
+        "message_id": 13507,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-24T18:11:50.904236+00:00"
+      },
+      {
+        "fingerprint": "b9a014418d23274a7a7669d645b893ddceab47d0c7f0855367f180bc287f5a27",
+        "media_fingerprint": "809336674a513f5c7f9fd960c9ff194ca1c0a5809aa68276b70a6da5c714d681",
+        "text": "📸\nگزارش تصویری از فیلم \"من می‌ترسم\"\nمراسم افتتاحیه اکران عمومی نسخه جدید فیلم سینمایی «من می‌ترسم» ساخته بهنام بهزادی، با حضور یکتا ناصر، کاوه سماک باشی، روشنگ گرامی، پوریا رحیمی سام، ندا قاسمی، ایرح طهماسب، مژده لواسانی\nامشب در باغ فردوس، موزه سینمای ایران برگزار شد.\nبرای دیدن تصویر بیشتر کلیک کنید\n@cinematicketorg",
+        "original_username": "cinematicketorg",
+        "original_text": "📸\nگزارش تصویری از فیلم \"من می‌ترسم\"\nمراسم افتتاحیه اکران عمومی نسخه جدید فیلم سینمایی «من می‌ترسم» ساخته بهنام بهزادی، با حضور یکتا ناصر، کاوه سماک باشی، روشنگ گرامی، پوریا رحیمی سام، ندا قاسمی، ایرح طهماسب، مژده لواسانی\nامشب در باغ فردوس، موزه سینمای ایران برگزار شد.\nبرای دیدن تصویر بیشتر کلیک کنید\n@cinematicketorg",
+        "original_link": "https://t.me/cinematicketorg/24440",
+        "post_id": 24440,
+        "message_id": 13508,
+        "message_kind": "caption",
+        "sources": [
+          "cinematicketorg"
+        ],
+        "created_at": "2026-10-24T18:12:24.657145+00:00"
+      },
+      {
+        "fingerprint": "9318dec4f1f3e8c01edb339cec7338ac08441976798fe02ce5ad8e6f7f14b314",
+        "media_fingerprint": "",
+        "text": "باز،شدن رگهای آلت تناسلی با این ۳ میوه\n...",
+        "original_username": "bimaariha",
+        "original_text": "باز،شدن رگهای آلت تناسلی با این ۳ میوه\n...",
+        "original_link": "https://t.me/Bimaariha/19593",
+        "post_id": 19593,
+        "message_id": 13514,
+        "message_kind": "text",
+        "sources": [
+          "bimaariha"
+        ],
+        "created_at": "2026-10-24T18:12:28.353031+00:00"
+      },
+      {
+        "fingerprint": "20bd083c02d115863f710004f91a763d6ff326f54716a432f2f456c7e4698f13",
+        "media_fingerprint": "",
+        "text": "ضعیف‌ترین ورژن هرڪس وقتیہ ڪہ یڪیو از تہ دل دوست داره...\n❤️\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
+        "original_username": "ghandeharipoet",
+        "original_text": "ضعیف‌ترین ورژن هرڪس وقتیہ ڪہ یڪیو از تہ دل دوست داره...\n❤️\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
+        "original_link": "https://t.me/Ghandeharipoet/42846",
+        "post_id": 42846,
+        "message_id": 13515,
+        "message_kind": "text",
+        "sources": [
+          "ghandeharipoet"
+        ],
+        "created_at": "2026-10-24T18:12:31.968936+00:00"
       }
     ]
   }
