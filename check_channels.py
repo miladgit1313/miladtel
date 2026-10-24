@@ -6,6 +6,8 @@ import hashlib
 import shutil
 from datetime import datetime, timezone
 
+from concurrent.futures import ThreadPoolExecutor
+
 import requests
 from bs4 import BeautifulSoup
 
@@ -28,6 +30,14 @@ MAX_RETRY_WAIT = 60
 MAX_SEND_ATTEMPTS = 5
 CAPTION_LIMIT = 1024
 MESSAGE_LIMIT = 4096
+
+# زمان شروع اجرا و سقف زمانی مرحله‌ی ارسال. پست‌هایی که در این
+# بودجه‌ی زمانی ارسال نشوند، برای اجرای بعدی می‌مانند.
+RUN_STARTED = time.monotonic()
+MAX_RUNTIME_SECONDS = int(
+    os.environ.get("MAX_RUNTIME_MINUTES") or "10"
+) * 60
+FETCH_WORKERS = 6
 MAX_PROCESSED_IDS = 1000
 MAX_GLOBAL_HISTORY = 300
 
@@ -262,7 +272,7 @@ def telegram_call(
         response = requests.post(
             f"{API}/{method}",
             data=params,
-            timeout=60
+            timeout=30
         )
     except requests.RequestException as e:
         raise TelegramAPIError(0, f"Network error: {e}")
@@ -341,7 +351,7 @@ def multipart_call(
             f"{API}/{method}",
             data=data,
             files=files,
-            timeout=180
+            timeout=120
         )
     except requests.RequestException as e:
         raise TelegramAPIError(0, f"Network error: {e}")
@@ -490,7 +500,7 @@ def download_file(url, extension="bin"):
     response = requests.get(
         url,
         headers=HEADERS,
-        timeout=180
+        timeout=90
     )
 
     response.raise_for_status()
@@ -529,7 +539,7 @@ def fetch_channel_posts(username):
     response = requests.get(
         url,
         headers=HEADERS,
-        timeout=60
+        timeout=20
     )
 
     response.raise_for_status()
@@ -1818,11 +1828,51 @@ def add_history(
     del history[:-MAX_GLOBAL_HISTORY]
 
 
+def fetch_all_channels(usernames):
+    def work(username):
+        last_error = None
+
+        for attempt in range(2):
+            try:
+                return username, fetch_channel_posts(username), None
+            except Exception as e:
+                last_error = e
+
+                if attempt == 0:
+                    time.sleep(2)
+
+        return username, None, last_error
+
+    results = {}
+
+    with ThreadPoolExecutor(max_workers=FETCH_WORKERS) as pool:
+        for username, posts, error in pool.map(work, usernames):
+            results[username] = (posts, error)
+
+    return results
+
+
 def check_channels(channels, channel_keywords, banned_words, state):
     channel_states = state["channels"]
     history = state["global"]["history"]
 
     candidates = []
+
+    clean_usernames = [
+        c.strip().lstrip("@").lower()
+        for c in channels
+    ]
+
+    fetch_started = time.monotonic()
+
+    fetched = fetch_all_channels(
+        list(dict.fromkeys(clean_usernames))
+    )
+
+    print(
+        f"[TIME] دریافت {len(fetched)} کانال: "
+        f"{time.monotonic() - fetch_started:.0f}s"
+    )
 
     for channel_index, username in enumerate(channels):
         username = (
@@ -1835,14 +1885,14 @@ def check_channels(channels, channel_keywords, banned_words, state):
         print("")
         print(f"[CHECK] @{username}")
 
-        try:
-            posts = fetch_channel_posts(
-                username
-            )
+        posts, fetch_error = fetched.get(
+            username,
+            (None, None)
+        )
 
-        except Exception as e:
+        if fetch_error is not None or posts is None:
             print(
-                f"[ERROR] دریافت @{username}: {e}"
+                f"[ERROR] دریافت @{username}: {fetch_error}"
             )
             continue
 
@@ -1942,7 +1992,14 @@ def check_channels(channels, channel_keywords, banned_words, state):
         f"{len(candidates)}"
     )
 
-    for item in candidates:
+    for position, item in enumerate(candidates):
+        if time.monotonic() - RUN_STARTED > MAX_RUNTIME_SECONDS:
+            print(
+                f"[TIME BUDGET] سقف زمان اجرا تمام شد؛ "
+                f"{len(candidates) - position} پست برای اجرای بعدی ماند."
+            )
+            break
+
         username = item["username"]
         post = item["post"]
         post_id = int(post["id"])
@@ -2126,7 +2183,8 @@ def check_channels(channels, channel_keywords, banned_words, state):
             state
         )
 
-        time.sleep(SEND_DELAY)
+        if position < len(candidates) - 1:
+            time.sleep(SEND_DELAY)
 
     return state
 
@@ -2273,6 +2331,10 @@ def main():
     print("=" * 60)
     print(
         f"[FINAL CHAT ID] {CURRENT_CHAT_ID}"
+    )
+    print(
+        f"[TIME] کل زمان اجرا: "
+        f"{time.monotonic() - RUN_STARTED:.0f}s"
     )
     print("[DONE] اجرای برنامه تمام شد.")
     print("=" * 60)
