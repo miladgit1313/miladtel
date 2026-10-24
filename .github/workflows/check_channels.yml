@@ -1,15 +1,16 @@
-
 name: Telegram Channel Watcher Bot
 
 on:
   schedule:
-   - cron: '3-59/10 * * * *'
+    # Every 80 minutes: 00:00, 01:20, 02:40, 04:00, ...
+    - cron: '0 */4 * * *'
+    - cron: '20 1-21/4 * * *'
+    - cron: '40 2-22/4 * * *'
   workflow_dispatch:
 
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
     permissions:
       contents: write
 
@@ -28,7 +29,7 @@ jobs:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
           OWNER_ID: ${{ secrets.OWNER_ID }}
-        run: python -u check_channels.py 2>&1 | tee run_log.txt
+        run: python check_channels.py 2>&1 | tee run_log.txt
 
       - name: Upload log
         if: always()
@@ -36,10 +37,8 @@ jobs:
         with:
           name: run-log
           path: run_log.txt
-          if-no-files-found: ignore
 
       - name: Commit updated state
-        if: success()
         run: |
           git config user.name "channel-watcher-bot"
           git config user.email "actions@github.com"
