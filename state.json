@@ -1,12 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 144436,
+      "last_id": 144440,
       "processed_ids": [
-        143149,
-        143150,
-        143151,
-        143152,
         143153,
         143154,
         143155,
@@ -1002,21 +998,18 @@
         144433,
         144434,
         144435,
-        144436
+        144436,
+        144437,
+        144438,
+        144439,
+        144440
       ],
-      "sent_count": 1256,
+      "sent_count": 1259,
       "failed": {}
     },
     "total_fut": {
-      "last_id": 238705,
+      "last_id": 238712,
       "processed_ids": [
-        237497,
-        237498,
-        237500,
-        237501,
-        237502,
-        237503,
-        237504,
         237505,
         237506,
         237507,
@@ -2009,20 +2002,21 @@
         238702,
         238703,
         238704,
-        238705
+        238705,
+        238706,
+        238707,
+        238708,
+        238709,
+        238710,
+        238711,
+        238712
       ],
-      "sent_count": 193,
+      "sent_count": 195,
       "failed": {}
     },
     "footballvision2": {
-      "last_id": 172899,
+      "last_id": 172905,
       "processed_ids": [
-        171028,
-        171029,
-        171030,
-        171031,
-        171032,
-        171033,
         171034,
         171035,
         171036,
@@ -3016,9 +3010,15 @@
         172896,
         172897,
         172898,
-        172899
+        172899,
+        172900,
+        172901,
+        172902,
+        172903,
+        172904,
+        172905
       ],
-      "sent_count": 213,
+      "sent_count": 215,
       "failed": {}
     },
     "tg_ir": {
@@ -3088,7 +3088,7 @@
       "failed": {}
     },
     "fars_today": {
-      "last_id": 132322,
+      "last_id": 132326,
       "processed_ids": [
         131975,
         131976,
@@ -3424,9 +3424,13 @@
         132319,
         132320,
         132321,
-        132322
+        132322,
+        132323,
+        132324,
+        132325,
+        132326
       ],
-      "sent_count": 167,
+      "sent_count": 168,
       "failed": {}
     },
     "behzistikomitenews": {
@@ -3486,18 +3490,8 @@
       "failed": {}
     },
     "drtel": {
-      "last_id": 71791,
+      "last_id": 71802,
       "processed_ids": [
-        66804,
-        66805,
-        66806,
-        66807,
-        66808,
-        66809,
-        66810,
-        66811,
-        66812,
-        66813,
         66814,
         66815,
         66816,
@@ -4487,13 +4481,23 @@
         71788,
         71789,
         71790,
-        71791
+        71791,
+        71792,
+        71793,
+        71794,
+        71795,
+        71797,
+        71798,
+        71799,
+        71800,
+        71801,
+        71802
       ],
-      "sent_count": 637,
+      "sent_count": 641,
       "failed": {}
     },
     "techtube": {
-      "last_id": 18642,
+      "last_id": 18643,
       "processed_ids": [
         18261,
         18262,
@@ -4731,7 +4735,8 @@
         18637,
         18640,
         18641,
-        18642
+        18642,
+        18643
       ],
       "sent_count": 79,
       "failed": {}
@@ -5683,7 +5688,7 @@
       "failed": {}
     },
     "roidbest": {
-      "last_id": 21977,
+      "last_id": 21978,
       "processed_ids": [
         21613,
         21614,
@@ -6021,15 +6026,15 @@
         21973,
         21975,
         21976,
-        21977
+        21977,
+        21978
       ],
       "sent_count": 192,
       "failed": {}
     },
     "akhbar_cafenet": {
-      "last_id": 23688,
+      "last_id": 23689,
       "processed_ids": [
-        22578,
         22579,
         22580,
         22581,
@@ -7028,13 +7033,14 @@
         23685,
         23686,
         23687,
-        23688
+        23688,
+        23689
       ],
       "sent_count": 565,
       "failed": {}
     },
     "comentiat": {
-      "last_id": 26748,
+      "last_id": 26749,
       "processed_ids": [
         25844,
         25845,
@@ -7743,9 +7749,10 @@
         26745,
         26746,
         26747,
-        26748
+        26748,
+        26749
       ],
-      "sent_count": 527,
+      "sent_count": 528,
       "failed": {}
     },
     "boost/fndoni": {
@@ -7757,7 +7764,7 @@
       "failed": {}
     },
     "majalepezeshki": {
-      "last_id": 38856,
+      "last_id": 38857,
       "processed_ids": [
         38432,
         38433,
@@ -8172,26 +8179,15 @@
         38852,
         38853,
         38854,
-        38856
+        38856,
+        38857
       ],
       "sent_count": 240,
       "failed": {}
     },
     "gizmiztel": {
-      "last_id": 163877,
+      "last_id": 163889,
       "processed_ids": [
-        162638,
-        162639,
-        162640,
-        162641,
-        162642,
-        162643,
-        162644,
-        162645,
-        162646,
-        162647,
-        162649,
-        162650,
         162652,
         162653,
         162654,
@@ -9179,9 +9175,21 @@
         163874,
         163875,
         163876,
-        163877
+        163877,
+        163878,
+        163879,
+        163880,
+        163881,
+        163882,
+        163883,
+        163884,
+        163885,
+        163886,
+        163887,
+        163888,
+        163889
       ],
-      "sent_count": 1116,
+      "sent_count": 1126,
       "failed": {}
     },
     "dr_salamatx": {
@@ -9391,7 +9399,7 @@
       "failed": {}
     },
     "jaleb": {
-      "last_id": 53215,
+      "last_id": 53218,
       "processed_ids": [
         52261,
         52262,
@@ -10205,15 +10213,17 @@
         53212,
         53213,
         53214,
-        53215
+        53215,
+        53216,
+        53217,
+        53218
       ],
-      "sent_count": 396,
+      "sent_count": 398,
       "failed": {}
     },
     "ajayebe_jahann": {
-      "last_id": 160234,
+      "last_id": 160235,
       "processed_ids": [
-        159167,
         159168,
         159169,
         159170,
@@ -11212,9 +11222,10 @@
         160231,
         160232,
         160233,
-        160234
+        160234,
+        160235
       ],
-      "sent_count": 454,
+      "sent_count": 455,
       "failed": {}
     },
     "etelaate_omoomi": {
@@ -11434,28 +11445,8 @@
       "failed": {}
     },
     "ft360_ir": {
-      "last_id": 111412,
+      "last_id": 111433,
       "processed_ids": [
-        109821,
-        109823,
-        109824,
-        109825,
-        109826,
-        109827,
-        109828,
-        109829,
-        109830,
-        109831,
-        109832,
-        109833,
-        109834,
-        109835,
-        109836,
-        109837,
-        109838,
-        109839,
-        109840,
-        109841,
         109842,
         109843,
         109844,
@@ -12435,21 +12426,34 @@
         111409,
         111410,
         111411,
-        111412
+        111412,
+        111414,
+        111415,
+        111416,
+        111417,
+        111418,
+        111419,
+        111420,
+        111421,
+        111422,
+        111423,
+        111424,
+        111425,
+        111426,
+        111427,
+        111428,
+        111429,
+        111430,
+        111431,
+        111432,
+        111433
       ],
-      "sent_count": 274,
+      "sent_count": 282,
       "failed": {}
     },
     "varzesh3": {
-      "last_id": 305152,
+      "last_id": 305162,
       "processed_ids": [
-        303706,
-        303707,
-        303708,
-        303709,
-        303710,
-        303711,
-        303712,
         303713,
         303714,
         303715,
@@ -13442,18 +13446,21 @@
         305149,
         305150,
         305151,
-        305152
+        305152,
+        305153,
+        305154,
+        305158,
+        305159,
+        305160,
+        305161,
+        305162
       ],
-      "sent_count": 161,
+      "sent_count": 164,
       "failed": {}
     },
     "totalfut_plus": {
-      "last_id": 27129,
+      "last_id": 27133,
       "processed_ids": [
-        26054,
-        26055,
-        26056,
-        26057,
         26058,
         26059,
         26060,
@@ -14449,21 +14456,18 @@
         27126,
         27127,
         27128,
-        27129
+        27129,
+        27130,
+        27131,
+        27132,
+        27133
       ],
       "sent_count": 88,
       "failed": {}
     },
     "adak_ir_official": {
-      "last_id": 236086,
+      "last_id": 236093,
       "processed_ids": [
-        234917,
-        234918,
-        234919,
-        234920,
-        234921,
-        234922,
-        234923,
         234924,
         234925,
         234926,
@@ -15456,17 +15460,21 @@
         236083,
         236084,
         236085,
-        236086
+        236086,
+        236087,
+        236088,
+        236089,
+        236090,
+        236091,
+        236092,
+        236093
       ],
-      "sent_count": 310,
+      "sent_count": 313,
       "failed": {}
     },
     "futball180tv": {
-      "last_id": 109641,
+      "last_id": 109644,
       "processed_ids": [
-        108314,
-        108315,
-        108316,
         108317,
         108318,
         108319,
@@ -16463,26 +16471,17 @@
         109638,
         109639,
         109640,
-        109641
+        109641,
+        109642,
+        109643,
+        109644
       ],
       "sent_count": 176,
       "failed": {}
     },
     "hattric_official": {
-      "last_id": 85719,
+      "last_id": 85731,
       "processed_ids": [
-        84427,
-        84428,
-        84430,
-        84431,
-        84432,
-        84433,
-        84434,
-        84436,
-        84437,
-        84438,
-        84439,
-        84440,
         84441,
         84442,
         84443,
@@ -17470,9 +17469,21 @@
         85716,
         85717,
         85718,
-        85719
+        85719,
+        85720,
+        85721,
+        85722,
+        85723,
+        85724,
+        85725,
+        85726,
+        85727,
+        85728,
+        85729,
+        85730,
+        85731
       ],
-      "sent_count": 260,
+      "sent_count": 268,
       "failed": {}
     },
     "mazdak_hattrick": {
@@ -18440,7 +18451,7 @@
       "failed": {}
     },
     "irwonders": {
-      "last_id": 59103,
+      "last_id": 59105,
       "processed_ids": [
         58030,
         58031,
@@ -19388,9 +19399,11 @@
         59100,
         59101,
         59102,
-        59103
+        59103,
+        59104,
+        59105
       ],
-      "sent_count": 600,
+      "sent_count": 602,
       "failed": {}
     },
     "razcom": {
@@ -21072,7 +21085,7 @@
       "failed": {}
     },
     "khandehabadd": {
-      "last_id": 307325,
+      "last_id": 307326,
       "processed_ids": [
         306563,
         306564,
@@ -21796,9 +21809,10 @@
         307322,
         307323,
         307324,
-        307325
+        307325,
+        307326
       ],
-      "sent_count": 315,
+      "sent_count": 316,
       "failed": {}
     },
     "ravan6enasii": {
@@ -22021,7 +22035,7 @@
       "failed": {}
     },
     "bajefilm": {
-      "last_id": 11709,
+      "last_id": 11710,
       "processed_ids": [
         11552,
         11553,
@@ -22173,9 +22187,10 @@
         11706,
         11707,
         11708,
-        11709
+        11709,
+        11710
       ],
-      "sent_count": 120,
+      "sent_count": 121,
       "failed": {}
     },
     "yejoorayi": {
@@ -22677,7 +22692,7 @@
       "failed": {}
     },
     "peach_tweet": {
-      "last_id": 4557,
+      "last_id": 4558,
       "processed_ids": [
         2745,
         2749,
@@ -23339,13 +23354,14 @@
         4554,
         4555,
         4556,
-        4557
+        4557,
+        4558
       ],
       "sent_count": 348,
       "failed": {}
     },
     "funy_khand": {
-      "last_id": 26192,
+      "last_id": 26194,
       "processed_ids": [
         25704,
         25705,
@@ -23814,13 +23830,15 @@
         26189,
         26190,
         26191,
-        26192
+        26192,
+        26193,
+        26194
       ],
       "sent_count": 0,
       "failed": {}
     },
     "persiana_pluss": {
-      "last_id": 7090,
+      "last_id": 7097,
       "processed_ids": [
         6113,
         6114,
@@ -24605,7 +24623,13 @@
         7087,
         7088,
         7089,
-        7090
+        7090,
+        7092,
+        7093,
+        7094,
+        7095,
+        7096,
+        7097
       ],
       "sent_count": 19,
       "failed": {}
@@ -24772,7 +24796,7 @@
       "failed": {}
     },
     "dashagh": {
-      "last_id": 48739,
+      "last_id": 48740,
       "processed_ids": [
         48313,
         48314,
@@ -25061,13 +25085,14 @@
         48736,
         48737,
         48738,
-        48739
+        48739,
+        48740
       ],
-      "sent_count": 202,
+      "sent_count": 203,
       "failed": {}
     },
     "apkclub": {
-      "last_id": 73230,
+      "last_id": 73234,
       "processed_ids": [
         72962,
         72963,
@@ -25316,13 +25341,17 @@
         73227,
         73228,
         73229,
-        73230
+        73230,
+        73231,
+        73232,
+        73233,
+        73234
       ],
-      "sent_count": 82,
+      "sent_count": 84,
       "failed": {}
     },
     "boob_sfangi": {
-      "last_id": 2864,
+      "last_id": 2869,
       "processed_ids": [
         2587,
         2590,
@@ -25529,13 +25558,17 @@
         2861,
         2862,
         2863,
-        2864
+        2864,
+        2866,
+        2867,
+        2868,
+        2869
       ],
-      "sent_count": 133,
+      "sent_count": 135,
       "failed": {}
     },
     "fucknewsi": {
-      "last_id": 13932,
+      "last_id": 13936,
       "processed_ids": [
         13561,
         13562,
@@ -25775,7 +25808,8 @@
         13929,
         13930,
         13931,
-        13932
+        13932,
+        13936
       ],
       "sent_count": 100,
       "failed": {}
@@ -25799,7 +25833,7 @@
       "failed": {}
     },
     "bimaariha": {
-      "last_id": 19703,
+      "last_id": 19707,
       "processed_ids": [
         19155,
         19156,
@@ -26062,9 +26096,13 @@
         19700,
         19701,
         19702,
-        19703
+        19703,
+        19704,
+        19705,
+        19706,
+        19707
       ],
-      "sent_count": 146,
+      "sent_count": 148,
       "failed": {}
     },
     "https://t.me/+wwztqghfdltimjnk": {
@@ -26100,907 +26138,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "2f01019ee39a321bdf1b89b88904885cce7fdc47619c2bace76462c8cbf2c0f2",
-        "media_fingerprint": "9201a24a85161f41e125cce9c32eda8d77b2b9ead03e01d40dba892648a07100",
-        "text": "🔴\nملت همیشه حاضر در صحنه :\nاونقدری که ایرانیا منتظر هالووینن خود خارجیا نیستن\n😂\n😂\n😂\n@Dashagh",
-        "original_username": "dashagh",
-        "original_text": "🔴\nملت همیشه حاضر در صحنه :\nاونقدری که ایرانیا منتظر هالووینن خود خارجیا نیستن\n😂\n😂\n😂\n@Dashagh",
-        "original_link": "https://t.me/dashagh/48718",
-        "post_id": 48718,
-        "message_id": 13595,
-        "message_kind": "caption",
-        "sources": [
-          "dashagh"
-        ],
-        "created_at": "2026-10-24T21:37:01.653795+00:00"
-      },
-      {
-        "fingerprint": "34ed08350a073c75c17087daf943305346a673454420d8a04f7b20e9de899103",
-        "media_fingerprint": "dd2a90ee2e445a6e930848af7f4c5e0df2fa9e63d00225246018db617ad90118",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26736",
-        "post_id": 26736,
-        "message_id": 13596,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-24T21:37:06.176302+00:00"
-      },
-      {
-        "fingerprint": "2c33de90b00ff65de5a4eb1884657726736cf7185c8d8b79779345339a97cf67",
-        "media_fingerprint": "c0425771494f92046bc655d7baabf88da2fed293fb5b7086680a90584fdf5179",
-        "text": "🟠\nاگه قد بلند نیستی نیا\nتوی تهران یه گروهی تشکیل دادن برای بیرون رفتن و شرط عضویت داخلش قدبلند بودنه\nدخترا حداقل 170 و پسرا حداقل 185 سانت\nباید باشن\nپ.ن: شمارو راه میدن؟\n🌟\n🩸\n#BlackBlood\n♦\nEfshaH Hub | افشا هاب",
-        "original_username": "boob_sfangi",
-        "original_text": "🟠\nاگه قد بلند نیستی نیا\nتوی تهران یه گروهی تشکیل دادن برای بیرون رفتن و شرط عضویت داخلش قدبلند بودنه\nدخترا حداقل 170 و پسرا حداقل 185 سانت\nباید باشن\nپ.ن: شمارو راه میدن؟\n🌟\n🩸\n#BlackBlood\n♦\nEfshaH Hub | افشا هاب",
-        "original_link": "https://t.me/boob_sfangi/2837",
-        "post_id": 2837,
-        "message_id": 13597,
-        "message_kind": "caption",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-24T21:37:11.575726+00:00"
-      },
-      {
-        "fingerprint": "1b148bee72a7a6e473cb1f032cc54b9266eddda310a5d42f05a6db397a59c568",
-        "media_fingerprint": "fdc3ba60663aeae48c08dc389c4dd5da0fc2a50f0021204b96a6386e796fc381",
-        "text": "وایرال شده از تیپ و استایل تو دخترا تو خیابون فرشته تهران:\n@FuckNewsi",
-        "original_username": "fucknewsi",
-        "original_text": "وایرال شده از تیپ و استایل تو دخترا تو خیابون فرشته تهران:\n@FuckNewsi",
-        "original_link": "https://t.me/FuckNewsi/13903",
-        "post_id": 13903,
-        "message_id": 13598,
-        "message_kind": "caption",
-        "sources": [
-          "fucknewsi"
-        ],
-        "created_at": "2026-10-24T21:37:18.897653+00:00"
-      },
-      {
-        "fingerprint": "2e844b527ee2a220a8ce427eba737c4b54c5f91ad4a743cafbbe85d8ebc8ad33",
-        "media_fingerprint": "",
-        "text": "🚨\nنت ملی داره میشه اگر میخاید وصل بمونید اینجا جوین باشید یه ساعت دیگه دیره:\n@ProxyMeli",
-        "original_username": "peach_tweet",
-        "original_text": "🚨\nنت ملی داره میشه اگر میخاید وصل بمونید اینجا جوین باشید یه ساعت دیگه دیره:\n@ProxyMeli",
-        "original_link": "https://t.me/peach_tweet/4542",
-        "post_id": 4542,
-        "message_id": 13599,
-        "message_kind": "text",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-24T21:37:22.278534+00:00"
-      },
-      {
-        "fingerprint": "cba4438dde4726555ae3dff266d85c65b7e7133f5f4c8753b3f75db3d84cfab6",
-        "media_fingerprint": "f485e2bf01d3cc5e50c840133df55f16fd508733eb679a5cf1f3f33eca68e674",
-        "text": "🔴\nکیم کارداشیان تو مصاحبه جدیدش خیلی جدی گفته که روزانه ۵ بار با دوست پسرش لوئیس همیلتون سکس میکنه\nبه زودی لوییس همیلتون به دلیل مصدومیت از ناحیه کمر از مسابقات فرمول 1 خداحافظی میکنه\n@FuckNewsi",
-        "original_username": "fucknewsi",
-        "original_text": "🔴\nکیم کارداشیان تو مصاحبه جدیدش خیلی جدی گفته که روزانه ۵ بار با دوست پسرش لوئیس همیلتون سکس میکنه\nبه زودی لوییس همیلتون به دلیل مصدومیت از ناحیه کمر از مسابقات فرمول 1 خداحافظی میکنه\n@FuckNewsi",
-        "original_link": "https://t.me/FuckNewsi/13904",
-        "post_id": 13904,
-        "message_id": 13600,
-        "message_kind": "caption",
-        "sources": [
-          "fucknewsi"
-        ],
-        "created_at": "2026-10-24T21:37:27.545338+00:00"
-      },
-      {
-        "fingerprint": "4ae00ad625fa99b063c87870a7aea7790f43b4bad1ef280c4e98fee8b1302371",
-        "media_fingerprint": "82db5991bf10c7ca089857fca2409793412ec6284621d8284876927ab161aaeb",
-        "text": "🎞\nآغاز اعتراضات در شهر بارسلونا در آستانه ال‌کلاسیکو\n@Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "🎞\nآغاز اعتراضات در شهر بارسلونا در آستانه ال‌کلاسیکو\n@Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/111308",
-        "post_id": 111308,
-        "message_id": 13601,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-24T22:34:37.315563+00:00"
-      },
-      {
-        "fingerprint": "8294c5489ed11f4c555ef4ed608a3270c743c477bf8905ff6222c9198ad0eaa6",
-        "media_fingerprint": "d62942b9186b587096f47270f993dbb46ecce2830a711709ef1998bae364dc8c",
-        "text": "روسیه رتبه یک خوشگلترین دختران رو بدون عمل زیبایی و ارایش بدست اورد و ونزوئلا هم رتبه دوم.\n@FuckNewsi",
-        "original_username": "fucknewsi",
-        "original_text": "روسیه رتبه یک خوشگلترین دختران رو بدون عمل زیبایی و ارایش بدست اورد و ونزوئلا هم رتبه دوم.\n@FuckNewsi",
-        "original_link": "https://t.me/FuckNewsi/13906",
-        "post_id": 13906,
-        "message_id": 13602,
-        "message_kind": "caption",
-        "sources": [
-          "fucknewsi"
-        ],
-        "created_at": "2026-10-24T22:34:46.170212+00:00"
-      },
-      {
-        "fingerprint": "59495d8f81417e44b2eebe2eda8b1cabdc682b2cf64ab8388be72bf8f1454ede",
-        "media_fingerprint": "",
-        "text": "ماساژ این ۳ نقطه از بدن آلت تناسلی رو سفت میکنه ...\nمشاهده\n👉",
-        "original_username": "bimaariha",
-        "original_text": "ماساژ این ۳ نقطه از بدن آلت تناسلی رو سفت میکنه ...\nمشاهده\n👉",
-        "original_link": "https://t.me/Bimaariha/19600",
-        "post_id": 19600,
-        "message_id": 13604,
-        "message_kind": "text",
-        "sources": [
-          "bimaariha"
-        ],
-        "created_at": "2026-10-24T22:34:49.694297+00:00"
-      },
-      {
-        "fingerprint": "ca212fe6ab98de0f6f48f3c415213400bef9b7a3256925b80ea969d8a2a12c1d",
-        "media_fingerprint": "",
-        "text": "🔴\nبرق کل جزیره‌ کیش قطع شد",
-        "original_username": "fucknewsi",
-        "original_text": "🔴\nبرق کل جزیره‌ کیش قطع شد",
-        "original_link": "https://t.me/FuckNewsi/13908",
-        "post_id": 13908,
-        "message_id": 13605,
-        "message_kind": "text",
-        "sources": [
-          "fucknewsi"
-        ],
-        "created_at": "2026-10-24T22:34:53.117544+00:00"
-      },
-      {
-        "fingerprint": "5a736489bf87283e385911af57ff569b475d7e26a08fb9dae229964b58d55709",
-        "media_fingerprint": "9b454b27e65e8d637893091ae66c7c2d95edbf8a05efee60951544667c0e0a24",
-        "text": "🔴\nآیلین جوانبخت، دختر 10 ساله اهل آغاجاری خوزستان، تو مسابقات بین‌المللی نقاشی ژاپن\n🇯🇵\n، برنده جایزه ویژه یونیسف شد.\nتو این مسابقه که با موضوع «بیایید به صدای زمین گوش کنیم» برگزار شده بود، 9 هزار و 907 اثر از 72 کشور دنیا شرکت داشتن.\n+ نماینده‌های ایران تو بخش‌های دیگه این مسابقه هم جایزه بردن؛\n□ ساناز گرجی، 9 ساله از یزد - دیپلم افتخار\n■ فاطیما فتحی، 14 ساله از خرم‌آباد - دیپلم افتخار\n□ ال‌آی ابراهیمی، 13 ساله از ماکو - دیپلم افتخار\n■ سارا شکوری، 15 ساله از ماکو - دیپلم افتخار\n□ بنیتا علی‌یاری، 9 ساله از تهران - جایزه بخش بین‌الملل\n■ علی‌صدرا قدیری، 10 ساله از اردبیل - جایزه بخش بین‌الملل\n□ نغمه محمدنژاد، 14 ساله از ایلام - جایزه بخش بین‌الملل\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nآیلین جوانبخت، دختر 10 ساله اهل آغاجاری خوزستان، تو مسابقات بین‌المللی نقاشی ژاپن\n🇯🇵\n، برنده جایزه ویژه یونیسف شد.\nتو این مسابقه که با موضوع «بیایید به صدای زمین گوش کنیم» برگزار شده بود، 9 هزار و 907 اثر از 72 کشور دنیا شرکت داشتن.\n+ نماینده‌های ایران تو بخش‌های دیگه این مسابقه هم جایزه بردن؛\n□ ساناز گرجی، 9 ساله از یزد - دیپلم افتخار\n■ فاطیما فتحی، 14 ساله از خرم‌آباد - دیپلم افتخار\n□ ال‌آی ابراهیمی، 13 ساله از ماکو - دیپلم افتخار\n■ سارا شکوری، 15 ساله از ماکو - دیپلم افتخار\n□ بنیتا علی‌یاری، 9 ساله از تهران - جایزه بخش بین‌الملل\n■ علی‌صدرا قدیری، 10 ساله از اردبیل - جایزه بخش بین‌الملل\n□ نغمه محمدنژاد، 14 ساله از ایلام - جایزه بخش بین‌الملل\n@DrTeL",
-        "original_link": "https://t.me/drtel/71759",
-        "post_id": 71759,
-        "message_id": 13606,
-        "message_kind": "caption",
-        "sources": [
-          "drtel",
-          "fucknewsi"
-        ],
-        "created_at": "2026-10-24T22:34:57.778283+00:00"
-      },
-      {
-        "fingerprint": "d92ad7d712cf2516c06dde7d66f0ac0d81cfb8c407d43bafc1f0b237a338444f",
-        "media_fingerprint": "43445745e9d9ace480b99f131fe38101a7029651b041b7dc68587d36c3ba1eb6",
-        "text": "معلومه آهنگ گیمر معروف سویتی فاکس\n🚫\n@Dashagh",
-        "original_username": "dashagh",
-        "original_text": "معلومه آهنگ گیمر معروف سویتی فاکس\n🚫\n@Dashagh",
-        "original_link": "https://t.me/dashagh/48722",
-        "post_id": 48722,
-        "message_id": 13607,
-        "message_kind": "caption",
-        "sources": [
-          "dashagh"
-        ],
-        "created_at": "2026-10-24T22:35:04.796190+00:00"
-      },
-      {
-        "fingerprint": "dcbe94e0f73347316904eb0f48ee5685e206a4748e83bcaf4f5b4ca5cfb56829",
-        "media_fingerprint": "5bd019f2ced32750e2ee30bdb5de0a155a3252ed8a5044fa68138ef1be347095",
-        "text": "🔴\nشاید باورتون نشه، ولی جدیداً مُد شده که دخترا اسپرم\n💦\nپارتنرشون رو داخل یه شیشه کوچیک می‌ریزن و به‌عنوان گردنبند میندازن دور گردنشون؛\nخیلی‌ها معتقدن این کار باعث می‌شه همیشه یه تیکه از پارتنرشون رو همراه خودشون داشته باشن و حتی باعث می‌شه رابطه‌شون عمر بیشتری داشته باشه...\n@DrTeL\n| VICE",
-        "original_username": "drtel",
-        "original_text": "🔴\nشاید باورتون نشه، ولی جدیداً مُد شده که دخترا اسپرم\n💦\nپارتنرشون رو داخل یه شیشه کوچیک می‌ریزن و به‌عنوان گردنبند میندازن دور گردنشون؛\nخیلی‌ها معتقدن این کار باعث می‌شه همیشه یه تیکه از پارتنرشون رو همراه خودشون داشته باشن و حتی باعث می‌شه رابطه‌شون عمر بیشتری داشته باشه...\n@DrTeL\n| VICE",
-        "original_link": "https://t.me/drtel/71762",
-        "post_id": 71762,
-        "message_id": 13608,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-24T23:23:34.535327+00:00"
-      },
-      {
-        "fingerprint": "8e5f7e90d4349d6ee83d28afbff7f7e21716ddb720e934dfb08ae46838ccfc0c",
-        "media_fingerprint": "e711889f2ef7387d063b17d14b297f020ab1b7a18b6444722717069e7fe75f7e",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26738",
-        "post_id": 26738,
-        "message_id": 13610,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-25T00:23:28.872700+00:00"
-      },
-      {
-        "fingerprint": "e4b6b1702b0337813f973c2a620175a0e3ad389d07f91870da382adf53a9238c",
-        "media_fingerprint": "27192f5b02f43d5002b63d28395a0e41d76d826dc3947df197eb4ed1dc2c12dc",
-        "text": "بدون شک رتبه یک \"گوه خوردم این فیلمو دیدم\" متعلق به ایشونه\nهر فیلم زامبی دیدید بریزید دور این فیلم تو یه لیگ دیگه ای از خشونته\n@comentiat",
-        "original_username": "comentiat",
-        "original_text": "بدون شک رتبه یک \"گوه خوردم این فیلمو دیدم\" متعلق به ایشونه\nهر فیلم زامبی دیدید بریزید دور این فیلم تو یه لیگ دیگه ای از خشونته\n@comentiat",
-        "original_link": "https://t.me/Comentiat/26739",
-        "post_id": 26739,
-        "message_id": 13611,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-25T00:23:37.725557+00:00"
-      },
-      {
-        "fingerprint": "a987c6be4e343deb973ebac455560ea92fec319354a5c18ee21aa30ae18867e8",
-        "media_fingerprint": "",
-        "text": "📆\nبرنامه مسابقات امروز 3 آبان + پخش زنده\n🔹\nکشتی فرنگی قهرمانی جهان\n📺\nشبکه 3 / ساعت 09:00\n🔹\nهفته هفتم سری A / اینتر - فیورنتینا / ساعت 15\n🔹\nهفته دهم لیگ برتر / پیکان - ملوان / ساعت 16\n🔹\nهفته دهم لیگ برتر / پرسپولیس - فولاد\n📺\nشبکه 3 / ساعت 16:45\n🔹\nهفته دهم لیگ برتر / سپاهان - مس شهر بابک / ساعت 16:45\n🔹\nهفته دهم لیگ برتر / نساجی - فجر سپاسی / ساعت 16:45\n🔹\nهفته دهم لیگ برتر / استقلال خوزستان - شمس‌آذر / ساعت 17\n🔹\nکشتی فرنگی قهرمانی جهان\n📺\nشبکه 3 / ساعت 17:30\n🔹\nهفته هشتم لیگ جزیره / لیورپول - برایتون / ساعت 17:30\n🔹\nهفته هشتم لیگ جزیره / منچستر یونایتد - بورنموث / ساعت 17:30\n🔹\nهفته هفتم بوندسلیگا / فرایبورگ - بایرن مونیخ / ساعت 20\n🔹\nهفته هفتم سری A / لچه - یوونتوس / ساعت 20:30\n🔹\nهفته هفتم سری A / اودینزه - میلان / ساعت 23:15\n🔹\nهفته دهم لالیگا / بارسلونا - رئال مادرید\n📺\nشبکه 3 / ساعت 23:30\n🆔\n@footballvision2",
-        "original_username": "footballvision2",
-        "original_text": "📆\nبرنامه مسابقات امروز 3 آبان + پخش زنده\n🔹\nکشتی فرنگی قهرمانی جهان\n📺\nشبکه 3 / ساعت 09:00\n🔹\nهفته هفتم سری A / اینتر - فیورنتینا / ساعت 15\n🔹\nهفته دهم لیگ برتر / پیکان - ملوان / ساعت 16\n🔹\nهفته دهم لیگ برتر / پرسپولیس - فولاد\n📺\nشبکه 3 / ساعت 16:45\n🔹\nهفته دهم لیگ برتر / سپاهان - مس شهر بابک / ساعت 16:45\n🔹\nهفته دهم لیگ برتر / نساجی - فجر سپاسی / ساعت 16:45\n🔹\nهفته دهم لیگ برتر / استقلال خوزستان - شمس‌آذر / ساعت 17\n🔹\nکشتی فرنگی قهرمانی جهان\n📺\nشبکه 3 / ساعت 17:30\n🔹\nهفته هشتم لیگ جزیره / لیورپول - برایتون / ساعت 17:30\n🔹\nهفته هشتم لیگ جزیره / منچستر یونایتد - بورنموث / ساعت 17:30\n🔹\nهفته هفتم بوندسلیگا / فرایبورگ - بایرن مونیخ / ساعت 20\n🔹\nهفته هفتم سری A / لچه - یوونتوس / ساعت 20:30\n🔹\nهفته هفتم سری A / اودینزه - میلان / ساعت 23:15\n🔹\nهفته دهم لالیگا / بارسلونا - رئال مادرید\n📺\nشبکه 3 / ساعت 23:30\n🆔\n@footballvision2",
-        "original_link": "https://t.me/footballvision2/172741",
-        "post_id": 172741,
-        "message_id": 13613,
-        "message_kind": "text",
-        "sources": [
-          "footballvision2",
-          "hattric_official"
-        ],
-        "created_at": "2026-10-25T04:58:27.375518+00:00"
-      },
-      {
-        "fingerprint": "98d4561bd8e12f9e28016293a48e3eb37f710fb1f9f0fb39bffd8ca45d1da90c",
-        "media_fingerprint": "89048872de1cd7ec5c5008ec5afab840ee0474ddfbc8a2a478e54c526a8ae0c0",
-        "text": "عظمت کویر لوت_ طولانى ترين تنكَه بيابان لوت\nبه طول تقريبى ١٨ كيلومتر!\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "عظمت کویر لوت_ طولانى ترين تنكَه بيابان لوت\nبه طول تقريبى ١٨ كيلومتر!\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/160208",
-        "post_id": 160208,
-        "message_id": 13614,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-25T04:58:34.668586+00:00"
-      },
-      {
-        "fingerprint": "d03ff19b725655cca21736bd90e393f6eecac324da64ecdc623134afb59656f0",
-        "media_fingerprint": "eb5770040f228ebac3d4a9fb57ba728b947da0a16853bbcc55121d6cc597e733",
-        "text": "❤️\nنحوه قطع نقل و انتقال مالکیت سیمکارت در سامانه همراه من\nاین گزینه برای مواقعی که سیمکارت برای مدت زمان طولانی خاموش است کاربرد دارد\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "❤️\nنحوه قطع نقل و انتقال مالکیت سیمکارت در سامانه همراه من\nاین گزینه برای مواقعی که سیمکارت برای مدت زمان طولانی خاموش است کاربرد دارد\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/23664",
-        "post_id": 23664,
-        "message_id": 13615,
-        "message_kind": "caption",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-25T04:58:39.875820+00:00"
-      },
-      {
-        "fingerprint": "d993b8cd3cd93a732c992bc98793721c8e7e722afd5aab2c97035e426df915c8",
-        "media_fingerprint": "3d4039a746bb9816715b02f9ca78afb2e63305c6b322784e8532f1d0615bbb44",
-        "text": "هر روز خود را آغاز کنید با:\nبِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\n🔹\nبا خواندن دعای عهد و چند دقیقه گفتگو روزانه با امام زمان (عج)، پیمان همراهی و خدمتگزاری‌مان را تازه کنیم.\n#صبح_نو\nامروز یکشنبه\n۳ آبان ماه\n۱۴ جمادی الاول ۱۴۴۸\n۲۵ اکتبر ۲۰۲۶\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "هر روز خود را آغاز کنید با:\nبِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\n🔹\nبا خواندن دعای عهد و چند دقیقه گفتگو روزانه با امام زمان (عج)، پیمان همراهی و خدمتگزاری‌مان را تازه کنیم.\n#صبح_نو\nامروز یکشنبه\n۳ آبان ماه\n۱۴ جمادی الاول ۱۴۴۸\n۲۵ اکتبر ۲۰۲۶\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/144393",
-        "post_id": 144393,
-        "message_id": 13616,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-25T04:58:44.772674+00:00"
-      },
-      {
-        "fingerprint": "e572fa3e78646648c5132e534387021fb05d4062f234c10019892788c8429719",
-        "media_fingerprint": "c7463af0106541aad303eef7c1a97573c0253c265f751ed24396752cc6361739",
-        "text": "🆔\n@YeJoorayi",
-        "original_username": "yejoorayi",
-        "original_text": "🆔\n@YeJoorayi",
-        "original_link": "https://t.me/YeJoorayi/645",
-        "post_id": 645,
-        "message_id": 13617,
-        "message_kind": "caption",
-        "sources": [
-          "yejoorayi"
-        ],
-        "created_at": "2026-10-25T04:58:49.514714+00:00"
-      },
-      {
-        "fingerprint": "32338e55c65c46415546e14ba5b0498cc69126965331883aab4a544044a1833d",
-        "media_fingerprint": "",
-        "text": "🚨\n🚨\n🚨\n🔴\nفوری؛ اوستون اورونوف هم به علت مصدومیت بازی فردا پرسپولیس با فولاد رو از دست داد.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n🚨\n🚨\n🔴\nفوری؛ اوستون اورونوف هم به علت مصدومیت بازی فردا پرسپولیس با فولاد رو از دست داد.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/236043",
-        "post_id": 236043,
-        "message_id": 13618,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-25T04:58:52.881384+00:00"
-      },
-      {
-        "fingerprint": "ad8f84cbdb327794d029f68dcd445d022d131b0ba383bd68a67f0495f498938f",
-        "media_fingerprint": "4b10fa783ed183e877fde414e9dd9922668485f765c7776fceee405790c2d894",
-        "text": "صبحانه‌ای که سکته قلبی را از شما دور می کند!\n◽️\nمطالعات نشان می دهند که جایگزین کردن اوتمیل به جای نان سفید یا تخم مرغ می‌تواند خطر سکته را کاهش دهد و مصرف شکلات سیاه و چای سبز نیز می‌تواند به سلامت قلب و عروق کمک کند.\n◽️\nمیوه های قرمز رنگ مانند توت فرنگی نیز که حاوی آنتوسیانین ها هستند، می توانند به تقویت و محافظت از جداره های رگ های خونی کمک کنند و خطر سکته قلبی و عروقی را کاهش دهند.آب انار حاوی اثرات ضد استروژنی و ضد آندروژنی و آنتی اکسیدان است و مصرف روزانه آن به مدت ۳ ماه راهی برای بهبود جریان خون به سمت قلب و سلامتی بدن می‌شود.\n#پزشکی\n#سلامت\n@MajalePezeshki",
-        "original_username": "majalepezeshki",
-        "original_text": "صبحانه‌ای که سکته قلبی را از شما دور می کند!\n◽️\nمطالعات نشان می دهند که جایگزین کردن اوتمیل به جای نان سفید یا تخم مرغ می‌تواند خطر سکته را کاهش دهد و مصرف شکلات سیاه و چای سبز نیز می‌تواند به سلامت قلب و عروق کمک کند.\n◽️\nمیوه های قرمز رنگ مانند توت فرنگی نیز که حاوی آنتوسیانین ها هستند، می توانند به تقویت و محافظت از جداره های رگ های خونی کمک کنند و خطر سکته قلبی و عروقی را کاهش دهند.آب انار حاوی اثرات ضد استروژنی و ضد آندروژنی و آنتی اکسیدان است و مصرف روزانه آن به مدت ۳ ماه راهی برای بهبود جریان خون به سمت قلب و سلامتی بدن می‌شود.\n#پزشکی\n#سلامت\n@MajalePezeshki",
-        "original_link": "https://t.me/MajalePezeshki/38850",
-        "post_id": 38850,
-        "message_id": 13619,
-        "message_kind": "caption",
-        "sources": [
-          "majalepezeshki"
-        ],
-        "created_at": "2026-10-25T04:58:57.987066+00:00"
-      },
-      {
-        "fingerprint": "33ce2a2131fcb6c955022744abaf47f810ecebdcb51f961ac65b8d58d3bc9f5e",
-        "media_fingerprint": "",
-        "text": "♦️\nدبیر انجمن صنفی شرکت‌های هواپیمایی: بلیت پروازهای داخلی ۴۵ درصد گران شد\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nدبیر انجمن صنفی شرکت‌های هواپیمایی: بلیت پروازهای داخلی ۴۵ درصد گران شد\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/144394",
-        "post_id": 144394,
-        "message_id": 13620,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-25T04:59:01.383803+00:00"
-      },
-      {
-        "fingerprint": "f5ea8195820fc0f02fe397fda1e91b1dbec4869254bbb0c45f91132d75b3bcf9",
-        "media_fingerprint": "b1b5ff96e6d78fd8379dd5aff0057d5de9cc5e38e81cb7d829328cc3dc307410",
-        "text": "🔴\nیه کوسه ماده توی کره جنوبی وقتی یه کوسه نر بهش تنه زد، خوشش نیومد و اونو خورد!\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "🔴\nیه کوسه ماده توی کره جنوبی وقتی یه کوسه نر بهش تنه زد، خوشش نیومد و اونو خورد!\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/53197",
-        "post_id": 53197,
-        "message_id": 13621,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb",
-          "irwonders"
-        ],
-        "created_at": "2026-10-25T13:09:30.345112+00:00"
-      },
-      {
-        "fingerprint": "9c0d1f9394c9ae0a6072cf0f4ac0d28c3d9f27173cacaa4e6b216e8ef58782d2",
-        "media_fingerprint": "749277dd48af2ee3c1f4bd73e5f3830b1452d43d03a278b4d2077898ae9570e8",
-        "text": "اینجا «پارک گرند کنیون آریزونا» نیست !!\nبلکه صخره‌های حیرت‌انگیز کوهدشت لرستان ایران، حاصل میلیون‌ها سال فرسایش زمین است.\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "اینجا «پارک گرند کنیون آریزونا» نیست !!\nبلکه صخره‌های حیرت‌انگیز کوهدشت لرستان ایران، حاصل میلیون‌ها سال فرسایش زمین است.\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/53198",
-        "post_id": 53198,
-        "message_id": 13622,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb",
-          "ajayebe_jahann",
-          "irwonders"
-        ],
-        "created_at": "2026-10-25T13:09:35.440184+00:00"
-      },
-      {
-        "fingerprint": "ddbc121c90e2aa51ebf00f4b8f4f9c4fb8546d4b7c952a6bcf6aa8becd57b163",
-        "media_fingerprint": "e06f1462d828209c88aa85d45fcca58612056db7f3ccb7a788310a892771a4fa",
-        "text": "آشپزی تازه عروسا\n🤦‍♂\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "آشپزی تازه عروسا\n🤦‍♂\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163848",
-        "post_id": 163848,
-        "message_id": 13623,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-25T13:09:41.842475+00:00"
-      },
-      {
-        "fingerprint": "a9202da4c8e65602b10b162c16d3831ef5069a773063409f25d22d4d4d16e7e5",
-        "media_fingerprint": "ebc1b2405bc37302790ff451531f0685b5c4226409b1e6aac8db8089bc107300",
-        "text": "زاویه دید یه خلبان حین فرود هواپیما\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "زاویه دید یه خلبان حین فرود هواپیما\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163851",
-        "post_id": 163851,
-        "message_id": 13624,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel",
-          "irwonders",
-          "razcom",
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-25T13:09:49.317999+00:00"
-      },
-      {
-        "fingerprint": "92aae3989258d9229e115c0b12b730e616477c4db54885f632f5843ec9e57128",
-        "media_fingerprint": "1ba42541c456a7df5bbbf43fe9b252747fdcfa951835a3ad5c157baad54f770e",
-        "text": "نمی‌دونم کار دکتره تمیزتر بوده یا ادیتور\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "نمی‌دونم کار دکتره تمیزتر بوده یا ادیتور\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163852",
-        "post_id": 163852,
-        "message_id": 13625,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-25T13:09:56.278013+00:00"
-      },
-      {
-        "fingerprint": "673f0d1da7b068f69c2b95f9553f427b064a761da63ba33eaa0c5ae38c249a71",
-        "media_fingerprint": "",
-        "text": "یک اشتباه میتواند آخرین اشتباهت باشد!\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "یک اشتباه میتواند آخرین اشتباهت باشد!\n@irWonders",
-        "original_link": "https://t.me/irwonders/59075",
-        "post_id": 59075,
-        "message_id": 13626,
-        "message_kind": "text",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-25T13:09:59.727797+00:00"
-      },
-      {
-        "fingerprint": "7dc3def6d626835b0bf92e603649e38ed91c7fa7dcf857ba6d098edb78f49d03",
-        "media_fingerprint": "3a441acfde852be46cc2e128d7b0ec3a68cb5eddf3097b98267cb66a6982a1fd",
-        "text": "#استوری\nاظهارنامه مالیاتی",
-        "original_username": "amozesh_cafenet",
-        "original_text": "#استوری\nاظهارنامه مالیاتی",
-        "original_link": "https://t.me/amozesh_cafenet/3202",
-        "post_id": 3202,
-        "message_id": 13627,
-        "message_kind": "caption",
-        "sources": [
-          "amozesh_cafenet"
-        ],
-        "created_at": "2026-10-25T13:10:19.597248+00:00"
-      },
-      {
-        "fingerprint": "1c28640fabc5a8cf692b253ee796f6c78f91f2f79752fa1fbf75ecad9bbc43df",
-        "media_fingerprint": "624b93cc9c8b6c460758d9378c954ad093d5323461ed0f3b00bb9c256f021e96",
-        "text": "🔴\nامروز 25 October، روز جهانی یکی از محبوب‌ترین غذاهای جهان، یعنی پاستاست\n.\n+این پست رو به‌هرکی بفرستی، باید امشب حتماً یه پاستا\n😇\nمهمونت کنه.\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nامروز 25 October، روز جهانی یکی از محبوب‌ترین غذاهای جهان، یعنی پاستاست\n.\n+این پست رو به‌هرکی بفرستی، باید امشب حتماً یه پاستا\n😇\nمهمونت کنه.\n@DrTeL",
-        "original_link": "https://t.me/drtel/71765",
-        "post_id": 71765,
-        "message_id": 13631,
-        "message_kind": "caption",
-        "sources": [
-          "drtel",
-          "jaleb",
-          "irwonders"
-        ],
-        "created_at": "2026-10-25T13:10:42.792073+00:00"
-      },
-      {
-        "fingerprint": "54d4c227d0bbb0f329bd11d8028e22f803c34e1fa6a0d9773d73f9bedcd9b581",
-        "media_fingerprint": "863e9f47649dae6c00e9f0d93ef874d01dfa2ebaf5a153ba729de34cb3153172",
-        "text": "صبح به ما می آموزد که\nباور داشته باشیم ، روشنایی\nبا تاریکی معنا می یابد\nو خوشبختی با عبور\nاز سختی ها زیباست....\nهرگز نا امید نشو، رد پای مهر\nخدا همیشه در زندگی پیداست...\nسلام صبح یکشنبه تون بخیر\n☕️\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "صبح به ما می آموزد که\nباور داشته باشیم ، روشنایی\nبا تاریکی معنا می یابد\nو خوشبختی با عبور\nاز سختی ها زیباست....\nهرگز نا امید نشو، رد پای مهر\nخدا همیشه در زندگی پیداست...\nسلام صبح یکشنبه تون بخیر\n☕️\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/307310",
-        "post_id": 307310,
-        "message_id": 13634,
-        "message_kind": "caption",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-25T13:10:48.052419+00:00"
-      },
-      {
-        "fingerprint": "03801c3245e7c08138e38b53cd772f47efd53421459acd786b0a390e5eb8cc01",
-        "media_fingerprint": "28d14bce3e1075c09e19a95ce2b898ff23ab1fcc929d42452d3f61ed8973af1a",
-        "text": "مادر تنها کسی که قبل از دیدن\nاشک‌هات، درد دلت رو می‌فهمه… دنیا هرچقدر هم بی‌رحم باشه، آغوش مادر امن‌ترین جای دنیاست. خدایا، سایه‌ی هیچ مادری رو از سر خونواده‌ای کم نکن…\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "مادر تنها کسی که قبل از دیدن\nاشک‌هات، درد دلت رو می‌فهمه… دنیا هرچقدر هم بی‌رحم باشه، آغوش مادر امن‌ترین جای دنیاست. خدایا، سایه‌ی هیچ مادری رو از سر خونواده‌ای کم نکن…\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/307311",
-        "post_id": 307311,
-        "message_id": 13635,
-        "message_kind": "caption",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-25T13:10:55.257653+00:00"
-      },
-      {
-        "fingerprint": "68417cb37f58692534106335a7a5263f920f68488c29033531b3fc6b23bb9bb9",
-        "media_fingerprint": "",
-        "text": "رنج بزرگ رو به کار بزرگ تبدیل کن:\nتروما رو تبدیل به فرصت کن\n!\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "رنج بزرگ رو به کار بزرگ تبدیل کن:\nتروما رو تبدیل به فرصت کن\n!\n@irWonders",
-        "original_link": "https://t.me/irwonders/59076",
-        "post_id": 59076,
-        "message_id": 13636,
-        "message_kind": "text",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-25T13:10:58.708110+00:00"
-      },
-      {
-        "fingerprint": "79b2374bd1cc3232ab8b856a3d3f00690c33d3c5f42b5e61fb61982af51f82d8",
-        "media_fingerprint": "cbb4bc82a686e6d6f64f428aa1095d05a95f8b39f3d31a402401c04ba2105a6e",
-        "text": "سرعت حرکتم وقتی تو خوابی که دیدم باید فرار کنم:\n😏\n#Squidward\n💎\nSpongebob | باب اسفنجی",
-        "original_username": "boob_sfangi",
-        "original_text": "سرعت حرکتم وقتی تو خوابی که دیدم باید فرار کنم:\n😏\n#Squidward\n💎\nSpongebob | باب اسفنجی",
-        "original_link": "https://t.me/boob_sfangi/2840",
-        "post_id": 2840,
-        "message_id": 13637,
-        "message_kind": "caption",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-25T13:11:04.484733+00:00"
-      },
-      {
-        "fingerprint": "3deea696a40e54f9505588078164524c1cb7df4a144030159d05517dd3fb3b67",
-        "media_fingerprint": "",
-        "text": "🌐\nاعلام نتایج نهایی آزمون حوزه علمیه خواهران ۱۴۰۶ - ۱۴۰۵\n🔵\nطبق آخرین اخبار منتشر شده، نتایج نهایی آزمون ورودی حوزه های علمیه خواهران سال تحصیلی ۱۴۰۶ - ۱۴۰۵ تمامی مقاطع تحصیلی منتشر شده است. داوطلبان می توانند با ورود به پرتال شخصی آزمون خود از نتیجه نهایی آزمون مطلع شوند.\n🔗\nلینک مشاهده نتایج\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🌐\nاعلام نتایج نهایی آزمون حوزه علمیه خواهران ۱۴۰۶ - ۱۴۰۵\n🔵\nطبق آخرین اخبار منتشر شده، نتایج نهایی آزمون ورودی حوزه های علمیه خواهران سال تحصیلی ۱۴۰۶ - ۱۴۰۵ تمامی مقاطع تحصیلی منتشر شده است. داوطلبان می توانند با ورود به پرتال شخصی آزمون خود از نتیجه نهایی آزمون مطلع شوند.\n🔗\nلینک مشاهده نتایج\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/23668",
-        "post_id": 23668,
-        "message_id": 13638,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet",
-          "coffeenetmanager"
-        ],
-        "created_at": "2026-10-25T13:11:07.949596+00:00"
-      },
-      {
-        "fingerprint": "286a69aa004bf4cfd08732d02aa7d746424294b8b8baeccf6b4b02292a5015eb",
-        "media_fingerprint": "62cb396069ec101aa7a59b3a00433f1c59619c91dafa46506d688ccd1b37a461",
-        "text": "🔴\nامروز 25 October، روز بغل کردن یه گوسفنده.\n@Dashagh",
-        "original_username": "dashagh",
-        "original_text": "🔴\nامروز 25 October، روز بغل کردن یه گوسفنده.\n@Dashagh",
-        "original_link": "https://t.me/dashagh/48723",
-        "post_id": 48723,
-        "message_id": 13639,
-        "message_kind": "caption",
-        "sources": [
-          "dashagh",
-          "comentiat",
-          "fucknewsi"
-        ],
-        "created_at": "2026-10-25T13:11:13.126099+00:00"
-      },
-      {
-        "fingerprint": "fa565299012315cf0ca67606c5839655c6d022e8737c458b87776c3c0674dc88",
-        "media_fingerprint": "7d7c4c4657f7b95d8c43ab6e6f31242c63fbcf377d0aafdc150b7d3552113a38",
-        "text": "🔻\nحضور‌غیاب مدرن!\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "🔻\nحضور‌غیاب مدرن!\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/160209",
-        "post_id": 160209,
-        "message_id": 13640,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-25T13:11:21.005568+00:00"
-      },
-      {
-        "fingerprint": "052be5db878a2fc382f4919ae63030994fb46a63fa6bcf692f995229cfbcfded",
-        "media_fingerprint": "",
-        "text": "",
-        "original_username": "apkclub",
-        "original_text": "",
-        "original_link": "https://t.me/apkclub/73216",
-        "post_id": 73216,
-        "message_id": 13641,
-        "message_kind": "text",
-        "sources": [
-          "apkclub"
-        ],
-        "created_at": "2026-10-25T13:11:24.588778+00:00"
-      },
-      {
-        "fingerprint": "d4cadb526f291871c59a4a16e651f9b6ce147f33b7ada302a6fc4dd0d9c4ccbe",
-        "media_fingerprint": "0b7827ac48b5b175f95c3b1d5b85cb7aae5f8838c4bdac64af4a581bda775e2b",
-        "text": "توی کره جنوبی وقتی یه کوسه نر به یه کوسه ماده تنه میزنه، ماده عصبی میشه تصمیم میگیره بخورتش\n😑\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
-        "original_username": "boob_sfangi",
-        "original_text": "توی کره جنوبی وقتی یه کوسه نر به یه کوسه ماده تنه میزنه، ماده عصبی میشه تصمیم میگیره بخورتش\n😑\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
-        "original_link": "https://t.me/boob_sfangi/2841",
-        "post_id": 2841,
-        "message_id": 13642,
-        "message_kind": "caption",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-25T13:11:32.223668+00:00"
-      },
-      {
-        "fingerprint": "37bc0077e16072c7628752bfa571a6583385aa089eaf83d33ee1b4175d1cadfd",
-        "media_fingerprint": "aef98f52b8808c85f57c33f7b44c203ba193797278b6427d35c23d1b21e914ab",
-        "text": "🖥\nاین چندتا سایت رو بشناس، سطح طراحی‌هات چند پله بالاتر میره!\n🔖\nاز طراحی سایت‌های مدرن و انیمیشن‌های خفن گرفته تا کامپوننت‌های آماده و ایده‌های UI/UX؛ این منابع میتونن ساعت‌ها توی وقتت صرفه‌جویی کنن!\n🎨\n۱۵ منبع جذاب برای طراح‌ها و برنامه‌نویس‌ها:\nhttps://modulify.ai/templates\n— قالب‌های آماده سایت\nhttps://motionin.design\n— انیمیشن و موشن‌دیزاین\nhttps://landdding.com\n— تکنیک‌های طراحی بصری\nhttps://wonderlist.design\n— طرح‌های حرفه‌ای Figma\nhttps://iconly.design\n— مجموعه آیکن‌های کاربردی\nhttps://scrolltide.co\n— ایده‌های انیمیشن اسکرول\nhttps://land-book.com\n— الهام طراحی سایت\nhttps://godly.website\n— نمونه سایت‌های خلاقانه\nhttps://supahero.io\n— ایده طراحی لندینگ‌پیج\nhttps://footer.design\n— طراحی فوترهای جذاب\nhttps://60fps.design\n— انیمیشن رابط کاربری موبایل\nhttps://cta.gallery\n— ایده‌های دکمه و CTA\nhttps://grainient.supply\n— گرادینت‌های متحرک\nhttps://backgrounds.supply\n— پس‌زمینه‌های آماده\n‌\n🌟\n@APKCLUB\n|\n@APKCLUB_GP",
-        "original_username": "apkclub",
-        "original_text": "🖥\nاین چندتا سایت رو بشناس، سطح طراحی‌هات چند پله بالاتر میره!\n🔖\nاز طراحی سایت‌های مدرن و انیمیشن‌های خفن گرفته تا کامپوننت‌های آماده و ایده‌های UI/UX؛ این منابع میتونن ساعت‌ها توی وقتت صرفه‌جویی کنن!\n🎨\n۱۵ منبع جذاب برای طراح‌ها و برنامه‌نویس‌ها:\nhttps://modulify.ai/templates\n— قالب‌های آماده سایت\nhttps://motionin.design\n— انیمیشن و موشن‌دیزاین\nhttps://landdding.com\n— تکنیک‌های طراحی بصری\nhttps://wonderlist.design\n— طرح‌های حرفه‌ای Figma\nhttps://iconly.design\n— مجموعه آیکن‌های کاربردی\nhttps://scrolltide.co\n— ایده‌های انیمیشن اسکرول\nhttps://land-book.com\n— الهام طراحی سایت\nhttps://godly.website\n— نمونه سایت‌های خلاقانه\nhttps://supahero.io\n— ایده طراحی لندینگ‌پیج\nhttps://footer.design\n— طراحی فوترهای جذاب\nhttps://60fps.design\n— انیمیشن رابط کاربری موبایل\nhttps://cta.gallery\n— ایده‌های دکمه و CTA\nhttps://grainient.supply\n— گرادینت‌های متحرک\nhttps://backgrounds.supply\n— پس‌زمینه‌های آماده\n‌\n🌟\n@APKCLUB\n|\n@APKCLUB_GP",
-        "original_link": "https://t.me/apkclub/73217",
-        "post_id": 73217,
-        "message_id": 13643,
-        "message_kind": "caption",
-        "sources": [
-          "apkclub"
-        ],
-        "created_at": "2026-10-25T13:11:36.824790+00:00"
-      },
-      {
-        "fingerprint": "6ff9231d9cb81d3d79d244b73927746375e5edc798fa578e3fcfd38631caa01f",
-        "media_fingerprint": "0318044e0d705aaffcd14ffd594c0c38820693e0b322388fd99b335a5b131a10",
-        "text": "😺\nبا این ترفندها حرفه‌ای‌تر از ChatGPT استفاده کن!\n📰\nمی‌دونستی می‌تونی با چند دستور ساده، سبک و نوع خروجی ChatGPT رو تغییر بدی و سریع‌تر به نتیجه دلخواهت برسی؟\n🎛\nاز ساخت تصاویر تبلیغاتی و عکاسی حرفه‌ای گرفته تا طراحی‌های مینیمال، تصاویر سینمایی، انیمه و اینفوگرافیک؛ کلی قابلیت جذاب وجود داره که شاید هنوز ازشون خبر نداشته باشی!\n+ توی این پست، مجموعه‌ای از دستورهای کاربردی ChatGPT رو جمع کردیم که می‌تونی برای تولید تصاویر خلاقانه و حرفه‌ای ازشون استفاده کنی.\n@RoidBest",
-        "original_username": "roidbest",
-        "original_text": "😺\nبا این ترفندها حرفه‌ای‌تر از ChatGPT استفاده کن!\n📰\nمی‌دونستی می‌تونی با چند دستور ساده، سبک و نوع خروجی ChatGPT رو تغییر بدی و سریع‌تر به نتیجه دلخواهت برسی؟\n🎛\nاز ساخت تصاویر تبلیغاتی و عکاسی حرفه‌ای گرفته تا طراحی‌های مینیمال، تصاویر سینمایی، انیمه و اینفوگرافیک؛ کلی قابلیت جذاب وجود داره که شاید هنوز ازشون خبر نداشته باشی!\n+ توی این پست، مجموعه‌ای از دستورهای کاربردی ChatGPT رو جمع کردیم که می‌تونی برای تولید تصاویر خلاقانه و حرفه‌ای ازشون استفاده کنی.\n@RoidBest",
-        "original_link": "https://t.me/RoidBest/21971",
-        "post_id": 21971,
-        "message_id": 13644,
-        "message_kind": "caption",
-        "sources": [
-          "roidbest"
-        ],
-        "created_at": "2026-10-25T13:11:42.685650+00:00"
-      },
-      {
-        "fingerprint": "15ea5bfaa1d9c131b4aceb4ccfbe046077906223e9ac082d1a0995404b36e0f6",
-        "media_fingerprint": "7ff8fda789185b48a3b8827c3d49997ba277062e04825fbad8fab3d97fd34827",
-        "text": "جالب است بدانید درامریکا سالی بیش از ۳۵۰ نفر بخاطر رانندگی درخلاف جهت جان خود را ازدست میدهند اما با این حال قانونی در آلاباما امریکا وجود دارد که طبق آن میتوانید درخلاف جهت رانندگی کنید به شرط اینکه چراغ جلوی ماشین روشن باشد.\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "جالب است بدانید درامریکا سالی بیش از ۳۵۰ نفر بخاطر رانندگی درخلاف جهت جان خود را ازدست میدهند اما با این حال قانونی در آلاباما امریکا وجود دارد که طبق آن میتوانید درخلاف جهت رانندگی کنید به شرط اینکه چراغ جلوی ماشین روشن باشد.\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/160212",
-        "post_id": 160212,
-        "message_id": 13645,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-25T13:11:47.550599+00:00"
-      },
-      {
-        "fingerprint": "9038b63c07f203bf62dd39cbc62344a723362704d2f6f08f3c81a439a23bbf15",
-        "media_fingerprint": "13ebdcffd8cd0b0bf2844ce63521ba846967a2b270a3b492d633ba3279b544d3",
-        "text": "🔹\nمجری امریکایی : اگر تمام دشمنان ما در یک زمان به منافع ما حمله کنند -کره شمالی ، چین ، ایران ، روسیه- اگر مجبور شویم یکی را برای مقابله انتخاب کنیم کدام خواهد بود؟\n🔸\nجواب: ما ایران را بمباران میکنیم چون تنها گزینه هست که بمب اتم ندارد و نمیتواند آن را در واشنگتن دی سی منفجر کند!\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "🔹\nمجری امریکایی : اگر تمام دشمنان ما در یک زمان به منافع ما حمله کنند -کره شمالی ، چین ، ایران ، روسیه- اگر مجبور شویم یکی را برای مقابله انتخاب کنیم کدام خواهد بود؟\n🔸\nجواب: ما ایران را بمباران میکنیم چون تنها گزینه هست که بمب اتم ندارد و نمیتواند آن را در واشنگتن دی سی منفجر کند!\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163855",
-        "post_id": 163855,
-        "message_id": 13646,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel",
-          "jaleb"
-        ],
-        "created_at": "2026-10-25T13:11:54.182779+00:00"
-      },
-      {
-        "fingerprint": "8121400675011ef5426b4db2302d1426fd36ec007c280e68f6788503dcdad750",
-        "media_fingerprint": "",
-        "text": "این 11چیز را هر روز صبح به خودتان بگویید\nامروز روز محشریست\nمن میتوانم هرآنچه که میخواهم باشم\nچیزهای بی اهمیت روز من را خراب نمی‌کنند\nمن به اندازی کافی خوب هستم\nدیروز گذشت\nشکست خوردن اشکالی ندارد\nمن به انتخاب‌هایم افتخار می‌کنم\nمن زیبـا هستم\nمن از پسش برخواهم آمد\nمن خیلی خوش شانسم که سلامت هستم\nامروز روز من است\n🫰\nصبح بخیر\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
-        "original_username": "ghandeharipoet",
-        "original_text": "این 11چیز را هر روز صبح به خودتان بگویید\nامروز روز محشریست\nمن میتوانم هرآنچه که میخواهم باشم\nچیزهای بی اهمیت روز من را خراب نمی‌کنند\nمن به اندازی کافی خوب هستم\nدیروز گذشت\nشکست خوردن اشکالی ندارد\nمن به انتخاب‌هایم افتخار می‌کنم\nمن زیبـا هستم\nمن از پسش برخواهم آمد\nمن خیلی خوش شانسم که سلامت هستم\nامروز روز من است\n🫰\nصبح بخیر\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
-        "original_link": "https://t.me/Ghandeharipoet/42848",
-        "post_id": 42848,
-        "message_id": 13647,
-        "message_kind": "text",
-        "sources": [
-          "ghandeharipoet"
-        ],
-        "created_at": "2026-10-25T13:11:57.614913+00:00"
-      },
-      {
-        "fingerprint": "1c22e674e748ede921e7401a669ab5fae25014e2fc3458cc2c2b8d1f59afdf62",
-        "media_fingerprint": "",
-        "text": "",
-        "original_username": "ghandeharipoet",
-        "original_text": "",
-        "original_link": "https://t.me/Ghandeharipoet/42849",
-        "post_id": 42849,
-        "message_id": 13648,
-        "message_kind": "text",
-        "sources": [
-          "ghandeharipoet"
-        ],
-        "created_at": "2026-10-25T13:12:01.054205+00:00"
-      },
-      {
-        "fingerprint": "3220f648d06d72536e91e497b37b65c8d13d4cb605ae2d73292eb7e4fa4f5663",
-        "media_fingerprint": "",
-        "text": "ما آدما همیشه دلتنگ اونی هستیم\nکه نیست\nحوصله کسی رو نداریم که هست\nواسه همینه اصلا خوشحال نیستیم\n.\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
-        "original_username": "ghandeharipoet",
-        "original_text": "ما آدما همیشه دلتنگ اونی هستیم\nکه نیست\nحوصله کسی رو نداریم که هست\nواسه همینه اصلا خوشحال نیستیم\n.\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
-        "original_link": "https://t.me/Ghandeharipoet/42850",
-        "post_id": 42850,
-        "message_id": 13649,
-        "message_kind": "text",
-        "sources": [
-          "ghandeharipoet"
-        ],
-        "created_at": "2026-10-25T13:12:04.489463+00:00"
-      },
-      {
-        "fingerprint": "2b64ad0c06c21e90ef75d87f454b71a96daae7867060bf4e81fe08a397af8c30",
-        "media_fingerprint": "06f3e891906490deb7cba71cb481f6e27969ee397ec72639b533df273ccdb881",
-        "text": "با مصرف این معجون از سوزش معده خلاص شوید !\n◽️\nمقداری دارچین را به ۱ قاشق عسل اضافه کرده و سپس مصرف کنید. مانند آب روی آتش عمل کرده و فورا احساس راحتی خواهید کرد. درمان‌کننده زخم معده، ورم معده و نفخ نیز می‌باشد\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_username": "majalepezeshki",
-        "original_text": "با مصرف این معجون از سوزش معده خلاص شوید !\n◽️\nمقداری دارچین را به ۱ قاشق عسل اضافه کرده و سپس مصرف کنید. مانند آب روی آتش عمل کرده و فورا احساس راحتی خواهید کرد. درمان‌کننده زخم معده، ورم معده و نفخ نیز می‌باشد\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_link": "https://t.me/MajalePezeshki/38852",
-        "post_id": 38852,
-        "message_id": 13650,
-        "message_kind": "caption",
-        "sources": [
-          "majalepezeshki"
-        ],
-        "created_at": "2026-10-25T13:12:09.576404+00:00"
-      },
-      {
-        "fingerprint": "3cc8d96cd401592b3750b8a49d78026fc437754e43a53f47337835fc81c70505",
-        "media_fingerprint": "837935e33919b48c8dac26e90e152ef78c5fa5696a1b1f630fb83b8d17b3d82a",
-        "text": "🔻\nمشاهده  پلنگ نر و یک پلنگ ماده در منطقه حفاظت‌شده هرمود\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "🔻\nمشاهده  پلنگ نر و یک پلنگ ماده در منطقه حفاظت‌شده هرمود\n@irWonders",
-        "original_link": "https://t.me/irwonders/59078",
-        "post_id": 59078,
-        "message_id": 13651,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-25T13:12:17.799074+00:00"
-      },
-      {
-        "fingerprint": "f6c6f955a76d99b3802bb8d5c49d5ad54cc0a6b5bba66594a8a0250730b22611",
-        "media_fingerprint": "fdeff71e39266195ba6637157241ec6d2ab534c6f9f09b8241224899edc3938d",
-        "text": "آنچه در تصویر می بینید کوسه شاخ دار نام دارد . جالب است بدانید از عجیب ترین تخم های آبزیان را کوسه شاخدار دارد. این کوسه تخم های مخروطی زیبا و شبیه پیچ می گذارد تا از تخم ها با فرو کردن در سطوح مختلف محافظت کند.\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "آنچه در تصویر می بینید کوسه شاخ دار نام دارد . جالب است بدانید از عجیب ترین تخم های آبزیان را کوسه شاخدار دارد. این کوسه تخم های مخروطی زیبا و شبیه پیچ می گذارد تا از تخم ها با فرو کردن در سطوح مختلف محافظت کند.\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/160213",
-        "post_id": 160213,
-        "message_id": 13652,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-25T13:12:23.153126+00:00"
-      },
-      {
-        "fingerprint": "9ad5f34f853d68a398cec3c057183162a2e48e01b24958f04d2baf3706454e9f",
-        "media_fingerprint": "77b856f71ee17bf788abbee1f1b2329905f7744ed7f25da952af79ee2fc908b3",
-        "text": "یه گوساله تو هایلند-اسکاتلند بدنیا اومده که بصورت طبیعی یه فر بامزه رو پیشونیش داره... شبیه یه گل ۵پر سفید. گاوهای هایلندی تو ارتفاعات اسکاتلند پرورش داده میشن.\nاین پوشش پف‌دار بهشون کمک میکنه تو دمای سرد، بادهای شدید و آب و هوای نامساعد زنده بمونن.\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "یه گوساله تو هایلند-اسکاتلند بدنیا اومده که بصورت طبیعی یه فر بامزه رو پیشونیش داره... شبیه یه گل ۵پر سفید. گاوهای هایلندی تو ارتفاعات اسکاتلند پرورش داده میشن.\nاین پوشش پف‌دار بهشون کمک میکنه تو دمای سرد، بادهای شدید و آب و هوای نامساعد زنده بمونن.\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/53199",
-        "post_id": 53199,
-        "message_id": 13653,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb",
-          "irwonders",
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-25T13:12:34.293005+00:00"
-      },
-      {
-        "fingerprint": "5921f8fbc07d835ceca9d57291b528f75e73f73a3884d5adae3d1115ce7c18ec",
-        "media_fingerprint": "187218eec7b292f3f82ac02ab0ef399e3dc1d976911cac6673cb7675dbbaf94c",
-        "text": "سرمای شب                           سرمای صبح\n😏\n#Squidward\n💎\nSpongebob | باب اسفنجی",
-        "original_username": "boob_sfangi",
-        "original_text": "سرمای شب                           سرمای صبح\n😏\n#Squidward\n💎\nSpongebob | باب اسفنجی",
-        "original_link": "https://t.me/boob_sfangi/2842",
-        "post_id": 2842,
-        "message_id": 13654,
-        "message_kind": "caption",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-25T13:12:43.314232+00:00"
-      },
-      {
-        "fingerprint": "c4bd79496ac319e6dbd4c98e2608c43d65fdf47a169b6e8e8e1582a429b31222",
-        "media_fingerprint": "81c450f9a7e1c8c40b559f9959585d814d6ecaae52531e737fb5228d61c08117",
-        "text": "🟠\nکیت فولاد برای بازی با پرسپولیس\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🟠\nکیت فولاد برای بازی با پرسپولیس\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/236050",
-        "post_id": 236050,
-        "message_id": 13656,
-        "message_kind": "caption",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-25T13:12:49.520194+00:00"
-      },
-      {
-        "fingerprint": "fd421543be50d622149571effa43d357f6b85fbeb0d3edf8090ea44d750f8f78",
-        "media_fingerprint": "",
-        "text": "با او بگو چه می کشم از\nدرد اشتیاق\nشاید وفا کند،\nبشتابد به یاری‌ام...\n#فریدون_مشیری\n‌‌\nسوم آبان ماه، سالروز جاودانگی\nزنده‌یاد\n#فریدون_مشیری\nیادش گرامی\n🩷\n🍂\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
-        "original_username": "ghandeharipoet",
-        "original_text": "با او بگو چه می کشم از\nدرد اشتیاق\nشاید وفا کند،\nبشتابد به یاری‌ام...\n#فریدون_مشیری\n‌‌\nسوم آبان ماه، سالروز جاودانگی\nزنده‌یاد\n#فریدون_مشیری\nیادش گرامی\n🩷\n🍂\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
-        "original_link": "https://t.me/Ghandeharipoet/42851",
-        "post_id": 42851,
-        "message_id": 13657,
-        "message_kind": "text",
-        "sources": [
-          "ghandeharipoet"
-        ],
-        "created_at": "2026-10-25T13:12:52.913655+00:00"
-      },
-      {
-        "fingerprint": "6dd407a7a024402561b09e1ee8944f0506a571d6db38b50d1c954d69c67e0e03",
-        "media_fingerprint": "f8911a4559286b3ae29e5ac609a2fcaf9be3169e81b07373079cc0f6b39ae4b2",
-        "text": "‌گندکاری‌هایی که موقع این چالش غذا خوردن به بار اومده عالیه\n😂\n😂\n😂\n👌\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "‌گندکاری‌هایی که موقع این چالش غذا خوردن به بار اومده عالیه\n😂\n😂\n😂\n👌\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/307317",
-        "post_id": 307317,
-        "message_id": 13658,
-        "message_kind": "caption",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-25T13:13:00.907765+00:00"
-      },
-      {
-        "fingerprint": "70e3f706b540af9611898ac6e44a1304cdec1cf2016e50f474c416f6d125e699",
-        "media_fingerprint": "b4c1a67840c1d087be336e81922757f39465783c91b81cde3d337bd6f18a02f6",
-        "text": "با حرص شیرو‌ ریخت روی مردونگیش گفت لیس بزن، گفتم ارباب من نمیتونم حالم بد میشه ، یهو از موهام گرفت و تو یه حرکت سرمو نزدیک خودش کرد و گفت یا لیس بزن یا یه گلوله حرومت میکنم، از روی ناچاری شروع کردم......\n💦\n🔞\nمشاهده ادامه داستان\n🔞\n💦",
-        "original_username": "bimaariha",
-        "original_text": "با حرص شیرو‌ ریخت روی مردونگیش گفت لیس بزن، گفتم ارباب من نمیتونم حالم بد میشه ، یهو از موهام گرفت و تو یه حرکت سرمو نزدیک خودش کرد و گفت یا لیس بزن یا یه گلوله حرومت میکنم، از روی ناچاری شروع کردم......\n💦\n🔞\nمشاهده ادامه داستان\n🔞\n💦",
-        "original_link": "https://t.me/Bimaariha/19628",
-        "post_id": 19628,
-        "message_id": 13659,
-        "message_kind": "caption",
-        "sources": [
-          "bimaariha"
-        ],
-        "created_at": "2026-10-25T13:13:05.315495+00:00"
-      },
-      {
-        "fingerprint": "1b2fdc4deae0ebdb9e4fef296cf05f4ac7b89ad1e090450895c81cfcea5c53fa",
-        "media_fingerprint": "",
-        "text": "زن داییم ، میگفت چند سال پیش رفته بودم درمانگاه پیش دندانپزشک ، دکتره اومده بود دندونم بکشه ،زندایی میگفت از ترس چشامو بستم و  غیر ارادی دست بردم پایین روپوششو بگیرم .\nکه اشتباهی دست بردم مردونگیشو گرفتم دکتر گفت...\nادامه داستان\n👉",
-        "original_username": "bimaariha",
-        "original_text": "زن داییم ، میگفت چند سال پیش رفته بودم درمانگاه پیش دندانپزشک ، دکتره اومده بود دندونم بکشه ،زندایی میگفت از ترس چشامو بستم و  غیر ارادی دست بردم پایین روپوششو بگیرم .\nکه اشتباهی دست بردم مردونگیشو گرفتم دکتر گفت...\nادامه داستان\n👉",
-        "original_link": "https://t.me/Bimaariha/19629",
-        "post_id": 19629,
-        "message_id": 13660,
-        "message_kind": "text",
-        "sources": [
-          "bimaariha"
-        ],
-        "created_at": "2026-10-25T13:13:08.937454+00:00"
-      },
-      {
-        "fingerprint": "bd383b615f2f05fdf2547377170fb1862a86029316c919807bafb99e5209b21a",
-        "media_fingerprint": "",
-        "text": "دست کرده آلت دکتر گرفته دکتر هم...\n😐",
-        "original_username": "bimaariha",
-        "original_text": "دست کرده آلت دکتر گرفته دکتر هم...\n😐",
-        "original_link": "https://t.me/Bimaariha/19630",
-        "post_id": 19630,
-        "message_id": 13661,
-        "message_kind": "text",
-        "sources": [
-          "bimaariha"
-        ],
-        "created_at": "2026-10-25T13:13:12.349136+00:00"
-      },
-      {
-        "fingerprint": "7bcb2537516c1f103998ecbbb0753d6ddd8f88c8040bfa24f49fdf41c10c13c6",
-        "media_fingerprint": "",
-        "text": "خاطرات شب زفاف جررر خوردم\n😂\n😐\n🍑",
-        "original_username": "bimaariha",
-        "original_text": "خاطرات شب زفاف جررر خوردم\n😂\n😐\n🍑",
-        "original_link": "https://t.me/Bimaariha/19631",
-        "post_id": 19631,
-        "message_id": 13662,
-        "message_kind": "text",
-        "sources": [
-          "bimaariha"
-        ],
-        "created_at": "2026-10-25T13:13:15.758956+00:00"
-      },
       {
         "fingerprint": "d1cebeb6a360983005103526e62c79ad681e2a2d96e40046ce0306f68a859902",
         "media_fingerprint": "",
@@ -30634,6 +29771,891 @@
           "dashagh"
         ],
         "created_at": "2026-10-25T16:09:45.745459+00:00"
+      },
+      {
+        "fingerprint": "9789050e12764e442404e22a9725bd43ec09f7370f44499406280f3a50543048",
+        "media_fingerprint": "2268de1ff72092a7609a9b166077457c83fc0f19ab21562806b12f7519d3bab0",
+        "text": "‼️\n🎙\n⚽\nتارتار، سرمربی پرسپولیس: باید از هواداران عذرخواهی کنم. فولاد هیچ موقعیتی نداشت و ما غافلگیر شدیم!\n⚪️\nبرخی بازی ها حریف هدفش فقط تخریب تیم مقابل است! امروز خیلی فرصت نداشتیم اما یک موقعیت عالی داشتیم که مهاجم از دست داد. بچه ها خیلی تلاش کردند.\n⚪️\nهمان طور که در برد می گویم بچه ها نباید مغرور شوند در باخت مسئولیت را به عهده می گیرم، بازیکنان باید زود این باخت را فراموش کنند چون هدف ما قهرمانی است!\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "‼️\n🎙\n⚽\nتارتار، سرمربی پرسپولیس: باید از هواداران عذرخواهی کنم. فولاد هیچ موقعیتی نداشت و ما غافلگیر شدیم!\n⚪️\nبرخی بازی ها حریف هدفش فقط تخریب تیم مقابل است! امروز خیلی فرصت نداشتیم اما یک موقعیت عالی داشتیم که مهاجم از دست داد. بچه ها خیلی تلاش کردند.\n⚪️\nهمان طور که در برد می گویم بچه ها نباید مغرور شوند در باخت مسئولیت را به عهده می گیرم، بازیکنان باید زود این باخت را فراموش کنند چون هدف ما قهرمانی است!\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/85720",
+        "post_id": 85720,
+        "message_id": 13918,
+        "message_kind": "caption",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-25T17:02:37.669145+00:00"
+      },
+      {
+        "fingerprint": "3cddd502a9171beb43e2099e0430b02ab1b4547802d6dd75eec5264bae5da370",
+        "media_fingerprint": "",
+        "text": "🔹\nنساجی ۲ - فجرسپاسی ۲؛ جذاب ترین بازی هفته برنده نداشت!",
+        "original_username": "fars_today",
+        "original_text": "🔹\nنساجی ۲ - فجرسپاسی ۲؛ جذاب ترین بازی هفته برنده نداشت!",
+        "original_link": "https://t.me/Fars_today/132324",
+        "post_id": 132324,
+        "message_id": 13919,
+        "message_kind": "text",
+        "sources": [
+          "fars_today"
+        ],
+        "created_at": "2026-10-25T17:02:41.095084+00:00"
+      },
+      {
+        "fingerprint": "919c4eeb72950bdf2fa96b431661a891a1c9afefe66dc65eee23a13fd355b441",
+        "media_fingerprint": "",
+        "text": "♦️\nپزشکیان: روش جدید سرشماری عدالت را افزایش می‌دهد\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nپزشکیان: روش جدید سرشماری عدالت را افزایش می‌دهد\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144437",
+        "post_id": 144437,
+        "message_id": 13920,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-25T17:02:44.610444+00:00"
+      },
+      {
+        "fingerprint": "b1de95a435b3bebaf82b732bc722918484d77de54bd6c108c790a1a30091fa4e",
+        "media_fingerprint": "ae9eb0279a82c192639b054cafa5d372c37a1bc29751b53c270f0472aab315b5",
+        "text": "ابوالفضل رزاق‌پور: خدا رو شکر سربلند از بازی با پرسپولیس بیرون آمدم و خدا به فولاد عزت داد که برنده شد/ اگر سلیقه کادرفنی تیم ملی باشم، خوشحال می‌شوم کمک کنم\n🔘\n@Navadnewstelegram",
+        "original_username": "footballvision2",
+        "original_text": "ابوالفضل رزاق‌پور: خدا رو شکر سربلند از بازی با پرسپولیس بیرون آمدم و خدا به فولاد عزت داد که برنده شد/ اگر سلیقه کادرفنی تیم ملی باشم، خوشحال می‌شوم کمک کنم\n🔘\n@Navadnewstelegram",
+        "original_link": "https://t.me/footballvision2/172900",
+        "post_id": 172900,
+        "message_id": 13921,
+        "message_kind": "caption",
+        "sources": [
+          "footballvision2"
+        ],
+        "created_at": "2026-10-25T17:02:53.250848+00:00"
+      },
+      {
+        "fingerprint": "5c7c8d52536f3b3da9358d35386e59c85da2f7460789a352d8a1245e500fb7d6",
+        "media_fingerprint": "0da1371986e754dc1cba9f3a450e5d253e76dfdb302036a387e6f8e38f8bd1a9",
+        "text": "🔴\nبیل گیتس؛ بنیانگذار مایکروسافت :\nبه زودی کار انسان هیچ تاثیری تو اقتصاد نخواهد داشت و هوش مصنوعی تمام کارها رو انجام میده.\nما دیگه برای تولید هیچ کالا و خدماتی به نیروی انسانی نیاز نخواهیم داشت.\nبین ۳ تا ۸ سال دیگه ربات هایی خواهیم داشت که خونه میسازن؛ کشاورزی میکنن؛ عمل جراحی انجام میدن؛ تعمیرات انجام میدن و میتونن توی کارخونه ها به جای کارگران کار کنن.\nهوش مصنوعی میتونه باعث از بین رفتن آدم های زیادی بشه.\nعصر مشاغل سنتی در حال از بین رفتنه و برای جهان جدید آماده شوید.\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "🔴\nبیل گیتس؛ بنیانگذار مایکروسافت :\nبه زودی کار انسان هیچ تاثیری تو اقتصاد نخواهد داشت و هوش مصنوعی تمام کارها رو انجام میده.\nما دیگه برای تولید هیچ کالا و خدماتی به نیروی انسانی نیاز نخواهیم داشت.\nبین ۳ تا ۸ سال دیگه ربات هایی خواهیم داشت که خونه میسازن؛ کشاورزی میکنن؛ عمل جراحی انجام میدن؛ تعمیرات انجام میدن و میتونن توی کارخونه ها به جای کارگران کار کنن.\nهوش مصنوعی میتونه باعث از بین رفتن آدم های زیادی بشه.\nعصر مشاغل سنتی در حال از بین رفتنه و برای جهان جدید آماده شوید.\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/53216",
+        "post_id": 53216,
+        "message_id": 13922,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-25T17:02:58.177396+00:00"
+      },
+      {
+        "fingerprint": "1dafaaf94525d22b792b682ab4568f1e126ee3579b35dc478691f264e549db12",
+        "media_fingerprint": "96cee8d4de9a68ddbf3c647ad824604130c74eeea1f9c9976409d6c7f609cf2b",
+        "text": "🟥\n🔴\nعذرخواهی سرگیف از هواداران پرسپولیس\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🟥\n🔴\nعذرخواهی سرگیف از هواداران پرسپولیس\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/236087",
+        "post_id": 236087,
+        "message_id": 13923,
+        "message_kind": "caption",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-25T17:03:05.450746+00:00"
+      },
+      {
+        "fingerprint": "1acc028e95f3457f40ca0a51438011724a83086cd486bde174231728d05a61b9",
+        "media_fingerprint": "6414f79e2f2b4286bdbf4b42f88792ef52321877d1a4aa29da7fd49335ab85ee",
+        "text": "🔻\n🎙\n⚽\nمهدی تارتار، سرمربی پرسپولیس: مصدومیت خدا بنده‌لو را به روند این بازی بی‌تاثیر نبینید! در بازی‌هایی که گره می خورد برخی بازیکنان گره را باز می‌کنند!\n⚪️\nما باید به جای 4 موقعیت باید 7 تا موقعیت داشته باشیم. ما باید مشکلات خود را مرتفع کنیم تا در مقابل تیم هایی مثل فولاد تنوع تاکتیکی داشته باشیم!\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "🔻\n🎙\n⚽\nمهدی تارتار، سرمربی پرسپولیس: مصدومیت خدا بنده‌لو را به روند این بازی بی‌تاثیر نبینید! در بازی‌هایی که گره می خورد برخی بازیکنان گره را باز می‌کنند!\n⚪️\nما باید به جای 4 موقعیت باید 7 تا موقعیت داشته باشیم. ما باید مشکلات خود را مرتفع کنیم تا در مقابل تیم هایی مثل فولاد تنوع تاکتیکی داشته باشیم!\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/85721",
+        "post_id": 85721,
+        "message_id": 13924,
+        "message_kind": "caption",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-25T17:03:13.048512+00:00"
+      },
+      {
+        "fingerprint": "50b8d24c0a901917bec7ceb4af78928f96ebffb6d437792ac508f8640677f639",
+        "media_fingerprint": "7815f1c85700d69a628da2be92ff5733792e137f21e06d06420dbad68a1daffb",
+        "text": "چرا این جمله ها که نباید میفهیمدم فهمیدم\n😐\n😂\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "چرا این جمله ها که نباید میفهیمدم فهمیدم\n😐\n😂\n@comentiat",
+        "original_link": "https://t.me/Comentiat/26749",
+        "post_id": 26749,
+        "message_id": 13925,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-25T17:03:18.251077+00:00"
+      },
+      {
+        "fingerprint": "29ca95624a37c6a181c9da96012324008d6dd2dcab1e7663569a0271d7d1b66a",
+        "media_fingerprint": "c9249cbaa5786ae06ad25188b7d5a673d9448522a1379b9be7eb5562533c02fe",
+        "text": "🔻\n🎙\n⚽\nمهدی تارتار، سرمربی پرسپولیس: شعار بی غیرت از سمت هواداران؟ ما نباید اعتماد خود را از دست بدهیم. پرسپولیس تیم خوبی است و همین امروز شانس گل به فولاد ندادیم! از هواداران می خواهم صبور باشند و از تیم حمایت کنند.\n⚪️\nباخت هم جزیی از فوتبال است و همیشه برد نیست. این باخت نباید دوباره تکرار شود و اگر تکرار شود ایراد بزرگی است! با غصه خوردن چیزی درست نمی شود.\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "🔻\n🎙\n⚽\nمهدی تارتار، سرمربی پرسپولیس: شعار بی غیرت از سمت هواداران؟ ما نباید اعتماد خود را از دست بدهیم. پرسپولیس تیم خوبی است و همین امروز شانس گل به فولاد ندادیم! از هواداران می خواهم صبور باشند و از تیم حمایت کنند.\n⚪️\nباخت هم جزیی از فوتبال است و همیشه برد نیست. این باخت نباید دوباره تکرار شود و اگر تکرار شود ایراد بزرگی است! با غصه خوردن چیزی درست نمی شود.\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/85723",
+        "post_id": 85723,
+        "message_id": 13926,
+        "message_kind": "caption",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-25T17:03:26.283394+00:00"
+      },
+      {
+        "fingerprint": "381353a51ae1ac45616f9b3beaa6cb001360e19c5006b8b5dfddf5b89f58abec",
+        "media_fingerprint": "229ba6de59cce7e6d621ee3477c9154b03b61416e3fcc1de547db6451bad0df7",
+        "text": "4 تیم 20 امتیازی؛\n🇪🇺\nجدول لیگ در پایان هفته دهم\n✉️\nنتایج هفته دهم لیگ برتر\n👨‍💻\nبرنامه مسابقات هفته 11\n📌\nصفحه ویژه لیگ برتر ایران\n🆔\n@varzesh3",
+        "original_username": "varzesh3",
+        "original_text": "4 تیم 20 امتیازی؛\n🇪🇺\nجدول لیگ در پایان هفته دهم\n✉️\nنتایج هفته دهم لیگ برتر\n👨‍💻\nبرنامه مسابقات هفته 11\n📌\nصفحه ویژه لیگ برتر ایران\n🆔\n@varzesh3",
+        "original_link": "https://t.me/varzesh3/305154",
+        "post_id": 305154,
+        "message_id": 13927,
+        "message_kind": "caption",
+        "sources": [
+          "varzesh3"
+        ],
+        "created_at": "2026-10-25T17:03:40.258357+00:00"
+      },
+      {
+        "fingerprint": "6dc390a9490aa2d662a5bfa416b1e001bbf09aa6887ed0249795009f12618b0b",
+        "media_fingerprint": "95a0bbd34e17053d66a8ef8ec0addaf923f6ea731481d3fd2db5fe7f3ede89f1",
+        "text": "‼️\n🎙\n⚽\nمهدی تارتار، سرمربی پرسپولیس:  شرایط بدنی حسین کنعانی افت کرد و مجبور شدیم او را تعویض کنیم تا آسیب نبیند\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "‼️\n🎙\n⚽\nمهدی تارتار، سرمربی پرسپولیس:  شرایط بدنی حسین کنعانی افت کرد و مجبور شدیم او را تعویض کنیم تا آسیب نبیند\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/85724",
+        "post_id": 85724,
+        "message_id": 13929,
+        "message_kind": "caption",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-25T17:03:47.129194+00:00"
+      },
+      {
+        "fingerprint": "7f14214491f9e86bacdedac0ee298f30f0c438307a1d32e1e6fd3477babd8300",
+        "media_fingerprint": "3c3118c52ce77b73190f74175bc789f4ccb86f110add78cd40ffad21261abd9a",
+        "text": "به «فولاد تایم» اعتقاد آوردید؟\n🎤\nمطهری، پس از برد مقابل پرسپولیس  @Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "به «فولاد تایم» اعتقاد آوردید؟\n🎤\nمطهری، پس از برد مقابل پرسپولیس  @Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/111415",
+        "post_id": 111415,
+        "message_id": 13930,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-25T17:03:55.560006+00:00"
+      },
+      {
+        "fingerprint": "ba9baa8518b0d36a918eccaf019a3b758c6879f9eff3eaaacaa75981fe273323",
+        "media_fingerprint": "",
+        "text": "آپلودرتون کارنمیکنه",
+        "original_username": "drtel",
+        "original_text": "آپلودرتون کارنمیکنه",
+        "original_link": "https://t.me/drtel/71795",
+        "post_id": 71795,
+        "message_id": 13931,
+        "message_kind": "text",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-25T17:03:58.967911+00:00"
+      },
+      {
+        "fingerprint": "b9db6fe4fec1b3d30feab92a81065ab71efb69b56e01c02858e4ec96fd851547",
+        "media_fingerprint": "",
+        "text": "‼️\n⚽\nباشگاه پرسپولیس در پی اتفاقات دیدار برابر فولاد خوزستان و انتقاد از نحوه قضاوت امیر عرب‌براقی، اعتراض رسمی خود را به سازمان لیگ فوتبال ایران و کمیته داوران اعلام کرد.\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "‼️\n⚽\nباشگاه پرسپولیس در پی اتفاقات دیدار برابر فولاد خوزستان و انتقاد از نحوه قضاوت امیر عرب‌براقی، اعتراض رسمی خود را به سازمان لیگ فوتبال ایران و کمیته داوران اعلام کرد.\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/85725",
+        "post_id": 85725,
+        "message_id": 13932,
+        "message_kind": "text",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-25T17:04:02.546621+00:00"
+      },
+      {
+        "fingerprint": "2e910e4d6f52ce7feaa3a0420f9de7b298e30a706f9cdc326462ff29c8f62d5e",
+        "media_fingerprint": "90d83206d4f7816a35d1e9363eb345c225cac7c089b2497ae5205f4941b46aa4",
+        "text": "کدش اینه",
+        "original_username": "drtel",
+        "original_text": "کدش اینه",
+        "original_link": "https://t.me/drtel/71797",
+        "post_id": 71797,
+        "message_id": 13933,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-25T17:04:08.548252+00:00"
+      },
+      {
+        "fingerprint": "572055f993102ae1e4108a590030af812b89a9b5ac24317262920bb84910a3bd",
+        "media_fingerprint": "",
+        "text": "♦️\nدورتموند برای هوادارانش «حالت هوادار» راه‌اندازی کرد!\n🔹\nاپلیکیشن دورتموند با قابلیتی به نام «حالت هوادار»، مدت خاموش بودن صفحه گوشی در طول بازی را اندازه‌گیری می‌کند.\n🔹\nهواداران به‌ازای هر دقیقه امتیاز می‌گیرند و با افزایش امتیاز، شانس بیشتری برای برنده شدن در قرعه‌کشی و دریافت کدهای تخفیف فروشگاه‌های باشگاه خواهند داشت.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nدورتموند برای هوادارانش «حالت هوادار» راه‌اندازی کرد!\n🔹\nاپلیکیشن دورتموند با قابلیتی به نام «حالت هوادار»، مدت خاموش بودن صفحه گوشی در طول بازی را اندازه‌گیری می‌کند.\n🔹\nهواداران به‌ازای هر دقیقه امتیاز می‌گیرند و با افزایش امتیاز، شانس بیشتری برای برنده شدن در قرعه‌کشی و دریافت کدهای تخفیف فروشگاه‌های باشگاه خواهند داشت.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144438",
+        "post_id": 144438,
+        "message_id": 13934,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-25T17:04:11.989594+00:00"
+      },
+      {
+        "fingerprint": "be76a07c2d521c00012f1f1fb5e8084d25ef6eb9711f53dee298593f07e6e6be",
+        "media_fingerprint": "",
+        "text": "🔻\n🎙\n🇮🇷\nساسان انصاری، کاپیتان تیم فولاد: هم‌قسم شده بودیم که پرسپولیس را شکست دهیم که به این هدف رسیدیم\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "🔻\n🎙\n🇮🇷\nساسان انصاری، کاپیتان تیم فولاد: هم‌قسم شده بودیم که پرسپولیس را شکست دهیم که به این هدف رسیدیم\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/85726",
+        "post_id": 85726,
+        "message_id": 13935,
+        "message_kind": "text",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-25T17:04:15.491559+00:00"
+      },
+      {
+        "fingerprint": "75f9baa57327fb2f873e3c0925fa6b585dabe5ee3229289cd996b25ae145df62",
+        "media_fingerprint": "",
+        "text": "دوستان لطفاً الکی تلاش نکنید ربات رو گول بزنید، ربات به هوش مصنوعی مجهز شده و متوجه جنسیت شما حتی از پشت گوشی میشه",
+        "original_username": "drtel",
+        "original_text": "دوستان لطفاً الکی تلاش نکنید ربات رو گول بزنید، ربات به هوش مصنوعی مجهز شده و متوجه جنسیت شما حتی از پشت گوشی میشه",
+        "original_link": "https://t.me/drtel/71798",
+        "post_id": 71798,
+        "message_id": 13936,
+        "message_kind": "text",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-25T17:04:18.936813+00:00"
+      },
+      {
+        "fingerprint": "dc43ab4d5da6c153150704cdf9bbd44dada16753199ff643ba03ea49e422e965",
+        "media_fingerprint": "71b0e83ef4303c2ac72b7a81cc0edd18bd88e62f7c7458c50663f798443afe6f",
+        "text": "چند کیلو گیلاس برای مراسم تدفین!\n🔚\n۳ میخ درست‌وحسابی روی تابوت کریک و باشگاهی بزرگ؛ برد باورنکردنی بورنموث مقابل منچستریونایتد، نیمکت‌نشینی کامل برونو فرناندز در روز سنگ‌تمام گذاشتن سکوها علیه گلیزرها و راتکلیف\n👥\nلیگ برتر انگلیس - هفته ۸  @Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "چند کیلو گیلاس برای مراسم تدفین!\n🔚\n۳ میخ درست‌وحسابی روی تابوت کریک و باشگاهی بزرگ؛ برد باورنکردنی بورنموث مقابل منچستریونایتد، نیمکت‌نشینی کامل برونو فرناندز در روز سنگ‌تمام گذاشتن سکوها علیه گلیزرها و راتکلیف\n👥\nلیگ برتر انگلیس - هفته ۸  @Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/111418",
+        "post_id": 111418,
+        "message_id": 13937,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-25T17:04:23.865143+00:00"
+      },
+      {
+        "fingerprint": "781fd5bb1bc9c9441cdded2f328ad2026b0c5f4d4ddf14e9e15b10f0acc909ad",
+        "media_fingerprint": "186086b21d4ddd389ab3c624a01ee0858cbc8cc18bf14d30329e4ac8aedab0d0",
+        "text": "تارتار، پس از شکست مقابل فولاد\n🎤\nمسئولیت باخت با مربی و شادی برد مال همه است  @Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "تارتار، پس از شکست مقابل فولاد\n🎤\nمسئولیت باخت با مربی و شادی برد مال همه است  @Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/111419",
+        "post_id": 111419,
+        "message_id": 13938,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-25T17:04:31.909949+00:00"
+      },
+      {
+        "fingerprint": "b3f722ce375ff15623d63e77d7a370bbf6e67b557cea6afa1b5c14b4111a7a7e",
+        "media_fingerprint": "",
+        "text": "🔴\nشاید باورتون نشه، ولی مدارس ایران هم کم‌کم دارن حس‌وحال اروپایی به خودشون میگیرن؛ امروز یکی از دانش‌آموزای یه مدرسه تو تهران، وسط زنگ تفریح به زیدش زنگ می‌زنه و بهش میگه خیلی دلش براش تنگ شده و بعدش مدرسه رو می‌پیچونه و با ماشین خودش میره دنبال زیدش. زیدش…",
+        "original_username": "drtel",
+        "original_text": "🔴\nشاید باورتون نشه، ولی مدارس ایران هم کم‌کم دارن حس‌وحال اروپایی به خودشون میگیرن؛ امروز یکی از دانش‌آموزای یه مدرسه تو تهران، وسط زنگ تفریح به زیدش زنگ می‌زنه و بهش میگه خیلی دلش براش تنگ شده و بعدش مدرسه رو می‌پیچونه و با ماشین خودش میره دنبال زیدش. زیدش…",
+        "original_link": "https://t.me/drtel/71799",
+        "post_id": 71799,
+        "message_id": 13939,
+        "message_kind": "text",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-25T17:04:35.392224+00:00"
+      },
+      {
+        "fingerprint": "5c9a9d7c40a2b814606a26dad108d221d0230905492e6ee0fce3fa155d3c8892",
+        "media_fingerprint": "4498a546da69ea1362a31c69fea4401023ec57161cf06c2a14d6a8ffe9581249",
+        "text": "این میکاپ خفن هالووینی رو ببینید\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "این میکاپ خفن هالووینی رو ببینید\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/160235",
+        "post_id": 160235,
+        "message_id": 13940,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-25T17:04:42.236585+00:00"
+      },
+      {
+        "fingerprint": "4894f986574251832328c1c94f0ed57a3e6f01e55fd187df984a2f0100e1bf92",
+        "media_fingerprint": "55d15256614ecbb5465dd34644c73d83d49569b950400bf0131230771e8459f2",
+        "text": "بازیکنان پرسپولیس پس از باخت مقابل فولاد با چهره ناراحت ورزشگاه را ترک کردند و حاضر به گفتگو با خبرنگاران نشدند\n🆔\n@footballvision2",
+        "original_username": "footballvision2",
+        "original_text": "بازیکنان پرسپولیس پس از باخت مقابل فولاد با چهره ناراحت ورزشگاه را ترک کردند و حاضر به گفتگو با خبرنگاران نشدند\n🆔\n@footballvision2",
+        "original_link": "https://t.me/footballvision2/172902",
+        "post_id": 172902,
+        "message_id": 13941,
+        "message_kind": "caption",
+        "sources": [
+          "footballvision2"
+        ],
+        "created_at": "2026-10-25T17:04:49.569780+00:00"
+      },
+      {
+        "fingerprint": "14e47074631261773a5158e2abf3f3ff54d8309a86eb42c5e302df7a729f6d35",
+        "media_fingerprint": "b98667ccf06e3dc141d8f51ebdeab183e2eef783b06654940ea38fd634cd72d8",
+        "text": "چشماش انقدر خوشگله که انگار واقعی نیست و از دل انیمه ها اومده\n🥹\n🦋\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "چشماش انقدر خوشگله که انگار واقعی نیست و از دل انیمه ها اومده\n🥹\n🦋\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163878",
+        "post_id": 163878,
+        "message_id": 13942,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-25T17:04:54.494588+00:00"
+      },
+      {
+        "fingerprint": "d4987d0e7a8cd4d6f04efa9d008b44f668a72f4fd7c8f4eab6e3f8587f08a6b7",
+        "media_fingerprint": "e55a341deea26f31758eac1681650bc743e1d82a5e95f7c0c3dfc46b6730c8d7",
+        "text": "توییت اکانت سفارت ایران در هند\n😄\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "توییت اکانت سفارت ایران در هند\n😄\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163879",
+        "post_id": 163879,
+        "message_id": 13943,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-25T17:04:59.473599+00:00"
+      },
+      {
+        "fingerprint": "6b19ba0a5a56a6851307083c48c66cd2ee10e5254c51a6ce03d35f8007fe1595",
+        "media_fingerprint": "3ae89294178b0b434ac76f7e35dac9c5a083160649eca204c11f8e11be75dbcd",
+        "text": "⚽️\nشگفتانه بچه‌های کریم‌آباد زاهدان برای «گزارش ورزشی»\nپنج ساعت مانده به آغاز بازی ال‌کلاسیکو، بچه‌های کریم‌آباد، از مناطق کم‌برخوردار حاشیه شهر زاهدان، با حضوری پرشور و صمیمی به استقبال برنامه «گزارش ورزشی» آمدند.\nآن‌ها شاید در حاشیه شهر زندگی کنند، اما شور و اشتیاقشان برای استقبال از بچه های جبهه فرهنگی انقلاب چیزی کم از هیچ نقطه‌ای از شهر ندارد؛ استقبالی گرم و پرانرژی که نشان داد این تلاش می‌تواند فاصله‌ها را کنار بزند و دل‌ها را به هم نزدیک کند.\n💚\nکریم‌آباد؛ جایی که عشق به فوتبال، از پنج ساعت قبل از سوت آغاز ال‌کلاسیکو به جریان افتاد.\n@GizmizTel",
+        "original_username": "gizmiztel",
+        "original_text": "⚽️\nشگفتانه بچه‌های کریم‌آباد زاهدان برای «گزارش ورزشی»\nپنج ساعت مانده به آغاز بازی ال‌کلاسیکو، بچه‌های کریم‌آباد، از مناطق کم‌برخوردار حاشیه شهر زاهدان، با حضوری پرشور و صمیمی به استقبال برنامه «گزارش ورزشی» آمدند.\nآن‌ها شاید در حاشیه شهر زندگی کنند، اما شور و اشتیاقشان برای استقبال از بچه های جبهه فرهنگی انقلاب چیزی کم از هیچ نقطه‌ای از شهر ندارد؛ استقبالی گرم و پرانرژی که نشان داد این تلاش می‌تواند فاصله‌ها را کنار بزند و دل‌ها را به هم نزدیک کند.\n💚\nکریم‌آباد؛ جایی که عشق به فوتبال، از پنج ساعت قبل از سوت آغاز ال‌کلاسیکو به جریان افتاد.\n@GizmizTel",
+        "original_link": "https://t.me/gizmiztel/163880",
+        "post_id": 163880,
+        "message_id": 13944,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-25T17:05:07.608778+00:00"
+      },
+      {
+        "fingerprint": "cd8f71e410f26d7362d862222e3d3854a45a7de3021b4fff782eb90509492858",
+        "media_fingerprint": "cc0d0b1833f22c992d776b6eef14987644e998699eb49f5ce1ef70ed5b795162",
+        "text": "دوستان کسی میدونه برای ویزای کرج از کجا باید اقدام کرد؟؟\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "دوستان کسی میدونه برای ویزای کرج از کجا باید اقدام کرد؟؟\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163881",
+        "post_id": 163881,
+        "message_id": 13945,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-25T17:05:12.392875+00:00"
+      },
+      {
+        "fingerprint": "1f89a9f6d69fb15368235a21abbe87b801f343be9baf37aa9fa07cf739fd03b2",
+        "media_fingerprint": "05181ce621ce5ba66595d1c5b7fab5f7a0c85ebfb28cbefaba9594827988f14f",
+        "text": "اینجا «پارک گرند کنیون آریزونا» نیست !!\nبلکه صخره‌های حیرت‌انگیز کوهدشت لرستان ایران، حاصل میلیون‌ها سال فرسایش زمین است.\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "اینجا «پارک گرند کنیون آریزونا» نیست !!\nبلکه صخره‌های حیرت‌انگیز کوهدشت لرستان ایران، حاصل میلیون‌ها سال فرسایش زمین است.\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163882",
+        "post_id": 163882,
+        "message_id": 13946,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-25T17:05:17.360785+00:00"
+      },
+      {
+        "fingerprint": "2e7fc0e638330f169faaa88d07d60268c9695b28822fd302416b188f693b24ca",
+        "media_fingerprint": "2245a11a94561e2b56dda58c7d90285d27ce14fb1492654e981aafd06ebd2ce7",
+        "text": "الکلاسیکو امشب در زاهدان!\nاقدام جالب گزارش ورزشی در پخش فوتبال رئال مادرید - بارسلونا  از استان سیستان و بلوچستان\n🔺\nامشب ساعت ۲۳:۳۰ از‌ زمین چمن کریم‌آباد زاهدان\n@GizmizTel",
+        "original_username": "gizmiztel",
+        "original_text": "الکلاسیکو امشب در زاهدان!\nاقدام جالب گزارش ورزشی در پخش فوتبال رئال مادرید - بارسلونا  از استان سیستان و بلوچستان\n🔺\nامشب ساعت ۲۳:۳۰ از‌ زمین چمن کریم‌آباد زاهدان\n@GizmizTel",
+        "original_link": "https://t.me/gizmiztel/163883",
+        "post_id": 163883,
+        "message_id": 13947,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-25T17:05:25.269360+00:00"
+      },
+      {
+        "fingerprint": "a45ed5f1ce0a6ea2956f32436f626aecdbeb939938bef87de3611c8b79e44118",
+        "media_fingerprint": "71c7adf88e0ff59b8ce2e53b3a6a6aa0c5349d4fd274c9f7ea2ab0bb3d512e7f",
+        "text": "علیییه نکوووون\n🤣\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "علیییه نکوووون\n🤣\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163884",
+        "post_id": 163884,
+        "message_id": 13948,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-25T17:05:32.386980+00:00"
+      },
+      {
+        "fingerprint": "5a110545ddfe275ef9d7730e76a08ceaeac7cacf0bbd67c4f418ddc38d0dd335",
+        "media_fingerprint": "2f698c8f95eb3f5a375023a56bdc3fa6bef0b3dc343c5e5a7b485c7fe9b83ea1",
+        "text": "👙\nلباس زیر پینترسی رو باید از جزیره آدا بخری\n🎁\nتا ۷۰ درصد تخفیف فقط به مدت محدود\n🎁\n👇\nhttps://t.me/+lw0oDG6VOno0NGVk\nhttps://t.me/+lw0oDG6VOno0NGVk\n🩱\nانواع ست های ایرانی و خارجی\nکاستوم و بادی و مایو و ....",
+        "original_username": "gizmiztel",
+        "original_text": "👙\nلباس زیر پینترسی رو باید از جزیره آدا بخری\n🎁\nتا ۷۰ درصد تخفیف فقط به مدت محدود\n🎁\n👇\nhttps://t.me/+lw0oDG6VOno0NGVk\nhttps://t.me/+lw0oDG6VOno0NGVk\n🩱\nانواع ست های ایرانی و خارجی\nکاستوم و بادی و مایو و ....",
+        "original_link": "https://t.me/gizmiztel/163887",
+        "post_id": 163887,
+        "message_id": 13949,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-25T17:05:39.831406+00:00"
+      },
+      {
+        "fingerprint": "ce624fda28f67b9d595d8e1492d120587d9844623581adac63aff4a717a7ffd4",
+        "media_fingerprint": "35e3962bff2e5e14bc478c66823a54698b0f5ad0c0e52ece2749dad541cbb66b",
+        "text": "از نظر هماهنگی صدا و تصویر\n👏\nچقدر قشنگ شده هماهنگ بودن صدا و چراغ ها\nراهنمای اون کامیون خودش یه روز کاری زمان میبره عوض بشه\n😁\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "از نظر هماهنگی صدا و تصویر\n👏\nچقدر قشنگ شده هماهنگ بودن صدا و چراغ ها\nراهنمای اون کامیون خودش یه روز کاری زمان میبره عوض بشه\n😁\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163888",
+        "post_id": 163888,
+        "message_id": 13950,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-25T17:05:47.200850+00:00"
+      },
+      {
+        "fingerprint": "7ef6f350ee2eb45f118ae34fb382b9d6ef5d44a5c598ab2bbfa9f54dea54cc8d",
+        "media_fingerprint": "e8888859d8d77bca4ab47d00ad578e6dad04ad2a4d3a6cbe8928434c2a73eb73",
+        "text": "باید بره کلینیک کاشت میو\n😭\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "باید بره کلینیک کاشت میو\n😭\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163889",
+        "post_id": 163889,
+        "message_id": 13951,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-25T17:05:52.176992+00:00"
+      },
+      {
+        "fingerprint": "bf0482bf76960e5ccd8a934cedf0d659db9fa9745d9177453cc3bfef12462329",
+        "media_fingerprint": "66507ecc8077503458c1be9c0e47f0d798e9d09b08504fc0539e3b5aba72f7d3",
+        "text": "عرب‌براقی نتوانست بازی را مدیریت کند\n🎤\nخلیلی، پس از شکست پرسپولیس مقابل فولاد  @Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "عرب‌براقی نتوانست بازی را مدیریت کند\n🎤\nخلیلی، پس از شکست پرسپولیس مقابل فولاد  @Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/111421",
+        "post_id": 111421,
+        "message_id": 13952,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-25T17:06:00.117094+00:00"
+      },
+      {
+        "fingerprint": "a8ff06d46aff0cde8d8b652d5377d971744d9163f225c97ac41551e2fdf59004",
+        "media_fingerprint": "33977608c8874765c4f4eec58d126bdf3262dfd9a00e59496a79063eec1fd108",
+        "text": "🔻\n🎙\n🇮🇷\nفرشاد احمد‌زاده، بازیکن فولاد: هم ما و هم پرسپولیس رو به جلو بازی کردیم و با قوانین جدید نمی‌شود وقت تلف کرد. وحید امیری اخترام هواداران پرسپولیس را نگه داشت و کار درستی هم کرد\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "🔻\n🎙\n🇮🇷\nفرشاد احمد‌زاده، بازیکن فولاد: هم ما و هم پرسپولیس رو به جلو بازی کردیم و با قوانین جدید نمی‌شود وقت تلف کرد. وحید امیری اخترام هواداران پرسپولیس را نگه داشت و کار درستی هم کرد\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/85727",
+        "post_id": 85727,
+        "message_id": 13953,
+        "message_kind": "caption",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-25T17:06:07.985640+00:00"
+      },
+      {
+        "fingerprint": "a8bd605253ec9e49dcd44d64c15632c48b28f1d3de4967fb56902d59c9e855a5",
+        "media_fingerprint": "206205a9c4ba305f9a0bec9bc6f53e9288c7ae887d285f724082dc1b35d6425a",
+        "text": "تنگه رتیل؛ جایی که هیجان، مرز نمی‌شناسد!\n🚙\n🔥\nاز بالا که نگاه کنی، خودروها در لبه دیواره‌های عظیم تنگه حرکت می‌کنند؛ انگار خط باریکی میان زمین و سقوط کشیده شده است! اینجا در قلب کویر لوت، فرسایش طی هزاران سال دیواره‌هایی شگفت‌انگیز ساخته؛ مسیری پرپیچ‌وخم که عظمت طبیعت را به رخ می‌کشد و آفرود را به تجربه‌ای فراموش‌نشدنی تبدیل می‌کند.\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "تنگه رتیل؛ جایی که هیجان، مرز نمی‌شناسد!\n🚙\n🔥\nاز بالا که نگاه کنی، خودروها در لبه دیواره‌های عظیم تنگه حرکت می‌کنند؛ انگار خط باریکی میان زمین و سقوط کشیده شده است! اینجا در قلب کویر لوت، فرسایش طی هزاران سال دیواره‌هایی شگفت‌انگیز ساخته؛ مسیری پرپیچ‌وخم که عظمت طبیعت را به رخ می‌کشد و آفرود را به تجربه‌ای فراموش‌نشدنی تبدیل می‌کند.\n@irWonders",
+        "original_link": "https://t.me/irwonders/59104",
+        "post_id": 59104,
+        "message_id": 13954,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-25T17:06:15.482007+00:00"
+      },
+      {
+        "fingerprint": "4f0053c39327d4297464b3056cd5c1e8ab83a45fe8e5bae6891c7099a9b7e930",
+        "media_fingerprint": "4279411ec671de6fb3d2df6da5a31b8178108d6dcd6590a69c7b626208d33cff",
+        "text": "🚨\n🚨\n🚨\nنوید مظفری: پنالتی برای پرسپولیس رخ نداد.\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🚨\n🚨\n🚨\nنوید مظفری: پنالتی برای پرسپولیس رخ نداد.\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/236090",
+        "post_id": 236090,
+        "message_id": 13955,
+        "message_kind": "caption",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-25T17:06:22.776640+00:00"
+      },
+      {
+        "fingerprint": "f0c17611c3cfc8ca9f1f4c97c3909be0ad467fc3c033504694eedd6321986c3f",
+        "media_fingerprint": "f4f3c74e82e416c3f361b1cd7796eccbdfef2a34bee22b651f5660cb10f77a6a",
+        "text": "🎤\nهیچ بازیکنی حاشیه امنیت ندارد\n💬\nتمام بازیکنان و اعضای کادرفنی تلاش می‌کنند بهترین عملکردشان را داشته باشند.\n💬\nهر بازیکنی که در تمرین خوب باشد و تلاش کند، آقای تارتار حقش را به او می‌دهد.  @Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "🎤\nهیچ بازیکنی حاشیه امنیت ندارد\n💬\nتمام بازیکنان و اعضای کادرفنی تلاش می‌کنند بهترین عملکردشان را داشته باشند.\n💬\nهر بازیکنی که در تمرین خوب باشد و تلاش کند، آقای تارتار حقش را به او می‌دهد.  @Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/111423",
+        "post_id": 111423,
+        "message_id": 13956,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-25T17:06:29.744883+00:00"
+      },
+      {
+        "fingerprint": "851eda1bdc26f261e693351e014fae72385d728a40e0bd4ec3278337af0e8918",
+        "media_fingerprint": "51d274dfa148abe136eb6b186beaad72932ad37db2b983af772490447a13d3e2",
+        "text": "😳\nمنطق دختر :\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
+        "original_username": "boob_sfangi",
+        "original_text": "😳\nمنطق دختر :\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
+        "original_link": "https://t.me/boob_sfangi/2866",
+        "post_id": 2866,
+        "message_id": 13957,
+        "message_kind": "caption",
+        "sources": [
+          "boob_sfangi"
+        ],
+        "created_at": "2026-10-25T17:06:35.064654+00:00"
+      },
+      {
+        "fingerprint": "8e081567386346a3c0442eec8d7bee74560cf227dc77a353af6cf2614a34952d",
+        "media_fingerprint": "3358bf751b594c481eb59ea55bd0a89db2478f107cce634dd20b59589aa52e86",
+        "text": "فولاد هیچ موقعیتی نداشت!\n🔴\nتارتار: از هواداران عذرخواهی میکنم\n🔴\nنیاز به بازیکنان خلاق داریم\n🔴\nمهاجم ما موقعیت خوبی از دست داد\n🔴\nخیلی فرصت ایجاد نکردیم\n🔴\nبدون حمله ما را شکست دادند\n🎙\nنشست خبری پرسپولیس - فولاد\n🆔\n@varzesh3",
+        "original_username": "varzesh3",
+        "original_text": "فولاد هیچ موقعیتی نداشت!\n🔴\nتارتار: از هواداران عذرخواهی میکنم\n🔴\nنیاز به بازیکنان خلاق داریم\n🔴\nمهاجم ما موقعیت خوبی از دست داد\n🔴\nخیلی فرصت ایجاد نکردیم\n🔴\nبدون حمله ما را شکست دادند\n🎙\nنشست خبری پرسپولیس - فولاد\n🆔\n@varzesh3",
+        "original_link": "https://t.me/varzesh3/305161",
+        "post_id": 305161,
+        "message_id": 13958,
+        "message_kind": "caption",
+        "sources": [
+          "varzesh3"
+        ],
+        "created_at": "2026-10-25T17:06:43.107243+00:00"
+      },
+      {
+        "fingerprint": "7e8443cbcc47bf9681ec2ee88d48f3ffe2cb7604c12b73de5883dd0be5c9f92e",
+        "media_fingerprint": "69b25260d5400ee02fe886e2fa785ef1d881c4e7616dbbf77f9553f9a2a4d8d2",
+        "text": "برد خانگی تیم خلیفه‌اصل\n🔚\nبه غدیر برگشتند و ناکامی‌هایشان تمام شد؛ استقلال خوزستان، پیروز نبرد ۶ امتیازی قعرنشینان\n🔸\nلیگ برتر ایران - هفته ۱۰\n🎞\nخلاصه بازی  @Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "برد خانگی تیم خلیفه‌اصل\n🔚\nبه غدیر برگشتند و ناکامی‌هایشان تمام شد؛ استقلال خوزستان، پیروز نبرد ۶ امتیازی قعرنشینان\n🔸\nلیگ برتر ایران - هفته ۱۰\n🎞\nخلاصه بازی  @Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/111424",
+        "post_id": 111424,
+        "message_id": 13959,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-25T17:06:50.269953+00:00"
+      },
+      {
+        "fingerprint": "f89192893a2bd92c2e887da30ea047499a67c6aa8d0ba946977c64ce2f2bed55",
+        "media_fingerprint": "",
+        "text": "🔞\nحکم شرعی معاینه\nواژن زن\nتوسط پزشک مرد چیست ؟\nمشاهده پاسخ\n👉",
+        "original_username": "bimaariha",
+        "original_text": "🔞\nحکم شرعی معاینه\nواژن زن\nتوسط پزشک مرد چیست ؟\nمشاهده پاسخ\n👉",
+        "original_link": "https://t.me/Bimaariha/19705",
+        "post_id": 19705,
+        "message_id": 13960,
+        "message_kind": "text",
+        "sources": [
+          "bimaariha"
+        ],
+        "created_at": "2026-10-25T17:06:53.720052+00:00"
+      },
+      {
+        "fingerprint": "558a8bc2cffed71e70a57e8fcbb6e49b6fb795d3a33902dd290abd977c0159c7",
+        "media_fingerprint": "47d59289472db3f3b45de45ec0c7306c4ef575b6c714ea4ad459e722c0897e75",
+        "text": "یه مالک پژو۲۰۷  الان میتونه زارت از روتون رد شه، با نصف پول ماشینش دیه تون رو بده و با بقیه اش هم یه کوییک اتومات بندازه زیر پاش.\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "یه مالک پژو۲۰۷  الان میتونه زارت از روتون رد شه، با نصف پول ماشینش دیه تون رو بده و با بقیه اش هم یه کوییک اتومات بندازه زیر پاش.\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/53218",
+        "post_id": 53218,
+        "message_id": 13961,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-25T17:06:59.270022+00:00"
+      },
+      {
+        "fingerprint": "f4e65254fd252c778d2cf6a21a877d1e8c47f507824f12c99d94cc9f71a9f009",
+        "media_fingerprint": "7480f4b4509d789930ee2e270cfb7704298702409f9c506b29c76f61f802e85b",
+        "text": "احمدزاده، بازیکن فولاد\n🎤\nبا قوانین جدید داوری نمی‌شود وقت‌کشی کرد\n💬\nخوشحالی نکردن وحید امیری بعد از گل طبیعی بود؛ او چند سال برای پرسپولیس زحمت کشیده و کار درستی کرد.  @Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "احمدزاده، بازیکن فولاد\n🎤\nبا قوانین جدید داوری نمی‌شود وقت‌کشی کرد\n💬\nخوشحالی نکردن وحید امیری بعد از گل طبیعی بود؛ او چند سال برای پرسپولیس زحمت کشیده و کار درستی کرد.  @Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/111426",
+        "post_id": 111426,
+        "message_id": 13962,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-25T17:07:06.001492+00:00"
+      },
+      {
+        "fingerprint": "a4bbf27d26099748f79ace5584fe36516ee77b46343aca3ca115e07f39f24a55",
+        "media_fingerprint": "",
+        "text": "🚨\n🎖️\n🏅\nتساوی مقابل خیبر و شکست خانگی برابر فولاد خوزستان، تازه‌ترین نتایج ناامیدکننده پرسپولیس در لیگ برتر هستند؛ اما وقتی این نتایج را کنار شکست مقابل تراکتور و تساوی برابر استقلال می‌گذاریم، تصویر نگران‌کننده‌تری شکل می‌گیرد.\n❌\nپرسپولیس در مسابقاتی که باید…",
+        "original_username": "total_fut",
+        "original_text": "🚨\n🎖️\n🏅\nتساوی مقابل خیبر و شکست خانگی برابر فولاد خوزستان، تازه‌ترین نتایج ناامیدکننده پرسپولیس در لیگ برتر هستند؛ اما وقتی این نتایج را کنار شکست مقابل تراکتور و تساوی برابر استقلال می‌گذاریم، تصویر نگران‌کننده‌تری شکل می‌گیرد.\n❌\nپرسپولیس در مسابقاتی که باید…",
+        "original_link": "https://t.me/total_fut/238710",
+        "post_id": 238710,
+        "message_id": 13963,
+        "message_kind": "text",
+        "sources": [
+          "total_fut"
+        ],
+        "created_at": "2026-10-25T17:07:09.459106+00:00"
+      },
+      {
+        "fingerprint": "1151d8f269ccabe4a51ee9f6a18db47648411a5414ccdc0ab93162f33f42d761",
+        "media_fingerprint": "c3722a0347f58e280b4a90597d79155f7465719a7b0a5237913ae6c2ce2b75d8",
+        "text": "عشق یا احترام؟\nاین دوتا در کنار هم معنی پیدا میکنند و در امتداد هم هستن\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "عشق یا احترام؟\nاین دوتا در کنار هم معنی پیدا میکنند و در امتداد هم هستن\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/307326",
+        "post_id": 307326,
+        "message_id": 13964,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-25T17:07:15.755376+00:00"
+      },
+      {
+        "fingerprint": "0edf592520e3cf323a7ca96310318bd935ad354b075d0cde0602ded90bf2f76d",
+        "media_fingerprint": "",
+        "text": "🎖️\n#اختصاصی_توتال\n🏅\nتارتار چه برنامه‌ای برای بازی با تیم‌های قدرتمندتر دارد؟\n⁉️\nچرا پرسپولیس در مسابقات بزرگ نمی‌تواند برتری فنی‌اش را نشان بدهد؟ آیا ترکیب تیم متناسب با شرایط هر مسابقه انتخاب می‌شود؟ آیا بازیکنان در جای درست به کار گرفته می‌شوند؟ آیا تعویض‌ها…",
+        "original_username": "total_fut",
+        "original_text": "🎖️\n#اختصاصی_توتال\n🏅\nتارتار چه برنامه‌ای برای بازی با تیم‌های قدرتمندتر دارد؟\n⁉️\nچرا پرسپولیس در مسابقات بزرگ نمی‌تواند برتری فنی‌اش را نشان بدهد؟ آیا ترکیب تیم متناسب با شرایط هر مسابقه انتخاب می‌شود؟ آیا بازیکنان در جای درست به کار گرفته می‌شوند؟ آیا تعویض‌ها…",
+        "original_link": "https://t.me/total_fut/238711",
+        "post_id": 238711,
+        "message_id": 13965,
+        "message_kind": "text",
+        "sources": [
+          "total_fut"
+        ],
+        "created_at": "2026-10-25T17:07:19.246726+00:00"
+      },
+      {
+        "fingerprint": "06d1a8dec0e574356512d65d7c2fa0feb7366376690f30c74bc783296d61b3ad",
+        "media_fingerprint": "",
+        "text": "🔞\nحکم شرعی استفاده از آلت مصنوعی مردانه چیست.\nمشاهده حکم\n➡️",
+        "original_username": "bimaariha",
+        "original_text": "🔞\nحکم شرعی استفاده از آلت مصنوعی مردانه چیست.\nمشاهده حکم\n➡️",
+        "original_link": "https://t.me/Bimaariha/19706",
+        "post_id": 19706,
+        "message_id": 13966,
+        "message_kind": "text",
+        "sources": [
+          "bimaariha"
+        ],
+        "created_at": "2026-10-25T17:07:22.733336+00:00"
+      },
+      {
+        "fingerprint": "c3f3d3c18a0db80cec467759a60c6e0bddc9993eb086f3d3d1869f95dc41a1fc",
+        "media_fingerprint": "212ea00b0d17eae317c4d0fc83ececdf5a23a53102cfa84bf98556c8b20ab28d",
+        "text": "بازی با روحو روان ( خطر واسه اهالی فوت فتیش )\n🔞\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "بازی با روحو روان ( خطر واسه اهالی فوت فتیش )\n🔞\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48740",
+        "post_id": 48740,
+        "message_id": 13967,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-25T17:07:29.572671+00:00"
+      },
+      {
+        "fingerprint": "8b75550ac435da7eaf71903920b446e5b2c56120e839848b37b6a82e03fcd8ca",
+        "media_fingerprint": "580fbaae71590aa40a5952924aacc4f2dddf6598ac699109c86a3bc05527b1a7",
+        "text": "صعود تیم محرم به رده دوم\n🔚\nتکرار سناریوی بازی با پرسپولیس برای مس شهربابک؛ اول اخراجی دادند، بعد گلباران شدند/ ۴ گل برای جشن ۷۳ سالگی سپاهان\n🔸\nلیگ برتر ایران - هفته ۱۰\n👀\nگلزنی نورافکن برای سپاهان پس از ۹۶۵ روز؛ با یک شلیک و یک پاس گل محرم را امیدوار کرد…",
+        "original_username": "ft360_ir",
+        "original_text": "صعود تیم محرم به رده دوم\n🔚\nتکرار سناریوی بازی با پرسپولیس برای مس شهربابک؛ اول اخراجی دادند، بعد گلباران شدند/ ۴ گل برای جشن ۷۳ سالگی سپاهان\n🔸\nلیگ برتر ایران - هفته ۱۰\n👀\nگلزنی نورافکن برای سپاهان پس از ۹۶۵ روز؛ با یک شلیک و یک پاس گل محرم را امیدوار کرد…",
+        "original_link": "https://t.me/ft360_ir/111429",
+        "post_id": 111429,
+        "message_id": 13968,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-25T17:07:37.688050+00:00"
+      },
+      {
+        "fingerprint": "3fef298f75f90d3e12a29970668650fe7ce05a44914f9cf5aed7509c1ccb5c61",
+        "media_fingerprint": "",
+        "text": "",
+        "original_username": "apkclub",
+        "original_text": "",
+        "original_link": "https://t.me/apkclub/73231",
+        "post_id": 73231,
+        "message_id": 13969,
+        "message_kind": "text",
+        "sources": [
+          "apkclub"
+        ],
+        "created_at": "2026-10-25T17:07:41.129538+00:00"
+      },
+      {
+        "fingerprint": "4e6a1d7e925452c0760018b31a9d94029593ed8cd9153a5bd206d166efcc9bcb",
+        "media_fingerprint": "",
+        "text": "♦️\nبیرانوند فردا به پادگان می‌رود\n🔹\nعلیرضا بیرانوند صبح فردا، ۴ آبان، خود را به پادگان آموزشی آباده در استان فارس معرفی می‌کند.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nبیرانوند فردا به پادگان می‌رود\n🔹\nعلیرضا بیرانوند صبح فردا، ۴ آبان، خود را به پادگان آموزشی آباده در استان فارس معرفی می‌کند.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144440",
+        "post_id": 144440,
+        "message_id": 13970,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-25T17:07:44.644751+00:00"
+      },
+      {
+        "fingerprint": "0a61384200a8fd6e959c9003d70b943a0e30dd24432752a8fef61f59d3d90b59",
+        "media_fingerprint": "81c3a58d47c1baae6c9a67aed716bc90909dd9ca0e7c88549aef6d899df95044",
+        "text": "🔝\n🇮🇷\nرختکن باشگاه فولاد پس از برد شیرین مقابل پرسپولیس در تهران\n⚽️\n@Hattric_Official",
+        "original_username": "hattric_official",
+        "original_text": "🔝\n🇮🇷\nرختکن باشگاه فولاد پس از برد شیرین مقابل پرسپولیس در تهران\n⚽️\n@Hattric_Official",
+        "original_link": "https://t.me/Hattric_Official/85731",
+        "post_id": 85731,
+        "message_id": 13971,
+        "message_kind": "caption",
+        "sources": [
+          "hattric_official"
+        ],
+        "created_at": "2026-10-25T17:07:51.480281+00:00"
+      },
+      {
+        "fingerprint": "4fa7b19b6d1590aae0c33a4a9f555578af2440a428eabc319f59cf984bb78eab",
+        "media_fingerprint": "",
+        "text": "باید خیلی زود ریکاوری کنیم!\n🔴\nتارتار: مسئولیت باخت با مربی است\n🔴\nبرد برای همه است\n🔴\nاگر گردن نگیریم اشتباه کردیم\n🔴\nهواداران از تیم حمایت کنند\n🔴\nباید این باخت را فراموش کنیم\n🎙\nنشست خبری پرسپولیس - فولاد\n🆔\n@varzesh3",
+        "original_username": "varzesh3",
+        "original_text": "باید خیلی زود ریکاوری کنیم!\n🔴\nتارتار: مسئولیت باخت با مربی است\n🔴\nبرد برای همه است\n🔴\nاگر گردن نگیریم اشتباه کردیم\n🔴\nهواداران از تیم حمایت کنند\n🔴\nباید این باخت را فراموش کنیم\n🎙\nنشست خبری پرسپولیس - فولاد\n🆔\n@varzesh3",
+        "original_link": "https://t.me/varzesh3/305162",
+        "post_id": 305162,
+        "message_id": 13972,
+        "message_kind": "text",
+        "sources": [
+          "varzesh3"
+        ],
+        "created_at": "2026-10-25T17:07:54.996610+00:00"
+      },
+      {
+        "fingerprint": "b80fa718fc27fc975abf6c66212a0f4f9b184980815357f5bf539902f72c189f",
+        "media_fingerprint": "",
+        "text": "بازیگرانِ تکراری در نمایش خانگی\n‼️\n‌\n🎬\nپخش اختصاصی «ستاره بازی» ، سه‌شنبه‌ها از پلتفرم ایده‌نما\nآرمین قدرتی در قسمت دَهُم «ستاره‌بازی» ، میزبان داریوش سلیمی است؛\n@BajeFilm",
+        "original_username": "bajefilm",
+        "original_text": "بازیگرانِ تکراری در نمایش خانگی\n‼️\n‌\n🎬\nپخش اختصاصی «ستاره بازی» ، سه‌شنبه‌ها از پلتفرم ایده‌نما\nآرمین قدرتی در قسمت دَهُم «ستاره‌بازی» ، میزبان داریوش سلیمی است؛\n@BajeFilm",
+        "original_link": "https://t.me/bajefilm/11710",
+        "post_id": 11710,
+        "message_id": 13973,
+        "message_kind": "text",
+        "sources": [
+          "bajefilm"
+        ],
+        "created_at": "2026-10-25T17:07:58.454719+00:00"
+      },
+      {
+        "fingerprint": "a8a64d55d5be7f2dce9ad1921b797a9737e2e23dfa74f098aef173ddb6c53620",
+        "media_fingerprint": "",
+        "text": "🚨\n🔴\n🔴\nتارتار: از هواداران عذرخواهی می‌کنم.\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🚨\n🔴\n🔴\nتارتار: از هواداران عذرخواهی می‌کنم.\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/236093",
+        "post_id": 236093,
+        "message_id": 13974,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-25T17:08:01.885561+00:00"
+      },
+      {
+        "fingerprint": "7367e57d28ee0b589cc5455b462a3d8711ad5001a7dde2ffd09d1cc191ff3eea",
+        "media_fingerprint": "",
+        "text": "",
+        "original_username": "apkclub",
+        "original_text": "",
+        "original_link": "https://t.me/apkclub/73233",
+        "post_id": 73233,
+        "message_id": 13975,
+        "message_kind": "text",
+        "sources": [
+          "apkclub"
+        ],
+        "created_at": "2026-10-25T17:08:05.311516+00:00"
+      },
+      {
+        "fingerprint": "f97a8a104589d74e11d5778dd60a670af1816f84e943895b680f54801a58a17d",
+        "media_fingerprint": "9b212ae6011842ff396416daf60ec4b274be025dd2a8da265c6e714eff621479",
+        "text": "آنچه در تصویر می بینید کوسه شاخ دار نام دارد . جالب است بدانید از عجیب ترین تخم های آبزیان را کوسه شاخدار دارد. این کوسه تخم های مخروطی زیبا و شبیه پیچ می گذارد تا از تخم ها با فرو کردن در سطوح مختلف محافظت کند.\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "آنچه در تصویر می بینید کوسه شاخ دار نام دارد . جالب است بدانید از عجیب ترین تخم های آبزیان را کوسه شاخدار دارد. این کوسه تخم های مخروطی زیبا و شبیه پیچ می گذارد تا از تخم ها با فرو کردن در سطوح مختلف محافظت کند.\n@irWonders",
+        "original_link": "https://t.me/irwonders/59105",
+        "post_id": 59105,
+        "message_id": 13976,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-25T17:08:10.520447+00:00"
+      },
+      {
+        "fingerprint": "1ab194f12bc8c441a3d2d37477a4392990b80e0c60ac0ff39dfccd8c1c6438b8",
+        "media_fingerprint": "d0ec046b64772d09545e3edb4e60d0385c54b755f70ca4335f96c948d555b8cf",
+        "text": "«تو پیشنهادت رو بده، فوقش میگه نه» :\n😏\n#Squidward\n💎\nSpongebob | باب اسفنجی",
+        "original_username": "boob_sfangi",
+        "original_text": "«تو پیشنهادت رو بده، فوقش میگه نه» :\n😏\n#Squidward\n💎\nSpongebob | باب اسفنجی",
+        "original_link": "https://t.me/boob_sfangi/2869",
+        "post_id": 2869,
+        "message_id": 13977,
+        "message_kind": "text",
+        "sources": [
+          "boob_sfangi"
+        ],
+        "created_at": "2026-10-25T17:08:14.955033+00:00"
       }
     ]
   }
