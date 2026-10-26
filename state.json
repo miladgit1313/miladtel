@@ -1,22 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 144498,
+      "last_id": 144514,
       "processed_ids": [
-        143178,
-        143179,
-        143180,
-        143182,
-        143183,
-        143184,
-        143185,
-        143187,
-        143188,
-        143189,
-        143190,
-        143191,
-        143192,
-        143193,
         143195,
         143196,
         143198,
@@ -1002,22 +988,28 @@
         144495,
         144496,
         144497,
-        144498
+        144498,
+        144499,
+        144500,
+        144501,
+        144502,
+        144503,
+        144504,
+        144505,
+        144507,
+        144508,
+        144509,
+        144510,
+        144511,
+        144513,
+        144514
       ],
-      "sent_count": 1272,
+      "sent_count": 1282,
       "failed": {}
     },
     "total_fut": {
-      "last_id": 238746,
+      "last_id": 238758,
       "processed_ids": [
-        237526,
-        237527,
-        237528,
-        237529,
-        237531,
-        237532,
-        237533,
-        237534,
         237535,
         237536,
         237539,
@@ -2009,21 +2001,22 @@
         238742,
         238744,
         238745,
-        238746
+        238746,
+        238750,
+        238751,
+        238752,
+        238753,
+        238754,
+        238756,
+        238757,
+        238758
       ],
       "sent_count": 196,
       "failed": {}
     },
     "footballvision2": {
-      "last_id": 173004,
+      "last_id": 173011,
       "processed_ids": [
-        171111,
-        171112,
-        171113,
-        171114,
-        171115,
-        171116,
-        171117,
         171118,
         171119,
         171120,
@@ -3016,7 +3009,14 @@
         173001,
         173002,
         173003,
-        173004
+        173004,
+        173005,
+        173006,
+        173007,
+        173008,
+        173009,
+        173010,
+        173011
       ],
       "sent_count": 221,
       "failed": {}
@@ -3089,7 +3089,7 @@
       "failed": {}
     },
     "fars_today": {
-      "last_id": 132332,
+      "last_id": 132334,
       "processed_ids": [
         131975,
         131976,
@@ -3435,9 +3435,10 @@
         132329,
         132330,
         132331,
-        132332
+        132332,
+        132334
       ],
-      "sent_count": 173,
+      "sent_count": 174,
       "failed": {}
     },
     "behzistikomitenews": {
@@ -3498,13 +3499,8 @@
       "failed": {}
     },
     "drtel": {
-      "last_id": 71847,
+      "last_id": 71860,
       "processed_ids": [
-        66852,
-        66853,
-        66854,
-        66855,
-        66856,
         66857,
         66858,
         66859,
@@ -4499,13 +4495,18 @@
         71844,
         71845,
         71846,
-        71847
+        71847,
+        71848,
+        71851,
+        71858,
+        71859,
+        71860
       ],
-      "sent_count": 654,
+      "sent_count": 657,
       "failed": {}
     },
     "techtube": {
-      "last_id": 18646,
+      "last_id": 18648,
       "processed_ids": [
         18261,
         18262,
@@ -4747,7 +4748,9 @@
         18643,
         18644,
         18645,
-        18646
+        18646,
+        18647,
+        18648
       ],
       "sent_count": 80,
       "failed": {}
@@ -4893,7 +4896,7 @@
       "failed": {}
     },
     "amozesh_cafenet": {
-      "last_id": 3210,
+      "last_id": 3211,
       "processed_ids": [
         3087,
         3088,
@@ -4999,13 +5002,14 @@
         3206,
         3207,
         3209,
-        3210
+        3210,
+        3211
       ],
-      "sent_count": 52,
+      "sent_count": 53,
       "failed": {}
     },
     "sabtnamkh0dro": {
-      "last_id": 14497,
+      "last_id": 14502,
       "processed_ids": [
         14164,
         14165,
@@ -5277,13 +5281,18 @@
         14494,
         14495,
         14496,
-        14497
+        14497,
+        14498,
+        14499,
+        14500,
+        14501,
+        14502
       ],
-      "sent_count": 130,
+      "sent_count": 132,
       "failed": {}
     },
     "coffeenetmanager": {
-      "last_id": 51999,
+      "last_id": 52005,
       "processed_ids": [
         51537,
         51538,
@@ -5703,13 +5712,19 @@
         51996,
         51997,
         51998,
-        51999
+        51999,
+        52000,
+        52001,
+        52002,
+        52003,
+        52004,
+        52005
       ],
       "sent_count": 120,
       "failed": {}
     },
     "roidbest": {
-      "last_id": 21989,
+      "last_id": 21991,
       "processed_ids": [
         21613,
         21614,
@@ -6059,21 +6074,16 @@
         21986,
         21987,
         21988,
-        21989
+        21989,
+        21990,
+        21991
       ],
-      "sent_count": 197,
+      "sent_count": 198,
       "failed": {}
     },
     "akhbar_cafenet": {
-      "last_id": 23717,
+      "last_id": 23725,
       "processed_ids": [
-        22601,
-        22602,
-        22603,
-        22605,
-        22606,
-        22607,
-        22608,
         22609,
         22610,
         22611,
@@ -7066,13 +7076,20 @@
         23714,
         23715,
         23716,
-        23717
+        23717,
+        23718,
+        23719,
+        23720,
+        23721,
+        23722,
+        23724,
+        23725
       ],
-      "sent_count": 572,
+      "sent_count": 577,
       "failed": {}
     },
     "comentiat": {
-      "last_id": 26770,
+      "last_id": 26772,
       "processed_ids": [
         25844,
         25845,
@@ -7797,9 +7814,10 @@
         26767,
         26768,
         26769,
-        26770
+        26770,
+        26772
       ],
-      "sent_count": 539,
+      "sent_count": 540,
       "failed": {}
     },
     "boost/fndoni": {
@@ -7811,7 +7829,7 @@
       "failed": {}
     },
     "majalepezeshki": {
-      "last_id": 38863,
+      "last_id": 38864,
       "processed_ids": [
         38432,
         38433,
@@ -8233,19 +8251,15 @@
         38860,
         38861,
         38862,
-        38863
+        38863,
+        38864
       ],
-      "sent_count": 244,
+      "sent_count": 245,
       "failed": {}
     },
     "gizmiztel": {
-      "last_id": 163943,
+      "last_id": 163948,
       "processed_ids": [
-        162685,
-        162686,
-        162687,
-        162688,
-        162689,
         162690,
         162692,
         162693,
@@ -9240,13 +9254,18 @@
         163940,
         163941,
         163942,
-        163943
+        163943,
+        163944,
+        163945,
+        163946,
+        163947,
+        163948
       ],
-      "sent_count": 1149,
+      "sent_count": 1153,
       "failed": {}
     },
     "dr_salamatx": {
-      "last_id": 55477,
+      "last_id": 55478,
       "processed_ids": [
         55270,
         55271,
@@ -9450,9 +9469,10 @@
         55474,
         55475,
         55476,
-        55477
+        55477,
+        55478
       ],
-      "sent_count": 122,
+      "sent_count": 123,
       "failed": {}
     },
     "jaleb": {
@@ -10296,14 +10316,8 @@
       "failed": {}
     },
     "ajayebe_jahann": {
-      "last_id": 160255,
+      "last_id": 160261,
       "processed_ids": [
-        159188,
-        159189,
-        159190,
-        159191,
-        159192,
-        159193,
         159194,
         159195,
         159196,
@@ -11297,9 +11311,15 @@
         160252,
         160253,
         160254,
-        160255
+        160255,
+        160256,
+        160257,
+        160258,
+        160259,
+        160260,
+        160261
       ],
-      "sent_count": 464,
+      "sent_count": 466,
       "failed": {}
     },
     "etelaate_omoomi": {
@@ -11519,16 +11539,8 @@
       "failed": {}
     },
     "ft360_ir": {
-      "last_id": 111514,
+      "last_id": 111524,
       "processed_ids": [
-        109909,
-        109910,
-        109911,
-        109912,
-        109913,
-        109914,
-        109915,
-        109916,
         109918,
         109919,
         109920,
@@ -12520,26 +12532,22 @@
         111511,
         111512,
         111513,
-        111514
+        111514,
+        111515,
+        111516,
+        111518,
+        111519,
+        111520,
+        111521,
+        111522,
+        111524
       ],
-      "sent_count": 298,
+      "sent_count": 299,
       "failed": {}
     },
     "varzesh3": {
-      "last_id": 305197,
+      "last_id": 305246,
       "processed_ids": [
-        303747,
-        303748,
-        303749,
-        303750,
-        303751,
-        303752,
-        303753,
-        303754,
-        303755,
-        303756,
-        303757,
-        303758,
         303759,
         303760,
         303761,
@@ -13527,19 +13535,26 @@
         305193,
         305194,
         305196,
-        305197
+        305197,
+        305233,
+        305235,
+        305236,
+        305237,
+        305238,
+        305240,
+        305241,
+        305242,
+        305243,
+        305244,
+        305245,
+        305246
       ],
-      "sent_count": 173,
+      "sent_count": 174,
       "failed": {}
     },
     "totalfut_plus": {
-      "last_id": 27152,
+      "last_id": 27157,
       "processed_ids": [
-        26076,
-        26077,
-        26078,
-        26079,
-        26080,
         26081,
         26082,
         26083,
@@ -14534,26 +14549,19 @@
         27149,
         27150,
         27151,
-        27152
+        27152,
+        27153,
+        27154,
+        27155,
+        27156,
+        27157
       ],
       "sent_count": 88,
       "failed": {}
     },
     "adak_ir_official": {
-      "last_id": 236130,
+      "last_id": 236142,
       "processed_ids": [
-        234950,
-        234951,
-        234952,
-        234953,
-        234955,
-        234956,
-        234957,
-        234958,
-        234959,
-        234960,
-        234961,
-        234962,
         234964,
         234965,
         234966,
@@ -15541,27 +15549,26 @@
         236127,
         236128,
         236129,
-        236130
+        236130,
+        236131,
+        236132,
+        236133,
+        236134,
+        236135,
+        236136,
+        236137,
+        236138,
+        236139,
+        236140,
+        236141,
+        236142
       ],
-      "sent_count": 321,
+      "sent_count": 324,
       "failed": {}
     },
     "futball180tv": {
-      "last_id": 109720,
+      "last_id": 109735,
       "processed_ids": [
-        108378,
-        108379,
-        108380,
-        108381,
-        108382,
-        108383,
-        108384,
-        108385,
-        108386,
-        108387,
-        108388,
-        108389,
-        108390,
         108391,
         108392,
         108393,
@@ -16548,23 +16555,27 @@
         109717,
         109718,
         109719,
-        109720
+        109720,
+        109722,
+        109724,
+        109725,
+        109726,
+        109727,
+        109728,
+        109729,
+        109730,
+        109731,
+        109732,
+        109733,
+        109734,
+        109735
       ],
-      "sent_count": 182,
+      "sent_count": 185,
       "failed": {}
     },
     "hattric_official": {
-      "last_id": 85828,
+      "last_id": 85839,
       "processed_ids": [
-        84508,
-        84509,
-        84510,
-        84511,
-        84512,
-        84513,
-        84515,
-        84516,
-        84517,
         84518,
         84519,
         84520,
@@ -17555,13 +17566,22 @@
         85825,
         85826,
         85827,
-        85828
+        85828,
+        85831,
+        85832,
+        85833,
+        85834,
+        85835,
+        85836,
+        85837,
+        85838,
+        85839
       ],
       "sent_count": 277,
       "failed": {}
     },
     "mazdak_hattrick": {
-      "last_id": 182821,
+      "last_id": 182824,
       "processed_ids": [
         181991,
         181992,
@@ -18339,9 +18359,12 @@
         182818,
         182819,
         182820,
-        182821
+        182821,
+        182822,
+        182823,
+        182824
       ],
-      "sent_count": 84,
+      "sent_count": 85,
       "failed": {}
     },
     "djharmony": {
@@ -18425,7 +18448,7 @@
       "failed": {}
     },
     "niazcom_ir": {
-      "last_id": 61649,
+      "last_id": 61650,
       "processed_ids": [
         61580,
         61581,
@@ -18493,9 +18516,10 @@
         61646,
         61647,
         61648,
-        61649
+        61649,
+        61650
       ],
-      "sent_count": 27,
+      "sent_count": 28,
       "failed": {}
     },
     "tgacademy": {
@@ -18544,7 +18568,7 @@
       "failed": {}
     },
     "irwonders": {
-      "last_id": 59127,
+      "last_id": 59133,
       "processed_ids": [
         58030,
         58031,
@@ -19512,13 +19536,19 @@
         59122,
         59125,
         59126,
-        59127
+        59127,
+        59128,
+        59129,
+        59130,
+        59131,
+        59132,
+        59133
       ],
-      "sent_count": 614,
+      "sent_count": 619,
       "failed": {}
     },
     "razcom": {
-      "last_id": 70531,
+      "last_id": 70532,
       "processed_ids": [
         70448,
         70449,
@@ -19586,13 +19616,14 @@
         70528,
         70529,
         70530,
-        70531
+        70531,
+        70532
       ],
       "sent_count": 17,
       "failed": {}
     },
     "midanesti": {
-      "last_id": 73357,
+      "last_id": 73358,
       "processed_ids": [
         73193,
         73194,
@@ -19741,9 +19772,10 @@
         73354,
         73355,
         73356,
-        73357
+        73357,
+        73358
       ],
-      "sent_count": 73,
+      "sent_count": 74,
       "failed": {}
     },
     "gilin_gilin": {
@@ -21198,7 +21230,7 @@
       "failed": {}
     },
     "khandehabadd": {
-      "last_id": 307342,
+      "last_id": 307348,
       "processed_ids": [
         306563,
         306564,
@@ -21939,9 +21971,15 @@
         307339,
         307340,
         307341,
-        307342
+        307342,
+        307343,
+        307344,
+        307345,
+        307346,
+        307347,
+        307348
       ],
-      "sent_count": 323,
+      "sent_count": 325,
       "failed": {}
     },
     "ravan6enasii": {
@@ -21997,16 +22035,17 @@
       "failed": {}
     },
     "cinemanovin": {
-      "last_id": 7124,
+      "last_id": 7125,
       "processed_ids": [
         7119,
         7120,
         7121,
         7122,
         7123,
-        7124
+        7124,
+        7125
       ],
-      "sent_count": 3,
+      "sent_count": 4,
       "failed": {}
     },
     "film_news": {
@@ -22061,7 +22100,7 @@
       "failed": {}
     },
     "cinematicketorg": {
-      "last_id": 24448,
+      "last_id": 24454,
       "processed_ids": [
         24353,
         24354,
@@ -22133,9 +22172,10 @@
         24440,
         24446,
         24447,
-        24448
+        24448,
+        24454
       ],
-      "sent_count": 53,
+      "sent_count": 54,
       "failed": {}
     },
     "cinemadaily": {
@@ -22331,7 +22371,7 @@
       "failed": {}
     },
     "yejoorayi": {
-      "last_id": 654,
+      "last_id": 655,
       "processed_ids": [
         426,
         427,
@@ -22543,9 +22583,10 @@
         651,
         652,
         653,
-        654
+        654,
+        655
       ],
-      "sent_count": 195,
+      "sent_count": 196,
       "failed": {}
     },
     "onlinecofe_ir": {
@@ -22663,7 +22704,7 @@
       "failed": {}
     },
     "shakhmovie": {
-      "last_id": 4278,
+      "last_id": 4280,
       "processed_ids": [
         4017,
         4018,
@@ -22831,13 +22872,15 @@
         4274,
         4275,
         4277,
-        4278
+        4278,
+        4279,
+        4280
       ],
-      "sent_count": 145,
+      "sent_count": 147,
       "failed": {}
     },
     "peach_tweet": {
-      "last_id": 4601,
+      "last_id": 4684,
       "processed_ids": [
         2745,
         2749,
@@ -23514,9 +23557,23 @@
         4584,
         4590,
         4594,
-        4601
+        4601,
+        4608,
+        4612,
+        4620,
+        4626,
+        4630,
+        4634,
+        4640,
+        4644,
+        4651,
+        4657,
+        4666,
+        4672,
+        4677,
+        4684
       ],
-      "sent_count": 354,
+      "sent_count": 366,
       "failed": {}
     },
     "funy_khand": {
@@ -23999,7 +24056,7 @@
       "failed": {}
     },
     "persiana_pluss": {
-      "last_id": 7141,
+      "last_id": 7152,
       "processed_ids": [
         6113,
         6114,
@@ -24819,13 +24876,22 @@
         7138,
         7139,
         7140,
-        7141
+        7141,
+        7142,
+        7143,
+        7144,
+        7145,
+        7146,
+        7147,
+        7149,
+        7151,
+        7152
       ],
       "sent_count": 21,
       "failed": {}
     },
     "ghandeharipoet": {
-      "last_id": 42861,
+      "last_id": 42862,
       "processed_ids": [
         42693,
         42694,
@@ -24986,13 +25052,14 @@
         42858,
         42859,
         42860,
-        42861
+        42861,
+        42862
       ],
-      "sent_count": 129,
+      "sent_count": 130,
       "failed": {}
     },
     "dashagh": {
-      "last_id": 48758,
+      "last_id": 48763,
       "processed_ids": [
         48313,
         48314,
@@ -25298,13 +25365,18 @@
         48754,
         48755,
         48757,
-        48758
+        48758,
+        48759,
+        48760,
+        48761,
+        48762,
+        48763
       ],
-      "sent_count": 213,
+      "sent_count": 217,
       "failed": {}
     },
     "apkclub": {
-      "last_id": 73246,
+      "last_id": 73250,
       "processed_ids": [
         72962,
         72963,
@@ -25569,13 +25641,17 @@
         73243,
         73244,
         73245,
-        73246
+        73246,
+        73247,
+        73248,
+        73249,
+        73250
       ],
-      "sent_count": 92,
+      "sent_count": 94,
       "failed": {}
     },
     "boob_sfangi": {
-      "last_id": 2892,
+      "last_id": 2896,
       "processed_ids": [
         2587,
         2590,
@@ -25808,13 +25884,16 @@
         2889,
         2890,
         2891,
-        2892
+        2892,
+        2894,
+        2895,
+        2896
       ],
-      "sent_count": 148,
+      "sent_count": 150,
       "failed": {}
     },
     "fucknewsi": {
-      "last_id": 13955,
+      "last_id": 13969,
       "processed_ids": [
         13561,
         13562,
@@ -26071,9 +26150,18 @@
         13951,
         13953,
         13954,
-        13955
+        13955,
+        13957,
+        13958,
+        13960,
+        13961,
+        13964,
+        13965,
+        13967,
+        13968,
+        13969
       ],
-      "sent_count": 105,
+      "sent_count": 110,
       "failed": {}
     },
     "https://t.me/+hhcepayguws1nti0": {
@@ -26404,7 +26492,7 @@
       "failed": {}
     },
     "media_aramesh": {
-      "last_id": 113077,
+      "last_id": 113079,
       "processed_ids": [
         113071,
         113072,
@@ -26412,1260 +26500,16 @@
         113074,
         113075,
         113076,
-        113077
+        113077,
+        113078,
+        113079
       ],
-      "sent_count": 5,
+      "sent_count": 7,
       "failed": {}
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "781fd5bb1bc9c9441cdded2f328ad2026b0c5f4d4ddf14e9e15b10f0acc909ad",
-        "media_fingerprint": "186086b21d4ddd389ab3c624a01ee0858cbc8cc18bf14d30329e4ac8aedab0d0",
-        "text": "تارتار، پس از شکست مقابل فولاد\n🎤\nمسئولیت باخت با مربی و شادی برد مال همه است  @Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "تارتار، پس از شکست مقابل فولاد\n🎤\nمسئولیت باخت با مربی و شادی برد مال همه است  @Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/111419",
-        "post_id": 111419,
-        "message_id": 13938,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-25T17:04:31.909949+00:00"
-      },
-      {
-        "fingerprint": "b3f722ce375ff15623d63e77d7a370bbf6e67b557cea6afa1b5c14b4111a7a7e",
-        "media_fingerprint": "",
-        "text": "🔴\nشاید باورتون نشه، ولی مدارس ایران هم کم‌کم دارن حس‌وحال اروپایی به خودشون میگیرن؛ امروز یکی از دانش‌آموزای یه مدرسه تو تهران، وسط زنگ تفریح به زیدش زنگ می‌زنه و بهش میگه خیلی دلش براش تنگ شده و بعدش مدرسه رو می‌پیچونه و با ماشین خودش میره دنبال زیدش. زیدش…",
-        "original_username": "drtel",
-        "original_text": "🔴\nشاید باورتون نشه، ولی مدارس ایران هم کم‌کم دارن حس‌وحال اروپایی به خودشون میگیرن؛ امروز یکی از دانش‌آموزای یه مدرسه تو تهران، وسط زنگ تفریح به زیدش زنگ می‌زنه و بهش میگه خیلی دلش براش تنگ شده و بعدش مدرسه رو می‌پیچونه و با ماشین خودش میره دنبال زیدش. زیدش…",
-        "original_link": "https://t.me/drtel/71799",
-        "post_id": 71799,
-        "message_id": 13939,
-        "message_kind": "text",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-25T17:04:35.392224+00:00"
-      },
-      {
-        "fingerprint": "5c9a9d7c40a2b814606a26dad108d221d0230905492e6ee0fce3fa155d3c8892",
-        "media_fingerprint": "4498a546da69ea1362a31c69fea4401023ec57161cf06c2a14d6a8ffe9581249",
-        "text": "این میکاپ خفن هالووینی رو ببینید\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "این میکاپ خفن هالووینی رو ببینید\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/160235",
-        "post_id": 160235,
-        "message_id": 13940,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-25T17:04:42.236585+00:00"
-      },
-      {
-        "fingerprint": "4894f986574251832328c1c94f0ed57a3e6f01e55fd187df984a2f0100e1bf92",
-        "media_fingerprint": "55d15256614ecbb5465dd34644c73d83d49569b950400bf0131230771e8459f2",
-        "text": "بازیکنان پرسپولیس پس از باخت مقابل فولاد با چهره ناراحت ورزشگاه را ترک کردند و حاضر به گفتگو با خبرنگاران نشدند\n🆔\n@footballvision2",
-        "original_username": "footballvision2",
-        "original_text": "بازیکنان پرسپولیس پس از باخت مقابل فولاد با چهره ناراحت ورزشگاه را ترک کردند و حاضر به گفتگو با خبرنگاران نشدند\n🆔\n@footballvision2",
-        "original_link": "https://t.me/footballvision2/172902",
-        "post_id": 172902,
-        "message_id": 13941,
-        "message_kind": "caption",
-        "sources": [
-          "footballvision2"
-        ],
-        "created_at": "2026-10-25T17:04:49.569780+00:00"
-      },
-      {
-        "fingerprint": "14e47074631261773a5158e2abf3f3ff54d8309a86eb42c5e302df7a729f6d35",
-        "media_fingerprint": "b98667ccf06e3dc141d8f51ebdeab183e2eef783b06654940ea38fd634cd72d8",
-        "text": "چشماش انقدر خوشگله که انگار واقعی نیست و از دل انیمه ها اومده\n🥹\n🦋\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "چشماش انقدر خوشگله که انگار واقعی نیست و از دل انیمه ها اومده\n🥹\n🦋\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163878",
-        "post_id": 163878,
-        "message_id": 13942,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-25T17:04:54.494588+00:00"
-      },
-      {
-        "fingerprint": "d4987d0e7a8cd4d6f04efa9d008b44f668a72f4fd7c8f4eab6e3f8587f08a6b7",
-        "media_fingerprint": "e55a341deea26f31758eac1681650bc743e1d82a5e95f7c0c3dfc46b6730c8d7",
-        "text": "توییت اکانت سفارت ایران در هند\n😄\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "توییت اکانت سفارت ایران در هند\n😄\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163879",
-        "post_id": 163879,
-        "message_id": 13943,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-25T17:04:59.473599+00:00"
-      },
-      {
-        "fingerprint": "6b19ba0a5a56a6851307083c48c66cd2ee10e5254c51a6ce03d35f8007fe1595",
-        "media_fingerprint": "3ae89294178b0b434ac76f7e35dac9c5a083160649eca204c11f8e11be75dbcd",
-        "text": "⚽️\nشگفتانه بچه‌های کریم‌آباد زاهدان برای «گزارش ورزشی»\nپنج ساعت مانده به آغاز بازی ال‌کلاسیکو، بچه‌های کریم‌آباد، از مناطق کم‌برخوردار حاشیه شهر زاهدان، با حضوری پرشور و صمیمی به استقبال برنامه «گزارش ورزشی» آمدند.\nآن‌ها شاید در حاشیه شهر زندگی کنند، اما شور و اشتیاقشان برای استقبال از بچه های جبهه فرهنگی انقلاب چیزی کم از هیچ نقطه‌ای از شهر ندارد؛ استقبالی گرم و پرانرژی که نشان داد این تلاش می‌تواند فاصله‌ها را کنار بزند و دل‌ها را به هم نزدیک کند.\n💚\nکریم‌آباد؛ جایی که عشق به فوتبال، از پنج ساعت قبل از سوت آغاز ال‌کلاسیکو به جریان افتاد.\n@GizmizTel",
-        "original_username": "gizmiztel",
-        "original_text": "⚽️\nشگفتانه بچه‌های کریم‌آباد زاهدان برای «گزارش ورزشی»\nپنج ساعت مانده به آغاز بازی ال‌کلاسیکو، بچه‌های کریم‌آباد، از مناطق کم‌برخوردار حاشیه شهر زاهدان، با حضوری پرشور و صمیمی به استقبال برنامه «گزارش ورزشی» آمدند.\nآن‌ها شاید در حاشیه شهر زندگی کنند، اما شور و اشتیاقشان برای استقبال از بچه های جبهه فرهنگی انقلاب چیزی کم از هیچ نقطه‌ای از شهر ندارد؛ استقبالی گرم و پرانرژی که نشان داد این تلاش می‌تواند فاصله‌ها را کنار بزند و دل‌ها را به هم نزدیک کند.\n💚\nکریم‌آباد؛ جایی که عشق به فوتبال، از پنج ساعت قبل از سوت آغاز ال‌کلاسیکو به جریان افتاد.\n@GizmizTel",
-        "original_link": "https://t.me/gizmiztel/163880",
-        "post_id": 163880,
-        "message_id": 13944,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-25T17:05:07.608778+00:00"
-      },
-      {
-        "fingerprint": "cd8f71e410f26d7362d862222e3d3854a45a7de3021b4fff782eb90509492858",
-        "media_fingerprint": "cc0d0b1833f22c992d776b6eef14987644e998699eb49f5ce1ef70ed5b795162",
-        "text": "دوستان کسی میدونه برای ویزای کرج از کجا باید اقدام کرد؟؟\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "دوستان کسی میدونه برای ویزای کرج از کجا باید اقدام کرد؟؟\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163881",
-        "post_id": 163881,
-        "message_id": 13945,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-25T17:05:12.392875+00:00"
-      },
-      {
-        "fingerprint": "1f89a9f6d69fb15368235a21abbe87b801f343be9baf37aa9fa07cf739fd03b2",
-        "media_fingerprint": "05181ce621ce5ba66595d1c5b7fab5f7a0c85ebfb28cbefaba9594827988f14f",
-        "text": "اینجا «پارک گرند کنیون آریزونا» نیست !!\nبلکه صخره‌های حیرت‌انگیز کوهدشت لرستان ایران، حاصل میلیون‌ها سال فرسایش زمین است.\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "اینجا «پارک گرند کنیون آریزونا» نیست !!\nبلکه صخره‌های حیرت‌انگیز کوهدشت لرستان ایران، حاصل میلیون‌ها سال فرسایش زمین است.\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163882",
-        "post_id": 163882,
-        "message_id": 13946,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-25T17:05:17.360785+00:00"
-      },
-      {
-        "fingerprint": "2e7fc0e638330f169faaa88d07d60268c9695b28822fd302416b188f693b24ca",
-        "media_fingerprint": "2245a11a94561e2b56dda58c7d90285d27ce14fb1492654e981aafd06ebd2ce7",
-        "text": "الکلاسیکو امشب در زاهدان!\nاقدام جالب گزارش ورزشی در پخش فوتبال رئال مادرید - بارسلونا  از استان سیستان و بلوچستان\n🔺\nامشب ساعت ۲۳:۳۰ از‌ زمین چمن کریم‌آباد زاهدان\n@GizmizTel",
-        "original_username": "gizmiztel",
-        "original_text": "الکلاسیکو امشب در زاهدان!\nاقدام جالب گزارش ورزشی در پخش فوتبال رئال مادرید - بارسلونا  از استان سیستان و بلوچستان\n🔺\nامشب ساعت ۲۳:۳۰ از‌ زمین چمن کریم‌آباد زاهدان\n@GizmizTel",
-        "original_link": "https://t.me/gizmiztel/163883",
-        "post_id": 163883,
-        "message_id": 13947,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-25T17:05:25.269360+00:00"
-      },
-      {
-        "fingerprint": "a45ed5f1ce0a6ea2956f32436f626aecdbeb939938bef87de3611c8b79e44118",
-        "media_fingerprint": "71c7adf88e0ff59b8ce2e53b3a6a6aa0c5349d4fd274c9f7ea2ab0bb3d512e7f",
-        "text": "علیییه نکوووون\n🤣\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "علیییه نکوووون\n🤣\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163884",
-        "post_id": 163884,
-        "message_id": 13948,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-25T17:05:32.386980+00:00"
-      },
-      {
-        "fingerprint": "5a110545ddfe275ef9d7730e76a08ceaeac7cacf0bbd67c4f418ddc38d0dd335",
-        "media_fingerprint": "2f698c8f95eb3f5a375023a56bdc3fa6bef0b3dc343c5e5a7b485c7fe9b83ea1",
-        "text": "👙\nلباس زیر پینترسی رو باید از جزیره آدا بخری\n🎁\nتا ۷۰ درصد تخفیف فقط به مدت محدود\n🎁\n👇\nhttps://t.me/+lw0oDG6VOno0NGVk\nhttps://t.me/+lw0oDG6VOno0NGVk\n🩱\nانواع ست های ایرانی و خارجی\nکاستوم و بادی و مایو و ....",
-        "original_username": "gizmiztel",
-        "original_text": "👙\nلباس زیر پینترسی رو باید از جزیره آدا بخری\n🎁\nتا ۷۰ درصد تخفیف فقط به مدت محدود\n🎁\n👇\nhttps://t.me/+lw0oDG6VOno0NGVk\nhttps://t.me/+lw0oDG6VOno0NGVk\n🩱\nانواع ست های ایرانی و خارجی\nکاستوم و بادی و مایو و ....",
-        "original_link": "https://t.me/gizmiztel/163887",
-        "post_id": 163887,
-        "message_id": 13949,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-25T17:05:39.831406+00:00"
-      },
-      {
-        "fingerprint": "ce624fda28f67b9d595d8e1492d120587d9844623581adac63aff4a717a7ffd4",
-        "media_fingerprint": "35e3962bff2e5e14bc478c66823a54698b0f5ad0c0e52ece2749dad541cbb66b",
-        "text": "از نظر هماهنگی صدا و تصویر\n👏\nچقدر قشنگ شده هماهنگ بودن صدا و چراغ ها\nراهنمای اون کامیون خودش یه روز کاری زمان میبره عوض بشه\n😁\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "از نظر هماهنگی صدا و تصویر\n👏\nچقدر قشنگ شده هماهنگ بودن صدا و چراغ ها\nراهنمای اون کامیون خودش یه روز کاری زمان میبره عوض بشه\n😁\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163888",
-        "post_id": 163888,
-        "message_id": 13950,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-25T17:05:47.200850+00:00"
-      },
-      {
-        "fingerprint": "7ef6f350ee2eb45f118ae34fb382b9d6ef5d44a5c598ab2bbfa9f54dea54cc8d",
-        "media_fingerprint": "e8888859d8d77bca4ab47d00ad578e6dad04ad2a4d3a6cbe8928434c2a73eb73",
-        "text": "باید بره کلینیک کاشت میو\n😭\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "باید بره کلینیک کاشت میو\n😭\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163889",
-        "post_id": 163889,
-        "message_id": 13951,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-25T17:05:52.176992+00:00"
-      },
-      {
-        "fingerprint": "bf0482bf76960e5ccd8a934cedf0d659db9fa9745d9177453cc3bfef12462329",
-        "media_fingerprint": "66507ecc8077503458c1be9c0e47f0d798e9d09b08504fc0539e3b5aba72f7d3",
-        "text": "عرب‌براقی نتوانست بازی را مدیریت کند\n🎤\nخلیلی، پس از شکست پرسپولیس مقابل فولاد  @Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "عرب‌براقی نتوانست بازی را مدیریت کند\n🎤\nخلیلی، پس از شکست پرسپولیس مقابل فولاد  @Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/111421",
-        "post_id": 111421,
-        "message_id": 13952,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-25T17:06:00.117094+00:00"
-      },
-      {
-        "fingerprint": "a8ff06d46aff0cde8d8b652d5377d971744d9163f225c97ac41551e2fdf59004",
-        "media_fingerprint": "33977608c8874765c4f4eec58d126bdf3262dfd9a00e59496a79063eec1fd108",
-        "text": "🔻\n🎙\n🇮🇷\nفرشاد احمد‌زاده، بازیکن فولاد: هم ما و هم پرسپولیس رو به جلو بازی کردیم و با قوانین جدید نمی‌شود وقت تلف کرد. وحید امیری اخترام هواداران پرسپولیس را نگه داشت و کار درستی هم کرد\n⚽️\n@Hattric_Official",
-        "original_username": "hattric_official",
-        "original_text": "🔻\n🎙\n🇮🇷\nفرشاد احمد‌زاده، بازیکن فولاد: هم ما و هم پرسپولیس رو به جلو بازی کردیم و با قوانین جدید نمی‌شود وقت تلف کرد. وحید امیری اخترام هواداران پرسپولیس را نگه داشت و کار درستی هم کرد\n⚽️\n@Hattric_Official",
-        "original_link": "https://t.me/Hattric_Official/85727",
-        "post_id": 85727,
-        "message_id": 13953,
-        "message_kind": "caption",
-        "sources": [
-          "hattric_official"
-        ],
-        "created_at": "2026-10-25T17:06:07.985640+00:00"
-      },
-      {
-        "fingerprint": "a8bd605253ec9e49dcd44d64c15632c48b28f1d3de4967fb56902d59c9e855a5",
-        "media_fingerprint": "206205a9c4ba305f9a0bec9bc6f53e9288c7ae887d285f724082dc1b35d6425a",
-        "text": "تنگه رتیل؛ جایی که هیجان، مرز نمی‌شناسد!\n🚙\n🔥\nاز بالا که نگاه کنی، خودروها در لبه دیواره‌های عظیم تنگه حرکت می‌کنند؛ انگار خط باریکی میان زمین و سقوط کشیده شده است! اینجا در قلب کویر لوت، فرسایش طی هزاران سال دیواره‌هایی شگفت‌انگیز ساخته؛ مسیری پرپیچ‌وخم که عظمت طبیعت را به رخ می‌کشد و آفرود را به تجربه‌ای فراموش‌نشدنی تبدیل می‌کند.\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "تنگه رتیل؛ جایی که هیجان، مرز نمی‌شناسد!\n🚙\n🔥\nاز بالا که نگاه کنی، خودروها در لبه دیواره‌های عظیم تنگه حرکت می‌کنند؛ انگار خط باریکی میان زمین و سقوط کشیده شده است! اینجا در قلب کویر لوت، فرسایش طی هزاران سال دیواره‌هایی شگفت‌انگیز ساخته؛ مسیری پرپیچ‌وخم که عظمت طبیعت را به رخ می‌کشد و آفرود را به تجربه‌ای فراموش‌نشدنی تبدیل می‌کند.\n@irWonders",
-        "original_link": "https://t.me/irwonders/59104",
-        "post_id": 59104,
-        "message_id": 13954,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-25T17:06:15.482007+00:00"
-      },
-      {
-        "fingerprint": "4f0053c39327d4297464b3056cd5c1e8ab83a45fe8e5bae6891c7099a9b7e930",
-        "media_fingerprint": "4279411ec671de6fb3d2df6da5a31b8178108d6dcd6590a69c7b626208d33cff",
-        "text": "🚨\n🚨\n🚨\nنوید مظفری: پنالتی برای پرسپولیس رخ نداد.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n🚨\n🚨\nنوید مظفری: پنالتی برای پرسپولیس رخ نداد.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/236090",
-        "post_id": 236090,
-        "message_id": 13955,
-        "message_kind": "caption",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-25T17:06:22.776640+00:00"
-      },
-      {
-        "fingerprint": "f0c17611c3cfc8ca9f1f4c97c3909be0ad467fc3c033504694eedd6321986c3f",
-        "media_fingerprint": "f4f3c74e82e416c3f361b1cd7796eccbdfef2a34bee22b651f5660cb10f77a6a",
-        "text": "🎤\nهیچ بازیکنی حاشیه امنیت ندارد\n💬\nتمام بازیکنان و اعضای کادرفنی تلاش می‌کنند بهترین عملکردشان را داشته باشند.\n💬\nهر بازیکنی که در تمرین خوب باشد و تلاش کند، آقای تارتار حقش را به او می‌دهد.  @Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "🎤\nهیچ بازیکنی حاشیه امنیت ندارد\n💬\nتمام بازیکنان و اعضای کادرفنی تلاش می‌کنند بهترین عملکردشان را داشته باشند.\n💬\nهر بازیکنی که در تمرین خوب باشد و تلاش کند، آقای تارتار حقش را به او می‌دهد.  @Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/111423",
-        "post_id": 111423,
-        "message_id": 13956,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-25T17:06:29.744883+00:00"
-      },
-      {
-        "fingerprint": "851eda1bdc26f261e693351e014fae72385d728a40e0bd4ec3278337af0e8918",
-        "media_fingerprint": "51d274dfa148abe136eb6b186beaad72932ad37db2b983af772490447a13d3e2",
-        "text": "😳\nمنطق دختر :\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
-        "original_username": "boob_sfangi",
-        "original_text": "😳\nمنطق دختر :\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
-        "original_link": "https://t.me/boob_sfangi/2866",
-        "post_id": 2866,
-        "message_id": 13957,
-        "message_kind": "caption",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-25T17:06:35.064654+00:00"
-      },
-      {
-        "fingerprint": "8e081567386346a3c0442eec8d7bee74560cf227dc77a353af6cf2614a34952d",
-        "media_fingerprint": "3358bf751b594c481eb59ea55bd0a89db2478f107cce634dd20b59589aa52e86",
-        "text": "فولاد هیچ موقعیتی نداشت!\n🔴\nتارتار: از هواداران عذرخواهی میکنم\n🔴\nنیاز به بازیکنان خلاق داریم\n🔴\nمهاجم ما موقعیت خوبی از دست داد\n🔴\nخیلی فرصت ایجاد نکردیم\n🔴\nبدون حمله ما را شکست دادند\n🎙\nنشست خبری پرسپولیس - فولاد\n🆔\n@varzesh3",
-        "original_username": "varzesh3",
-        "original_text": "فولاد هیچ موقعیتی نداشت!\n🔴\nتارتار: از هواداران عذرخواهی میکنم\n🔴\nنیاز به بازیکنان خلاق داریم\n🔴\nمهاجم ما موقعیت خوبی از دست داد\n🔴\nخیلی فرصت ایجاد نکردیم\n🔴\nبدون حمله ما را شکست دادند\n🎙\nنشست خبری پرسپولیس - فولاد\n🆔\n@varzesh3",
-        "original_link": "https://t.me/varzesh3/305161",
-        "post_id": 305161,
-        "message_id": 13958,
-        "message_kind": "caption",
-        "sources": [
-          "varzesh3"
-        ],
-        "created_at": "2026-10-25T17:06:43.107243+00:00"
-      },
-      {
-        "fingerprint": "7e8443cbcc47bf9681ec2ee88d48f3ffe2cb7604c12b73de5883dd0be5c9f92e",
-        "media_fingerprint": "69b25260d5400ee02fe886e2fa785ef1d881c4e7616dbbf77f9553f9a2a4d8d2",
-        "text": "برد خانگی تیم خلیفه‌اصل\n🔚\nبه غدیر برگشتند و ناکامی‌هایشان تمام شد؛ استقلال خوزستان، پیروز نبرد ۶ امتیازی قعرنشینان\n🔸\nلیگ برتر ایران - هفته ۱۰\n🎞\nخلاصه بازی  @Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "برد خانگی تیم خلیفه‌اصل\n🔚\nبه غدیر برگشتند و ناکامی‌هایشان تمام شد؛ استقلال خوزستان، پیروز نبرد ۶ امتیازی قعرنشینان\n🔸\nلیگ برتر ایران - هفته ۱۰\n🎞\nخلاصه بازی  @Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/111424",
-        "post_id": 111424,
-        "message_id": 13959,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-25T17:06:50.269953+00:00"
-      },
-      {
-        "fingerprint": "f89192893a2bd92c2e887da30ea047499a67c6aa8d0ba946977c64ce2f2bed55",
-        "media_fingerprint": "",
-        "text": "🔞\nحکم شرعی معاینه\nواژن زن\nتوسط پزشک مرد چیست ؟\nمشاهده پاسخ\n👉",
-        "original_username": "bimaariha",
-        "original_text": "🔞\nحکم شرعی معاینه\nواژن زن\nتوسط پزشک مرد چیست ؟\nمشاهده پاسخ\n👉",
-        "original_link": "https://t.me/Bimaariha/19705",
-        "post_id": 19705,
-        "message_id": 13960,
-        "message_kind": "text",
-        "sources": [
-          "bimaariha"
-        ],
-        "created_at": "2026-10-25T17:06:53.720052+00:00"
-      },
-      {
-        "fingerprint": "558a8bc2cffed71e70a57e8fcbb6e49b6fb795d3a33902dd290abd977c0159c7",
-        "media_fingerprint": "47d59289472db3f3b45de45ec0c7306c4ef575b6c714ea4ad459e722c0897e75",
-        "text": "یه مالک پژو۲۰۷  الان میتونه زارت از روتون رد شه، با نصف پول ماشینش دیه تون رو بده و با بقیه اش هم یه کوییک اتومات بندازه زیر پاش.\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "یه مالک پژو۲۰۷  الان میتونه زارت از روتون رد شه، با نصف پول ماشینش دیه تون رو بده و با بقیه اش هم یه کوییک اتومات بندازه زیر پاش.\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/53218",
-        "post_id": 53218,
-        "message_id": 13961,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb",
-          "irwonders"
-        ],
-        "created_at": "2026-10-25T17:06:59.270022+00:00"
-      },
-      {
-        "fingerprint": "f4e65254fd252c778d2cf6a21a877d1e8c47f507824f12c99d94cc9f71a9f009",
-        "media_fingerprint": "7480f4b4509d789930ee2e270cfb7704298702409f9c506b29c76f61f802e85b",
-        "text": "احمدزاده، بازیکن فولاد\n🎤\nبا قوانین جدید داوری نمی‌شود وقت‌کشی کرد\n💬\nخوشحالی نکردن وحید امیری بعد از گل طبیعی بود؛ او چند سال برای پرسپولیس زحمت کشیده و کار درستی کرد.  @Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "احمدزاده، بازیکن فولاد\n🎤\nبا قوانین جدید داوری نمی‌شود وقت‌کشی کرد\n💬\nخوشحالی نکردن وحید امیری بعد از گل طبیعی بود؛ او چند سال برای پرسپولیس زحمت کشیده و کار درستی کرد.  @Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/111426",
-        "post_id": 111426,
-        "message_id": 13962,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-25T17:07:06.001492+00:00"
-      },
-      {
-        "fingerprint": "a4bbf27d26099748f79ace5584fe36516ee77b46343aca3ca115e07f39f24a55",
-        "media_fingerprint": "",
-        "text": "🚨\n🎖️\n🏅\nتساوی مقابل خیبر و شکست خانگی برابر فولاد خوزستان، تازه‌ترین نتایج ناامیدکننده پرسپولیس در لیگ برتر هستند؛ اما وقتی این نتایج را کنار شکست مقابل تراکتور و تساوی برابر استقلال می‌گذاریم، تصویر نگران‌کننده‌تری شکل می‌گیرد.\n❌\nپرسپولیس در مسابقاتی که باید…",
-        "original_username": "total_fut",
-        "original_text": "🚨\n🎖️\n🏅\nتساوی مقابل خیبر و شکست خانگی برابر فولاد خوزستان، تازه‌ترین نتایج ناامیدکننده پرسپولیس در لیگ برتر هستند؛ اما وقتی این نتایج را کنار شکست مقابل تراکتور و تساوی برابر استقلال می‌گذاریم، تصویر نگران‌کننده‌تری شکل می‌گیرد.\n❌\nپرسپولیس در مسابقاتی که باید…",
-        "original_link": "https://t.me/total_fut/238710",
-        "post_id": 238710,
-        "message_id": 13963,
-        "message_kind": "text",
-        "sources": [
-          "total_fut"
-        ],
-        "created_at": "2026-10-25T17:07:09.459106+00:00"
-      },
-      {
-        "fingerprint": "1151d8f269ccabe4a51ee9f6a18db47648411a5414ccdc0ab93162f33f42d761",
-        "media_fingerprint": "c3722a0347f58e280b4a90597d79155f7465719a7b0a5237913ae6c2ce2b75d8",
-        "text": "عشق یا احترام؟\nاین دوتا در کنار هم معنی پیدا میکنند و در امتداد هم هستن\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "عشق یا احترام؟\nاین دوتا در کنار هم معنی پیدا میکنند و در امتداد هم هستن\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/307326",
-        "post_id": 307326,
-        "message_id": 13964,
-        "message_kind": "caption",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-25T17:07:15.755376+00:00"
-      },
-      {
-        "fingerprint": "0edf592520e3cf323a7ca96310318bd935ad354b075d0cde0602ded90bf2f76d",
-        "media_fingerprint": "",
-        "text": "🎖️\n#اختصاصی_توتال\n🏅\nتارتار چه برنامه‌ای برای بازی با تیم‌های قدرتمندتر دارد؟\n⁉️\nچرا پرسپولیس در مسابقات بزرگ نمی‌تواند برتری فنی‌اش را نشان بدهد؟ آیا ترکیب تیم متناسب با شرایط هر مسابقه انتخاب می‌شود؟ آیا بازیکنان در جای درست به کار گرفته می‌شوند؟ آیا تعویض‌ها…",
-        "original_username": "total_fut",
-        "original_text": "🎖️\n#اختصاصی_توتال\n🏅\nتارتار چه برنامه‌ای برای بازی با تیم‌های قدرتمندتر دارد؟\n⁉️\nچرا پرسپولیس در مسابقات بزرگ نمی‌تواند برتری فنی‌اش را نشان بدهد؟ آیا ترکیب تیم متناسب با شرایط هر مسابقه انتخاب می‌شود؟ آیا بازیکنان در جای درست به کار گرفته می‌شوند؟ آیا تعویض‌ها…",
-        "original_link": "https://t.me/total_fut/238711",
-        "post_id": 238711,
-        "message_id": 13965,
-        "message_kind": "text",
-        "sources": [
-          "total_fut"
-        ],
-        "created_at": "2026-10-25T17:07:19.246726+00:00"
-      },
-      {
-        "fingerprint": "06d1a8dec0e574356512d65d7c2fa0feb7366376690f30c74bc783296d61b3ad",
-        "media_fingerprint": "",
-        "text": "🔞\nحکم شرعی استفاده از آلت مصنوعی مردانه چیست.\nمشاهده حکم\n➡️",
-        "original_username": "bimaariha",
-        "original_text": "🔞\nحکم شرعی استفاده از آلت مصنوعی مردانه چیست.\nمشاهده حکم\n➡️",
-        "original_link": "https://t.me/Bimaariha/19706",
-        "post_id": 19706,
-        "message_id": 13966,
-        "message_kind": "text",
-        "sources": [
-          "bimaariha"
-        ],
-        "created_at": "2026-10-25T17:07:22.733336+00:00"
-      },
-      {
-        "fingerprint": "c3f3d3c18a0db80cec467759a60c6e0bddc9993eb086f3d3d1869f95dc41a1fc",
-        "media_fingerprint": "212ea00b0d17eae317c4d0fc83ececdf5a23a53102cfa84bf98556c8b20ab28d",
-        "text": "بازی با روحو روان ( خطر واسه اهالی فوت فتیش )\n🔞\n@Dashagh",
-        "original_username": "dashagh",
-        "original_text": "بازی با روحو روان ( خطر واسه اهالی فوت فتیش )\n🔞\n@Dashagh",
-        "original_link": "https://t.me/dashagh/48740",
-        "post_id": 48740,
-        "message_id": 13967,
-        "message_kind": "caption",
-        "sources": [
-          "dashagh"
-        ],
-        "created_at": "2026-10-25T17:07:29.572671+00:00"
-      },
-      {
-        "fingerprint": "8b75550ac435da7eaf71903920b446e5b2c56120e839848b37b6a82e03fcd8ca",
-        "media_fingerprint": "580fbaae71590aa40a5952924aacc4f2dddf6598ac699109c86a3bc05527b1a7",
-        "text": "صعود تیم محرم به رده دوم\n🔚\nتکرار سناریوی بازی با پرسپولیس برای مس شهربابک؛ اول اخراجی دادند، بعد گلباران شدند/ ۴ گل برای جشن ۷۳ سالگی سپاهان\n🔸\nلیگ برتر ایران - هفته ۱۰\n👀\nگلزنی نورافکن برای سپاهان پس از ۹۶۵ روز؛ با یک شلیک و یک پاس گل محرم را امیدوار کرد…",
-        "original_username": "ft360_ir",
-        "original_text": "صعود تیم محرم به رده دوم\n🔚\nتکرار سناریوی بازی با پرسپولیس برای مس شهربابک؛ اول اخراجی دادند، بعد گلباران شدند/ ۴ گل برای جشن ۷۳ سالگی سپاهان\n🔸\nلیگ برتر ایران - هفته ۱۰\n👀\nگلزنی نورافکن برای سپاهان پس از ۹۶۵ روز؛ با یک شلیک و یک پاس گل محرم را امیدوار کرد…",
-        "original_link": "https://t.me/ft360_ir/111429",
-        "post_id": 111429,
-        "message_id": 13968,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-25T17:07:37.688050+00:00"
-      },
-      {
-        "fingerprint": "3fef298f75f90d3e12a29970668650fe7ce05a44914f9cf5aed7509c1ccb5c61",
-        "media_fingerprint": "",
-        "text": "",
-        "original_username": "apkclub",
-        "original_text": "",
-        "original_link": "https://t.me/apkclub/73231",
-        "post_id": 73231,
-        "message_id": 13969,
-        "message_kind": "text",
-        "sources": [
-          "apkclub"
-        ],
-        "created_at": "2026-10-25T17:07:41.129538+00:00"
-      },
-      {
-        "fingerprint": "4e6a1d7e925452c0760018b31a9d94029593ed8cd9153a5bd206d166efcc9bcb",
-        "media_fingerprint": "",
-        "text": "♦️\nبیرانوند فردا به پادگان می‌رود\n🔹\nعلیرضا بیرانوند صبح فردا، ۴ آبان، خود را به پادگان آموزشی آباده در استان فارس معرفی می‌کند.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nبیرانوند فردا به پادگان می‌رود\n🔹\nعلیرضا بیرانوند صبح فردا، ۴ آبان، خود را به پادگان آموزشی آباده در استان فارس معرفی می‌کند.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/144440",
-        "post_id": 144440,
-        "message_id": 13970,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-25T17:07:44.644751+00:00"
-      },
-      {
-        "fingerprint": "0a61384200a8fd6e959c9003d70b943a0e30dd24432752a8fef61f59d3d90b59",
-        "media_fingerprint": "81c3a58d47c1baae6c9a67aed716bc90909dd9ca0e7c88549aef6d899df95044",
-        "text": "🔝\n🇮🇷\nرختکن باشگاه فولاد پس از برد شیرین مقابل پرسپولیس در تهران\n⚽️\n@Hattric_Official",
-        "original_username": "hattric_official",
-        "original_text": "🔝\n🇮🇷\nرختکن باشگاه فولاد پس از برد شیرین مقابل پرسپولیس در تهران\n⚽️\n@Hattric_Official",
-        "original_link": "https://t.me/Hattric_Official/85731",
-        "post_id": 85731,
-        "message_id": 13971,
-        "message_kind": "caption",
-        "sources": [
-          "hattric_official"
-        ],
-        "created_at": "2026-10-25T17:07:51.480281+00:00"
-      },
-      {
-        "fingerprint": "4fa7b19b6d1590aae0c33a4a9f555578af2440a428eabc319f59cf984bb78eab",
-        "media_fingerprint": "",
-        "text": "باید خیلی زود ریکاوری کنیم!\n🔴\nتارتار: مسئولیت باخت با مربی است\n🔴\nبرد برای همه است\n🔴\nاگر گردن نگیریم اشتباه کردیم\n🔴\nهواداران از تیم حمایت کنند\n🔴\nباید این باخت را فراموش کنیم\n🎙\nنشست خبری پرسپولیس - فولاد\n🆔\n@varzesh3",
-        "original_username": "varzesh3",
-        "original_text": "باید خیلی زود ریکاوری کنیم!\n🔴\nتارتار: مسئولیت باخت با مربی است\n🔴\nبرد برای همه است\n🔴\nاگر گردن نگیریم اشتباه کردیم\n🔴\nهواداران از تیم حمایت کنند\n🔴\nباید این باخت را فراموش کنیم\n🎙\nنشست خبری پرسپولیس - فولاد\n🆔\n@varzesh3",
-        "original_link": "https://t.me/varzesh3/305162",
-        "post_id": 305162,
-        "message_id": 13972,
-        "message_kind": "text",
-        "sources": [
-          "varzesh3"
-        ],
-        "created_at": "2026-10-25T17:07:54.996610+00:00"
-      },
-      {
-        "fingerprint": "b80fa718fc27fc975abf6c66212a0f4f9b184980815357f5bf539902f72c189f",
-        "media_fingerprint": "",
-        "text": "بازیگرانِ تکراری در نمایش خانگی\n‼️\n‌\n🎬\nپخش اختصاصی «ستاره بازی» ، سه‌شنبه‌ها از پلتفرم ایده‌نما\nآرمین قدرتی در قسمت دَهُم «ستاره‌بازی» ، میزبان داریوش سلیمی است؛\n@BajeFilm",
-        "original_username": "bajefilm",
-        "original_text": "بازیگرانِ تکراری در نمایش خانگی\n‼️\n‌\n🎬\nپخش اختصاصی «ستاره بازی» ، سه‌شنبه‌ها از پلتفرم ایده‌نما\nآرمین قدرتی در قسمت دَهُم «ستاره‌بازی» ، میزبان داریوش سلیمی است؛\n@BajeFilm",
-        "original_link": "https://t.me/bajefilm/11710",
-        "post_id": 11710,
-        "message_id": 13973,
-        "message_kind": "text",
-        "sources": [
-          "bajefilm"
-        ],
-        "created_at": "2026-10-25T17:07:58.454719+00:00"
-      },
-      {
-        "fingerprint": "a8a64d55d5be7f2dce9ad1921b797a9737e2e23dfa74f098aef173ddb6c53620",
-        "media_fingerprint": "",
-        "text": "🚨\n🔴\n🔴\nتارتار: از هواداران عذرخواهی می‌کنم.\n🤩\n@ADAK_IR",
-        "original_username": "adak_ir_official",
-        "original_text": "🚨\n🔴\n🔴\nتارتار: از هواداران عذرخواهی می‌کنم.\n🤩\n@ADAK_IR",
-        "original_link": "https://t.me/ADAK_IR_official/236093",
-        "post_id": 236093,
-        "message_id": 13974,
-        "message_kind": "text",
-        "sources": [
-          "adak_ir_official"
-        ],
-        "created_at": "2026-10-25T17:08:01.885561+00:00"
-      },
-      {
-        "fingerprint": "7367e57d28ee0b589cc5455b462a3d8711ad5001a7dde2ffd09d1cc191ff3eea",
-        "media_fingerprint": "",
-        "text": "",
-        "original_username": "apkclub",
-        "original_text": "",
-        "original_link": "https://t.me/apkclub/73233",
-        "post_id": 73233,
-        "message_id": 13975,
-        "message_kind": "text",
-        "sources": [
-          "apkclub"
-        ],
-        "created_at": "2026-10-25T17:08:05.311516+00:00"
-      },
-      {
-        "fingerprint": "f97a8a104589d74e11d5778dd60a670af1816f84e943895b680f54801a58a17d",
-        "media_fingerprint": "9b212ae6011842ff396416daf60ec4b274be025dd2a8da265c6e714eff621479",
-        "text": "آنچه در تصویر می بینید کوسه شاخ دار نام دارد . جالب است بدانید از عجیب ترین تخم های آبزیان را کوسه شاخدار دارد. این کوسه تخم های مخروطی زیبا و شبیه پیچ می گذارد تا از تخم ها با فرو کردن در سطوح مختلف محافظت کند.\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "آنچه در تصویر می بینید کوسه شاخ دار نام دارد . جالب است بدانید از عجیب ترین تخم های آبزیان را کوسه شاخدار دارد. این کوسه تخم های مخروطی زیبا و شبیه پیچ می گذارد تا از تخم ها با فرو کردن در سطوح مختلف محافظت کند.\n@irWonders",
-        "original_link": "https://t.me/irwonders/59105",
-        "post_id": 59105,
-        "message_id": 13976,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-25T17:08:10.520447+00:00"
-      },
-      {
-        "fingerprint": "1ab194f12bc8c441a3d2d37477a4392990b80e0c60ac0ff39dfccd8c1c6438b8",
-        "media_fingerprint": "d0ec046b64772d09545e3edb4e60d0385c54b755f70ca4335f96c948d555b8cf",
-        "text": "«تو پیشنهادت رو بده، فوقش میگه نه» :\n😏\n#Squidward\n💎\nSpongebob | باب اسفنجی",
-        "original_username": "boob_sfangi",
-        "original_text": "«تو پیشنهادت رو بده، فوقش میگه نه» :\n😏\n#Squidward\n💎\nSpongebob | باب اسفنجی",
-        "original_link": "https://t.me/boob_sfangi/2869",
-        "post_id": 2869,
-        "message_id": 13977,
-        "message_kind": "text",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-25T17:08:14.955033+00:00"
-      },
-      {
-        "fingerprint": "92c383120cd42a064281807ebfc084c39db95b1ef8ffc2816500d4d52744b44d",
-        "media_fingerprint": "",
-        "text": "🟠\nکدهای مخفی که خوب است بدانید\n:\n🔵\nافزایش سرعت گوشی #۹۹۰۰#*\n🟠\nغیر فعالسازی پیشواز  ایرانسل #۷*۷۷۷*\n🔵\nغیر فعالسازی پیشواز همراه اول #۲۲۳*۱۰*\n🟠\nتست شنود سیم‌کارت #۶۷#*\n🔵\nردیابی گوشی ایرانسل #۶۱۰۱*\n🟠\nردیابی گوشی همراه‌ اول #۲۱۲۱*۱۰*\n🔵\nشارژ اضطراری بدون پول ایرانسل #۸۱۵*\n🟠\nشارژ اضطراری بدون پول همراه‌ اول #۲۵*۱۰*\n🔵\nشارژ اضطراری بدون پول رایتل #۴۴۴*\n🟠\nلغو پیام تبلیغاتی ایرانسل #۸۰۰*\n🔵\nلغو پیام تبلیغاتی همراه اول #۸۹۹۹*\n🟠\nلغو پیام تبلیغاتی رایتل #۱۹۵*\n🔵\nفعال کردن پیامگیر صوتی ایرانسل #۱*۵*۴*۵۵۵*\n🟠\nفعال کردن پیامگیر صوتی همراه‌اول #۲۴۱*۱۰*\n🔵\nفعال کردن پیامگیر صوتی رایتل #۱۳۰*\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🟠\nکدهای مخفی که خوب است بدانید\n:\n🔵\nافزایش سرعت گوشی #۹۹۰۰#*\n🟠\nغیر فعالسازی پیشواز  ایرانسل #۷*۷۷۷*\n🔵\nغیر فعالسازی پیشواز همراه اول #۲۲۳*۱۰*\n🟠\nتست شنود سیم‌کارت #۶۷#*\n🔵\nردیابی گوشی ایرانسل #۶۱۰۱*\n🟠\nردیابی گوشی همراه‌ اول #۲۱۲۱*۱۰*\n🔵\nشارژ اضطراری بدون پول ایرانسل #۸۱۵*\n🟠\nشارژ اضطراری بدون پول همراه‌ اول #۲۵*۱۰*\n🔵\nشارژ اضطراری بدون پول رایتل #۴۴۴*\n🟠\nلغو پیام تبلیغاتی ایرانسل #۸۰۰*\n🔵\nلغو پیام تبلیغاتی همراه اول #۸۹۹۹*\n🟠\nلغو پیام تبلیغاتی رایتل #۱۹۵*\n🔵\nفعال کردن پیامگیر صوتی ایرانسل #۱*۵*۴*۵۵۵*\n🟠\nفعال کردن پیامگیر صوتی همراه‌اول #۲۴۱*۱۰*\n🔵\nفعال کردن پیامگیر صوتی رایتل #۱۳۰*\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/23690",
-        "post_id": 23690,
-        "message_id": 13978,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-25T17:39:05.904125+00:00"
-      },
-      {
-        "fingerprint": "512716a942ce7922f4a5b3e63de3842049fe73ef7283d6745ca5735f00f5cac8",
-        "media_fingerprint": "80869160da70988336bca4a14642bcb5fae4c8364a8cfd60d237107e068a0a11",
-        "text": "🔴\nدرحال حاضر تو کدوم یک از کشورهای جهان\n🌎\nاعتراضات وجود داره؟\n🇫🇷\n1. فرانسه:  گرونی، مشکلات اقتصادی و وضعیت نامناسب مدارس.\n🇮🇹\n2. ایتالیا:  گرونی، مشکلات معیشتی و نارضایتی از سیاست‌های دولت.\n🇧🇪\n3. بلژیک:  افزایش هزینه‌های تحصیل و گرونی.\n🇦🇱\n4. آلبانی:  فساد دولتی،…",
-        "original_username": "drtel",
-        "original_text": "🔴\nدرحال حاضر تو کدوم یک از کشورهای جهان\n🌎\nاعتراضات وجود داره؟\n🇫🇷\n1. فرانسه:  گرونی، مشکلات اقتصادی و وضعیت نامناسب مدارس.\n🇮🇹\n2. ایتالیا:  گرونی، مشکلات معیشتی و نارضایتی از سیاست‌های دولت.\n🇧🇪\n3. بلژیک:  افزایش هزینه‌های تحصیل و گرونی.\n🇦🇱\n4. آلبانی:  فساد دولتی،…",
-        "original_link": "https://t.me/drtel/71803",
-        "post_id": 71803,
-        "message_id": 13979,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-25T17:39:13.610932+00:00"
-      },
-      {
-        "fingerprint": "cf124f2a9c3f1a9bc088230ddd6f07fd2a81c8caf4137763c5d27751500341af",
-        "media_fingerprint": "6e86d99fea2db13bc34fa80df22e41027cbb3ec0bffa3163a0d9d38c9b429d07",
-        "text": "📊\n#آمار | ال‌کلاسیکو به روایت اعداد و ارقام\n🆚\nرئال مادرید و بارسلونا تاکنون در 264 مسابقه به مصاف یکدیگر رفته‌اند\n🇪🇸\nرئال مادرید - 106 برد | 447 گل\n🇪🇸\nبارسلونا - 106 برد | 438 گل\n🤝\nمساوی - 52 مسابقه\n🌏\nتقابل‌های دو تیم در لالیگا\n🇪🇸\nرئال مادرید …",
-        "original_username": "varzesh3",
-        "original_text": "📊\n#آمار | ال‌کلاسیکو به روایت اعداد و ارقام\n🆚\nرئال مادرید و بارسلونا تاکنون در 264 مسابقه به مصاف یکدیگر رفته‌اند\n🇪🇸\nرئال مادرید - 106 برد | 447 گل\n🇪🇸\nبارسلونا - 106 برد | 438 گل\n🤝\nمساوی - 52 مسابقه\n🌏\nتقابل‌های دو تیم در لالیگا\n🇪🇸\nرئال مادرید …",
-        "original_link": "https://t.me/varzesh3/305164",
-        "post_id": 305164,
-        "message_id": 13980,
-        "message_kind": "caption",
-        "sources": [
-          "varzesh3"
-        ],
-        "created_at": "2026-10-25T17:39:19.128414+00:00"
-      },
-      {
-        "fingerprint": "957933f471619ecc411ea33ec9fb26e4a996acbe4cca53fb1f4b805c825d6f6b",
-        "media_fingerprint": "",
-        "text": "♦️\nبرنج‌های ۱۳۰ میلیاردی فاقد مجوز در داراب به مقصد نرسید\nفرمانده انتظامی داراب:\n🔹️\nماموران انتظامی مستقر در ایستگاه بازرسی قلاتویه این فرماندهی هنگام کنترل و پایش خودرو‌های عبوری، دو دستگاه کامیون کشنده را برای بازرسی تکمیلی متوقف کردند.\n🔹️\nدر بازرسی از این کامیون‌ها در مجموع ۴۹ تن برنج خارجی فاقد مجوز و مدارک گمرکی و خارج از شبکه قانونی توزیع را کشف کردند.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nبرنج‌های ۱۳۰ میلیاردی فاقد مجوز در داراب به مقصد نرسید\nفرمانده انتظامی داراب:\n🔹️\nماموران انتظامی مستقر در ایستگاه بازرسی قلاتویه این فرماندهی هنگام کنترل و پایش خودرو‌های عبوری، دو دستگاه کامیون کشنده را برای بازرسی تکمیلی متوقف کردند.\n🔹️\nدر بازرسی از این کامیون‌ها در مجموع ۴۹ تن برنج خارجی فاقد مجوز و مدارک گمرکی و خارج از شبکه قانونی توزیع را کشف کردند.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/144441",
-        "post_id": 144441,
-        "message_id": 13981,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-25T17:39:22.942420+00:00"
-      },
-      {
-        "fingerprint": "93048f5baf112f690cb5e4629a12cc03cdcc2f23279f052e9d3d22e19a17701e",
-        "media_fingerprint": "95090b649a945a0163856a7f913efa1d9b342a14b8165c574af34151b2a419ac",
-        "text": "🚕\nکورس دوم: «دربست»\nاینجا هر مسافر، یه دردسره ...\nدوشنبه ۴ آبان‌ماه، ساعت ۲۰\n🎬\n🎬\nسریال\n#تاکسی\nبه کارگردانی حسن نوری، تهیه‌کنندگی\n#مجید_صالحی\n، نویسندگی\n#سروش_صحت\nو ایمان صفایی و با مشاوره هنری\n#علی_مصفا\n، را اختصاصی در پلتفرم\n#شیدا\nببینید.\nساخت ویدیو: سینا سلیمی\n@BajeFilm",
-        "original_username": "bajefilm",
-        "original_text": "🚕\nکورس دوم: «دربست»\nاینجا هر مسافر، یه دردسره ...\nدوشنبه ۴ آبان‌ماه، ساعت ۲۰\n🎬\n🎬\nسریال\n#تاکسی\nبه کارگردانی حسن نوری، تهیه‌کنندگی\n#مجید_صالحی\n، نویسندگی\n#سروش_صحت\nو ایمان صفایی و با مشاوره هنری\n#علی_مصفا\n، را اختصاصی در پلتفرم\n#شیدا\nببینید.\nساخت ویدیو: سینا سلیمی\n@BajeFilm",
-        "original_link": "https://t.me/bajefilm/11711",
-        "post_id": 11711,
-        "message_id": 13982,
-        "message_kind": "caption",
-        "sources": [
-          "bajefilm"
-        ],
-        "created_at": "2026-10-25T17:39:30.661079+00:00"
-      },
-      {
-        "fingerprint": "328d4e4535bf18784bd2ad572b3ec542227010988eabe6c623277bfca52ca76e",
-        "media_fingerprint": "eaaf98a8ce1cd5914a1b662a2dbe1be8314f2bce8af97832c1bb202fe93723d4",
-        "text": "📊\nنظرسنجی بهترین فیلم سینمایی ۱۴۰۴\nگروه ۲\n●\nفیلم سینمایی «دایناسور»\nبه کارگردانی سید مسعود اطیابی\nبازیگران:\nپژمان جمشیدی، امیر جعفری، حامد وکیلی، نگار فروزنده، سها نیاستی، یوسف تیموری، رضا ناجی، سوسن پرور، فرزانه قاسم‌زاده\n●\nفیلم سینمایی «بی‌سر و صدا»\nبه کارگردانی مجیدرضا مصطفوی\nبازیگران:\nپیمان معادی، مهران غفوریان، هانیه توسلی، فرشته حسینی، مهدی حسینی‌نیا، مسعود کرامتی، محمد شاکری، محمد زارع، عباس ایمانی، محمود موسوی، شیرین ضابطیان، امیر جنانی\nصفر محمدی، حاتم مشمولی\n●\nفیلم سینمایی «طهران ۵۷»\nبه کارگردانی ایمان یزدی\nبازیگران:\nاحمد مهران‌فر، حامد آهنگی، آناهیتا درگاهی، مریم سعادت، سیاوش چراغی‌پور، یوسف صیادی، سعید سالمی، عین‌الله دریایی، پژمان جمشیدی\n●\nفیلم سینمایی «برای رعنا»\nبه کارگردانی ایمان یزدی\nبازیگران:\nحامد بهداد، پانته‌آ پناهی‌ها، پیام احمدی‌نیا، هدیه بازوند، نادر فلاح، سعید سالمی، امیر دژاکام، رویا وحدتی، امین اسدی، تصنیف حسینی\n🔗\nبرای شرکت در نظرسنجی همینجا کلیک کنید.\n🎬\n@BajeFilm",
-        "original_username": "bajefilm",
-        "original_text": "📊\nنظرسنجی بهترین فیلم سینمایی ۱۴۰۴\nگروه ۲\n●\nفیلم سینمایی «دایناسور»\nبه کارگردانی سید مسعود اطیابی\nبازیگران:\nپژمان جمشیدی، امیر جعفری، حامد وکیلی، نگار فروزنده، سها نیاستی، یوسف تیموری، رضا ناجی، سوسن پرور، فرزانه قاسم‌زاده\n●\nفیلم سینمایی «بی‌سر و صدا»\nبه کارگردانی مجیدرضا مصطفوی\nبازیگران:\nپیمان معادی، مهران غفوریان، هانیه توسلی، فرشته حسینی، مهدی حسینی‌نیا، مسعود کرامتی، محمد شاکری، محمد زارع، عباس ایمانی، محمود موسوی، شیرین ضابطیان، امیر جنانی\nصفر محمدی، حاتم مشمولی\n●\nفیلم سینمایی «طهران ۵۷»\nبه کارگردانی ایمان یزدی\nبازیگران:\nاحمد مهران‌فر، حامد آهنگی، آناهیتا درگاهی، مریم سعادت، سیاوش چراغی‌پور، یوسف صیادی، سعید سالمی، عین‌الله دریایی، پژمان جمشیدی\n●\nفیلم سینمایی «برای رعنا»\nبه کارگردانی ایمان یزدی\nبازیگران:\nحامد بهداد، پانته‌آ پناهی‌ها، پیام احمدی‌نیا، هدیه بازوند، نادر فلاح، سعید سالمی، امیر دژاکام، رویا وحدتی، امین اسدی، تصنیف حسینی\n🔗\nبرای شرکت در نظرسنجی همینجا کلیک کنید.\n🎬\n@BajeFilm",
-        "original_link": "https://t.me/bajefilm/11712",
-        "post_id": 11712,
-        "message_id": 13983,
-        "message_kind": "caption",
-        "sources": [
-          "bajefilm"
-        ],
-        "created_at": "2026-10-25T17:39:40.542877+00:00"
-      },
-      {
-        "fingerprint": "e5fcaa1aec42e19e8fb106486f0d9ff158fd61e38020447b0aa6c39ed5f9ad01",
-        "media_fingerprint": "df0b399f28d13ae1e09e21ef97e065222a7c23f7f537905bb04297235dccb585",
-        "text": "کندال جنر چند روز پیش تو مصاحبش:\nفقط واسه اینکه در جریان باشید فکر می‌کنم لزبین ‌بودن خیلی باحال و آسون‌تره!مردا که به درد نمی‌خورن.\n+\nحالا کندال جنر و بطری آبش\n🍆\n💦\n📷\n|\n@ShakhMovie",
-        "original_username": "shakhmovie",
-        "original_text": "کندال جنر چند روز پیش تو مصاحبش:\nفقط واسه اینکه در جریان باشید فکر می‌کنم لزبین ‌بودن خیلی باحال و آسون‌تره!مردا که به درد نمی‌خورن.\n+\nحالا کندال جنر و بطری آبش\n🍆\n💦\n📷\n|\n@ShakhMovie",
-        "original_link": "https://t.me/Shakhmovie/4275",
-        "post_id": 4275,
-        "message_id": 13985,
-        "message_kind": "caption",
-        "sources": [
-          "shakhmovie"
-        ],
-        "created_at": "2026-10-25T17:39:49.739672+00:00"
-      },
-      {
-        "fingerprint": "31560554300f98b2c2120181cb0abc3b18844b2b6731cb8616b3c1b00a65eae6",
-        "media_fingerprint": "bb9b77721f43954dc86ffa896e4e9c9b2b3e3192e7de672819652d6a5ae84943",
-        "text": "خیلی بینش خوبی داشتیم!\n🟠\nمطهری: به معنای واقعی کلمه تیم بودیم\n🔴\nچیزی از ارزش پرسپولیس کم نمی‌شود\n🔴\nبه فولاد تایم اعتقاد آوردید؟!\n🔴\nتوپ‌های بلندشان را کنترل کردیم\n🔴\nما در مالکیت تیم سوم لیگ هستیم\n🔴\nوحید امیری بی‌نظیره\n🎙\nنشست خبری پرسپولیس - فولاد\n🆔\n@varzesh3",
-        "original_username": "varzesh3",
-        "original_text": "خیلی بینش خوبی داشتیم!\n🟠\nمطهری: به معنای واقعی کلمه تیم بودیم\n🔴\nچیزی از ارزش پرسپولیس کم نمی‌شود\n🔴\nبه فولاد تایم اعتقاد آوردید؟!\n🔴\nتوپ‌های بلندشان را کنترل کردیم\n🔴\nما در مالکیت تیم سوم لیگ هستیم\n🔴\nوحید امیری بی‌نظیره\n🎙\nنشست خبری پرسپولیس - فولاد\n🆔\n@varzesh3",
-        "original_link": "https://t.me/varzesh3/305165",
-        "post_id": 305165,
-        "message_id": 13987,
-        "message_kind": "caption",
-        "sources": [
-          "varzesh3"
-        ],
-        "created_at": "2026-10-25T17:39:56.390259+00:00"
-      },
-      {
-        "fingerprint": "3d751f80118ec4d06c19d54a76370c2090098feeeb2fd1eb5be1567907009090",
-        "media_fingerprint": "aeefeca3a582d2f8795c50dbe6c3f47204e68387c7ab29ecd1afcda6e01124cf",
-        "text": "چرا هرکاری میکنم لاغر نمیشم ؟\n🤔\n🔹\nفقط کافیه به ۷ سؤال کوتاه جواب بدی تا در کمتر از دو دقیقه بفهمی چه چیزهایی، بدون اینکه تقصیر تو باشه، کاهش وزنت رو سخت‌تر کرده.\nشروع ارزیابی",
-        "original_username": "dr_salamatx",
-        "original_text": "چرا هرکاری میکنم لاغر نمیشم ؟\n🤔\n🔹\nفقط کافیه به ۷ سؤال کوتاه جواب بدی تا در کمتر از دو دقیقه بفهمی چه چیزهایی، بدون اینکه تقصیر تو باشه، کاهش وزنت رو سخت‌تر کرده.\nشروع ارزیابی",
-        "original_link": "https://t.me/Dr_SalamatX/55474",
-        "post_id": 55474,
-        "message_id": 13988,
-        "message_kind": "caption",
-        "sources": [
-          "dr_salamatx"
-        ],
-        "created_at": "2026-10-25T17:40:12.312716+00:00"
-      },
-      {
-        "fingerprint": "658e57bd5fe53089018c068a99359785e10cd82eb7fbeda18495118b5da5ff98",
-        "media_fingerprint": "",
-        "text": "🔴\nحداکثر مدت تعویق قصاص برا زن باردار چقدر است\n۲سال\n۳سال\n۱سال\n۶ ماه\nمشاهده پاسخ\n➡️",
-        "original_username": "bimaariha",
-        "original_text": "🔴\nحداکثر مدت تعویق قصاص برا زن باردار چقدر است\n۲سال\n۳سال\n۱سال\n۶ ماه\nمشاهده پاسخ\n➡️",
-        "original_link": "https://t.me/Bimaariha/19710",
-        "post_id": 19710,
-        "message_id": 13989,
-        "message_kind": "text",
-        "sources": [
-          "bimaariha"
-        ],
-        "created_at": "2026-10-25T17:40:15.805273+00:00"
-      },
-      {
-        "fingerprint": "e8ce72f4d2602b8e3371711e5fb9537ee4c43912d7139be0eb9d990ee1c0f84d",
-        "media_fingerprint": "ad070b83d70f8f2a5ff9d5f29a5a984e1a8a0284ca94e8fa14fbfbbaa01df44e",
-        "text": "✨\nفروش شماره‌های رند و خاص؛ متفاوت دیده شوید!\n✨\n📱\nمجموعه‌ای از شماره‌های خاص و خوش‌حافظه برای کسانی که به خاص بودن اهمیت می‌دهند.\n💎\nمناسب برای استفاده شخصی و کسب‌وکار\n🔥\nشماره‌های جذاب و به‌یادماندنی\n📈\nانتخابی متفاوت برای اعتبار بیشتر برند شما\nقیمت هر شماره : ۳۰۰ میلیون تومان\nتلگرام :\nT.me/rond_1000\nاینستاگرام  :\nInstagram.com/rond_1000\n⏳\nشماره خاص خودت رو انتخاب کن؛ قبل از اینکه فروخته بشه!\n#شماره_رند\n#فروش_شماره_خاص\n#شماره_موبایل\n#شماره_لاکچری\n#شماره_خاص",
-        "original_username": "fars_today",
-        "original_text": "✨\nفروش شماره‌های رند و خاص؛ متفاوت دیده شوید!\n✨\n📱\nمجموعه‌ای از شماره‌های خاص و خوش‌حافظه برای کسانی که به خاص بودن اهمیت می‌دهند.\n💎\nمناسب برای استفاده شخصی و کسب‌وکار\n🔥\nشماره‌های جذاب و به‌یادماندنی\n📈\nانتخابی متفاوت برای اعتبار بیشتر برند شما\nقیمت هر شماره : ۳۰۰ میلیون تومان\nتلگرام :\nT.me/rond_1000\nاینستاگرام  :\nInstagram.com/rond_1000\n⏳\nشماره خاص خودت رو انتخاب کن؛ قبل از اینکه فروخته بشه!\n#شماره_رند\n#فروش_شماره_خاص\n#شماره_موبایل\n#شماره_لاکچری\n#شماره_خاص",
-        "original_link": "https://t.me/Fars_today/132327",
-        "post_id": 132327,
-        "message_id": 13990,
-        "message_kind": "caption",
-        "sources": [
-          "fars_today"
-        ],
-        "created_at": "2026-10-25T17:40:20.525088+00:00"
-      },
-      {
-        "fingerprint": "ac519bc8a245961f48b4590f94fdf2bcdd0c3452859ffa9f1209044bd8b9d888",
-        "media_fingerprint": "",
-        "text": "جرم رابطه نامشروع تلفنی و  پیامکی\n📲\nمشاهده مجازات\n➡️",
-        "original_username": "bimaariha",
-        "original_text": "جرم رابطه نامشروع تلفنی و  پیامکی\n📲\nمشاهده مجازات\n➡️",
-        "original_link": "https://t.me/Bimaariha/19711",
-        "post_id": 19711,
-        "message_id": 13991,
-        "message_kind": "text",
-        "sources": [
-          "bimaariha"
-        ],
-        "created_at": "2026-10-25T17:40:23.951849+00:00"
-      },
-      {
-        "fingerprint": "67a4dbb9d2ad3c87ec11fc52136c6ab862423af0814cfc8ec90a2c024997e267",
-        "media_fingerprint": "8eb13b98e03022e9573c7fa71794ca55fbe16f535f774d9ad95458bcb920c59b",
-        "text": "جش\nن فولادی‌ها در رختکن پس از برتری مقابل پرسپولیس\n🔘\n@Navadnewstelegram",
-        "original_username": "footballvision2",
-        "original_text": "جش\nن فولادی‌ها در رختکن پس از برتری مقابل پرسپولیس\n🔘\n@Navadnewstelegram",
-        "original_link": "https://t.me/footballvision2/172906",
-        "post_id": 172906,
-        "message_id": 13992,
-        "message_kind": "text",
-        "sources": [
-          "footballvision2"
-        ],
-        "created_at": "2026-10-25T17:40:28.207517+00:00"
-      },
-      {
-        "fingerprint": "0dca3d1f6d0ed819200ead589590e61e706d69ed217278e619d87fb7f541da7f",
-        "media_fingerprint": "",
-        "text": "🫦\nمن با زن شوهردار زنا کردم حکمش چیست\n⁉️\nمشاهده پاسخ\n➡️",
-        "original_username": "bimaariha",
-        "original_text": "🫦\nمن با زن شوهردار زنا کردم حکمش چیست\n⁉️\nمشاهده پاسخ\n➡️",
-        "original_link": "https://t.me/Bimaariha/19712",
-        "post_id": 19712,
-        "message_id": 13993,
-        "message_kind": "text",
-        "sources": [
-          "bimaariha"
-        ],
-        "created_at": "2026-10-25T17:40:31.659659+00:00"
-      },
-      {
-        "fingerprint": "353cb6f772d57b78393a3a3a118c7f719004551bf977c28f2074c072bfed5588",
-        "media_fingerprint": "",
-        "text": "😀\nمجازات پنچر کردن ماشینی که جلوی درب پارکینگ پارک کرده است\nمشاهده حکم\n➡️",
-        "original_username": "bimaariha",
-        "original_text": "😀\nمجازات پنچر کردن ماشینی که جلوی درب پارکینگ پارک کرده است\nمشاهده حکم\n➡️",
-        "original_link": "https://t.me/Bimaariha/19713",
-        "post_id": 19713,
-        "message_id": 13994,
-        "message_kind": "text",
-        "sources": [
-          "bimaariha"
-        ],
-        "created_at": "2026-10-25T17:40:35.226097+00:00"
-      },
-      {
-        "fingerprint": "0f05738c2dfb8a579f762355cdb964632ac5c94be0fabb945399db9305e300a6",
-        "media_fingerprint": "fe8776426c30340f6667c37e55e3ed984fedcd2c06feb3fba2761608d68aac35",
-        "text": "شما میدونستین؟!\nخودم الان فهمیدم\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "شما میدونستین؟!\nخودم الان فهمیدم\n@irWonders",
-        "original_link": "https://t.me/irwonders/59106",
-        "post_id": 59106,
-        "message_id": 13995,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-25T17:40:41.638145+00:00"
-      },
-      {
-        "fingerprint": "3d6da1ca9085d2d88c79371c07fbb6c224888a9df41fb1329629172e217ae8c1",
-        "media_fingerprint": "5db760c1a87249aea677d62aede4188d4e6fa4bf661a582647bdf7bd60d0cd8d",
-        "text": "🆔\n@YeJoorayi",
-        "original_username": "yejoorayi",
-        "original_text": "🆔\n@YeJoorayi",
-        "original_link": "https://t.me/YeJoorayi/650",
-        "post_id": 650,
-        "message_id": 13996,
-        "message_kind": "caption",
-        "sources": [
-          "yejoorayi"
-        ],
-        "created_at": "2026-10-25T18:24:58.697584+00:00"
-      },
-      {
-        "fingerprint": "ca308051678dcc28a5481382aa9ccf036e2c1e41180cc79f096560491b3fafd0",
-        "media_fingerprint": "120dced670c474540d88783b239458b8165ad718e50cf9690989203339457b13",
-        "text": "🔴\nمحققای دانشگاه ایالتی اوهایو (آمریکا) یه ایده به اسم\nScentronic\nساختن که میشه از طریق اینترنت،\nبو\nرو هم انتقال داد؛\n▫️\nنحوه کارکردش:\nاول یه «بینی الکترونیکی» (e-nose) با چند تا سنسور گاز، مولکول‌های بو رو تشخیص میده.\nبعد هوش مصنوعی میفهمه که این بو مال چیه که فعلاً فقط روی 5تا بو آموزش دیده: قهوه\n☕️\n، کیک\n🍮\n، پرتقال\n🍊\n، آبجو\n🍻\nو شراب قرمز\n🍷\n.\nبعد فقط یه «لیبل» یا کد دیجیتال از طریق اینترنت میفرسته، خود مولکول‌های بو اصلاً منتقل نمیشن.\nدستگاه گیرنده هم (که میتونه گردنبند، مچ‌بند یا یه دستگاه دستی باشه)، مایع‌های معطرِ از قبل ذخیره‌شده داره و با اتم‌ایزرهای ریز، اسپری‌شون میکنه تا همون بو رو تو هوا پخش کنه.\nتو تست‌ها با حدود 14-16 داوطلب، مردم حدود 73 درصد مواقع بو رو درست تشخیص دادن که یعنی هنوز کامل نیست و هنوز کلی جای کار داره.\n@DrTeL\n| Science Advances",
-        "original_username": "drtel",
-        "original_text": "🔴\nمحققای دانشگاه ایالتی اوهایو (آمریکا) یه ایده به اسم\nScentronic\nساختن که میشه از طریق اینترنت،\nبو\nرو هم انتقال داد؛\n▫️\nنحوه کارکردش:\nاول یه «بینی الکترونیکی» (e-nose) با چند تا سنسور گاز، مولکول‌های بو رو تشخیص میده.\nبعد هوش مصنوعی میفهمه که این بو مال چیه که فعلاً فقط روی 5تا بو آموزش دیده: قهوه\n☕️\n، کیک\n🍮\n، پرتقال\n🍊\n، آبجو\n🍻\nو شراب قرمز\n🍷\n.\nبعد فقط یه «لیبل» یا کد دیجیتال از طریق اینترنت میفرسته، خود مولکول‌های بو اصلاً منتقل نمیشن.\nدستگاه گیرنده هم (که میتونه گردنبند، مچ‌بند یا یه دستگاه دستی باشه)، مایع‌های معطرِ از قبل ذخیره‌شده داره و با اتم‌ایزرهای ریز، اسپری‌شون میکنه تا همون بو رو تو هوا پخش کنه.\nتو تست‌ها با حدود 14-16 داوطلب، مردم حدود 73 درصد مواقع بو رو درست تشخیص دادن که یعنی هنوز کامل نیست و هنوز کلی جای کار داره.\n@DrTeL\n| Science Advances",
-        "original_link": "https://t.me/drtel/71807",
-        "post_id": 71807,
-        "message_id": 13997,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-25T18:25:03.378469+00:00"
-      },
-      {
-        "fingerprint": "eb6d396f94351ad66fc852d12e345c549888fb5558f35455206c9fa4ea86e2c5",
-        "media_fingerprint": "a8c2bb7036b8ba9fa733fd79b49834fce3a149da941077e17fbfbb5ef71ce8db",
-        "text": "🤩\n⚽\nآرای جدید کمیته انضباطی در رابطه با بازی‌های لیگ‌برتر، استقلال بازهم جریمه شد!\n⚽️\n@Hattric_Official",
-        "original_username": "hattric_official",
-        "original_text": "🤩\n⚽\nآرای جدید کمیته انضباطی در رابطه با بازی‌های لیگ‌برتر، استقلال بازهم جریمه شد!\n⚽️\n@Hattric_Official",
-        "original_link": "https://t.me/Hattric_Official/85736",
-        "post_id": 85736,
-        "message_id": 13998,
-        "message_kind": "caption",
-        "sources": [
-          "hattric_official"
-        ],
-        "created_at": "2026-10-25T18:25:25.856133+00:00"
-      },
-      {
-        "fingerprint": "c4f959c4a3859230601f22ff65d28fa44e841e7635e25fc36f8b0aef594e9d26",
-        "media_fingerprint": "5db9ec21026bb0e588e0dd4c5cfd517e2db153b17d3b34be7f1b42a5916acc42",
-        "text": "♦️\nتصاویری از دیدار دوسال قبل دست‌اندرکاران برگزاری کنگره شهدای استان فارس با رهبر شهید انقلاب\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nتصاویری از دیدار دوسال قبل دست‌اندرکاران برگزاری کنگره شهدای استان فارس با رهبر شهید انقلاب\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/144443",
-        "post_id": 144443,
-        "message_id": 14003,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-25T18:26:17.451197+00:00"
-      },
-      {
-        "fingerprint": "7d89f2eb8243d0581614462bd89f1ad8d1e8143225b9593cf8a24b44c7f5f10e",
-        "media_fingerprint": "c64f019305d708096569492e471eb3ed4b10dc46318d0f8b7ac8f9e78d226cc8",
-        "text": "تساوی مربیان تازه‌وارد در وطنی\n🔚\nطلسم نساجی با دقیقی شکسته نشد؛ فجرسپاسی با رجب‌زاده همچنان شکست‌ناپذیر است\n🔸\nلیگ برتر ایران - هفته ۱۰\n🎞\nخلاصه بازی  @Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "تساوی مربیان تازه‌وارد در وطنی\n🔚\nطلسم نساجی با دقیقی شکسته نشد؛ فجرسپاسی با رجب‌زاده همچنان شکست‌ناپذیر است\n🔸\nلیگ برتر ایران - هفته ۱۰\n🎞\nخلاصه بازی  @Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/111444",
-        "post_id": 111444,
-        "message_id": 14010,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-25T18:26:24.309411+00:00"
-      },
-      {
-        "fingerprint": "fabdf6cb1d59ddfacf4bef97b2d27d4e2a6ece7eb4bd2affd443afa03a8378ff",
-        "media_fingerprint": "fc501a4fe77f788d5e708aa226d5b92aeddfb522451fbd88b5c8a061e7cb4840",
-        "text": "این برقراری اتصال تحت هر شرایطی و توی هر موقعیتی، متناسب با شرایط اون لحظه، واقعا یک هنره.\n> درخت گردو\n@comentiat",
-        "original_username": "comentiat",
-        "original_text": "این برقراری اتصال تحت هر شرایطی و توی هر موقعیتی، متناسب با شرایط اون لحظه، واقعا یک هنره.\n> درخت گردو\n@comentiat",
-        "original_link": "https://t.me/Comentiat/26751",
-        "post_id": 26751,
-        "message_id": 14011,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-25T18:26:29.643800+00:00"
-      },
-      {
-        "fingerprint": "a0da9e578bda9ae0c815d97b5f03267de310d764e1b1ed2703ba8464e9fe3643",
-        "media_fingerprint": "fa7a72be9c6d033a6706a294701a8a69836797cea9290c403a65b9296dc03fa2",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26752",
-        "post_id": 26752,
-        "message_id": 14012,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-25T18:26:43.534578+00:00"
-      },
-      {
-        "fingerprint": "87681da622251c8d1ba413c7b2f089078a8b816dedc37a1a7bab7827af055a10",
-        "media_fingerprint": "08da16f72e6b367ceecb9bc9ecfb78231931a9aee7005e0e666590cae7fca33a",
-        "text": "‼️\n💣\n⚽️\n⚽️\nشعار هواداران بارسلونا خطاب به رئال مادریدی‌ها: جهنم شما، نوکمپ است.\n⚽️\n@Hattric_X",
-        "original_username": "hattric_official",
-        "original_text": "‼️\n💣\n⚽️\n⚽️\nشعار هواداران بارسلونا خطاب به رئال مادریدی‌ها: جهنم شما، نوکمپ است.\n⚽️\n@Hattric_X",
-        "original_link": "https://t.me/Hattric_Official/85741",
-        "post_id": 85741,
-        "message_id": 14015,
-        "message_kind": "caption",
-        "sources": [
-          "hattric_official"
-        ],
-        "created_at": "2026-10-25T18:27:04.484118+00:00"
-      },
-      {
-        "fingerprint": "e26cbdd1d40c2ca52b04454381e4facf7874aebd7a1dba45c783dfaeeda71967",
-        "media_fingerprint": "",
-        "text": "فیلترشکن قوی و رایگان میخوای؟\n😍\n🌐\nAysoo VPN\nآیسو اینجاست چون اتصال شما مهمه\n📶\n⚡️\nسرعت بالا\n🔌\nاتصال پایدار\n🌎\nمجموعه‌ای از سرورهای متنوع\n🥹\nتجربه‌ای ساده و بی‌دردسر\nآن سوی افق تنها با Aysoo\n🔮\n📱\nدانلود فیلترشکن آیسو از گوگل پلی",
-        "original_username": "ajayebe_jahann",
-        "original_text": "فیلترشکن قوی و رایگان میخوای؟\n😍\n🌐\nAysoo VPN\nآیسو اینجاست چون اتصال شما مهمه\n📶\n⚡️\nسرعت بالا\n🔌\nاتصال پایدار\n🌎\nمجموعه‌ای از سرورهای متنوع\n🥹\nتجربه‌ای ساده و بی‌دردسر\nآن سوی افق تنها با Aysoo\n🔮\n📱\nدانلود فیلترشکن آیسو از گوگل پلی",
-        "original_link": "https://t.me/Ajayebe_jahann/160236",
-        "post_id": 160236,
-        "message_id": 14016,
-        "message_kind": "text",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-25T18:27:07.939953+00:00"
-      },
-      {
-        "fingerprint": "6a058a8dd624843fee601a17bb4ca55291bc9b3bccc4b351ceb23c0ac27f0020",
-        "media_fingerprint": "",
-        "text": "",
-        "original_username": "ajayebe_jahann",
-        "original_text": "",
-        "original_link": "https://t.me/Ajayebe_jahann/160237",
-        "post_id": 160237,
-        "message_id": 14017,
-        "message_kind": "text",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-25T18:27:11.478029+00:00"
-      },
-      {
-        "fingerprint": "6d0894e51568e4609f8e0dd9cd6e6e8219976c9032f381ca039b0307b4189c8d",
-        "media_fingerprint": "86c0c302c393d0f50cb7939e05b35829906fe83b2f8299b6a3cfe9656b3587ed",
-        "text": "اختاپوس؛ نابغه‌ی عجیب دنیای زیر آب\n!\n🌊\n🐙\nمی‌دونستی اختاپوس ۳ تا قلب و خون آبی‌رنگ داره؟\n😱\n🔹\n۳ قلب: دو قلب خون رو به آبشش‌ها می‌فرستن و قلب سوم خون رو به بقیه‌ی بدن پمپاژ می‌کنه.\n🔹\nخون آبی: برخلاف انسان که خونش با کمک هموگلوبین اکسیژن حمل می‌کنه، اختاپوس پروتئینی به نام هموسیانین داره که حاوی مسه و باعث آبی بودن خونش می‌شه.\n🔹\nاستاد استتار: می‌تونه رنگ و حتی بافت پوستش رو تغییر بده تا با محیط اطرافش هماهنگ بشه.\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "اختاپوس؛ نابغه‌ی عجیب دنیای زیر آب\n!\n🌊\n🐙\nمی‌دونستی اختاپوس ۳ تا قلب و خون آبی‌رنگ داره؟\n😱\n🔹\n۳ قلب: دو قلب خون رو به آبشش‌ها می‌فرستن و قلب سوم خون رو به بقیه‌ی بدن پمپاژ می‌کنه.\n🔹\nخون آبی: برخلاف انسان که خونش با کمک هموگلوبین اکسیژن حمل می‌کنه، اختاپوس پروتئینی به نام هموسیانین داره که حاوی مسه و باعث آبی بودن خونش می‌شه.\n🔹\nاستاد استتار: می‌تونه رنگ و حتی بافت پوستش رو تغییر بده تا با محیط اطرافش هماهنگ بشه.\n@irWonders",
-        "original_link": "https://t.me/irwonders/59107",
-        "post_id": 59107,
-        "message_id": 14018,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-25T18:27:18.758382+00:00"
-      },
-      {
-        "fingerprint": "58a85af4a1c26aec96e8e611c238694133bd3bb13e361b0c80052cd1565a13fd",
-        "media_fingerprint": "690cc31913a589ab0d5a9110fd7aede185367bb693a4a1dbd21e98e971ab4715",
-        "text": "📊\n🏅\nنتایج‌وجدول‌رده‌بندی‌لیگ‌برتر درپایان هفته دهم؛\nتراکتور و سپاهان بردند. سرخابی‌ها امتیاز دادند.\n🆔\n@mazdak_hattrick",
-        "original_username": "mazdak_hattrick",
-        "original_text": "📊\n🏅\nنتایج‌وجدول‌رده‌بندی‌لیگ‌برتر درپایان هفته دهم؛\nتراکتور و سپاهان بردند. سرخابی‌ها امتیاز دادند.\n🆔\n@mazdak_hattrick",
-        "original_link": "https://t.me/mazdak_hattrick/182800",
-        "post_id": 182800,
-        "message_id": 14019,
-        "message_kind": "caption",
-        "sources": [
-          "mazdak_hattrick"
-        ],
-        "created_at": "2026-10-25T18:27:23.555331+00:00"
-      },
-      {
-        "fingerprint": "8ab1478631060f140f8450b7753643d50e1ffd3732f207189121dc0c17dc2bfc",
-        "media_fingerprint": "2e7fec37c2a43f3e30bd127c01888dedb6b6a47f6680141075a28b5f5e9ea9ec",
-        "text": "قبلا میگفتن پزشکی زوال عقل میاره الان باید گفت بلاگر شدن زوال عقل میاره\n😂\n😂\n😂\n@Dashagh",
-        "original_username": "dashagh",
-        "original_text": "قبلا میگفتن پزشکی زوال عقل میاره الان باید گفت بلاگر شدن زوال عقل میاره\n😂\n😂\n😂\n@Dashagh",
-        "original_link": "https://t.me/dashagh/48741",
-        "post_id": 48741,
-        "message_id": 14020,
-        "message_kind": "caption",
-        "sources": [
-          "dashagh"
-        ],
-        "created_at": "2026-10-25T18:27:30.500478+00:00"
-      },
-      {
-        "fingerprint": "f1f14cd282bf3572357ca97517ec13d4dfa80c09890e94b9e9f72a09a47a4b63",
-        "media_fingerprint": "",
-        "text": "♦️\nشناسایی محل نگهداری غیرمجاز گوشت قرمز در جهرم\nروابط عمومی اداره دامپزشکی شهرستان جهرم:\n🔹\nدر جریان بازرسی‌های بهداشتی بازرسان این اداره، یک محل نگهداری غیرمجاز گوشت قرمز در شهرستان شناسایی شد و گوشت قرمز غیرقابل مصرف موجود در محل، جمع‌آوری و معدوم‌سازی شد.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nشناسایی محل نگهداری غیرمجاز گوشت قرمز در جهرم\nروابط عمومی اداره دامپزشکی شهرستان جهرم:\n🔹\nدر جریان بازرسی‌های بهداشتی بازرسان این اداره، یک محل نگهداری غیرمجاز گوشت قرمز در شهرستان شناسایی شد و گوشت قرمز غیرقابل مصرف موجود در محل، جمع‌آوری و معدوم‌سازی شد.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/144451",
-        "post_id": 144451,
-        "message_id": 14021,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-25T18:27:33.959243+00:00"
-      },
-      {
-        "fingerprint": "668e63d42df3e75b47eec98860843b899cd435d7411a805070b552eda1f756b9",
-        "media_fingerprint": "e49c7158f48cf832e97bbb782631279bba2595d39112d70c8fac2fcd2d50dd5e",
-        "text": "♦️\nقاچاق ۲۹ پرنده شکاری در مسیر گرگان ـ شیراز ناکام ماند\nمدیرکل حفاظت محیط زیست گلستان:\n🔹️\n۲۹ بهله پرنده شکاری در جریان بازرسی از یک دستگاه اتوبوس مسافربری در محدوده پلیس‌راه نوکنده کشف و ضبط شد.\n🔹\nپس از کشف پرندگان، ۳ متهم پس از تشکیل پرونده برای طی مراحل قانونی به مرجع قضایی معرفی شدند و پرندگان کشف‌شده به محیط زیست تحویل داده شدند.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nقاچاق ۲۹ پرنده شکاری در مسیر گرگان ـ شیراز ناکام ماند\nمدیرکل حفاظت محیط زیست گلستان:\n🔹️\n۲۹ بهله پرنده شکاری در جریان بازرسی از یک دستگاه اتوبوس مسافربری در محدوده پلیس‌راه نوکنده کشف و ضبط شد.\n🔹\nپس از کشف پرندگان، ۳ متهم پس از تشکیل پرونده برای طی مراحل قانونی به مرجع قضایی معرفی شدند و پرندگان کشف‌شده به محیط زیست تحویل داده شدند.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/144452",
-        "post_id": 144452,
-        "message_id": 14022,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-25T18:27:38.786203+00:00"
-      },
-      {
-        "fingerprint": "698fa9fd063e31020cbfb5abc2be5b65290f3447ed869a0562b20e0b76b3bfff",
-        "media_fingerprint": "0c3561eaf3cc07ff7d9d8da31ae55c985bf96eeb91095ebf09febacd02e6e29c",
-        "text": "موقعیت:\nلوازم ارایشی رو با 40 قسط خریدی و باز میکنی\n🍔\n#Hamburger\n💎\nSpongebob | باب اسفنجی",
-        "original_username": "boob_sfangi",
-        "original_text": "موقعیت:\nلوازم ارایشی رو با 40 قسط خریدی و باز میکنی\n🍔\n#Hamburger\n💎\nSpongebob | باب اسفنجی",
-        "original_link": "https://t.me/boob_sfangi/2871",
-        "post_id": 2871,
-        "message_id": 14023,
-        "message_kind": "caption",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-25T18:27:44.811025+00:00"
-      },
-      {
-        "fingerprint": "881333c16612d0889e674ac50527d5df154e7d1632d407f2eb70675df322b5c2",
-        "media_fingerprint": "fcce7fa9b32a02289fe4e028776b278cda1311b699c544eb1d7006d05b7d2426",
-        "text": "♦️\nشب هنگام، آرامگاه کوروش بزرگ\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nشب هنگام، آرامگاه کوروش بزرگ\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/144453",
-        "post_id": 144453,
-        "message_id": 14024,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-25T18:27:51.299140+00:00"
-      },
-      {
-        "fingerprint": "7c21732da90633d16ec939d29956127fd41fd9efc30230e0c0e456db49cd505f",
-        "media_fingerprint": "c7c04a15d9dc2ca237941e2a57e4dcf19b9b9ec0a568b5d868992a50ca6c57dd",
-        "text": "فیلم Ponette 1996 از اون فیلماییه که غمش رو با تمام وجودت حس می‌کنی؛\nانقدر همه‌چی واقعیه که بعضی سکانساش واقعاً بغض میندازه تو گلو\n💔\nجالب‌تر اینکه دختر کوچولوی فیلم فقط 4 سالش بود که با بازی فوق‌العاده‌ش جایزه بهترین بازیگر زن جشنواره ونیز رو برد.\n📷\n|\n@ShakhMovie",
-        "original_username": "shakhmovie",
-        "original_text": "فیلم Ponette 1996 از اون فیلماییه که غمش رو با تمام وجودت حس می‌کنی؛\nانقدر همه‌چی واقعیه که بعضی سکانساش واقعاً بغض میندازه تو گلو\n💔\nجالب‌تر اینکه دختر کوچولوی فیلم فقط 4 سالش بود که با بازی فوق‌العاده‌ش جایزه بهترین بازیگر زن جشنواره ونیز رو برد.\n📷\n|\n@ShakhMovie",
-        "original_link": "https://t.me/Shakhmovie/4277",
-        "post_id": 4277,
-        "message_id": 14025,
-        "message_kind": "caption",
-        "sources": [
-          "shakhmovie"
-        ],
-        "created_at": "2026-10-25T18:27:58.151926+00:00"
-      },
-      {
-        "fingerprint": "5d1666dedb122cec2e8588419c61dfe6d81338e7d91d7c121d46e44a18084349",
-        "media_fingerprint": "75bd8296aedad1fd608409e0b5cdc8c196a6bd3b7cd30c528d6382fb0e337280",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26756",
-        "post_id": 26756,
-        "message_id": 14026,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-25T19:06:24.387813+00:00"
-      },
-      {
-        "fingerprint": "4d709eb1afac090a1493bcecc63aec8231efe49073fb394d211326e0dcebb986",
-        "media_fingerprint": "",
-        "text": "",
-        "original_username": "apkclub",
-        "original_text": "",
-        "original_link": "https://t.me/apkclub/73235",
-        "post_id": 73235,
-        "message_id": 14027,
-        "message_kind": "text",
-        "sources": [
-          "apkclub"
-        ],
-        "created_at": "2026-10-25T19:06:27.939890+00:00"
-      },
-      {
-        "fingerprint": "e2c3a23524327a5fb1d7844fbe15bac56f3d99ca052d771e01bd7fa4b36bbb3b",
-        "media_fingerprint": "816f863ad562b01384fd807ad10e054ce38f27d2a802c6c228d57a6c64629945",
-        "text": "🔴\nعذرخواهی سر گیف از هواداران پرسپولیس\n⏺\nمهاجم ازبک پرسپولیس که یک موقعیت تک به تک را از دست داده بود بعد از پاین بازی از هواداران پرسپولیس عذرخواهی کرد\n🆔\n@mazdak_hattrick",
-        "original_username": "mazdak_hattrick",
-        "original_text": "🔴\nعذرخواهی سر گیف از هواداران پرسپولیس\n⏺\nمهاجم ازبک پرسپولیس که یک موقعیت تک به تک را از دست داده بود بعد از پاین بازی از هواداران پرسپولیس عذرخواهی کرد\n🆔\n@mazdak_hattrick",
-        "original_link": "https://t.me/mazdak_hattrick/182801",
-        "post_id": 182801,
-        "message_id": 14028,
-        "message_kind": "caption",
-        "sources": [
-          "mazdak_hattrick"
-        ],
-        "created_at": "2026-10-25T19:06:36.556598+00:00"
-      },
-      {
-        "fingerprint": "cac0b4f823627bc8b0a6079a6be70e8e3abb3fe1b620a11e60ad475c1effe4df",
-        "media_fingerprint": "42ddb800dc3985d2f5c956362cdd1fda02a3344243f5c3e42295631db09251eb",
-        "text": "بیاید مار Nokia آوردم رکورد بزنید.\n🐍",
-        "original_username": "dashagh",
-        "original_text": "بیاید مار Nokia آوردم رکورد بزنید.\n🐍",
-        "original_link": "https://t.me/dashagh/48742",
-        "post_id": 48742,
-        "message_id": 14029,
-        "message_kind": "caption",
-        "sources": [
-          "dashagh"
-        ],
-        "created_at": "2026-10-25T19:06:42.230610+00:00"
-      },
-      {
-        "fingerprint": "7f120d2f67508073c6d36efc663ae0e538834dcca3e346bca479e069ef125d25",
-        "media_fingerprint": "",
-        "text": "",
-        "original_username": "cinematicketorg",
-        "original_text": "",
-        "original_link": "https://t.me/cinematicketorg/24447",
-        "post_id": 24447,
-        "message_id": 14030,
-        "message_kind": "text",
-        "sources": [
-          "cinematicketorg"
-        ],
-        "created_at": "2026-10-25T19:06:45.870328+00:00"
-      },
-      {
-        "fingerprint": "9929239ddbe87706df98a6660126e9dd2dacdcd46216b4f4ad9ed5a4c017f012",
-        "media_fingerprint": "939853a363efcf7ece6f4160cb84291b76efddedb500fbeb13a49aee3ea9699b",
-        "text": "تصویری کم نظیر از وقوع صاعقه در کلاچای روستای چایخانسر\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "تصویری کم نظیر از وقوع صاعقه در کلاچای روستای چایخانسر\n@irWonders",
-        "original_link": "https://t.me/irwonders/59108",
-        "post_id": 59108,
-        "message_id": 14031,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-25T19:06:54.265209+00:00"
-      },
-      {
-        "fingerprint": "9371810587501e0812b92a6d4a969e495c75dddfa0da5f1eabd5979b0c2ff92f",
-        "media_fingerprint": "a63e85d4991740e9e5a5163b1923a66f000730b453ff26578127052201723fa2",
-        "text": "سفارت ایران : میز چیده شده است مراقب آداب غذا خوردن خود باشید.\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "سفارت ایران : میز چیده شده است مراقب آداب غذا خوردن خود باشید.\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/53221",
-        "post_id": 53221,
-        "message_id": 14032,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-25T19:07:00.144989+00:00"
-      },
-      {
-        "fingerprint": "24d36ba9324c5a21177262e40c03755bf1a9b724b158929a791af4664801e94e",
-        "media_fingerprint": "3e87a50fcb4392e1c46aa57c6fd96509b666ca3a1e3d221ea808e776a0112b27",
-        "text": "ارزش ۱۰۰ هزارتومان در سال های مختلف این بار با شیرینی\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "ارزش ۱۰۰ هزارتومان در سال های مختلف این بار با شیرینی\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/53222",
-        "post_id": 53222,
-        "message_id": 14033,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-25T19:07:07.671913+00:00"
-      },
-      {
-        "fingerprint": "64e36cd44ec29698fcc1ec3668282b202935b8d2f54e9d99d9c5c76d700c75bc",
-        "media_fingerprint": "0bda737712a9b7500953e721cdaea92896275777c608d0673500eb93dfc66dd5",
-        "text": "اینترنت ایران بسیار ضعیف شده و ترافیک اینترنت بین الملل ایران در حال کاهشه...\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "اینترنت ایران بسیار ضعیف شده و ترافیک اینترنت بین الملل ایران در حال کاهشه...\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/53223",
-        "post_id": 53223,
-        "message_id": 14034,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-25T19:07:12.816975+00:00"
-      },
       {
         "fingerprint": "40ea32d5e52065d586a7a01cf15a43b2f75a7dfafbe5c1f50d759d5cabf7d79a",
         "media_fingerprint": "",
@@ -29950,7 +28794,8 @@
         "message_id": 14191,
         "message_kind": "caption",
         "sources": [
-          "ajayebe_jahann"
+          "ajayebe_jahann",
+          "irwonders"
         ],
         "created_at": "2026-10-26T15:11:30.300263+00:00"
       },
@@ -30401,7 +29246,8 @@
         "message_id": 14221,
         "message_kind": "caption",
         "sources": [
-          "drtel"
+          "drtel",
+          "fucknewsi"
         ],
         "created_at": "2026-10-26T15:14:19.618962+00:00"
       },
@@ -30721,7 +29567,8 @@
         "message_id": 14242,
         "message_kind": "caption",
         "sources": [
-          "gizmiztel"
+          "gizmiztel",
+          "razcom"
         ],
         "created_at": "2026-10-26T15:16:11.430188+00:00"
       },
@@ -30934,6 +29781,1253 @@
           "comentiat"
         ],
         "created_at": "2026-10-26T15:18:17.660912+00:00"
+      },
+      {
+        "fingerprint": "29428749c054416e226d935970a8a642f79e43063199f1bba99433749def1e5a",
+        "media_fingerprint": "f67aaf8ffdb7e9c002cd31531b2a32d312e858085b5406854773ebb02029a244",
+        "text": "دخترا کاری کردن که به عقل جن هم نمیرسید!\nساعت ۱۲ شب جفتش با یه شماره ناشناس هم‌زمان به اکساشون زنگ زدن و گوشیارو کنار هم گذاشتن اکساشونو به جون همدیگه انداختن.\n@FuckNewsi",
+        "original_username": "fucknewsi",
+        "original_text": "دخترا کاری کردن که به عقل جن هم نمیرسید!\nساعت ۱۲ شب جفتش با یه شماره ناشناس هم‌زمان به اکساشون زنگ زدن و گوشیارو کنار هم گذاشتن اکساشونو به جون همدیگه انداختن.\n@FuckNewsi",
+        "original_link": "https://t.me/FuckNewsi/13957",
+        "post_id": 13957,
+        "message_id": 14264,
+        "message_kind": "caption",
+        "sources": [
+          "fucknewsi",
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-26T16:05:15.674159+00:00"
+      },
+      {
+        "fingerprint": "d49e7d38b64c7f0e94ec921ea9b8c2a56d47a0379748779654a0162918317674",
+        "media_fingerprint": "c28b9f9982aeeed66dce7e17bf15910ba0f19e10084c4faad0f8777faf15118c",
+        "text": "سنگین ترین نشست تمام ادوار\n😂\n😂\n😂\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "سنگین ترین نشست تمام ادوار\n😂\n😂\n😂\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48759",
+        "post_id": 48759,
+        "message_id": 14265,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-26T16:05:23.728507+00:00"
+      },
+      {
+        "fingerprint": "d919a76adadf378e8a84a380c5a8735da176458d5460a2b31e70a99209f2dc82",
+        "media_fingerprint": "889464cca27c63e346cc2f7128a3a9e24c53e13c8a0e25f207d0f55b000db41c",
+        "text": "دوبله امپراتور در افسانه جومونگ و موپالمو\n😂\n😂\n😂\n😂\n😂\n😂\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "دوبله امپراتور در افسانه جومونگ و موپالمو\n😂\n😂\n😂\n😂\n😂\n😂\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/4608",
+        "post_id": 4608,
+        "message_id": 14266,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-26T16:05:31.922152+00:00"
+      },
+      {
+        "fingerprint": "8dd44ff96cac0ddc9877160568eec3b06ed47f5d9f2ad7503080ddb6623c7aad",
+        "media_fingerprint": "",
+        "text": "♦️\n#چند_خبر_کوتاه\n🔹\nکشت کلزا در بیش از هزار هکتار زمین‌های کشاورزی شهرستان زرین دشت آغاز شد.\n🔹\nنخستین عمل کاشت پروتز شنوایی در شیراز انجام شد.\n🔹\nکشاورزان در شهرستان مُهر در جنوب فارس برداشت صیفی جات را در بیش از ۵۰ هکتار مزارع کشاورزی این شهرستان آغاز کرده‌اند.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\n#چند_خبر_کوتاه\n🔹\nکشت کلزا در بیش از هزار هکتار زمین‌های کشاورزی شهرستان زرین دشت آغاز شد.\n🔹\nنخستین عمل کاشت پروتز شنوایی در شیراز انجام شد.\n🔹\nکشاورزان در شهرستان مُهر در جنوب فارس برداشت صیفی جات را در بیش از ۵۰ هکتار مزارع کشاورزی این شهرستان آغاز کرده‌اند.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144499",
+        "post_id": 144499,
+        "message_id": 14267,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-26T16:05:35.416920+00:00"
+      },
+      {
+        "fingerprint": "530b0912e6fadfcbe693cfdf0cff1a6825c2343a2654a7cbd393a276c3c9ea25",
+        "media_fingerprint": "0e3679ab77ec8942c3903a88f7b3b22e88cbcfb1b94abde03a67ddd3fc86d9f8",
+        "text": "ارزش پول تو ایران:\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "ارزش پول تو ایران:\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/4612",
+        "post_id": 4612,
+        "message_id": 14268,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-26T16:05:44.120776+00:00"
+      },
+      {
+        "fingerprint": "23090c8d09fa7fd9b448bbcbd525829a40c46df8b896962052628c15930a0abe",
+        "media_fingerprint": "d0dc2ace0933d6f207160aaee8db86aa1b5562322c852f078ca1e3fde349b77d",
+        "text": "👀\nخشکی چشم همیشه یعنی «کمبود اشک» نیست\n💧\nخشکی چشم فقط زمانی اتفاق نمی‌افتد که اشک کمی تولید شود. گاهی اشک به‌سرعت تبخیر می‌شود یا کیفیت لازم برای مرطوب نگه داشتن سطح چشم را ندارد.سوزش، احساس وجود جسم خارجی، قرمزی، حساسیت به نور و حتی تاری دید می‌توانند از علائم آن باشند. اگر این نشانه‌ها مداوم هستند، به‌جای مصرف خودسرانه طولانی‌مدت قطره‌ها بهتر است علت توسط متخصص چشم بررسی شود.\n🌐\nwww.nei.nih.gov\n#شناخت_بیماری‌ها\n#خشکی_چشم\n#سلامت_چشم\n🖥\n@Dr_SalamatX",
+        "original_username": "dr_salamatx",
+        "original_text": "👀\nخشکی چشم همیشه یعنی «کمبود اشک» نیست\n💧\nخشکی چشم فقط زمانی اتفاق نمی‌افتد که اشک کمی تولید شود. گاهی اشک به‌سرعت تبخیر می‌شود یا کیفیت لازم برای مرطوب نگه داشتن سطح چشم را ندارد.سوزش، احساس وجود جسم خارجی، قرمزی، حساسیت به نور و حتی تاری دید می‌توانند از علائم آن باشند. اگر این نشانه‌ها مداوم هستند، به‌جای مصرف خودسرانه طولانی‌مدت قطره‌ها بهتر است علت توسط متخصص چشم بررسی شود.\n🌐\nwww.nei.nih.gov\n#شناخت_بیماری‌ها\n#خشکی_چشم\n#سلامت_چشم\n🖥\n@Dr_SalamatX",
+        "original_link": "https://t.me/Dr_SalamatX/55478",
+        "post_id": 55478,
+        "message_id": 14269,
+        "message_kind": "caption",
+        "sources": [
+          "dr_salamatx"
+        ],
+        "created_at": "2026-10-26T16:05:49.829956+00:00"
+      },
+      {
+        "fingerprint": "cdd32d2fdb8c4496588e036013e93ba43c01245b89fcd8c69c69e4fa16dfbef1",
+        "media_fingerprint": "f97e647ea160bfd690c01cf6a69a292b0cb1021d97bd732864e0516f674a4914",
+        "text": "🟥\n‼️\n🔴\nکتک کاری هواداران پرسپولیس بعد باخت!\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🟥\n‼️\n🔴\nکتک کاری هواداران پرسپولیس بعد باخت!\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/236133",
+        "post_id": 236133,
+        "message_id": 14270,
+        "message_kind": "caption",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-26T16:05:57.717134+00:00"
+      },
+      {
+        "fingerprint": "a84145c3be2c76b600a531a6a44a7cb0b04b45416ed5e44d024dc42e7b374ea0",
+        "media_fingerprint": "739c7a5aa5c944d8d113b40d6134a2f545fddef664bac05ff13ddaa37e95327e",
+        "text": "رفتار درست با عابر پیاده گاو:\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "رفتار درست با عابر پیاده گاو:\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/4620",
+        "post_id": 4620,
+        "message_id": 14271,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-26T16:06:04.314959+00:00"
+      },
+      {
+        "fingerprint": "e76e361cc3cd904384e17b862a9236f1c26624d4555fd7a79c8cf1ed614b35a2",
+        "media_fingerprint": "5d63fc12f5781aef988aaa00b16b906ad3ffba9b551b227316e87006415a6db2",
+        "text": "گاز گرفتگی دماغ توسط پدرزن\n😐\nیه یارویی خونه خونواده زنش بوده\nبلافاصله بعد اینکه خوابید پدرزنش دماغشو گاز گرفت، چون به گفته خودش رفتار خوبی با دخترش نداشته\n💪\n#LarryLobster\n💎\nSpongebob | باب اسفنجی",
+        "original_username": "boob_sfangi",
+        "original_text": "گاز گرفتگی دماغ توسط پدرزن\n😐\nیه یارویی خونه خونواده زنش بوده\nبلافاصله بعد اینکه خوابید پدرزنش دماغشو گاز گرفت، چون به گفته خودش رفتار خوبی با دخترش نداشته\n💪\n#LarryLobster\n💎\nSpongebob | باب اسفنجی",
+        "original_link": "https://t.me/boob_sfangi/2894",
+        "post_id": 2894,
+        "message_id": 14272,
+        "message_kind": "caption",
+        "sources": [
+          "boob_sfangi"
+        ],
+        "created_at": "2026-10-26T16:06:09.069310+00:00"
+      },
+      {
+        "fingerprint": "0aa5c5ad1f95ed4f15010d0045707260eeef829feef850a12937a0eb1d1c1800",
+        "media_fingerprint": "85e9ded93fd27b756895a8ceba592fb3525f462e68f685339410cb925a49fcf4",
+        "text": "شما در حال دیدن گران قیمت ترین ماشین ایران هستید به قیمت ۱ همت!\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "شما در حال دیدن گران قیمت ترین ماشین ایران هستید به قیمت ۱ همت!\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/160258",
+        "post_id": 160258,
+        "message_id": 14273,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-26T16:06:17.354211+00:00"
+      },
+      {
+        "fingerprint": "370b3f7fd294703ffe11d37f39653964f31bc020dfea5ca23bb4ca1286f0cd9b",
+        "media_fingerprint": "3f892a537c863bde40d8a1fd8d6ca1670bca874a26c0e000808b6cb294ebfd07",
+        "text": "🔴\nتصاویری پشم‌ریزون از اعتراضاتِ متحدِ هزاران دانش‌آموز و دانشجو تو بلگراد - صربستان\n🇷🇸\n:  @DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nتصاویری پشم‌ریزون از اعتراضاتِ متحدِ هزاران دانش‌آموز و دانشجو تو بلگراد - صربستان\n🇷🇸\n:  @DrTeL",
+        "original_link": "https://t.me/drtel/71848",
+        "post_id": 71848,
+        "message_id": 14274,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-26T16:06:25.468811+00:00"
+      },
+      {
+        "fingerprint": "8763eb7ef3dd91171956ae30f751f7f8dbc2e1309b96d13de97fcf6f7f53da01",
+        "media_fingerprint": "4226487b1c6a70c71d102d35a6ac7e52e953d12c3ca5f401938facf64e7741f4",
+        "text": "کاراکترهای ترسناک برنامه‌های کودک قدیمی ایرانی امسال توسط خارجیا به‌عنوان یکی از ترسناک‌ترین کاستوم‌های هالووین استفاده می‌شن! یه پیج خارجی هم نوشته بچه‌هایی که این برنامه‌ها رو دیدن، حتماً دچار آسیب روانی شدن چون از تصاویر دارک‌وب هم ترسناک‌ترن :)\n@Midanesti",
+        "original_username": "midanesti",
+        "original_text": "کاراکترهای ترسناک برنامه‌های کودک قدیمی ایرانی امسال توسط خارجیا به‌عنوان یکی از ترسناک‌ترین کاستوم‌های هالووین استفاده می‌شن! یه پیج خارجی هم نوشته بچه‌هایی که این برنامه‌ها رو دیدن، حتماً دچار آسیب روانی شدن چون از تصاویر دارک‌وب هم ترسناک‌ترن :)\n@Midanesti",
+        "original_link": "https://t.me/midanesti/73358",
+        "post_id": 73358,
+        "message_id": 14275,
+        "message_kind": "caption",
+        "sources": [
+          "midanesti"
+        ],
+        "created_at": "2026-10-26T16:06:46.924711+00:00"
+      },
+      {
+        "fingerprint": "5c6191183f3d8bd5f203fe84a69706d1fac9c69ef0323477e9587428d2411e07",
+        "media_fingerprint": "a2a21980a9d8d0958d46fc289715876d85a4329097156945a8b2cd3b01378e90",
+        "text": "⁨ ⁨ ⁨ اگه سینکت گرفته و بوی بد میده انجامش بده…\n@Niazcom_ir",
+        "original_username": "niazcom_ir",
+        "original_text": "⁨ ⁨ ⁨ اگه سینکت گرفته و بوی بد میده انجامش بده…\n@Niazcom_ir",
+        "original_link": "https://t.me/niazcom_ir/61650",
+        "post_id": 61650,
+        "message_id": 14279,
+        "message_kind": "caption",
+        "sources": [
+          "niazcom_ir"
+        ],
+        "created_at": "2026-10-26T16:06:53.831622+00:00"
+      },
+      {
+        "fingerprint": "2b427707506ddb4936b71ec28dda80a0870185e95c265be76b2b0a6eac59c5e8",
+        "media_fingerprint": "e60a493959ca985450c49245db13fbcd20d4f4d16c5a46b0a4c2e3690f1b571f",
+        "text": "تا وقتی که توپر هست چرا باید برم دنبال اسکینی\n👀\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "تا وقتی که توپر هست چرا باید برم دنبال اسکینی\n👀\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/4626",
+        "post_id": 4626,
+        "message_id": 14280,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-26T16:07:01.287809+00:00"
+      },
+      {
+        "fingerprint": "4852936f0edca9bf1f74c4cdda04b0722164b05c7df0801e84e160585062efb8",
+        "media_fingerprint": "2bdeb134c5c64cca57afdd7abea580a7a84a461e2cc74393f5a9da7dd381fe63",
+        "text": "📷\nخودروهای قابل عرضه در هفدهمین دوره الویت بندی محصولات ایران خودرو\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "📷\nخودروهای قابل عرضه در هفدهمین دوره الویت بندی محصولات ایران خودرو\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23719",
+        "post_id": 23719,
+        "message_id": 14281,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-26T16:07:06.780018+00:00"
+      },
+      {
+        "fingerprint": "e309f02d8cd4cdbdef60a75cabe8cd0dfe20e1efe80e6d3f4a7e8309acf65e5a",
+        "media_fingerprint": "834f9f72be98df3464d2755d161698bbc9fc295016cf012d453cdfa246992ca6",
+        "text": "🔴\nامروز 4 آبان ماه، زادروز محمدرضا پهلویه.\n@FuckNewsi",
+        "original_username": "fucknewsi",
+        "original_text": "🔴\nامروز 4 آبان ماه، زادروز محمدرضا پهلویه.\n@FuckNewsi",
+        "original_link": "https://t.me/FuckNewsi/13958",
+        "post_id": 13958,
+        "message_id": 14282,
+        "message_kind": "caption",
+        "sources": [
+          "fucknewsi"
+        ],
+        "created_at": "2026-10-26T16:07:19.776658+00:00"
+      },
+      {
+        "fingerprint": "51e68c1a08a51bfabcaf677adfa6a92e61ecb2a6f886f76b95dae7883d9928fc",
+        "media_fingerprint": "2ef0f97370d49075c6e3c0ffdcd7efbe394f3acc0580b08bacf7032781746a9c",
+        "text": "♦️\nشکست کشتکار و چشم‌انتظاری برای برنز\n🔹\nمحمدمهدی کشتکار در یک‌چهارم وزن ۶۳ کیلوگرم مسابقات کشتی فرنگی قهرمانی جهان با نتیجه ۸ بر یک مقابل ادموند نازاریان از بلغارستان شکست خورد.\n🔹\nدر صورت صعود نازاریان به فینال، کشتکار برای کسب مدال برنز به گروه شانش مجدد…",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nشکست کشتکار و چشم‌انتظاری برای برنز\n🔹\nمحمدمهدی کشتکار در یک‌چهارم وزن ۶۳ کیلوگرم مسابقات کشتی فرنگی قهرمانی جهان با نتیجه ۸ بر یک مقابل ادموند نازاریان از بلغارستان شکست خورد.\n🔹\nدر صورت صعود نازاریان به فینال، کشتکار برای کسب مدال برنز به گروه شانش مجدد…",
+        "original_link": "https://t.me/akhbarfars/144501",
+        "post_id": 144501,
+        "message_id": 14284,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-26T16:07:26.858926+00:00"
+      },
+      {
+        "fingerprint": "37a772d5afc58d14d04377a3b81e126c4e57c22d1fdfcb9d9670fba414888ad4",
+        "media_fingerprint": "08649426bebdd00065e2dfb994983b926b3466b7990fd99b14dabeca5659e294",
+        "text": "🎥\nتوزیع روغن موتور و لاستیک با قیمت مصوب در ۳۰۰ واحد صنفی در تهران\n🔵\nمسئولان سازمان حمایت می‌گویند هدف از این کار کوتاه کردن دست واسطه‌ها و نظارت بر بازار است.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🎥\nتوزیع روغن موتور و لاستیک با قیمت مصوب در ۳۰۰ واحد صنفی در تهران\n🔵\nمسئولان سازمان حمایت می‌گویند هدف از این کار کوتاه کردن دست واسطه‌ها و نظارت بر بازار است.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23720",
+        "post_id": 23720,
+        "message_id": 14285,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-26T16:07:34.680916+00:00"
+      },
+      {
+        "fingerprint": "bf1a5d637f2d22a1608cd7a2b71d96ad189ccf4003af61522a45a992dfaa6bdc",
+        "media_fingerprint": "9ed5ebb5808de91441969a0a57e6ae61fcbd7a9040e5c959a672bf17c075ddbc",
+        "text": "🌐\nتعرفه جدید اینترنت همچنان کفاف هزینه‌ها را نمی‌دهد\n💻\nحکیم جوادی، رئیس سازمان نظام صنفی رایانه‌ای کشور بر ناکافی بودن اصلاح اخیر تعرفه‌های ارتباطی تاکید کرد./ ایلنا\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🌐\nتعرفه جدید اینترنت همچنان کفاف هزینه‌ها را نمی‌دهد\n💻\nحکیم جوادی، رئیس سازمان نظام صنفی رایانه‌ای کشور بر ناکافی بودن اصلاح اخیر تعرفه‌های ارتباطی تاکید کرد./ ایلنا\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23721",
+        "post_id": 23721,
+        "message_id": 14286,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-26T16:07:40.129338+00:00"
+      },
+      {
+        "fingerprint": "4cb0d1621afeecc19929c63509a5db49fe6126cb783a5679758c873da195336e",
+        "media_fingerprint": "c8e27d73ea73fcfb9ead06ea0a4fd58656d4ae1d13461173a2bf5b9fed64d2a9",
+        "text": "عملیات غیرممکن 8 در شیرگاه\nنقی معمولی\n❌\nنقی پرمیوم\n☑️\n📷\n|\n@ShakhMovie",
+        "original_username": "shakhmovie",
+        "original_text": "عملیات غیرممکن 8 در شیرگاه\nنقی معمولی\n❌\nنقی پرمیوم\n☑️\n📷\n|\n@ShakhMovie",
+        "original_link": "https://t.me/Shakhmovie/4279",
+        "post_id": 4279,
+        "message_id": 14287,
+        "message_kind": "caption",
+        "sources": [
+          "shakhmovie"
+        ],
+        "created_at": "2026-10-26T16:07:49.224403+00:00"
+      },
+      {
+        "fingerprint": "5888df931a02c062d9f8f76ae96fdfec2c4f59a27c4300c82775399e2d72260b",
+        "media_fingerprint": "",
+        "text": "⭕️\nمعاون رفاه وزارت کار: در آبان ماه ممکن است، یک گروه از کالابرگ حذف شوند\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "⭕️\nمعاون رفاه وزارت کار: در آبان ماه ممکن است، یک گروه از کالابرگ حذف شوند\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23722",
+        "post_id": 23722,
+        "message_id": 14288,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet",
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-26T16:07:52.706256+00:00"
+      },
+      {
+        "fingerprint": "b75eeeb075861de816767fb7d94c6ba6aacf81cf0047e3291c5f947525525265",
+        "media_fingerprint": "52b7454c158fbd410ede94a6497cd2dd3107001d170386cb5b5891c08333e3ca",
+        "text": "🔴\nظهر امروز تو خیابون آیت تو نارمک تهران، یه واحد آپارتمان منفجر شد؛\nسخنگوی آتش‌نشانی تهران اعلام کرده که این آتیش‌سوزی و انفجار بر اثر نشتی گاز اتفاق افتاده.\n+ ولی گزارش‌های تاییدنشده‌ای وجود داره این انفجار بر اثر برخورد پهپاد صورت گرفته و اهالی خیابون آیت، قبل از انفجار صدای پهپاد رو هم شنیدن.\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nظهر امروز تو خیابون آیت تو نارمک تهران، یه واحد آپارتمان منفجر شد؛\nسخنگوی آتش‌نشانی تهران اعلام کرده که این آتیش‌سوزی و انفجار بر اثر نشتی گاز اتفاق افتاده.\n+ ولی گزارش‌های تاییدنشده‌ای وجود داره این انفجار بر اثر برخورد پهپاد صورت گرفته و اهالی خیابون آیت، قبل از انفجار صدای پهپاد رو هم شنیدن.\n@DrTeL",
+        "original_link": "https://t.me/drtel/71851",
+        "post_id": 71851,
+        "message_id": 14289,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-26T16:08:22.046981+00:00"
+      },
+      {
+        "fingerprint": "8085e92544a4f0dcd95e0d88a4a85f4428274a6b59e7486459fb684dbb502019",
+        "media_fingerprint": "",
+        "text": "🚨\n🔵\nتمام بلیت‌های جایگاه اختصاص‌یافته به هواداران استقلال برای دیدار با شباب الاهلی به فروش رسید.\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🚨\n🔵\nتمام بلیت‌های جایگاه اختصاص‌یافته به هواداران استقلال برای دیدار با شباب الاهلی به فروش رسید.\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/236135",
+        "post_id": 236135,
+        "message_id": 14294,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-26T16:08:25.533734+00:00"
+      },
+      {
+        "fingerprint": "f4fe9130333bb29a433de75e328a486e3e64a4d4c8916b7f0571c163caa04676",
+        "media_fingerprint": "dcc40163dd74321c9ebcc6c0ceaaef3c475a84190ca1c0b718f3f2b238b58b56",
+        "text": "من عاشق زن داییمم؟؟دایی رفته ماموریت؟\n😂\n😂\n😂\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "من عاشق زن داییمم؟؟دایی رفته ماموریت؟\n😂\n😂\n😂\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/4634",
+        "post_id": 4634,
+        "message_id": 14295,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-26T16:08:32.598451+00:00"
+      },
+      {
+        "fingerprint": "d4e027e4d26f37a83ac5e85e0e991a33da9301880f7322e39c12a25425e602a9",
+        "media_fingerprint": "",
+        "text": "",
+        "original_username": "apkclub",
+        "original_text": "",
+        "original_link": "https://t.me/apkclub/73247",
+        "post_id": 73247,
+        "message_id": 14296,
+        "message_kind": "text",
+        "sources": [
+          "apkclub"
+        ],
+        "created_at": "2026-10-26T16:08:36.105035+00:00"
+      },
+      {
+        "fingerprint": "bdfffacf5b03d6a5fb791ac0e3e1602bda9f67fe9aefac6f91aaa88b9c5aefc2",
+        "media_fingerprint": "f54eb69d4c134978dc76fd37db32826fd745ef8772c4342b16f61b6a33165f32",
+        "text": "دانشمندان ژاپنی اولین درمان قطعی سرطان رو پیدا کردن که در این روش سلولای سرطانی رو مجبور میکنن خودشون خودشونو نابود کنن\nبه امید درمان همه بیماری های سخت و صعب العلاج\n‌‌‌‌‌‌‌‌‌‌‌\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "دانشمندان ژاپنی اولین درمان قطعی سرطان رو پیدا کردن که در این روش سلولای سرطانی رو مجبور میکنن خودشون خودشونو نابود کنن\nبه امید درمان همه بیماری های سخت و صعب العلاج\n‌‌‌‌‌‌‌‌‌‌‌\n@irWonders",
+        "original_link": "https://t.me/irwonders/59129",
+        "post_id": 59129,
+        "message_id": 14297,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-26T16:08:41.471920+00:00"
+      },
+      {
+        "fingerprint": "8dc8c31fbdcf85c6621a1dc033d25c7172971d242588816c37f87d54e9e23494",
+        "media_fingerprint": "6b1c767bf481bf88485d939654f72614aa910f750101ffcae767799ceb8022e6",
+        "text": "🚨\n🇪🇸\n#فوووووری\n؛ ژاوی اسپارت ستاره جوان بارسلونا بدلیل مصدومیت در بازی دیشب حدود ۲ ماه غایب خواهد بود\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "🚨\n🇪🇸\n#فوووووری\n؛ ژاوی اسپارت ستاره جوان بارسلونا بدلیل مصدومیت در بازی دیشب حدود ۲ ماه غایب خواهد بود\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/109725",
+        "post_id": 109725,
+        "message_id": 14298,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-26T16:08:46.826557+00:00"
+      },
+      {
+        "fingerprint": "06697e7bcac8edd08372cefb0330292a8e6b47facdca28d5e6e8a3035dd39355",
+        "media_fingerprint": "45cc34980fb1b365f9dd7fd6a6c8d8245b21e9e87aa56f85603cb2840c034eaf",
+        "text": "📸\nرونمایی از اولین تصویر مهتاب کرامتی در «چند زن دیگر»\nفیلم سینمایی «چند زن دیگر» به تهیه‌کنندگی و کارگردانی رضا کریمی، اوایل آذرماه در سینماهای کشور اکران می‌شود.\nاین فیلم اجتماعی با فضایی زنانه و روایتی معمایی، داستان زنانی را روایت می‌کند که برای نجات شیوا تلاش می‌کنند.\nکارگردان و تهیه‌کننده: رضا کریمی\nپخش: خانه فیلم\n@cinematicketorg",
+        "original_username": "cinematicketorg",
+        "original_text": "📸\nرونمایی از اولین تصویر مهتاب کرامتی در «چند زن دیگر»\nفیلم سینمایی «چند زن دیگر» به تهیه‌کنندگی و کارگردانی رضا کریمی، اوایل آذرماه در سینماهای کشور اکران می‌شود.\nاین فیلم اجتماعی با فضایی زنانه و روایتی معمایی، داستان زنانی را روایت می‌کند که برای نجات شیوا تلاش می‌کنند.\nکارگردان و تهیه‌کننده: رضا کریمی\nپخش: خانه فیلم\n@cinematicketorg",
+        "original_link": "https://t.me/cinematicketorg/24454",
+        "post_id": 24454,
+        "message_id": 14299,
+        "message_kind": "caption",
+        "sources": [
+          "cinematicketorg"
+        ],
+        "created_at": "2026-10-26T16:08:52.092568+00:00"
+      },
+      {
+        "fingerprint": "b475860838e0614c55ca2f41843295a99ebb5922d34a54a18e009f1864b67663",
+        "media_fingerprint": "4b4fdb877b74ea4dbccf6ed5e5a0caffb9cec55d5395e9f1fc01ec2d31ecf4df",
+        "text": "♦️\nعلیرضا بیرانوند راهی پادگان آباده شیراز شد\n🔹\nدروازه‌بان تیم ملی فوتبال ایران صبح امروز برای معرفی خود به یگان خدمتی‌اش به آباده رفت و پس از انجام مراحل اداری، به تمرینات فجرسپاسی اضافه می‌شود؛ اما به دلیل بسته بودن پنجره نقل‌وانتقالاتی، تا نیم‌فصل امکان…",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nعلیرضا بیرانوند راهی پادگان آباده شیراز شد\n🔹\nدروازه‌بان تیم ملی فوتبال ایران صبح امروز برای معرفی خود به یگان خدمتی‌اش به آباده رفت و پس از انجام مراحل اداری، به تمرینات فجرسپاسی اضافه می‌شود؛ اما به دلیل بسته بودن پنجره نقل‌وانتقالاتی، تا نیم‌فصل امکان…",
+        "original_link": "https://t.me/akhbarfars/144503",
+        "post_id": 144503,
+        "message_id": 14300,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-26T16:08:57.575754+00:00"
+      },
+      {
+        "fingerprint": "cec4b7b2efc6116a5a759c20711bb5e05a22da27bf88124aef9a6ad0197f322c",
+        "media_fingerprint": "bbfea2472708fd0b9e0f012a19f78ee12fb465b16f8f07a6b406b3ca45d773e0",
+        "text": "چالش تغییر لباس\n🔥\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "چالش تغییر لباس\n🔥\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/4644",
+        "post_id": 4644,
+        "message_id": 14301,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-26T16:09:04.957314+00:00"
+      },
+      {
+        "fingerprint": "7a174d4fc46e4988515851d1e20f935d4615a739b784a37cdb6bf54baf7b1ea0",
+        "media_fingerprint": "f4257de38a6de6b4aecc3c4685247d73b4a605253f8537bc0c7764c1a1930d4c",
+        "text": "💻\nآبروریزی مایکسروسافت ؛ والپیپر ویندوز در مک ساخته شده بود!\n▪️\nمایکروسافت همیشه سعی کرده سرفیس رو رقیبی جدی برای مک‌بوک معرفی کنه؛ اما حالا جزئیات جالبی از فایل‌های والپیپر ویندوز خبرساز شده!\n▪️\nرافائل ریورا، توسعه‌دهنده شناخته‌شده، با بررسی متادیتای یکی از والپیپرهای جدید Windows Insider متوجه شد که فایل موردنظر آخرین بار با نسخه مکِ Adobe Photoshop ذخیره شده بود.\n▪️\nماجرا به همین‌جا ختم نشد؛ مایکروسافت چند روز بعد نسخه‌های اصلاح‌شده فایل‌ها رو جایگزین کرد، درحالی‌که نسخه‌های اولیه همچنان در آرشیو اینترنت قابل پیدا کردن بودن.\n@RoidBest",
+        "original_username": "roidbest",
+        "original_text": "💻\nآبروریزی مایکسروسافت ؛ والپیپر ویندوز در مک ساخته شده بود!\n▪️\nمایکروسافت همیشه سعی کرده سرفیس رو رقیبی جدی برای مک‌بوک معرفی کنه؛ اما حالا جزئیات جالبی از فایل‌های والپیپر ویندوز خبرساز شده!\n▪️\nرافائل ریورا، توسعه‌دهنده شناخته‌شده، با بررسی متادیتای یکی از والپیپرهای جدید Windows Insider متوجه شد که فایل موردنظر آخرین بار با نسخه مکِ Adobe Photoshop ذخیره شده بود.\n▪️\nماجرا به همین‌جا ختم نشد؛ مایکروسافت چند روز بعد نسخه‌های اصلاح‌شده فایل‌ها رو جایگزین کرد، درحالی‌که نسخه‌های اولیه همچنان در آرشیو اینترنت قابل پیدا کردن بودن.\n@RoidBest",
+        "original_link": "https://t.me/RoidBest/21990",
+        "post_id": 21990,
+        "message_id": 14302,
+        "message_kind": "caption",
+        "sources": [
+          "roidbest"
+        ],
+        "created_at": "2026-10-26T16:09:10.232095+00:00"
+      },
+      {
+        "fingerprint": "731f031bf2b999d1fc54b0df0387e6ce6bf16634362b8e3a4492c5466a5bfe50",
+        "media_fingerprint": "8253e6f320b1305d4b1598f9c6a4f3fd7887326f8c32d858a4642c4ca7a5611b",
+        "text": "دوست دخترم وسط یه بحثی بهم گفت خفه شو و من یهو یادم اومد که «اون اهل پارتی نیست ، مشروب نمیخوره اهل دود و دم نیست از همه مهم تر رفیق صمیمی پسر نداره تازه ورزشم میکنه »\nمیدونید تهش چیکار کردم؟خفهه شدم!\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "دوست دخترم وسط یه بحثی بهم گفت خفه شو و من یهو یادم اومد که «اون اهل پارتی نیست ، مشروب نمیخوره اهل دود و دم نیست از همه مهم تر رفیق صمیمی پسر نداره تازه ورزشم میکنه »\nمیدونید تهش چیکار کردم؟خفهه شدم!\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48761",
+        "post_id": 48761,
+        "message_id": 14303,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-26T16:09:23.322499+00:00"
+      },
+      {
+        "fingerprint": "7d4875dd954683ca00e123b55b7f86063b8d0ba8ba2c2e4ee701a27e372d1d3a",
+        "media_fingerprint": "2257cd5508a81240d0af8b3c3a5fd5d1a0a8b9b3efc6e5205994f540243ee5da",
+        "text": "✅\nشرایط فروش دو مرحله‌ای جتا VS5 مدل ۲۰۲۶ را ویژه آبان‌ماه ۱۴۰۵  با قیمت قطعی\n#ماموت_خودرو",
+        "original_username": "sabtnamkh0dro",
+        "original_text": "✅\nشرایط فروش دو مرحله‌ای جتا VS5 مدل ۲۰۲۶ را ویژه آبان‌ماه ۱۴۰۵  با قیمت قطعی\n#ماموت_خودرو",
+        "original_link": "https://t.me/sabtnamkh0dro/14500",
+        "post_id": 14500,
+        "message_id": 14304,
+        "message_kind": "caption",
+        "sources": [
+          "sabtnamkh0dro"
+        ],
+        "created_at": "2026-10-26T16:09:29.061741+00:00"
+      },
+      {
+        "fingerprint": "2b10707b427cbc82ca69ab2434210edb51c8e711624ccca260505cafc1346259",
+        "media_fingerprint": "",
+        "text": "♦️\nپیام رهبر معظم انقلاب خطاب به نخبگان و مدال‌آوران علمی و ورزشی تا ساعاتی دیگر، همزمان با قرائت در رویداد «مدال‌آوران کشوردوست»، منتشر خواهد شد\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nپیام رهبر معظم انقلاب خطاب به نخبگان و مدال‌آوران علمی و ورزشی تا ساعاتی دیگر، همزمان با قرائت در رویداد «مدال‌آوران کشوردوست»، منتشر خواهد شد\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144504",
+        "post_id": 144504,
+        "message_id": 14305,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-26T16:09:32.611587+00:00"
+      },
+      {
+        "fingerprint": "6259795f5a5f13ada2e34cb7cb57ea34f7bf802e93c2e295938c4e8c0c37ce5a",
+        "media_fingerprint": "13460b40527403b31b7d935ac5ede85d9eadd123224415580c0fb443510cc361",
+        "text": "📌\nعزت الله زارعی، سخن‌گوی وزارت صمت:\nبه علت التهاب‌های ایجاد شده در بازار خودرو و براساس تصمیم دولت، مصوبه اخیر هیئت وزیران درباره محاسبه نرخ روز ارز در ارزش ‌ِارزش‌گذاری گمرکی لغو شد.",
+        "original_username": "sabtnamkh0dro",
+        "original_text": "📌\nعزت الله زارعی، سخن‌گوی وزارت صمت:\nبه علت التهاب‌های ایجاد شده در بازار خودرو و براساس تصمیم دولت، مصوبه اخیر هیئت وزیران درباره محاسبه نرخ روز ارز در ارزش ‌ِارزش‌گذاری گمرکی لغو شد.",
+        "original_link": "https://t.me/sabtnamkh0dro/14501",
+        "post_id": 14501,
+        "message_id": 14306,
+        "message_kind": "caption",
+        "sources": [
+          "sabtnamkh0dro"
+        ],
+        "created_at": "2026-10-26T16:09:40.363635+00:00"
+      },
+      {
+        "fingerprint": "558980b867c1fbb45ddac6fe5bc3401fba666fe15acfaed9198b812eab2ec322",
+        "media_fingerprint": "28aac492db3be43a0a8eb433d6b4c987629233d230259f5fe3aa2268c2b30a8d",
+        "text": "اونی که می خواست ماشین رو برای مردم ارزون کنه، تعرفه واردات خودرو برقی و هیبریدی رو ۲۵ برابر کرد!\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "اونی که می خواست ماشین رو برای مردم ارزون کنه، تعرفه واردات خودرو برقی و هیبریدی رو ۲۵ برابر کرد!\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163944",
+        "post_id": 163944,
+        "message_id": 14307,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-26T16:09:46.547886+00:00"
+      },
+      {
+        "fingerprint": "cd2c6d016285a60345ae57fa93a414b3f9c62d76fab6202429cbc62f4bae954a",
+        "media_fingerprint": "8f9faaf0a1dd98fc3cfeee33ebf62c3b885dfdebd9fe90215289c1bb61bfa8e5",
+        "text": "آپشن جدید و باحال چمدون ها :)\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "آپشن جدید و باحال چمدون ها :)\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163945",
+        "post_id": 163945,
+        "message_id": 14308,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-26T16:09:54.755418+00:00"
+      },
+      {
+        "fingerprint": "57f7a4fef5e2d9d854aa79afa534d125882a669b15c4b243a32107766679ede5",
+        "media_fingerprint": "",
+        "text": "دیشب یه دونه نارگیل خریدم شد یک میلیون\n😐\nوقتی فهمیدم پول یک ماه کالا برگ من با صبحونه یه میمون برابره کمرم شکست\n🤦🏻‍♂\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "دیشب یه دونه نارگیل خریدم شد یک میلیون\n😐\nوقتی فهمیدم پول یک ماه کالا برگ من با صبحونه یه میمون برابره کمرم شکست\n🤦🏻‍♂\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163946",
+        "post_id": 163946,
+        "message_id": 14309,
+        "message_kind": "text",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-26T16:09:58.269724+00:00"
+      },
+      {
+        "fingerprint": "203b59e84dbfdd7874ebae12a5a5cc3cb92ac417eb7e8b3d2021c42eac9e33b7",
+        "media_fingerprint": "90be8ca384cc53d27934a6c674a01d74ad9f5a388a19435662af1a3dde0d6cb4",
+        "text": "درمان سریع سردرد\n▫️\nهر زمان میگرن گرفتید، دستاتون رو در آب یخ فرو کنید و چندبار «باز و بسته» کنید،  این حرکت باعث میشه خون سرد سریع وارد مغز بشه و این شک حرارتی  میگرن رو خیلی سریع رفع میکنه دیگه از سردرد خبری نیست.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "درمان سریع سردرد\n▫️\nهر زمان میگرن گرفتید، دستاتون رو در آب یخ فرو کنید و چندبار «باز و بسته» کنید،  این حرکت باعث میشه خون سرد سریع وارد مغز بشه و این شک حرارتی  میگرن رو خیلی سریع رفع میکنه دیگه از سردرد خبری نیست.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38864",
+        "post_id": 38864,
+        "message_id": 14310,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-26T16:10:03.930189+00:00"
+      },
+      {
+        "fingerprint": "f2515febcedc946c25c5709108744a9a8792e2005a543037c8192786ea53c9df",
+        "media_fingerprint": "",
+        "text": "چند تا ترفند جالب ببینید\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "چند تا ترفند جالب ببینید\n@irWonders",
+        "original_link": "https://t.me/irwonders/59130",
+        "post_id": 59130,
+        "message_id": 14311,
+        "message_kind": "text",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-26T16:10:07.484818+00:00"
+      },
+      {
+        "fingerprint": "82a43888f40083edcef53a2f3103d64d777bbd167923241da59523d31b95d367",
+        "media_fingerprint": "68ba62434cc9f61beb48e9e93f849eb6823f3e2c68d98302296f4ade96b3a8b1",
+        "text": "بیرانوند در فرودگاه، آماده برای خدمت!\n🔴\n✈️\nاختصاصی - بامداد دوشنبه تهران را به مقصد شیراز ترک کرد\n🆔\n@varzesh3",
+        "original_username": "varzesh3",
+        "original_text": "بیرانوند در فرودگاه، آماده برای خدمت!\n🔴\n✈️\nاختصاصی - بامداد دوشنبه تهران را به مقصد شیراز ترک کرد\n🆔\n@varzesh3",
+        "original_link": "https://t.me/varzesh3/305237",
+        "post_id": 305237,
+        "message_id": 14312,
+        "message_kind": "caption",
+        "sources": [
+          "varzesh3"
+        ],
+        "created_at": "2026-10-26T16:10:12.582364+00:00"
+      },
+      {
+        "fingerprint": "b8ca8c2f4c24382d888dd8b781d86f53152ad0a61b4ddfb76ae733710119c1e8",
+        "media_fingerprint": "c03e4a3ecf9a8538015e5a76bf21fbd802b89af12c59ae395273691817b5b6fd",
+        "text": "♦️\n۸ ساعت عملیات جست‌و‌جوی مرد ۴۰ ساله در منطقه بمو شهرستان زرقان\nروابط‌عمومی جمعیت هلال‌احمر شهرستان زرقان:\n🔹️\nدر ساعت ۱۲:۳۰  یکشنبه سوم آبان‌ماه، گزارشی مبنی‌بر مفقودشدن مردی ۴۰ ساله در منطقه کوه‌های بمو به هلال‌احمر اعلام شد.\n🔹️\nنجاتگران پس از ۸ ساعت جست‌وجو و عبور از مسیرهای صعب العبور، به پیکر بی‌جان فرد دسترسی پیدا کرده و با همکاری آتش‌نشانی و نیروهای مردمی به نیروی انتظامی تحویل دادند.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\n۸ ساعت عملیات جست‌و‌جوی مرد ۴۰ ساله در منطقه بمو شهرستان زرقان\nروابط‌عمومی جمعیت هلال‌احمر شهرستان زرقان:\n🔹️\nدر ساعت ۱۲:۳۰  یکشنبه سوم آبان‌ماه، گزارشی مبنی‌بر مفقودشدن مردی ۴۰ ساله در منطقه کوه‌های بمو به هلال‌احمر اعلام شد.\n🔹️\nنجاتگران پس از ۸ ساعت جست‌وجو و عبور از مسیرهای صعب العبور، به پیکر بی‌جان فرد دسترسی پیدا کرده و با همکاری آتش‌نشانی و نیروهای مردمی به نیروی انتظامی تحویل دادند.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144505",
+        "post_id": 144505,
+        "message_id": 14313,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-26T16:10:17.919788+00:00"
+      },
+      {
+        "fingerprint": "453c5e06f99affb603a8cbb67606ac2f46fdeb30ba248b02f909e9f1f760190c",
+        "media_fingerprint": "",
+        "text": "cd3991ac-7a03-452d-87b1-6b4536514d02.pdf",
+        "original_username": "akhbar_cafenet",
+        "original_text": "cd3991ac-7a03-452d-87b1-6b4536514d02.pdf",
+        "original_link": "https://t.me/akhbar_cafenet/23724",
+        "post_id": 23724,
+        "message_id": 14314,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-26T16:10:21.423237+00:00"
+      },
+      {
+        "fingerprint": "e814a0b1225f919e94318860a79a2bd16842ac5c63b76238dc3a9a988bb18ad9",
+        "media_fingerprint": "ea82a5482aef70866e3dcc52d601aeeb4fbeeec9f27e0947dbc9b4d5de6f3d94",
+        "text": "بیرانوند به پادگان محل خدمتش در آباده رسید\n---------------------‐------\n♦️\nآخرین خبر فارس و شیراز\n●  تلگرام:\nt.me/Fars_today\n●  بله:\nble.ir/fars_online",
+        "original_username": "fars_today",
+        "original_text": "بیرانوند به پادگان محل خدمتش در آباده رسید\n---------------------‐------\n♦️\nآخرین خبر فارس و شیراز\n●  تلگرام:\nt.me/Fars_today\n●  بله:\nble.ir/fars_online",
+        "original_link": "https://t.me/Fars_today/132334",
+        "post_id": 132334,
+        "message_id": 14315,
+        "message_kind": "caption",
+        "sources": [
+          "fars_today"
+        ],
+        "created_at": "2026-10-26T16:10:32.068268+00:00"
+      },
+      {
+        "fingerprint": "3ef2444035de0afedb1805990ff61f7e3bb38f6880272279fa9490c428345930",
+        "media_fingerprint": "81d11d424a90b000366970a92237d860b4dd8d70f22c509b0b19edcf0e8e1ce4",
+        "text": "<<هیکل مورد پسند 90 درصد پسرای ایرانی>>\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "<<هیکل مورد پسند 90 درصد پسرای ایرانی>>\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/4651",
+        "post_id": 4651,
+        "message_id": 14317,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-26T16:10:39.850602+00:00"
+      },
+      {
+        "fingerprint": "112132255bda6f2645c1844ef5870eaae6896943595ea813471d55db49547c80",
+        "media_fingerprint": "70db79932472519da55b6c6240fa405bb6533387f54c3997fc90514aeea4dc75",
+        "text": "♦️\nتصویری از بیرانوند در داخل پادگان @akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nتصویری از بیرانوند در داخل پادگان @akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144507",
+        "post_id": 144507,
+        "message_id": 14318,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-26T16:10:45.188779+00:00"
+      },
+      {
+        "fingerprint": "bcaf6d505c40f59d6a0380383c13cba7bf49328cdaeaa52a0763e772de0e873f",
+        "media_fingerprint": "17627cddfc9b94db39a6e835798fba5ea7b49011194fef4060804af0513ece0c",
+        "text": "❗️\n‏امروز روز جهانی قاطره.\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "❗️\n‏امروز روز جهانی قاطره.\n@comentiat",
+        "original_link": "https://t.me/Comentiat/26772",
+        "post_id": 26772,
+        "message_id": 14319,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-26T16:10:50.460821+00:00"
+      },
+      {
+        "fingerprint": "c728dfafc5ebfe93513604bf2fba4791b74e3d44374b226f2a0d776638ac0869",
+        "media_fingerprint": "204e5d5d346b4df583e3bb9e0d27253aac453c3dbafd5fae68ba2a6fa76992b5",
+        "text": "🔴\n100 فیلمی که با پیچش‌های داستانیشون مغزتونو میگاد:\n▪️\nThe Usual Suspects\n▫️\nThe Sixth Sense\n▪️\nFight Club\n▫️\nPsycho\n▪️\nThe Empire Strikes Back\n▫️\nPlanet of the Apes\n▪️\nShutter Island\n▫️\nThe Prestige\n▪️\nSe7en\n▫️\nOldboy\n▪️\nMemento\n▫️\nInception\n▪️\nGone Girl\n▫️\nParasite\n▪️\nGet Out\n▫️\nThe Others\n▪️\nIdentity\n▫️\nPrimal Fear\n▪️\nBlack Swan\n▫️\nSplit\n▪️\nUnbreakable\n▫️\nThe Village\n▪️\nMulholland Drive\n▫️\nDonnie Darko\n▪️\nThe Crying Game\n▫️\nChinatown\n▪️\nRosemary's Baby\n▫️\nLes Diaboliques\n▪️\nVertigo\n▫️\nSoylent Green\n▪️\nThe Departed\n▫️\nGone Baby Gone\n▪️\nSleuth\n▫️\nAngel Heart\n▪️\nThe Game\n▫️\nAmerican Psycho\n▪️\nHigh Tension\n▫️\nAtonement\n▪️\nLife of Pi\n▫️\nArrival\n▪️\nInterstellar\n▫️\nLooper\n▪️\nPredestination\n▫️\n12 Monkeys\n▪️\nTotal Recall\n▫️\nThe Matrix\n▪️\nDark City\n▫️\nMoon\n▪️\nEx Machina\n▫️\nThe Cabin in the Woods\n▪️\nScream\n▫️\nFriday the 13th\n▪️\nThe Mist\n▫️\nSeven Pounds\n▪️\nHereditary\n▫️\nUs\n▪️\nJoker\n▫️\nKnives Out\n▪️\nMurder on the Orient Express\n▫️\nWitness for the Prosecution\n▪️\nThe Invisible Guest\n▫️\nMemories of Murder\n▪️\nThe Handmaiden\n▫️\nMother\n▪️\nDecision to Leave\n▫️\nLost Highway\n▪️\nEternal Sunshine of the Spotless Mind\n▫️\nNever Let Me Go\n▪️\nThe Machinist\n▫️\nJacob's Ladder\n▪️\nSecret Window\n▫️\nVanilla Sky\n▪️\nMr. Brooks\n▫️\nFlightplan\n▪️\nHide and Seek\n▫️\nFrailty\n▪️\nThe Illusionist\n▫️\nNow You See Me\n▪️\nThe Sting\n▫️\nWild Things\n▪️\nThe Wicker Man\n▫️\nCarrie\n▪️\nSaw\n▫️\nThe Skeleton Key\n▪️\nBasic Instinct\n▫️\nCitizen Kane\n▪️\nThe Third Man\n▫️\nOld\n▪️\nGlass\n▫️\nTell No One\n▪️\nBurning\n▫️\nCoherence\n▪️\nPrimer\n▫️\nTriangle\n▪️\nEnemy\n▫️\nTenet\n▪️\nA Tale of Two Sisters\n▫️\nThe Orphanage\n▪️\nSleepaway Camp\n▫️\nSide Effects\n📷\n|\n@ShakhMovie",
+        "original_username": "shakhmovie",
+        "original_text": "🔴\n100 فیلمی که با پیچش‌های داستانیشون مغزتونو میگاد:\n▪️\nThe Usual Suspects\n▫️\nThe Sixth Sense\n▪️\nFight Club\n▫️\nPsycho\n▪️\nThe Empire Strikes Back\n▫️\nPlanet of the Apes\n▪️\nShutter Island\n▫️\nThe Prestige\n▪️\nSe7en\n▫️\nOldboy\n▪️\nMemento\n▫️\nInception\n▪️\nGone Girl\n▫️\nParasite\n▪️\nGet Out\n▫️\nThe Others\n▪️\nIdentity\n▫️\nPrimal Fear\n▪️\nBlack Swan\n▫️\nSplit\n▪️\nUnbreakable\n▫️\nThe Village\n▪️\nMulholland Drive\n▫️\nDonnie Darko\n▪️\nThe Crying Game\n▫️\nChinatown\n▪️\nRosemary's Baby\n▫️\nLes Diaboliques\n▪️\nVertigo\n▫️\nSoylent Green\n▪️\nThe Departed\n▫️\nGone Baby Gone\n▪️\nSleuth\n▫️\nAngel Heart\n▪️\nThe Game\n▫️\nAmerican Psycho\n▪️\nHigh Tension\n▫️\nAtonement\n▪️\nLife of Pi\n▫️\nArrival\n▪️\nInterstellar\n▫️\nLooper\n▪️\nPredestination\n▫️\n12 Monkeys\n▪️\nTotal Recall\n▫️\nThe Matrix\n▪️\nDark City\n▫️\nMoon\n▪️\nEx Machina\n▫️\nThe Cabin in the Woods\n▪️\nScream\n▫️\nFriday the 13th\n▪️\nThe Mist\n▫️\nSeven Pounds\n▪️\nHereditary\n▫️\nUs\n▪️\nJoker\n▫️\nKnives Out\n▪️\nMurder on the Orient Express\n▫️\nWitness for the Prosecution\n▪️\nThe Invisible Guest\n▫️\nMemories of Murder\n▪️\nThe Handmaiden\n▫️\nMother\n▪️\nDecision to Leave\n▫️\nLost Highway\n▪️\nEternal Sunshine of the Spotless Mind\n▫️\nNever Let Me Go\n▪️\nThe Machinist\n▫️\nJacob's Ladder\n▪️\nSecret Window\n▫️\nVanilla Sky\n▪️\nMr. Brooks\n▫️\nFlightplan\n▪️\nHide and Seek\n▫️\nFrailty\n▪️\nThe Illusionist\n▫️\nNow You See Me\n▪️\nThe Sting\n▫️\nWild Things\n▪️\nThe Wicker Man\n▫️\nCarrie\n▪️\nSaw\n▫️\nThe Skeleton Key\n▪️\nBasic Instinct\n▫️\nCitizen Kane\n▪️\nThe Third Man\n▫️\nOld\n▪️\nGlass\n▫️\nTell No One\n▪️\nBurning\n▫️\nCoherence\n▪️\nPrimer\n▫️\nTriangle\n▪️\nEnemy\n▫️\nTenet\n▪️\nA Tale of Two Sisters\n▫️\nThe Orphanage\n▪️\nSleepaway Camp\n▫️\nSide Effects\n📷\n|\n@ShakhMovie",
+        "original_link": "https://t.me/Shakhmovie/4280",
+        "post_id": 4280,
+        "message_id": 14320,
+        "message_kind": "caption",
+        "sources": [
+          "shakhmovie"
+        ],
+        "created_at": "2026-10-26T16:11:01.544178+00:00"
+      },
+      {
+        "fingerprint": "92dba58b7e4e04e72f163bb5da24bfed460176cbe480f4a997bf6731417c1a67",
+        "media_fingerprint": "94f8b933bc5e0f156bd19d4825e20636c95d19dc0cc283d70cab9affd3e0ee3a",
+        "text": "🔴\nدولت صربستان\n🇷🇸\nسقوط کرد!\nبعد از ۱۴ سال حاکمیت الکساندر وویچ، با اعتراضات گسترده مردم بخاطر فساد و ناعدالتی، حاکمیت فعلی صربستان سقوط کرد.\nاین اعتراضات توسط دانشجویان و\nنسل Z شروع شده بود، اما توی ۵ روز اخیر، این اعتراضات گسترده‌تر شد و همه مردم به خیابون‌ها اومدن و سقوط دولت رو رقم زدن.\nدر این اعتراضات حتی یه گلوله به سمت مردم شلیک و کسی کشته نشد، به قدری اعتراضات امن بود، که مردم با رقص به خیابون‌ها میومدن، حتی خیلی از زوج‌ها عکسای عاشقانه گرفتن!\n@FuckNewsi",
+        "original_username": "fucknewsi",
+        "original_text": "🔴\nدولت صربستان\n🇷🇸\nسقوط کرد!\nبعد از ۱۴ سال حاکمیت الکساندر وویچ، با اعتراضات گسترده مردم بخاطر فساد و ناعدالتی، حاکمیت فعلی صربستان سقوط کرد.\nاین اعتراضات توسط دانشجویان و\nنسل Z شروع شده بود، اما توی ۵ روز اخیر، این اعتراضات گسترده‌تر شد و همه مردم به خیابون‌ها اومدن و سقوط دولت رو رقم زدن.\nدر این اعتراضات حتی یه گلوله به سمت مردم شلیک و کسی کشته نشد، به قدری اعتراضات امن بود، که مردم با رقص به خیابون‌ها میومدن، حتی خیلی از زوج‌ها عکسای عاشقانه گرفتن!\n@FuckNewsi",
+        "original_link": "https://t.me/FuckNewsi/13961",
+        "post_id": 13961,
+        "message_id": 14322,
+        "message_kind": "caption",
+        "sources": [
+          "fucknewsi"
+        ],
+        "created_at": "2026-10-26T16:11:06.617578+00:00"
+      },
+      {
+        "fingerprint": "cc7a6c45b059f7c26e4082869fb80aa2c8d2dd18251fe4546dff3c6624162b8c",
+        "media_fingerprint": "2d966b78e16bad51b69933360b97b74b7c1182a740c029d31f30aba03f70abe2",
+        "text": "میگن نقاط ضعف ما پسرا ایناست :)\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "میگن نقاط ضعف ما پسرا ایناست :)\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/4657",
+        "post_id": 4657,
+        "message_id": 14323,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-26T16:11:12.681228+00:00"
+      },
+      {
+        "fingerprint": "9baa26a9331a042dad35d384846c14cf2d39feec63cc1bbf34a9839cb22b121d",
+        "media_fingerprint": "7dbcb34c743b331d9f55bb5b7e332cdcfb00b01de7df76f6e44a01ff0dc2cef5",
+        "text": "👤\n‼️\nواکنش حامد لک به اشتباه ابوالفضل رزاق‌پور مقابل پرسپولیس:\nکیر تو فوتبالت!\n🆔\n@mazdak_hattrick",
+        "original_username": "mazdak_hattrick",
+        "original_text": "👤\n‼️\nواکنش حامد لک به اشتباه ابوالفضل رزاق‌پور مقابل پرسپولیس:\nکیر تو فوتبالت!\n🆔\n@mazdak_hattrick",
+        "original_link": "https://t.me/mazdak_hattrick/182824",
+        "post_id": 182824,
+        "message_id": 14324,
+        "message_kind": "caption",
+        "sources": [
+          "mazdak_hattrick"
+        ],
+        "created_at": "2026-10-26T16:11:28.974386+00:00"
+      },
+      {
+        "fingerprint": "c9701c235aa1d5b9cf482cfde421fa9429d5008a368425a6028f1be696ac0699",
+        "media_fingerprint": "f5346d6f1a10a69c7ffcf030480dec62884963a86b7337d5215d013705b55514",
+        "text": "‼️\n⚠️\n🙂\nادبیات حامد لک پس از اشتباه هم‌تیمی‌اش در بازی دیروز با پرسپولیس: ای کیر تو این فوتبالت\n🔞\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "‼️\n⚠️\n🙂\nادبیات حامد لک پس از اشتباه هم‌تیمی‌اش در بازی دیروز با پرسپولیس: ای کیر تو این فوتبالت\n🔞\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/109729",
+        "post_id": 109729,
+        "message_id": 14325,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-26T16:11:57.798453+00:00"
+      },
+      {
+        "fingerprint": "e8070805dc1e310dd75ed1982f354368eb192a965f69c0658c6b416d16e12639",
+        "media_fingerprint": "edacf9a5920f7d3b649a5aee2faee06800ec3faf8653ea1973adcc29a5b269fb",
+        "text": "پاین بری میوه شبیه به توت فرنگی با مزه آناناس!\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "پاین بری میوه شبیه به توت فرنگی با مزه آناناس!\n@irWonders",
+        "original_link": "https://t.me/irwonders/59131",
+        "post_id": 59131,
+        "message_id": 14326,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-26T16:12:03.601436+00:00"
+      },
+      {
+        "fingerprint": "8de46507a5eaf593c9dde17be4f3520792317e107e3821bd90570baca641af66",
+        "media_fingerprint": "74d46dea51145706eb49a5134c47b5387e86a350f07c1714404a878793613896",
+        "text": "علیرضا بیرانوند بلاخره رفت سربازی\n😂\n@FuckNewsi",
+        "original_username": "fucknewsi",
+        "original_text": "علیرضا بیرانوند بلاخره رفت سربازی\n😂\n@FuckNewsi",
+        "original_link": "https://t.me/FuckNewsi/13965",
+        "post_id": 13965,
+        "message_id": 14327,
+        "message_kind": "caption",
+        "sources": [
+          "fucknewsi"
+        ],
+        "created_at": "2026-10-26T16:12:14.503947+00:00"
+      },
+      {
+        "fingerprint": "730b742997c6ec2729723f244775b68b920c98fd02b8556f3ce37a15ce3fdfdf",
+        "media_fingerprint": "436436944ce7b167e67a30b6883567cc60a7529d221f4211f67dcc7ae6e7a4a4",
+        "text": "نتبجه اموزش مجازی\n🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "نتبجه اموزش مجازی\n🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/655",
+        "post_id": 655,
+        "message_id": 14329,
+        "message_kind": "caption",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-26T16:12:20.714814+00:00"
+      },
+      {
+        "fingerprint": "11bd36d6c413c8a25ad8fcf1ed381b09b96dac16baf0b69994c8160a3f29ce60",
+        "media_fingerprint": "",
+        "text": "چوچول رو باید اینطوری بشوری:\n۱. با آب ولرم بگیر بشورش حس تازگی میگیره\n۲. صابون تند و تیز نزن فقط چیزای ملایم\n۳. هر روز یه آب بهش بده\n۴. بعدش خوب خشک کن با دستمال تمیز\n۵. از دوش وازی-نال و این داستانا بیخیال شو\n۶. بعد ورزش حتماً آبکشی کن\n۷. شورت نخی بپوش عرق نمیکنه شورتت رو هر روز عوض کن\n۸. عطر و اسپری و ژل خوشبو اونجا نزن\n۱۰. بعد از دادن حتماً بشورتش تمیز شه\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "چوچول رو باید اینطوری بشوری:\n۱. با آب ولرم بگیر بشورش حس تازگی میگیره\n۲. صابون تند و تیز نزن فقط چیزای ملایم\n۳. هر روز یه آب بهش بده\n۴. بعدش خوب خشک کن با دستمال تمیز\n۵. از دوش وازی-نال و این داستانا بیخیال شو\n۶. بعد ورزش حتماً آبکشی کن\n۷. شورت نخی بپوش عرق نمیکنه شورتت رو هر روز عوض کن\n۸. عطر و اسپری و ژل خوشبو اونجا نزن\n۱۰. بعد از دادن حتماً بشورتش تمیز شه\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48762",
+        "post_id": 48762,
+        "message_id": 14330,
+        "message_kind": "text",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-26T16:12:24.265329+00:00"
+      },
+      {
+        "fingerprint": "529413f9c3500be64a258b006f30b28fc24d56352be92a6db3ec8e85854e2654",
+        "media_fingerprint": "aab48910b6ee11273fa6a22764afdbb6320799e83c7ffc2bf9c4e0979e5a839b",
+        "text": "کانیه وست چه عکسهایی گرفته از دوست دخترش\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "کانیه وست چه عکسهایی گرفته از دوست دخترش\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/4666",
+        "post_id": 4666,
+        "message_id": 14331,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-26T16:12:34.367934+00:00"
+      },
+      {
+        "fingerprint": "c983913a23cb9322b282fc5006f851ae6ef9609d910e533860de7a95bba2ea61",
+        "media_fingerprint": "2380711fd164f1d4861c73810cf36666f9e5fdc7d33f5dfc2567027afa46e6fe",
+        "text": "♦️\nتصویری از بیرانوند در لباس سربازی @akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nتصویری از بیرانوند در لباس سربازی @akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144509",
+        "post_id": 144509,
+        "message_id": 14333,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-26T16:12:39.733317+00:00"
+      },
+      {
+        "fingerprint": "2507b1a0509f4e501bb4e4497965ea4ca93da0747ef46d2e52503c1600a12a5a",
+        "media_fingerprint": "2c42d884fd013aee3baaf910637a44bf343f847e202755224aaf2dc4eb6015d3",
+        "text": "توزیع بسته های حمایتی لوازم مصرفی خودرو در سامانه جامع\nشروع طرح از ساعت ۱۰ صبح روز دوشنبه ۴ آبان ماه تا اتمام موجودی\nامکان دریافت نقدی و اقساطی\nهموطنان گرامی می‌توانند با مراجعه به سامانه رسمی ایرانکو اقلام مصرفی حمایتی خود را به نرخ مصوب با محدودیت کد‌ملی دریافت نمایند.\nwww.iranko.ir\n.",
+        "original_username": "khandehabadd",
+        "original_text": "توزیع بسته های حمایتی لوازم مصرفی خودرو در سامانه جامع\nشروع طرح از ساعت ۱۰ صبح روز دوشنبه ۴ آبان ماه تا اتمام موجودی\nامکان دریافت نقدی و اقساطی\nهموطنان گرامی می‌توانند با مراجعه به سامانه رسمی ایرانکو اقلام مصرفی حمایتی خود را به نرخ مصوب با محدودیت کد‌ملی دریافت نمایند.\nwww.iranko.ir\n.",
+        "original_link": "https://t.me/khandehabadd/307346",
+        "post_id": 307346,
+        "message_id": 14334,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-26T16:12:45.122814+00:00"
+      },
+      {
+        "fingerprint": "cfd78c2a5c618adc6ad54c7076c9b1f2423f046516c9d39cda0186cd7e506809",
+        "media_fingerprint": "",
+        "text": "🚨\n🚨\n🔴\nحسین ابرقویی و اورونوف که در بازی پرسپولیس و فولاد به علت مصدومیت غایب بودند، برای بازی با نساجی هم وضعیت نامشخصی دارند.\n🤩\n@ADAK_IR",
+        "original_username": "adak_ir_official",
+        "original_text": "🚨\n🚨\n🔴\nحسین ابرقویی و اورونوف که در بازی پرسپولیس و فولاد به علت مصدومیت غایب بودند، برای بازی با نساجی هم وضعیت نامشخصی دارند.\n🤩\n@ADAK_IR",
+        "original_link": "https://t.me/ADAK_IR_official/236139",
+        "post_id": 236139,
+        "message_id": 14335,
+        "message_kind": "text",
+        "sources": [
+          "adak_ir_official"
+        ],
+        "created_at": "2026-10-26T16:12:48.651460+00:00"
+      },
+      {
+        "fingerprint": "c809573dd2953f3aec180740a8e66fe3f43ca23b9c57ee63d97f5cad0e5de32a",
+        "media_fingerprint": "",
+        "text": "وقتی خواستگار زنگ میزنه خونه:))\n😁\n😁\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "وقتی خواستگار زنگ میزنه خونه:))\n😁\n😁\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/307348",
+        "post_id": 307348,
+        "message_id": 14336,
+        "message_kind": "text",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-26T16:12:52.239765+00:00"
+      },
+      {
+        "fingerprint": "127ac979f5e2da96e014ee026324bdd27e6f144cd4e80b0c1444462103ebe44e",
+        "media_fingerprint": "57ffc44ee972020c4d7e443c871440dc97018f05438b73728a42bbdd96bc20d9",
+        "text": "🔴\nعلیرضا کاظمی ، وزیر آموزش‌وپرورش :\nدیروز به همه‌ی مدرسه‌ها گفتیم که چهارشنبه‌های هرهفته، تجمعات شبانه مخصوص دانش‌آموزهاست.\nبخاطر اینکه چهارشنبه‌ها روز آخر درسیشونه، این تصمیم رو گرفتیم که بیان تو خیابون و عشق کنن.\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nعلیرضا کاظمی ، وزیر آموزش‌وپرورش :\nدیروز به همه‌ی مدرسه‌ها گفتیم که چهارشنبه‌های هرهفته، تجمعات شبانه مخصوص دانش‌آموزهاست.\nبخاطر اینکه چهارشنبه‌ها روز آخر درسیشونه، این تصمیم رو گرفتیم که بیان تو خیابون و عشق کنن.\n@DrTeL",
+        "original_link": "https://t.me/drtel/71859",
+        "post_id": 71859,
+        "message_id": 14337,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-26T16:13:00.923957+00:00"
+      },
+      {
+        "fingerprint": "a546d79e1da6e4962875201c0c922d985e1be2dda0eeacd5a66cb33c7d1277d4",
+        "media_fingerprint": "7b36974a5f02b54d460ce925f5c0f56adb3ed66551793b95dfde80cdfff62313",
+        "text": "‼️\n🇪🇸\n🏴󠁧󠁢󠁥󠁮󠁧󠁿\nبارسلونا آرائوخو رو قرضی رد کرد تا این مدافع این شکلی ظاهر بشه و از اون طرف جرارد مارتین براشون گل بکاره\n😂\n😐\n⚽️\n@Futball180TV",
+        "original_username": "futball180tv",
+        "original_text": "‼️\n🇪🇸\n🏴󠁧󠁢󠁥󠁮󠁧󠁿\nبارسلونا آرائوخو رو قرضی رد کرد تا این مدافع این شکلی ظاهر بشه و از اون طرف جرارد مارتین براشون گل بکاره\n😂\n😐\n⚽️\n@Futball180TV",
+        "original_link": "https://t.me/Futball180TV/109731",
+        "post_id": 109731,
+        "message_id": 14338,
+        "message_kind": "caption",
+        "sources": [
+          "futball180tv"
+        ],
+        "created_at": "2026-10-26T16:13:08.849850+00:00"
+      },
+      {
+        "fingerprint": "4fb7f4b27a8b6dee4a75887013ad382627a9506b4dac344dcbc3078daa5b6f80",
+        "media_fingerprint": "01ba399d39b11d986be204f6ebdff3bd3cf449e38d22e3789f1e9bb1cc625b8d",
+        "text": "برای بازی گلاب آدینه در «بامداد خمار»\nمجسمه‌ای خوش ساخت از یک مادر شوهر بد!\n▪️\nمادر نازنین و آبرودار «مهمان مامان» که عزا گرفته بود با «چارتا دونه تخم مرغ» چطور برای کلی مهمان ناخوانده غذا درست کند را فراموش کنید. همین طور «طوبی خانم» در «زیر پوست شهر» یا «کبوتر»، دختر سن و سال دار مجردی که نامرادی روزگار، چنان مردی از او ساخته بود که در و همسایه، «قدرت» صدایش می‌کردند. یا قبلتر از همه اینها، زن حجب و حیاییِ «آقا نصرالله».\n▪️\nهمه این شخصیتهایی که دل آدم برایشان آب می‌شد را به باد بسپارید. گلاب خانم حالا با «بامداد خمار» برگشته. چه برگشتنی! همان چند سکانس کافی بود تا آدینه، ذات بدخواه، طماع و فرصت طلب «زیور» را افشا کند.\n▪️\nموسپید کرده تئاتر، جان دادن به این  نقشهای پرجزییات باید برایش مثل آب خوردن باشد. آدینه بی شک در فصل بعدی سریال نرگس آبیار، با این زیور معرکه گیری که ساخته، خون به جگرمان خواهد کرد!\n@Cinemanovin",
+        "original_username": "cinemanovin",
+        "original_text": "برای بازی گلاب آدینه در «بامداد خمار»\nمجسمه‌ای خوش ساخت از یک مادر شوهر بد!\n▪️\nمادر نازنین و آبرودار «مهمان مامان» که عزا گرفته بود با «چارتا دونه تخم مرغ» چطور برای کلی مهمان ناخوانده غذا درست کند را فراموش کنید. همین طور «طوبی خانم» در «زیر پوست شهر» یا «کبوتر»، دختر سن و سال دار مجردی که نامرادی روزگار، چنان مردی از او ساخته بود که در و همسایه، «قدرت» صدایش می‌کردند. یا قبلتر از همه اینها، زن حجب و حیاییِ «آقا نصرالله».\n▪️\nهمه این شخصیتهایی که دل آدم برایشان آب می‌شد را به باد بسپارید. گلاب خانم حالا با «بامداد خمار» برگشته. چه برگشتنی! همان چند سکانس کافی بود تا آدینه، ذات بدخواه، طماع و فرصت طلب «زیور» را افشا کند.\n▪️\nموسپید کرده تئاتر، جان دادن به این  نقشهای پرجزییات باید برایش مثل آب خوردن باشد. آدینه بی شک در فصل بعدی سریال نرگس آبیار، با این زیور معرکه گیری که ساخته، خون به جگرمان خواهد کرد!\n@Cinemanovin",
+        "original_link": "https://t.me/CinemaNovin/7125",
+        "post_id": 7125,
+        "message_id": 14339,
+        "message_kind": "caption",
+        "sources": [
+          "cinemanovin"
+        ],
+        "created_at": "2026-10-26T16:13:14.351322+00:00"
+      },
+      {
+        "fingerprint": "5e9a54818cb5755e14b811a8160d1f7f5c4627a97ff430f038c9a3b545a8f8ab",
+        "media_fingerprint": "",
+        "text": "",
+        "original_username": "apkclub",
+        "original_text": "",
+        "original_link": "https://t.me/apkclub/73249",
+        "post_id": 73249,
+        "message_id": 14340,
+        "message_kind": "text",
+        "sources": [
+          "apkclub"
+        ],
+        "created_at": "2026-10-26T16:13:17.960792+00:00"
+      },
+      {
+        "fingerprint": "dcd6c6123008e2f314046d566922e1b111a854f71fab85e7777827b9c0b74482",
+        "media_fingerprint": "eef23032c13a8874c37517a3bcc45b4bd040b664aff84145737d6d1b0b800982",
+        "text": "تصویر جالب از درون یک یخچال\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "تصویر جالب از درون یک یخچال\n@irWonders",
+        "original_link": "https://t.me/irwonders/59132",
+        "post_id": 59132,
+        "message_id": 14341,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-26T16:13:23.831877+00:00"
+      },
+      {
+        "fingerprint": "08bddc3e1c412eec108277bb581a15048a0065341de4b9e4216b32ea25c66bb3",
+        "media_fingerprint": "014e85513cfe799f6a116b99a9078909418bc4f96c419f86bc2a29dc7e92eb80",
+        "text": "اگه زن‌ بگیریم هر روز صبح با این صحنه مواجه میشیم؟\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "اگه زن‌ بگیریم هر روز صبح با این صحنه مواجه میشیم؟\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/4672",
+        "post_id": 4672,
+        "message_id": 14342,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-26T16:13:29.979063+00:00"
+      },
+      {
+        "fingerprint": "cbf45edf495161ffb10cf26793a8bf1c99c64b16dfabef11cdb6f2661b135027",
+        "media_fingerprint": "",
+        "text": "♦️\nساعت ۱۷:۳۶ ، اذان مغرب به افق مرکز استان\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nساعت ۱۷:۳۶ ، اذان مغرب به افق مرکز استان\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144510",
+        "post_id": 144510,
+        "message_id": 14343,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-26T16:13:33.506706+00:00"
+      },
+      {
+        "fingerprint": "68476707fa898b43aa19dcd482e77790467912d35b00e90b746dc94b926a4948",
+        "media_fingerprint": "1e252e97cc42ce3769522a06d2303aee448ee7781ca1eb854802bb0ab44d36fd",
+        "text": "♦️\nدستور پخت یه حلیم بادمجون خوشمزه\nمواد لازم:\n🔹️\nیک لیوان عدس خیس خورده\n🔹️\nنصف لیوان برنج نیم دونه خیس خورده\n🔹️\n۳۰۰ گرم گوشت گوسفندی\n🔹️\nیک عدد پیاز\n🔹️\nنصف پیمانه پیاز داغ آماده\n🔹️\nیک قاشق غذا خوری سیر\n🔹️\nیک قاشق غذا خوری نعنا داغ\n🔹️\nگردو (داخل یا روی حلیم بادمجون)\n🔹️\nیک کیلو بادمجان\n🔹️\n۳ قاشق کشک\n🔹️\nنمک و فلفل و زردچوبه\n#آشپزی\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nدستور پخت یه حلیم بادمجون خوشمزه\nمواد لازم:\n🔹️\nیک لیوان عدس خیس خورده\n🔹️\nنصف لیوان برنج نیم دونه خیس خورده\n🔹️\n۳۰۰ گرم گوشت گوسفندی\n🔹️\nیک عدد پیاز\n🔹️\nنصف پیمانه پیاز داغ آماده\n🔹️\nیک قاشق غذا خوری سیر\n🔹️\nیک قاشق غذا خوری نعنا داغ\n🔹️\nگردو (داخل یا روی حلیم بادمجون)\n🔹️\nیک کیلو بادمجان\n🔹️\n۳ قاشق کشک\n🔹️\nنمک و فلفل و زردچوبه\n#آشپزی\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144511",
+        "post_id": 144511,
+        "message_id": 14344,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-26T16:13:43.125512+00:00"
+      },
+      {
+        "fingerprint": "0c366c91d75624cbda3e796d4eaf556e8e0f369478eaee44f8b76412f424ee1b",
+        "media_fingerprint": "",
+        "text": "‏امیدوارم در نهایت متوجه بشم\nهیچ‌چیز آنقدر که نگرانش بودم،\nنگران کننده نبود...\n@media_aramesh",
+        "original_username": "media_aramesh",
+        "original_text": "‏امیدوارم در نهایت متوجه بشم\nهیچ‌چیز آنقدر که نگرانش بودم،\nنگران کننده نبود...\n@media_aramesh",
+        "original_link": "https://t.me/media_aramesh/113078",
+        "post_id": 113078,
+        "message_id": 14345,
+        "message_kind": "text",
+        "sources": [
+          "media_aramesh"
+        ],
+        "created_at": "2026-10-26T16:13:46.637887+00:00"
+      },
+      {
+        "fingerprint": "dc3f6c175795b6325d4ca41fd52ec5f1246c587c2e1818178accaed1f50119f9",
+        "media_fingerprint": "3f37e0e398e786eb524337bd558b09a547176e0287368bd1cf4b6cf390a5c4dd",
+        "text": "پشمامممم\n😂\n😂\n😂\n😂\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "پشمامممم\n😂\n😂\n😂\n😂\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48763",
+        "post_id": 48763,
+        "message_id": 14346,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-26T16:13:54.049731+00:00"
+      },
+      {
+        "fingerprint": "7f570fecb79adabdbf56940cfdaeca75789c302dd6ff52635ea451474226630a",
+        "media_fingerprint": "eb9c699e9fec63c18a3f4a462d5a83bf6779fb103113f3c3dfa6c61dde1e8d2d",
+        "text": "یه آدم کنجکاوی از این دوشیزه مکرمه پرسیده «صورتیه؟».\n+ و حالا جواب غیر‌منتظره دوشیزه رو ببینیم:\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "یه آدم کنجکاوی از این دوشیزه مکرمه پرسیده «صورتیه؟».\n+ و حالا جواب غیر‌منتظره دوشیزه رو ببینیم:\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/4677",
+        "post_id": 4677,
+        "message_id": 14347,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-26T16:14:01.520625+00:00"
+      },
+      {
+        "fingerprint": "73bec3a2f8dee4e7507ef304d271c10ef185362b1685df3a15e02137d54a97a4",
+        "media_fingerprint": "1ab4a665b1e8ddbc74c0a304c19682a569b6dd704ed7831b7a7df338e7fb4c67",
+        "text": "🚨\nرسمی: گاریدو روی نیمکت تیم یونانی\n🔸\nخوان کارلوس گاریدو، سرمربی سابق پرسپولیس هدایت تیم وولوس در سوپرلیگ یونان را برعهده گرفت.\n🔸\nپس از الاتحاد لیبی و اوران الجزایر، این سومین تجربه گاریدو از زمان ترک پرسپولیس است.\n@Ft360_ir",
+        "original_username": "ft360_ir",
+        "original_text": "🚨\nرسمی: گاریدو روی نیمکت تیم یونانی\n🔸\nخوان کارلوس گاریدو، سرمربی سابق پرسپولیس هدایت تیم وولوس در سوپرلیگ یونان را برعهده گرفت.\n🔸\nپس از الاتحاد لیبی و اوران الجزایر، این سومین تجربه گاریدو از زمان ترک پرسپولیس است.\n@Ft360_ir",
+        "original_link": "https://t.me/ft360_ir/111524",
+        "post_id": 111524,
+        "message_id": 14348,
+        "message_kind": "caption",
+        "sources": [
+          "ft360_ir"
+        ],
+        "created_at": "2026-10-26T16:14:07.060902+00:00"
+      },
+      {
+        "fingerprint": "d7b9e9dace6f19f8ae525504e54d5bce2ecf2827f13f2375c98c6d0aa25d35fb",
+        "media_fingerprint": "e31f32ec584b25705bddfa163497ee213dbc40327bf1fb17ab2cfa8277c0daf9",
+        "text": "بازی با روحو روان ( خطر واسه اهالی فوت فتیش )\n🔞\n@peach_tweet",
+        "original_username": "peach_tweet",
+        "original_text": "بازی با روحو روان ( خطر واسه اهالی فوت فتیش )\n🔞\n@peach_tweet",
+        "original_link": "https://t.me/peach_tweet/4684",
+        "post_id": 4684,
+        "message_id": 14349,
+        "message_kind": "text",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-26T16:14:11.715673+00:00"
+      },
+      {
+        "fingerprint": "8faf40f9540707e51981dbbf316b52e0e310b946351d5f2d05e5c5166d5ae091",
+        "media_fingerprint": "8b8b8bdd208bc4676620ad153e831f06cd15986fb57fb968c62116e99fb432ca",
+        "text": "موتور یک کشتی قدیمی در ژاپن‌‌‌‌‌‌‌‌‌‌‌\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "موتور یک کشتی قدیمی در ژاپن‌‌‌‌‌‌‌‌‌‌‌\n@irWonders",
+        "original_link": "https://t.me/irwonders/59133",
+        "post_id": 59133,
+        "message_id": 14350,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-26T16:14:17.133657+00:00"
+      },
+      {
+        "fingerprint": "d9dd1df7384c72b4fc15c07ab4722345b2bd59bc3610f24ad7a3cf5e7d419292",
+        "media_fingerprint": "",
+        "text": "🔑\n🌻\nزندگی خود را با زندگی دیگران\nمقایسه نکنید؛\n🌸\nهیچ مقایسه ای مابین ماه و خورشید\nوجود ندارد؛\nهر کدام در زمان خود،\nمی درخشد...\n💜\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
+        "original_username": "ghandeharipoet",
+        "original_text": "🔑\n🌻\nزندگی خود را با زندگی دیگران\nمقایسه نکنید؛\n🌸\nهیچ مقایسه ای مابین ماه و خورشید\nوجود ندارد؛\nهر کدام در زمان خود،\nمی درخشد...\n💜\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
+        "original_link": "https://t.me/Ghandeharipoet/42862",
+        "post_id": 42862,
+        "message_id": 14351,
+        "message_kind": "text",
+        "sources": [
+          "ghandeharipoet"
+        ],
+        "created_at": "2026-10-26T16:14:20.690331+00:00"
+      },
+      {
+        "fingerprint": "9e34da516e03066d72fecff365f0362ad2b734a3d519b62e12af0ac0557d8069",
+        "media_fingerprint": "",
+        "text": "انتشار نتايج نهايي کنکور كارداني دانشگاه ملي مهارت و موسسات آموزش عالي غيردولتي - غيرانتفاعي سال 1405:\nhttps://srv3.sanjesh.org/p_krn/index.php/krn_Fani_1405_Resmhr/Result_Final/krn",
+        "original_username": "amozesh_cafenet",
+        "original_text": "انتشار نتايج نهايي کنکور كارداني دانشگاه ملي مهارت و موسسات آموزش عالي غيردولتي - غيرانتفاعي سال 1405:\nhttps://srv3.sanjesh.org/p_krn/index.php/krn_Fani_1405_Resmhr/Result_Final/krn",
+        "original_link": "https://t.me/amozesh_cafenet/3211",
+        "post_id": 3211,
+        "message_id": 14352,
+        "message_kind": "text",
+        "sources": [
+          "amozesh_cafenet"
+        ],
+        "created_at": "2026-10-26T16:14:24.186429+00:00"
+      },
+      {
+        "fingerprint": "f1c6043329b9b379ba635226010ece50115e18459bd1110784863b490fa8fea6",
+        "media_fingerprint": "048d8d25cc8bdf7d91aec1bc3e7fee68e24a5a9ea398f6e288a78f9dda856e30",
+        "text": "یه مدت مد شده بود خیلیا میگفتن ۲۱ گرم وزن روحه که بعد از مرگ کم میشه و رفتن تتوش کردن\nحالا تازگیا فهمیدن اون ۲۱ گرم باد رودست که بعد از مرگ تخلیه میشه\n😑\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
+        "original_username": "boob_sfangi",
+        "original_text": "یه مدت مد شده بود خیلیا میگفتن ۲۱ گرم وزن روحه که بعد از مرگ کم میشه و رفتن تتوش کردن\nحالا تازگیا فهمیدن اون ۲۱ گرم باد رودست که بعد از مرگ تخلیه میشه\n😑\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
+        "original_link": "https://t.me/boob_sfangi/2896",
+        "post_id": 2896,
+        "message_id": 14353,
+        "message_kind": "caption",
+        "sources": [
+          "boob_sfangi"
+        ],
+        "created_at": "2026-10-26T16:14:29.024530+00:00"
+      },
+      {
+        "fingerprint": "50aff45b954b75fad68866dfa1de249a0362a911d05dedd42f89d8b8daa2c2aa",
+        "media_fingerprint": "",
+        "text": "🚨\nالان اقدام کن، ۸ ماه دیگه هلند باش!\n▪️\nآمار صدور ویزا: ۹۹ درصد\n▪️\nرتبه ۱\nکیفیت زندگی\n▪️\nاجازه کار\nدانشجویی\n▪️\nتحصیل به\nزبان انگلیسی\n▪️\nسفر به کشور‌های\nحوزه شنگن\n▪️\nامکان مهاجرت\nبا\nهمراه\n▪️\nتحصیل رایگان\nفرزند\n▪️\nتمکن\n۲۴ ساعته\n@adabvisa\n🟡\nحداقل بودجه مورد نیاز: ۲۰ هزار یورو\n🔸\nبرای ارزیابی شرایط تحصیل در هلند و  دریافت مشاوره رایگان، از طریق لینک زیر اقدام کنید\n👇🏻\nمشاوره رایگان",
+        "original_username": "media_aramesh",
+        "original_text": "🚨\nالان اقدام کن، ۸ ماه دیگه هلند باش!\n▪️\nآمار صدور ویزا: ۹۹ درصد\n▪️\nرتبه ۱\nکیفیت زندگی\n▪️\nاجازه کار\nدانشجویی\n▪️\nتحصیل به\nزبان انگلیسی\n▪️\nسفر به کشور‌های\nحوزه شنگن\n▪️\nامکان مهاجرت\nبا\nهمراه\n▪️\nتحصیل رایگان\nفرزند\n▪️\nتمکن\n۲۴ ساعته\n@adabvisa\n🟡\nحداقل بودجه مورد نیاز: ۲۰ هزار یورو\n🔸\nبرای ارزیابی شرایط تحصیل در هلند و  دریافت مشاوره رایگان، از طریق لینک زیر اقدام کنید\n👇🏻\nمشاوره رایگان",
+        "original_link": "https://t.me/media_aramesh/113079",
+        "post_id": 113079,
+        "message_id": 14354,
+        "message_kind": "text",
+        "sources": [
+          "media_aramesh"
+        ],
+        "created_at": "2026-10-26T16:14:32.589358+00:00"
+      },
+      {
+        "fingerprint": "25016816c3708a909ae3e749f89d8a3e54e706fe6db076667a7e6839ff7d65c8",
+        "media_fingerprint": "b2c8a14954461a83b6f5986c90967cbf2121c273531a70875da90be51b7c3030",
+        "text": "تعریف کردن این دختر خانوم از معلمش خیلی وایرال شده\n@FuckNewsi",
+        "original_username": "fucknewsi",
+        "original_text": "تعریف کردن این دختر خانوم از معلمش خیلی وایرال شده\n@FuckNewsi",
+        "original_link": "https://t.me/FuckNewsi/13969",
+        "post_id": 13969,
+        "message_id": 14355,
+        "message_kind": "caption",
+        "sources": [
+          "fucknewsi"
+        ],
+        "created_at": "2026-10-26T16:14:40.962776+00:00"
+      },
+      {
+        "fingerprint": "a7cfd0d5fddad7a6f4781ebcd6e13d57ecf00bb457822d7fd81c13da7dfeb2c3",
+        "media_fingerprint": "3d2de9b78edf33843e64b330592bb30f6559a510e7c987e21a7ead508769211f",
+        "text": "دریاچه که در هانگژو چین هست بخاطر رنگ سبزش به دریاچه ی ماچا معروف هست\n🌿\n✨\n..\n⁩⁩\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "دریاچه که در هانگژو چین هست بخاطر رنگ سبزش به دریاچه ی ماچا معروف هست\n🌿\n✨\n..\n⁩⁩\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/160261",
+        "post_id": 160261,
+        "message_id": 14356,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-26T16:14:49.304001+00:00"
+      },
+      {
+        "fingerprint": "fd964f97bd31bc717f9e660349648adeb4d297ba58af6a48a75c8c2eb1fb0751",
+        "media_fingerprint": "40c209e7899f64784fed9b352e41012955898b92487d6a5659f808e4b3e27a52",
+        "text": "♦️\nپزشکیان عازم مسکو شد\n🔹\nرئیس جمهور دقایقی قبل به منظور شرکت در اجلاس صادر کنندگان کار راهی مسکو پایتخت روسیه شد.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nپزشکیان عازم مسکو شد\n🔹\nرئیس جمهور دقایقی قبل به منظور شرکت در اجلاس صادر کنندگان کار راهی مسکو پایتخت روسیه شد.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144514",
+        "post_id": 144514,
+        "message_id": 14357,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-26T16:14:54.482467+00:00"
+      },
+      {
+        "fingerprint": "e12a0e9d2927724610a3b7f375988f1919fc18a5d1e406820c4cf84a1b4006e0",
+        "media_fingerprint": "12d5dade2ab82fe9460cb7347bcfbe674f4aacd8d3baafae1382666a72abbc95",
+        "text": "نشست چهارجانبه ایران، پاکستان، ترکیه، عربستان درباره امنیت و ثبات منطقه‌ای به میزبانی تهران\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "نشست چهارجانبه ایران، پاکستان، ترکیه، عربستان درباره امنیت و ثبات منطقه‌ای به میزبانی تهران\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163948",
+        "post_id": 163948,
+        "message_id": 14358,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-26T16:15:01.565225+00:00"
       }
     ]
   }
