@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 144460,
+      "last_id": 144462,
       "processed_ids": [
-        143168,
-        143170,
         143171,
         143172,
         143174,
@@ -1002,9 +1000,11 @@
         144457,
         144458,
         144459,
-        144460
+        144460,
+        144461,
+        144462
       ],
-      "sent_count": 1268,
+      "sent_count": 1270,
       "failed": {}
     },
     "total_fut": {
@@ -2015,9 +2015,8 @@
       "failed": {}
     },
     "footballvision2": {
-      "last_id": 172985,
+      "last_id": 172986,
       "processed_ids": [
-        171093,
         171094,
         171095,
         171096,
@@ -3016,7 +3015,8 @@
         172982,
         172983,
         172984,
-        172985
+        172985,
+        172986
       ],
       "sent_count": 219,
       "failed": {}
@@ -6046,9 +6046,8 @@
       "failed": {}
     },
     "akhbar_cafenet": {
-      "last_id": 23697,
+      "last_id": 23698,
       "processed_ids": [
-        22587,
         22588,
         22589,
         22590,
@@ -7047,7 +7046,8 @@
         23694,
         23695,
         23696,
-        23697
+        23697,
+        23698
       ],
       "sent_count": 566,
       "failed": {}
@@ -7786,7 +7786,7 @@
       "failed": {}
     },
     "majalepezeshki": {
-      "last_id": 38859,
+      "last_id": 38860,
       "processed_ids": [
         38432,
         38433,
@@ -8204,21 +8204,15 @@
         38856,
         38857,
         38858,
-        38859
+        38859,
+        38860
       ],
       "sent_count": 241,
       "failed": {}
     },
     "gizmiztel": {
-      "last_id": 163903,
+      "last_id": 163911,
       "processed_ids": [
-        162668,
-        162669,
-        162670,
-        162671,
-        162672,
-        162673,
-        162674,
         162675,
         162676,
         162678,
@@ -9211,9 +9205,16 @@
         163900,
         163901,
         163902,
-        163903
+        163903,
+        163905,
+        163906,
+        163907,
+        163908,
+        163909,
+        163910,
+        163911
       ],
-      "sent_count": 1137,
+      "sent_count": 1142,
       "failed": {}
     },
     "dr_salamatx": {
@@ -9425,7 +9426,7 @@
       "failed": {}
     },
     "jaleb": {
-      "last_id": 53226,
+      "last_id": 53228,
       "processed_ids": [
         52261,
         52262,
@@ -10250,15 +10251,16 @@
         53223,
         53224,
         53225,
-        53226
+        53226,
+        53227,
+        53228
       ],
-      "sent_count": 403,
+      "sent_count": 404,
       "failed": {}
     },
     "ajayebe_jahann": {
-      "last_id": 160245,
+      "last_id": 160246,
       "processed_ids": [
-        159178,
         159179,
         159180,
         159181,
@@ -11257,9 +11259,10 @@
         160242,
         160243,
         160244,
-        160245
+        160245,
+        160246
       ],
-      "sent_count": 458,
+      "sent_count": 459,
       "failed": {}
     },
     "etelaate_omoomi": {
@@ -12486,9 +12489,8 @@
       "failed": {}
     },
     "varzesh3": {
-      "last_id": 305196,
+      "last_id": 305197,
       "processed_ids": [
-        303746,
         303747,
         303748,
         303749,
@@ -13487,7 +13489,8 @@
         305192,
         305193,
         305194,
-        305196
+        305196,
+        305197
       ],
       "sent_count": 173,
       "failed": {}
@@ -14500,9 +14503,8 @@
       "failed": {}
     },
     "adak_ir_official": {
-      "last_id": 236109,
+      "last_id": 236110,
       "processed_ids": [
-        234942,
         234943,
         234944,
         234945,
@@ -15501,15 +15503,15 @@
         236106,
         236107,
         236108,
-        236109
+        236109,
+        236110
       ],
       "sent_count": 318,
       "failed": {}
     },
     "futball180tv": {
-      "last_id": 109699,
+      "last_id": 109700,
       "processed_ids": [
-        108372,
         108373,
         108374,
         108375,
@@ -16508,7 +16510,8 @@
         109696,
         109697,
         109698,
-        109699
+        109699,
+        109700
       ],
       "sent_count": 181,
       "failed": {}
@@ -22253,7 +22256,7 @@
       "failed": {}
     },
     "yejoorayi": {
-      "last_id": 651,
+      "last_id": 652,
       "processed_ids": [
         426,
         427,
@@ -22462,9 +22465,10 @@
         648,
         649,
         650,
-        651
+        651,
+        652
       ],
-      "sent_count": 192,
+      "sent_count": 193,
       "failed": {}
     },
     "onlinecofe_ir": {
@@ -23913,7 +23917,7 @@
       "failed": {}
     },
     "persiana_pluss": {
-      "last_id": 7118,
+      "last_id": 7120,
       "processed_ids": [
         6113,
         6114,
@@ -24723,7 +24727,9 @@
         7114,
         7116,
         7117,
-        7118
+        7118,
+        7119,
+        7120
       ],
       "sent_count": 19,
       "failed": {}
@@ -26271,184 +26277,20 @@
       "failed": {}
     },
     "media_aramesh": {
-      "last_id": 113074,
+      "last_id": 113075,
       "processed_ids": [
         113071,
         113072,
         113073,
-        113074
+        113074,
+        113075
       ],
-      "sent_count": 2,
+      "sent_count": 3,
       "failed": {}
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "75cac64a1d8c85764b7476de73e9c830c9b5789bf6749aa8caf8f607c9709339",
-        "media_fingerprint": "dd28a04b0a581531a56131bacae97995322cad0c3032a83c4777b392a7e439c0",
-        "text": "💻\nPoweramp Music Player\n🔝\nV3-1034\n⭐️\nنسخه پریمیوم بهترین و قوی ترین پخش موزیک\n🔖\nویژگی‌های برنامه:\n🔵\n10 باند اکولایزر برای همه ی فرمت ها\n🔵\nباس جداگانه و تنظیمات برای میزان صدای زیر و بم\n🔵\nدانلود کاور آلبوم ها\n🔵\nویرایش تگ آهنگ ها\n🔵\nدارا بودن  4 نوع ویجت برای هوم اسکرین\n🔵\nقفل صفحه اختصاصی هنگام پخش\n📱\nبرای دانلود فایل بر روی (\nدانــلود\n)  کلیک کنید.\n🌟\n@APKCLUB",
-        "original_username": "apkclub",
-        "original_text": "💻\nPoweramp Music Player\n🔝\nV3-1034\n⭐️\nنسخه پریمیوم بهترین و قوی ترین پخش موزیک\n🔖\nویژگی‌های برنامه:\n🔵\n10 باند اکولایزر برای همه ی فرمت ها\n🔵\nباس جداگانه و تنظیمات برای میزان صدای زیر و بم\n🔵\nدانلود کاور آلبوم ها\n🔵\nویرایش تگ آهنگ ها\n🔵\nدارا بودن  4 نوع ویجت برای هوم اسکرین\n🔵\nقفل صفحه اختصاصی هنگام پخش\n📱\nبرای دانلود فایل بر روی (\nدانــلود\n)  کلیک کنید.\n🌟\n@APKCLUB",
-        "original_link": "https://t.me/apkclub/73228",
-        "post_id": 73228,
-        "message_id": 13826,
-        "message_kind": "caption",
-        "sources": [
-          "apkclub"
-        ],
-        "created_at": "2026-10-25T14:20:32.626294+00:00"
-      },
-      {
-        "fingerprint": "35fa028ff7335e5cee0d12c7aaf9494a50459dd4bb9e1ca0d7bf490d37684dc8",
-        "media_fingerprint": "c20ac8898245e7d60da81d7dd3770d7fccfe2d02a1dbb1c5ef27db895df295e3",
-        "text": "دیدی دلشوره هام بیجا نبودن\n😏\n#Squidward\n💎\nSpongebob | باب اسفنجی",
-        "original_username": "boob_sfangi",
-        "original_text": "دیدی دلشوره هام بیجا نبودن\n😏\n#Squidward\n💎\nSpongebob | باب اسفنجی",
-        "original_link": "https://t.me/boob_sfangi/2861",
-        "post_id": 2861,
-        "message_id": 13827,
-        "message_kind": "caption",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-25T14:20:37.415693+00:00"
-      },
-      {
-        "fingerprint": "f45c351dbb0a2155e8e04f88fc84188914fa86e8dcbf85ddfccb92f7ac80d109",
-        "media_fingerprint": "00dd5e68434fe61d28c8a2d7655a44f87037d0de074fbbbe39de46454f464fb9",
-        "text": "موقعیت خوب پورعلی\n🔸\nپرسپولیس ۰-۰ فولاد\n🔸\n🔴\nدقیقه ۳۳  @Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "موقعیت خوب پورعلی\n🔸\nپرسپولیس ۰-۰ فولاد\n🔸\n🔴\nدقیقه ۳۳  @Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/111372",
-        "post_id": 111372,
-        "message_id": 13828,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-25T14:20:44.357690+00:00"
-      },
-      {
-        "fingerprint": "393430e913f663543c555074d148a0da32bf97e20419b2b7b07edcf68ca0d91d",
-        "media_fingerprint": "fe4b0dd2f4592665bd694f9ee0f183e094cfe15670e3dbfcfc61b6edf5c9c90b",
-        "text": "🔴\nماهواره های فضایی به چه دردی میخورن؟\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "🔴\nماهواره های فضایی به چه دردی میخورن؟\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/160229",
-        "post_id": 160229,
-        "message_id": 13829,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-25T14:20:50.829868+00:00"
-      },
-      {
-        "fingerprint": "69bdbb5175e1bf97ec97259d001373fcc17e9931230f8b39193d6599a1a46ad7",
-        "media_fingerprint": "",
-        "text": "♦️\nساعت ۱۷:۳۷ ، اذان مغرب به افق مرکز استان\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nساعت ۱۷:۳۷ ، اذان مغرب به افق مرکز استان\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/144426",
-        "post_id": 144426,
-        "message_id": 13830,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-25T14:20:54.219863+00:00"
-      },
-      {
-        "fingerprint": "400d0ecb948b20c30ad86f767d336dc7e4522d279ef9952a1efca9de7385d8d4",
-        "media_fingerprint": "1d718f2382cbaa0c755478f4046627a3d2e1877e04ebf946714767bc0fde2971",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26748",
-        "post_id": 26748,
-        "message_id": 13831,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-25T14:20:58.604928+00:00"
-      },
-      {
-        "fingerprint": "5b7e21c15644f28f9b5e8225b5db453eb17594fe84eb26e29ff0b1aad7f1e686",
-        "media_fingerprint": "",
-        "text": "فوتبال پرسپولیس رو قطع میکنن که کشتی نشون بدن\nبعد کشتی رو قطع کردن رفتن اذان\nبعد اگه فوتبال باشه و وقت اذان باشه، زیر نویس میکنن\n🤣\n🤣\n🤣\nخدا شاهده دیوونه خونست\n🆔\n@footballvision2",
-        "original_username": "footballvision2",
-        "original_text": "فوتبال پرسپولیس رو قطع میکنن که کشتی نشون بدن\nبعد کشتی رو قطع کردن رفتن اذان\nبعد اگه فوتبال باشه و وقت اذان باشه، زیر نویس میکنن\n🤣\n🤣\n🤣\nخدا شاهده دیوونه خونست\n🆔\n@footballvision2",
-        "original_link": "https://t.me/footballvision2/172857",
-        "post_id": 172857,
-        "message_id": 13832,
-        "message_kind": "text",
-        "sources": [
-          "footballvision2"
-        ],
-        "created_at": "2026-10-25T14:21:01.989173+00:00"
-      },
-      {
-        "fingerprint": "1fd15eec16beb6db70e7daf1e6b99ff084e1460ba58dbed563d01e36ae1801ca",
-        "media_fingerprint": "",
-        "text": "♦️\nواکنش قالیباف به اعلام نامزدی دیپلمات اماراتی برای دبیرکلی سازمان ملل: روباه، کاندیدای نگهبانی از مرغ‌ها می‌شود!\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nواکنش قالیباف به اعلام نامزدی دیپلمات اماراتی برای دبیرکلی سازمان ملل: روباه، کاندیدای نگهبانی از مرغ‌ها می‌شود!\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/144427",
-        "post_id": 144427,
-        "message_id": 13833,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-25T14:21:05.441503+00:00"
-      },
-      {
-        "fingerprint": "c8be826effb7e716cfca1bd9c6312281832c1c97f7073d6099ba0094b459d267",
-        "media_fingerprint": "b148d65455a52ff2b6b380cb97a52a0cd1081be50b59a4bf45a8c10245f382ec",
-        "text": "من عاشق زن داییمم؟؟؟دایی رفته ماموریت؟\n😂\n😂\n😂\n@Dashagh",
-        "original_username": "dashagh",
-        "original_text": "من عاشق زن داییمم؟؟؟دایی رفته ماموریت؟\n😂\n😂\n😂\n@Dashagh",
-        "original_link": "https://t.me/dashagh/48736",
-        "post_id": 48736,
-        "message_id": 13834,
-        "message_kind": "caption",
-        "sources": [
-          "dashagh"
-        ],
-        "created_at": "2026-10-25T14:21:12.070679+00:00"
-      },
-      {
-        "fingerprint": "be853b41fda1552882136a01e13c0cc209de88b54f242becc7f078b4ad55de1a",
-        "media_fingerprint": "",
-        "text": "♦️\nنیمه اول بازی فجر سپاسی و نساجی ۱-۱ به اتمام رسید\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nنیمه اول بازی فجر سپاسی و نساجی ۱-۱ به اتمام رسید\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/144428",
-        "post_id": 144428,
-        "message_id": 13835,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-25T14:21:15.586787+00:00"
-      },
-      {
-        "fingerprint": "ca4b5f7b71ff95bc0363aaef7038442822acb58e3a1ede86acd85f6d89643058",
-        "media_fingerprint": "",
-        "text": "افزایش قیمت یکسال گذشته خودرو وحشتناکه\nپژو ۲۰۷ آبان پارسال ۱۳۰۰ الان ۴۷۵۰ (۳.۵ برابر)\nتارا ۱۳۰۰ الان ۴۳۵۰\nکوییک ۵۸۸ الان ۱۸۰۰\nساینا ۶۴۵ الان ۱۷۸۰\nرانا ۸۲۰ الان ۲۶۰۰\nتیگو ۸ ۳۹۰۰ الان۱۲۴۸۰\nلوکانو ۸ ۴۶۱۰ الان ۱۴۵۵۰ ( ۱۰ میلیارد افزایش  )\nرسپکت ۱۸۱۰ الان ۶۱۹۰\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "افزایش قیمت یکسال گذشته خودرو وحشتناکه\nپژو ۲۰۷ آبان پارسال ۱۳۰۰ الان ۴۷۵۰ (۳.۵ برابر)\nتارا ۱۳۰۰ الان ۴۳۵۰\nکوییک ۵۸۸ الان ۱۸۰۰\nساینا ۶۴۵ الان ۱۷۸۰\nرانا ۸۲۰ الان ۲۶۰۰\nتیگو ۸ ۳۹۰۰ الان۱۲۴۸۰\nلوکانو ۸ ۴۶۱۰ الان ۱۴۵۵۰ ( ۱۰ میلیارد افزایش  )\nرسپکت ۱۸۱۰ الان ۶۱۹۰\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163868",
-        "post_id": 163868,
-        "message_id": 13836,
-        "message_kind": "text",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-25T14:21:19.015069+00:00"
-      },
       {
         "fingerprint": "d070c6dbca937216a14176a7342dedbdecbc9a88e8626829504f875578eb760f",
         "media_fingerprint": "d4bb987a7235d5bb14bf86f4cdcd2518f3109eedd3a51e47a0f153adf8705a1e",
@@ -29411,7 +29253,8 @@
         "message_id": 14050,
         "message_kind": "caption",
         "sources": [
-          "gizmiztel"
+          "gizmiztel",
+          "jaleb"
         ],
         "created_at": "2026-10-25T19:42:02.015784+00:00"
       },
@@ -30795,6 +30638,171 @@
           "comentiat"
         ],
         "created_at": "2026-10-26T00:28:53.031720+00:00"
+      },
+      {
+        "fingerprint": "fbbd254bb30f6af6689245c9998d83d6d99cd14a07377acb60ec2554dde35145",
+        "media_fingerprint": "e04ad4de2685f41f11b6046e14d2686730b0620fac799f47f18511296861d097",
+        "text": "بستنی با طعم پیاز، جدیدترین نوع بستنی که به بازار اومده!\n+یعنی بعد از خوردنش دهنمون بوی پیاز میده؟\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "بستنی با طعم پیاز، جدیدترین نوع بستنی که به بازار اومده!\n+یعنی بعد از خوردنش دهنمون بوی پیاز میده؟\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163905",
+        "post_id": 163905,
+        "message_id": 14147,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-26T05:01:49.767383+00:00"
+      },
+      {
+        "fingerprint": "b0c189654beafd79c6ef5aaf7f6e74ce00e7bb28917b37ad4edb359faa0683e0",
+        "media_fingerprint": "69faad9d04f23e02f5216ef5e1af2a6a68985d5d3f0215b3ead8e031997f3d8b",
+        "text": "دیروز تو روستای قوام‌آباد استان فارس، یه نیسان با خرس برخورد می‌کنه و باعث میشه حیوون بیچاره از شب تا صبح درد بکشه و در نهایت تلف بشه\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "دیروز تو روستای قوام‌آباد استان فارس، یه نیسان با خرس برخورد می‌کنه و باعث میشه حیوون بیچاره از شب تا صبح درد بکشه و در نهایت تلف بشه\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163906",
+        "post_id": 163906,
+        "message_id": 14148,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-26T05:01:58.104994+00:00"
+      },
+      {
+        "fingerprint": "19ab8146176548ac374557678769f1216f9919fb5747071d02753d069c9ee5a0",
+        "media_fingerprint": "2b915753af3b01683342ca6fbc881c6d186baef7c8e9af6a22e022fbc9fbfb05",
+        "text": "وضعیت خوابگاه‌های دانشجویی خیلی خیطه\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "وضعیت خوابگاه‌های دانشجویی خیلی خیطه\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163907",
+        "post_id": 163907,
+        "message_id": 14149,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-26T05:02:03.512494+00:00"
+      },
+      {
+        "fingerprint": "a4ebaf4b1fe0b1cfb8af929ea5ca27978c3de05815cd01f72aa8fb418b1e5a53",
+        "media_fingerprint": "46e360af74dd43dda631fd7bef56873a1da4dde82587912f2054668e2941565a",
+        "text": "پهپاد انتحاری جدید ایران معروف به قاتل هوابرد\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "پهپاد انتحاری جدید ایران معروف به قاتل هوابرد\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163908",
+        "post_id": 163908,
+        "message_id": 14150,
+        "message_kind": "text",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-26T05:02:08.095874+00:00"
+      },
+      {
+        "fingerprint": "3963e80a757fff066229f4c417851544633518e63bfdc0a68d741691bb5c1d21",
+        "media_fingerprint": "",
+        "text": "با اختلاف بهتربن چیزی بود که این چندوقت اخیر دیدم!\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "با اختلاف بهتربن چیزی بود که این چندوقت اخیر دیدم!\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163909",
+        "post_id": 163909,
+        "message_id": 14151,
+        "message_kind": "text",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-26T05:02:11.626738+00:00"
+      },
+      {
+        "fingerprint": "02919bef71097b57626d90d6ad6b47b1016f5805f0fd74d30bc7ce4943278100",
+        "media_fingerprint": "8e03a2cf84a9ce13b454a5e7e7a54cb0e138e2cecfb68749892aefed82e283d8",
+        "text": "هر روز خود را آغاز کنید با:\nبِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\n🔹\nبا خواندن دعای عهد و چند دقیقه گفتگو روزانه با امام زمان (عج)، پیمان همراهی و خدمتگزاری‌مان را تازه کنیم.\n#صبح_نو\nامروز دوشنبه\n۴ آبان ماه\n۱۵ جمادی الاول ۱۴۴۸\n۲۶ اکتبر ۲۰۲۶\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "هر روز خود را آغاز کنید با:\nبِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\n🔹\nبا خواندن دعای عهد و چند دقیقه گفتگو روزانه با امام زمان (عج)، پیمان همراهی و خدمتگزاری‌مان را تازه کنیم.\n#صبح_نو\nامروز دوشنبه\n۴ آبان ماه\n۱۵ جمادی الاول ۱۴۴۸\n۲۶ اکتبر ۲۰۲۶\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144461",
+        "post_id": 144461,
+        "message_id": 14152,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-26T05:02:17.387410+00:00"
+      },
+      {
+        "fingerprint": "1712305163a788c02b97e4ca03095fcadefee7bc17d2c7173d9686ae29b8c9be",
+        "media_fingerprint": "ed5cbdcdc58725c9d9251ac410676c3172dc4048d314a99ef35afb238bcb3e3d",
+        "text": "شاه نشین میدان نقش جهان\n♥️\n⁩\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "شاه نشین میدان نقش جهان\n♥️\n⁩\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/160246",
+        "post_id": 160246,
+        "message_id": 14153,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-26T05:02:26.143474+00:00"
+      },
+      {
+        "fingerprint": "19b84c3206dc5b527c8678601753ea4406935dd499aff9830af3d5880c6ec5db",
+        "media_fingerprint": "dfb1669fa97cd6e53ee9fffe4823002cd3922a4d5e0883679af89809ec6751a4",
+        "text": "🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/652",
+        "post_id": 652,
+        "message_id": 14154,
+        "message_kind": "caption",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-26T05:02:31.450227+00:00"
+      },
+      {
+        "fingerprint": "3f5551454704fee49e49a74a84f695d3a6e4cfb25e394a398cdc44316e0b84a2",
+        "media_fingerprint": "1c67c68288b83b56b6b947cade31dd7fe067fc0a9a1900acb7a79ddf062e6a36",
+        "text": "زندگی را آرام قدم بزن.\nنه براى رسيدن به پايان ، بلكه براى ديدن زيبايى هايى که در مسیر\nبى صدا منتظر نگاه تو هستند .\nصبحتون دلپذیر\n♥️\n@media_aramesh",
+        "original_username": "media_aramesh",
+        "original_text": "زندگی را آرام قدم بزن.\nنه براى رسيدن به پايان ، بلكه براى ديدن زيبايى هايى که در مسیر\nبى صدا منتظر نگاه تو هستند .\nصبحتون دلپذیر\n♥️\n@media_aramesh",
+        "original_link": "https://t.me/media_aramesh/113075",
+        "post_id": 113075,
+        "message_id": 14155,
+        "message_kind": "caption",
+        "sources": [
+          "media_aramesh"
+        ],
+        "created_at": "2026-10-26T05:02:41.273348+00:00"
+      },
+      {
+        "fingerprint": "8e64b8a5c2ce5a42a7e72e479cfd7902d253ac80fc887dac44dd58f0542a3549",
+        "media_fingerprint": "75cb14deb8684c73fa0e5a22dfd76275193931c7d68df90f04cab985a86901eb",
+        "text": "ویدیویی از ورود یک داماد با ماسک مرد عنکبوتی و با جرثقیل به جشن عروسی‌اش در حومه تهران، در شبکه‌های اجتماعی با واکنش گسترده کاربران مواجه شده است.\nدر این ویدیو، داماد با ماسک این شخصیت سینمایی روی سکویی متصل به جرثقیل به محل برگزاری مراسم آورده می‌شود و عروس روی زمین با هیجان او را تشویق می‌کند.\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "ویدیویی از ورود یک داماد با ماسک مرد عنکبوتی و با جرثقیل به جشن عروسی‌اش در حومه تهران، در شبکه‌های اجتماعی با واکنش گسترده کاربران مواجه شده است.\nدر این ویدیو، داماد با ماسک این شخصیت سینمایی روی سکویی متصل به جرثقیل به محل برگزاری مراسم آورده می‌شود و عروس روی زمین با هیجان او را تشویق می‌کند.\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/53227",
+        "post_id": 53227,
+        "message_id": 14156,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-26T05:02:49.400271+00:00"
+      },
+      {
+        "fingerprint": "ccdc2c5396c61d6452690f40a8126394f27e01d5e4a0205d2e5f8edf21095fbb",
+        "media_fingerprint": "",
+        "text": "♦️\nبابک زنجانی: ‏پاکستان اعلام کرده که دو محموله گاز از عمان خریداری کرده و این محموله‌ها به پاکستان رسیده‌اند و قیمت گاز را کاهش خواهد داد\n🔹\nاز آن‌جا که دولت پاکستان متصور است گاز آن‌ها تأمین شده، ما نیز با تغییر مسیر به تاجیکستان، افغانستان، چین، ازبکستان، قزاقستان و ترکیه، تردد هزاران ایزوتانک گازی را فعال ‌کردیم.\n🔹\nبا توجه به ادعای تامین گاز پاکستان از عمان فردا قیمت هر کپسول گاز در پاکستان از ۱۰ هزار روپیه به ۱۳ هزار روپیه خواهد رسید؛‌ تا قدرت تاجران ایرانی را حس کنند و آخرین بار تصمیم اشتباه برای مسدودی مرز ایران بگیرند.\n🔹\nاین، پاسخ ماه‌ها آزار و فشاری است که یک دولت نظامی آمریکایی بر ملت خود تحمیل کرده است.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nبابک زنجانی: ‏پاکستان اعلام کرده که دو محموله گاز از عمان خریداری کرده و این محموله‌ها به پاکستان رسیده‌اند و قیمت گاز را کاهش خواهد داد\n🔹\nاز آن‌جا که دولت پاکستان متصور است گاز آن‌ها تأمین شده، ما نیز با تغییر مسیر به تاجیکستان، افغانستان، چین، ازبکستان، قزاقستان و ترکیه، تردد هزاران ایزوتانک گازی را فعال ‌کردیم.\n🔹\nبا توجه به ادعای تامین گاز پاکستان از عمان فردا قیمت هر کپسول گاز در پاکستان از ۱۰ هزار روپیه به ۱۳ هزار روپیه خواهد رسید؛‌ تا قدرت تاجران ایرانی را حس کنند و آخرین بار تصمیم اشتباه برای مسدودی مرز ایران بگیرند.\n🔹\nاین، پاسخ ماه‌ها آزار و فشاری است که یک دولت نظامی آمریکایی بر ملت خود تحمیل کرده است.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144462",
+        "post_id": 144462,
+        "message_id": 14157,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-26T05:02:53.482209+00:00"
       }
     ]
   }
