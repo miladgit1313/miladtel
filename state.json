@@ -1008,15 +1008,8 @@
       "failed": {}
     },
     "total_fut": {
-      "last_id": 238791,
+      "last_id": 238798,
       "processed_ids": [
-        237566,
-        237567,
-        237568,
-        237569,
-        237570,
-        237571,
-        237572,
         237573,
         237574,
         237575,
@@ -2009,20 +2002,21 @@
         238787,
         238788,
         238790,
-        238791
+        238791,
+        238792,
+        238793,
+        238794,
+        238795,
+        238796,
+        238797,
+        238798
       ],
       "sent_count": 196,
       "failed": {}
     },
     "footballvision2": {
-      "last_id": 173054,
+      "last_id": 173060,
       "processed_ids": [
-        171170,
-        171171,
-        171172,
-        171173,
-        171174,
-        171175,
         171184,
         171185,
         171186,
@@ -3016,9 +3010,15 @@
         173050,
         173051,
         173052,
-        173054
+        173054,
+        173055,
+        173056,
+        173057,
+        173058,
+        173059,
+        173060
       ],
-      "sent_count": 221,
+      "sent_count": 222,
       "failed": {}
     },
     "tg_ir": {
@@ -3445,7 +3445,7 @@
       "failed": {}
     },
     "behzistikomitenews": {
-      "last_id": 13989,
+      "last_id": 13990,
       "processed_ids": [
         13937,
         13939,
@@ -3496,7 +3496,8 @@
         13986,
         13987,
         13988,
-        13989
+        13989,
+        13990
       ],
       "sent_count": 10,
       "failed": {}
@@ -4509,7 +4510,7 @@
       "failed": {}
     },
     "techtube": {
-      "last_id": 18652,
+      "last_id": 18653,
       "processed_ids": [
         18261,
         18262,
@@ -4756,7 +4757,8 @@
         18648,
         18649,
         18651,
-        18652
+        18652,
+        18653
       ],
       "sent_count": 81,
       "failed": {}
@@ -6097,10 +6099,8 @@
       "failed": {}
     },
     "akhbar_cafenet": {
-      "last_id": 23729,
+      "last_id": 23731,
       "processed_ids": [
-        22612,
-        22613,
         22614,
         22615,
         22616,
@@ -7098,13 +7098,15 @@
         23725,
         23726,
         23728,
-        23729
+        23729,
+        23730,
+        23731
       ],
-      "sent_count": 578,
+      "sent_count": 579,
       "failed": {}
     },
     "comentiat": {
-      "last_id": 26777,
+      "last_id": 26778,
       "processed_ids": [
         25844,
         25845,
@@ -7835,9 +7837,10 @@
         26774,
         26775,
         26776,
-        26777
+        26777,
+        26778
       ],
-      "sent_count": 544,
+      "sent_count": 545,
       "failed": {}
     },
     "boost/fndoni": {
@@ -18604,7 +18607,7 @@
       "failed": {}
     },
     "irwonders": {
-      "last_id": 59144,
+      "last_id": 59147,
       "processed_ids": [
         58030,
         58031,
@@ -19588,9 +19591,12 @@
         59141,
         59142,
         59143,
-        59144
+        59144,
+        59145,
+        59146,
+        59147
       ],
-      "sent_count": 623,
+      "sent_count": 625,
       "failed": {}
     },
     "razcom": {
@@ -24132,7 +24138,7 @@
       "failed": {}
     },
     "persiana_pluss": {
-      "last_id": 7178,
+      "last_id": 7183,
       "processed_ids": [
         6113,
         6114,
@@ -24984,7 +24990,12 @@
         7175,
         7176,
         7177,
-        7178
+        7178,
+        7179,
+        7180,
+        7181,
+        7182,
+        7183
       ],
       "sent_count": 21,
       "failed": {}
@@ -25160,7 +25171,7 @@
       "failed": {}
     },
     "dashagh": {
-      "last_id": 48770,
+      "last_id": 48772,
       "processed_ids": [
         48313,
         48314,
@@ -25478,7 +25489,8 @@
         48767,
         48768,
         48769,
-        48770
+        48770,
+        48772
       ],
       "sent_count": 221,
       "failed": {}
@@ -26018,7 +26030,7 @@
       "failed": {}
     },
     "fucknewsi": {
-      "last_id": 13981,
+      "last_id": 13984,
       "processed_ids": [
         13561,
         13562,
@@ -26292,9 +26304,11 @@
         13974,
         13975,
         13976,
-        13981
+        13981,
+        13982,
+        13984
       ],
-      "sent_count": 113,
+      "sent_count": 114,
       "failed": {}
     },
     "https://t.me/+hhcepayguws1nti0": {
@@ -26625,7 +26639,7 @@
       "failed": {}
     },
     "media_aramesh": {
-      "last_id": 113082,
+      "last_id": 113083,
       "processed_ids": [
         113071,
         113072,
@@ -26638,7 +26652,8 @@
         113079,
         113080,
         113081,
-        113082
+        113082,
+        113083
       ],
       "sent_count": 10,
       "failed": {}
@@ -26646,98 +26661,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "59e6f48ce55992f7032f52b76af9e5b5e628ee02845e92630598a126925aa376",
-        "media_fingerprint": "",
-        "text": "‌ به دستور مدیر کانال ربات فیکس شد، فقط لطفاً دوباره خرابش نکنید",
-        "original_username": "drtel",
-        "original_text": "‌ به دستور مدیر کانال ربات فیکس شد، فقط لطفاً دوباره خرابش نکنید",
-        "original_link": "https://t.me/drtel/71833",
-        "post_id": 71833,
-        "message_id": 14140,
-        "message_kind": "text",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-25T23:21:36.073667+00:00"
-      },
-      {
-        "fingerprint": "4f09c173b18cea8518519fbf0f75f63c0ee78fdb19def207564673b42c0a1525",
-        "media_fingerprint": "8b0f612812163aa739f5ccb4a3038d5d39472efc725f4331cb79161efdc32e48",
-        "text": "🔴\nشاید درجریان نباشید، اما همتون میلیاردر هستین ولی خودتون خبر ندارید(مخصوصاً آقا پسرا)؛\n-قیمت جدید اعضای بدن تو سال 1405 :\n🔺\nکبد کامل : 5 میلیارد تومن\n👁\nقرنیه چشم :  500 میلیون تومن\n👍\nبيضه : 30 میلیارد تومن\n💭\nمغز و استخوان : 15 میلیارد تومن\n🔺\nهر کلیه : 30 میلیارد تومن\n🫀\nقلب سالم  : 70 میلیارد تومن\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nشاید درجریان نباشید، اما همتون میلیاردر هستین ولی خودتون خبر ندارید(مخصوصاً آقا پسرا)؛\n-قیمت جدید اعضای بدن تو سال 1405 :\n🔺\nکبد کامل : 5 میلیارد تومن\n👁\nقرنیه چشم :  500 میلیون تومن\n👍\nبيضه : 30 میلیارد تومن\n💭\nمغز و استخوان : 15 میلیارد تومن\n🔺\nهر کلیه : 30 میلیارد تومن\n🫀\nقلب سالم  : 70 میلیارد تومن\n@DrTeL",
-        "original_link": "https://t.me/drtel/71834",
-        "post_id": 71834,
-        "message_id": 14141,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-26T00:28:28.856831+00:00"
-      },
-      {
-        "fingerprint": "68a82fc104dbd1b34b417c92300855a69a3417756e054cc1c2906c7300cee98e",
-        "media_fingerprint": "8b2a9996c35139d74b59e207bc6e0c65ab46c2dff22edf77b9255d8622b5beb3",
-        "text": "🔚\nنتایج بازی‌‌‌‌‌های یک‌شنبه ۳ آبان\n➕\nخلاصه بازی\n🎞\nاینتر ۲-۱ فیورنتینا\n🎞\nنساجی ۲-۲ فجرسپاسی\n🎞\nپرسپولیس ۰-۱ فولاد\n🎞\nسپاهان ۴-۰ مس شهربابک\n🎞\nپیکان ۱-۱ ملوان\n🎞\nمنچستریونایتد ۰-۳ بورنموث\n🎞\nلیورپول ۲-۰ برایتون\n🎞\nفرایبورگ ۱-۳ بایرن مونیخ\n🎞\nآتالانتا ۴-۴ فروزینونه\n🎞\nلچه ۰-۲ یوونتوس\n🎞\nاودینزه ۰-۲ میلان\n🎞\nبارسلونا ۱-۲ رئال مادرید\n@Ft360_ir",
-        "original_username": "ft360_ir",
-        "original_text": "🔚\nنتایج بازی‌‌‌‌‌های یک‌شنبه ۳ آبان\n➕\nخلاصه بازی\n🎞\nاینتر ۲-۱ فیورنتینا\n🎞\nنساجی ۲-۲ فجرسپاسی\n🎞\nپرسپولیس ۰-۱ فولاد\n🎞\nسپاهان ۴-۰ مس شهربابک\n🎞\nپیکان ۱-۱ ملوان\n🎞\nمنچستریونایتد ۰-۳ بورنموث\n🎞\nلیورپول ۲-۰ برایتون\n🎞\nفرایبورگ ۱-۳ بایرن مونیخ\n🎞\nآتالانتا ۴-۴ فروزینونه\n🎞\nلچه ۰-۲ یوونتوس\n🎞\nاودینزه ۰-۲ میلان\n🎞\nبارسلونا ۱-۲ رئال مادرید\n@Ft360_ir",
-        "original_link": "https://t.me/ft360_ir/111494",
-        "post_id": 111494,
-        "message_id": 14142,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-26T00:28:34.253982+00:00"
-      },
-      {
-        "fingerprint": "a38f3205109ee4a2e7334cb69e04faaeb86f4940807c7f2dd696982006ec7488",
-        "media_fingerprint": "",
-        "text": "چند تا فیلم تینیجری برای کنکوری‌هایی که\nمیخوان به خودشون استراحت بدن :\n#پیشنهاد_فیلم\nfive feet apart  7.1\nThe Perks of Being a Wallflower 8.0\nThe best of me 6.7\nPerfect Date 6.0\nTeen Spirit 6.3\nBrokers 6.1\nEverything , Everything 6.5\n17 again 6.3\nEvery day 6.5\nEasy A 7.1\nShazam 6.5\nWhat's your number 6.2\nScream\nA moment to remember 8.2\nThe Edge of 17 7.3\nMoonlight 7.4\nLet's Be Cops 6.4\nHorrible Bosses 6.9\nI want you back 7.3\n@comentiat",
-        "original_username": "comentiat",
-        "original_text": "چند تا فیلم تینیجری برای کنکوری‌هایی که\nمیخوان به خودشون استراحت بدن :\n#پیشنهاد_فیلم\nfive feet apart  7.1\nThe Perks of Being a Wallflower 8.0\nThe best of me 6.7\nPerfect Date 6.0\nTeen Spirit 6.3\nBrokers 6.1\nEverything , Everything 6.5\n17 again 6.3\nEvery day 6.5\nEasy A 7.1\nShazam 6.5\nWhat's your number 6.2\nScream\nA moment to remember 8.2\nThe Edge of 17 7.3\nMoonlight 7.4\nLet's Be Cops 6.4\nHorrible Bosses 6.9\nI want you back 7.3\n@comentiat",
-        "original_link": "https://t.me/Comentiat/26761",
-        "post_id": 26761,
-        "message_id": 14143,
-        "message_kind": "text",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-26T00:28:37.776359+00:00"
-      },
-      {
-        "fingerprint": "10874633aa518cedae4577b1a572ef9f770fcb075064f8686cae175ba52a4c88",
-        "media_fingerprint": "73db651ef81e3d65cad1bdb1d22eb99866b8d41b4474ec3bec80bf778ff13d7c",
-        "text": "بامزه بود):\n@comentiat",
-        "original_username": "comentiat",
-        "original_text": "بامزه بود):\n@comentiat",
-        "original_link": "https://t.me/Comentiat/26762",
-        "post_id": 26762,
-        "message_id": 14144,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-26T00:28:53.031720+00:00"
-      },
-      {
-        "fingerprint": "fbbd254bb30f6af6689245c9998d83d6d99cd14a07377acb60ec2554dde35145",
-        "media_fingerprint": "e04ad4de2685f41f11b6046e14d2686730b0620fac799f47f18511296861d097",
-        "text": "بستنی با طعم پیاز، جدیدترین نوع بستنی که به بازار اومده!\n+یعنی بعد از خوردنش دهنمون بوی پیاز میده؟\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "بستنی با طعم پیاز، جدیدترین نوع بستنی که به بازار اومده!\n+یعنی بعد از خوردنش دهنمون بوی پیاز میده؟\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163905",
-        "post_id": 163905,
-        "message_id": 14147,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel",
-          "jaleb",
-          "irwonders"
-        ],
-        "created_at": "2026-10-26T05:01:49.767383+00:00"
-      },
       {
         "fingerprint": "b0c189654beafd79c6ef5aaf7f6e74ce00e7bb28917b37ad4edb359faa0683e0",
         "media_fingerprint": "69faad9d04f23e02f5216ef5e1af2a6a68985d5d3f0215b3ead8e031997f3d8b",
@@ -28143,7 +28066,8 @@
         "sources": [
           "fucknewsi",
           "gizmiztel",
-          "jaleb"
+          "jaleb",
+          "dashagh"
         ],
         "created_at": "2026-10-26T15:16:00.872546+00:00"
       },
@@ -30283,7 +30207,8 @@
         "message_id": 14405,
         "message_kind": "caption",
         "sources": [
-          "drtel"
+          "drtel",
+          "fucknewsi"
         ],
         "created_at": "2026-10-26T16:50:36.821417+00:00"
       },
@@ -31173,6 +31098,96 @@
           "apkclub"
         ],
         "created_at": "2026-10-26T19:57:40.865538+00:00"
+      },
+      {
+        "fingerprint": "baa252684cb267fd98c13b515443940cd94bc4186d7853c5402c938be37bbc50",
+        "media_fingerprint": "",
+        "text": "🗂\nنرخنامه خدمات کافی نت شهرستان باوی برای سال ۱۴۰۵\nنرخنامه شهر خود را به آی دی زیر ارسال کنید\n👇\n﻿\n@keshvari_support\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🗂\nنرخنامه خدمات کافی نت شهرستان باوی برای سال ۱۴۰۵\nنرخنامه شهر خود را به آی دی زیر ارسال کنید\n👇\n﻿\n@keshvari_support\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23730",
+        "post_id": 23730,
+        "message_id": 14466,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-26T20:29:47.464070+00:00"
+      },
+      {
+        "fingerprint": "61097f89458de9f98ed36ae89646aabe67bb47d2ce9615034416fac1b8bd69cf",
+        "media_fingerprint": "a1e7e526618abca3d9f05a9d7528399df883333ea1798d7cc6c00c621e77ac49",
+        "text": "تیشرت جدید و عجیبی که وارد بازار شده :))\n@FuckNewsi",
+        "original_username": "fucknewsi",
+        "original_text": "تیشرت جدید و عجیبی که وارد بازار شده :))\n@FuckNewsi",
+        "original_link": "https://t.me/FuckNewsi/13982",
+        "post_id": 13982,
+        "message_id": 14467,
+        "message_kind": "caption",
+        "sources": [
+          "fucknewsi"
+        ],
+        "created_at": "2026-10-26T20:29:56.687113+00:00"
+      },
+      {
+        "fingerprint": "6b9b72b4c644987f4b48ca25fa677d434943e508b5a9413e976bd26c4aab0e59",
+        "media_fingerprint": "26c0d8e6007f5e69bb5fe1201c0cca7c0bc1b30c30f7d7698125c3c3d226a5ab",
+        "text": "یک پیرمرد سوری پس از بازگشت به منزل خود در شهر حمص، دیواری را که در سال 2011 روی کتابخانه پسرش کشیده بود، تخریب کرد.\nاو این دیوار را با هدف محافظت از کتاب‌ها و جلوگیری از مصادره و تخریب آن‌ها توسط نیروهای رژیم اسد در جریان درگیری‌ها ساخته بود.\nپس از تخریب این دیوار، مشخص شد که این کتابخانه به طور کامل حفظ شده و از هرگونه آسیبی در امان مانده است.\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "یک پیرمرد سوری پس از بازگشت به منزل خود در شهر حمص، دیواری را که در سال 2011 روی کتابخانه پسرش کشیده بود، تخریب کرد.\nاو این دیوار را با هدف محافظت از کتاب‌ها و جلوگیری از مصادره و تخریب آن‌ها توسط نیروهای رژیم اسد در جریان درگیری‌ها ساخته بود.\nپس از تخریب این دیوار، مشخص شد که این کتابخانه به طور کامل حفظ شده و از هرگونه آسیبی در امان مانده است.\n@irWonders",
+        "original_link": "https://t.me/irwonders/59145",
+        "post_id": 59145,
+        "message_id": 14468,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-26T20:30:04.293264+00:00"
+      },
+      {
+        "fingerprint": "4c33244e86306dc0d835cf0c7281e14e54ab85ce482c62c2953e0f187d6fae72",
+        "media_fingerprint": "00b3c20d905bb19e81e89f9ef7e4fbc171d7f6cec878209d023c9519191207c0",
+        "text": "سمت چپی مشخصه پرسپولیسیه\n😂\n😂\n😂\nانگاری کنار قاتل اجداد وایساده\n😂\n🆔\n@footballvision2",
+        "original_username": "footballvision2",
+        "original_text": "سمت چپی مشخصه پرسپولیسیه\n😂\n😂\n😂\nانگاری کنار قاتل اجداد وایساده\n😂\n🆔\n@footballvision2",
+        "original_link": "https://t.me/footballvision2/173060",
+        "post_id": 173060,
+        "message_id": 14469,
+        "message_kind": "caption",
+        "sources": [
+          "footballvision2"
+        ],
+        "created_at": "2026-10-26T20:30:09.474262+00:00"
+      },
+      {
+        "fingerprint": "e0004ef734c7ce9f6077cfad4dc7888fde571e08a7b4666ee6426d79a3f0422e",
+        "media_fingerprint": "092a35c12f530a764a7196dfd2e7e179467e2033d92227630eff49d835ee17d4",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26778",
+        "post_id": 26778,
+        "message_id": 14470,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-26T20:30:19.881030+00:00"
+      },
+      {
+        "fingerprint": "a041d3ca6835d2aaeb04a92ba1d4685230b260f8652b45954c2fab8fe1129bb6",
+        "media_fingerprint": "dcb87432b73f19898a4adda72623732d99f817b26e3929b96771c3f08d9cf389",
+        "text": "تصویری رویایی از طلوع زیبای ماه امشب\nدر افق رصدخانه ملی ایران\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "تصویری رویایی از طلوع زیبای ماه امشب\nدر افق رصدخانه ملی ایران\n@irWonders",
+        "original_link": "https://t.me/irwonders/59147",
+        "post_id": 59147,
+        "message_id": 14472,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-26T20:30:26.125771+00:00"
       }
     ]
   }
