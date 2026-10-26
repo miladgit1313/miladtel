@@ -1008,11 +1008,8 @@
       "failed": {}
     },
     "total_fut": {
-      "last_id": 238798,
+      "last_id": 238801,
       "processed_ids": [
-        237573,
-        237574,
-        237575,
         237576,
         237577,
         237578,
@@ -2009,7 +2006,10 @@
         238795,
         238796,
         238797,
-        238798
+        238798,
+        238799,
+        238800,
+        238801
       ],
       "sent_count": 196,
       "failed": {}
@@ -3503,9 +3503,8 @@
       "failed": {}
     },
     "drtel": {
-      "last_id": 71871,
+      "last_id": 71875,
       "processed_ids": [
-        66869,
         66870,
         66872,
         66873,
@@ -4504,9 +4503,10 @@
         71868,
         71869,
         71870,
-        71871
+        71871,
+        71875
       ],
-      "sent_count": 661,
+      "sent_count": 662,
       "failed": {}
     },
     "techtube": {
@@ -5303,7 +5303,7 @@
       "failed": {}
     },
     "coffeenetmanager": {
-      "last_id": 52008,
+      "last_id": 52009,
       "processed_ids": [
         51537,
         51538,
@@ -5732,7 +5732,8 @@
         52005,
         52006,
         52007,
-        52008
+        52008,
+        52009
       ],
       "sent_count": 121,
       "failed": {}
@@ -6099,9 +6100,8 @@
       "failed": {}
     },
     "akhbar_cafenet": {
-      "last_id": 23731,
+      "last_id": 23732,
       "processed_ids": [
-        22614,
         22615,
         22616,
         22617,
@@ -7100,7 +7100,8 @@
         23728,
         23729,
         23730,
-        23731
+        23731,
+        23732
       ],
       "sent_count": 579,
       "failed": {}
@@ -7852,7 +7853,7 @@
       "failed": {}
     },
     "majalepezeshki": {
-      "last_id": 38867,
+      "last_id": 38868,
       "processed_ids": [
         38432,
         38433,
@@ -8278,9 +8279,10 @@
         38864,
         38865,
         38866,
-        38867
+        38867,
+        38868
       ],
-      "sent_count": 246,
+      "sent_count": 247,
       "failed": {}
     },
     "gizmiztel": {
@@ -9503,7 +9505,7 @@
       "failed": {}
     },
     "jaleb": {
-      "last_id": 53243,
+      "last_id": 53251,
       "processed_ids": [
         52261,
         52262,
@@ -10344,9 +10346,12 @@
         53240,
         53241,
         53242,
-        53243
+        53243,
+        53248,
+        53250,
+        53251
       ],
-      "sent_count": 413,
+      "sent_count": 414,
       "failed": {}
     },
     "ajayebe_jahann": {
@@ -22056,7 +22061,7 @@
       "failed": {}
     },
     "ecrannews": {
-      "last_id": 14578,
+      "last_id": 14579,
       "processed_ids": [
         14544,
         14545,
@@ -22090,9 +22095,10 @@
         14575,
         14576,
         14577,
-        14578
+        14578,
+        14579
       ],
-      "sent_count": 24,
+      "sent_count": 25,
       "failed": {}
     },
     "cinemanovin\n/add film_news\n/add cinematicketorg\n/add cinemadaily\n/add bajefilm": {
@@ -22444,7 +22450,7 @@
       "failed": {}
     },
     "yejoorayi": {
-      "last_id": 656,
+      "last_id": 657,
       "processed_ids": [
         426,
         427,
@@ -22658,9 +22664,10 @@
         653,
         654,
         655,
-        656
+        656,
+        657
       ],
-      "sent_count": 197,
+      "sent_count": 198,
       "failed": {}
     },
     "onlinecofe_ir": {
@@ -22956,7 +22963,7 @@
       "failed": {}
     },
     "peach_tweet": {
-      "last_id": 4693,
+      "last_id": 4697,
       "processed_ids": [
         2745,
         2749,
@@ -23653,7 +23660,10 @@
         4690,
         4691,
         4692,
-        4693
+        4693,
+        4695,
+        4696,
+        4697
       ],
       "sent_count": 366,
       "failed": {}
@@ -24138,7 +24148,7 @@
       "failed": {}
     },
     "persiana_pluss": {
-      "last_id": 7183,
+      "last_id": 7190,
       "processed_ids": [
         6113,
         6114,
@@ -24995,7 +25005,14 @@
         7180,
         7181,
         7182,
-        7183
+        7183,
+        7184,
+        7185,
+        7186,
+        7187,
+        7188,
+        7189,
+        7190
       ],
       "sent_count": 21,
       "failed": {}
@@ -25171,7 +25188,7 @@
       "failed": {}
     },
     "dashagh": {
-      "last_id": 48772,
+      "last_id": 48773,
       "processed_ids": [
         48313,
         48314,
@@ -25490,9 +25507,10 @@
         48768,
         48769,
         48770,
-        48772
+        48772,
+        48773
       ],
-      "sent_count": 221,
+      "sent_count": 222,
       "failed": {}
     },
     "apkclub": {
@@ -26639,7 +26657,7 @@
       "failed": {}
     },
     "media_aramesh": {
-      "last_id": 113083,
+      "last_id": 113084,
       "processed_ids": [
         113071,
         113072,
@@ -26653,7 +26671,8 @@
         113080,
         113081,
         113082,
-        113083
+        113083,
+        113084
       ],
       "sent_count": 10,
       "failed": {}
@@ -26661,96 +26680,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "b0c189654beafd79c6ef5aaf7f6e74ce00e7bb28917b37ad4edb359faa0683e0",
-        "media_fingerprint": "69faad9d04f23e02f5216ef5e1af2a6a68985d5d3f0215b3ead8e031997f3d8b",
-        "text": "دیروز تو روستای قوام‌آباد استان فارس، یه نیسان با خرس برخورد می‌کنه و باعث میشه حیوون بیچاره از شب تا صبح درد بکشه و در نهایت تلف بشه\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "دیروز تو روستای قوام‌آباد استان فارس، یه نیسان با خرس برخورد می‌کنه و باعث میشه حیوون بیچاره از شب تا صبح درد بکشه و در نهایت تلف بشه\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163906",
-        "post_id": 163906,
-        "message_id": 14148,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-26T05:01:58.104994+00:00"
-      },
-      {
-        "fingerprint": "19ab8146176548ac374557678769f1216f9919fb5747071d02753d069c9ee5a0",
-        "media_fingerprint": "2b915753af3b01683342ca6fbc881c6d186baef7c8e9af6a22e022fbc9fbfb05",
-        "text": "وضعیت خوابگاه‌های دانشجویی خیلی خیطه\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "وضعیت خوابگاه‌های دانشجویی خیلی خیطه\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163907",
-        "post_id": 163907,
-        "message_id": 14149,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-26T05:02:03.512494+00:00"
-      },
-      {
-        "fingerprint": "a4ebaf4b1fe0b1cfb8af929ea5ca27978c3de05815cd01f72aa8fb418b1e5a53",
-        "media_fingerprint": "46e360af74dd43dda631fd7bef56873a1da4dde82587912f2054668e2941565a",
-        "text": "پهپاد انتحاری جدید ایران معروف به قاتل هوابرد\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "پهپاد انتحاری جدید ایران معروف به قاتل هوابرد\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163908",
-        "post_id": 163908,
-        "message_id": 14150,
-        "message_kind": "text",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-26T05:02:08.095874+00:00"
-      },
-      {
-        "fingerprint": "3963e80a757fff066229f4c417851544633518e63bfdc0a68d741691bb5c1d21",
-        "media_fingerprint": "",
-        "text": "با اختلاف بهتربن چیزی بود که این چندوقت اخیر دیدم!\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "با اختلاف بهتربن چیزی بود که این چندوقت اخیر دیدم!\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163909",
-        "post_id": 163909,
-        "message_id": 14151,
-        "message_kind": "text",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-26T05:02:11.626738+00:00"
-      },
-      {
-        "fingerprint": "02919bef71097b57626d90d6ad6b47b1016f5805f0fd74d30bc7ce4943278100",
-        "media_fingerprint": "8e03a2cf84a9ce13b454a5e7e7a54cb0e138e2cecfb68749892aefed82e283d8",
-        "text": "هر روز خود را آغاز کنید با:\nبِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\n🔹\nبا خواندن دعای عهد و چند دقیقه گفتگو روزانه با امام زمان (عج)، پیمان همراهی و خدمتگزاری‌مان را تازه کنیم.\n#صبح_نو\nامروز دوشنبه\n۴ آبان ماه\n۱۵ جمادی الاول ۱۴۴۸\n۲۶ اکتبر ۲۰۲۶\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "هر روز خود را آغاز کنید با:\nبِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\n🔹\nبا خواندن دعای عهد و چند دقیقه گفتگو روزانه با امام زمان (عج)، پیمان همراهی و خدمتگزاری‌مان را تازه کنیم.\n#صبح_نو\nامروز دوشنبه\n۴ آبان ماه\n۱۵ جمادی الاول ۱۴۴۸\n۲۶ اکتبر ۲۰۲۶\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/144461",
-        "post_id": 144461,
-        "message_id": 14152,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-26T05:02:17.387410+00:00"
-      },
-      {
-        "fingerprint": "1712305163a788c02b97e4ca03095fcadefee7bc17d2c7173d9686ae29b8c9be",
-        "media_fingerprint": "ed5cbdcdc58725c9d9251ac410676c3172dc4048d314a99ef35afb238bcb3e3d",
-        "text": "شاه نشین میدان نقش جهان\n♥️\n⁩\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "شاه نشین میدان نقش جهان\n♥️\n⁩\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/160246",
-        "post_id": 160246,
-        "message_id": 14153,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-26T05:02:26.143474+00:00"
-      },
       {
         "fingerprint": "19b84c3206dc5b527c8678601753ea4406935dd499aff9830af3d5880c6ec5db",
         "media_fingerprint": "dfb1669fa97cd6e53ee9fffe4823002cd3922a4d5e0883679af89809ec6751a4",
@@ -30855,7 +30784,8 @@
         "message_id": 14448,
         "message_kind": "caption",
         "sources": [
-          "gizmiztel"
+          "gizmiztel",
+          "jaleb"
         ],
         "created_at": "2026-10-26T19:15:42.015436+00:00"
       },
@@ -31188,6 +31118,96 @@
           "irwonders"
         ],
         "created_at": "2026-10-26T20:30:26.125771+00:00"
+      },
+      {
+        "fingerprint": "b441a5594d403b17f155e2d2988879f8cb8a0ce09ada864bba9d90baa1728ec7",
+        "media_fingerprint": "75e523e07d69e10642b6f33cb3ace2c037de328ceab0301422c45adeeb2295d0",
+        "text": "با پولی که سال ۹۷ میشد پراید خرید الان لاستیک‌هاش رو هم نمیتونی بخری، اونم لاستیک ایرانی\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "با پولی که سال ۹۷ میشد پراید خرید الان لاستیک‌هاش رو هم نمیتونی بخری، اونم لاستیک ایرانی\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/53251",
+        "post_id": 53251,
+        "message_id": 14473,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-26T21:03:41.603673+00:00"
+      },
+      {
+        "fingerprint": "cd02fff2fb7ea02d3fed25df00c9774a4667d1d1e9f5dedec1d80a2c9cd440c2",
+        "media_fingerprint": "",
+        "text": "زمان بهت نشون میده حق با تو بوده\n🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "زمان بهت نشون میده حق با تو بوده\n🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/657",
+        "post_id": 657,
+        "message_id": 14474,
+        "message_kind": "text",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-26T21:03:45.123388+00:00"
+      },
+      {
+        "fingerprint": "259e4e1265217058c5b4a81191d2996b1143b3c7b359fd0a4f25b06e803b3205",
+        "media_fingerprint": "6f49d6b664ba84c8599d81d9bf7c041067ddfe5bddf3b25d67c8f3062bd3462e",
+        "text": "🔴\nاین ویدئو از یه بلاگرِ حجاب استایل، حسابی باعث عصبانیت حامیان حجاب شده و میگن هدف این خانوم، گرفتن ویو از طریق پا\n🦶\nبوده.\n+ کپشنی که نوشته بود :\nمیشه ازتون خواهش کنم\nبا اینکارا بدتر مردم فراری میشن...\nامر به معروف یعنی شخصا من در لباس دین تمام رفتار فردی و اجتماعیم درست باشه\nو انعکاس خوبی از خودم نشون بدم و طرف مقابل جذب رفتارم بشه تا گفتارم\n﻿\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nاین ویدئو از یه بلاگرِ حجاب استایل، حسابی باعث عصبانیت حامیان حجاب شده و میگن هدف این خانوم، گرفتن ویو از طریق پا\n🦶\nبوده.\n+ کپشنی که نوشته بود :\nمیشه ازتون خواهش کنم\nبا اینکارا بدتر مردم فراری میشن...\nامر به معروف یعنی شخصا من در لباس دین تمام رفتار فردی و اجتماعیم درست باشه\nو انعکاس خوبی از خودم نشون بدم و طرف مقابل جذب رفتارم بشه تا گفتارم\n﻿\n@DrTeL",
+        "original_link": "https://t.me/drtel/71875",
+        "post_id": 71875,
+        "message_id": 14475,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-26T21:03:52.572469+00:00"
+      },
+      {
+        "fingerprint": "ba94ca791adc8960393f35f61e5048acb40257e8614fc3eb4cae09646f7efce8",
+        "media_fingerprint": "f1e42da7ed348997feb61c18c06e7835154fea2d70e4b11a078e3b0e7dc28a64",
+        "text": "۶ دارویی که ممکن است حافظه را تضعیف کنند\n💊\n◽️\nمصرف برخی داروها، به‌ویژه بدون نظارت پزشک، ممکن است باعث اختلال حافظه، کاهش تمرکز و گیجی شود. میزان خطر به نوع دارو، دوز مصرفی و شرایط فرد بستگی دارد.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "۶ دارویی که ممکن است حافظه را تضعیف کنند\n💊\n◽️\nمصرف برخی داروها، به‌ویژه بدون نظارت پزشک، ممکن است باعث اختلال حافظه، کاهش تمرکز و گیجی شود. میزان خطر به نوع دارو، دوز مصرفی و شرایط فرد بستگی دارد.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38868",
+        "post_id": 38868,
+        "message_id": 14476,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-26T21:03:58.674707+00:00"
+      },
+      {
+        "fingerprint": "e1fe6ef985dd3bfdcbe2e4d0bb6ba30ba088bdd7aa1a91d4499c4430c35a6292",
+        "media_fingerprint": "9c5b1ffc11619a826b7f20489f3a05ff0f7bf6b3a0a78fc831747507915c1631",
+        "text": "من فکر میکردم فوتفتیش بودن سمه تا اینکه اینو دیدم :))))))))\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "من فکر میکردم فوتفتیش بودن سمه تا اینکه اینو دیدم :))))))))\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48773",
+        "post_id": 48773,
+        "message_id": 14477,
+        "message_kind": "text",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-26T21:04:03.145558+00:00"
+      },
+      {
+        "fingerprint": "61272c9c15e5e0751281437d963069e0d71d4952ef5da32e34618417e83d143c",
+        "media_fingerprint": "1c4389b9ea613f5821b68d688dd4163a5aed5c55d476ce7ce7552313ab4d6c2c",
+        "text": "⁨\n🖋️\nعلت بازی لیلا حاتمی در فیلم‌های اخیر حمید نعمت‌الله\nحمید نعمت‌الله: او هنرپیشه ممتازی است.\n‌از جلسه نمایش و نقد فیلم «بُت» در چهاردهمین برنامه‌ی «سینماسلامت» خانه‌ی هنرمندان ایران که شب گذشته به همت رضا درستکار(منتقد فیلم و مجری مراسم) و با حضور فیلمساز، جواد طوسی(منتقد فیلم) و برخی عوامل فیلم برگزار شد.\nفیلم «بُت» با تمرکز بر روابط انسانی و پیچیدگی‌های زندگی اجتماعی، به دنیای شخصیت‌هایی قدم می‌گذارد که درگیر موقعیت‌ها و چالش‌های خاص خود هستند.\nلیلا حاتمی، نوید پورفرج، محمدرضا فروتن، لیلی رشیدی، بانیپال شومون، کاظم سیاحی، ایمان صیادبرهانی، الناز حبیبی، مهتاب ثروتی،  محمد ملک‌محمدی و الهام جسمانی بازیگران «بُت» هستند.\nاکران فیلم در سینماها آغاز شده است.\n@ecrannews",
+        "original_username": "ecrannews",
+        "original_text": "⁨\n🖋️\nعلت بازی لیلا حاتمی در فیلم‌های اخیر حمید نعمت‌الله\nحمید نعمت‌الله: او هنرپیشه ممتازی است.\n‌از جلسه نمایش و نقد فیلم «بُت» در چهاردهمین برنامه‌ی «سینماسلامت» خانه‌ی هنرمندان ایران که شب گذشته به همت رضا درستکار(منتقد فیلم و مجری مراسم) و با حضور فیلمساز، جواد طوسی(منتقد فیلم) و برخی عوامل فیلم برگزار شد.\nفیلم «بُت» با تمرکز بر روابط انسانی و پیچیدگی‌های زندگی اجتماعی، به دنیای شخصیت‌هایی قدم می‌گذارد که درگیر موقعیت‌ها و چالش‌های خاص خود هستند.\nلیلا حاتمی، نوید پورفرج، محمدرضا فروتن، لیلی رشیدی، بانیپال شومون، کاظم سیاحی، ایمان صیادبرهانی، الناز حبیبی، مهتاب ثروتی،  محمد ملک‌محمدی و الهام جسمانی بازیگران «بُت» هستند.\nاکران فیلم در سینماها آغاز شده است.\n@ecrannews",
+        "original_link": "https://t.me/ecrannews/14579",
+        "post_id": 14579,
+        "message_id": 14478,
+        "message_kind": "caption",
+        "sources": [
+          "ecrannews"
+        ],
+        "created_at": "2026-10-26T21:04:09.814122+00:00"
       }
     ]
   }
