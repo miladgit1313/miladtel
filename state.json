@@ -1,11 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 144534,
+      "last_id": 144537,
       "processed_ids": [
-        143220,
-        143221,
-        143222,
         143223,
         143224,
         143225,
@@ -1002,17 +999,17 @@
         144531,
         144532,
         144533,
-        144534
+        144534,
+        144535,
+        144536,
+        144537
       ],
-      "sent_count": 1293,
+      "sent_count": 1295,
       "failed": {}
     },
     "total_fut": {
-      "last_id": 238787,
+      "last_id": 238791,
       "processed_ids": [
-        237563,
-        237564,
-        237565,
         237566,
         237567,
         237568,
@@ -2009,17 +2006,17 @@
         238784,
         238785,
         238786,
-        238787
+        238787,
+        238788,
+        238790,
+        238791
       ],
       "sent_count": 196,
       "failed": {}
     },
     "footballvision2": {
-      "last_id": 173050,
+      "last_id": 173054,
       "processed_ids": [
-        171167,
-        171168,
-        171169,
         171170,
         171171,
         171172,
@@ -3016,7 +3013,10 @@
         173047,
         173048,
         173049,
-        173050
+        173050,
+        173051,
+        173052,
+        173054
       ],
       "sent_count": 221,
       "failed": {}
@@ -3502,10 +3502,8 @@
       "failed": {}
     },
     "drtel": {
-      "last_id": 71869,
+      "last_id": 71871,
       "processed_ids": [
-        66866,
-        66867,
         66869,
         66870,
         66872,
@@ -4503,7 +4501,9 @@
         71866,
         71867,
         71868,
-        71869
+        71869,
+        71870,
+        71871
       ],
       "sent_count": 661,
       "failed": {}
@@ -6097,9 +6097,8 @@
       "failed": {}
     },
     "akhbar_cafenet": {
-      "last_id": 23728,
+      "last_id": 23729,
       "processed_ids": [
-        22611,
         22612,
         22613,
         22614,
@@ -7098,9 +7097,10 @@
         23724,
         23725,
         23726,
-        23728
+        23728,
+        23729
       ],
-      "sent_count": 577,
+      "sent_count": 578,
       "failed": {}
     },
     "comentiat": {
@@ -8281,13 +8281,8 @@
       "failed": {}
     },
     "gizmiztel": {
-      "last_id": 163969,
+      "last_id": 163976,
       "processed_ids": [
-        162711,
-        162712,
-        162713,
-        162714,
-        162715,
         162716,
         162717,
         162718,
@@ -9282,9 +9277,14 @@
         163966,
         163967,
         163968,
-        163969
+        163969,
+        163971,
+        163972,
+        163973,
+        163974,
+        163976
       ],
-      "sent_count": 1168,
+      "sent_count": 1171,
       "failed": {}
     },
     "dr_salamatx": {
@@ -10347,14 +10347,8 @@
       "failed": {}
     },
     "ajayebe_jahann": {
-      "last_id": 160271,
+      "last_id": 160277,
       "processed_ids": [
-        159203,
-        159204,
-        159205,
-        159206,
-        159207,
-        159208,
         159209,
         159210,
         159211,
@@ -11348,9 +11342,15 @@
         160267,
         160268,
         160270,
-        160271
+        160271,
+        160272,
+        160273,
+        160274,
+        160275,
+        160276,
+        160277
       ],
-      "sent_count": 470,
+      "sent_count": 471,
       "failed": {}
     },
     "etelaate_omoomi": {
@@ -18604,7 +18604,7 @@
       "failed": {}
     },
     "irwonders": {
-      "last_id": 59143,
+      "last_id": 59144,
       "processed_ids": [
         58030,
         58031,
@@ -19587,9 +19587,10 @@
         59140,
         59141,
         59142,
-        59143
+        59143,
+        59144
       ],
-      "sent_count": 622,
+      "sent_count": 623,
       "failed": {}
     },
     "razcom": {
@@ -21280,7 +21281,7 @@
       "failed": {}
     },
     "khandehabadd": {
-      "last_id": 307356,
+      "last_id": 307358,
       "processed_ids": [
         306563,
         306564,
@@ -22035,7 +22036,9 @@
         307353,
         307354,
         307355,
-        307356
+        307356,
+        307357,
+        307358
       ],
       "sent_count": 328,
       "failed": {}
@@ -22947,7 +22950,7 @@
       "failed": {}
     },
     "peach_tweet": {
-      "last_id": 4692,
+      "last_id": 4693,
       "processed_ids": [
         2745,
         2749,
@@ -23643,7 +23646,8 @@
         4689,
         4690,
         4691,
-        4692
+        4692,
+        4693
       ],
       "sent_count": 366,
       "failed": {}
@@ -24128,7 +24132,7 @@
       "failed": {}
     },
     "persiana_pluss": {
-      "last_id": 7174,
+      "last_id": 7178,
       "processed_ids": [
         6113,
         6114,
@@ -24976,7 +24980,11 @@
         7170,
         7171,
         7172,
-        7174
+        7174,
+        7175,
+        7176,
+        7177,
+        7178
       ],
       "sent_count": 21,
       "failed": {}
@@ -25152,7 +25160,7 @@
       "failed": {}
     },
     "dashagh": {
-      "last_id": 48769,
+      "last_id": 48770,
       "processed_ids": [
         48313,
         48314,
@@ -25469,13 +25477,14 @@
         48766,
         48767,
         48768,
-        48769
+        48769,
+        48770
       ],
       "sent_count": 221,
       "failed": {}
     },
     "apkclub": {
-      "last_id": 73258,
+      "last_id": 73260,
       "processed_ids": [
         72962,
         72963,
@@ -25752,9 +25761,11 @@
         73255,
         73256,
         73257,
-        73258
+        73258,
+        73259,
+        73260
       ],
-      "sent_count": 101,
+      "sent_count": 102,
       "failed": {}
     },
     "boob_sfangi": {
@@ -26007,7 +26018,7 @@
       "failed": {}
     },
     "fucknewsi": {
-      "last_id": 13975,
+      "last_id": 13981,
       "processed_ids": [
         13561,
         13562,
@@ -26279,7 +26290,9 @@
         13972,
         13973,
         13974,
-        13975
+        13975,
+        13976,
+        13981
       ],
       "sent_count": 113,
       "failed": {}
@@ -26634,141 +26647,6 @@
   "global": {
     "history": [
       {
-        "fingerprint": "6ce02c2064aee85be905f92ad2a310564f72ad7e12a97be795bb1ad503135d1b",
-        "media_fingerprint": "a899bdf39a4dfd6331fa63ea7b89864f65ae9f3173f6550f6e73c70a00ffbdef",
-        "text": "❌\nپدر بارسلونا رونالدو نیست\n✔️\nپدر بارسلونا امباپه هست\n۱۴ گل در ۱۱ بازی مقابل بارسلونا که اکثرش توی نیوکمپ زده شده\n😂\n🔥\n😂\n🔥\n😂\n🔥\n😂\n🔥\n😂\n🔥\n😂\n⚽️\n@Futball180TV",
-        "original_username": "futball180tv",
-        "original_text": "❌\nپدر بارسلونا رونالدو نیست\n✔️\nپدر بارسلونا امباپه هست\n۱۴ گل در ۱۱ بازی مقابل بارسلونا که اکثرش توی نیوکمپ زده شده\n😂\n🔥\n😂\n🔥\n😂\n🔥\n😂\n🔥\n😂\n🔥\n😂\n⚽️\n@Futball180TV",
-        "original_link": "https://t.me/Futball180TV/109688",
-        "post_id": 109688,
-        "message_id": 14130,
-        "message_kind": "caption",
-        "sources": [
-          "futball180tv"
-        ],
-        "created_at": "2026-10-25T22:40:36.940025+00:00"
-      },
-      {
-        "fingerprint": "2616bdedc35f190e7eddc31d6260b0129c748bdad1e84dd6aad7d882a755107e",
-        "media_fingerprint": "0737458b02c6716d045587f274dc93ec8e1b1d5be4e4d019fc5ce0c8253bb26a",
-        "text": "👑\n🤴\nچهارم آبان، سالروز تولد محمدرضا شاه پهلوی، شاهنشاه آریامهر گرامی باد\n😘\n#Elena\n💎\nEfshaH Hub | افشا هاب",
-        "original_username": "boob_sfangi",
-        "original_text": "👑\n🤴\nچهارم آبان، سالروز تولد محمدرضا شاه پهلوی، شاهنشاه آریامهر گرامی باد\n😘\n#Elena\n💎\nEfshaH Hub | افشا هاب",
-        "original_link": "https://t.me/boob_sfangi/2880",
-        "post_id": 2880,
-        "message_id": 14131,
-        "message_kind": "caption",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-25T22:40:50.822518+00:00"
-      },
-      {
-        "fingerprint": "c791a7a921f0267a03bf653ff66d8f17f420c66ba2da0a18229cef83f894d043",
-        "media_fingerprint": "5dcffcf74fc48a33df0022f46a9eb03eb27b4404cbe9c7afbd7971e80ed3abb4",
-        "text": "دو تا دوست رفتن دکتر و متوجه شدن زیگیل تناسلی دارن\nبعد یکیش گفته ما چون شلوار مشترک استفاده کردیم از دوستم زگیل گرفتم\nبعد چند وقت متوجه شده که نه پارتنر مشترک استفاده کردن و دوستش با دوست پسرش ریخته روهم و باهاش خوابیده و حالا هر سه تاشون زیگیل تناسلی از نوع پر خطرش گرفتن...\n﻿\n@FuckNewsi",
-        "original_username": "fucknewsi",
-        "original_text": "دو تا دوست رفتن دکتر و متوجه شدن زیگیل تناسلی دارن\nبعد یکیش گفته ما چون شلوار مشترک استفاده کردیم از دوستم زگیل گرفتم\nبعد چند وقت متوجه شده که نه پارتنر مشترک استفاده کردن و دوستش با دوست پسرش ریخته روهم و باهاش خوابیده و حالا هر سه تاشون زیگیل تناسلی از نوع پر خطرش گرفتن...\n﻿\n@FuckNewsi",
-        "original_link": "https://t.me/FuckNewsi/13947",
-        "post_id": 13947,
-        "message_id": 14133,
-        "message_kind": "caption",
-        "sources": [
-          "fucknewsi"
-        ],
-        "created_at": "2026-10-25T22:41:00.156790+00:00"
-      },
-      {
-        "fingerprint": "b8e1ec28f26dbfd18307a51e200da32d57926ab1aaaba55dd0b647fb4cd00603",
-        "media_fingerprint": "7e4badea419f3933d479fa41d3397961a20ca033c670d654afd37f650c2ebce1",
-        "text": "واکنش گلزار فن وقتی فهمیده به سیریک حمله شده :\n@Dashagh",
-        "original_username": "dashagh",
-        "original_text": "واکنش گلزار فن وقتی فهمیده به سیریک حمله شده :\n@Dashagh",
-        "original_link": "https://t.me/dashagh/48750",
-        "post_id": 48750,
-        "message_id": 14134,
-        "message_kind": "caption",
-        "sources": [
-          "dashagh"
-        ],
-        "created_at": "2026-10-25T22:41:05.659868+00:00"
-      },
-      {
-        "fingerprint": "1de88d32962e48fc6e22f217a8f63244465f28988b364fac4ef26300b0aa6b3c",
-        "media_fingerprint": "",
-        "text": "بقران اگه تا سه شنبه حمله کرد من کونیم",
-        "original_username": "drtel",
-        "original_text": "بقران اگه تا سه شنبه حمله کرد من کونیم",
-        "original_link": "https://t.me/drtel/71827",
-        "post_id": 71827,
-        "message_id": 14135,
-        "message_kind": "text",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-25T22:41:09.317125+00:00"
-      },
-      {
-        "fingerprint": "292215b6a30b0fd07397d8be1b7d7bf0dd1bd3fc3252bebec369aa012e1db12f",
-        "media_fingerprint": "",
-        "text": "زد یا نزد فرقی نداره من کونی ام",
-        "original_username": "drtel",
-        "original_text": "زد یا نزد فرقی نداره من کونی ام",
-        "original_link": "https://t.me/drtel/71829",
-        "post_id": 71829,
-        "message_id": 14136,
-        "message_kind": "text",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-25T22:41:12.948352+00:00"
-      },
-      {
-        "fingerprint": "b4e565248e275a1db0356da16cac155e5354dbdac0521baac09c056908bb06f0",
-        "media_fingerprint": "7951e486c93526dac877e142b0a77a6e5fcc5e51f94496e26ffb4e66f4aa8046",
-        "text": "✅\nاعلام لیست  قیمت جدید محصولات سایپا دیزل ویژه آبان ماه ۱۴۰۵\n#سایپادیزل",
-        "original_username": "sabtnamkh0dro",
-        "original_text": "✅\nاعلام لیست  قیمت جدید محصولات سایپا دیزل ویژه آبان ماه ۱۴۰۵\n#سایپادیزل",
-        "original_link": "https://t.me/sabtnamkh0dro/14495",
-        "post_id": 14495,
-        "message_id": 14137,
-        "message_kind": "caption",
-        "sources": [
-          "sabtnamkh0dro"
-        ],
-        "created_at": "2026-10-25T23:21:22.740794+00:00"
-      },
-      {
-        "fingerprint": "63b94e887233d4029e3e496f52fe75efefff8a65f17f2747ee7a7f4f6f74c4da",
-        "media_fingerprint": "8326bfa2a508eecf037af7e66f39cc4dae45be2df6eb3e52ad0afa943fd62651",
-        "text": "قهرمانی می‌خواهیم\n🎙\nمورینیو، پس از پیروزی مقابل بارسلونا\n💬\n«این پیروزی مهمی است، اما نباید بیش از حد جشن بگیریم؛ این فقط سه امتیاز است. هدف ما فقط بردن ال‌کلاسیکو نیست، قهرمانی است.»\n💬\n«گاهی می‌توان با شانس در مسابقه پیروز شد، اما این از آن نوع پیروزی‌ها…",
-        "original_username": "ft360_ir",
-        "original_text": "قهرمانی می‌خواهیم\n🎙\nمورینیو، پس از پیروزی مقابل بارسلونا\n💬\n«این پیروزی مهمی است، اما نباید بیش از حد جشن بگیریم؛ این فقط سه امتیاز است. هدف ما فقط بردن ال‌کلاسیکو نیست، قهرمانی است.»\n💬\n«گاهی می‌توان با شانس در مسابقه پیروز شد، اما این از آن نوع پیروزی‌ها…",
-        "original_link": "https://t.me/ft360_ir/111492",
-        "post_id": 111492,
-        "message_id": 14138,
-        "message_kind": "caption",
-        "sources": [
-          "ft360_ir"
-        ],
-        "created_at": "2026-10-25T23:21:27.529254+00:00"
-      },
-      {
-        "fingerprint": "f88c41ba0ca88168ddedfa797cd9064d9928025516edeb624aefd38eb20c32cb",
-        "media_fingerprint": "55dd40005ce62aad1b4b4ff0a3d3fdb5e5c61e0a27f5ad0091e71de5da44e9fd",
-        "text": "✅\nقیمت جدید ۹ خودروی وارداتی گک جیران موتور اعلام شد | آبان ماه ۱۴۰۵\n‌",
-        "original_username": "sabtnamkh0dro",
-        "original_text": "✅\nقیمت جدید ۹ خودروی وارداتی گک جیران موتور اعلام شد | آبان ماه ۱۴۰۵\n‌",
-        "original_link": "https://t.me/sabtnamkh0dro/14496",
-        "post_id": 14496,
-        "message_id": 14139,
-        "message_kind": "caption",
-        "sources": [
-          "sabtnamkh0dro"
-        ],
-        "created_at": "2026-10-25T23:21:32.449799+00:00"
-      },
-      {
         "fingerprint": "59e6f48ce55992f7032f52b76af9e5b5e628ee02845e92630598a126925aa376",
         "media_fingerprint": "",
         "text": "‌ به دستور مدیر کانال ربات فیکس شد، فقط لطفاً دوباره خرابش نکنید",
@@ -26991,7 +26869,8 @@
         "message_id": 14156,
         "message_kind": "caption",
         "sources": [
-          "jaleb"
+          "jaleb",
+          "ajayebe_jahann"
         ],
         "created_at": "2026-10-26T05:02:49.400271+00:00"
       },
@@ -28838,7 +28717,8 @@
         "message_id": 14289,
         "message_kind": "caption",
         "sources": [
-          "drtel"
+          "drtel",
+          "fucknewsi"
         ],
         "created_at": "2026-10-26T16:08:22.046981+00:00"
       },
@@ -31158,6 +31038,141 @@
           "dashagh"
         ],
         "created_at": "2026-10-26T19:16:26.273221+00:00"
+      },
+      {
+        "fingerprint": "43e5cf65d5b54d39b3c381b202b849bf27afc95035acf0c131807fa305db6a13",
+        "media_fingerprint": "92e73270d3cb50e64dcc4a5ce02be3bc554f83b2dbf7fdfe955a4e89e5e82134",
+        "text": "♦️\nاوقات شرعی فردا به افق مرکز استان (احتیاط یک تا دو دقیقه‌ای لحاظ شود)\n🌱\nوقت دعا ما رو هم به خاطر داشته باشید\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nاوقات شرعی فردا به افق مرکز استان (احتیاط یک تا دو دقیقه‌ای لحاظ شود)\n🌱\nوقت دعا ما رو هم به خاطر داشته باشید\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144536",
+        "post_id": 144536,
+        "message_id": 14456,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-26T19:56:46.932472+00:00"
+      },
+      {
+        "fingerprint": "d0ffeb08763ab7f882b66888ebfd4514fc5dede63aaf53fc72d44451618c17ae",
+        "media_fingerprint": "69d93b377d877865c941202c0371008542a2d6306e850ca7d3eee77f47fdf5e2",
+        "text": "طیف رنگی خاک هرمز رو حتی توی پالت‌های آرایشی هم پیدا نمیکنی!\n😍\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "طیف رنگی خاک هرمز رو حتی توی پالت‌های آرایشی هم پیدا نمیکنی!\n😍\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/160272",
+        "post_id": 160272,
+        "message_id": 14457,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-26T19:56:55.424807+00:00"
+      },
+      {
+        "fingerprint": "583a3003d3cc7ddc27e2489981308c806c6970fb59a6f27a6de4a4d791bcff1e",
+        "media_fingerprint": "5e7d7bde0f56e35f0f1bed57440ea05b2b9a20765c348d3ab91394be7d3787ab",
+        "text": "♦️\nبا هم دعای فرج را برای سلامتی و فرج آقا امام زمان(عج) می‌خوانیم\n🔹\nبا قرائت دعای فرج به این جمع میلیونی بپیوندیم\n@AkhbareFori",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nبا هم دعای فرج را برای سلامتی و فرج آقا امام زمان(عج) می‌خوانیم\n🔹\nبا قرائت دعای فرج به این جمع میلیونی بپیوندیم\n@AkhbareFori",
+        "original_link": "https://t.me/akhbarfars/144537",
+        "post_id": 144537,
+        "message_id": 14458,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-26T19:57:00.739210+00:00"
+      },
+      {
+        "fingerprint": "045b02afb4bc219899ee138835e5ef12338644d58ecf3a19f369f4ed991dad07",
+        "media_fingerprint": "5fe0108d479a133c79b0c5575d25c2cf76fa11ebb58ea3874640d6413ba2c40a",
+        "text": "سرمه برای کودکان زدن خوبه یا نه؟\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "سرمه برای کودکان زدن خوبه یا نه؟\n@irWonders",
+        "original_link": "https://t.me/irwonders/59144",
+        "post_id": 59144,
+        "message_id": 14459,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-26T19:57:08.117244+00:00"
+      },
+      {
+        "fingerprint": "7360e1a77643a2c4d59c2615cd0e7236c3edc211cf42ba139f49bb4106f2c66e",
+        "media_fingerprint": "",
+        "text": "نیویورک‌تایمز مدعی شده قطر داره روی طرح یه توافق ۵روزه بین ایران و آمریکا کار می‌کنه\nهسته اصلی این طرح باز شدن تنگه در ازای رفع محاصره ایرانه\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "نیویورک‌تایمز مدعی شده قطر داره روی طرح یه توافق ۵روزه بین ایران و آمریکا کار می‌کنه\nهسته اصلی این طرح باز شدن تنگه در ازای رفع محاصره ایرانه\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163971",
+        "post_id": 163971,
+        "message_id": 14460,
+        "message_kind": "text",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-26T19:57:11.644245+00:00"
+      },
+      {
+        "fingerprint": "0f072614583d6f3f4520d7c3df74d1dff94800f61447de35ec92ff384a6f7f9f",
+        "media_fingerprint": "681707e73ccc95a0d8343ee4e4649f10b2fda7521082986aed4ec5e6d7570e41",
+        "text": "چرا موهاشو با ماشین که نزده هیچ، حتی کوتاهم نکرده؟\nچرا زیر لباس نظامی ، تی شرت پوشیده؟\nچرا چفیه رو شبیه شال گردن انداخته؟\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "چرا موهاشو با ماشین که نزده هیچ، حتی کوتاهم نکرده؟\nچرا زیر لباس نظامی ، تی شرت پوشیده؟\nچرا چفیه رو شبیه شال گردن انداخته؟\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163974",
+        "post_id": 163974,
+        "message_id": 14461,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-26T19:57:22.480717+00:00"
+      },
+      {
+        "fingerprint": "53152a265776b9b56f8165fbe08ea2eeec64dd6cea0866d62ceb86d655e464fa",
+        "media_fingerprint": "0bcec99654d16e635426145e2e369b28551c0991e3aae54ded1b447c1e7491b0",
+        "text": "خیلی جالبه که هنوزم تو کشورمون این آدمهای به شدت خوب هستند.\nنیسانم ماشین آدم پولدار و مسئول شهرستان نیست که بگیم دارن براش دسته جمعی چاپلوسی میکنن!\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "خیلی جالبه که هنوزم تو کشورمون این آدمهای به شدت خوب هستند.\nنیسانم ماشین آدم پولدار و مسئول شهرستان نیست که بگیم دارن براش دسته جمعی چاپلوسی میکنن!\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/163976",
+        "post_id": 163976,
+        "message_id": 14463,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-26T19:57:29.872567+00:00"
+      },
+      {
+        "fingerprint": "3038a070e3c06e447c8058dc829f757a642898f84f32d81bd7a096257f7bcb8e",
+        "media_fingerprint": "f9d38712562232d5788997f0602aadd2bea70c59475202ee3add88b4cdb288f8",
+        "text": "📱\nگوگل مپ چگونه ترافیک خیابان‌ها را می‌فهمد؟\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "📱\nگوگل مپ چگونه ترافیک خیابان‌ها را می‌فهمد؟\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23729",
+        "post_id": 23729,
+        "message_id": 14464,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-26T19:57:37.393848+00:00"
+      },
+      {
+        "fingerprint": "85e864f538340e30584d96205b6d11445a569ccc447d3dbbfaab598530c04f52",
+        "media_fingerprint": "",
+        "text": "",
+        "original_username": "apkclub",
+        "original_text": "",
+        "original_link": "https://t.me/apkclub/73259",
+        "post_id": 73259,
+        "message_id": 14465,
+        "message_kind": "text",
+        "sources": [
+          "apkclub"
+        ],
+        "created_at": "2026-10-26T19:57:40.865538+00:00"
       }
     ]
   }
