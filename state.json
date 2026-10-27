@@ -1,12 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 144596,
+      "last_id": 144601,
       "processed_ids": [
-        143260,
-        143261,
-        143262,
-        143263,
         143265,
         143266,
         143267,
@@ -1002,16 +998,18 @@
         144591,
         144592,
         144593,
-        144596
+        144596,
+        144597,
+        144599,
+        144600,
+        144601
       ],
-      "sent_count": 1319,
+      "sent_count": 1321,
       "failed": {}
     },
     "total_fut": {
-      "last_id": 238858,
+      "last_id": 238860,
       "processed_ids": [
-        237619,
-        237620,
         237621,
         237622,
         237623,
@@ -2009,7 +2007,9 @@
         238855,
         238856,
         238857,
-        238858
+        238858,
+        238859,
+        238860
       ],
       "sent_count": 197,
       "failed": {}
@@ -3517,10 +3517,8 @@
       "failed": {}
     },
     "drtel": {
-      "last_id": 71922,
+      "last_id": 71924,
       "processed_ids": [
-        66910,
-        66911,
         66912,
         66913,
         66914,
@@ -4518,9 +4516,11 @@
         71919,
         71920,
         71921,
-        71922
+        71922,
+        71923,
+        71924
       ],
-      "sent_count": 678,
+      "sent_count": 679,
       "failed": {}
     },
     "techtube": {
@@ -5778,7 +5778,7 @@
       "failed": {}
     },
     "roidbest": {
-      "last_id": 22007,
+      "last_id": 22008,
       "processed_ids": [
         21613,
         21614,
@@ -6140,7 +6140,8 @@
         22004,
         22005,
         22006,
-        22007
+        22007,
+        22008
       ],
       "sent_count": 203,
       "failed": {}
@@ -7153,7 +7154,7 @@
       "failed": {}
     },
     "comentiat": {
-      "last_id": 26795,
+      "last_id": 26796,
       "processed_ids": [
         25844,
         25845,
@@ -7900,9 +7901,10 @@
         26792,
         26793,
         26794,
-        26795
+        26795,
+        26796
       ],
-      "sent_count": 557,
+      "sent_count": 558,
       "failed": {}
     },
     "boost/fndoni": {
@@ -8356,12 +8358,8 @@
       "failed": {}
     },
     "gizmiztel": {
-      "last_id": 164020,
+      "last_id": 164024,
       "processed_ids": [
-        162751,
-        162752,
-        162753,
-        162754,
         162755,
         162756,
         162757,
@@ -9357,9 +9355,13 @@
         164017,
         164018,
         164019,
-        164020
+        164020,
+        164021,
+        164022,
+        164023,
+        164024
       ],
-      "sent_count": 1195,
+      "sent_count": 1198,
       "failed": {}
     },
     "dr_salamatx": {
@@ -10445,11 +10447,8 @@
       "failed": {}
     },
     "ajayebe_jahann": {
-      "last_id": 160310,
+      "last_id": 160314,
       "processed_ids": [
-        159236,
-        159237,
-        159238,
         159239,
         159240,
         159241,
@@ -11446,7 +11445,10 @@
         160307,
         160308,
         160309,
-        160310
+        160310,
+        160312,
+        160313,
+        160314
       ],
       "sent_count": 484,
       "failed": {}
@@ -18706,10 +18708,8 @@
       "failed": {}
     },
     "irwonders": {
-      "last_id": 59175,
+      "last_id": 59177,
       "processed_ids": [
-        58043,
-        58045,
         58046,
         58047,
         58048,
@@ -19707,9 +19707,11 @@
         59172,
         59173,
         59174,
-        59175
+        59175,
+        59176,
+        59177
       ],
-      "sent_count": 641,
+      "sent_count": 643,
       "failed": {}
     },
     "razcom": {
@@ -19791,7 +19793,7 @@
       "failed": {}
     },
     "midanesti": {
-      "last_id": 73366,
+      "last_id": 73367,
       "processed_ids": [
         73193,
         73194,
@@ -19946,7 +19948,8 @@
         73363,
         73364,
         73365,
-        73366
+        73366,
+        73367
       ],
       "sent_count": 77,
       "failed": {}
@@ -21403,7 +21406,7 @@
       "failed": {}
     },
     "khandehabadd": {
-      "last_id": 307376,
+      "last_id": 307380,
       "processed_ids": [
         306563,
         306564,
@@ -22178,9 +22181,13 @@
         307373,
         307374,
         307375,
-        307376
+        307376,
+        307377,
+        307378,
+        307379,
+        307380
       ],
-      "sent_count": 338,
+      "sent_count": 340,
       "failed": {}
     },
     "ravan6enasii": {
@@ -22190,7 +22197,7 @@
       "failed": {}
     },
     "ecrannews": {
-      "last_id": 14579,
+      "last_id": 14581,
       "processed_ids": [
         14544,
         14545,
@@ -22225,9 +22232,11 @@
         14576,
         14577,
         14578,
-        14579
+        14579,
+        14580,
+        14581
       ],
-      "sent_count": 25,
+      "sent_count": 26,
       "failed": {}
     },
     "cinemanovin\n/add film_news\n/add cinematicketorg\n/add cinemadaily\n/add bajefilm": {
@@ -23122,7 +23131,7 @@
       "failed": {}
     },
     "peach_tweet": {
-      "last_id": 4719,
+      "last_id": 4721,
       "processed_ids": [
         2745,
         2749,
@@ -23838,7 +23847,8 @@
         4715,
         4716,
         4717,
-        4719
+        4719,
+        4721
       ],
       "sent_count": 368,
       "failed": {}
@@ -24323,7 +24333,7 @@
       "failed": {}
     },
     "persiana_pluss": {
-      "last_id": 7282,
+      "last_id": 7284,
       "processed_ids": [
         6113,
         6114,
@@ -25245,7 +25255,9 @@
         7279,
         7280,
         7281,
-        7282
+        7282,
+        7283,
+        7284
       ],
       "sent_count": 22,
       "failed": {}
@@ -25430,7 +25442,7 @@
       "failed": {}
     },
     "dashagh": {
-      "last_id": 48798,
+      "last_id": 48800,
       "processed_ids": [
         48313,
         48314,
@@ -25772,13 +25784,14 @@
         48794,
         48796,
         48797,
-        48798
+        48798,
+        48800
       ],
-      "sent_count": 236,
+      "sent_count": 237,
       "failed": {}
     },
     "apkclub": {
-      "last_id": 73279,
+      "last_id": 73281,
       "processed_ids": [
         72962,
         72963,
@@ -26076,13 +26089,15 @@
         73276,
         73277,
         73278,
-        73279
+        73279,
+        73280,
+        73281
       ],
-      "sent_count": 117,
+      "sent_count": 118,
       "failed": {}
     },
     "boob_sfangi": {
-      "last_id": 2935,
+      "last_id": 2936,
       "processed_ids": [
         2587,
         2590,
@@ -26353,13 +26368,14 @@
         2931,
         2933,
         2934,
-        2935
+        2935,
+        2936
       ],
       "sent_count": 174,
       "failed": {}
     },
     "fucknewsi": {
-      "last_id": 14019,
+      "last_id": 14020,
       "processed_ids": [
         13561,
         13562,
@@ -26664,7 +26680,8 @@
         14013,
         14014,
         14018,
-        14019
+        14019,
+        14020
       ],
       "sent_count": 129,
       "failed": {}
@@ -27025,217 +27042,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "549c82068a6c801a285918aca58ba25199df7982836ad0b384480f344c208430",
-        "media_fingerprint": "1c16af99224131af9b8f3dc58be1898113466a0f1d8bae773f1073cdcc7a4881",
-        "text": "🎭\nنمایش «ویران‌تن»؛ پس از ۶۰ اجرای موفق\n🔸\nنویسنده و کارگردان: علیرضا اخوان\n📍\nتماشاخانه هما | سالن شیشه‌ای\n🕖\nساعت ۱۹:۰۰\n🎟️\nتهیه بلیت:\nhttps://www.tiwall.com/p/viran.tan3",
-        "original_username": "gizmiztel",
-        "original_text": "🎭\nنمایش «ویران‌تن»؛ پس از ۶۰ اجرای موفق\n🔸\nنویسنده و کارگردان: علیرضا اخوان\n📍\nتماشاخانه هما | سالن شیشه‌ای\n🕖\nساعت ۱۹:۰۰\n🎟️\nتهیه بلیت:\nhttps://www.tiwall.com/p/viran.tan3",
-        "original_link": "https://t.me/gizmiztel/163966",
-        "post_id": 163966,
-        "message_id": 14447,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-26T19:15:35.170571+00:00"
-      },
-      {
-        "fingerprint": "7b9ae663a460bf3c1b396597d2e8dcc0efc8d228cef9df4d137979232875b4b6",
-        "media_fingerprint": "b737cc04be87d336d84129d6627628dd35b8d4298b0e7c8fb06681952db81239",
-        "text": "پربازدیدترین کلیپ ۲۴ ساعت اخیر اینستاگرام.\nرفتار پسرا داخل و خارج خونه، پیش دختر مورد علاقه‌شون :))\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "پربازدیدترین کلیپ ۲۴ ساعت اخیر اینستاگرام.\nرفتار پسرا داخل و خارج خونه، پیش دختر مورد علاقه‌شون :))\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163967",
-        "post_id": 163967,
-        "message_id": 14448,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel",
-          "jaleb"
-        ],
-        "created_at": "2026-10-26T19:15:42.015436+00:00"
-      },
-      {
-        "fingerprint": "40abc905eb72ea540053874b3426cddba7cc595e76ab13289d656800e00479ee",
-        "media_fingerprint": "da862c995d847053f91004495ba1064059dc21cb9d61eb64c4e09af7f45c4133",
-        "text": "صدای روی تصویر کاملا واقعی است!\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "صدای روی تصویر کاملا واقعی است!\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163968",
-        "post_id": 163968,
-        "message_id": 14449,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-26T19:15:48.850166+00:00"
-      },
-      {
-        "fingerprint": "ab8a4668fa6435773c94fe80027662d53a351fa23ee90bbcdf4616f3f7914c60",
-        "media_fingerprint": "798fc86cafc1206491eb419e52341b9020a0ec7313c92091da876031c1e725a8",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26777",
-        "post_id": 26777,
-        "message_id": 14450,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-26T19:15:53.838085+00:00"
-      },
-      {
-        "fingerprint": "ec063406c33ea289c1ad1ed64b14249916382a945e422d6e7156e16b9c6c0b2f",
-        "media_fingerprint": "8fd060747fe0074a2eec5cd6c3e9306f02a8662079b31847f6e730ed3c91ee24",
-        "text": "لالایی مادر؛ موسیقی شیرینی برای رشد مغز کودک!\n🎶\n🧠\n◽️\nمادرانی كه برای كودک خود لالایی ميخوانند، كودک آنان زودتر از ساير كودكان حرف ميزند و به رشد عقلی بالاتری می‌رسد و عملكرد مغز او برای انجام پازل‌های هوشی و رياضی بيش از سايرين خواهد بود.\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_username": "majalepezeshki",
-        "original_text": "لالایی مادر؛ موسیقی شیرینی برای رشد مغز کودک!\n🎶\n🧠\n◽️\nمادرانی كه برای كودک خود لالایی ميخوانند، كودک آنان زودتر از ساير كودكان حرف ميزند و به رشد عقلی بالاتری می‌رسد و عملكرد مغز او برای انجام پازل‌های هوشی و رياضی بيش از سايرين خواهد بود.\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_link": "https://t.me/MajalePezeshki/38867",
-        "post_id": 38867,
-        "message_id": 14451,
-        "message_kind": "caption",
-        "sources": [
-          "majalepezeshki"
-        ],
-        "created_at": "2026-10-26T19:15:59.642053+00:00"
-      },
-      {
-        "fingerprint": "e59f2506d773f8db8724d4502212141c8037155ce0e245d5523ac2acced393a8",
-        "media_fingerprint": "",
-        "text": "هشدار مقام امنیتی: ایران آماده پاسخ به هرگونه تعرض است\n🔹\nیک مقام امنیتی در گفت‌وگو با خبرنگار فارس هشدار داد ایران در برابر هرگونه حمله، پاسخی سریع و متناسب با تهدید ارائه خواهد کرد.\nاو با اشاره به مواضع اخیر نتانیاهو، گفت ایران برای هرگونه اقدام نظامی آماده است و در صورت آغاز درگیری، واکنشی شدید نشان خواهد داد.\n🔹\nاین مقام همچنین از ساکنان سرزمین‌های اشغالی خواست برای شرایط احتمالی پیش‌رو برنامه‌ریزی کنند. به گفته او، ایران بر مواضع خود تأکید دارد و تهدیدهای احتمالی را بدون پاسخ نخواهد گذاشت.",
-        "original_username": "fars_today",
-        "original_text": "هشدار مقام امنیتی: ایران آماده پاسخ به هرگونه تعرض است\n🔹\nیک مقام امنیتی در گفت‌وگو با خبرنگار فارس هشدار داد ایران در برابر هرگونه حمله، پاسخی سریع و متناسب با تهدید ارائه خواهد کرد.\nاو با اشاره به مواضع اخیر نتانیاهو، گفت ایران برای هرگونه اقدام نظامی آماده است و در صورت آغاز درگیری، واکنشی شدید نشان خواهد داد.\n🔹\nاین مقام همچنین از ساکنان سرزمین‌های اشغالی خواست برای شرایط احتمالی پیش‌رو برنامه‌ریزی کنند. به گفته او، ایران بر مواضع خود تأکید دارد و تهدیدهای احتمالی را بدون پاسخ نخواهد گذاشت.",
-        "original_link": "https://t.me/Fars_today/132338",
-        "post_id": 132338,
-        "message_id": 14452,
-        "message_kind": "text",
-        "sources": [
-          "fars_today"
-        ],
-        "created_at": "2026-10-26T19:16:03.245514+00:00"
-      },
-      {
-        "fingerprint": "336733cf659c812a98b274c27388f2a48203b723b06a07d521e4120ae31ee2c5",
-        "media_fingerprint": "7aacb2ca2c4338cf3f21115e3c0c6b291bce5e9d601636eccb7bf0c0830f25f8",
-        "text": "هرمز زیبای من ...\n❤️\n#ایران_زیبا\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "هرمز زیبای من ...\n❤️\n#ایران_زیبا\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/307356",
-        "post_id": 307356,
-        "message_id": 14453,
-        "message_kind": "caption",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-26T19:16:11.441431+00:00"
-      },
-      {
-        "fingerprint": "5cb1515a2ef90d8635908b15fc9e449730a065b77777d4aa7c88838b7f61825b",
-        "media_fingerprint": "40d0e5bfe3f67717fac59a0cea3a4ac9aa81cc7ce6c76ff5c4de0ba7cac074c8",
-        "text": "چقدر برگ ریزان\n🍂\nتابلوی معروف «شب پرستاره» ون‌گوگ شاید خیلی بیشتر از چیزی که فکر می‌کردیم به آسمون واقعی شباهت داشته باشه!\nمحققای دانشگاه کیونگ هی کرهٔ جنوبی توی پژوهشی که تو مجلهٔ علمی Scientific Reports منتشر شده، به این نتیجه رسیدن که آسمون این تابلو به احتمال زیاد بر اساس واقعیت کشیده شده.\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "چقدر برگ ریزان\n🍂\nتابلوی معروف «شب پرستاره» ون‌گوگ شاید خیلی بیشتر از چیزی که فکر می‌کردیم به آسمون واقعی شباهت داشته باشه!\nمحققای دانشگاه کیونگ هی کرهٔ جنوبی توی پژوهشی که تو مجلهٔ علمی Scientific Reports منتشر شده، به این نتیجه رسیدن که آسمون این تابلو به احتمال زیاد بر اساس واقعیت کشیده شده.\n@irWonders",
-        "original_link": "https://t.me/irwonders/59143",
-        "post_id": 59143,
-        "message_id": 14454,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-26T19:16:18.650955+00:00"
-      },
-      {
-        "fingerprint": "95cb06ebd40276dc2d2bd1351c67050497f0940626199be474428d53ef3704d9",
-        "media_fingerprint": "028a7d80e104d22409416ff1a0044059adc2b8481acd05320927877d4d427347",
-        "text": "مدل مو\n❌\nممه نمایی\n✅\n@Dashagh",
-        "original_username": "dashagh",
-        "original_text": "مدل مو\n❌\nممه نمایی\n✅\n@Dashagh",
-        "original_link": "https://t.me/dashagh/48769",
-        "post_id": 48769,
-        "message_id": 14455,
-        "message_kind": "caption",
-        "sources": [
-          "dashagh"
-        ],
-        "created_at": "2026-10-26T19:16:26.273221+00:00"
-      },
-      {
-        "fingerprint": "43e5cf65d5b54d39b3c381b202b849bf27afc95035acf0c131807fa305db6a13",
-        "media_fingerprint": "92e73270d3cb50e64dcc4a5ce02be3bc554f83b2dbf7fdfe955a4e89e5e82134",
-        "text": "♦️\nاوقات شرعی فردا به افق مرکز استان (احتیاط یک تا دو دقیقه‌ای لحاظ شود)\n🌱\nوقت دعا ما رو هم به خاطر داشته باشید\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nاوقات شرعی فردا به افق مرکز استان (احتیاط یک تا دو دقیقه‌ای لحاظ شود)\n🌱\nوقت دعا ما رو هم به خاطر داشته باشید\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/144536",
-        "post_id": 144536,
-        "message_id": 14456,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-26T19:56:46.932472+00:00"
-      },
-      {
-        "fingerprint": "d0ffeb08763ab7f882b66888ebfd4514fc5dede63aaf53fc72d44451618c17ae",
-        "media_fingerprint": "69d93b377d877865c941202c0371008542a2d6306e850ca7d3eee77f47fdf5e2",
-        "text": "طیف رنگی خاک هرمز رو حتی توی پالت‌های آرایشی هم پیدا نمیکنی!\n😍\n🆔\n@Ajayebe_jahann\n📸",
-        "original_username": "ajayebe_jahann",
-        "original_text": "طیف رنگی خاک هرمز رو حتی توی پالت‌های آرایشی هم پیدا نمیکنی!\n😍\n🆔\n@Ajayebe_jahann\n📸",
-        "original_link": "https://t.me/Ajayebe_jahann/160272",
-        "post_id": 160272,
-        "message_id": 14457,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-26T19:56:55.424807+00:00"
-      },
-      {
-        "fingerprint": "583a3003d3cc7ddc27e2489981308c806c6970fb59a6f27a6de4a4d791bcff1e",
-        "media_fingerprint": "5e7d7bde0f56e35f0f1bed57440ea05b2b9a20765c348d3ab91394be7d3787ab",
-        "text": "♦️\nبا هم دعای فرج را برای سلامتی و فرج آقا امام زمان(عج) می‌خوانیم\n🔹\nبا قرائت دعای فرج به این جمع میلیونی بپیوندیم\n@AkhbareFori",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nبا هم دعای فرج را برای سلامتی و فرج آقا امام زمان(عج) می‌خوانیم\n🔹\nبا قرائت دعای فرج به این جمع میلیونی بپیوندیم\n@AkhbareFori",
-        "original_link": "https://t.me/akhbarfars/144537",
-        "post_id": 144537,
-        "message_id": 14458,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-26T19:57:00.739210+00:00"
-      },
-      {
-        "fingerprint": "045b02afb4bc219899ee138835e5ef12338644d58ecf3a19f369f4ed991dad07",
-        "media_fingerprint": "5fe0108d479a133c79b0c5575d25c2cf76fa11ebb58ea3874640d6413ba2c40a",
-        "text": "سرمه برای کودکان زدن خوبه یا نه؟\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "سرمه برای کودکان زدن خوبه یا نه؟\n@irWonders",
-        "original_link": "https://t.me/irwonders/59144",
-        "post_id": 59144,
-        "message_id": 14459,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-26T19:57:08.117244+00:00"
-      },
-      {
-        "fingerprint": "7360e1a77643a2c4d59c2615cd0e7236c3edc211cf42ba139f49bb4106f2c66e",
-        "media_fingerprint": "",
-        "text": "نیویورک‌تایمز مدعی شده قطر داره روی طرح یه توافق ۵روزه بین ایران و آمریکا کار می‌کنه\nهسته اصلی این طرح باز شدن تنگه در ازای رفع محاصره ایرانه\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "نیویورک‌تایمز مدعی شده قطر داره روی طرح یه توافق ۵روزه بین ایران و آمریکا کار می‌کنه\nهسته اصلی این طرح باز شدن تنگه در ازای رفع محاصره ایرانه\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163971",
-        "post_id": 163971,
-        "message_id": 14460,
-        "message_kind": "text",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-26T19:57:11.644245+00:00"
-      },
       {
         "fingerprint": "0f072614583d6f3f4520d7c3df74d1dff94800f61447de35ec92ff384a6f7f9f",
         "media_fingerprint": "681707e73ccc95a0d8343ee4e4649f10b2fda7521082986aed4ec5e6d7570e41",
@@ -30656,7 +30462,8 @@
         "message_kind": "caption",
         "sources": [
           "gizmiztel",
-          "niazcom_ir"
+          "niazcom_ir",
+          "midanesti"
         ],
         "created_at": "2026-10-27T15:53:15.945192+00:00"
       },
@@ -31031,7 +30838,8 @@
         "message_id": 14741,
         "message_kind": "caption",
         "sources": [
-          "drtel"
+          "drtel",
+          "fucknewsi"
         ],
         "created_at": "2026-10-27T17:56:19.772021+00:00"
       },
@@ -31376,7 +31184,8 @@
         "message_id": 14765,
         "message_kind": "caption",
         "sources": [
-          "dashagh"
+          "dashagh",
+          "peach_tweet"
         ],
         "created_at": "2026-10-27T18:40:19.932318+00:00"
       },
@@ -31544,6 +31353,216 @@
           "cinematicketorg"
         ],
         "created_at": "2026-10-27T18:41:36.578437+00:00"
+      },
+      {
+        "fingerprint": "6b69470edd12b3ef4bf1676dc98fb34e21cf501dd4e340971e7b9727722288b9",
+        "media_fingerprint": "8215ae4897b4e94a21cc2dd85616061da52b859efa1bc4ea6b91c8d257efb7e2",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26796",
+        "post_id": 26796,
+        "message_id": 14780,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-27T19:26:07.659491+00:00"
+      },
+      {
+        "fingerprint": "14ba8023020a1b523089c17473c6e499b3a8364fe12b04e3449a7877e8b14536",
+        "media_fingerprint": "",
+        "text": "سخنگوی وزارت آموزش‌وپرورش:\nشایعات مطرح‌شده درباره تعطیلی و غیرحضوری‌شدن مدارس کشور صحت ندارد و هیچ برنامه‌ای برای تعطیلی مدارس نداریم\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "سخنگوی وزارت آموزش‌وپرورش:\nشایعات مطرح‌شده درباره تعطیلی و غیرحضوری‌شدن مدارس کشور صحت ندارد و هیچ برنامه‌ای برای تعطیلی مدارس نداریم\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/164021",
+        "post_id": 164021,
+        "message_id": 14781,
+        "message_kind": "text",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-27T19:26:11.023248+00:00"
+      },
+      {
+        "fingerprint": "0296dc003e9c258e69fbe5384a3bfc2930ad6dee22e4eaabec6c6d8fa47a2fb0",
+        "media_fingerprint": "888a42614451808d52e20f9c93cc1b5672658d829c04f0099cee8c4f429364d9",
+        "text": "تصاویری از اولین برف پاییزی در ارتفاعات البرز\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "تصاویری از اولین برف پاییزی در ارتفاعات البرز\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/164022",
+        "post_id": 164022,
+        "message_id": 14782,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-27T19:26:17.094717+00:00"
+      },
+      {
+        "fingerprint": "8a2279d2ee8e1da55274c52ca2016ec53ec6f038c3de2d5ecd4ba42d738d9bad",
+        "media_fingerprint": "9059a8b34d59f223cbf130176e574fbe5a1f00e21a2973bff0ecb80b31fa5e88",
+        "text": "اولش فکر کردم رئیس آموزش و پرورش هست\n😄\nپرندە رو دیوار کُپ کرد بیچارە\n😁\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "اولش فکر کردم رئیس آموزش و پرورش هست\n😄\nپرندە رو دیوار کُپ کرد بیچارە\n😁\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/164023",
+        "post_id": 164023,
+        "message_id": 14783,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-27T19:26:23.493592+00:00"
+      },
+      {
+        "fingerprint": "c5546627423c3dfe25408bf565c093bd8caeff932596fe2615c456400444d53d",
+        "media_fingerprint": "ce36a14141db9f85e00323f3a0fabdd4e3304d73fd9168f2f917a3e142af6830",
+        "text": "هوا به‌شدت مه‌آلود بود و صدای مرال از روبه‌رو به گوش می‌رسید. تا جایی که امکان داشت خودمان را به صدا نزدیک کردیم و منتظر ماندیم تا شاید مه کنار برود. در دقایق پایانی روز بود که مه برای لحظاتی کنار رفت و توانستیم این صحنه به‌یادماندنی را ببینیم.\nتفاوت اندازه یک مرال نر بزرگ با یک خرس متوسط واقعا جلب توجه می‌کرد.\nاوج زیبایی این موجود وقتیه که شروع به حرکت میکنه…\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "هوا به‌شدت مه‌آلود بود و صدای مرال از روبه‌رو به گوش می‌رسید. تا جایی که امکان داشت خودمان را به صدا نزدیک کردیم و منتظر ماندیم تا شاید مه کنار برود. در دقایق پایانی روز بود که مه برای لحظاتی کنار رفت و توانستیم این صحنه به‌یادماندنی را ببینیم.\nتفاوت اندازه یک مرال نر بزرگ با یک خرس متوسط واقعا جلب توجه می‌کرد.\nاوج زیبایی این موجود وقتیه که شروع به حرکت میکنه…\n@irWonders",
+        "original_link": "https://t.me/irwonders/59176",
+        "post_id": 59176,
+        "message_id": 14784,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-27T19:26:29.947460+00:00"
+      },
+      {
+        "fingerprint": "ee1e6afcc7cfa1500cb063420ae0c4ae6f4fc6ca31d529d026f598dbd391bc90",
+        "media_fingerprint": "34461879defc854fe97ec719481dac8c4cb807d50880e0c94c86a103f76d224a",
+        "text": "♦️\nاین سرزمین با همه‌ی ما معنا پیدا می‌کنه؛با هر قومیت، هر زبان و هر لهجه‌ای\n❤️\n#ایران_زیبا\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nاین سرزمین با همه‌ی ما معنا پیدا می‌کنه؛با هر قومیت، هر زبان و هر لهجه‌ای\n❤️\n#ایران_زیبا\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144597",
+        "post_id": 144597,
+        "message_id": 14785,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-27T19:26:36.174961+00:00"
+      },
+      {
+        "fingerprint": "7b555720fa643c11a96027faa8ebcd6e201bfd81189c51debfb3fc3d9f105a04",
+        "media_fingerprint": "",
+        "text": "",
+        "original_username": "apkclub",
+        "original_text": "",
+        "original_link": "https://t.me/apkclub/73280",
+        "post_id": 73280,
+        "message_id": 14786,
+        "message_kind": "text",
+        "sources": [
+          "apkclub"
+        ],
+        "created_at": "2026-10-27T19:26:39.546069+00:00"
+      },
+      {
+        "fingerprint": "0e11293b668cccfce2e4ab2f546b5c449eeff0b85827029b303667af77bdf773",
+        "media_fingerprint": "c9445e51cf8be4d5677d161c907116d1c36c44a69e8d1dadd2ffccf431935463",
+        "text": "ماجرای عجیب تریان‌ها در شهربازی ایتالیا\n!\nصاحب یک وسیله شهربازی می‌گه چند نفر با ماسک‌های عجیب سوار بازی شدن و وقتی ازشون بلیت خواسته، فقط هاپ‌هاپ و عو‌عو کردن!\n🐶\nبه گفته خودش، بعداً فهمیده این افراد خودشون رو تریان می‌دونن؛ افرادی که هویت خودشون رو به حیوانات نزدیک می‌دونن!\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "ماجرای عجیب تریان‌ها در شهربازی ایتالیا\n!\nصاحب یک وسیله شهربازی می‌گه چند نفر با ماسک‌های عجیب سوار بازی شدن و وقتی ازشون بلیت خواسته، فقط هاپ‌هاپ و عو‌عو کردن!\n🐶\nبه گفته خودش، بعداً فهمیده این افراد خودشون رو تریان می‌دونن؛ افرادی که هویت خودشون رو به حیوانات نزدیک می‌دونن!\n@irWonders",
+        "original_link": "https://t.me/irwonders/59177",
+        "post_id": 59177,
+        "message_id": 14787,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-27T19:26:45.966070+00:00"
+      },
+      {
+        "fingerprint": "5a499b888bea33d9e1c95e73759d3958832b9edbf5934f838793b5a2129faf26",
+        "media_fingerprint": "6788a3a1bacdc02730e14436c265eeb9e72ab89d79a1453679800266532f0883",
+        "text": "🖋️\nفیلمبردار فیلم‌های «خشت و آینه»(ابراهیم گلستان) و «خانه سیاه است»(فروغ فرخزاد):\nسلیمان میناسیان درگذشت.\n@ecrannews",
+        "original_username": "ecrannews",
+        "original_text": "🖋️\nفیلمبردار فیلم‌های «خشت و آینه»(ابراهیم گلستان) و «خانه سیاه است»(فروغ فرخزاد):\nسلیمان میناسیان درگذشت.\n@ecrannews",
+        "original_link": "https://t.me/ecrannews/14580",
+        "post_id": 14580,
+        "message_id": 14788,
+        "message_kind": "caption",
+        "sources": [
+          "ecrannews"
+        ],
+        "created_at": "2026-10-27T19:26:50.532764+00:00"
+      },
+      {
+        "fingerprint": "69487a63a06d5077ce9fddcaa99042e487e488c36aadca5572deb4c48f7a8804",
+        "media_fingerprint": "cc61cdebe834948b2464c44cbcc139b4c99946c36c6c2e4474b2cce45849fdf3",
+        "text": "دوربین مخفی\n😂\n(همه دخترا همینطورین؟؟؟\n😂\n)\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "دوربین مخفی\n😂\n(همه دخترا همینطورین؟؟؟\n😂\n)\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48800",
+        "post_id": 48800,
+        "message_id": 14789,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-27T19:26:57.242943+00:00"
+      },
+      {
+        "fingerprint": "dad955ee809e5452c79372d2776687bf86f954d2ec1a568518729d0aff2ffdee",
+        "media_fingerprint": "610d7d5eeada7657e41634b3e2f344cacdb08caf3d94a551a2cd5e7096121226",
+        "text": "رنگ غذات بیشتر از چیزی که فکر می‌کنی حرف برای گفتن داره!\n👀\n💚\nهر رنگ، ترکیبات متفاوتی داره که می‌تونن به سلامت بدن کمک کنن.\n🍇\n🍋\n🥦\n🍅\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "رنگ غذات بیشتر از چیزی که فکر می‌کنی حرف برای گفتن داره!\n👀\n💚\nهر رنگ، ترکیبات متفاوتی داره که می‌تونن به سلامت بدن کمک کنن.\n🍇\n🍋\n🥦\n🍅\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/307377",
+        "post_id": 307377,
+        "message_id": 14790,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-27T19:27:09.829989+00:00"
+      },
+      {
+        "fingerprint": "6a8f24a046e5d39e87f3ddabe751ed88779c553ce53eb340bf4e474c6a192b40",
+        "media_fingerprint": "bd0d1e5e5516ee1408615d0e1000eea34700975b4d0ac059a9dd52fb6218e370",
+        "text": "دل بزرگ داشتن این شکلیه تا آخر ببینید\n♥️\n🥲\nاز همینجا خواستم بگم دم شما گرم که یه نفرو خوشحال کردی\n♥️\n♥️\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "دل بزرگ داشتن این شکلیه تا آخر ببینید\n♥️\n🥲\nاز همینجا خواستم بگم دم شما گرم که یه نفرو خوشحال کردی\n♥️\n♥️\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/307380",
+        "post_id": 307380,
+        "message_id": 14791,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-27T19:27:16.362538+00:00"
+      },
+      {
+        "fingerprint": "9e2409b0922253d1d838795e5a63fb4a1c06d9278da11ee3795f34e864f9ad90",
+        "media_fingerprint": "",
+        "text": "داداش عکسش چیه هنوز دانلود نشد",
+        "original_username": "drtel",
+        "original_text": "داداش عکسش چیه هنوز دانلود نشد",
+        "original_link": "https://t.me/drtel/71924",
+        "post_id": 71924,
+        "message_id": 14792,
+        "message_kind": "text",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-27T19:27:20.118849+00:00"
+      },
+      {
+        "fingerprint": "0c958f3e8ca3062a63c1c49542ffd6eb074872a4d238b9269b6365f03edc4b3e",
+        "media_fingerprint": "5e748ad321fbdbb630aa9261b709a153fe0cd9333edbc93115dd7a6794b9840a",
+        "text": "♦️\nاوقات شرعی فردا به افق مرکز استان (احتیاط یک تا دو دقیقه‌ای لحاظ شود)\n🌱\nوقت دعا ما رو هم به خاطر داشته باشید\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nاوقات شرعی فردا به افق مرکز استان (احتیاط یک تا دو دقیقه‌ای لحاظ شود)\n🌱\nوقت دعا ما رو هم به خاطر داشته باشید\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144601",
+        "post_id": 144601,
+        "message_id": 14793,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-27T19:27:25.207387+00:00"
       }
     ]
   }
