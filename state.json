@@ -1,11 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 144591,
+      "last_id": 144596,
       "processed_ids": [
-        143257,
-        143258,
-        143259,
         143260,
         143261,
         143262,
@@ -1002,21 +999,17 @@
         144588,
         144589,
         144590,
-        144591
+        144591,
+        144592,
+        144593,
+        144596
       ],
-      "sent_count": 1316,
+      "sent_count": 1319,
       "failed": {}
     },
     "total_fut": {
-      "last_id": 238849,
+      "last_id": 238858,
       "processed_ids": [
-        237612,
-        237613,
-        237614,
-        237615,
-        237616,
-        237617,
-        237618,
         237619,
         237620,
         237621,
@@ -2009,16 +2002,21 @@
         238845,
         238846,
         238848,
-        238849
+        238849,
+        238852,
+        238853,
+        238854,
+        238855,
+        238856,
+        238857,
+        238858
       ],
       "sent_count": 197,
       "failed": {}
     },
     "footballvision2": {
-      "last_id": 173220,
+      "last_id": 173222,
       "processed_ids": [
-        171284,
-        171285,
         171286,
         171287,
         171288,
@@ -3016,7 +3014,9 @@
         173217,
         173218,
         173219,
-        173220
+        173220,
+        173221,
+        173222
       ],
       "sent_count": 224,
       "failed": {}
@@ -3517,9 +3517,8 @@
       "failed": {}
     },
     "drtel": {
-      "last_id": 71921,
+      "last_id": 71922,
       "processed_ids": [
-        66909,
         66910,
         66911,
         66912,
@@ -4518,13 +4517,14 @@
         71918,
         71919,
         71920,
-        71921
+        71921,
+        71922
       ],
-      "sent_count": 677,
+      "sent_count": 678,
       "failed": {}
     },
     "techtube": {
-      "last_id": 18659,
+      "last_id": 18664,
       "processed_ids": [
         18261,
         18262,
@@ -4777,9 +4777,10 @@
         18656,
         18657,
         18658,
-        18659
+        18659,
+        18664
       ],
-      "sent_count": 84,
+      "sent_count": 85,
       "failed": {}
     },
     "dafaterepishkhandpd": {
@@ -6145,9 +6146,8 @@
       "failed": {}
     },
     "akhbar_cafenet": {
-      "last_id": 23757,
+      "last_id": 23758,
       "processed_ids": [
-        22638,
         22639,
         22640,
         22641,
@@ -7146,13 +7146,14 @@
         23754,
         23755,
         23756,
-        23757
+        23757,
+        23758
       ],
       "sent_count": 592,
       "failed": {}
     },
     "comentiat": {
-      "last_id": 26793,
+      "last_id": 26795,
       "processed_ids": [
         25844,
         25845,
@@ -7897,9 +7898,11 @@
         26790,
         26791,
         26792,
-        26793
+        26793,
+        26794,
+        26795
       ],
-      "sent_count": 556,
+      "sent_count": 557,
       "failed": {}
     },
     "boost/fndoni": {
@@ -7911,7 +7914,7 @@
       "failed": {}
     },
     "majalepezeshki": {
-      "last_id": 38875,
+      "last_id": 38877,
       "processed_ids": [
         38432,
         38433,
@@ -8345,7 +8348,9 @@
         38872,
         38873,
         38874,
-        38875
+        38875,
+        38876,
+        38877
       ],
       "sent_count": 253,
       "failed": {}
@@ -10440,12 +10445,8 @@
       "failed": {}
     },
     "ajayebe_jahann": {
-      "last_id": 160305,
+      "last_id": 160310,
       "processed_ids": [
-        159232,
-        159233,
-        159234,
-        159235,
         159236,
         159237,
         159238,
@@ -11441,9 +11442,13 @@
         160302,
         160303,
         160304,
-        160305
+        160305,
+        160307,
+        160308,
+        160309,
+        160310
       ],
-      "sent_count": 482,
+      "sent_count": 484,
       "failed": {}
     },
     "etelaate_omoomi": {
@@ -18701,9 +18706,8 @@
       "failed": {}
     },
     "irwonders": {
-      "last_id": 59174,
+      "last_id": 59175,
       "processed_ids": [
-        58042,
         58043,
         58045,
         58046,
@@ -19702,9 +19706,10 @@
         59171,
         59172,
         59173,
-        59174
+        59174,
+        59175
       ],
-      "sent_count": 640,
+      "sent_count": 641,
       "failed": {}
     },
     "razcom": {
@@ -22300,7 +22305,7 @@
       "failed": {}
     },
     "cinematicketorg": {
-      "last_id": 24458,
+      "last_id": 24459,
       "processed_ids": [
         24353,
         24354,
@@ -22377,9 +22382,10 @@
         24455,
         24456,
         24457,
-        24458
+        24458,
+        24459
       ],
-      "sent_count": 57,
+      "sent_count": 58,
       "failed": {}
     },
     "cinemadaily": {
@@ -22932,7 +22938,7 @@
       "failed": {}
     },
     "shakhmovie": {
-      "last_id": 4291,
+      "last_id": 4292,
       "processed_ids": [
         4017,
         4018,
@@ -23109,13 +23115,14 @@
         4285,
         4286,
         4287,
-        4291
+        4291,
+        4292
       ],
       "sent_count": 154,
       "failed": {}
     },
     "peach_tweet": {
-      "last_id": 4717,
+      "last_id": 4719,
       "processed_ids": [
         2745,
         2749,
@@ -23830,7 +23837,8 @@
         4713,
         4715,
         4716,
-        4717
+        4717,
+        4719
       ],
       "sent_count": 368,
       "failed": {}
@@ -24315,7 +24323,7 @@
       "failed": {}
     },
     "persiana_pluss": {
-      "last_id": 7278,
+      "last_id": 7282,
       "processed_ids": [
         6113,
         6114,
@@ -25233,7 +25241,11 @@
         7275,
         7276,
         7277,
-        7278
+        7278,
+        7279,
+        7280,
+        7281,
+        7282
       ],
       "sent_count": 22,
       "failed": {}
@@ -25418,7 +25430,7 @@
       "failed": {}
     },
     "dashagh": {
-      "last_id": 48797,
+      "last_id": 48798,
       "processed_ids": [
         48313,
         48314,
@@ -25759,13 +25771,14 @@
         48793,
         48794,
         48796,
-        48797
+        48797,
+        48798
       ],
-      "sent_count": 235,
+      "sent_count": 236,
       "failed": {}
     },
     "apkclub": {
-      "last_id": 73277,
+      "last_id": 73279,
       "processed_ids": [
         72962,
         72963,
@@ -26061,13 +26074,15 @@
         73274,
         73275,
         73276,
-        73277
+        73277,
+        73278,
+        73279
       ],
-      "sent_count": 116,
+      "sent_count": 117,
       "failed": {}
     },
     "boob_sfangi": {
-      "last_id": 2933,
+      "last_id": 2935,
       "processed_ids": [
         2587,
         2590,
@@ -26336,13 +26351,15 @@
         2929,
         2930,
         2931,
-        2933
+        2933,
+        2934,
+        2935
       ],
-      "sent_count": 173,
+      "sent_count": 174,
       "failed": {}
     },
     "fucknewsi": {
-      "last_id": 14018,
+      "last_id": 14019,
       "processed_ids": [
         13561,
         13562,
@@ -26646,9 +26663,10 @@
         14012,
         14013,
         14014,
-        14018
+        14018,
+        14019
       ],
-      "sent_count": 128,
+      "sent_count": 129,
       "failed": {}
     },
     "https://t.me/+hhcepayguws1nti0": {
@@ -26979,7 +26997,7 @@
       "failed": {}
     },
     "media_aramesh": {
-      "last_id": 113093,
+      "last_id": 113094,
       "processed_ids": [
         113071,
         113072,
@@ -26998,7 +27016,8 @@
         113085,
         113086,
         113092,
-        113093
+        113093,
+        113094
       ],
       "sent_count": 13,
       "failed": {}
@@ -27006,216 +27025,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "a79cc89a4b61414c35cabcf0918d23f670926397336ce96530cbd006354ad294",
-        "media_fingerprint": "",
-        "text": "",
-        "original_username": "ajayebe_jahann",
-        "original_text": "",
-        "original_link": "https://t.me/Ajayebe_jahann/160268",
-        "post_id": 160268,
-        "message_id": 14433,
-        "message_kind": "text",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-26T18:41:18.791229+00:00"
-      },
-      {
-        "fingerprint": "e51b0bc70f05727ccf44e5a543f901b17a890a7706d3eae0f49cfc798b63c502",
-        "media_fingerprint": "",
-        "text": "",
-        "original_username": "apkclub",
-        "original_text": "",
-        "original_link": "https://t.me/apkclub/73257",
-        "post_id": 73257,
-        "message_id": 14434,
-        "message_kind": "text",
-        "sources": [
-          "apkclub"
-        ],
-        "created_at": "2026-10-26T18:41:22.995389+00:00"
-      },
-      {
-        "fingerprint": "8a484828be8fecc46b2a030b92d7b7d932bb77e4bd10c0c58e011426aa8c430e",
-        "media_fingerprint": "051b817327032c6133a5514e9bcc9c90c99424d0c3594d4e5e118488e6355e02",
-        "text": "💻\nNext Movie\n🔝\nV7.2\n⭐️\nمود نکست مووی تماشای فیلم و سریال بدون سانسور\n🔖\nویژگی‌های نسخه مود:\n🔵\nفایل های اضافی حذف شده\n🔵\nتبلیغات حذف شده است\n🔵\nاشتراک برنامه فعال شده است\n📱\nبرای دانلود فایل روی (\nدانــلود\n) کلیک کنید.\n🌟\n@APKCLUB",
-        "original_username": "apkclub",
-        "original_text": "💻\nNext Movie\n🔝\nV7.2\n⭐️\nمود نکست مووی تماشای فیلم و سریال بدون سانسور\n🔖\nویژگی‌های نسخه مود:\n🔵\nفایل های اضافی حذف شده\n🔵\nتبلیغات حذف شده است\n🔵\nاشتراک برنامه فعال شده است\n📱\nبرای دانلود فایل روی (\nدانــلود\n) کلیک کنید.\n🌟\n@APKCLUB",
-        "original_link": "https://t.me/apkclub/73258",
-        "post_id": 73258,
-        "message_id": 14435,
-        "message_kind": "caption",
-        "sources": [
-          "apkclub"
-        ],
-        "created_at": "2026-10-26T18:41:28.114648+00:00"
-      },
-      {
-        "fingerprint": "0f1515f7e193a4cf52ff974ab3f1fef92f25ce7a0c5252e3d9c3b80aeede72e9",
-        "media_fingerprint": "b9052ab86be4cf8562827b42c1438851eab7bb12e282676688d8a8a75b286e79",
-        "text": "این مردی که توی تصویر میبینی رفته دزدی کرده و یه بچه دیدتش و نقاشیشو کشیده و در عرض چند ساعت دستگیر شده\n😁\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
-        "original_username": "boob_sfangi",
-        "original_text": "این مردی که توی تصویر میبینی رفته دزدی کرده و یه بچه دیدتش و نقاشیشو کشیده و در عرض چند ساعت دستگیر شده\n😁\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
-        "original_link": "https://t.me/boob_sfangi/2902",
-        "post_id": 2902,
-        "message_id": 14436,
-        "message_kind": "caption",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-26T18:41:46.199962+00:00"
-      },
-      {
-        "fingerprint": "b4c5fe6772f49fe0a33aef591936b997334d923523fcbc9b684da3e26a368cab",
-        "media_fingerprint": "dfe04d1120f672ec376e12926d3fa51ba99e3c4a2d9e11b519db13d7489b4f07",
-        "text": "سال ۲۰۵۰ هست و تو داری از خیابون رد میشی :\n😭\n@RoidBest",
-        "original_username": "roidbest",
-        "original_text": "سال ۲۰۵۰ هست و تو داری از خیابون رد میشی :\n😭\n@RoidBest",
-        "original_link": "https://t.me/RoidBest/21995",
-        "post_id": 21995,
-        "message_id": 14437,
-        "message_kind": "caption",
-        "sources": [
-          "roidbest"
-        ],
-        "created_at": "2026-10-26T18:41:53.507158+00:00"
-      },
-      {
-        "fingerprint": "d2b2afc6ac2411cf75fdb319c51d0fd221e77adc35905d11bb458ef04dcbc847",
-        "media_fingerprint": "f9889eaba125d4d10db7e165c3c2eb1ce9321d00b21f2ab1b4648beff8bb93f1",
-        "text": "😯\nرفاقت پسرا چرا انقدر دارک و عجیبه؟\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
-        "original_username": "boob_sfangi",
-        "original_text": "😯\nرفاقت پسرا چرا انقدر دارک و عجیبه؟\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
-        "original_link": "https://t.me/boob_sfangi/2903",
-        "post_id": 2903,
-        "message_id": 14438,
-        "message_kind": "caption",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-26T18:41:58.714727+00:00"
-      },
-      {
-        "fingerprint": "4398f01c64236433fc99bc5cdc3a130779ce33f4fb5422bd0df55d0ae0ff16ca",
-        "media_fingerprint": "",
-        "text": "عروس دریایی در ساحل چاف (ساحل دریای کاسپین )\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "عروس دریایی در ساحل چاف (ساحل دریای کاسپین )\n@irWonders",
-        "original_link": "https://t.me/irwonders/59142",
-        "post_id": 59142,
-        "message_id": 14439,
-        "message_kind": "text",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-26T19:14:42.154920+00:00"
-      },
-      {
-        "fingerprint": "38cc0c2b2ce8494507e8358a7201cac5881bb6add88e9b512ee4a1d3d4996258",
-        "media_fingerprint": "90ed4b215dcb629f714f92444185af3f92c1c70b916aad25b1d51bb856e94b44",
-        "text": "از یک‌سری قطع ارتباط‌ها پشیمان نباش!\nدرختی که ریشه‌اش خراب است را اگر از جا بکنی، باغ خودت را نجات داده‌ای\n@media_aramesh",
-        "original_username": "media_aramesh",
-        "original_text": "از یک‌سری قطع ارتباط‌ها پشیمان نباش!\nدرختی که ریشه‌اش خراب است را اگر از جا بکنی، باغ خودت را نجات داده‌ای\n@media_aramesh",
-        "original_link": "https://t.me/media_aramesh/113082",
-        "post_id": 113082,
-        "message_id": 14440,
-        "message_kind": "caption",
-        "sources": [
-          "media_aramesh"
-        ],
-        "created_at": "2026-10-26T19:14:47.555468+00:00"
-      },
-      {
-        "fingerprint": "6ac799aaddca6cff5ed298fb7953ac9bdac2f800ab43dee4f1cdfa49398477ba",
-        "media_fingerprint": "0317ebc6d337a4ddc71876509bc6f31b79ae970c80f4337aee9d3688c123cbcb",
-        "text": "چه جوری هم شاد و خرم بشیم هم طول عمرمون بره بالاتر ؟!\nحتما گوش کنید\n♥️\n@FuckNewsi",
-        "original_username": "fucknewsi",
-        "original_text": "چه جوری هم شاد و خرم بشیم هم طول عمرمون بره بالاتر ؟!\nحتما گوش کنید\n♥️\n@FuckNewsi",
-        "original_link": "https://t.me/FuckNewsi/13975",
-        "post_id": 13975,
-        "message_id": 14441,
-        "message_kind": "caption",
-        "sources": [
-          "fucknewsi"
-        ],
-        "created_at": "2026-10-26T19:14:55.720386+00:00"
-      },
-      {
-        "fingerprint": "f7ddad125aee7053afaac240506cbd7724566c261059ec0e3a08aea59c0cc5bd",
-        "media_fingerprint": "",
-        "text": "صلح درون-٢-سپهر خدابنده (2).m4a",
-        "original_username": "akhbarfars",
-        "original_text": "صلح درون-٢-سپهر خدابنده (2).m4a",
-        "original_link": "https://t.me/akhbarfars/144532",
-        "post_id": 144532,
-        "message_id": 14442,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-26T19:14:59.193818+00:00"
-      },
-      {
-        "fingerprint": "1ba6e30bcdc78f01955bc9fbddcf9b9605aec8de01d2870ca3b05a1183cd2ca9",
-        "media_fingerprint": "d2ed6beb88f1b697d8f7450c71a03d7a1b249e4480ee59dbf74b0267c21405ea",
-        "text": "مریم امیرجلالی در گفت‌وگویی از خاطراتش در سریال «خانه به دوش»:\nبسیاری از دیالوگ‌هایی که در این سریال می‌گفته، بداهه بوده و در فیلمنامه وجود نداشته‌اند.\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "مریم امیرجلالی در گفت‌وگویی از خاطراتش در سریال «خانه به دوش»:\nبسیاری از دیالوگ‌هایی که در این سریال می‌گفته، بداهه بوده و در فیلمنامه وجود نداشته‌اند.\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163962",
-        "post_id": 163962,
-        "message_id": 14443,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-26T19:15:06.814386+00:00"
-      },
-      {
-        "fingerprint": "d03df9918dc8086e7a5ace47cfa16949fff4ee424945ab60aecb12b3c2964acf",
-        "media_fingerprint": "fbdbb7cd0e8dacecfbc35d6e9afb77e71ee6610a262c94abe59c076ca92f83cc",
-        "text": "دهکده ی گردشگری زراس ،  پل کارون ۳، خوزستان\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "دهکده ی گردشگری زراس ،  پل کارون ۳، خوزستان\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163963",
-        "post_id": 163963,
-        "message_id": 14444,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-26T19:15:14.239956+00:00"
-      },
-      {
-        "fingerprint": "b44b35843471ed5df78065d6e0c1b55781becb79969f9a5aa5a2035a4608c522",
-        "media_fingerprint": "485b8af76219d0eb77e21f4512dc2c529853e444ba553bfa0f1b2d7fb549c0cc",
-        "text": "اگه امضات قشنگه که هیچ\nاگه نه بیا تو پیجم تا امضای خاص خودتو طراحی کنم\nو به صورت مهر جیبی برات بفرستم تا همه جا همراهت باشه\n❤️\n❤️\n❤️\nبرای داشتنش بیا اینجا\n👇\n👇\nامضای خاص تو",
-        "original_username": "gizmiztel",
-        "original_text": "اگه امضات قشنگه که هیچ\nاگه نه بیا تو پیجم تا امضای خاص خودتو طراحی کنم\nو به صورت مهر جیبی برات بفرستم تا همه جا همراهت باشه\n❤️\n❤️\n❤️\nبرای داشتنش بیا اینجا\n👇\n👇\nامضای خاص تو",
-        "original_link": "https://t.me/gizmiztel/163964",
-        "post_id": 163964,
-        "message_id": 14445,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-26T19:15:21.013427+00:00"
-      },
-      {
-        "fingerprint": "3879d7fa3e9e980c95cc094691349d2136b3f582430d091284197f544301b342",
-        "media_fingerprint": "d3f7111dbb28ff52365e2a84183d3c1d6d8d03bc9c70ee5364176588253d337a",
-        "text": "دزد خری بود\n😂\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "دزد خری بود\n😂\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/163965",
-        "post_id": 163965,
-        "message_id": 14446,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-26T19:15:27.582206+00:00"
-      },
       {
         "fingerprint": "549c82068a6c801a285918aca58ba25199df7982836ad0b384480f344c208430",
         "media_fingerprint": "1c16af99224131af9b8f3dc58be1898113466a0f1d8bae773f1073cdcc7a4881",
@@ -29640,7 +29449,8 @@
         "message_id": 14623,
         "message_kind": "caption",
         "sources": [
-          "jaleb"
+          "jaleb",
+          "ajayebe_jahann"
         ],
         "created_at": "2026-10-27T15:20:20.456204+00:00"
       },
@@ -31524,6 +31334,216 @@
           "akhbarfars"
         ],
         "created_at": "2026-10-27T17:58:20.456771+00:00"
+      },
+      {
+        "fingerprint": "173e07212d50b1ee236d9954ec82105763a32daca899d194a047d21e7cdd5eee",
+        "media_fingerprint": "20db0cd6c4ea83f80add8d657049ad66546aa840cadd94eaf24ecabc6ed87502",
+        "text": "🏜\nرزرو قسطی تورهای کویرگردی!\nاز تماشای غروب تا شب‌نشینی زیر آسمون پرستاره‌ی کویر، با تورهای اسنپ‌تریپ این لحظه‌های به‌یادموندنی رو تجربه کن.\n💳\nقسطی، بدون نیاز به چک و ضامن و سفته\n🔗\nبرای مشاهده و رزرو تورها، روی لینک زیر بزن:\nhttps://snp.tips/f0dus\n@Snapptrip",
+        "original_username": "ajayebe_jahann",
+        "original_text": "🏜\nرزرو قسطی تورهای کویرگردی!\nاز تماشای غروب تا شب‌نشینی زیر آسمون پرستاره‌ی کویر، با تورهای اسنپ‌تریپ این لحظه‌های به‌یادموندنی رو تجربه کن.\n💳\nقسطی، بدون نیاز به چک و ضامن و سفته\n🔗\nبرای مشاهده و رزرو تورها، روی لینک زیر بزن:\nhttps://snp.tips/f0dus\n@Snapptrip",
+        "original_link": "https://t.me/Ajayebe_jahann/160307",
+        "post_id": 160307,
+        "message_id": 14763,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-27T18:40:06.953384+00:00"
+      },
+      {
+        "fingerprint": "74886e9ad447f7150254e1a49713a1dd781118f1b917f5479b5ce77e7b4f6e82",
+        "media_fingerprint": "",
+        "text": "",
+        "original_username": "ajayebe_jahann",
+        "original_text": "",
+        "original_link": "https://t.me/Ajayebe_jahann/160309",
+        "post_id": 160309,
+        "message_id": 14764,
+        "message_kind": "text",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-27T18:40:10.417936+00:00"
+      },
+      {
+        "fingerprint": "bfe539b258d8bb5ade5645d674c150147e07713db8d93bf1cdde3903460c3821",
+        "media_fingerprint": "a68c1383c5830c6dc184103b880b34246e791669654fa0366f2d5fe939ae3a03",
+        "text": "شات های جذاب بانو سیدنی :\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "شات های جذاب بانو سیدنی :\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48798",
+        "post_id": 48798,
+        "message_id": 14765,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-27T18:40:19.932318+00:00"
+      },
+      {
+        "fingerprint": "ea1792de8ed25cd7d6843054ae741b432e3e5b93aa5b45db1d7106e4cbcf97d9",
+        "media_fingerprint": "6bb281e8ce006d1b8a4b11c304816d11b2e7a27e7c404f61eedd060895e54af0",
+        "text": "مایکروسافت برنامه بازخرید خدمت و ترک دواطلبانه کار رو برای بیش از 70 هزار کارمند خودش ارائه داده تا بدون نیاز به تعدیل مجدد نیرو، تعداد کارمنداش رو کاهش بده که بزرگترین بازخرید این شرکت تاکنون هست و یک چهارم کل کارمنداش رو شامل میشه و برای کاهش هزینه های این شرکت اتخاذ شده.\nکارکنان بخشهای مختلف مایکروسافت در کشورهای امریکا، کانادا، انگلیس و هند تا سطح 70 که شامل مدیران ارشد و متخصصان بسیار برجسته میشه، واجد شرایط دریافت پیشنهاد خروج داوطلبانه با پرداخت چند ماه حقوق و دیگر مزایا هستن.\nاز جمله اونها کارکنان تیمهای AI Experiences، کوپایلت، CoreAI، ویندوز، Xbox، امور مالی و منابع انسانی میشن. تیمهای سرویسهای ابری و هوش مصنوعی، بخش امور شرکتی، روابط خارجی و حقوقی هم به‌ صورت محدود در این طرح مشارکت دارن.\nدر مقابل، کارکنان تیمهای بازاریابی، کسب ‌و کار تجاری، محاسبات کوانتومی و امنیت مایکروسافت مشمول این طرح نمیشن.\n🔎\nreuters\n📍\n@TechTube",
+        "original_username": "techtube",
+        "original_text": "مایکروسافت برنامه بازخرید خدمت و ترک دواطلبانه کار رو برای بیش از 70 هزار کارمند خودش ارائه داده تا بدون نیاز به تعدیل مجدد نیرو، تعداد کارمنداش رو کاهش بده که بزرگترین بازخرید این شرکت تاکنون هست و یک چهارم کل کارمنداش رو شامل میشه و برای کاهش هزینه های این شرکت اتخاذ شده.\nکارکنان بخشهای مختلف مایکروسافت در کشورهای امریکا، کانادا، انگلیس و هند تا سطح 70 که شامل مدیران ارشد و متخصصان بسیار برجسته میشه، واجد شرایط دریافت پیشنهاد خروج داوطلبانه با پرداخت چند ماه حقوق و دیگر مزایا هستن.\nاز جمله اونها کارکنان تیمهای AI Experiences، کوپایلت، CoreAI، ویندوز، Xbox، امور مالی و منابع انسانی میشن. تیمهای سرویسهای ابری و هوش مصنوعی، بخش امور شرکتی، روابط خارجی و حقوقی هم به‌ صورت محدود در این طرح مشارکت دارن.\nدر مقابل، کارکنان تیمهای بازاریابی، کسب ‌و کار تجاری، محاسبات کوانتومی و امنیت مایکروسافت مشمول این طرح نمیشن.\n🔎\nreuters\n📍\n@TechTube",
+        "original_link": "https://t.me/TechTube/18664",
+        "post_id": 18664,
+        "message_id": 14767,
+        "message_kind": "caption",
+        "sources": [
+          "techtube"
+        ],
+        "created_at": "2026-10-27T18:40:25.440289+00:00"
+      },
+      {
+        "fingerprint": "bd085bc9bd2217bf138ffdd03ea2f76431bafd8c12676d504646130f4cd0e6af",
+        "media_fingerprint": "2a1b4aa04a83128a33dfac9a471cbc60b1d0f042e6a1042f2807372fcf2342ed",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26795",
+        "post_id": 26795,
+        "message_id": 14768,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-27T18:40:30.183533+00:00"
+      },
+      {
+        "fingerprint": "8919ef434ed919551c8801503622fb486a517432556847ac7c66addae9dda8d1",
+        "media_fingerprint": "bdc48bc258ae12233bf445841eadd5beb597f630ca4dbf4fb18d3e6ff7657fa6",
+        "text": "ناسا فارسی (parody)\nغروب خورشید از دید ایستگاه فضایی بین المللی.\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "ناسا فارسی (parody)\nغروب خورشید از دید ایستگاه فضایی بین المللی.\n@irWonders",
+        "original_link": "https://t.me/irwonders/59175",
+        "post_id": 59175,
+        "message_id": 14769,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-27T18:40:36.981358+00:00"
+      },
+      {
+        "fingerprint": "fad8055a21724e454de2e8ccd7b0f27d464c3d880c0de2a6735eb10299e38068",
+        "media_fingerprint": "",
+        "text": "♦️\nمیرزایی سرپرست جدید معاونت شهرسازی و معماری شهرداری شیراز شد\n🔹\nشهردار شیراز در حکمی ، فرزاد میرزایی را با حفظ سمت شهردار منطقه ۶ شیراز به‌عنوان سرپرست معاونت شهرسازی و معماری شهرداری شیراز منصوب کرد.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nمیرزایی سرپرست جدید معاونت شهرسازی و معماری شهرداری شیراز شد\n🔹\nشهردار شیراز در حکمی ، فرزاد میرزایی را با حفظ سمت شهردار منطقه ۶ شیراز به‌عنوان سرپرست معاونت شهرسازی و معماری شهرداری شیراز منصوب کرد.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144592",
+        "post_id": 144592,
+        "message_id": 14770,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-27T18:40:40.510838+00:00"
+      },
+      {
+        "fingerprint": "0ff600cb8ef37a880e2323b933350f1f27496b5bd52ce730ba03a42d656a131a",
+        "media_fingerprint": "ecbd5bb6fefc237b14c53162e00808dc47203975ba58e067016c8e00a361781c",
+        "text": "♦️\nدور گردون گر دو روزی بر مراد ما نگشت\nدائماً یکسان نباشد حال دوران غم مخور\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nدور گردون گر دو روزی بر مراد ما نگشت\nدائماً یکسان نباشد حال دوران غم مخور\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144593",
+        "post_id": 144593,
+        "message_id": 14771,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-27T18:41:07.765355+00:00"
+      },
+      {
+        "fingerprint": "cbce536e000edd14438f3f4d76992296760ec56fec580601637b60c3ba2b30ef",
+        "media_fingerprint": "",
+        "text": "♦️\nآموزش و پرورش: هیچ برنامه‌ای برای تعطیلی یا غیرحضوری‌شدن مدارس در سراسر کشور وجود ندارد و شایعات منتشر شده در فضای مجازی در این زمینه صحت ندارد\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nآموزش و پرورش: هیچ برنامه‌ای برای تعطیلی یا غیرحضوری‌شدن مدارس در سراسر کشور وجود ندارد و شایعات منتشر شده در فضای مجازی در این زمینه صحت ندارد\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144596",
+        "post_id": 144596,
+        "message_id": 14774,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-27T18:41:11.235064+00:00"
+      },
+      {
+        "fingerprint": "53da9ac0b2a6db4170e513b3abe274806dfd9566ea4419fb31e6339939b59b41",
+        "media_fingerprint": "",
+        "text": "",
+        "original_username": "apkclub",
+        "original_text": "",
+        "original_link": "https://t.me/apkclub/73278",
+        "post_id": 73278,
+        "message_id": 14775,
+        "message_kind": "text",
+        "sources": [
+          "apkclub"
+        ],
+        "created_at": "2026-10-27T18:41:14.716536+00:00"
+      },
+      {
+        "fingerprint": "456ea8565a10920ae635980f2424f386a8f56b206681da10f878c6e175add8d3",
+        "media_fingerprint": "940168199cf1835cc060ee71fad91f9c7ef750cf4b85fb4ed5b02d65830f0e6c",
+        "text": "🔴\nدختره نوشته بود؛\nاول صبح یه سر و صدای سنگین اومد، اول فکر کردم پدافند‌ها فعال شدن ولی رفتم بیرون و با این شاهکار مواجه شدم:\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nدختره نوشته بود؛\nاول صبح یه سر و صدای سنگین اومد، اول فکر کردم پدافند‌ها فعال شدن ولی رفتم بیرون و با این شاهکار مواجه شدم:\n@DrTeL",
+        "original_link": "https://t.me/drtel/71922",
+        "post_id": 71922,
+        "message_id": 14776,
+        "message_kind": "text",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-27T18:41:18.929395+00:00"
+      },
+      {
+        "fingerprint": "d8439c7ccfb20bac5bef3730d6063eb066145df6665baf1fd363172d095fd3a7",
+        "media_fingerprint": "c3f7a67bd17cfde07323d0ed9d5e9580b0f431fa24a0f4ef530e399119f8b779",
+        "text": "لاشی قصدت چکابه یا فقط میمالی؟\n@FuckNewsi",
+        "original_username": "fucknewsi",
+        "original_text": "لاشی قصدت چکابه یا فقط میمالی؟\n@FuckNewsi",
+        "original_link": "https://t.me/FuckNewsi/14019",
+        "post_id": 14019,
+        "message_id": 14777,
+        "message_kind": "caption",
+        "sources": [
+          "fucknewsi"
+        ],
+        "created_at": "2026-10-27T18:41:25.632007+00:00"
+      },
+      {
+        "fingerprint": "fd21a8eda47fa9b89029b64192fe415af6b760fd2900e60a53146c1e52a33625",
+        "media_fingerprint": "dbd4df266a015f4e4cab9fb06d17e38c5e2d44fcc8d1d22a5a33ab651412b3aa",
+        "text": "ویدئوی وایرال شده از رفتار پسرا\nدر داخل و خارج از خونه پیش دوست‌دخترشون\n🥪\n💪\n#LarryLobster\n💎\nSpongebob | باب اسفنجی",
+        "original_username": "boob_sfangi",
+        "original_text": "ویدئوی وایرال شده از رفتار پسرا\nدر داخل و خارج از خونه پیش دوست‌دخترشون\n🥪\n💪\n#LarryLobster\n💎\nSpongebob | باب اسفنجی",
+        "original_link": "https://t.me/boob_sfangi/2935",
+        "post_id": 2935,
+        "message_id": 14778,
+        "message_kind": "caption",
+        "sources": [
+          "boob_sfangi"
+        ],
+        "created_at": "2026-10-27T18:41:31.572591+00:00"
+      },
+      {
+        "fingerprint": "972947b6d127786886efc0137a61c329dcd92b282b120b6132e8c58928e52cc6",
+        "media_fingerprint": "fe338ca2182512401fe1e28f5cfda877e06310959d61b2222ac0ab3221b5f51b",
+        "text": "«بورسیه» نیامده میلیاردی شد\n🔹\nفیلم سینمایی «بورسیه» به کارگردانی برزو نیک‌نژاد و تهیه‌کنندگی کامران حجازی پیش از آغاز اکران عمومی در مرحله پیش‌فروش، میلیاردی شد.\n🔹\nکمدی «بورسیه» در حالی از چهارشنبه ۶ آبان‌ماه اکران خود را در سینماهای کشور آغاز می‌کند که توانسته است پیش از نمایش عمومی، در پیش‌فروش بلیت‌ها به فروش میلیاردی برسد که ۸۰ درصد از فروش آنلاین بلیت‌های این فیلم نیز از طریق سینماتیکت انجام شده است.\n🔹\nجواد عزتی، امیر جعفری، عباس جمشیدی‌فر و پانته‌آ پناهی‌ها از بازیگران این فیلم سینمایی هستند. داستان این فیلم درباره مردی به نام زکریاست که همه او را زکر صدا می‌کنند. او که همراه دوستش روزگار را با دله‌دزدی می‌گذرانند طی اتفاقاتی تصمیم می‌گیرند سراغ یک سرقت بزرگ‌ بروند. نقشه آن‌ها برای دزدی از یک فروشگاه، آن‌طور که انتظار دارند پیش نمی‌رود و....\n@cinematicketorg",
+        "original_username": "cinematicketorg",
+        "original_text": "«بورسیه» نیامده میلیاردی شد\n🔹\nفیلم سینمایی «بورسیه» به کارگردانی برزو نیک‌نژاد و تهیه‌کنندگی کامران حجازی پیش از آغاز اکران عمومی در مرحله پیش‌فروش، میلیاردی شد.\n🔹\nکمدی «بورسیه» در حالی از چهارشنبه ۶ آبان‌ماه اکران خود را در سینماهای کشور آغاز می‌کند که توانسته است پیش از نمایش عمومی، در پیش‌فروش بلیت‌ها به فروش میلیاردی برسد که ۸۰ درصد از فروش آنلاین بلیت‌های این فیلم نیز از طریق سینماتیکت انجام شده است.\n🔹\nجواد عزتی، امیر جعفری، عباس جمشیدی‌فر و پانته‌آ پناهی‌ها از بازیگران این فیلم سینمایی هستند. داستان این فیلم درباره مردی به نام زکریاست که همه او را زکر صدا می‌کنند. او که همراه دوستش روزگار را با دله‌دزدی می‌گذرانند طی اتفاقاتی تصمیم می‌گیرند سراغ یک سرقت بزرگ‌ بروند. نقشه آن‌ها برای دزدی از یک فروشگاه، آن‌طور که انتظار دارند پیش نمی‌رود و....\n@cinematicketorg",
+        "original_link": "https://t.me/cinematicketorg/24459",
+        "post_id": 24459,
+        "message_id": 14779,
+        "message_kind": "caption",
+        "sources": [
+          "cinematicketorg"
+        ],
+        "created_at": "2026-10-27T18:41:36.578437+00:00"
       }
     ]
   }
