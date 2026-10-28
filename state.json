@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 144657,
+      "last_id": 144659,
       "processed_ids": [
-        143306,
-        143307,
         143308,
         143309,
         143310,
@@ -1002,17 +1000,16 @@
         144654,
         144655,
         144656,
-        144657
+        144657,
+        144658,
+        144659
       ],
-      "sent_count": 1344,
+      "sent_count": 1346,
       "failed": {}
     },
     "total_fut": {
-      "last_id": 238902,
+      "last_id": 238906,
       "processed_ids": [
-        237657,
-        237659,
-        237660,
         237661,
         237662,
         237663,
@@ -2009,18 +2006,17 @@
         238899,
         238900,
         238901,
-        238902
+        238902,
+        238903,
+        238905,
+        238906
       ],
       "sent_count": 197,
       "failed": {}
     },
     "footballvision2": {
-      "last_id": 173272,
+      "last_id": 173276,
       "processed_ids": [
-        171331,
-        171332,
-        171333,
-        171334,
         171335,
         171336,
         171337,
@@ -3016,7 +3012,11 @@
         173269,
         173270,
         173271,
-        173272
+        173272,
+        173273,
+        173274,
+        173275,
+        173276
       ],
       "sent_count": 231,
       "failed": {}
@@ -4947,7 +4947,7 @@
       "failed": {}
     },
     "amozesh_cafenet": {
-      "last_id": 3215,
+      "last_id": 3216,
       "processed_ids": [
         3087,
         3088,
@@ -5058,7 +5058,8 @@
         3212,
         3213,
         3214,
-        3215
+        3215,
+        3216
       ],
       "sent_count": 55,
       "failed": {}
@@ -9660,7 +9661,7 @@
       "failed": {}
     },
     "jaleb": {
-      "last_id": 53291,
+      "last_id": 53294,
       "processed_ids": [
         52261,
         52262,
@@ -10540,9 +10541,12 @@
         53288,
         53289,
         53290,
-        53291
+        53291,
+        53292,
+        53293,
+        53294
       ],
-      "sent_count": 433,
+      "sent_count": 434,
       "failed": {}
     },
     "ajayebe_jahann": {
@@ -21511,7 +21515,7 @@
       "failed": {}
     },
     "khandehabadd": {
-      "last_id": 307402,
+      "last_id": 307403,
       "processed_ids": [
         306563,
         306564,
@@ -22312,9 +22316,10 @@
         307399,
         307400,
         307401,
-        307402
+        307402,
+        307403
       ],
-      "sent_count": 350,
+      "sent_count": 351,
       "failed": {}
     },
     "ravan6enasii": {
@@ -23275,7 +23280,7 @@
       "failed": {}
     },
     "peach_tweet": {
-      "last_id": 4741,
+      "last_id": 4748,
       "processed_ids": [
         2745,
         2749,
@@ -24007,9 +24012,11 @@
         4737,
         4738,
         4739,
-        4741
+        4741,
+        4745,
+        4748
       ],
-      "sent_count": 376,
+      "sent_count": 377,
       "failed": {}
     },
     "funy_khand": {
@@ -24492,7 +24499,7 @@
       "failed": {}
     },
     "persiana_pluss": {
-      "last_id": 7355,
+      "last_id": 7356,
       "processed_ids": [
         6113,
         6114,
@@ -25467,7 +25474,8 @@
         7352,
         7353,
         7354,
-        7355
+        7355,
+        7356
       ],
       "sent_count": 24,
       "failed": {}
@@ -25659,7 +25667,7 @@
       "failed": {}
     },
     "dashagh": {
-      "last_id": 48875,
+      "last_id": 48876,
       "processed_ids": [
         48313,
         48314,
@@ -26026,13 +26034,14 @@
         48869,
         48870,
         48874,
-        48875
+        48875,
+        48876
       ],
-      "sent_count": 254,
+      "sent_count": 255,
       "failed": {}
     },
     "apkclub": {
-      "last_id": 73298,
+      "last_id": 73301,
       "processed_ids": [
         72962,
         72963,
@@ -26347,13 +26356,16 @@
         73295,
         73296,
         73297,
-        73298
+        73298,
+        73299,
+        73300,
+        73301
       ],
-      "sent_count": 126,
+      "sent_count": 127,
       "failed": {}
     },
     "boob_sfangi": {
-      "last_id": 2970,
+      "last_id": 2972,
       "processed_ids": [
         2587,
         2590,
@@ -26655,13 +26667,14 @@
         2967,
         2968,
         2969,
-        2970
+        2970,
+        2972
       ],
-      "sent_count": 193,
+      "sent_count": 194,
       "failed": {}
     },
     "fucknewsi": {
-      "last_id": 14057,
+      "last_id": 14058,
       "processed_ids": [
         13561,
         13562,
@@ -26997,9 +27010,10 @@
         14054,
         14055,
         14056,
-        14057
+        14057,
+        14058
       ],
-      "sent_count": 143,
+      "sent_count": 144,
       "failed": {}
     },
     "https://t.me/+hhcepayguws1nti0": {
@@ -27365,144 +27379,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "a3ac066b9809fb135e7dd2f42f073e1d2649189201dafa27f67dc74cdf8cdec5",
-        "media_fingerprint": "3b73eb86e56c854eff27f2fb5b620e004b0f94831b3c03fe3b5572cbca6c9fa6",
-        "text": "🔹\nآخرین اخبار و اتفاقات استان فارس را در کانال‌های زیر دنبال کنید\n👇\n🔻\nبله:\n@akhbarfars\n🔻\nسروش:\n@akhbarfars\n🔻\nروبیکا:\n@akhbarfars\n🔻\nایتا:\n@akhbarfars\n🔻\nاینستاگرام:\nhttps://www.instagram.com/akhbarefars",
-        "original_username": "akhbarfars",
-        "original_text": "🔹\nآخرین اخبار و اتفاقات استان فارس را در کانال‌های زیر دنبال کنید\n👇\n🔻\nبله:\n@akhbarfars\n🔻\nسروش:\n@akhbarfars\n🔻\nروبیکا:\n@akhbarfars\n🔻\nایتا:\n@akhbarfars\n🔻\nاینستاگرام:\nhttps://www.instagram.com/akhbarefars",
-        "original_link": "https://t.me/akhbarfars/144591",
-        "post_id": 144591,
-        "message_id": 14762,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-27T17:58:20.456771+00:00"
-      },
-      {
-        "fingerprint": "173e07212d50b1ee236d9954ec82105763a32daca899d194a047d21e7cdd5eee",
-        "media_fingerprint": "20db0cd6c4ea83f80add8d657049ad66546aa840cadd94eaf24ecabc6ed87502",
-        "text": "🏜\nرزرو قسطی تورهای کویرگردی!\nاز تماشای غروب تا شب‌نشینی زیر آسمون پرستاره‌ی کویر، با تورهای اسنپ‌تریپ این لحظه‌های به‌یادموندنی رو تجربه کن.\n💳\nقسطی، بدون نیاز به چک و ضامن و سفته\n🔗\nبرای مشاهده و رزرو تورها، روی لینک زیر بزن:\nhttps://snp.tips/f0dus\n@Snapptrip",
-        "original_username": "ajayebe_jahann",
-        "original_text": "🏜\nرزرو قسطی تورهای کویرگردی!\nاز تماشای غروب تا شب‌نشینی زیر آسمون پرستاره‌ی کویر، با تورهای اسنپ‌تریپ این لحظه‌های به‌یادموندنی رو تجربه کن.\n💳\nقسطی، بدون نیاز به چک و ضامن و سفته\n🔗\nبرای مشاهده و رزرو تورها، روی لینک زیر بزن:\nhttps://snp.tips/f0dus\n@Snapptrip",
-        "original_link": "https://t.me/Ajayebe_jahann/160307",
-        "post_id": 160307,
-        "message_id": 14763,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-27T18:40:06.953384+00:00"
-      },
-      {
-        "fingerprint": "74886e9ad447f7150254e1a49713a1dd781118f1b917f5479b5ce77e7b4f6e82",
-        "media_fingerprint": "",
-        "text": "",
-        "original_username": "ajayebe_jahann",
-        "original_text": "",
-        "original_link": "https://t.me/Ajayebe_jahann/160309",
-        "post_id": 160309,
-        "message_id": 14764,
-        "message_kind": "text",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-27T18:40:10.417936+00:00"
-      },
-      {
-        "fingerprint": "bfe539b258d8bb5ade5645d674c150147e07713db8d93bf1cdde3903460c3821",
-        "media_fingerprint": "a68c1383c5830c6dc184103b880b34246e791669654fa0366f2d5fe939ae3a03",
-        "text": "شات های جذاب بانو سیدنی :\n@Dashagh",
-        "original_username": "dashagh",
-        "original_text": "شات های جذاب بانو سیدنی :\n@Dashagh",
-        "original_link": "https://t.me/dashagh/48798",
-        "post_id": 48798,
-        "message_id": 14765,
-        "message_kind": "caption",
-        "sources": [
-          "dashagh",
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-27T18:40:19.932318+00:00"
-      },
-      {
-        "fingerprint": "ea1792de8ed25cd7d6843054ae741b432e3e5b93aa5b45db1d7106e4cbcf97d9",
-        "media_fingerprint": "6bb281e8ce006d1b8a4b11c304816d11b2e7a27e7c404f61eedd060895e54af0",
-        "text": "مایکروسافت برنامه بازخرید خدمت و ترک دواطلبانه کار رو برای بیش از 70 هزار کارمند خودش ارائه داده تا بدون نیاز به تعدیل مجدد نیرو، تعداد کارمنداش رو کاهش بده که بزرگترین بازخرید این شرکت تاکنون هست و یک چهارم کل کارمنداش رو شامل میشه و برای کاهش هزینه های این شرکت اتخاذ شده.\nکارکنان بخشهای مختلف مایکروسافت در کشورهای امریکا، کانادا، انگلیس و هند تا سطح 70 که شامل مدیران ارشد و متخصصان بسیار برجسته میشه، واجد شرایط دریافت پیشنهاد خروج داوطلبانه با پرداخت چند ماه حقوق و دیگر مزایا هستن.\nاز جمله اونها کارکنان تیمهای AI Experiences، کوپایلت، CoreAI، ویندوز، Xbox، امور مالی و منابع انسانی میشن. تیمهای سرویسهای ابری و هوش مصنوعی، بخش امور شرکتی، روابط خارجی و حقوقی هم به‌ صورت محدود در این طرح مشارکت دارن.\nدر مقابل، کارکنان تیمهای بازاریابی، کسب ‌و کار تجاری، محاسبات کوانتومی و امنیت مایکروسافت مشمول این طرح نمیشن.\n🔎\nreuters\n📍\n@TechTube",
-        "original_username": "techtube",
-        "original_text": "مایکروسافت برنامه بازخرید خدمت و ترک دواطلبانه کار رو برای بیش از 70 هزار کارمند خودش ارائه داده تا بدون نیاز به تعدیل مجدد نیرو، تعداد کارمنداش رو کاهش بده که بزرگترین بازخرید این شرکت تاکنون هست و یک چهارم کل کارمنداش رو شامل میشه و برای کاهش هزینه های این شرکت اتخاذ شده.\nکارکنان بخشهای مختلف مایکروسافت در کشورهای امریکا، کانادا، انگلیس و هند تا سطح 70 که شامل مدیران ارشد و متخصصان بسیار برجسته میشه، واجد شرایط دریافت پیشنهاد خروج داوطلبانه با پرداخت چند ماه حقوق و دیگر مزایا هستن.\nاز جمله اونها کارکنان تیمهای AI Experiences، کوپایلت، CoreAI، ویندوز، Xbox، امور مالی و منابع انسانی میشن. تیمهای سرویسهای ابری و هوش مصنوعی، بخش امور شرکتی، روابط خارجی و حقوقی هم به‌ صورت محدود در این طرح مشارکت دارن.\nدر مقابل، کارکنان تیمهای بازاریابی، کسب ‌و کار تجاری، محاسبات کوانتومی و امنیت مایکروسافت مشمول این طرح نمیشن.\n🔎\nreuters\n📍\n@TechTube",
-        "original_link": "https://t.me/TechTube/18664",
-        "post_id": 18664,
-        "message_id": 14767,
-        "message_kind": "caption",
-        "sources": [
-          "techtube"
-        ],
-        "created_at": "2026-10-27T18:40:25.440289+00:00"
-      },
-      {
-        "fingerprint": "bd085bc9bd2217bf138ffdd03ea2f76431bafd8c12676d504646130f4cd0e6af",
-        "media_fingerprint": "2a1b4aa04a83128a33dfac9a471cbc60b1d0f042e6a1042f2807372fcf2342ed",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26795",
-        "post_id": 26795,
-        "message_id": 14768,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-27T18:40:30.183533+00:00"
-      },
-      {
-        "fingerprint": "8919ef434ed919551c8801503622fb486a517432556847ac7c66addae9dda8d1",
-        "media_fingerprint": "bdc48bc258ae12233bf445841eadd5beb597f630ca4dbf4fb18d3e6ff7657fa6",
-        "text": "ناسا فارسی (parody)\nغروب خورشید از دید ایستگاه فضایی بین المللی.\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "ناسا فارسی (parody)\nغروب خورشید از دید ایستگاه فضایی بین المللی.\n@irWonders",
-        "original_link": "https://t.me/irwonders/59175",
-        "post_id": 59175,
-        "message_id": 14769,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders",
-          "jaleb",
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-27T18:40:36.981358+00:00"
-      },
-      {
-        "fingerprint": "fad8055a21724e454de2e8ccd7b0f27d464c3d880c0de2a6735eb10299e38068",
-        "media_fingerprint": "",
-        "text": "♦️\nمیرزایی سرپرست جدید معاونت شهرسازی و معماری شهرداری شیراز شد\n🔹\nشهردار شیراز در حکمی ، فرزاد میرزایی را با حفظ سمت شهردار منطقه ۶ شیراز به‌عنوان سرپرست معاونت شهرسازی و معماری شهرداری شیراز منصوب کرد.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nمیرزایی سرپرست جدید معاونت شهرسازی و معماری شهرداری شیراز شد\n🔹\nشهردار شیراز در حکمی ، فرزاد میرزایی را با حفظ سمت شهردار منطقه ۶ شیراز به‌عنوان سرپرست معاونت شهرسازی و معماری شهرداری شیراز منصوب کرد.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/144592",
-        "post_id": 144592,
-        "message_id": 14770,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-27T18:40:40.510838+00:00"
-      },
-      {
-        "fingerprint": "0ff600cb8ef37a880e2323b933350f1f27496b5bd52ce730ba03a42d656a131a",
-        "media_fingerprint": "ecbd5bb6fefc237b14c53162e00808dc47203975ba58e067016c8e00a361781c",
-        "text": "♦️\nدور گردون گر دو روزی بر مراد ما نگشت\nدائماً یکسان نباشد حال دوران غم مخور\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nدور گردون گر دو روزی بر مراد ما نگشت\nدائماً یکسان نباشد حال دوران غم مخور\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/144593",
-        "post_id": 144593,
-        "message_id": 14771,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-27T18:41:07.765355+00:00"
-      },
       {
         "fingerprint": "cbce536e000edd14438f3f4d76992296760ec56fec580601637b60c3ba2b30ef",
         "media_fingerprint": "",
@@ -30111,7 +29987,8 @@
         "message_kind": "caption",
         "sources": [
           "gizmiztel",
-          "irwonders"
+          "irwonders",
+          "jaleb"
         ],
         "created_at": "2026-10-28T15:11:30.555541+00:00"
       },
@@ -30941,7 +30818,8 @@
         "message_id": 15015,
         "message_kind": "caption",
         "sources": [
-          "gizmiztel"
+          "gizmiztel",
+          "jaleb"
         ],
         "created_at": "2026-10-28T16:02:37.398261+00:00"
       },
@@ -31557,7 +31435,8 @@
         "message_id": 15058,
         "message_kind": "caption",
         "sources": [
-          "dashagh"
+          "dashagh",
+          "peach_tweet"
         ],
         "created_at": "2026-10-28T17:10:10.494085+00:00"
       },
@@ -31890,6 +31769,141 @@
           "drtel"
         ],
         "created_at": "2026-10-28T18:21:13.869074+00:00"
+      },
+      {
+        "fingerprint": "00b0f8256fafb924b617267ceaa1df26939b89d941527b181415904d3460896c",
+        "media_fingerprint": "fe22d3f81fb04a733390d2ea972e2444d66ea5ab9acc293516ca0803c9e50794",
+        "text": "چالش داریم چالش نود و خاطرات اولین ساک زدن دخترای دهه‌هشتادی بیاید کانال چالشامون\n😈\n👇🏻\n:\n• @Chalesh-sak",
+        "original_username": "peach_tweet",
+        "original_text": "چالش داریم چالش نود و خاطرات اولین ساک زدن دخترای دهه‌هشتادی بیاید کانال چالشامون\n😈\n👇🏻\n:\n• @Chalesh-sak",
+        "original_link": "https://t.me/peach_tweet/4745",
+        "post_id": 4745,
+        "message_id": 15085,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-28T18:49:21.360111+00:00"
+      },
+      {
+        "fingerprint": "ad08d8d776916610ae702ec32dbf2d86ef425e5682973e33408991e0062825f0",
+        "media_fingerprint": "9d17353b37d9affef4f5662ad8edb19b7f44771a8ac5b98cd45fe7c4cbe5c27b",
+        "text": "تا حالا فوتبال ممه‌ای دیده بودین\n😂\n😂\n@FuckNewsi",
+        "original_username": "fucknewsi",
+        "original_text": "تا حالا فوتبال ممه‌ای دیده بودین\n😂\n😂\n@FuckNewsi",
+        "original_link": "https://t.me/FuckNewsi/14058",
+        "post_id": 14058,
+        "message_id": 15086,
+        "message_kind": "caption",
+        "sources": [
+          "fucknewsi"
+        ],
+        "created_at": "2026-10-28T18:49:28.097098+00:00"
+      },
+      {
+        "fingerprint": "8340ca05c3ef94370b662bd4825864ded463d2020a1226c6246c42d11408cf79",
+        "media_fingerprint": "67740a7a4e2a420a5b9a59b3bbdeed12dd57c269024ebef8f0bd6f79ad2a555e",
+        "text": "♦️\nبعضیا جشن ترس دارن، ولی ما وارث فرهنگی هستیم که قرن‌ها زنده مونده!\n🇮🇷\n#ایران_زیبا\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nبعضیا جشن ترس دارن، ولی ما وارث فرهنگی هستیم که قرن‌ها زنده مونده!\n🇮🇷\n#ایران_زیبا\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144658",
+        "post_id": 144658,
+        "message_id": 15087,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-28T18:49:34.683178+00:00"
+      },
+      {
+        "fingerprint": "2e1c90dad427a031add5c05e5acc7865fbff1064ad177288b8bc0f00b712add6",
+        "media_fingerprint": "",
+        "text": "",
+        "original_username": "apkclub",
+        "original_text": "",
+        "original_link": "https://t.me/apkclub/73299",
+        "post_id": 73299,
+        "message_id": 15088,
+        "message_kind": "text",
+        "sources": [
+          "apkclub"
+        ],
+        "created_at": "2026-10-28T18:49:38.116770+00:00"
+      },
+      {
+        "fingerprint": "69ba228768f6485d9f3fc729ca87a1a337386f6e72a6947913c2d32e63aa7732",
+        "media_fingerprint": "71c3d27bc99417339753c31d0afa0b5a0517c62256dcf97997627b9908f65924",
+        "text": "گام های هدفمند دولت در جهت مهار تورم\n😂\n:\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "گام های هدفمند دولت در جهت مهار تورم\n😂\n:\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/307403",
+        "post_id": 307403,
+        "message_id": 15089,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-28T18:49:45.904664+00:00"
+      },
+      {
+        "fingerprint": "2c90351959c940c48bf6efbb8130c17594a929efcd47eea586be4699fc94f398",
+        "media_fingerprint": "b6b677562a57e8f91a75e690e2c713aa2d8ff214b98450dca690e70f2882910f",
+        "text": "تروخدا باور کنید ما پیروز شدیم\n🫥\n😏\n#Squidward\n💎\nSpongebob | باب اسفنجی",
+        "original_username": "boob_sfangi",
+        "original_text": "تروخدا باور کنید ما پیروز شدیم\n🫥\n😏\n#Squidward\n💎\nSpongebob | باب اسفنجی",
+        "original_link": "https://t.me/boob_sfangi/2972",
+        "post_id": 2972,
+        "message_id": 15090,
+        "message_kind": "caption",
+        "sources": [
+          "boob_sfangi"
+        ],
+        "created_at": "2026-10-28T18:49:51.637093+00:00"
+      },
+      {
+        "fingerprint": "1ff1111017253382f483910c501872c196d627d8e9e85b8d283f607a715f80cf",
+        "media_fingerprint": "452a2a9718dbb6996117a6c9b7863c0e81dc7a054f13ae16dd15c0835f9371b2",
+        "text": "اولین موزه اسباب‌بازی ایران، جایی که قصه‌ها زنده می‌شن!\nبیش از ۱۸۰۰ اسباب‌بازی از ایران و سراسر دنیا، اینجا کنار هم جمع شدن تا خاطرات کودکی رو دوباره زنده کنن، دنیایی رنگارنگ از نوستالژی، قصه و خاطره!\n📍\nتهران، خیابان نوفل‌لوشاتو، کوچه تاریخی لولاگر\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "اولین موزه اسباب‌بازی ایران، جایی که قصه‌ها زنده می‌شن!\nبیش از ۱۸۰۰ اسباب‌بازی از ایران و سراسر دنیا، اینجا کنار هم جمع شدن تا خاطرات کودکی رو دوباره زنده کنن، دنیایی رنگارنگ از نوستالژی، قصه و خاطره!\n📍\nتهران، خیابان نوفل‌لوشاتو، کوچه تاریخی لولاگر\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/53292",
+        "post_id": 53292,
+        "message_id": 15091,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-28T18:49:59.278645+00:00"
+      },
+      {
+        "fingerprint": "cfab3ea9917408f3346b898e4ee320be90daeeb4347aaf8161492c8d5a200139",
+        "media_fingerprint": "452531e43f8f99dde4108c9d7497d24ff5ede5272ed9ada46957413ade7411fb",
+        "text": "♦️\nفیلم «اسرافیل» به کارگردانی آیدا پناهنده و تهیه‌کنندگی مستانه مهاجر، داستان ماهی را روایت می‌کند که در سوگ مرگ پسرش است؛ اما بازگشت عشق دوران نوجوانی‌اش پس از سال‌ها، ماجرای رسوایی قدیمی را دوباره زنده می‌کند. این فیلم به نقش روابط انسانی و تأثیر آن بر زندگی و آرامش درونی افراد می‌پردازد.\n🎬\n#معرفی_فیلم\n@Akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nفیلم «اسرافیل» به کارگردانی آیدا پناهنده و تهیه‌کنندگی مستانه مهاجر، داستان ماهی را روایت می‌کند که در سوگ مرگ پسرش است؛ اما بازگشت عشق دوران نوجوانی‌اش پس از سال‌ها، ماجرای رسوایی قدیمی را دوباره زنده می‌کند. این فیلم به نقش روابط انسانی و تأثیر آن بر زندگی و آرامش درونی افراد می‌پردازد.\n🎬\n#معرفی_فیلم\n@Akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144659",
+        "post_id": 144659,
+        "message_id": 15092,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-28T18:50:07.368746+00:00"
+      },
+      {
+        "fingerprint": "0517b748939042f018ba7d89a2dc62398a882ca3fe7beb1c09b0127c6de7df83",
+        "media_fingerprint": "28895871117e3650ce873af82cda9a419075f9fd04f270294bf277a535a1bdf3",
+        "text": "20 کشور برتر که زیبا ترین زن های جهان را دارد :\n+روسیه رتبه اول زیباترین زنان جهان\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "20 کشور برتر که زیبا ترین زن های جهان را دارد :\n+روسیه رتبه اول زیباترین زنان جهان\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48876",
+        "post_id": 48876,
+        "message_id": 15093,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-28T18:50:22.504440+00:00"
       }
     ]
   }
