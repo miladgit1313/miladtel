@@ -1,13 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 144659,
+      "last_id": 144664,
       "processed_ids": [
-        143308,
-        143309,
-        143310,
-        143311,
-        143312,
         143313,
         143314,
         143315,
@@ -1002,9 +997,14 @@
         144656,
         144657,
         144658,
-        144659
+        144659,
+        144660,
+        144661,
+        144662,
+        144663,
+        144664
       ],
-      "sent_count": 1346,
+      "sent_count": 1347,
       "failed": {}
     },
     "total_fut": {
@@ -2015,14 +2015,8 @@
       "failed": {}
     },
     "footballvision2": {
-      "last_id": 173276,
+      "last_id": 173283,
       "processed_ids": [
-        171335,
-        171336,
-        171337,
-        171338,
-        171339,
-        171340,
         171341,
         171342,
         171343,
@@ -3016,7 +3010,13 @@
         173273,
         173274,
         173275,
-        173276
+        173276,
+        173277,
+        173278,
+        173279,
+        173281,
+        173282,
+        173283
       ],
       "sent_count": 231,
       "failed": {}
@@ -3089,7 +3089,7 @@
       "failed": {}
     },
     "fars_today": {
-      "last_id": 132361,
+      "last_id": 132362,
       "processed_ids": [
         131975,
         131976,
@@ -3462,7 +3462,8 @@
         132358,
         132359,
         132360,
-        132361
+        132361,
+        132362
       ],
       "sent_count": 186,
       "failed": {}
@@ -3531,9 +3532,8 @@
       "failed": {}
     },
     "drtel": {
-      "last_id": 71966,
+      "last_id": 71967,
       "processed_ids": [
-        66956,
         66957,
         66958,
         66959,
@@ -4532,13 +4532,14 @@
         71963,
         71964,
         71965,
-        71966
+        71966,
+        71967
       ],
-      "sent_count": 704,
+      "sent_count": 705,
       "failed": {}
     },
     "techtube": {
-      "last_id": 18672,
+      "last_id": 18673,
       "processed_ids": [
         18261,
         18262,
@@ -4797,7 +4798,8 @@
         18669,
         18670,
         18671,
-        18672
+        18672,
+        18673
       ],
       "sent_count": 86,
       "failed": {}
@@ -6198,10 +6200,8 @@
       "failed": {}
     },
     "akhbar_cafenet": {
-      "last_id": 23794,
+      "last_id": 23796,
       "processed_ids": [
-        22666,
-        22667,
         22668,
         22669,
         22670,
@@ -7199,13 +7199,15 @@
         23791,
         23792,
         23793,
-        23794
+        23794,
+        23795,
+        23796
       ],
-      "sent_count": 602,
+      "sent_count": 603,
       "failed": {}
     },
     "comentiat": {
-      "last_id": 26815,
+      "last_id": 26817,
       "processed_ids": [
         25844,
         25845,
@@ -7969,9 +7971,10 @@
         26811,
         26813,
         26814,
-        26815
+        26815,
+        26817
       ],
-      "sent_count": 571,
+      "sent_count": 572,
       "failed": {}
     },
     "boost/fndoni": {
@@ -7983,7 +7986,7 @@
       "failed": {}
     },
     "majalepezeshki": {
-      "last_id": 38888,
+      "last_id": 38889,
       "processed_ids": [
         38432,
         38433,
@@ -8429,9 +8432,10 @@
         38885,
         38886,
         38887,
-        38888
+        38888,
+        38889
       ],
-      "sent_count": 258,
+      "sent_count": 259,
       "failed": {}
     },
     "gizmiztel": {
@@ -10550,11 +10554,8 @@
       "failed": {}
     },
     "ajayebe_jahann": {
-      "last_id": 160348,
+      "last_id": 160351,
       "processed_ids": [
-        159273,
-        159274,
-        159275,
         159276,
         159277,
         159278,
@@ -11551,7 +11552,10 @@
         160345,
         160346,
         160347,
-        160348
+        160348,
+        160349,
+        160350,
+        160351
       ],
       "sent_count": 498,
       "failed": {}
@@ -18813,10 +18817,8 @@
       "failed": {}
     },
     "irwonders": {
-      "last_id": 59210,
+      "last_id": 59212,
       "processed_ids": [
-        58073,
-        58074,
         58075,
         58076,
         58077,
@@ -19814,9 +19816,11 @@
         59207,
         59208,
         59209,
-        59210
+        59210,
+        59211,
+        59212
       ],
-      "sent_count": 656,
+      "sent_count": 657,
       "failed": {}
     },
     "razcom": {
@@ -21515,7 +21519,7 @@
       "failed": {}
     },
     "khandehabadd": {
-      "last_id": 307403,
+      "last_id": 307408,
       "processed_ids": [
         306563,
         306564,
@@ -22317,9 +22321,14 @@
         307400,
         307401,
         307402,
-        307403
+        307403,
+        307404,
+        307405,
+        307406,
+        307407,
+        307408
       ],
-      "sent_count": 351,
+      "sent_count": 352,
       "failed": {}
     },
     "ravan6enasii": {
@@ -23090,7 +23099,7 @@
       "failed": {}
     },
     "shakhmovie": {
-      "last_id": 4298,
+      "last_id": 4299,
       "processed_ids": [
         4017,
         4018,
@@ -23274,9 +23283,10 @@
         4295,
         4296,
         4297,
-        4298
+        4298,
+        4299
       ],
-      "sent_count": 158,
+      "sent_count": 159,
       "failed": {}
     },
     "peach_tweet": {
@@ -24499,7 +24509,7 @@
       "failed": {}
     },
     "persiana_pluss": {
-      "last_id": 7356,
+      "last_id": 7358,
       "processed_ids": [
         6113,
         6114,
@@ -25475,7 +25485,9 @@
         7353,
         7354,
         7355,
-        7356
+        7356,
+        7357,
+        7358
       ],
       "sent_count": 24,
       "failed": {}
@@ -25667,7 +25679,7 @@
       "failed": {}
     },
     "dashagh": {
-      "last_id": 48876,
+      "last_id": 48878,
       "processed_ids": [
         48313,
         48314,
@@ -26035,9 +26047,10 @@
         48870,
         48874,
         48875,
-        48876
+        48876,
+        48878
       ],
-      "sent_count": 255,
+      "sent_count": 256,
       "failed": {}
     },
     "apkclub": {
@@ -26365,7 +26378,7 @@
       "failed": {}
     },
     "boob_sfangi": {
-      "last_id": 2972,
+      "last_id": 2974,
       "processed_ids": [
         2587,
         2590,
@@ -26668,13 +26681,15 @@
         2968,
         2969,
         2970,
-        2972
+        2972,
+        2973,
+        2974
       ],
-      "sent_count": 194,
+      "sent_count": 196,
       "failed": {}
     },
     "fucknewsi": {
-      "last_id": 14058,
+      "last_id": 14060,
       "processed_ids": [
         13561,
         13562,
@@ -27011,7 +27026,9 @@
         14055,
         14056,
         14057,
-        14058
+        14058,
+        14059,
+        14060
       ],
       "sent_count": 144,
       "failed": {}
@@ -27344,7 +27361,7 @@
       "failed": {}
     },
     "media_aramesh": {
-      "last_id": 113101,
+      "last_id": 113102,
       "processed_ids": [
         113071,
         113072,
@@ -27371,195 +27388,15 @@
         113098,
         113099,
         113100,
-        113101
+        113101,
+        113102
       ],
-      "sent_count": 19,
+      "sent_count": 20,
       "failed": {}
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "cbce536e000edd14438f3f4d76992296760ec56fec580601637b60c3ba2b30ef",
-        "media_fingerprint": "",
-        "text": "♦️\nآموزش و پرورش: هیچ برنامه‌ای برای تعطیلی یا غیرحضوری‌شدن مدارس در سراسر کشور وجود ندارد و شایعات منتشر شده در فضای مجازی در این زمینه صحت ندارد\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nآموزش و پرورش: هیچ برنامه‌ای برای تعطیلی یا غیرحضوری‌شدن مدارس در سراسر کشور وجود ندارد و شایعات منتشر شده در فضای مجازی در این زمینه صحت ندارد\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/144596",
-        "post_id": 144596,
-        "message_id": 14774,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-27T18:41:11.235064+00:00"
-      },
-      {
-        "fingerprint": "53da9ac0b2a6db4170e513b3abe274806dfd9566ea4419fb31e6339939b59b41",
-        "media_fingerprint": "",
-        "text": "",
-        "original_username": "apkclub",
-        "original_text": "",
-        "original_link": "https://t.me/apkclub/73278",
-        "post_id": 73278,
-        "message_id": 14775,
-        "message_kind": "text",
-        "sources": [
-          "apkclub"
-        ],
-        "created_at": "2026-10-27T18:41:14.716536+00:00"
-      },
-      {
-        "fingerprint": "456ea8565a10920ae635980f2424f386a8f56b206681da10f878c6e175add8d3",
-        "media_fingerprint": "940168199cf1835cc060ee71fad91f9c7ef750cf4b85fb4ed5b02d65830f0e6c",
-        "text": "🔴\nدختره نوشته بود؛\nاول صبح یه سر و صدای سنگین اومد، اول فکر کردم پدافند‌ها فعال شدن ولی رفتم بیرون و با این شاهکار مواجه شدم:\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nدختره نوشته بود؛\nاول صبح یه سر و صدای سنگین اومد، اول فکر کردم پدافند‌ها فعال شدن ولی رفتم بیرون و با این شاهکار مواجه شدم:\n@DrTeL",
-        "original_link": "https://t.me/drtel/71922",
-        "post_id": 71922,
-        "message_id": 14776,
-        "message_kind": "text",
-        "sources": [
-          "drtel",
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-27T18:41:18.929395+00:00"
-      },
-      {
-        "fingerprint": "d8439c7ccfb20bac5bef3730d6063eb066145df6665baf1fd363172d095fd3a7",
-        "media_fingerprint": "c3f7a67bd17cfde07323d0ed9d5e9580b0f431fa24a0f4ef530e399119f8b779",
-        "text": "لاشی قصدت چکابه یا فقط میمالی؟\n@FuckNewsi",
-        "original_username": "fucknewsi",
-        "original_text": "لاشی قصدت چکابه یا فقط میمالی؟\n@FuckNewsi",
-        "original_link": "https://t.me/FuckNewsi/14019",
-        "post_id": 14019,
-        "message_id": 14777,
-        "message_kind": "caption",
-        "sources": [
-          "fucknewsi"
-        ],
-        "created_at": "2026-10-27T18:41:25.632007+00:00"
-      },
-      {
-        "fingerprint": "fd21a8eda47fa9b89029b64192fe415af6b760fd2900e60a53146c1e52a33625",
-        "media_fingerprint": "dbd4df266a015f4e4cab9fb06d17e38c5e2d44fcc8d1d22a5a33ab651412b3aa",
-        "text": "ویدئوی وایرال شده از رفتار پسرا\nدر داخل و خارج از خونه پیش دوست‌دخترشون\n🥪\n💪\n#LarryLobster\n💎\nSpongebob | باب اسفنجی",
-        "original_username": "boob_sfangi",
-        "original_text": "ویدئوی وایرال شده از رفتار پسرا\nدر داخل و خارج از خونه پیش دوست‌دخترشون\n🥪\n💪\n#LarryLobster\n💎\nSpongebob | باب اسفنجی",
-        "original_link": "https://t.me/boob_sfangi/2935",
-        "post_id": 2935,
-        "message_id": 14778,
-        "message_kind": "caption",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-27T18:41:31.572591+00:00"
-      },
-      {
-        "fingerprint": "972947b6d127786886efc0137a61c329dcd92b282b120b6132e8c58928e52cc6",
-        "media_fingerprint": "fe338ca2182512401fe1e28f5cfda877e06310959d61b2222ac0ab3221b5f51b",
-        "text": "«بورسیه» نیامده میلیاردی شد\n🔹\nفیلم سینمایی «بورسیه» به کارگردانی برزو نیک‌نژاد و تهیه‌کنندگی کامران حجازی پیش از آغاز اکران عمومی در مرحله پیش‌فروش، میلیاردی شد.\n🔹\nکمدی «بورسیه» در حالی از چهارشنبه ۶ آبان‌ماه اکران خود را در سینماهای کشور آغاز می‌کند که توانسته است پیش از نمایش عمومی، در پیش‌فروش بلیت‌ها به فروش میلیاردی برسد که ۸۰ درصد از فروش آنلاین بلیت‌های این فیلم نیز از طریق سینماتیکت انجام شده است.\n🔹\nجواد عزتی، امیر جعفری، عباس جمشیدی‌فر و پانته‌آ پناهی‌ها از بازیگران این فیلم سینمایی هستند. داستان این فیلم درباره مردی به نام زکریاست که همه او را زکر صدا می‌کنند. او که همراه دوستش روزگار را با دله‌دزدی می‌گذرانند طی اتفاقاتی تصمیم می‌گیرند سراغ یک سرقت بزرگ‌ بروند. نقشه آن‌ها برای دزدی از یک فروشگاه، آن‌طور که انتظار دارند پیش نمی‌رود و....\n@cinematicketorg",
-        "original_username": "cinematicketorg",
-        "original_text": "«بورسیه» نیامده میلیاردی شد\n🔹\nفیلم سینمایی «بورسیه» به کارگردانی برزو نیک‌نژاد و تهیه‌کنندگی کامران حجازی پیش از آغاز اکران عمومی در مرحله پیش‌فروش، میلیاردی شد.\n🔹\nکمدی «بورسیه» در حالی از چهارشنبه ۶ آبان‌ماه اکران خود را در سینماهای کشور آغاز می‌کند که توانسته است پیش از نمایش عمومی، در پیش‌فروش بلیت‌ها به فروش میلیاردی برسد که ۸۰ درصد از فروش آنلاین بلیت‌های این فیلم نیز از طریق سینماتیکت انجام شده است.\n🔹\nجواد عزتی، امیر جعفری، عباس جمشیدی‌فر و پانته‌آ پناهی‌ها از بازیگران این فیلم سینمایی هستند. داستان این فیلم درباره مردی به نام زکریاست که همه او را زکر صدا می‌کنند. او که همراه دوستش روزگار را با دله‌دزدی می‌گذرانند طی اتفاقاتی تصمیم می‌گیرند سراغ یک سرقت بزرگ‌ بروند. نقشه آن‌ها برای دزدی از یک فروشگاه، آن‌طور که انتظار دارند پیش نمی‌رود و....\n@cinematicketorg",
-        "original_link": "https://t.me/cinematicketorg/24459",
-        "post_id": 24459,
-        "message_id": 14779,
-        "message_kind": "caption",
-        "sources": [
-          "cinematicketorg"
-        ],
-        "created_at": "2026-10-27T18:41:36.578437+00:00"
-      },
-      {
-        "fingerprint": "6b69470edd12b3ef4bf1676dc98fb34e21cf501dd4e340971e7b9727722288b9",
-        "media_fingerprint": "8215ae4897b4e94a21cc2dd85616061da52b859efa1bc4ea6b91c8d257efb7e2",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26796",
-        "post_id": 26796,
-        "message_id": 14780,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-27T19:26:07.659491+00:00"
-      },
-      {
-        "fingerprint": "14ba8023020a1b523089c17473c6e499b3a8364fe12b04e3449a7877e8b14536",
-        "media_fingerprint": "",
-        "text": "سخنگوی وزارت آموزش‌وپرورش:\nشایعات مطرح‌شده درباره تعطیلی و غیرحضوری‌شدن مدارس کشور صحت ندارد و هیچ برنامه‌ای برای تعطیلی مدارس نداریم\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "سخنگوی وزارت آموزش‌وپرورش:\nشایعات مطرح‌شده درباره تعطیلی و غیرحضوری‌شدن مدارس کشور صحت ندارد و هیچ برنامه‌ای برای تعطیلی مدارس نداریم\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/164021",
-        "post_id": 164021,
-        "message_id": 14781,
-        "message_kind": "text",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-27T19:26:11.023248+00:00"
-      },
-      {
-        "fingerprint": "0296dc003e9c258e69fbe5384a3bfc2930ad6dee22e4eaabec6c6d8fa47a2fb0",
-        "media_fingerprint": "888a42614451808d52e20f9c93cc1b5672658d829c04f0099cee8c4f429364d9",
-        "text": "تصاویری از اولین برف پاییزی در ارتفاعات البرز\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "تصاویری از اولین برف پاییزی در ارتفاعات البرز\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/164022",
-        "post_id": 164022,
-        "message_id": 14782,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-27T19:26:17.094717+00:00"
-      },
-      {
-        "fingerprint": "8a2279d2ee8e1da55274c52ca2016ec53ec6f038c3de2d5ecd4ba42d738d9bad",
-        "media_fingerprint": "9059a8b34d59f223cbf130176e574fbe5a1f00e21a2973bff0ecb80b31fa5e88",
-        "text": "اولش فکر کردم رئیس آموزش و پرورش هست\n😄\nپرندە رو دیوار کُپ کرد بیچارە\n😁\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "اولش فکر کردم رئیس آموزش و پرورش هست\n😄\nپرندە رو دیوار کُپ کرد بیچارە\n😁\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/164023",
-        "post_id": 164023,
-        "message_id": 14783,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-27T19:26:23.493592+00:00"
-      },
-      {
-        "fingerprint": "c5546627423c3dfe25408bf565c093bd8caeff932596fe2615c456400444d53d",
-        "media_fingerprint": "ce36a14141db9f85e00323f3a0fabdd4e3304d73fd9168f2f917a3e142af6830",
-        "text": "هوا به‌شدت مه‌آلود بود و صدای مرال از روبه‌رو به گوش می‌رسید. تا جایی که امکان داشت خودمان را به صدا نزدیک کردیم و منتظر ماندیم تا شاید مه کنار برود. در دقایق پایانی روز بود که مه برای لحظاتی کنار رفت و توانستیم این صحنه به‌یادماندنی را ببینیم.\nتفاوت اندازه یک مرال نر بزرگ با یک خرس متوسط واقعا جلب توجه می‌کرد.\nاوج زیبایی این موجود وقتیه که شروع به حرکت میکنه…\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "هوا به‌شدت مه‌آلود بود و صدای مرال از روبه‌رو به گوش می‌رسید. تا جایی که امکان داشت خودمان را به صدا نزدیک کردیم و منتظر ماندیم تا شاید مه کنار برود. در دقایق پایانی روز بود که مه برای لحظاتی کنار رفت و توانستیم این صحنه به‌یادماندنی را ببینیم.\nتفاوت اندازه یک مرال نر بزرگ با یک خرس متوسط واقعا جلب توجه می‌کرد.\nاوج زیبایی این موجود وقتیه که شروع به حرکت میکنه…\n@irWonders",
-        "original_link": "https://t.me/irwonders/59176",
-        "post_id": 59176,
-        "message_id": 14784,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-27T19:26:29.947460+00:00"
-      },
-      {
-        "fingerprint": "ee1e6afcc7cfa1500cb063420ae0c4ae6f4fc6ca31d529d026f598dbd391bc90",
-        "media_fingerprint": "34461879defc854fe97ec719481dac8c4cb807d50880e0c94c86a103f76d224a",
-        "text": "♦️\nاین سرزمین با همه‌ی ما معنا پیدا می‌کنه؛با هر قومیت، هر زبان و هر لهجه‌ای\n❤️\n#ایران_زیبا\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nاین سرزمین با همه‌ی ما معنا پیدا می‌کنه؛با هر قومیت، هر زبان و هر لهجه‌ای\n❤️\n#ایران_زیبا\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/144597",
-        "post_id": 144597,
-        "message_id": 14785,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-27T19:26:36.174961+00:00"
-      },
       {
         "fingerprint": "7b555720fa643c11a96027faa8ebcd6e201bfd81189c51debfb3fc3d9f105a04",
         "media_fingerprint": "",
@@ -28735,7 +28572,8 @@
         "message_id": 14871,
         "message_kind": "caption",
         "sources": [
-          "irwonders"
+          "irwonders",
+          "ajayebe_jahann"
         ],
         "created_at": "2026-10-28T05:59:04.768082+00:00"
       },
@@ -29565,7 +29403,8 @@
         "message_id": 14931,
         "message_kind": "caption",
         "sources": [
-          "akhbarfars"
+          "akhbarfars",
+          "fars_today"
         ],
         "created_at": "2026-10-28T15:08:55.283570+00:00"
       },
@@ -31375,7 +31214,8 @@
         "message_id": 15054,
         "message_kind": "caption",
         "sources": [
-          "drtel"
+          "drtel",
+          "fucknewsi"
         ],
         "created_at": "2026-10-28T17:09:47.277233+00:00"
       },
@@ -31904,6 +31744,186 @@
           "dashagh"
         ],
         "created_at": "2026-10-28T18:50:22.504440+00:00"
+      },
+      {
+        "fingerprint": "1ee2576cf6d9b8955a308a2840fa3d7f2b5dc1020ec765e0344b4c9380686b50",
+        "media_fingerprint": "",
+        "text": "ایران به نظرم باید بین 10 تای برتر باشه\nدخترای ایرانی یه سر و گردن بالاترن\n🔥\n🔥\n🔥",
+        "original_username": "dashagh",
+        "original_text": "ایران به نظرم باید بین 10 تای برتر باشه\nدخترای ایرانی یه سر و گردن بالاترن\n🔥\n🔥\n🔥",
+        "original_link": "https://t.me/dashagh/48878",
+        "post_id": 48878,
+        "message_id": 15095,
+        "message_kind": "text",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-28T19:34:00.025296+00:00"
+      },
+      {
+        "fingerprint": "f7e812e5a9979addfd7b29f0fda869a35f731dee00171517b5c4ee2b5395ca52",
+        "media_fingerprint": "9914136ec29b3b94b81e4c7130fa0822ce47a0ad0de1e68763acae7a04469d5b",
+        "text": "سیگار چگونه بر تخمک‌ها و اسپرم تاثیر می گذارد؟\n◽️\nپژوهش مشترک دانشگاه‌های ناتینگهام و شفیلد نشان داد که مواجهه با دود سیگار می‌تواند با تغییر فعالیت ژن‌های مرتبط با تولیدمثل، بر عملکرد تخمدان‌ها و بیضه‌ها تأثیر بگذارد. در موش‌های ماده، تغییرات ژنی مشابه فرایندهای مرتبط با پیری تخمدان شناسایی شد.\n◽️\nدر موش‌های نر، دوز بالاتر دود سیگار با تغییر ساختار لوله‌های اسپرم‌ساز و فعالیت ژن‌های مرتبط با تولید اسپرم و سیستم ایمنی همراه بود.\n+نکته مهم: این پژوهش روی موش‌ها انجام شده و برای تعیین دقیق اثرات این تغییرات بر باروری انسان، به مطالعات بیشتری نیاز است.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "سیگار چگونه بر تخمک‌ها و اسپرم تاثیر می گذارد؟\n◽️\nپژوهش مشترک دانشگاه‌های ناتینگهام و شفیلد نشان داد که مواجهه با دود سیگار می‌تواند با تغییر فعالیت ژن‌های مرتبط با تولیدمثل، بر عملکرد تخمدان‌ها و بیضه‌ها تأثیر بگذارد. در موش‌های ماده، تغییرات ژنی مشابه فرایندهای مرتبط با پیری تخمدان شناسایی شد.\n◽️\nدر موش‌های نر، دوز بالاتر دود سیگار با تغییر ساختار لوله‌های اسپرم‌ساز و فعالیت ژن‌های مرتبط با تولید اسپرم و سیستم ایمنی همراه بود.\n+نکته مهم: این پژوهش روی موش‌ها انجام شده و برای تعیین دقیق اثرات این تغییرات بر باروری انسان، به مطالعات بیشتری نیاز است.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38889",
+        "post_id": 38889,
+        "message_id": 15096,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-28T19:34:05.929019+00:00"
+      },
+      {
+        "fingerprint": "55262eb92fee0aab86513c453f2ec8d90d9558103a55457053b6f7e313c270f2",
+        "media_fingerprint": "7d5aea51ed9e8525eea59e4b38264c5d098988ace3139a2368a07e4267117907",
+        "text": "🔴\n20 تا از منفورترین کشورهای جهان بر اساس نظرسنجی‌های افکار عمومی از سراسر جهان :\n1.\n🇨🇳\nچین\n2.\n🇺🇸\nایالات متحده آمریکا\n3.\n🇷🇺\nروسیه\n4.\n🇰🇵\nکره شمالی\n5.\n🇮🇱\nاسرائیل\n6.\n🇵🇰\nپاکستان\n7.\n🇮🇷\nایران\n8.\n🇮🇶\nعراق\n9.\n🇸🇾\nسوریه\n10.\n🇮🇳\nهند\n11.\n🇬🇧\nبریتانیا\n12.\n🇯🇵\nژاپن\n13.\n🇸🇦\nعربستان سعودی\n14.\n🇩🇪\nآلمان\n15.\n🇳🇬\nنیجریه\n16.\n🇹🇷\nترکیه\n17.\n🇰🇷\nکره‌جنوبی\n18.\n🇦🇫\nافغانستان\n19.\n🇵🇭\nفیلیپین\n20.\n🇮🇹\nایتالیا\n@DrTeL\n| World Population Review",
+        "original_username": "drtel",
+        "original_text": "🔴\n20 تا از منفورترین کشورهای جهان بر اساس نظرسنجی‌های افکار عمومی از سراسر جهان :\n1.\n🇨🇳\nچین\n2.\n🇺🇸\nایالات متحده آمریکا\n3.\n🇷🇺\nروسیه\n4.\n🇰🇵\nکره شمالی\n5.\n🇮🇱\nاسرائیل\n6.\n🇵🇰\nپاکستان\n7.\n🇮🇷\nایران\n8.\n🇮🇶\nعراق\n9.\n🇸🇾\nسوریه\n10.\n🇮🇳\nهند\n11.\n🇬🇧\nبریتانیا\n12.\n🇯🇵\nژاپن\n13.\n🇸🇦\nعربستان سعودی\n14.\n🇩🇪\nآلمان\n15.\n🇳🇬\nنیجریه\n16.\n🇹🇷\nترکیه\n17.\n🇰🇷\nکره‌جنوبی\n18.\n🇦🇫\nافغانستان\n19.\n🇵🇭\nفیلیپین\n20.\n🇮🇹\nایتالیا\n@DrTeL\n| World Population Review",
+        "original_link": "https://t.me/drtel/71967",
+        "post_id": 71967,
+        "message_id": 15097,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-28T19:34:11.470146+00:00"
+      },
+      {
+        "fingerprint": "8638d75751aaa81099be6afdd9d95a81d4ef7cff82646cc8d00d2b58c3585795",
+        "media_fingerprint": "82d1f7b7c31ff08213fba1849506994ae05c649a965bd860d2bc8ace550ff1f5",
+        "text": "یادآوری امروز:\nتو داری خوب پیش می‌ری\nو اگر خوب پیش نمی‌ری، داری تمام تلاشت رو می‌کنی\nو اگر تمام تلاشت رو نمی‌کنی، دست‌کم داری «عمل می‌کنی»\nو اگه حتی نمی‌تونی کاری انجام بدی، همین که هستی کافیه.\nو همین بودن، خودش شجاعته.\nهمین.\n✨\n@media_aramesh",
+        "original_username": "media_aramesh",
+        "original_text": "یادآوری امروز:\nتو داری خوب پیش می‌ری\nو اگر خوب پیش نمی‌ری، داری تمام تلاشت رو می‌کنی\nو اگر تمام تلاشت رو نمی‌کنی، دست‌کم داری «عمل می‌کنی»\nو اگه حتی نمی‌تونی کاری انجام بدی، همین که هستی کافیه.\nو همین بودن، خودش شجاعته.\nهمین.\n✨\n@media_aramesh",
+        "original_link": "https://t.me/media_aramesh/113102",
+        "post_id": 113102,
+        "message_id": 15098,
+        "message_kind": "caption",
+        "sources": [
+          "media_aramesh"
+        ],
+        "created_at": "2026-10-28T19:34:17.123621+00:00"
+      },
+      {
+        "fingerprint": "65831efb81e6da25bab376d2b1f4a6a36be4cfc7cc859cc3df180c86db9baad5",
+        "media_fingerprint": "662d729ae55efed00a010e7c9a089671a838a51543031e3fae338fc8a6bc7196",
+        "text": "غذایی عجیب که زندس\n🫪\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "غذایی عجیب که زندس\n🫪\n@irWonders",
+        "original_link": "https://t.me/irwonders/59211",
+        "post_id": 59211,
+        "message_id": 15099,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-28T19:34:24.998406+00:00"
+      },
+      {
+        "fingerprint": "85c6dbde6db28c5e28a2762c2c15ea5e66d92b1ceeced717c98cb20b1f57d375",
+        "media_fingerprint": "6729736ca7d56751f01cead71fbc2afb9bead10670323b5351d93edab2568a67",
+        "text": "😟\nاین ۴ تا بچه‌ای که توی ویدیو می‌بینید، همگی زیر ۱۸ سال سن دارن. توی بجنورد یه نفر رو دزدیدن و بردن خارج از شهر و گوشی و پولش رو گرفتن\nبعد با همون گوشی سرقتی دوباره تماس گرفتن و قرار دعوا گذاشتن، اما پلیس با ردیابی گوشی پیداشون کرد\n😐\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
+        "original_username": "boob_sfangi",
+        "original_text": "😟\nاین ۴ تا بچه‌ای که توی ویدیو می‌بینید، همگی زیر ۱۸ سال سن دارن. توی بجنورد یه نفر رو دزدیدن و بردن خارج از شهر و گوشی و پولش رو گرفتن\nبعد با همون گوشی سرقتی دوباره تماس گرفتن و قرار دعوا گذاشتن، اما پلیس با ردیابی گوشی پیداشون کرد\n😐\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
+        "original_link": "https://t.me/boob_sfangi/2973",
+        "post_id": 2973,
+        "message_id": 15100,
+        "message_kind": "caption",
+        "sources": [
+          "boob_sfangi"
+        ],
+        "created_at": "2026-10-28T19:34:31.900251+00:00"
+      },
+      {
+        "fingerprint": "37d51556c78f7a8d3cc02831e8f5b5e8ef02bd6c43336b50bea81a85ea0e9276",
+        "media_fingerprint": "27d0c9719524a1aa41e716de22c6d9171edcc743cb4fed6d95388d032afb9089",
+        "text": "دو بسته کرفس واسه من بزار کنار\n😂\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "دو بسته کرفس واسه من بزار کنار\n😂\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/307406",
+        "post_id": 307406,
+        "message_id": 15101,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-28T19:34:40.430981+00:00"
+      },
+      {
+        "fingerprint": "ae828fde421bcbd457e37b99d17dc63a95375dcfbd458c8d1367755ff8d6587c",
+        "media_fingerprint": "feb3f0b25cdadc90ba1e8162baa22fdfd9feece973087e0107d7e47f72d25304",
+        "text": "♦️\nایستاده‌ایم تا آخر\n@Akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nایستاده‌ایم تا آخر\n@Akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144661",
+        "post_id": 144661,
+        "message_id": 15102,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-28T19:34:45.256408+00:00"
+      },
+      {
+        "fingerprint": "8776732b4bfe9ccbaa68aac458f1007f92d3c7b986572230e924ccaee825e5a1",
+        "media_fingerprint": "",
+        "text": "",
+        "original_username": "shakhmovie",
+        "original_text": "",
+        "original_link": "https://t.me/Shakhmovie/4299",
+        "post_id": 4299,
+        "message_id": 15103,
+        "message_kind": "text",
+        "sources": [
+          "shakhmovie"
+        ],
+        "created_at": "2026-10-28T19:34:49.024547+00:00"
+      },
+      {
+        "fingerprint": "0d28af46b1c621e9195915f378138a350e84cd856343dc43121491dba7343851",
+        "media_fingerprint": "d5c5139c956bdc86ee1ec34e83e5450e1b8cc0df1309d3b731353acf479321c2",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26817",
+        "post_id": 26817,
+        "message_id": 15104,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-28T19:34:54.774399+00:00"
+      },
+      {
+        "fingerprint": "8cdbec14b4f3a160311c866b6a8963524675c5d1b2f5924a1dbd8eaca5aa6741",
+        "media_fingerprint": "c6a87f42ad25bafb2417eee9e900ab524cc8617af7deb54964d8d0913b44a090",
+        "text": "🎥\nچطور در سرشماری عمومی نفوس و مسکن ۱۴۰۵ شرکت کنیم؟\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🎥\nچطور در سرشماری عمومی نفوس و مسکن ۱۴۰۵ شرکت کنیم؟\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23796",
+        "post_id": 23796,
+        "message_id": 15105,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-28T19:35:05.796988+00:00"
+      },
+      {
+        "fingerprint": "5e3bb6d4496d099f405b70aa1a14270d81950342521d1fab0dff8418568dad00",
+        "media_fingerprint": "c2cb78bc40ae3d75e4494bf38b533e6406ff598aa3c797ec0cdb0abc86b54ae8",
+        "text": "بیشتر شبیه طنز دهه شصتی بود\n😐\n😏\n#Squidward\n💎\nSpongebob | باب اسفنجی",
+        "original_username": "boob_sfangi",
+        "original_text": "بیشتر شبیه طنز دهه شصتی بود\n😐\n😏\n#Squidward\n💎\nSpongebob | باب اسفنجی",
+        "original_link": "https://t.me/boob_sfangi/2974",
+        "post_id": 2974,
+        "message_id": 15106,
+        "message_kind": "caption",
+        "sources": [
+          "boob_sfangi"
+        ],
+        "created_at": "2026-10-28T19:35:11.923233+00:00"
       }
     ]
   }
