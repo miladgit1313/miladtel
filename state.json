@@ -1,13 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 144602,
+      "last_id": 144608,
       "processed_ids": [
-        143266,
-        143267,
-        143268,
-        143269,
-        143270,
         143272,
         143273,
         143274,
@@ -1002,16 +997,19 @@
         144599,
         144600,
         144601,
-        144602
+        144602,
+        144604,
+        144605,
+        144606,
+        144607,
+        144608
       ],
-      "sent_count": 1322,
+      "sent_count": 1326,
       "failed": {}
     },
     "total_fut": {
-      "last_id": 238869,
+      "last_id": 238871,
       "processed_ids": [
-        237630,
-        237631,
         237632,
         237633,
         237634,
@@ -2009,16 +2007,16 @@
         238866,
         238867,
         238868,
-        238869
+        238869,
+        238870,
+        238871
       ],
       "sent_count": 197,
       "failed": {}
     },
     "footballvision2": {
-      "last_id": 173235,
+      "last_id": 173237,
       "processed_ids": [
-        171299,
-        171300,
         171301,
         171302,
         171303,
@@ -3016,9 +3014,11 @@
         173232,
         173233,
         173234,
-        173235
+        173235,
+        173236,
+        173237
       ],
-      "sent_count": 224,
+      "sent_count": 225,
       "failed": {}
     },
     "tg_ir": {
@@ -3089,7 +3089,7 @@
       "failed": {}
     },
     "fars_today": {
-      "last_id": 132352,
+      "last_id": 132353,
       "processed_ids": [
         131975,
         131976,
@@ -3453,7 +3453,8 @@
         132349,
         132350,
         132351,
-        132352
+        132352,
+        132353
       ],
       "sent_count": 182,
       "failed": {}
@@ -3519,9 +3520,8 @@
       "failed": {}
     },
     "drtel": {
-      "last_id": 71943,
+      "last_id": 71945,
       "processed_ids": [
-        66933,
         66934,
         66935,
         66936,
@@ -4520,9 +4520,10 @@
         71940,
         71941,
         71942,
-        71943
+        71943,
+        71945
       ],
-      "sent_count": 692,
+      "sent_count": 693,
       "failed": {}
     },
     "techtube": {
@@ -6151,10 +6152,8 @@
       "failed": {}
     },
     "akhbar_cafenet": {
-      "last_id": 23759,
+      "last_id": 23761,
       "processed_ids": [
-        22640,
-        22641,
         22642,
         22643,
         22644,
@@ -7152,9 +7151,11 @@
         23756,
         23757,
         23758,
-        23759
+        23759,
+        23760,
+        23761
       ],
-      "sent_count": 592,
+      "sent_count": 594,
       "failed": {}
     },
     "comentiat": {
@@ -7926,7 +7927,7 @@
       "failed": {}
     },
     "majalepezeshki": {
-      "last_id": 38881,
+      "last_id": 38882,
       "processed_ids": [
         38432,
         38433,
@@ -8365,20 +8366,15 @@
         38877,
         38878,
         38879,
-        38881
+        38881,
+        38882
       ],
       "sent_count": 255,
       "failed": {}
     },
     "gizmiztel": {
-      "last_id": 164031,
+      "last_id": 164037,
       "processed_ids": [
-        162763,
-        162764,
-        162765,
-        162766,
-        162767,
-        162768,
         162769,
         162771,
         162772,
@@ -9372,13 +9368,19 @@
         164028,
         164029,
         164030,
-        164031
+        164031,
+        164032,
+        164033,
+        164034,
+        164035,
+        164036,
+        164037
       ],
-      "sent_count": 1204,
+      "sent_count": 1206,
       "failed": {}
     },
     "dr_salamatx": {
-      "last_id": 55482,
+      "last_id": 55483,
       "processed_ids": [
         55270,
         55271,
@@ -9587,13 +9589,14 @@
         55479,
         55480,
         55481,
-        55482
+        55482,
+        55483
       ],
       "sent_count": 125,
       "failed": {}
     },
     "jaleb": {
-      "last_id": 53274,
+      "last_id": 53277,
       "processed_ids": [
         52261,
         52262,
@@ -10456,15 +10459,17 @@
         53271,
         53272,
         53273,
-        53274
+        53274,
+        53275,
+        53276,
+        53277
       ],
-      "sent_count": 423,
+      "sent_count": 424,
       "failed": {}
     },
     "ajayebe_jahann": {
-      "last_id": 160317,
+      "last_id": 160318,
       "processed_ids": [
-        159242,
         159243,
         159244,
         159245,
@@ -11463,9 +11468,10 @@
         160314,
         160315,
         160316,
-        160317
+        160317,
+        160318
       ],
-      "sent_count": 485,
+      "sent_count": 486,
       "failed": {}
     },
     "etelaate_omoomi": {
@@ -18723,10 +18729,8 @@
       "failed": {}
     },
     "irwonders": {
-      "last_id": 59183,
+      "last_id": 59185,
       "processed_ids": [
-        58048,
-        58049,
         58050,
         58051,
         58052,
@@ -19724,9 +19728,11 @@
         59176,
         59177,
         59178,
-        59183
+        59183,
+        59184,
+        59185
       ],
-      "sent_count": 644,
+      "sent_count": 645,
       "failed": {}
     },
     "razcom": {
@@ -21421,7 +21427,7 @@
       "failed": {}
     },
     "khandehabadd": {
-      "last_id": 307382,
+      "last_id": 307384,
       "processed_ids": [
         306563,
         306564,
@@ -22202,9 +22208,11 @@
         307379,
         307380,
         307381,
-        307382
+        307382,
+        307383,
+        307384
       ],
-      "sent_count": 340,
+      "sent_count": 342,
       "failed": {}
     },
     "ravan6enasii": {
@@ -22623,7 +22631,7 @@
       "failed": {}
     },
     "yejoorayi": {
-      "last_id": 664,
+      "last_id": 665,
       "processed_ids": [
         426,
         427,
@@ -22845,9 +22853,10 @@
         661,
         662,
         663,
-        664
+        664,
+        665
       ],
-      "sent_count": 205,
+      "sent_count": 206,
       "failed": {}
     },
     "onlinecofe_ir": {
@@ -24355,7 +24364,7 @@
       "failed": {}
     },
     "persiana_pluss": {
-      "last_id": 7302,
+      "last_id": 7308,
       "processed_ids": [
         6113,
         6114,
@@ -25294,7 +25303,13 @@
         7299,
         7300,
         7301,
-        7302
+        7302,
+        7303,
+        7304,
+        7305,
+        7306,
+        7307,
+        7308
       ],
       "sent_count": 23,
       "failed": {}
@@ -25480,7 +25495,7 @@
       "failed": {}
     },
     "dashagh": {
-      "last_id": 48823,
+      "last_id": 48824,
       "processed_ids": [
         48313,
         48314,
@@ -25832,9 +25847,10 @@
         48817,
         48821,
         48822,
-        48823
+        48823,
+        48824
       ],
-      "sent_count": 244,
+      "sent_count": 245,
       "failed": {}
     },
     "apkclub": {
@@ -27110,263 +27126,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "2ec77a906d516f4c9c69b03bd6bab1ebd460cf3a3c770437bb9642b3d7aefc8e",
-        "media_fingerprint": "b4ebe1376f37bc9e66a8276baaeff3ebc40f094330698125c43d0bef4d1ab4f5",
-        "text": "🔖\nبرید تو این سایت، رندوم دوباره یه جای دنیا متولد می‌شی و سرنوشتت رو می‌بینی.\n🌐\nwww.1in8b.life/en\n🌟\n@APKCLUB\n|\n@APKCLUB_GP",
-        "original_username": "apkclub",
-        "original_text": "🔖\nبرید تو این سایت، رندوم دوباره یه جای دنیا متولد می‌شی و سرنوشتت رو می‌بینی.\n🌐\nwww.1in8b.life/en\n🌟\n@APKCLUB\n|\n@APKCLUB_GP",
-        "original_link": "https://t.me/apkclub/73262",
-        "post_id": 73262,
-        "message_id": 14520,
-        "message_kind": "caption",
-        "sources": [
-          "apkclub"
-        ],
-        "created_at": "2026-10-27T14:24:35.900517+00:00"
-      },
-      {
-        "fingerprint": "dbdf8cb7b570bf969c7e83d5b1cdfe22dc7767ab2a47590ffa868e303ceeeb61",
-        "media_fingerprint": "2d4825f55fc960a2bf53e3cfcfcefd9aa2e187ee2a532a7e590962594daa4c0b",
-        "text": "به آب نوشیدنی گلاب اضافه کنید\nگلاب غنی از آنتی اکسیدان و دارای خاصیت ضد التهابی است و کاهش دهنده لکه ها و بهبود دهنده رنگ پوست بوده و مقوی معده، قلب، کبد و اعصاب بوده و آرامبخشی قوی است\n👌\n@Midanesti",
-        "original_username": "midanesti",
-        "original_text": "به آب نوشیدنی گلاب اضافه کنید\nگلاب غنی از آنتی اکسیدان و دارای خاصیت ضد التهابی است و کاهش دهنده لکه ها و بهبود دهنده رنگ پوست بوده و مقوی معده، قلب، کبد و اعصاب بوده و آرامبخشی قوی است\n👌\n@Midanesti",
-        "original_link": "https://t.me/midanesti/73364",
-        "post_id": 73364,
-        "message_id": 14521,
-        "message_kind": "caption",
-        "sources": [
-          "midanesti",
-          "irwonders"
-        ],
-        "created_at": "2026-10-27T14:24:41.787593+00:00"
-      },
-      {
-        "fingerprint": "50c73efd8955a113891bef028a00a6ff210e5d4d8a27fe74edb82bf9f42dac6f",
-        "media_fingerprint": "1110b068c1d9a449c14e31fb7b452feb081f63238e12dc66337d9e7acaac20c7",
-        "text": "🔻\nبراثر وقوع طوفان سهمگین در آنتالیای ترکیه، چهار نفر کشته و یک نفر زخمی شده است.\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "🔻\nبراثر وقوع طوفان سهمگین در آنتالیای ترکیه، چهار نفر کشته و یک نفر زخمی شده است.\n@irWonders",
-        "original_link": "https://t.me/irwonders/59151",
-        "post_id": 59151,
-        "message_id": 14522,
-        "message_kind": "text",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-27T14:24:46.572073+00:00"
-      },
-      {
-        "fingerprint": "fdbc4823829320222d915f135860280ab76c4e1848054537ea493de9e94e7f7f",
-        "media_fingerprint": "40f6370d7bb47800e1d6fb25b82e7d71e5df1d7e96120318344850930685305f",
-        "text": "تروما چگونه توانایی ما در مدیریت احساسات را تغییر می‌دهد؟\n◽️\nتجربه‌های آسیب‌زا ممکن است توانایی فرد برای مدیریت احساسات و کنار آمدن با استرس‌های روزمره را تحت تأثیر قرار دهند. روان‌شناسان برای توضیح این موضوع از مفهومی به نام «پنجره تحمل» استفاده می‌کنند؛ محدوده‌ای که در آن می‌توانیم احساسات خود را مدیریت کنیم، واضح‌تر فکر کنیم و ارتباط مؤثرتری با دیگران داشته باشیم.\n◽️\nتروما ممکن است این محدوده را محدود کند و باعث شود فرد در برابر اتفاقات کوچک، اضطراب و خشم شدیدی تجربه کند یا برعکس، دچار بی‌حسی هیجانی و کناره‌گیری شود. تمرین‌های تنفسی، حرکت بدنی، توجه به حواس پنج‌گانه، روابط حمایتگر و روان‌درمانی می‌توانند به تنظیم هیجان کمک کنند.\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_username": "majalepezeshki",
-        "original_text": "تروما چگونه توانایی ما در مدیریت احساسات را تغییر می‌دهد؟\n◽️\nتجربه‌های آسیب‌زا ممکن است توانایی فرد برای مدیریت احساسات و کنار آمدن با استرس‌های روزمره را تحت تأثیر قرار دهند. روان‌شناسان برای توضیح این موضوع از مفهومی به نام «پنجره تحمل» استفاده می‌کنند؛ محدوده‌ای که در آن می‌توانیم احساسات خود را مدیریت کنیم، واضح‌تر فکر کنیم و ارتباط مؤثرتری با دیگران داشته باشیم.\n◽️\nتروما ممکن است این محدوده را محدود کند و باعث شود فرد در برابر اتفاقات کوچک، اضطراب و خشم شدیدی تجربه کند یا برعکس، دچار بی‌حسی هیجانی و کناره‌گیری شود. تمرین‌های تنفسی، حرکت بدنی، توجه به حواس پنج‌گانه، روابط حمایتگر و روان‌درمانی می‌توانند به تنظیم هیجان کمک کنند.\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_link": "https://t.me/MajalePezeshki/38870",
-        "post_id": 38870,
-        "message_id": 14523,
-        "message_kind": "caption",
-        "sources": [
-          "majalepezeshki"
-        ],
-        "created_at": "2026-10-27T14:24:52.248067+00:00"
-      },
-      {
-        "fingerprint": "9d77bdeec91a58a61be4cc18ce7e1b6f4a5f62d3aa3474e77b6e725df7fdb3a6",
-        "media_fingerprint": "682f41551c2ef3d5bf949001ad71207375a627dfc640bc199cae38ea7e6e6901",
-        "text": "فرهنگستان زبان‌ و ادب فارسی که از سال ۶۹ تأسیس شده، گفته می‌‌شود در مجموع ۱۵۸۱ واژه را تغییر داده و فقط در ۳سال اخیر، ۶۵۵ میلیارد تومان بودجه گرفته؛ یعنی، برای هر یک از این واژه‌های مسخره حدود ۵ میلیارد تومان!\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "فرهنگستان زبان‌ و ادب فارسی که از سال ۶۹ تأسیس شده، گفته می‌‌شود در مجموع ۱۵۸۱ واژه را تغییر داده و فقط در ۳سال اخیر، ۶۵۵ میلیارد تومان بودجه گرفته؛ یعنی، برای هر یک از این واژه‌های مسخره حدود ۵ میلیارد تومان!\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/53255",
-        "post_id": 53255,
-        "message_id": 14524,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-27T14:24:57.565488+00:00"
-      },
-      {
-        "fingerprint": "436f8f24d2aeec158fab17f45f29b64eabc26976891da651a258283081655f6b",
-        "media_fingerprint": "",
-        "text": "دفترچه آستان قدس رضوی ۱۴۰۵.pdf",
-        "original_username": "akhbar_cafenet",
-        "original_text": "دفترچه آستان قدس رضوی ۱۴۰۵.pdf",
-        "original_link": "https://t.me/akhbar_cafenet/23737",
-        "post_id": 23737,
-        "message_id": 14525,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-27T14:25:01.190998+00:00"
-      },
-      {
-        "fingerprint": "13bf54baf5b869f64b161d60a937d1c5d984ed47f00568f96469612f9d1df6f6",
-        "media_fingerprint": "675725828a62a6f83446334898f0d7aac4f3daea0c7517abf871b0a04ef8c51a",
-        "text": "وقتی موقع تعطیل شدن تو راهرو مدرسه داد میزنی : بالاخره آزاد شدیم\nواکنش مدیر مدرسه :\n@FuckNewsi",
-        "original_username": "fucknewsi",
-        "original_text": "وقتی موقع تعطیل شدن تو راهرو مدرسه داد میزنی : بالاخره آزاد شدیم\nواکنش مدیر مدرسه :\n@FuckNewsi",
-        "original_link": "https://t.me/FuckNewsi/13999",
-        "post_id": 13999,
-        "message_id": 14526,
-        "message_kind": "caption",
-        "sources": [
-          "fucknewsi"
-        ],
-        "created_at": "2026-10-27T14:25:07.652822+00:00"
-      },
-      {
-        "fingerprint": "bed9ca84883867f30f63cc157d1f51cca72d3fe0aa85694e3576b70207e31b9f",
-        "media_fingerprint": "b879cf238789cd3d726aa4db80114314d8fd954250989ba32e88638febbaa8bd",
-        "text": "عادت هایی که باید تو زندگیتون داشته باشین :\nهمه‌مون منتظریم انگیزه بیاد تا سبک زندگیمونو بسازیم اما\nساختن سبک زندگی هدفمند ، نیاز به مهارت داره چون باید متناسب با تایپ شخصیت و شرایط زندکی تو طراحی بشه\nنسخه کپی شده از بقیه هیچ وقت اون نتیجه ای که باید بده رو نمیده !\n‌\n@media_aramesh",
-        "original_username": "media_aramesh",
-        "original_text": "عادت هایی که باید تو زندگیتون داشته باشین :\nهمه‌مون منتظریم انگیزه بیاد تا سبک زندگیمونو بسازیم اما\nساختن سبک زندگی هدفمند ، نیاز به مهارت داره چون باید متناسب با تایپ شخصیت و شرایط زندکی تو طراحی بشه\nنسخه کپی شده از بقیه هیچ وقت اون نتیجه ای که باید بده رو نمیده !\n‌\n@media_aramesh",
-        "original_link": "https://t.me/media_aramesh/113086",
-        "post_id": 113086,
-        "message_id": 14527,
-        "message_kind": "caption",
-        "sources": [
-          "media_aramesh"
-        ],
-        "created_at": "2026-10-27T14:25:43.745032+00:00"
-      },
-      {
-        "fingerprint": "27f3cfb26685f3b9e23d966f6d818caf94123f1eccbf00398a72f5de835d65f8",
-        "media_fingerprint": "c252e222f5b6f892f659691e6069ee353cb8ed5d0ab23b4109800d3200edc642",
-        "text": "چه واقعیت خوشمزه ایی\n😂\n😂\n😂\n@Dashagh",
-        "original_username": "dashagh",
-        "original_text": "چه واقعیت خوشمزه ایی\n😂\n😂\n😂\n@Dashagh",
-        "original_link": "https://t.me/dashagh/48782",
-        "post_id": 48782,
-        "message_id": 14533,
-        "message_kind": "caption",
-        "sources": [
-          "dashagh",
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-27T14:25:51.245361+00:00"
-      },
-      {
-        "fingerprint": "698ed7d643fbed0843af6fa96f8b20f9878efc9a0f60edbf04e7344aae72171e",
-        "media_fingerprint": "",
-        "text": "خدایا، امروز چنان درهای رحمتت رو به رومون باز کن که غصه‌هامون به امید، نگرانی‌هامون به آرامش و انتظارمون به خبرهای خوش ختم بشه؛ و هیچ دلی از مهربونی تو ناامید نمونه\nسلام صبح همگی به خیر و شادی\n🙏\n🙏\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
-        "original_username": "ghandeharipoet",
-        "original_text": "خدایا، امروز چنان درهای رحمتت رو به رومون باز کن که غصه‌هامون به امید، نگرانی‌هامون به آرامش و انتظارمون به خبرهای خوش ختم بشه؛ و هیچ دلی از مهربونی تو ناامید نمونه\nسلام صبح همگی به خیر و شادی\n🙏\n🙏\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
-        "original_link": "https://t.me/Ghandeharipoet/42865",
-        "post_id": 42865,
-        "message_id": 14534,
-        "message_kind": "text",
-        "sources": [
-          "ghandeharipoet"
-        ],
-        "created_at": "2026-10-27T14:25:55.485110+00:00"
-      },
-      {
-        "fingerprint": "967a4317c98be46554916443b9f6a08e4d3ed55ce3bfdfd3549853ae4c02967a",
-        "media_fingerprint": "",
-        "text": "",
-        "original_username": "ghandeharipoet",
-        "original_text": "",
-        "original_link": "https://t.me/Ghandeharipoet/42866",
-        "post_id": 42866,
-        "message_id": 14535,
-        "message_kind": "text",
-        "sources": [
-          "ghandeharipoet"
-        ],
-        "created_at": "2026-10-27T14:25:59.069005+00:00"
-      },
-      {
-        "fingerprint": "ba9ab7dcef8ad2cf1aafe21e4d6a44f10f948582757dfee1338dd7d8bd47d6b0",
-        "media_fingerprint": "9d3d1fc6fc0bf79a99fc495606918c71f83b11f129f4827c53f9933a22206eae",
-        "text": "8 صبح عادی ترین پیرمرد پارک\n🆔\n@YeJoorayi",
-        "original_username": "yejoorayi",
-        "original_text": "8 صبح عادی ترین پیرمرد پارک\n🆔\n@YeJoorayi",
-        "original_link": "https://t.me/YeJoorayi/659",
-        "post_id": 659,
-        "message_id": 14536,
-        "message_kind": "caption",
-        "sources": [
-          "yejoorayi"
-        ],
-        "created_at": "2026-10-27T14:26:06.337072+00:00"
-      },
-      {
-        "fingerprint": "e7bbf62895c2cefb53f3175116e801333a4ed09f9586b3275b2efb70c2e8be5c",
-        "media_fingerprint": "",
-        "text": "این قانون آدماســــــــت\nتا زمانی که هستـــــــــی\nآسوده انداز بودنــــــــت\nگاهی تنهات میزارنــــــــد\nگاهی آزارت میدهنـــــــد\nو گاهـــــــــــــــــــــــــی …...\nگمان میکنندقرارســـــــــــت\nبودناهمیشگی باشـــــــــــــــد\nاما زمانی برایشـــــــــــــــــان\nعــــــزیز می شـــــــــــــــــوی\nکه دیگر نیستـــــــــــــــی\nباهم بودنوقدربدانیــــــــــم\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
-        "original_username": "ghandeharipoet",
-        "original_text": "این قانون آدماســــــــت\nتا زمانی که هستـــــــــی\nآسوده انداز بودنــــــــت\nگاهی تنهات میزارنــــــــد\nگاهی آزارت میدهنـــــــد\nو گاهـــــــــــــــــــــــــی …...\nگمان میکنندقرارســـــــــــت\nبودناهمیشگی باشـــــــــــــــد\nاما زمانی برایشـــــــــــــــــان\nعــــــزیز می شـــــــــــــــــوی\nکه دیگر نیستـــــــــــــــی\nباهم بودنوقدربدانیــــــــــم\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
-        "original_link": "https://t.me/Ghandeharipoet/42867",
-        "post_id": 42867,
-        "message_id": 14537,
-        "message_kind": "text",
-        "sources": [
-          "ghandeharipoet"
-        ],
-        "created_at": "2026-10-27T14:26:14.958416+00:00"
-      },
-      {
-        "fingerprint": "d92fc692aa4e63af5ba7d438d6573242f65cf3870cadc40a39d254cc0ef13fd9",
-        "media_fingerprint": "",
-        "text": "چہ دعاے قشنگیہ :\n🌱\n« الهے خدا جورے عزیزت ڪنہ ،\nڪہ وجودت آرام‌بخش عزیزانت باشہ »...\n🌺\n🍃\n💙\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
-        "original_username": "ghandeharipoet",
-        "original_text": "چہ دعاے قشنگیہ :\n🌱\n« الهے خدا جورے عزیزت ڪنہ ،\nڪہ وجودت آرام‌بخش عزیزانت باشہ »...\n🌺\n🍃\n💙\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
-        "original_link": "https://t.me/Ghandeharipoet/42868",
-        "post_id": 42868,
-        "message_id": 14538,
-        "message_kind": "text",
-        "sources": [
-          "ghandeharipoet"
-        ],
-        "created_at": "2026-10-27T14:26:18.794335+00:00"
-      },
-      {
-        "fingerprint": "15dd629e8162d169cc9c7d91fc1e9db7f27afd2e463db417b8e3676e8e429ed7",
-        "media_fingerprint": "363b580e5f2eca833f28245a9856ac957146ff9badc08e82289ecce102d9ca89",
-        "text": "طرف اکسش بهش پیام داده نوشته خواب دیدم دوباره دوست شدیم، اونم آلارم براش فرستاده:\n🤣\n😏\n#Squidward\n💎\nSpongebob | باب اسفنجی",
-        "original_username": "boob_sfangi",
-        "original_text": "طرف اکسش بهش پیام داده نوشته خواب دیدم دوباره دوست شدیم، اونم آلارم براش فرستاده:\n🤣\n😏\n#Squidward\n💎\nSpongebob | باب اسفنجی",
-        "original_link": "https://t.me/boob_sfangi/2912",
-        "post_id": 2912,
-        "message_id": 14539,
-        "message_kind": "caption",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-27T14:26:24.172283+00:00"
-      },
-      {
-        "fingerprint": "2d26100bac0f9e6debbee1b82a86e20e8ec123d3702a4382b76648f05721d907",
-        "media_fingerprint": "",
-        "text": "",
-        "original_username": "apkclub",
-        "original_text": "",
-        "original_link": "https://t.me/apkclub/73263",
-        "post_id": 73263,
-        "message_id": 14540,
-        "message_kind": "text",
-        "sources": [
-          "apkclub"
-        ],
-        "created_at": "2026-10-27T14:26:27.802839+00:00"
-      },
-      {
-        "fingerprint": "9b37dd83966fb84fc8a2e38db0fc0f7935dcc7f4921d5953f71f5b00a0035e94",
-        "media_fingerprint": "901fba8ef43105c4f8af7359dc7be6ff156ec8b1b93698af2c8d81aa689251c4",
-        "text": "مقایسه فنی دنا و شاهین / کدام سدان ملی برای خرید ارزش بیشتری دارد؟",
-        "original_username": "sabtnamkh0dro",
-        "original_text": "مقایسه فنی دنا و شاهین / کدام سدان ملی برای خرید ارزش بیشتری دارد؟",
-        "original_link": "https://t.me/sabtnamkh0dro/14507",
-        "post_id": 14507,
-        "message_id": 14541,
-        "message_kind": "caption",
-        "sources": [
-          "sabtnamkh0dro"
-        ],
-        "created_at": "2026-10-27T14:26:33.438730+00:00"
-      },
       {
         "fingerprint": "93c5da5efdec6a6469c54680ad4c44251b049ba5a61bb5415bc59ef6d2d9b6a8",
         "media_fingerprint": "6a1b18adfb0c17d09a8acfa208ad74a1ce7a252d7786fb8653ce8b6ed4a1177f",
@@ -30549,7 +30308,8 @@
         "message_id": 14776,
         "message_kind": "text",
         "sources": [
-          "drtel"
+          "drtel",
+          "gizmiztel"
         ],
         "created_at": "2026-10-27T18:41:18.929395+00:00"
       },
@@ -31633,9 +31393,266 @@
         "message_id": 14856,
         "message_kind": "caption",
         "sources": [
-          "drtel"
+          "drtel",
+          "gizmiztel"
         ],
         "created_at": "2026-10-28T01:28:14.256930+00:00"
+      },
+      {
+        "fingerprint": "75d826001c2ab3cfe13b1899a8c3088cc40c0530f3595e41ab81d3caa305a9ef",
+        "media_fingerprint": "ec65df492cbf5dfa19ef7db70ef21e055d5ba55f7e30128ed12eeb035a8a1edf",
+        "text": "🔴\nامروز 28 October ، روزِ ابراز علاقه به حیوانات نرمه.\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "🔴\nامروز 28 October ، روزِ ابراز علاقه به حیوانات نرمه.\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48824",
+        "post_id": 48824,
+        "message_id": 14857,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-28T05:57:35.455170+00:00"
+      },
+      {
+        "fingerprint": "2d8860a6b1643214792197912276019e3c281a6a6d4157805d64a1219d2eff6e",
+        "media_fingerprint": "",
+        "text": "از این‌ انتخابات شخمی‌ اسرائیل هم هرچی خبر میخونی ببینی نتیجه چی شد گیج تر میشی\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "از این‌ انتخابات شخمی‌ اسرائیل هم هرچی خبر میخونی ببینی نتیجه چی شد گیج تر میشی\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/164032",
+        "post_id": 164032,
+        "message_id": 14858,
+        "message_kind": "text",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-28T05:57:39.002056+00:00"
+      },
+      {
+        "fingerprint": "5815c73ac3a202ef20f5efbc418cf2a4ed185a9867fdd65b57ba0c95fa15021f",
+        "media_fingerprint": "1942b4abc24dda632608eb5d1562db290890ab085bb0d3ce348a79457b1a3c0f",
+        "text": "اولین روز آموزشی بیرانوند\n😂\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "اولین روز آموزشی بیرانوند\n😂\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/164035",
+        "post_id": 164035,
+        "message_id": 14859,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel",
+          "jaleb"
+        ],
+        "created_at": "2026-10-28T05:57:47.332399+00:00"
+      },
+      {
+        "fingerprint": "1bf56c4f0c7a50148b1df494229d3f5137c4eefbce1bf08e600a711e613450af",
+        "media_fingerprint": "06dfb5cbf20affd5347aa2233f033668ed4794d40d0c85da6ecce92bce8acd38",
+        "text": "هر روز خود را آغاز کنید با:\nبِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\n🔹\nبا خواندن دعای عهد و چند دقیقه گفتگو روزانه با امام زمان (عج)، پیمان همراهی و خدمتگزاری‌مان را تازه کنیم.\n#صبح_نو\nامروز چهارشنبه\n۶ آبان ماه\n۱۷ جمادی الاول ۱۴۴۸\n۲۸ اکتبر ۲۰۲۶\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "هر روز خود را آغاز کنید با:\nبِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\n🔹\nبا خواندن دعای عهد و چند دقیقه گفتگو روزانه با امام زمان (عج)، پیمان همراهی و خدمتگزاری‌مان را تازه کنیم.\n#صبح_نو\nامروز چهارشنبه\n۶ آبان ماه\n۱۷ جمادی الاول ۱۴۴۸\n۲۸ اکتبر ۲۰۲۶\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144604",
+        "post_id": 144604,
+        "message_id": 14860,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-28T05:57:53.181636+00:00"
+      },
+      {
+        "fingerprint": "5c28e43e6cd730bc6950e7a3cd25c86d531c5a42e032613118097669edd831f8",
+        "media_fingerprint": "0a22b11e5d52a06456e3b52c4b1b567441e0b87d6897deddcd03a4a4949e3f77",
+        "text": "اینجا جزیره زیبای کیش\n😃\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "اینجا جزیره زیبای کیش\n😃\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/160318",
+        "post_id": 160318,
+        "message_id": 14861,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-28T05:58:01.875731+00:00"
+      },
+      {
+        "fingerprint": "0983d764fcd91a5d9caaaf9c1a718c61df8005213bda2fc6ec498d5cfd3f9bfe",
+        "media_fingerprint": "",
+        "text": "🎥\nنحوه مشاهده مبلغ واریزی کالابرگ\n🔗\nلینک سامانه حمایت\n🔗\nلینک دانلود اپلیکیشن شمیم\n🔗\nمشاهده در آپارات\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🎥\nنحوه مشاهده مبلغ واریزی کالابرگ\n🔗\nلینک سامانه حمایت\n🔗\nلینک دانلود اپلیکیشن شمیم\n🔗\nمشاهده در آپارات\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23760",
+        "post_id": 23760,
+        "message_id": 14862,
+        "message_kind": "text",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-28T05:58:05.435758+00:00"
+      },
+      {
+        "fingerprint": "b547db473fe2aa24815c661eefdbefc1ce548ca61c0318ec4c33dd7541eb3016",
+        "media_fingerprint": "a1942849e8f01f79f51d82ac08cd4d0d447ca0061320bf108e75ecc1b5c97ae8",
+        "text": "🔴\nکانال 14 اسرائیل:\nتا اینجای کار، 37 درصد از آرا شمارش شدن که نشون میده نتانیاهو با اختلاف از رقیبش جلوئه؛\n- حزب نتانیاهو 57 کرسی\n- حزب مخالفان نتانیاهو 47 کرسی\n- حزب اعراب 16 کرسی\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nکانال 14 اسرائیل:\nتا اینجای کار، 37 درصد از آرا شمارش شدن که نشون میده نتانیاهو با اختلاف از رقیبش جلوئه؛\n- حزب نتانیاهو 57 کرسی\n- حزب مخالفان نتانیاهو 47 کرسی\n- حزب اعراب 16 کرسی\n@DrTeL",
+        "original_link": "https://t.me/drtel/71945",
+        "post_id": 71945,
+        "message_id": 14863,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-28T05:58:10.787711+00:00"
+      },
+      {
+        "fingerprint": "5663aee86b25464cf0650840d6713e417889898476241260eb6c8df68d72d810",
+        "media_fingerprint": "7a528b3a9904777d7e4b834292d60b7fc28e9ebf1ae3ca8b855bb501ec4f75e2",
+        "text": "صبح یعنی عشق\nعشق یعنی حس خوب زندگی\nزندگی یعنی زیباترین هدیه خدا\nسلام صبح چهارشنبه تون زیبا\n☕️\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "صبح یعنی عشق\nعشق یعنی حس خوب زندگی\nزندگی یعنی زیباترین هدیه خدا\nسلام صبح چهارشنبه تون زیبا\n☕️\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/307383",
+        "post_id": 307383,
+        "message_id": 14864,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-28T05:58:16.504998+00:00"
+      },
+      {
+        "fingerprint": "227679064d461cfd02479064410ba52f4249d3fab52a9d559c367233c869eb48",
+        "media_fingerprint": "9ce7a7e2f5261ecb575136683ea42ab348959abfac6fb36e1ae5732c56561b99",
+        "text": "فرزند هرچقدر هم بزرگ بشه، باز هم به دعای مادرش محتاجه…\nدعای مادری که شب‌ها با نگرانی چشم روی هم می‌ذاره و روزها با عشق، خوشبختی فرزندش رو از خدا می‌خواد.\nشاید دنیا همه درها رو به روت ببنده، اما وقتی دعای خیر مادرت پشت سرت باشه، هنوز امیدی به وسعت آسمون داری…\nخوشبختی یعنی مادرت زنده باشه، دست‌هاش رو به آسمون بلند کنه و بگه: خدایا، بچه‌م رو به خودت می‌سپارم…\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "فرزند هرچقدر هم بزرگ بشه، باز هم به دعای مادرش محتاجه…\nدعای مادری که شب‌ها با نگرانی چشم روی هم می‌ذاره و روزها با عشق، خوشبختی فرزندش رو از خدا می‌خواد.\nشاید دنیا همه درها رو به روت ببنده، اما وقتی دعای خیر مادرت پشت سرت باشه، هنوز امیدی به وسعت آسمون داری…\nخوشبختی یعنی مادرت زنده باشه، دست‌هاش رو به آسمون بلند کنه و بگه: خدایا، بچه‌م رو به خودت می‌سپارم…\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/307384",
+        "post_id": 307384,
+        "message_id": 14865,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-28T05:58:23.707202+00:00"
+      },
+      {
+        "fingerprint": "9669cdabf00c323bef68802369f810be310de27800b100ae5265fac7a1b944fc",
+        "media_fingerprint": "ea52cc02c16f6198609abe3206d6fe9ec3489522fffda8380279b51a196daed6",
+        "text": "نوشته های پشت هر خودرو\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "نوشته های پشت هر خودرو\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/53276",
+        "post_id": 53276,
+        "message_id": 14866,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-28T05:58:29.787347+00:00"
+      },
+      {
+        "fingerprint": "04877dabfc9f5d2cf8b3e18680f0d33adbb4e3af9cb413ec3694a279f429c5a9",
+        "media_fingerprint": "3bd13aed7c1b9aaaf5dd600c58727284f5cf6a3f6c05ca3dc4b5efb1846f7384",
+        "text": "♦️\nدر هر صورت یک تنگه معذرت:)\n#EuropeOnFire\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nدر هر صورت یک تنگه معذرت:)\n#EuropeOnFire\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144606",
+        "post_id": 144606,
+        "message_id": 14867,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-28T05:58:40.833794+00:00"
+      },
+      {
+        "fingerprint": "83e7e59c28e9b2abb878bcc7366333edfd6bfbe49766c9d36d1a7bd8800ee53e",
+        "media_fingerprint": "e84fa8ac529d0c99f34a3854ed458106a8d9dc8ffd4ffb6fa6a7411e9b8cbc14",
+        "text": "🎥\nافزایش اعتبار کالابرگ برای کم درآمدها/ اعتبار کالابرگ سرپرستان خانوار با رقم پایانی کد ملی ۷.۸ و ۹ شارژ شد\n🔵\nمعاون رفاه وزارت تعاون اعلام کرد: اعتبار کالابرگ ۳۵ میلیون نفر از اقشار کم‌درآمد، در مهر، با افزایش ۵۰ درصدی به یک‌میلیون و ۵۰۰ هزار تومان رسید.\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "🎥\nافزایش اعتبار کالابرگ برای کم درآمدها/ اعتبار کالابرگ سرپرستان خانوار با رقم پایانی کد ملی ۷.۸ و ۹ شارژ شد\n🔵\nمعاون رفاه وزارت تعاون اعلام کرد: اعتبار کالابرگ ۳۵ میلیون نفر از اقشار کم‌درآمد، در مهر، با افزایش ۵۰ درصدی به یک‌میلیون و ۵۰۰ هزار تومان رسید.\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23761",
+        "post_id": 23761,
+        "message_id": 14868,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-28T05:58:48.204114+00:00"
+      },
+      {
+        "fingerprint": "85acd158bf476ae63109415ffb513a07eca365d496b22c0d885e16ed01a79eb2",
+        "media_fingerprint": "243398f4a748d39d335f2d84bbc868d6014fe0a533671797fdcc20c78b3ce453",
+        "text": "اعلام اسامی داوران بازی‌های هفته یازدهم لیگ برتر\n🆔\n@footballvision2",
+        "original_username": "footballvision2",
+        "original_text": "اعلام اسامی داوران بازی‌های هفته یازدهم لیگ برتر\n🆔\n@footballvision2",
+        "original_link": "https://t.me/footballvision2/173237",
+        "post_id": 173237,
+        "message_id": 14869,
+        "message_kind": "caption",
+        "sources": [
+          "footballvision2"
+        ],
+        "created_at": "2026-10-28T05:58:53.471832+00:00"
+      },
+      {
+        "fingerprint": "e0f48ec6b16ba4f4e15015a27dad0dea53d8772a987e19d0849161983a758f1d",
+        "media_fingerprint": "",
+        "text": "♦️\nتایمز اسرائیل: پس از شمارش ۴۲ درصد آرا، ائتلاف نتانیاهو با ۵۷ کرسی در برابر ۴۷ کرسی مخالفان پیشتاز است\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nتایمز اسرائیل: پس از شمارش ۴۲ درصد آرا، ائتلاف نتانیاهو با ۵۷ کرسی در برابر ۴۷ کرسی مخالفان پیشتاز است\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144607",
+        "post_id": 144607,
+        "message_id": 14870,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-28T05:58:57.064753+00:00"
+      },
+      {
+        "fingerprint": "0e5a402365f333cd4d4e8cc02557c42ce02c7fa24de667ae38b050d45521688a",
+        "media_fingerprint": "9717781de3dfd37b927dcf0da8cdf8f9994d76ff759d47d4ea11eacb7dba7ba3",
+        "text": "مغز چپ دستا با راست دستا واقعا فرق داره\n⁉️\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "مغز چپ دستا با راست دستا واقعا فرق داره\n⁉️\n@irWonders",
+        "original_link": "https://t.me/irwonders/59184",
+        "post_id": 59184,
+        "message_id": 14871,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-28T05:59:04.768082+00:00"
+      },
+      {
+        "fingerprint": "cba0533822e7516580d62edcef58cd3badc7915ab977f1cfa5b7be283450358d",
+        "media_fingerprint": "215b4207ccf1296d2ad313679dc1adffe5bbec32964bc552e963216d1d60d103",
+        "text": "🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/665",
+        "post_id": 665,
+        "message_id": 14872,
+        "message_kind": "text",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-28T05:59:09.402857+00:00"
+      },
+      {
+        "fingerprint": "6c4965ad638d6550efb66b03ad8e8683eaa747b5b10e8e933a85c18d15e9f8e2",
+        "media_fingerprint": "",
+        "text": "♦️\nوکیل تتلو: امیرحسین توبه کرده و رئیس دادگستری آن را پذیرفته/ او در زندان ازدواج کرده، اما ازدواج موقت\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nوکیل تتلو: امیرحسین توبه کرده و رئیس دادگستری آن را پذیرفته/ او در زندان ازدواج کرده، اما ازدواج موقت\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144608",
+        "post_id": 144608,
+        "message_id": 14873,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-28T05:59:12.949163+00:00"
       }
     ]
   }
