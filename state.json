@@ -3519,10 +3519,8 @@
       "failed": {}
     },
     "drtel": {
-      "last_id": 71941,
+      "last_id": 71943,
       "processed_ids": [
-        66931,
-        66932,
         66933,
         66934,
         66935,
@@ -4520,9 +4518,11 @@
         71938,
         71939,
         71940,
-        71941
+        71941,
+        71942,
+        71943
       ],
-      "sent_count": 691,
+      "sent_count": 692,
       "failed": {}
     },
     "techtube": {
@@ -27111,21 +27111,6 @@
   "global": {
     "history": [
       {
-        "fingerprint": "b50b656b674f271b0bf4c2c31fcee72c66073d37baf92b9fa643494227098e87",
-        "media_fingerprint": "39c8461d3f996c188872135be75b2a1ec8e21dd49a2133c6225377732e871d04",
-        "text": "صبح باید اینچنین بخیر بشه مابقی\nمسخره است :))))))\n@Dashagh",
-        "original_username": "dashagh",
-        "original_text": "صبح باید اینچنین بخیر بشه مابقی\nمسخره است :))))))\n@Dashagh",
-        "original_link": "https://t.me/dashagh/48780",
-        "post_id": 48780,
-        "message_id": 14519,
-        "message_kind": "caption",
-        "sources": [
-          "dashagh"
-        ],
-        "created_at": "2026-10-27T14:24:30.762740+00:00"
-      },
-      {
         "fingerprint": "2ec77a906d516f4c9c69b03bd6bab1ebd460cf3a3c770437bb9642b3d7aefc8e",
         "media_fingerprint": "b4ebe1376f37bc9e66a8276baaeff3ebc40f094330698125c43d0bef4d1ab4f5",
         "text": "🔖\nبرید تو این سایت، رندوم دوباره یه جای دنیا متولد می‌شی و سرنوشتت رو می‌بینی.\n🌐\nwww.1in8b.life/en\n🌟\n@APKCLUB\n|\n@APKCLUB_GP",
@@ -31636,6 +31621,21 @@
           "comentiat"
         ],
         "created_at": "2026-10-27T23:51:44.037851+00:00"
+      },
+      {
+        "fingerprint": "0e8116ff9f6015090aca758da87540999ec162b9b30db93636bb0179a965f107",
+        "media_fingerprint": "8bcea636e5837d80923c547d478e75fa15684dfef0c72de49a831a64fbb0d73f",
+        "text": "🔴\nنقی باز نکن که خیر نیست؛\nنیکا، دخترِ نقی تو سریال پایتخت، با یه هیولا وارد رابطه شده هیچ، تازه دستشم گرفته برده کلینیک زیبایی که پسره سینه‌هاش رو لیفت و شکمش رو کوچیک کنه!\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nنقی باز نکن که خیر نیست؛\nنیکا، دخترِ نقی تو سریال پایتخت، با یه هیولا وارد رابطه شده هیچ، تازه دستشم گرفته برده کلینیک زیبایی که پسره سینه‌هاش رو لیفت و شکمش رو کوچیک کنه!\n@DrTeL",
+        "original_link": "https://t.me/drtel/71943",
+        "post_id": 71943,
+        "message_id": 14856,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-28T01:28:14.256930+00:00"
       }
     ]
   }
