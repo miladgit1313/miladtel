@@ -1,11 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 144648,
+      "last_id": 144651,
       "processed_ids": [
-        143296,
-        143297,
-        143298,
         143299,
         143300,
         143301,
@@ -1002,9 +999,12 @@
         144645,
         144646,
         144647,
-        144648
+        144648,
+        144649,
+        144650,
+        144651
       ],
-      "sent_count": 1339,
+      "sent_count": 1340,
       "failed": {}
     },
     "total_fut": {
@@ -3467,7 +3467,7 @@
       "failed": {}
     },
     "behzistikomitenews": {
-      "last_id": 13995,
+      "last_id": 13998,
       "processed_ids": [
         13937,
         13939,
@@ -3522,16 +3522,16 @@
         13990,
         13991,
         13992,
-        13995
+        13995,
+        13996,
+        13998
       ],
-      "sent_count": 11,
+      "sent_count": 12,
       "failed": {}
     },
     "drtel": {
-      "last_id": 71961,
+      "last_id": 71963,
       "processed_ids": [
-        66951,
-        66952,
         66953,
         66954,
         66955,
@@ -4529,7 +4529,9 @@
         71958,
         71959,
         71960,
-        71961
+        71961,
+        71962,
+        71963
       ],
       "sent_count": 701,
       "failed": {}
@@ -5358,7 +5360,7 @@
       "failed": {}
     },
     "coffeenetmanager": {
-      "last_id": 52027,
+      "last_id": 52028,
       "processed_ids": [
         51537,
         51538,
@@ -5806,13 +5808,14 @@
         52024,
         52025,
         52026,
-        52027
+        52027,
+        52028
       ],
       "sent_count": 127,
       "failed": {}
     },
     "roidbest": {
-      "last_id": 22013,
+      "last_id": 22015,
       "processed_ids": [
         21613,
         21614,
@@ -6180,15 +6183,15 @@
         22010,
         22011,
         22012,
-        22013
+        22013,
+        22015
       ],
-      "sent_count": 207,
+      "sent_count": 208,
       "failed": {}
     },
     "akhbar_cafenet": {
-      "last_id": 23791,
+      "last_id": 23792,
       "processed_ids": [
-        22663,
         22664,
         22665,
         22666,
@@ -7187,13 +7190,14 @@
         23788,
         23789,
         23790,
-        23791
+        23791,
+        23792
       ],
       "sent_count": 601,
       "failed": {}
     },
     "comentiat": {
-      "last_id": 26811,
+      "last_id": 26813,
       "processed_ids": [
         25844,
         25845,
@@ -7954,9 +7958,10 @@
         26808,
         26809,
         26810,
-        26811
+        26811,
+        26813
       ],
-      "sent_count": 569,
+      "sent_count": 570,
       "failed": {}
     },
     "boost/fndoni": {
@@ -9643,7 +9648,7 @@
       "failed": {}
     },
     "jaleb": {
-      "last_id": 53286,
+      "last_id": 53288,
       "processed_ids": [
         52261,
         52262,
@@ -10518,15 +10523,16 @@
         53283,
         53284,
         53285,
-        53286
+        53286,
+        53287,
+        53288
       ],
-      "sent_count": 430,
+      "sent_count": 432,
       "failed": {}
     },
     "ajayebe_jahann": {
-      "last_id": 160342,
+      "last_id": 160343,
       "processed_ids": [
-        159267,
         159268,
         159269,
         159270,
@@ -11525,9 +11531,10 @@
         160339,
         160340,
         160341,
-        160342
+        160342,
+        160343
       ],
-      "sent_count": 495,
+      "sent_count": 496,
       "failed": {}
     },
     "etelaate_omoomi": {
@@ -18787,9 +18794,8 @@
       "failed": {}
     },
     "irwonders": {
-      "last_id": 59206,
+      "last_id": 59207,
       "processed_ids": [
-        58069,
         58070,
         58071,
         58072,
@@ -19788,9 +19794,10 @@
         59203,
         59204,
         59205,
-        59206
+        59206,
+        59207
       ],
-      "sent_count": 653,
+      "sent_count": 654,
       "failed": {}
     },
     "razcom": {
@@ -21489,7 +21496,7 @@
       "failed": {}
     },
     "khandehabadd": {
-      "last_id": 307400,
+      "last_id": 307402,
       "processed_ids": [
         306563,
         306564,
@@ -22288,9 +22295,11 @@
         307397,
         307398,
         307399,
-        307400
+        307400,
+        307401,
+        307402
       ],
-      "sent_count": 349,
+      "sent_count": 350,
       "failed": {}
     },
     "ravan6enasii": {
@@ -22533,7 +22542,7 @@
       "failed": {}
     },
     "bajefilm": {
-      "last_id": 11733,
+      "last_id": 11734,
       "processed_ids": [
         11552,
         11553,
@@ -22706,9 +22715,10 @@
         11730,
         11731,
         11732,
-        11733
+        11733,
+        11734
       ],
-      "sent_count": 136,
+      "sent_count": 137,
       "failed": {}
     },
     "yejoorayi": {
@@ -23057,7 +23067,7 @@
       "failed": {}
     },
     "shakhmovie": {
-      "last_id": 4295,
+      "last_id": 4296,
       "processed_ids": [
         4017,
         4018,
@@ -23238,9 +23248,10 @@
         4292,
         4293,
         4294,
-        4295
+        4295,
+        4296
       ],
-      "sent_count": 156,
+      "sent_count": 157,
       "failed": {}
     },
     "peach_tweet": {
@@ -24460,7 +24471,7 @@
       "failed": {}
     },
     "persiana_pluss": {
-      "last_id": 7344,
+      "last_id": 7346,
       "processed_ids": [
         6113,
         6114,
@@ -25424,7 +25435,9 @@
         7340,
         7341,
         7342,
-        7344
+        7344,
+        7345,
+        7346
       ],
       "sent_count": 24,
       "failed": {}
@@ -25616,7 +25629,7 @@
       "failed": {}
     },
     "dashagh": {
-      "last_id": 48868,
+      "last_id": 48870,
       "processed_ids": [
         48313,
         48314,
@@ -25979,7 +25992,9 @@
         48861,
         48866,
         48867,
-        48868
+        48868,
+        48869,
+        48870
       ],
       "sent_count": 252,
       "failed": {}
@@ -26306,7 +26321,7 @@
       "failed": {}
     },
     "boob_sfangi": {
-      "last_id": 2965,
+      "last_id": 2968,
       "processed_ids": [
         2587,
         2590,
@@ -26604,13 +26619,15 @@
         2962,
         2963,
         2964,
-        2965
+        2965,
+        2967,
+        2968
       ],
-      "sent_count": 189,
+      "sent_count": 191,
       "failed": {}
     },
     "fucknewsi": {
-      "last_id": 14049,
+      "last_id": 14051,
       "processed_ids": [
         13561,
         13562,
@@ -26939,9 +26956,10 @@
         14046,
         14047,
         14048,
-        14049
+        14049,
+        14051
       ],
-      "sent_count": 141,
+      "sent_count": 142,
       "failed": {}
     },
     "https://t.me/+hhcepayguws1nti0": {
@@ -27306,216 +27324,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "26327595ae905f3377d28a548e7458638a1740d8a6221b3b33202548b19d822d",
-        "media_fingerprint": "29e8cbc2e16381aca4e6a9281c128025888317a6dfb2a70a660764a32ea92633",
-        "text": "ببخشید من یکم درست متوجه نشدم؛\nاون چه کوفتی بود اون وسط؟\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "ببخشید من یکم درست متوجه نشدم؛\nاون چه کوفتی بود اون وسط؟\n@DrTeL",
-        "original_link": "https://t.me/drtel/71918",
-        "post_id": 71918,
-        "message_id": 14718,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-27T16:35:46.393816+00:00"
-      },
-      {
-        "fingerprint": "91d38c50286713fa5b9b0c6b180dc052ade754cf1b0bfde737c7a29276277a8e",
-        "media_fingerprint": "e1155406594ed3e747faa7a2c83dbba0453922b06cef44e03a408dc769dbd31b",
-        "text": "توزیع بسته های حمایتی لوازم مصرفی خودرو در سامانه جامع\nشروع طرح از ساعت ۱۰ صبح روز سه شنبه ۵ آبان ماه تا اتمام موجودی\nامکان دریافت نقدی و اقساطی\nهموطنان گرامی می‌توانند با مراجعه به سامانه رسمی ایرانکو اقلام مصرفی حمایتی خود را به نرخ مصوب با محدودیت کد‌ملی دریافت نمایند.\nwww.iranko.ir\n.",
-        "original_username": "khandehabadd",
-        "original_text": "توزیع بسته های حمایتی لوازم مصرفی خودرو در سامانه جامع\nشروع طرح از ساعت ۱۰ صبح روز سه شنبه ۵ آبان ماه تا اتمام موجودی\nامکان دریافت نقدی و اقساطی\nهموطنان گرامی می‌توانند با مراجعه به سامانه رسمی ایرانکو اقلام مصرفی حمایتی خود را به نرخ مصوب با محدودیت کد‌ملی دریافت نمایند.\nwww.iranko.ir\n.",
-        "original_link": "https://t.me/khandehabadd/307372",
-        "post_id": 307372,
-        "message_id": 14719,
-        "message_kind": "caption",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-27T16:35:52.190767+00:00"
-      },
-      {
-        "fingerprint": "6c299f9732a8d228130acbeec5cc8df595c2f592d74296189a6b8f34dbb2a9c5",
-        "media_fingerprint": "",
-        "text": "",
-        "original_username": "apkclub",
-        "original_text": "",
-        "original_link": "https://t.me/apkclub/73274",
-        "post_id": 73274,
-        "message_id": 14720,
-        "message_kind": "text",
-        "sources": [
-          "apkclub"
-        ],
-        "created_at": "2026-10-27T16:35:57.223935+00:00"
-      },
-      {
-        "fingerprint": "2ffb060b2eeb22d3409b3455b929075a23c3bf945941a741bc1434ee9530016e",
-        "media_fingerprint": "41573cc6d49c2bf1df52b5d9407d952228f119b38c02e11eecd538a570f1aa2e",
-        "text": "🏦\n💵\n#کمک_معیشت\nمهر ماه 1405 بند (پ) تبصره (12) معلولان شدید و خیلی شدید تحت پوشش سازمان بهزیستی به حساب کارت\n💳\nبانک رفاه این عزیزان واریز گردید\n💵\nمبلغ: 2/000/000 تومان\n📆\n1405/08/05-20:00\n📲\nپیج اخبار مددجویان بهزیستی و کمیته امدا را فالو کنید\n👇\n🆔\n@BehzistiKomiteNews",
-        "original_username": "behzistikomitenews",
-        "original_text": "🏦\n💵\n#کمک_معیشت\nمهر ماه 1405 بند (پ) تبصره (12) معلولان شدید و خیلی شدید تحت پوشش سازمان بهزیستی به حساب کارت\n💳\nبانک رفاه این عزیزان واریز گردید\n💵\nمبلغ: 2/000/000 تومان\n📆\n1405/08/05-20:00\n📲\nپیج اخبار مددجویان بهزیستی و کمیته امدا را فالو کنید\n👇\n🆔\n@BehzistiKomiteNews",
-        "original_link": "https://t.me/BehzistiKomiteNews/13991",
-        "post_id": 13991,
-        "message_id": 14721,
-        "message_kind": "caption",
-        "sources": [
-          "behzistikomitenews"
-        ],
-        "created_at": "2026-10-27T16:36:02.928658+00:00"
-      },
-      {
-        "fingerprint": "e3310c29670ca556e35132abcdaed882abaaf9e5dd5eb68449c71c069e243255",
-        "media_fingerprint": "6dbe2a1c17e52c8825b3d92f76d4bb9e0886476e859f884e21808872543c7732",
-        "text": "♦️\nحیات وحش زیبای ایران\n#ایران_زیبا\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nحیات وحش زیبای ایران\n#ایران_زیبا\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/144586",
-        "post_id": 144586,
-        "message_id": 14722,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-27T16:36:10.682353+00:00"
-      },
-      {
-        "fingerprint": "dea5665a746cbd4bfba7e49d971f899975f63fa8638319dba2af0a56ae69847d",
-        "media_fingerprint": "8713d05bb708335b4f2c11d7d5717e40ea68e54611ba20a16fcd2072363d7494",
-        "text": "🔹\nپرونده سرشناس‌ترین دزد‌، که این روز‌ها در بین جوون‌ها جولان میده!\n🔸\nخطرناک‌ترین دزدِ رویایِ جوون‌ها کیه؟\n🔹\nاگر بین ۱۸ تا ۳۰ سال دارید، برای بیمه کردن آیندتون باید بهترین شغل‌های امسال رو بشناسید. لیست کامل این ایده‌ها و کسب‌و‌کارها در کانال بیشتر از یک منتشر شده. حتما پیام پین شده رو چک کنید.\nورود به کانال و دریافت لیست\nورود به کانال و دریافت لیست",
-        "original_username": "ajayebe_jahann",
-        "original_text": "🔹\nپرونده سرشناس‌ترین دزد‌، که این روز‌ها در بین جوون‌ها جولان میده!\n🔸\nخطرناک‌ترین دزدِ رویایِ جوون‌ها کیه؟\n🔹\nاگر بین ۱۸ تا ۳۰ سال دارید، برای بیمه کردن آیندتون باید بهترین شغل‌های امسال رو بشناسید. لیست کامل این ایده‌ها و کسب‌و‌کارها در کانال بیشتر از یک منتشر شده. حتما پیام پین شده رو چک کنید.\nورود به کانال و دریافت لیست\nورود به کانال و دریافت لیست",
-        "original_link": "https://t.me/Ajayebe_jahann/160302",
-        "post_id": 160302,
-        "message_id": 14723,
-        "message_kind": "caption",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-27T16:36:18.965929+00:00"
-      },
-      {
-        "fingerprint": "eebe30698e42a849d634355d21bc10aade4ac434d2951e05fa2b7a3b507a238a",
-        "media_fingerprint": "",
-        "text": "",
-        "original_username": "ajayebe_jahann",
-        "original_text": "",
-        "original_link": "https://t.me/Ajayebe_jahann/160303",
-        "post_id": 160303,
-        "message_id": 14724,
-        "message_kind": "text",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-27T16:36:22.533535+00:00"
-      },
-      {
-        "fingerprint": "0dba604133c59a6815c4fd04944591d48ca58dd2a5c112c1ca798181776fda16",
-        "media_fingerprint": "282c3dfff2f485a9b28bec9698eb37e12d3eba0a7f3fce5299f3f18d39fcd372",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26793",
-        "post_id": 26793,
-        "message_id": 14725,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-27T16:36:27.569388+00:00"
-      },
-      {
-        "fingerprint": "d426dee50c31285e47ceaf795a3d2e5c2e201ed9fd3ddecfccb3b08a31b87e71",
-        "media_fingerprint": "f0f6b1db877be00ed8a2e52ee4e9caa69e93139bd00823d7496d91eb691c05a3",
-        "text": "خوابگاه پسرونه یه همچین چیزیه\nلباس همدیگه‌رو میپوشن\n😳\n💪\n#LarryLobster\n💎\nSpongebob | باب اسفنجی",
-        "original_username": "boob_sfangi",
-        "original_text": "خوابگاه پسرونه یه همچین چیزیه\nلباس همدیگه‌رو میپوشن\n😳\n💪\n#LarryLobster\n💎\nSpongebob | باب اسفنجی",
-        "original_link": "https://t.me/boob_sfangi/2929",
-        "post_id": 2929,
-        "message_id": 14726,
-        "message_kind": "caption",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-27T16:36:33.339787+00:00"
-      },
-      {
-        "fingerprint": "683a1235195a089fbc9c3903347a7e7c55429f4fbe0cf58c100ed804140aae09",
-        "media_fingerprint": "24b4611170ecf1954f6cfe1e06c96e39cb3964029cbbac4e37cbc9626b67430f",
-        "text": "💻\nGrok\n🔝\nV1.2.50\n⭐️\nنسخه پَچ شده بدون خطای لایسنس Grok\n🔖\nویژگی‌های برنامه :\n🔵\nدسترسی سریع و نامحدود به هوش مصنوعی گروک ایلان ماسک\n🔵\nنبود هیچ گونه محدودیتی در نوع سوال و علوم مورد نظرتان\n🔵\nامکان برقراری ارتباط صوتی با هوش مصنوعی بدون نیاز به تایپ کردن\n🔵\nایجاد دستورات متنوع برای ساخت تصاویر به کمک هوش مصنوعی\n📱\nبرای دانلود فایل بر روی (\nدانــلود\n)  کلیک کنید.\n🌟\n@APKCLUB",
-        "original_username": "apkclub",
-        "original_text": "💻\nGrok\n🔝\nV1.2.50\n⭐️\nنسخه پَچ شده بدون خطای لایسنس Grok\n🔖\nویژگی‌های برنامه :\n🔵\nدسترسی سریع و نامحدود به هوش مصنوعی گروک ایلان ماسک\n🔵\nنبود هیچ گونه محدودیتی در نوع سوال و علوم مورد نظرتان\n🔵\nامکان برقراری ارتباط صوتی با هوش مصنوعی بدون نیاز به تایپ کردن\n🔵\nایجاد دستورات متنوع برای ساخت تصاویر به کمک هوش مصنوعی\n📱\nبرای دانلود فایل بر روی (\nدانــلود\n)  کلیک کنید.\n🌟\n@APKCLUB",
-        "original_link": "https://t.me/apkclub/73275",
-        "post_id": 73275,
-        "message_id": 14727,
-        "message_kind": "caption",
-        "sources": [
-          "apkclub"
-        ],
-        "created_at": "2026-10-27T16:36:38.373847+00:00"
-      },
-      {
-        "fingerprint": "3ec4d50a4fa6a3ed9dedd112c24ea9239f2e7a05785c413ce57dd3c00cb3f930",
-        "media_fingerprint": "",
-        "text": "♦️\nصدور هشدار زرد هواشناسی برای فارس\nمدیرکل هواشناسی فارس :\n🔹\nاز بعدازظهر سه‌شنبه، پنجم آبان، تا اواخر وقت پنج‌شنبه، هفتم آبان، در برخی مناطق استان، به‌ویژه در ساعات بعدازظهر و شب، احتمال وقوع رعدوبرق، وزش باد و بارش‌های نقطه‌ای و پراکنده وجود دارد.\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nصدور هشدار زرد هواشناسی برای فارس\nمدیرکل هواشناسی فارس :\n🔹\nاز بعدازظهر سه‌شنبه، پنجم آبان، تا اواخر وقت پنج‌شنبه، هفتم آبان، در برخی مناطق استان، به‌ویژه در ساعات بعدازظهر و شب، احتمال وقوع رعدوبرق، وزش باد و بارش‌های نقطه‌ای و پراکنده وجود دارد.\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/144587",
-        "post_id": 144587,
-        "message_id": 14728,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-27T17:55:11.662793+00:00"
-      },
-      {
-        "fingerprint": "5da7b922ed85f47ffdf4f8e64807541a9a38df3d9d18acec43ed5f5fedc9bc35",
-        "media_fingerprint": "",
-        "text": "♦️\nپزشکیان با رئیس‌جمهور روسیه دیدار و گفتگو کرد\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nپزشکیان با رئیس‌جمهور روسیه دیدار و گفتگو کرد\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/144588",
-        "post_id": 144588,
-        "message_id": 14729,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-27T17:55:15.167844+00:00"
-      },
-      {
-        "fingerprint": "ed1b2fef80f70294d7b7f393c1685d89b01b268d146835df60695edbdc2c2b9f",
-        "media_fingerprint": "",
-        "text": "🏅\nواکنش باشگاه پرسپولیس به رد شکایت از آسانی\n⏺\nباشگاه پرسپولیس: باشگاه پرسپولیس که پیش‌تر پیگیری پرونده یاسر آسانی را در دستور کار قرار داده بود، این بار با مدارکی تازه در کمیته استیناف حاضر شد تا مستندات خود را علیه بازیکن استقلال ارائه کند\n⏺\nبا این حال،…",
-        "original_username": "total_fut",
-        "original_text": "🏅\nواکنش باشگاه پرسپولیس به رد شکایت از آسانی\n⏺\nباشگاه پرسپولیس: باشگاه پرسپولیس که پیش‌تر پیگیری پرونده یاسر آسانی را در دستور کار قرار داده بود، این بار با مدارکی تازه در کمیته استیناف حاضر شد تا مستندات خود را علیه بازیکن استقلال ارائه کند\n⏺\nبا این حال،…",
-        "original_link": "https://t.me/total_fut/238840",
-        "post_id": 238840,
-        "message_id": 14730,
-        "message_kind": "text",
-        "sources": [
-          "total_fut"
-        ],
-        "created_at": "2026-10-27T17:55:18.666157+00:00"
-      },
-      {
-        "fingerprint": "ab5e17673a06552435b73f168209f23cf12559255004ace8d02ed57d5c500387",
-        "media_fingerprint": "b8cf88222d41b41d018d7ec207e15eec637dda1864201e61dff53ea6b54d128b",
-        "text": "زیباست\n💕\n🍒\n📷\n|\n@ShakhMovie",
-        "original_username": "shakhmovie",
-        "original_text": "زیباست\n💕\n🍒\n📷\n|\n@ShakhMovie",
-        "original_link": "https://t.me/Shakhmovie/4291",
-        "post_id": 4291,
-        "message_id": 14731,
-        "message_kind": "caption",
-        "sources": [
-          "shakhmovie"
-        ],
-        "created_at": "2026-10-27T17:55:23.855785+00:00"
-      },
       {
         "fingerprint": "76c419d825bef4d6c53928effaf6abd0dc754b88316f4744aaaee1724e700442",
         "media_fingerprint": "a1d2890e79fc2b883a37024ef3c04acb22d8088b06125987a43ff6dbb329fe97",
@@ -31830,6 +31638,216 @@
           "peach_tweet"
         ],
         "created_at": "2026-10-28T16:04:43.422549+00:00"
+      },
+      {
+        "fingerprint": "60e148c1b22017bc164e2d8d2adbdf1f2d4e37afc99dbb6ed5b54ff54a530808",
+        "media_fingerprint": "d0bd00310567c68f7333e49b02bcb251469df5a6f0a667a9c4db3efb6d87789f",
+        "text": "🔴\nصداوسیما برای اولین بار به جای استفاده از رژیم صهیونسیتی و سرزمین اشغالی، از کلمه «اسرائیل» استفاده کرد!\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "🔴\nصداوسیما برای اولین بار به جای استفاده از رژیم صهیونسیتی و سرزمین اشغالی، از کلمه «اسرائیل» استفاده کرد!\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/53287",
+        "post_id": 53287,
+        "message_id": 15039,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-28T16:35:30.549027+00:00"
+      },
+      {
+        "fingerprint": "ea73bad215c4680ca36851272059290805e1dc86b696c5e739a5b4ebc3cec943",
+        "media_fingerprint": "dd75ae222688f42129bf368d95449e0fb4f62c0e749fab6f718c92dcb4d58519",
+        "text": "🔴\nرئیس سازمان برنامه و بودجه :\nکسی که درآمد کافی داره نباید انتظار داشته باشه که ما بهش یارانه بدیم.\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "🔴\nرئیس سازمان برنامه و بودجه :\nکسی که درآمد کافی داره نباید انتظار داشته باشه که ما بهش یارانه بدیم.\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/53288",
+        "post_id": 53288,
+        "message_id": 15040,
+        "message_kind": "text",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-28T16:35:34.745482+00:00"
+      },
+      {
+        "fingerprint": "a10bd60596dc54236a4ec696895fab1385fff2814f243ac0ab0228c72db84e99",
+        "media_fingerprint": "a63834c22c08e28964e0635dfe2b3c0dc65561eb018d99f7c266a16e36e3c3f5",
+        "text": "تغییرات پشم ریزون این دخترو قبل و بعد رفتن به باشگاهرو ببینید فقط\nاز خدیجه تبدیل شده به سانیا\n🤭\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
+        "original_username": "boob_sfangi",
+        "original_text": "تغییرات پشم ریزون این دخترو قبل و بعد رفتن به باشگاهرو ببینید فقط\nاز خدیجه تبدیل شده به سانیا\n🤭\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
+        "original_link": "https://t.me/boob_sfangi/2967",
+        "post_id": 2967,
+        "message_id": 15041,
+        "message_kind": "caption",
+        "sources": [
+          "boob_sfangi"
+        ],
+        "created_at": "2026-10-28T16:35:40.552602+00:00"
+      },
+      {
+        "fingerprint": "abd15636010d4bc07a778a2b19b374a5dcf5d565d4f99491db4efbc2434f2bf1",
+        "media_fingerprint": "",
+        "text": "فراستی ازت تعریف کرده، تو دیگه کی هستی؟\n😎\n🎬\nقسمت چهارم برنامه‌ی\n#دور_امیر\nباحضور امیر نوروزی و به میزبانی امیرحسین قیاسی، پنج‌شنبه ۷ مهرماه، به‌صورت اختصاصی در\n#فیلیمو\n@BajeFilm",
+        "original_username": "bajefilm",
+        "original_text": "فراستی ازت تعریف کرده، تو دیگه کی هستی؟\n😎\n🎬\nقسمت چهارم برنامه‌ی\n#دور_امیر\nباحضور امیر نوروزی و به میزبانی امیرحسین قیاسی، پنج‌شنبه ۷ مهرماه، به‌صورت اختصاصی در\n#فیلیمو\n@BajeFilm",
+        "original_link": "https://t.me/bajefilm/11734",
+        "post_id": 11734,
+        "message_id": 15042,
+        "message_kind": "text",
+        "sources": [
+          "bajefilm"
+        ],
+        "created_at": "2026-10-28T16:35:44.062199+00:00"
+      },
+      {
+        "fingerprint": "46c28cc638a7f28ff610d7f0aa08bd1d82507a8199d23038f68b0a68280f1561",
+        "media_fingerprint": "7ed31ba85aa5080a46e032585bf8808d30f820ffda782ae327a8f8a0507e6ea5",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26813",
+        "post_id": 26813,
+        "message_id": 15043,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-28T16:35:48.495705+00:00"
+      },
+      {
+        "fingerprint": "7380810d4a2830ab7b584faeb6e1e78cb40306c55273a9f40ddb4e1014259261",
+        "media_fingerprint": "cd6c0451a56e82dde7bb8a9d94ae8e5437d7d2553e0144be642b0bf96c60eb86",
+        "text": "ک.ص نبض دار به روایت تصویر :\n@FuckNewsi",
+        "original_username": "fucknewsi",
+        "original_text": "ک.ص نبض دار به روایت تصویر :\n@FuckNewsi",
+        "original_link": "https://t.me/FuckNewsi/14051",
+        "post_id": 14051,
+        "message_id": 15044,
+        "message_kind": "caption",
+        "sources": [
+          "fucknewsi"
+        ],
+        "created_at": "2026-10-28T16:35:54.639663+00:00"
+      },
+      {
+        "fingerprint": "40354ef9e9586bbd2da0bb9ffec9133a35180582fde6caa7728dfe81037a7109",
+        "media_fingerprint": "d59defa628cb9eae12fed3a0bfa5ac7d05bc6ede6ed816037532a2bb464dc4f1",
+        "text": "پرهزینه ترین سریال‌های تاریخ\n🔥\n📷\n|\n@ShakhMovie",
+        "original_username": "shakhmovie",
+        "original_text": "پرهزینه ترین سریال‌های تاریخ\n🔥\n📷\n|\n@ShakhMovie",
+        "original_link": "https://t.me/Shakhmovie/4296",
+        "post_id": 4296,
+        "message_id": 15045,
+        "message_kind": "caption",
+        "sources": [
+          "shakhmovie"
+        ],
+        "created_at": "2026-10-28T16:35:59.355654+00:00"
+      },
+      {
+        "fingerprint": "42f79a4a5b2191c0e69a9c7d2c2893e149ef7f922af571f584cf910e286fe8b9",
+        "media_fingerprint": "4c60601e03b7993ae3a098c942f3571b26c168b8dbc2bb5426b5fbac7350fe95",
+        "text": "۵ تا از جالب ترین هتل های دنیا\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "۵ تا از جالب ترین هتل های دنیا\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/307402",
+        "post_id": 307402,
+        "message_id": 15046,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-28T16:36:05.947666+00:00"
+      },
+      {
+        "fingerprint": "02ba0805912d6f0eff2f47b2effe20fe6ff0865dafd0f153f5aa2a56c21b1876",
+        "media_fingerprint": "",
+        "text": "♦️\n۵۰ درصد از کودکان زیر ۵ سال ایرانی در فضای مجازی آنلاین هستند\n@Akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\n۵۰ درصد از کودکان زیر ۵ سال ایرانی در فضای مجازی آنلاین هستند\n@Akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144650",
+        "post_id": 144650,
+        "message_id": 15047,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-28T16:36:09.326963+00:00"
+      },
+      {
+        "fingerprint": "3fa3c39303bcb4dfcb294a212a355d21a951510ca57ad4312e2142395d4332dc",
+        "media_fingerprint": "",
+        "text": "اسپرم در بدن مرد چگونه ساخته میشود؟\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "اسپرم در بدن مرد چگونه ساخته میشود؟\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/160343",
+        "post_id": 160343,
+        "message_id": 15048,
+        "message_kind": "text",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-28T16:36:12.710540+00:00"
+      },
+      {
+        "fingerprint": "1e06b8dc6663cf2decf82d0967caa3191993f1a9514f429897edf6d69ff04996",
+        "media_fingerprint": "de5abb3812bf1255b434ab20c592cb7c23973dc08410c22123f82b0aaa3f0a11",
+        "text": "توربافی رو دیده بودین؟\n😍\nبا این‌همه دستگاه و ماشینِ بافت تور، بازم هیچی جای هنر دست رو نمی‌گیره مخصوصاً وقتی مادربزرگا با اون انگشتای هنرمندشون شروع به بافتن می‌کنن!\n🥹\nماشین‌ها تور می‌بافن، ولی مادربزرگا به هر گره‌ش یه ذره عشق اضافه می‌کنن…\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "توربافی رو دیده بودین؟\n😍\nبا این‌همه دستگاه و ماشینِ بافت تور، بازم هیچی جای هنر دست رو نمی‌گیره مخصوصاً وقتی مادربزرگا با اون انگشتای هنرمندشون شروع به بافتن می‌کنن!\n🥹\nماشین‌ها تور می‌بافن، ولی مادربزرگا به هر گره‌ش یه ذره عشق اضافه می‌کنن…\n@irWonders",
+        "original_link": "https://t.me/irwonders/59207",
+        "post_id": 59207,
+        "message_id": 15049,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-28T16:36:19.759950+00:00"
+      },
+      {
+        "fingerprint": "adebc94e64c5efd6df8bbdf7cbe85979a4f1f0cd40d01d9f628910c40b11fb33",
+        "media_fingerprint": "1c8ea944e83a34c618c2f12b66641f9f7b03032b9b64ea4972a02530af60bb37",
+        "text": "",
+        "original_username": "behzistikomitenews",
+        "original_text": "",
+        "original_link": "https://t.me/BehzistiKomiteNews/13996",
+        "post_id": 13996,
+        "message_id": 15050,
+        "message_kind": "caption",
+        "sources": [
+          "behzistikomitenews"
+        ],
+        "created_at": "2026-10-28T16:36:31.497740+00:00"
+      },
+      {
+        "fingerprint": "204d2c73f62f493e008f540923305dd014415f47d3906b4646389b99c932dfcf",
+        "media_fingerprint": "4a6a6d1aaec5dcc8fc28cde5d8104cc001dc184132ecf592bdc571a77501bf7a",
+        "text": "- وقتی روز اولته :\n😭\n@RoidBest",
+        "original_username": "roidbest",
+        "original_text": "- وقتی روز اولته :\n😭\n@RoidBest",
+        "original_link": "https://t.me/RoidBest/22015",
+        "post_id": 22015,
+        "message_id": 15051,
+        "message_kind": "caption",
+        "sources": [
+          "roidbest"
+        ],
+        "created_at": "2026-10-28T16:36:37.633816+00:00"
+      },
+      {
+        "fingerprint": "8030b82a7f4cbc08506b2cf742d1aca08c974db8d123da7222fe3ca56dd0faa9",
+        "media_fingerprint": "c849987330c2ee605f6a707936c4eb5599209a076aaa60e26064be3c900cdcf8",
+        "text": "🫃\nعجیب ترین اسم های 405، دلیل برداشتن اسم‌ها\n💪\n#LarryLobster\n💎\nSpongebob | باب اسفنجی",
+        "original_username": "boob_sfangi",
+        "original_text": "🫃\nعجیب ترین اسم های 405، دلیل برداشتن اسم‌ها\n💪\n#LarryLobster\n💎\nSpongebob | باب اسفنجی",
+        "original_link": "https://t.me/boob_sfangi/2968",
+        "post_id": 2968,
+        "message_id": 15052,
+        "message_kind": "caption",
+        "sources": [
+          "boob_sfangi"
+        ],
+        "created_at": "2026-10-28T16:36:42.310728+00:00"
       }
     ]
   }
