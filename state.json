@@ -1,10 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 144726,
+      "last_id": 144729,
       "processed_ids": [
-        143359,
-        143360,
         143361,
         143362,
         143363,
@@ -1002,18 +1000,16 @@
         144723,
         144724,
         144725,
-        144726
+        144726,
+        144727,
+        144729
       ],
       "sent_count": 1375,
       "failed": {}
     },
     "total_fut": {
-      "last_id": 238953,
+      "last_id": 238958,
       "processed_ids": [
-        237706,
-        237707,
-        237708,
-        237709,
         237710,
         237711,
         237712,
@@ -2009,18 +2005,18 @@
         238947,
         238948,
         238949,
-        238953
+        238953,
+        238954,
+        238955,
+        238957,
+        238958
       ],
       "sent_count": 198,
       "failed": {}
     },
     "footballvision2": {
-      "last_id": 173355,
+      "last_id": 173359,
       "processed_ids": [
-        171480,
-        171481,
-        171482,
-        171483,
         171484,
         171485,
         171486,
@@ -3016,7 +3012,11 @@
         173352,
         173353,
         173354,
-        173355
+        173355,
+        173356,
+        173357,
+        173358,
+        173359
       ],
       "sent_count": 234,
       "failed": {}
@@ -3089,7 +3089,7 @@
       "failed": {}
     },
     "fars_today": {
-      "last_id": 132371,
+      "last_id": 132379,
       "processed_ids": [
         131975,
         131976,
@@ -3472,9 +3472,11 @@
         132368,
         132369,
         132370,
-        132371
+        132371,
+        132372,
+        132379
       ],
-      "sent_count": 189,
+      "sent_count": 191,
       "failed": {}
     },
     "behzistikomitenews": {
@@ -3541,9 +3543,8 @@
       "failed": {}
     },
     "drtel": {
-      "last_id": 71999,
+      "last_id": 72000,
       "processed_ids": [
-        66987,
         66988,
         66990,
         66992,
@@ -4542,13 +4543,14 @@
         71996,
         71997,
         71998,
-        71999
+        71999,
+        72000
       ],
-      "sent_count": 723,
+      "sent_count": 724,
       "failed": {}
     },
     "techtube": {
-      "last_id": 18686,
+      "last_id": 18689,
       "processed_ids": [
         18261,
         18262,
@@ -4813,7 +4815,8 @@
         18683,
         18684,
         18685,
-        18686
+        18686,
+        18689
       ],
       "sent_count": 88,
       "failed": {}
@@ -9748,7 +9751,7 @@
       "failed": {}
     },
     "jaleb": {
-      "last_id": 53314,
+      "last_id": 53317,
       "processed_ids": [
         52261,
         52262,
@@ -10648,16 +10651,17 @@
         53309,
         53310,
         53312,
-        53314
+        53314,
+        53315,
+        53316,
+        53317
       ],
       "sent_count": 441,
       "failed": {}
     },
     "ajayebe_jahann": {
-      "last_id": 160390,
+      "last_id": 160392,
       "processed_ids": [
-        159315,
-        159316,
         159317,
         159318,
         159319,
@@ -11655,7 +11659,9 @@
         160387,
         160388,
         160389,
-        160390
+        160390,
+        160391,
+        160392
       ],
       "sent_count": 515,
       "failed": {}
@@ -18926,10 +18932,8 @@
       "failed": {}
     },
     "irwonders": {
-      "last_id": 59250,
+      "last_id": 59252,
       "processed_ids": [
-        58109,
-        58110,
         58111,
         58112,
         58113,
@@ -19927,9 +19931,11 @@
         59247,
         59248,
         59249,
-        59250
+        59250,
+        59251,
+        59252
       ],
-      "sent_count": 683,
+      "sent_count": 685,
       "failed": {}
     },
     "razcom": {
@@ -23458,7 +23464,7 @@
       "failed": {}
     },
     "peach_tweet": {
-      "last_id": 4820,
+      "last_id": 4848,
       "processed_ids": [
         2745,
         2749,
@@ -24230,9 +24236,16 @@
         4817,
         4818,
         4819,
-        4820
+        4820,
+        4822,
+        4828,
+        4833,
+        4845,
+        4846,
+        4847,
+        4848
       ],
-      "sent_count": 391,
+      "sent_count": 392,
       "failed": {}
     },
     "funy_khand": {
@@ -24715,11 +24728,8 @@
       "failed": {}
     },
     "persiana_pluss": {
-      "last_id": 7418,
+      "last_id": 7421,
       "processed_ids": [
-        6138,
-        6139,
-        6140,
         6141,
         6142,
         6143,
@@ -25716,7 +25726,10 @@
         7415,
         7416,
         7417,
-        7418
+        7418,
+        7419,
+        7420,
+        7421
       ],
       "sent_count": 25,
       "failed": {}
@@ -26313,7 +26326,7 @@
       "failed": {}
     },
     "apkclub": {
-      "last_id": 73324,
+      "last_id": 73326,
       "processed_ids": [
         72962,
         72963,
@@ -26652,9 +26665,11 @@
         73321,
         73322,
         73323,
-        73324
+        73324,
+        73325,
+        73326
       ],
-      "sent_count": 141,
+      "sent_count": 143,
       "failed": {}
     },
     "boob_sfangi": {
@@ -26996,7 +27011,7 @@
       "failed": {}
     },
     "fucknewsi": {
-      "last_id": 14102,
+      "last_id": 14104,
       "processed_ids": [
         13561,
         13562,
@@ -27364,9 +27379,11 @@
         14098,
         14100,
         14101,
-        14102
+        14102,
+        14103,
+        14104
       ],
-      "sent_count": 160,
+      "sent_count": 161,
       "failed": {}
     },
     "https://t.me/+hhcepayguws1nti0": {
@@ -27742,142 +27759,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "afb73939fe684f7a04d85d237560a261381b2dba866c72dc811a63700e0e14f0",
-        "media_fingerprint": "745a0d4d1173e48538e3cb7382b8a2b8b3486d0c9d9c40249f7c0b9d3eb12305",
-        "text": "تاییده؟!\n😂\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "تاییده؟!\n😂\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/164066",
-        "post_id": 164066,
-        "message_id": 15110,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-28T20:17:09.871285+00:00"
-      },
-      {
-        "fingerprint": "fad452065d5373f15c69e4c233fbba62d76ad16a4646e28f27c2821277ebf7f1",
-        "media_fingerprint": "8ffc3af3fe01ebef423a31bb55f0a81b1b6d3fc8f886b0cf95554073d7c3c2c6",
-        "text": "اولین دوچرخه تردمیلی دنیا تو هلند عرضه شد.\nچقدر خوبه. میری پیاده‌روی، ولی سوار دوچرخه‌ای\n😁\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "اولین دوچرخه تردمیلی دنیا تو هلند عرضه شد.\nچقدر خوبه. میری پیاده‌روی، ولی سوار دوچرخه‌ای\n😁\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/164068",
-        "post_id": 164068,
-        "message_id": 15111,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-28T20:17:16.924382+00:00"
-      },
-      {
-        "fingerprint": "5dc1c70703c7f96055cf2e8bf8954642715ea595a1b351e7133048915f89aa05",
-        "media_fingerprint": "581a1a9e5a1d9282b746cd833268f62e80713590e14173e79a99a45036a8c06c",
-        "text": "رویای شیرین خانم ها\n😂\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "رویای شیرین خانم ها\n😂\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/164069",
-        "post_id": 164069,
-        "message_id": 15112,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel",
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-28T20:17:23.182681+00:00"
-      },
-      {
-        "fingerprint": "f49a0c98a76aa97e05540b7fd4018240f00cae02189a3cdb48f9e1cdc2bb9a8f",
-        "media_fingerprint": "b55996eab4e78a5028b5e296c2d83634070a72977ff6c1a57841c9a447242898",
-        "text": "رامبد و احسان ایده‌ داشتند به قواعد شما تن ندادند\nدرباب اظهار نظر عجیب ریس مرکز تحقیقات صدا و سیما درباره رامبد جوان و احسان علیخانی\nمحسن شاکر‌نژاد، رئیس مرکز تحقیقات صداوسیما، مدعی شده رامبد جوان و احسان علیخانی خودشان ایده تازه‌ای برای برنامه‌سازی نداشتند! ادعایی که با یک پرسش ساده روبه‌روست: اگر این دو حرف تازه‌ای برای گفتن نداشتند، پس ادامه فعالیتشان در شبکه نمایش خانگی را چطور می‌توان توضیح داد؟\nمتن کامل را در پیج «فیلم‌نیوز سریال» بخوانید\nhttps://B2n.ir/pw9991",
-        "original_username": "film_news",
-        "original_text": "رامبد و احسان ایده‌ داشتند به قواعد شما تن ندادند\nدرباب اظهار نظر عجیب ریس مرکز تحقیقات صدا و سیما درباره رامبد جوان و احسان علیخانی\nمحسن شاکر‌نژاد، رئیس مرکز تحقیقات صداوسیما، مدعی شده رامبد جوان و احسان علیخانی خودشان ایده تازه‌ای برای برنامه‌سازی نداشتند! ادعایی که با یک پرسش ساده روبه‌روست: اگر این دو حرف تازه‌ای برای گفتن نداشتند، پس ادامه فعالیتشان در شبکه نمایش خانگی را چطور می‌توان توضیح داد؟\nمتن کامل را در پیج «فیلم‌نیوز سریال» بخوانید\nhttps://B2n.ir/pw9991",
-        "original_link": "https://t.me/Film_news/15027",
-        "post_id": 15027,
-        "message_id": 15113,
-        "message_kind": "caption",
-        "sources": [
-          "film_news"
-        ],
-        "created_at": "2026-10-28T20:17:28.350736+00:00"
-      },
-      {
-        "fingerprint": "aac8e2aad9d40a55a9e54af3a84ff5bd44d7240b5dda1f778af96212c25789fa",
-        "media_fingerprint": "c860efe208bf4f91ded41a22a1bde9bf987211c6136ecf04f480f1fd002ba2e8",
-        "text": "استوری گلر دوم تیم بانوان پرسپولیس\n🔘\n@\nNavadnewsteleg\nram",
-        "original_username": "footballvision2",
-        "original_text": "استوری گلر دوم تیم بانوان پرسپولیس\n🔘\n@\nNavadnewsteleg\nram",
-        "original_link": "https://t.me/footballvision2/173286",
-        "post_id": 173286,
-        "message_id": 15114,
-        "message_kind": "caption",
-        "sources": [
-          "footballvision2"
-        ],
-        "created_at": "2026-10-28T20:17:33.034183+00:00"
-      },
-      {
-        "fingerprint": "0c5d72c0aa60c7f266adb7845ff83c0baeb44e52b92edbc1a7aa3ddb1863d55f",
-        "media_fingerprint": "8837c951bc1eb74aeb2adb8d061b13550fe2d0f58eafcd05db893ceb3ed6d262",
-        "text": "🔴\nتو تهران یه داماد و مادر زن بعد ۳ سال رابطه زمانی که تو خونه در حال عملیات بودن مچشون توسط پدر زن گرفته میشه و پدر زنه هم همون لحظه به پلیس خبر داده و داماد و خانمش رو دستگیر کردن...\n@FuckNewsi",
-        "original_username": "fucknewsi",
-        "original_text": "🔴\nتو تهران یه داماد و مادر زن بعد ۳ سال رابطه زمانی که تو خونه در حال عملیات بودن مچشون توسط پدر زن گرفته میشه و پدر زنه هم همون لحظه به پلیس خبر داده و داماد و خانمش رو دستگیر کردن...\n@FuckNewsi",
-        "original_link": "https://t.me/FuckNewsi/14061",
-        "post_id": 14061,
-        "message_id": 15115,
-        "message_kind": "caption",
-        "sources": [
-          "fucknewsi"
-        ],
-        "created_at": "2026-10-28T20:17:38.105172+00:00"
-      },
-      {
-        "fingerprint": "8708ced508ef5114e8d095b729fb4fdc14268a0705ca5b30faeabce85cc7a359",
-        "media_fingerprint": "c7c89692184163c0e445e0c9d1d0faa47053e389deac81caf9da517479c559f0",
-        "text": "تالاب زیبای لیپار سیستان و بلوچستان\n🦩\n‌یکی از عجایب استان سیستان و بلوچستان تالاب صورتی یا تالاب لیپار است. این تالاب جذاب که دریاچه‌ای صورتی‌رنگ دارد، محل زندگی پرندگانی نظیر فلامینگو، باقرقره، حواصیل و تیهوست. بهترین زمان بازدید از تالاب لیپار اواخر پاییز تا اوایل بهار است.\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "تالاب زیبای لیپار سیستان و بلوچستان\n🦩\n‌یکی از عجایب استان سیستان و بلوچستان تالاب صورتی یا تالاب لیپار است. این تالاب جذاب که دریاچه‌ای صورتی‌رنگ دارد، محل زندگی پرندگانی نظیر فلامینگو، باقرقره، حواصیل و تیهوست. بهترین زمان بازدید از تالاب لیپار اواخر پاییز تا اوایل بهار است.\n@irWonders",
-        "original_link": "https://t.me/irwonders/59214",
-        "post_id": 59214,
-        "message_id": 15116,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-28T20:17:50.005403+00:00"
-      },
-      {
-        "fingerprint": "55afefb29a505eab9b9d13fe1dc627c49f2f65c49d71f0505f3faaeed30e0deb",
-        "media_fingerprint": "c75b740e0008b25652acc9ea1fb86845f8feb068d9b65ea1a9a402775b9b264f",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26818",
-        "post_id": 26818,
-        "message_id": 15117,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-28T21:09:26.852884+00:00"
-      },
-      {
-        "fingerprint": "b773a5d5f827bf6b94b490098b683d5357d643a7d53c56f1745759f74b4a2308",
-        "media_fingerprint": "f981c52ccef069b8e9a09caf5dd85c1767fc3745fd4967d83dbfe7cbd1c0fb4b",
-        "text": "🔴\nنتانیاهو با انتشار این متن تو ایکس، مدعی شد که حزب اعراب تو انتخابات تقلب کردن:  انتخابات توسط احزاب عربی که حامی تروریسم و ​​نابودی دولت یهود هستن، به سرقت رفته؛ این اقدام از طریق ارتکاب جرایم سنگینی مثل پرداخت رشوه، تهدید، اعمال خشونت، جعل اسناد و استفاده…",
-        "original_username": "drtel",
-        "original_text": "🔴\nنتانیاهو با انتشار این متن تو ایکس، مدعی شد که حزب اعراب تو انتخابات تقلب کردن:  انتخابات توسط احزاب عربی که حامی تروریسم و ​​نابودی دولت یهود هستن، به سرقت رفته؛ این اقدام از طریق ارتکاب جرایم سنگینی مثل پرداخت رشوه، تهدید، اعمال خشونت، جعل اسناد و استفاده…",
-        "original_link": "https://t.me/drtel/71969",
-        "post_id": 71969,
-        "message_id": 15118,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-28T21:09:31.454094+00:00"
-      },
       {
         "fingerprint": "d780f885fd8bd783b8765148517bdd2eb811449417ca918b6dede0de0b9d5823",
         "media_fingerprint": "ee81d931f4d72e850e2442fdfb8fdb59b6e508025ebab4464c88c3d2a8a2cf1f",
@@ -29753,7 +29634,9 @@
         "message_id": 15250,
         "message_kind": "caption",
         "sources": [
-          "drtel"
+          "drtel",
+          "fucknewsi",
+          "peach_tweet"
         ],
         "created_at": "2026-10-29T15:19:01.033191+00:00"
       },
@@ -31231,7 +31114,8 @@
         "message_kind": "caption",
         "sources": [
           "gizmiztel",
-          "boob_sfangi"
+          "boob_sfangi",
+          "peach_tweet"
         ],
         "created_at": "2026-10-29T16:53:56.579346+00:00"
       },
@@ -31611,7 +31495,8 @@
         "sources": [
           "drtel",
           "gizmiztel",
-          "fucknewsi"
+          "fucknewsi",
+          "jaleb"
         ],
         "created_at": "2026-10-29T18:26:22.230121+00:00"
       },
@@ -31897,7 +31782,8 @@
         "message_id": 15414,
         "message_kind": "caption",
         "sources": [
-          "gizmiztel"
+          "gizmiztel",
+          "jaleb"
         ],
         "created_at": "2026-10-29T18:57:07.988868+00:00"
       },
@@ -32277,6 +32163,142 @@
           "ajayebe_jahann"
         ],
         "created_at": "2026-10-29T19:40:05.445541+00:00"
+      },
+      {
+        "fingerprint": "c6ba8619b85d93f028f0f0d9d4fc161473a1a876c6f6ddb0269fa90441598beb",
+        "media_fingerprint": "74d68c09194b04404cf85a05074c87196650d9eb36572d06298bd8c64ec2c18b",
+        "text": "ایده کانادا برای کاهش سرعت در خیابان ها!\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "ایده کانادا برای کاهش سرعت در خیابان ها!\n@irWonders",
+        "original_link": "https://t.me/irwonders/59251",
+        "post_id": 59251,
+        "message_id": 15440,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-29T20:18:39.963428+00:00"
+      },
+      {
+        "fingerprint": "ce621e99030264559ff2c1958cb04ecf84d462ee8419411995ce80b844236b26",
+        "media_fingerprint": "",
+        "text": "",
+        "original_username": "apkclub",
+        "original_text": "",
+        "original_link": "https://t.me/apkclub/73325",
+        "post_id": 73325,
+        "message_id": 15441,
+        "message_kind": "text",
+        "sources": [
+          "apkclub"
+        ],
+        "created_at": "2026-10-29T20:18:45.317590+00:00"
+      },
+      {
+        "fingerprint": "63b5c649b1fa330a077e085afc1c0b895efb564b6625b8681643b4e7f99748d9",
+        "media_fingerprint": "55d8400c69331be8943f6e642b013b6e42639213ff58d71506f71156c10f397a",
+        "text": "قبل از اینکه یک کلیک اشتباه دردسر درست کند، بهتر است نشانه‌های خطر را بشناسیم.\nدر کانال «\nنوشدارو\n»:\n• ترفندهای کلاهبرداری را ساده و کاربردی یاد می‌گیری؛\n• با نکات امنیت و حریم خصوصی آشنا می‌شوی؛\n• و یاد می‌گیری در کنار همه این‌ها، مراقب آرامش خودت و کودکان هم باشی.\n❤️\nبرای آگاه‌تر بودن، نوشدارو رو حتما دنبال کن.\n@NooshDaroo_web\n@NooshDaroo_web",
+        "original_username": "apkclub",
+        "original_text": "قبل از اینکه یک کلیک اشتباه دردسر درست کند، بهتر است نشانه‌های خطر را بشناسیم.\nدر کانال «\nنوشدارو\n»:\n• ترفندهای کلاهبرداری را ساده و کاربردی یاد می‌گیری؛\n• با نکات امنیت و حریم خصوصی آشنا می‌شوی؛\n• و یاد می‌گیری در کنار همه این‌ها، مراقب آرامش خودت و کودکان هم باشی.\n❤️\nبرای آگاه‌تر بودن، نوشدارو رو حتما دنبال کن.\n@NooshDaroo_web\n@NooshDaroo_web",
+        "original_link": "https://t.me/apkclub/73326",
+        "post_id": 73326,
+        "message_id": 15442,
+        "message_kind": "caption",
+        "sources": [
+          "apkclub"
+        ],
+        "created_at": "2026-10-29T20:18:49.753391+00:00"
+      },
+      {
+        "fingerprint": "40d1b3d3c1e7c28dfeb3d01bd9e66aaffd9974fddf0e351026982b7d74916498",
+        "media_fingerprint": "c5a7142b1f7af3497181af1407acd5dd068614553e968dc5ef0ef89e8de4624a",
+        "text": "حال و هوای ارگ کریم خان زند\nعکاس : سارا غفاری\n---------------------‐------\n♦️\nآخرین خبر فارس و شیراز\n●  تلگرام:\nt.me/Fars_today\n●  بله:\nble.ir/fars_online",
+        "original_username": "fars_today",
+        "original_text": "حال و هوای ارگ کریم خان زند\nعکاس : سارا غفاری\n---------------------‐------\n♦️\nآخرین خبر فارس و شیراز\n●  تلگرام:\nt.me/Fars_today\n●  بله:\nble.ir/fars_online",
+        "original_link": "https://t.me/Fars_today/132372",
+        "post_id": 132372,
+        "message_id": 15443,
+        "message_kind": "caption",
+        "sources": [
+          "fars_today"
+        ],
+        "created_at": "2026-10-29T20:19:44.549470+00:00"
+      },
+      {
+        "fingerprint": "e34bfc20e4f410125fc4e956c4ae0ba82784e92f41dce7f3969c7941f933dcc9",
+        "media_fingerprint": "e6f875de02d26703bae22b9090aac67fea51b44ee7a9487ac3a664e95ef789d5",
+        "text": "🔴\nامروز یه جوان ایرانی با باند رفت رو دکل مخابرات و خیلی منطقی شروع به رقصیدن کرد :\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nامروز یه جوان ایرانی با باند رفت رو دکل مخابرات و خیلی منطقی شروع به رقصیدن کرد :\n@DrTeL",
+        "original_link": "https://t.me/drtel/72000",
+        "post_id": 72000,
+        "message_id": 15450,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-29T20:19:51.140809+00:00"
+      },
+      {
+        "fingerprint": "c11a55244f46673e966a06d463dd154f9f2655cf242079adfcc44ab2f5258242",
+        "media_fingerprint": "",
+        "text": "هشدار وزارت بهداشت؛ هر دقیقه تأخیر در سکته مغزی خطرناک است!\n🔹\nهمزمان با روز جهانی سکته مغزی در ۷ آبان، وزارت بهداشت درباره اهمیت تشخیص سریع و درمان فوری این بیماری هشدار داد.\n🔹\nسکته مغزی از مهم‌ترین عوامل مرگ‌ومیر و ناتوانی دائمی است و هر دقیقه تأخیر می‌تواند آسیب‌های جبران‌ناپذیری به مغز وارد کند.\n🔹\nافتادگی صورت، ضعف ناگهانی دست و اختلال گفتار از علائم هشداردهنده‌اند. در صورت مشاهده این نشانه‌ها، باید فوراً با اورژانس تماس گرفت.",
+        "original_username": "fars_today",
+        "original_text": "هشدار وزارت بهداشت؛ هر دقیقه تأخیر در سکته مغزی خطرناک است!\n🔹\nهمزمان با روز جهانی سکته مغزی در ۷ آبان، وزارت بهداشت درباره اهمیت تشخیص سریع و درمان فوری این بیماری هشدار داد.\n🔹\nسکته مغزی از مهم‌ترین عوامل مرگ‌ومیر و ناتوانی دائمی است و هر دقیقه تأخیر می‌تواند آسیب‌های جبران‌ناپذیری به مغز وارد کند.\n🔹\nافتادگی صورت، ضعف ناگهانی دست و اختلال گفتار از علائم هشداردهنده‌اند. در صورت مشاهده این نشانه‌ها، باید فوراً با اورژانس تماس گرفت.",
+        "original_link": "https://t.me/Fars_today/132379",
+        "post_id": 132379,
+        "message_id": 15451,
+        "message_kind": "text",
+        "sources": [
+          "fars_today"
+        ],
+        "created_at": "2026-10-29T20:19:54.498171+00:00"
+      },
+      {
+        "fingerprint": "63ecba4e2899ee2a4aa6fa0b55d320d9faf95f89ae9338f3c118fec9e4ae694d",
+        "media_fingerprint": "4d838edd38e0f78091b0ef480fa684847c39e8a594031828a4b6b63afded29b4",
+        "text": "استقبال عجیب برخی از ایرانی‌ها از جشن هالووی\nن\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "استقبال عجیب برخی از ایرانی‌ها از جشن هالووی\nن\n@irWonders",
+        "original_link": "https://t.me/irwonders/59252",
+        "post_id": 59252,
+        "message_id": 15452,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-29T20:20:00.636771+00:00"
+      },
+      {
+        "fingerprint": "6c6bc2b03f6312e0b0d4d0215f5aa61125015c19080b2c1f9315e451772a91ef",
+        "media_fingerprint": "a6d919686a6a9bfa3ff9a60a6a9847bf0373d40a4c69098c3ca1795fefcd73ba",
+        "text": "چالش جدیدی که دخترای توییتری دارن ریکریت میکنن\n@peach_tweet\n🍑",
+        "original_username": "peach_tweet",
+        "original_text": "چالش جدیدی که دخترای توییتری دارن ریکریت میکنن\n@peach_tweet\n🍑",
+        "original_link": "https://t.me/peach_tweet/4833",
+        "post_id": 4833,
+        "message_id": 15453,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-29T20:20:14.406589+00:00"
+      },
+      {
+        "fingerprint": "c9efdb3d6a2e22e7bc8a8bc64510eafdc152ab4b7502430f24a2fac9e67abec9",
+        "media_fingerprint": "edb117f2336ed590458a0d9e467fb816fdc612706b11cf98e16c94bfb3012b8f",
+        "text": "یه رقص زیبا از یه عروس خانم\n@FuckNewsi",
+        "original_username": "fucknewsi",
+        "original_text": "یه رقص زیبا از یه عروس خانم\n@FuckNewsi",
+        "original_link": "https://t.me/FuckNewsi/14104",
+        "post_id": 14104,
+        "message_id": 15456,
+        "message_kind": "caption",
+        "sources": [
+          "fucknewsi",
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-29T20:20:20.649527+00:00"
       }
     ]
   }
