@@ -1,11 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 144709,
+      "last_id": 144716,
       "processed_ids": [
-        143346,
-        143347,
-        143348,
         143349,
         143350,
         143351,
@@ -1002,19 +999,17 @@
         144706,
         144707,
         144708,
-        144709
+        144709,
+        144711,
+        144715,
+        144716
       ],
-      "sent_count": 1369,
+      "sent_count": 1370,
       "failed": {}
     },
     "total_fut": {
-      "last_id": 238940,
+      "last_id": 238945,
       "processed_ids": [
-        237693,
-        237694,
-        237695,
-        237697,
-        237698,
         237699,
         237700,
         237702,
@@ -2009,16 +2004,19 @@
         238937,
         238938,
         238939,
-        238940
+        238940,
+        238941,
+        238942,
+        238943,
+        238944,
+        238945
       ],
       "sent_count": 198,
       "failed": {}
     },
     "footballvision2": {
-      "last_id": 173347,
+      "last_id": 173349,
       "processed_ids": [
-        171381,
-        171382,
         171474,
         171475,
         171476,
@@ -3016,7 +3014,9 @@
         173344,
         173345,
         173346,
-        173347
+        173347,
+        173348,
+        173349
       ],
       "sent_count": 234,
       "failed": {}
@@ -3089,7 +3089,7 @@
       "failed": {}
     },
     "fars_today": {
-      "last_id": 132369,
+      "last_id": 132370,
       "processed_ids": [
         131975,
         131976,
@@ -3470,9 +3470,10 @@
         132366,
         132367,
         132368,
-        132369
+        132369,
+        132370
       ],
-      "sent_count": 188,
+      "sent_count": 189,
       "failed": {}
     },
     "behzistikomitenews": {
@@ -3539,9 +3540,8 @@
       "failed": {}
     },
     "drtel": {
-      "last_id": 71997,
+      "last_id": 71998,
       "processed_ids": [
-        66985,
         66986,
         66987,
         66988,
@@ -4540,9 +4540,10 @@
         71994,
         71995,
         71996,
-        71997
+        71997,
+        71998
       ],
-      "sent_count": 722,
+      "sent_count": 723,
       "failed": {}
     },
     "techtube": {
@@ -7247,7 +7248,7 @@
       "failed": {}
     },
     "comentiat": {
-      "last_id": 26837,
+      "last_id": 26838,
       "processed_ids": [
         25844,
         25845,
@@ -8027,9 +8028,10 @@
         26833,
         26835,
         26836,
-        26837
+        26837,
+        26838
       ],
-      "sent_count": 583,
+      "sent_count": 584,
       "failed": {}
     },
     "boost/fndoni": {
@@ -8041,7 +8043,7 @@
       "failed": {}
     },
     "majalepezeshki": {
-      "last_id": 38902,
+      "last_id": 38904,
       "processed_ids": [
         38432,
         38433,
@@ -8501,16 +8503,16 @@
         38899,
         38900,
         38901,
-        38902
+        38902,
+        38903,
+        38904
       ],
-      "sent_count": 264,
+      "sent_count": 265,
       "failed": {}
     },
     "gizmiztel": {
-      "last_id": 164112,
+      "last_id": 164115,
       "processed_ids": [
-        162827,
-        162828,
         162829,
         162830,
         162831,
@@ -9508,13 +9510,15 @@
         164109,
         164110,
         164111,
-        164112
+        164112,
+        164114,
+        164115
       ],
       "sent_count": 1241,
       "failed": {}
     },
     "dr_salamatx": {
-      "last_id": 55490,
+      "last_id": 55492,
       "processed_ids": [
         55270,
         55271,
@@ -9731,13 +9735,15 @@
         55487,
         55488,
         55489,
-        55490
+        55490,
+        55491,
+        55492
       ],
-      "sent_count": 128,
+      "sent_count": 130,
       "failed": {}
     },
     "jaleb": {
-      "last_id": 53309,
+      "last_id": 53314,
       "processed_ids": [
         52261,
         52262,
@@ -10634,17 +10640,17 @@
         53305,
         53306,
         53307,
-        53309
+        53309,
+        53310,
+        53312,
+        53314
       ],
-      "sent_count": 440,
+      "sent_count": 441,
       "failed": {}
     },
     "ajayebe_jahann": {
-      "last_id": 160382,
+      "last_id": 160385,
       "processed_ids": [
-        159307,
-        159308,
-        159309,
         159310,
         159311,
         159312,
@@ -11641,9 +11647,12 @@
         160379,
         160380,
         160381,
-        160382
+        160382,
+        160383,
+        160384,
+        160385
       ],
-      "sent_count": 510,
+      "sent_count": 512,
       "failed": {}
     },
     "etelaate_omoomi": {
@@ -18912,10 +18921,8 @@
       "failed": {}
     },
     "irwonders": {
-      "last_id": 59246,
+      "last_id": 59248,
       "processed_ids": [
-        58105,
-        58106,
         58107,
         58108,
         58109,
@@ -19913,9 +19920,11 @@
         59243,
         59244,
         59245,
-        59246
+        59246,
+        59247,
+        59248
       ],
-      "sent_count": 680,
+      "sent_count": 681,
       "failed": {}
     },
     "razcom": {
@@ -21619,7 +21628,7 @@
       "failed": {}
     },
     "khandehabadd": {
-      "last_id": 307425,
+      "last_id": 307426,
       "processed_ids": [
         306563,
         306564,
@@ -22443,9 +22452,10 @@
         307422,
         307423,
         307424,
-        307425
+        307425,
+        307426
       ],
-      "sent_count": 361,
+      "sent_count": 362,
       "failed": {}
     },
     "ravan6enasii": {
@@ -23236,7 +23246,7 @@
       "failed": {}
     },
     "shakhmovie": {
-      "last_id": 4313,
+      "last_id": 4314,
       "processed_ids": [
         4017,
         4018,
@@ -23428,9 +23438,10 @@
         4306,
         4308,
         4312,
-        4313
+        4313,
+        4314
       ],
-      "sent_count": 164,
+      "sent_count": 165,
       "failed": {}
     },
     "peach_tweet": {
@@ -24671,14 +24682,8 @@
       "failed": {}
     },
     "persiana_pluss": {
-      "last_id": 7408,
+      "last_id": 7414,
       "processed_ids": [
-        6128,
-        6129,
-        6130,
-        6131,
-        6132,
-        6133,
         6134,
         6135,
         6136,
@@ -25672,13 +25677,19 @@
         7405,
         7406,
         7407,
-        7408
+        7408,
+        7409,
+        7410,
+        7411,
+        7412,
+        7413,
+        7414
       ],
       "sent_count": 25,
       "failed": {}
     },
     "ghandeharipoet": {
-      "last_id": 42886,
+      "last_id": 42887,
       "processed_ids": [
         42693,
         42694,
@@ -25864,13 +25875,14 @@
         42883,
         42884,
         42885,
-        42886
+        42886,
+        42887
       ],
-      "sent_count": 150,
+      "sent_count": 151,
       "failed": {}
     },
     "dashagh": {
-      "last_id": 48904,
+      "last_id": 48906,
       "processed_ids": [
         48313,
         48314,
@@ -26259,13 +26271,14 @@
         48899,
         48902,
         48903,
-        48904
+        48904,
+        48906
       ],
-      "sent_count": 272,
+      "sent_count": 273,
       "failed": {}
     },
     "apkclub": {
-      "last_id": 73317,
+      "last_id": 73319,
       "processed_ids": [
         72962,
         72963,
@@ -26597,13 +26610,15 @@
         73314,
         73315,
         73316,
-        73317
+        73317,
+        73318,
+        73319
       ],
-      "sent_count": 137,
+      "sent_count": 138,
       "failed": {}
     },
     "boob_sfangi": {
-      "last_id": 3001,
+      "last_id": 3003,
       "processed_ids": [
         2587,
         2590,
@@ -26932,13 +26947,14 @@
         2998,
         2999,
         3000,
-        3001
+        3001,
+        3003
       ],
       "sent_count": 206,
       "failed": {}
     },
     "fucknewsi": {
-      "last_id": 14095,
+      "last_id": 14098,
       "processed_ids": [
         13561,
         13562,
@@ -27300,9 +27316,12 @@
         14091,
         14092,
         14094,
-        14095
+        14095,
+        14096,
+        14097,
+        14098
       ],
-      "sent_count": 156,
+      "sent_count": 159,
       "failed": {}
     },
     "https://t.me/+hhcepayguws1nti0": {
@@ -27633,7 +27652,7 @@
       "failed": {}
     },
     "media_aramesh": {
-      "last_id": 113108,
+      "last_id": 113110,
       "processed_ids": [
         113071,
         113072,
@@ -27667,332 +27686,16 @@
         113105,
         113106,
         113107,
-        113108
+        113108,
+        113109,
+        113110
       ],
-      "sent_count": 26,
+      "sent_count": 28,
       "failed": {}
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "adebc94e64c5efd6df8bbdf7cbe85979a4f1f0cd40d01d9f628910c40b11fb33",
-        "media_fingerprint": "1c8ea944e83a34c618c2f12b66641f9f7b03032b9b64ea4972a02530af60bb37",
-        "text": "",
-        "original_username": "behzistikomitenews",
-        "original_text": "",
-        "original_link": "https://t.me/BehzistiKomiteNews/13996",
-        "post_id": 13996,
-        "message_id": 15050,
-        "message_kind": "caption",
-        "sources": [
-          "behzistikomitenews"
-        ],
-        "created_at": "2026-10-28T16:36:31.497740+00:00"
-      },
-      {
-        "fingerprint": "204d2c73f62f493e008f540923305dd014415f47d3906b4646389b99c932dfcf",
-        "media_fingerprint": "4a6a6d1aaec5dcc8fc28cde5d8104cc001dc184132ecf592bdc571a77501bf7a",
-        "text": "- وقتی روز اولته :\n😭\n@RoidBest",
-        "original_username": "roidbest",
-        "original_text": "- وقتی روز اولته :\n😭\n@RoidBest",
-        "original_link": "https://t.me/RoidBest/22015",
-        "post_id": 22015,
-        "message_id": 15051,
-        "message_kind": "caption",
-        "sources": [
-          "roidbest"
-        ],
-        "created_at": "2026-10-28T16:36:37.633816+00:00"
-      },
-      {
-        "fingerprint": "8030b82a7f4cbc08506b2cf742d1aca08c974db8d123da7222fe3ca56dd0faa9",
-        "media_fingerprint": "c849987330c2ee605f6a707936c4eb5599209a076aaa60e26064be3c900cdcf8",
-        "text": "🫃\nعجیب ترین اسم های 405، دلیل برداشتن اسم‌ها\n💪\n#LarryLobster\n💎\nSpongebob | باب اسفنجی",
-        "original_username": "boob_sfangi",
-        "original_text": "🫃\nعجیب ترین اسم های 405، دلیل برداشتن اسم‌ها\n💪\n#LarryLobster\n💎\nSpongebob | باب اسفنجی",
-        "original_link": "https://t.me/boob_sfangi/2968",
-        "post_id": 2968,
-        "message_id": 15052,
-        "message_kind": "caption",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-28T16:36:42.310728+00:00"
-      },
-      {
-        "fingerprint": "fda3b7aa03f6737ceae17bbab78ee822992fdabb3661dd58caf95fe8ac687720",
-        "media_fingerprint": "",
-        "text": "🏥\nمعرفی طرح ‌تأمین رفاه به همراه پرسش و پاسخ‌های پرتکرار\nتامین اعتباری بازنشستگان و مستمری بگیران؛ ۱۰ روز زودتر و تا ۵ درصد بیشتر\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "🏥\nمعرفی طرح ‌تأمین رفاه به همراه پرسش و پاسخ‌های پرتکرار\nتامین اعتباری بازنشستگان و مستمری بگیران؛ ۱۰ روز زودتر و تا ۵ درصد بیشتر\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/23793",
-        "post_id": 23793,
-        "message_id": 15053,
-        "message_kind": "text",
-        "sources": [
-          "akhbar_cafenet"
-        ],
-        "created_at": "2026-10-28T17:09:40.747450+00:00"
-      },
-      {
-        "fingerprint": "d24be57e73bbc394e2ca9eeb35a14b5cf9d9b51d93cb087be9e82eac4f8462f8",
-        "media_fingerprint": "de212d86630fae36d350e8b13e534dd275bbdba1ea59d9b4e5ba6b119d973ffa",
-        "text": "🔴\nفاکس‌نیوز : آمریکا به کشورهای منطقه درباره حمله به ایران هشدار داده؛\nآمریکا\n🇺🇸\nو اسرائیل\n🇮🇱\nدارن آماده میشن که بعد از انتخابات میان‌دوره‌ای آمریکا، به ایران حملات سنگینی بکنن.\nهمچنین آمریکا داره یه باتری دفاع‌موشکی پاتریوت به اسرائیل میفرسته تا در مقابل حملات موشکی ایران آماده باشن.\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nفاکس‌نیوز : آمریکا به کشورهای منطقه درباره حمله به ایران هشدار داده؛\nآمریکا\n🇺🇸\nو اسرائیل\n🇮🇱\nدارن آماده میشن که بعد از انتخابات میان‌دوره‌ای آمریکا، به ایران حملات سنگینی بکنن.\nهمچنین آمریکا داره یه باتری دفاع‌موشکی پاتریوت به اسرائیل میفرسته تا در مقابل حملات موشکی ایران آماده باشن.\n@DrTeL",
-        "original_link": "https://t.me/drtel/71964",
-        "post_id": 71964,
-        "message_id": 15054,
-        "message_kind": "caption",
-        "sources": [
-          "drtel",
-          "fucknewsi"
-        ],
-        "created_at": "2026-10-28T17:09:47.277233+00:00"
-      },
-      {
-        "fingerprint": "1f36095f27f3e233e8cc49feccc474f95f197ba56b013c7c1f228aefff06f5c3",
-        "media_fingerprint": "",
-        "text": "قبرستانی عجیب و کم نظیر\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "قبرستانی عجیب و کم نظیر\n@irWonders",
-        "original_link": "https://t.me/irwonders/59208",
-        "post_id": 59208,
-        "message_id": 15055,
-        "message_kind": "text",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-28T17:09:50.835678+00:00"
-      },
-      {
-        "fingerprint": "849f6cc4c571ca9b5a40918c742a409d574d391031ed709fc35cd084477eeb08",
-        "media_fingerprint": "0407b142ddfc446e7a7dbf07852e460691e1091ad8bf98fb5f83d460ab7c50db",
-        "text": "⬅️\nنرخنامه محصولات فرهنگی مشهد\n🚩\n@nerkh_ne\n| لطفا به اشتراک بزارید |\n❤️\n🤷🏻‍♀️\n@handali0066\n❤️\n🤷🏻‍♂️\n@YASNET93\n┄┅❀کانال نرخنامه کشوری❀┄┅",
-        "original_username": "coffeenetmanager",
-        "original_text": "⬅️\nنرخنامه محصولات فرهنگی مشهد\n🚩\n@nerkh_ne\n| لطفا به اشتراک بزارید |\n❤️\n🤷🏻‍♀️\n@handali0066\n❤️\n🤷🏻‍♂️\n@YASNET93\n┄┅❀کانال نرخنامه کشوری❀┄┅",
-        "original_link": "https://t.me/CoffeenetManager/52029",
-        "post_id": 52029,
-        "message_id": 15056,
-        "message_kind": "caption",
-        "sources": [
-          "coffeenetmanager"
-        ],
-        "created_at": "2026-10-28T17:09:55.982847+00:00"
-      },
-      {
-        "fingerprint": "507576bc2ae071335bfe9d43914d5333a7bc2cddd6507fc02dfde578137e632d",
-        "media_fingerprint": "59d27b3dffb01829c523e8e01be30f1dd2eb6b11c39c8629cad6ec14d79c4ec1",
-        "text": "عضله هدف: چشم تیزبین مخاطب\n@FuckNewsi",
-        "original_username": "fucknewsi",
-        "original_text": "عضله هدف: چشم تیزبین مخاطب\n@FuckNewsi",
-        "original_link": "https://t.me/FuckNewsi/14052",
-        "post_id": 14052,
-        "message_id": 15057,
-        "message_kind": "caption",
-        "sources": [
-          "fucknewsi"
-        ],
-        "created_at": "2026-10-28T17:10:03.600178+00:00"
-      },
-      {
-        "fingerprint": "304abc71543726a52803338753e8d0d971e80acb13afd83b8506e0a229f1e2a7",
-        "media_fingerprint": "4ecf4d6e71960cd4db06aaf813239afa3d2b1ac6be7eb203cf4041b37cf67a88",
-        "text": "چند تا فحش انگلیسی کاربردی یاد بگیرید.\n@Dashagh",
-        "original_username": "dashagh",
-        "original_text": "چند تا فحش انگلیسی کاربردی یاد بگیرید.\n@Dashagh",
-        "original_link": "https://t.me/dashagh/48874",
-        "post_id": 48874,
-        "message_id": 15058,
-        "message_kind": "caption",
-        "sources": [
-          "dashagh",
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-28T17:10:10.494085+00:00"
-      },
-      {
-        "fingerprint": "6f00ea9b3268c7a066bb74372de53be673f375a017a7bf9406b372cdf65baa98",
-        "media_fingerprint": "d2fa4cc42ae2392804fcf716b49f557aa711228fff65938de452620a26e1820e",
-        "text": "🔴\nپشم‌ریزون‌ترین شایعه این روزای هالیوود؛\nشایعه شده جاستین بیبر آزمایش DNA داده و فهمیده بچه‌ای که با هیلی بیبر داره، اصلاً بچه خودش نیست و پدر واقعی بچه\nشان مندزه.\nولی فعلا هیچ مدرک معتبری برای این ادعا وجود نداره و نه جاستین و نه هیلی هم چنین چیزی رو تایید نکردن.\n📷\n|\n@ShakhMovie",
-        "original_username": "shakhmovie",
-        "original_text": "🔴\nپشم‌ریزون‌ترین شایعه این روزای هالیوود؛\nشایعه شده جاستین بیبر آزمایش DNA داده و فهمیده بچه‌ای که با هیلی بیبر داره، اصلاً بچه خودش نیست و پدر واقعی بچه\nشان مندزه.\nولی فعلا هیچ مدرک معتبری برای این ادعا وجود نداره و نه جاستین و نه هیلی هم چنین چیزی رو تایید نکردن.\n📷\n|\n@ShakhMovie",
-        "original_link": "https://t.me/Shakhmovie/4297",
-        "post_id": 4297,
-        "message_id": 15059,
-        "message_kind": "caption",
-        "sources": [
-          "shakhmovie"
-        ],
-        "created_at": "2026-10-28T17:10:15.724621+00:00"
-      },
-      {
-        "fingerprint": "2f8e7e66a834d5909495316c862c948aeb05ad1d7f004966e85fcb4fdfe993f6",
-        "media_fingerprint": "038860dd80973b163866404b05b73c5b1e5f0326bff0bb5b66d8e77c4674118c",
-        "text": "با بوییدن چوب دارچین، خسته نباشید\nاین رایحه فعالیت مغزی را افزایش میدهد و با تحلیل حافظه و تنش های عصبی مقابله میکند، مسأله ای که باعث میشود با سرعت و بازدهی بیشتری فکر کنیم\nعطر دارچین تأثیر شگفت انگیزی بر مغز انسان دارد\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "با بوییدن چوب دارچین، خسته نباشید\nاین رایحه فعالیت مغزی را افزایش میدهد و با تحلیل حافظه و تنش های عصبی مقابله میکند، مسأله ای که باعث میشود با سرعت و بازدهی بیشتری فکر کنیم\nعطر دارچین تأثیر شگفت انگیزی بر مغز انسان دارد\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/53291",
-        "post_id": 53291,
-        "message_id": 15060,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb",
-          "majalepezeshki"
-        ],
-        "created_at": "2026-10-28T18:18:52.819043+00:00"
-      },
-      {
-        "fingerprint": "4fc44fb70dbbdea3c5b94651d46898c65f4a0e2b05c6e35a83db4f5e19e9c49b",
-        "media_fingerprint": "4b7c051e66b0abe930377d6ac320de925461d6e4663709c0233adc09d9c7caf0",
-        "text": "🆔\n@YeJoorayi",
-        "original_username": "yejoorayi",
-        "original_text": "🆔\n@YeJoorayi",
-        "original_link": "https://t.me/YeJoorayi/668",
-        "post_id": 668,
-        "message_id": 15061,
-        "message_kind": "caption",
-        "sources": [
-          "yejoorayi"
-        ],
-        "created_at": "2026-10-28T18:18:57.396893+00:00"
-      },
-      {
-        "fingerprint": "8c6611855bd32ade120e5469fec53617d7c7fffea4740384bcba01ead14d31b8",
-        "media_fingerprint": "9614957ec9aa8205dd160545916ebc7365364ddd9b660249339c812832c03dd1",
-        "text": "♦️\nپادشاهی ۲۵۰۰ ساله هخامنشی در جهان\n#ایران_زیبا\n@Akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nپادشاهی ۲۵۰۰ ساله هخامنشی در جهان\n#ایران_زیبا\n@Akhbarfars",
-        "original_link": "https://t.me/akhbarfars/144653",
-        "post_id": 144653,
-        "message_id": 15062,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-28T18:19:03.260201+00:00"
-      },
-      {
-        "fingerprint": "14d88a5d3b0035a28e22cb1d8806c55c3156bfb894ff274cc3c9b14bb7892b94",
-        "media_fingerprint": "8fddf6cbccb68190c74b7f000d5d64cc422f48a4a42847c53f7592429ef70777",
-        "text": "🚕\nقسمت سوم\n«تاکسی»\nمنتشر شد.\n🎬\n🎬\nsheyda.com/p/27ff1af0bfb\n#تاکسی\n@BajeFilm",
-        "original_username": "bajefilm",
-        "original_text": "🚕\nقسمت سوم\n«تاکسی»\nمنتشر شد.\n🎬\n🎬\nsheyda.com/p/27ff1af0bfb\n#تاکسی\n@BajeFilm",
-        "original_link": "https://t.me/bajefilm/11735",
-        "post_id": 11735,
-        "message_id": 15063,
-        "message_kind": "caption",
-        "sources": [
-          "bajefilm"
-        ],
-        "created_at": "2026-10-28T18:19:07.788335+00:00"
-      },
-      {
-        "fingerprint": "64ebccbe4eb30d5d38ee060999c5eca60fc33566fdc952e0f472ea988e4a4037",
-        "media_fingerprint": "1c3ec1d6684f266d7692da990d6cadae9fea89039296a76b77fd23d70f9779bb",
-        "text": "احساس امنیت اگه عکس بود:\n⭐️\n#StarFish\n💎\nSpongebob | باب اسفنجی",
-        "original_username": "boob_sfangi",
-        "original_text": "احساس امنیت اگه عکس بود:\n⭐️\n#StarFish\n💎\nSpongebob | باب اسفنجی",
-        "original_link": "https://t.me/boob_sfangi/2969",
-        "post_id": 2969,
-        "message_id": 15064,
-        "message_kind": "caption",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-28T18:19:12.551359+00:00"
-      },
-      {
-        "fingerprint": "ab7973da764135819c099ee383d3eca89f8dcca318bb081811a05d66da477b1c",
-        "media_fingerprint": "76f0a19f3264051d0026f4bfded81a18be7ae39d5fe434f2e1c93ab5e36d788e",
-        "text": "آتوسا که فیلماش چندسال پیش لو رفت، عکس‌های ازدواجش رو توییت کرد و موهاش رو با\n✨\n✨\nپوشوند تا نامحرم نبینه\n🙏\n@comentiat",
-        "original_username": "comentiat",
-        "original_text": "آتوسا که فیلماش چندسال پیش لو رفت، عکس‌های ازدواجش رو توییت کرد و موهاش رو با\n✨\n✨\nپوشوند تا نامحرم نبینه\n🙏\n@comentiat",
-        "original_link": "https://t.me/Comentiat/26815",
-        "post_id": 26815,
-        "message_id": 15065,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-28T18:19:21.680324+00:00"
-      },
-      {
-        "fingerprint": "af11ae7846b9435fb8bc7ffabb91606fdad31b912c90b75d3e5bf2c55581173b",
-        "media_fingerprint": "2e2df39c8dffeb909de832ce90580e2ef09559b30a1af08e6aedebdb708c07b5",
-        "text": "🤔\nهر فکری که به ذهنت می‌آید، «واقعیت» نیست\n🧠\nذهن ما دائماً اتفاق‌ها را تفسیر می‌کند. جمله‌هایی مثل «حتماً خرابش می‌کنم»، «همه درباره من بد فکر می‌کنند» یا «اگر اشتباه کنم فاجعه می‌شود» ممکن است بیشتر یک تفسیر ذهنی باشند تا یک واقعیت اثبات‌شده.یکی از تمرین‌های مفید این است که از خودتان بپرسید: «چه شواهدی برای این فکر دارم و چه شواهدی برخلاف آن وجود دارد؟» هدف حذف فکر نیست؛ هدف این است که هر فکر را بدون بررسی، حقیقت قطعی فرض نکنیم.\n🌐\nwww.apa.org/ptsd-guideline\n#روانشناسی_و_سبک_زندگی\n#افکار\n#خودآگاهی\n🖥\n@Dr_SalamatX",
-        "original_username": "dr_salamatx",
-        "original_text": "🤔\nهر فکری که به ذهنت می‌آید، «واقعیت» نیست\n🧠\nذهن ما دائماً اتفاق‌ها را تفسیر می‌کند. جمله‌هایی مثل «حتماً خرابش می‌کنم»، «همه درباره من بد فکر می‌کنند» یا «اگر اشتباه کنم فاجعه می‌شود» ممکن است بیشتر یک تفسیر ذهنی باشند تا یک واقعیت اثبات‌شده.یکی از تمرین‌های مفید این است که از خودتان بپرسید: «چه شواهدی برای این فکر دارم و چه شواهدی برخلاف آن وجود دارد؟» هدف حذف فکر نیست؛ هدف این است که هر فکر را بدون بررسی، حقیقت قطعی فرض نکنیم.\n🌐\nwww.apa.org/ptsd-guideline\n#روانشناسی_و_سبک_زندگی\n#افکار\n#خودآگاهی\n🖥\n@Dr_SalamatX",
-        "original_link": "https://t.me/Dr_SalamatX/55486",
-        "post_id": 55486,
-        "message_id": 15067,
-        "message_kind": "caption",
-        "sources": [
-          "dr_salamatx"
-        ],
-        "created_at": "2026-10-28T18:19:26.593830+00:00"
-      },
-      {
-        "fingerprint": "9a9e5dec7deecf7f359ac28987e605dc96fae198691d7430cb4cbd62cdc4a2eb",
-        "media_fingerprint": "5c336c343174f16f0b3b3e20cdf88c4e505754d7a66391f8799452c8f7024b79",
-        "text": "📸\nگزارش تصویری از اکران مردمی فیلم «بورسیه»\nمراسم اکران مردمی فیلم سینمایی «بورسیه» با حضور جواد عزتی، عباس جمشیدی‌فر و برزو نیک‌نژاد، امشب در پردیس سینمایی کوروش برگزار شد.\nبرای دیدن تصاویر بیشتر کلیک کن\n@cinematicketorg",
-        "original_username": "cinematicketorg",
-        "original_text": "📸\nگزارش تصویری از اکران مردمی فیلم «بورسیه»\nمراسم اکران مردمی فیلم سینمایی «بورسیه» با حضور جواد عزتی، عباس جمشیدی‌فر و برزو نیک‌نژاد، امشب در پردیس سینمایی کوروش برگزار شد.\nبرای دیدن تصاویر بیشتر کلیک کن\n@cinematicketorg",
-        "original_link": "https://t.me/cinematicketorg/24461",
-        "post_id": 24461,
-        "message_id": 15068,
-        "message_kind": "caption",
-        "sources": [
-          "cinematicketorg"
-        ],
-        "created_at": "2026-10-28T18:19:57.664891+00:00"
-      },
-      {
-        "fingerprint": "c3fa35e9edc856e4dbdfd80083886c3bfa94c95dbfcb97e20f55ad77e6b8298c",
-        "media_fingerprint": "ec2463a56d1c27aee92493a87a78161db8b9364044e9745a9d1e7cf7106915b1",
-        "text": "🔴\nاینم غمگین‌ترین ویدیوی آبان ماه؛\nآقایی کاملا درمانده، با چهره‌ای سراسر غم و غصه که توی خرج و مخارج زندگیش مونده و فقط یه راه جلوی خودش دیده:\nبرای فروش کلیه‌اش سر چهارراه وایسه...\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nاینم غمگین‌ترین ویدیوی آبان ماه؛\nآقایی کاملا درمانده، با چهره‌ای سراسر غم و غصه که توی خرج و مخارج زندگیش مونده و فقط یه راه جلوی خودش دیده:\nبرای فروش کلیه‌اش سر چهارراه وایسه...\n@DrTeL",
-        "original_link": "https://t.me/drtel/71965",
-        "post_id": 71965,
-        "message_id": 15071,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-28T18:20:03.409435+00:00"
-      },
-      {
-        "fingerprint": "0483ac51e031d18d6411f2548e6ede89c52fd97d81c81cd256d0be0cb1dfa8bf",
-        "media_fingerprint": "",
-        "text": "آدمی زمانی آزاد می‌شود\nکه دیگر برای دوست‌داشتنی بودن\nاز خودش فاصله نگیرد.\nهمه قرار نیست تو را بفهمند،\nهمه قرار نیست بمانند؛\nاما تو نباید به خاطر رفتنِ دیگران، خودت را ترک کنی.\n- سیمون دو بووار\n@media_aramesh",
-        "original_username": "media_aramesh",
-        "original_text": "آدمی زمانی آزاد می‌شود\nکه دیگر برای دوست‌داشتنی بودن\nاز خودش فاصله نگیرد.\nهمه قرار نیست تو را بفهمند،\nهمه قرار نیست بمانند؛\nاما تو نباید به خاطر رفتنِ دیگران، خودت را ترک کنی.\n- سیمون دو بووار\n@media_aramesh",
-        "original_link": "https://t.me/media_aramesh/113101",
-        "post_id": 113101,
-        "message_id": 15072,
-        "message_kind": "text",
-        "sources": [
-          "media_aramesh"
-        ],
-        "created_at": "2026-10-28T18:20:06.934717+00:00"
-      },
-      {
-        "fingerprint": "fa4c0079403e1b6e73644c2fc8cc20123797a36bd2bd13fd35f365c120c85bd8",
-        "media_fingerprint": "",
-        "text": "🔹\n🔹\n‌ ‌ ‌‌\n📰\n📰\n‌ ‌ ‌\n🔹\n🔹\n‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌\nپـولـدار شـدن آرزو نیسـت!\n‌ ‌ ‌ ‌ ‌ ‌ ‌\nتصمیــمش بــا خــودتــه!\n🔝\nشاید دیدن این ویدیو زندگیت رو تغییر بده!\nپس روی این لینک ضربه بزن\n📱\nکـانـال تـلـگـرام\n👇\n👇\n👇\n🆔\n@Kingofdarkesm\n🚨\n💝\nمـشـاوره و ثـبـت سـفـارش\n✅\n👩🏻‍💻\n@BlackpnatherXm2\n⚠️\n👧🏻\nاز این پیام، ساده رد نشو !!\nالان وقتــشــه، نوبــت توعـــه\n!\n🆗\n🔸\n✅\n🔹\n🆗\n🔸\n🛡",
-        "original_username": "ajayebe_jahann",
-        "original_text": "🔹\n🔹\n‌ ‌ ‌‌\n📰\n📰\n‌ ‌ ‌\n🔹\n🔹\n‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌\nپـولـدار شـدن آرزو نیسـت!\n‌ ‌ ‌ ‌ ‌ ‌ ‌\nتصمیــمش بــا خــودتــه!\n🔝\nشاید دیدن این ویدیو زندگیت رو تغییر بده!\nپس روی این لینک ضربه بزن\n📱\nکـانـال تـلـگـرام\n👇\n👇\n👇\n🆔\n@Kingofdarkesm\n🚨\n💝\nمـشـاوره و ثـبـت سـفـارش\n✅\n👩🏻‍💻\n@BlackpnatherXm2\n⚠️\n👧🏻\nاز این پیام، ساده رد نشو !!\nالان وقتــشــه، نوبــت توعـــه\n!\n🆗\n🔸\n✅\n🔹\n🆗\n🔸\n🛡",
-        "original_link": "https://t.me/Ajayebe_jahann/160344",
-        "post_id": 160344,
-        "message_id": 15073,
-        "message_kind": "text",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-28T18:20:10.441652+00:00"
-      },
       {
         "fingerprint": "3d46db90f86375bea6db6986371f5fc1c4906c653a706baf4b8d1c98f41eacfb",
         "media_fingerprint": "",
@@ -29982,7 +29685,8 @@
         "message_kind": "caption",
         "sources": [
           "irwonders",
-          "gizmiztel"
+          "gizmiztel",
+          "jaleb"
         ],
         "created_at": "2026-10-29T15:15:15.253389+00:00"
       },
@@ -31251,7 +30955,8 @@
         "message_id": 15306,
         "message_kind": "caption",
         "sources": [
-          "gizmiztel"
+          "gizmiztel",
+          "jaleb"
         ],
         "created_at": "2026-10-29T16:05:20.857067+00:00"
       },
@@ -32202,6 +31907,322 @@
           "akhbarfars"
         ],
         "created_at": "2026-10-29T17:25:51.150126+00:00"
+      },
+      {
+        "fingerprint": "6486053e53f93b0f7b9ca152f391b2b0b70da65e182d8773badd76dc91028ba2",
+        "media_fingerprint": "5aaf71e97e7a778a013e1d02d93f84c226a2b67ce7810ef8d4cb17feea072fde",
+        "text": "🧠\nذهن خودت رو بهتر بشناس!\nدر\nMentavix\nهر روز ویدیوهای کوتاه و کاربردی درباره‌ی دنیای روانشناسی میبینی؛ از\nروابط و شخصیت‌شناسی\nتا\nرفتارشناسی، احساسات و رشد فردی\n.\n✨\nاگه به شناخت خودت و ذهن انسان علاقه داری،\nMentavix منتظرته!\n🧠\n❤️\nhttps://t.me/mentavix\nhttps://t.me/mentavix\nhttps://t.me/mentavix",
+        "original_username": "media_aramesh",
+        "original_text": "🧠\nذهن خودت رو بهتر بشناس!\nدر\nMentavix\nهر روز ویدیوهای کوتاه و کاربردی درباره‌ی دنیای روانشناسی میبینی؛ از\nروابط و شخصیت‌شناسی\nتا\nرفتارشناسی، احساسات و رشد فردی\n.\n✨\nاگه به شناخت خودت و ذهن انسان علاقه داری،\nMentavix منتظرته!\n🧠\n❤️\nhttps://t.me/mentavix\nhttps://t.me/mentavix\nhttps://t.me/mentavix",
+        "original_link": "https://t.me/media_aramesh/113109",
+        "post_id": 113109,
+        "message_id": 15380,
+        "message_kind": "caption",
+        "sources": [
+          "media_aramesh"
+        ],
+        "created_at": "2026-10-29T18:25:15.809907+00:00"
+      },
+      {
+        "fingerprint": "980869d19b6d53dec9a865b1b5465155568adaca96adfec8762fec9666d2b952",
+        "media_fingerprint": "2446546e98f18d58c22eb176a33d25b6447b256172728c9b944423ecd86c3282",
+        "text": "دو تا از چهره‌های معروف سینمای ایران، بعد از این همه سال؛\nبه نظرتون کدومشون بهتر تونسته زیبایی و جذابیتش رو حفظ کنه؟\nنیوشا\n👍🏼\nبهنوش\n❤️\n📷\n|\n@ShakhMovie",
+        "original_username": "shakhmovie",
+        "original_text": "دو تا از چهره‌های معروف سینمای ایران، بعد از این همه سال؛\nبه نظرتون کدومشون بهتر تونسته زیبایی و جذابیتش رو حفظ کنه؟\nنیوشا\n👍🏼\nبهنوش\n❤️\n📷\n|\n@ShakhMovie",
+        "original_link": "https://t.me/Shakhmovie/4314",
+        "post_id": 4314,
+        "message_id": 15381,
+        "message_kind": "caption",
+        "sources": [
+          "shakhmovie"
+        ],
+        "created_at": "2026-10-29T18:25:25.051004+00:00"
+      },
+      {
+        "fingerprint": "78201678bf0a5114aed1f89414d6fa98d4f4c5a2436f76f7590a95fe61f86e6d",
+        "media_fingerprint": "",
+        "text": "",
+        "original_username": "apkclub",
+        "original_text": "",
+        "original_link": "https://t.me/apkclub/73318",
+        "post_id": 73318,
+        "message_id": 15383,
+        "message_kind": "text",
+        "sources": [
+          "apkclub"
+        ],
+        "created_at": "2026-10-29T18:25:28.431872+00:00"
+      },
+      {
+        "fingerprint": "85f1d029b3fb5fe0ee9f19fd787ba0d103d9323be7cc2356c1fddccf5b7f4b4e",
+        "media_fingerprint": "69f00bcfb77b46c8651831334d54628d9a6b1c0acd2789311875127ac963f0df",
+        "text": "زیکورپا بزنم یا اسپارتینا؟ بالاخره کدوم؟\nزیکورپا و اسپارتینا هر دو د\nاروی مدیریت وزن\nو حاوی\nتیرزپاتاید\nهستن و هفته‌ای یک‌بار مصرف می‌شن. هر دو هم در دو شکل اتوانژکتور و پن عرضه می‌شن.\nتفاوتشون در تولیدکننده و خدمات همراه داروئه: زیکورپا، محصول\nداروسازی عبیدی\nبا امکان\nمشاوره رایگان پزشک متخصص\n؛ یعنی می‌تونی در طول مسیر مدیریت وزن از راهنمایی پزشکی بهره‌مند بشی. اسپارتینا هم\nمحصول سیناژن\n.\nیادتون باشه که مصرف این دارو باید حتماً\nتحت نظر پزشک\nانجام شه؛ بنابراین از مصرف خودسرانه پرهیز کنید.",
+        "original_username": "dr_salamatx",
+        "original_text": "زیکورپا بزنم یا اسپارتینا؟ بالاخره کدوم؟\nزیکورپا و اسپارتینا هر دو د\nاروی مدیریت وزن\nو حاوی\nتیرزپاتاید\nهستن و هفته‌ای یک‌بار مصرف می‌شن. هر دو هم در دو شکل اتوانژکتور و پن عرضه می‌شن.\nتفاوتشون در تولیدکننده و خدمات همراه داروئه: زیکورپا، محصول\nداروسازی عبیدی\nبا امکان\nمشاوره رایگان پزشک متخصص\n؛ یعنی می‌تونی در طول مسیر مدیریت وزن از راهنمایی پزشکی بهره‌مند بشی. اسپارتینا هم\nمحصول سیناژن\n.\nیادتون باشه که مصرف این دارو باید حتماً\nتحت نظر پزشک\nانجام شه؛ بنابراین از مصرف خودسرانه پرهیز کنید.",
+        "original_link": "https://t.me/Dr_SalamatX/55491",
+        "post_id": 55491,
+        "message_id": 15384,
+        "message_kind": "caption",
+        "sources": [
+          "dr_salamatx"
+        ],
+        "created_at": "2026-10-29T18:25:33.298540+00:00"
+      },
+      {
+        "fingerprint": "2de0089726246cac0b351855527eda8cc2acc68a71e3f70b053a151cc0cd0e0f",
+        "media_fingerprint": "c94d5c78c98a312a176e1686c6c2ee57bbbf4245e1ee3c972ea4e46cddc1d10d",
+        "text": "دخترا بعد دیدن این خبر\nاگه برام مدرسه و دانشگاه رو آتیش نزنه کنسله :)\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "دخترا بعد دیدن این خبر\nاگه برام مدرسه و دانشگاه رو آتیش نزنه کنسله :)\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/53314",
+        "post_id": 53314,
+        "message_id": 15385,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-29T18:25:38.781869+00:00"
+      },
+      {
+        "fingerprint": "31e310160b397672ba61af01a7309f31485aa343adff5aac15e02d9304ead8e5",
+        "media_fingerprint": "e0266aca7d591bebc3e3fd5cf8153ecf49e7626468d1d84ebdbd6fa2515b20bb",
+        "text": "💧\nتیروئید کوچک است؛ اما اثرش می‌تواند در سراسر بدن دیده شود\n✔️\nکم‌کاری تیروئید زمانی رخ می‌دهد که غده تیروئید به اندازه کافی هورمون تولید نکند. خستگی، احساس سرما، افزایش وزن، خشکی پوست، درد عضلانی یا اختلالات قاعدگی از جمله علائمی هستند که ممکن است دیده شوند.اما این نشانه‌ها اختصاصی نیستند و بیماری‌های دیگری هم می‌توانند علائم مشابه ایجاد کنند. به همین دلیل تشخیص کم‌کاری تیروئید با حدس زدن از روی علائم انجام نمی‌شود و معمولاً آزمایش خون بخشی از ارزیابی پزشکی است.\n🌐\nwww.niddk.nih.gov\n#شناخت_بیماری‌ها\n#کم_کاری_تیروئید\n#تیروئید\n🖥\n@Dr_SalamatX",
+        "original_username": "dr_salamatx",
+        "original_text": "💧\nتیروئید کوچک است؛ اما اثرش می‌تواند در سراسر بدن دیده شود\n✔️\nکم‌کاری تیروئید زمانی رخ می‌دهد که غده تیروئید به اندازه کافی هورمون تولید نکند. خستگی، احساس سرما، افزایش وزن، خشکی پوست، درد عضلانی یا اختلالات قاعدگی از جمله علائمی هستند که ممکن است دیده شوند.اما این نشانه‌ها اختصاصی نیستند و بیماری‌های دیگری هم می‌توانند علائم مشابه ایجاد کنند. به همین دلیل تشخیص کم‌کاری تیروئید با حدس زدن از روی علائم انجام نمی‌شود و معمولاً آزمایش خون بخشی از ارزیابی پزشکی است.\n🌐\nwww.niddk.nih.gov\n#شناخت_بیماری‌ها\n#کم_کاری_تیروئید\n#تیروئید\n🖥\n@Dr_SalamatX",
+        "original_link": "https://t.me/Dr_SalamatX/55492",
+        "post_id": 55492,
+        "message_id": 15386,
+        "message_kind": "caption",
+        "sources": [
+          "dr_salamatx"
+        ],
+        "created_at": "2026-10-29T18:25:44.040985+00:00"
+      },
+      {
+        "fingerprint": "83ceab38539ae505c64edce8c3b42a508d06507d57f1e774af244afbc515781b",
+        "media_fingerprint": "",
+        "text": "📜\nچهار نكته درباره ی رابطه كه بهتره از همون اول جدى بگیری:\n۱. نمى تونى به جاى كسى براى تغيير تلاش كنى مى تونى حمايتش كنى، اما اگه فقط تو توضيح میدى، پیگیری میکنی و راه حل پيدا میكنى، كم كم مسئوليت تغییر اون هم میوفته روى دوش تو. ببين خودش چه قدمى برمیداره!\n۲. براى شناختنش، به روزمرگیش نگاه كن\nاز آينده اى كه میخواد بسازه بشنو، اما ببين امروز براى رسيدن بهش چیکار میکنه؟\n۳. قول هاش رو با رفتارهاى تكرارشوندش بسنج یه حرف قشنگ يا یه حركت خوب، براى شناخت كافى نيست. ببين در طول زمان چفدر به قول هاش عمل مى كنه!\n۴. واكنشش به نه گفتنت روجدى بگیر میتونه ناراحت يا مخالف باشه، اما آيا به مرزت احترام مى ذاره؟ يا با اصرار، سرزنش و تهديد سعى مى كنه نظرت رو عوض كنه؟\n@media_aramesh",
+        "original_username": "media_aramesh",
+        "original_text": "📜\nچهار نكته درباره ی رابطه كه بهتره از همون اول جدى بگیری:\n۱. نمى تونى به جاى كسى براى تغيير تلاش كنى مى تونى حمايتش كنى، اما اگه فقط تو توضيح میدى، پیگیری میکنی و راه حل پيدا میكنى، كم كم مسئوليت تغییر اون هم میوفته روى دوش تو. ببين خودش چه قدمى برمیداره!\n۲. براى شناختنش، به روزمرگیش نگاه كن\nاز آينده اى كه میخواد بسازه بشنو، اما ببين امروز براى رسيدن بهش چیکار میکنه؟\n۳. قول هاش رو با رفتارهاى تكرارشوندش بسنج یه حرف قشنگ يا یه حركت خوب، براى شناخت كافى نيست. ببين در طول زمان چفدر به قول هاش عمل مى كنه!\n۴. واكنشش به نه گفتنت روجدى بگیر میتونه ناراحت يا مخالف باشه، اما آيا به مرزت احترام مى ذاره؟ يا با اصرار، سرزنش و تهديد سعى مى كنه نظرت رو عوض كنه؟\n@media_aramesh",
+        "original_link": "https://t.me/media_aramesh/113110",
+        "post_id": 113110,
+        "message_id": 15387,
+        "message_kind": "text",
+        "sources": [
+          "media_aramesh"
+        ],
+        "created_at": "2026-10-29T18:25:47.495523+00:00"
+      },
+      {
+        "fingerprint": "d87484fd0a4d57fb06629c4bda93469e5780fa13ec8e31aa06d3e66432854d38",
+        "media_fingerprint": "e2d92407f8df935b348a9b44ee8c4ae3094be7e3801cc7f71d61f765adf6bcf9",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26838",
+        "post_id": 26838,
+        "message_id": 15388,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-29T18:25:52.123044+00:00"
+      },
+      {
+        "fingerprint": "019caf73c13026a681ebc20f7f7fd2f1a4eb99c0fa28633a1d3f7dfb419942b5",
+        "media_fingerprint": "2d5fc95aacf16cf80da0c280181e5d65ec7d1d6467d3147eacf894b6bff9d795",
+        "text": "🧑‍💻\nبلوبانک یه محصول جدید آورده به اسم\nبلوبیزنس\nبلو بیزنس، حساب مخصوص کسب و کار های کوچیک و متوسطه\n✅\nبا\nبلوبیزنس\nمیتونی خیلی راحت حساب کسب و کارت رو از حساب شخصیت جدا کنی.\nیه کارت خوشگل، جدا از کارت اصلی‌ت بهت میده\nمی‌تونی برای بیزنست وام با مبلغ بالا بگیری،\nسقف انتقالش بالاتره\nمی‌تونی دستگاه کارت‌خوان بخری و کلی مزیت های دیگه\n🛍️\nفرقی نمی‌کنه چه فروشگاه حضوری داشته باشی، چه آنلاین شاپ یا حتی فقط یه محصول برای فروش تو باسلام و دیجیکالا و….؛ میتونی بلوبیزنس بگیری\nبه نظرم یه سر به اپ بلو بزن و حساب بلوبیزنست رو باز کن",
+        "original_username": "fars_today",
+        "original_text": "🧑‍💻\nبلوبانک یه محصول جدید آورده به اسم\nبلوبیزنس\nبلو بیزنس، حساب مخصوص کسب و کار های کوچیک و متوسطه\n✅\nبا\nبلوبیزنس\nمیتونی خیلی راحت حساب کسب و کارت رو از حساب شخصیت جدا کنی.\nیه کارت خوشگل، جدا از کارت اصلی‌ت بهت میده\nمی‌تونی برای بیزنست وام با مبلغ بالا بگیری،\nسقف انتقالش بالاتره\nمی‌تونی دستگاه کارت‌خوان بخری و کلی مزیت های دیگه\n🛍️\nفرقی نمی‌کنه چه فروشگاه حضوری داشته باشی، چه آنلاین شاپ یا حتی فقط یه محصول برای فروش تو باسلام و دیجیکالا و….؛ میتونی بلوبیزنس بگیری\nبه نظرم یه سر به اپ بلو بزن و حساب بلوبیزنست رو باز کن",
+        "original_link": "https://t.me/Fars_today/132370",
+        "post_id": 132370,
+        "message_id": 15389,
+        "message_kind": "caption",
+        "sources": [
+          "fars_today"
+        ],
+        "created_at": "2026-10-29T18:25:56.774496+00:00"
+      },
+      {
+        "fingerprint": "0e675715498c503794347d2ab4cdc11eff9022b32cd76e6105a5c93bd32f2d00",
+        "media_fingerprint": "285455454fd74bd3e859c19c8b176bc5694c86b21145f7cd710a32868b19d2dc",
+        "text": "هنگام\nگنجینه‌ای از جواهرات زنده در دل خلیج فارس\n🦀\n💎\nجزیره‌ای شگفت‌انگیز که زیر آب‌های نیلگونش، دنیایی رنگارنگ از موجودات دریایی پنهان شده جایی که طبیعت، زیباترین جواهراتش را به نمایش گذاشته است.\n🌊\n🐚\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "هنگام\nگنجینه‌ای از جواهرات زنده در دل خلیج فارس\n🦀\n💎\nجزیره‌ای شگفت‌انگیز که زیر آب‌های نیلگونش، دنیایی رنگارنگ از موجودات دریایی پنهان شده جایی که طبیعت، زیباترین جواهراتش را به نمایش گذاشته است.\n🌊\n🐚\n@irWonders",
+        "original_link": "https://t.me/irwonders/59247",
+        "post_id": 59247,
+        "message_id": 15390,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-29T18:26:17.905256+00:00"
+      },
+      {
+        "fingerprint": "2f17dba4071bedf27cda1c038348740727bd7ce3f041fe6dffeee68d9cc04044",
+        "media_fingerprint": "6a02f59d9e65e556f66f808424f3b2a6d2360d95f792852ddc187714ddf76786",
+        "text": "🔴\nبابک زنجانی : من 7 سال تو این سلولِ انفرادی بودم؛\nاین افراد با نفوذی که داشتن، 7 سال من رو تو این سلول انفرادی که میبینید حبس کردن و اموالم رو به نفع بیت‌المال مصادره و غارت کردن :\nحسن روحانی (رئیس‌جمهور ۱۳۹۲ تا ۱۴۰۰)\nبیژن زنگنه (وزیر نفت دولتِ روحانی)\nاصغر هندی (مسئول پیگیری مطالبات وزارت نفت دوره روحانی)\nتیم امنیتیِ عباس پالیزدار (افشاگرِ پرونده‌های فساد)\n‌\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nبابک زنجانی : من 7 سال تو این سلولِ انفرادی بودم؛\nاین افراد با نفوذی که داشتن، 7 سال من رو تو این سلول انفرادی که میبینید حبس کردن و اموالم رو به نفع بیت‌المال مصادره و غارت کردن :\nحسن روحانی (رئیس‌جمهور ۱۳۹۲ تا ۱۴۰۰)\nبیژن زنگنه (وزیر نفت دولتِ روحانی)\nاصغر هندی (مسئول پیگیری مطالبات وزارت نفت دوره روحانی)\nتیم امنیتیِ عباس پالیزدار (افشاگرِ پرونده‌های فساد)\n‌\n@DrTeL",
+        "original_link": "https://t.me/drtel/71998",
+        "post_id": 71998,
+        "message_id": 15391,
+        "message_kind": "caption",
+        "sources": [
+          "drtel",
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-29T18:26:22.230121+00:00"
+      },
+      {
+        "fingerprint": "2969bf08a30a8cc86161b7b34628e4b8030b2bc02dc897970144cdba08711692",
+        "media_fingerprint": "",
+        "text": "گفته بود زیبایی را توصیف کنیدنوشتم:به نام خدالبخندهای مادرم!\n❤️\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
+        "original_username": "ghandeharipoet",
+        "original_text": "گفته بود زیبایی را توصیف کنیدنوشتم:به نام خدالبخندهای مادرم!\n❤️\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••\n❥\n@ghandeharipoet\n❥\n••┈┈┈❥❥\n♥️\n♥️\n❥❥┈┈┈••",
+        "original_link": "https://t.me/Ghandeharipoet/42887",
+        "post_id": 42887,
+        "message_id": 15392,
+        "message_kind": "text",
+        "sources": [
+          "ghandeharipoet"
+        ],
+        "created_at": "2026-10-29T18:26:25.717461+00:00"
+      },
+      {
+        "fingerprint": "2ad1da9a32e49bab7f6f6b9b3a79cc70a9e526ce58519a947fb73ae5dc1b372d",
+        "media_fingerprint": "d41ff524ba9fe14c13f9cacc4d3a4a1b60c98e1cd080d5db97e061fec04ab9f3",
+        "text": "ویدئوی وایرال شده از یه پارتی در تهران\n@FuckNewsi",
+        "original_username": "fucknewsi",
+        "original_text": "ویدئوی وایرال شده از یه پارتی در تهران\n@FuckNewsi",
+        "original_link": "https://t.me/FuckNewsi/14096",
+        "post_id": 14096,
+        "message_id": 15393,
+        "message_kind": "caption",
+        "sources": [
+          "fucknewsi"
+        ],
+        "created_at": "2026-10-29T18:26:31.887060+00:00"
+      },
+      {
+        "fingerprint": "d674c8a3936dea2cf8c0492934f750530a9be27a6969ff2288639a0c42280ac3",
+        "media_fingerprint": "",
+        "text": "🔴\nنتایج انتخابات اسرائیل:\nائتلاف نتانیاهو ۵۳ کرسی\nائتلاف آیزنکوت ۴۸ کرسی\nاحزاب عربی ۱۹ کرسی\n@FuckNewsi",
+        "original_username": "fucknewsi",
+        "original_text": "🔴\nنتایج انتخابات اسرائیل:\nائتلاف نتانیاهو ۵۳ کرسی\nائتلاف آیزنکوت ۴۸ کرسی\nاحزاب عربی ۱۹ کرسی\n@FuckNewsi",
+        "original_link": "https://t.me/FuckNewsi/14097",
+        "post_id": 14097,
+        "message_id": 15394,
+        "message_kind": "text",
+        "sources": [
+          "fucknewsi"
+        ],
+        "created_at": "2026-10-29T18:26:35.658260+00:00"
+      },
+      {
+        "fingerprint": "ae288d77a2e1d4811144518d619f93b1ad4d4122b483c519dad93824f92dfb3d",
+        "media_fingerprint": "d583e1eb38468463553a1abd0f6be3857f801377003093423a03ce497a10587c",
+        "text": "شات های جدید نیوشا صارمی مجری شبکه اینترنشنال که پسران سرزمینم همه زیرش کامنت گذاشتن؛\nخاله تو تنها دلیل من واسه خبر دیدنی.\n@FuckNewsi",
+        "original_username": "fucknewsi",
+        "original_text": "شات های جدید نیوشا صارمی مجری شبکه اینترنشنال که پسران سرزمینم همه زیرش کامنت گذاشتن؛\nخاله تو تنها دلیل من واسه خبر دیدنی.\n@FuckNewsi",
+        "original_link": "https://t.me/FuckNewsi/14098",
+        "post_id": 14098,
+        "message_id": 15395,
+        "message_kind": "caption",
+        "sources": [
+          "fucknewsi"
+        ],
+        "created_at": "2026-10-29T18:26:44.884482+00:00"
+      },
+      {
+        "fingerprint": "4ed18ef87b6c60e69471ec3c49d730acb0a84ef1dccd22abfa1e500535d90de3",
+        "media_fingerprint": "5eb43ced7e7efe81d46ec97434370b35e5db9e4f46c5b004873df1a2ebd5c12e",
+        "text": "علل رشد موهای زائد در زنان\n◽️\nرشد موهای زائد می‌توانند علت‌های مختلفی داشته باشند، که مهمترین آن‌ها شامل سندرم تخمدان  پلی کیستیک، پر کاری تیروئید، عوامل ژنتیکی، اختلالات هورمونی و مصرف برخی از داروها باشد. اولین قدم برای درمان، تشخیص دقیق دلیل رویش موهای زائد است، که به تشخیص دقیق و با تجربه پزشک مجرب نیاز است.\n◽️\nهمچنین با اصلاح سبک زندگی، داشتن رژیم غذایی متعادل و کم کربوهیدرات با ویتامین‌های غنی شده به همراه ورزش‌های منظم و مکرر برای دستیابی به تناسب اندام و کاهش وزن به روند بهبود موهای زائد می‌تواند کمک کرد.\n#پزشکی\n#سلامت\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "علل رشد موهای زائد در زنان\n◽️\nرشد موهای زائد می‌توانند علت‌های مختلفی داشته باشند، که مهمترین آن‌ها شامل سندرم تخمدان  پلی کیستیک، پر کاری تیروئید، عوامل ژنتیکی، اختلالات هورمونی و مصرف برخی از داروها باشد. اولین قدم برای درمان، تشخیص دقیق دلیل رویش موهای زائد است، که به تشخیص دقیق و با تجربه پزشک مجرب نیاز است.\n◽️\nهمچنین با اصلاح سبک زندگی، داشتن رژیم غذایی متعادل و کم کربوهیدرات با ویتامین‌های غنی شده به همراه ورزش‌های منظم و مکرر برای دستیابی به تناسب اندام و کاهش وزن به روند بهبود موهای زائد می‌تواند کمک کرد.\n#پزشکی\n#سلامت\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38903",
+        "post_id": 38903,
+        "message_id": 15397,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-29T18:26:49.402394+00:00"
+      },
+      {
+        "fingerprint": "e3af47d6b1827f5c7b07a8f984dff3bc741a06f81a689cf6009a1b2802854623",
+        "media_fingerprint": "9088ae147c29a1f194c732f953cd80e0b658b3bd45af7558ba2f59bf483b598a",
+        "text": "دخترا ی چالش راه انداختن که عکس کسایی  که بهشون خیانت کرده رو به اشتراک گذاشتن :)))\nواکنش دخترا و پسرا (عکس رفیقاشون کامنت کردن)\n😂\n😂\n😂\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "دخترا ی چالش راه انداختن که عکس کسایی  که بهشون خیانت کرده رو به اشتراک گذاشتن :)))\nواکنش دخترا و پسرا (عکس رفیقاشون کامنت کردن)\n😂\n😂\n😂\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48906",
+        "post_id": 48906,
+        "message_id": 15398,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-29T18:27:21.733554+00:00"
+      },
+      {
+        "fingerprint": "b21fb1c558aeb8d8cd694a76fa75d176d50711d447b464175d333ca8f5d22207",
+        "media_fingerprint": "",
+        "text": "",
+        "original_username": "ajayebe_jahann",
+        "original_text": "",
+        "original_link": "https://t.me/Ajayebe_jahann/160384",
+        "post_id": 160384,
+        "message_id": 15402,
+        "message_kind": "text",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-29T18:27:25.105423+00:00"
+      },
+      {
+        "fingerprint": "61179f2de936c08265d9010110726ea29f944d67274d6cafb54a5359c08fb173",
+        "media_fingerprint": "985a6545f2b3988233742be2bef629b9df4d56772c2e055b12be76ffe07ba2ec",
+        "text": "🔸\nماده مخدری به نام \"کروکودیل\" در استرالیا رواج پیدا کرده که پوست ناحیه‌ای از بدن را که از این مواد تزریق شده فاسد کرده و فرد شبیه زامبی می‌شود. براساس تحقیقات بعمل آمده، به خاطر تاثیراتی که روی بدن می ‌گذارد، \"کروکودیل\" وحشتناک‌ترین ماده مخدری است که تاکنون در جهان شناخته شده است. این ماده مخدر به شکل وحشتناکی گوشت مصرف‌کننده را می‌خورد و او را از درون متلاشی می‌کند.\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "🔸\nماده مخدری به نام \"کروکودیل\" در استرالیا رواج پیدا کرده که پوست ناحیه‌ای از بدن را که از این مواد تزریق شده فاسد کرده و فرد شبیه زامبی می‌شود. براساس تحقیقات بعمل آمده، به خاطر تاثیراتی که روی بدن می ‌گذارد، \"کروکودیل\" وحشتناک‌ترین ماده مخدری است که تاکنون در جهان شناخته شده است. این ماده مخدر به شکل وحشتناکی گوشت مصرف‌کننده را می‌خورد و او را از درون متلاشی می‌کند.\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/160385",
+        "post_id": 160385,
+        "message_id": 15403,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-29T18:27:29.753910+00:00"
+      },
+      {
+        "fingerprint": "8e975a9877425194fd81e01567c8019a468d1d9da0363074a825df9f5d5f7447",
+        "media_fingerprint": "",
+        "text": "♦️\nنجات افراد گرفتار در مسیر کوهستانی اقلید\nسرپرست جمعیت هلال‌احمر شهرستان اقلید:\n🔹️\nگزارشی مبنی‌بر گرفتاری افراد در منطقه کوهستانی ادارک اقلید به هلال‌احمر اعلام شد.\n🔹️\nبلافاصله یک تیم عملیاتی از نجاتگران هلال‌احمر اقلید به محل حادثه اعزام شدند و پس از دسترسی به افراد گرفتار، به منطقه امن منتقل شدند.\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nنجات افراد گرفتار در مسیر کوهستانی اقلید\nسرپرست جمعیت هلال‌احمر شهرستان اقلید:\n🔹️\nگزارشی مبنی‌بر گرفتاری افراد در منطقه کوهستانی ادارک اقلید به هلال‌احمر اعلام شد.\n🔹️\nبلافاصله یک تیم عملیاتی از نجاتگران هلال‌احمر اقلید به محل حادثه اعزام شدند و پس از دسترسی به افراد گرفتار، به منطقه امن منتقل شدند.\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144716",
+        "post_id": 144716,
+        "message_id": 15404,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-29T18:27:33.230349+00:00"
+      },
+      {
+        "fingerprint": "e8ff0dfe98121726cb311d44d479bd74fb91b0f942929f24c1e252e234b115d2",
+        "media_fingerprint": "319b9a3e6b363bf8136e8de011b9aec3d16268f2b2dfd0f38294d2869ba49f82",
+        "text": "قدرت میکاپ\n😂\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "قدرت میکاپ\n😂\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/307426",
+        "post_id": 307426,
+        "message_id": 15405,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-29T18:27:39.089388+00:00"
       }
     ]
   }
