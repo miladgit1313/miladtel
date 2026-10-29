@@ -3544,10 +3544,8 @@
       "failed": {}
     },
     "drtel": {
-      "last_id": 72013,
+      "last_id": 72015,
       "processed_ids": [
-        67000,
-        67002,
         67004,
         67005,
         67006,
@@ -4545,9 +4543,11 @@
         72010,
         72011,
         72012,
-        72013
+        72013,
+        72014,
+        72015
       ],
-      "sent_count": 728,
+      "sent_count": 729,
       "failed": {}
     },
     "techtube": {
@@ -27795,22 +27795,6 @@
   "global": {
     "history": [
       {
-        "fingerprint": "bfd336e73e0d44b6d96e4a1972effcda6640c029fbfba9ea64311bdc7b4592dd",
-        "media_fingerprint": "f50311e0e137f0cd763e319791c5d126eadd232148c170aa5d261b481a4f340c",
-        "text": "🔴\nاین ویدئو از روند کاشت و ترمیم ناخن پسرها تو کمتر از یک روز، 5 میلیون ویو خورده؛\nفقط سوهانی که استفاده کرد...\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nاین ویدئو از روند کاشت و ترمیم ناخن پسرها تو کمتر از یک روز، 5 میلیون ویو خورده؛\nفقط سوهانی که استفاده کرد...\n@DrTeL",
-        "original_link": "https://t.me/drtel/71974",
-        "post_id": 71974,
-        "message_id": 15149,
-        "message_kind": "caption",
-        "sources": [
-          "drtel",
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-29T01:03:51.388145+00:00"
-      },
-      {
         "fingerprint": "93493d65c93cae41f6062eba5f4b3bf6cf125b012b17e50a8684c02a3aa7ed11",
         "media_fingerprint": "aae20fee45bc928c2268746240f1f9ae8860d2ed62a046d417bc21b71f8a97df",
         "text": "بهترین فیلمی که درباره تک تیرانداز زن ساخته شده\nفیلم (battle for sevastopol 2015)\nبه شدت توصیه میکنم ببینید، جذابیت داستان 10 از 10\nمعرفی_فیلم\n@comentiat",
@@ -32332,6 +32316,21 @@
           "comentiat"
         ],
         "created_at": "2026-10-29T23:18:30.608839+00:00"
+      },
+      {
+        "fingerprint": "cca0d4e4687d5deb15bd5aec7ad7bcef35b9f9d3c899b0711dbec77ed6fe37bb",
+        "media_fingerprint": "b2928cbb82d7c9a92fad4f1a95dee946699cfd44b2128c32b5c5cc1eca042e01",
+        "text": "🔴\nاگه براتون سواله امسال هموطنان غیور \"هالووین\n🎃\n\" رو چطور جشن گرفتن؛\nاین ویدئوها رو ببینید :\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nاگه براتون سواله امسال هموطنان غیور \"هالووین\n🎃\n\" رو چطور جشن گرفتن؛\nاین ویدئوها رو ببینید :\n@DrTeL",
+        "original_link": "https://t.me/drtel/72015",
+        "post_id": 72015,
+        "message_id": 15485,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-29T23:59:42.094165+00:00"
       }
     ]
   }
