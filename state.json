@@ -2015,10 +2015,8 @@
       "failed": {}
     },
     "footballvision2": {
-      "last_id": 173359,
+      "last_id": 173364,
       "processed_ids": [
-        171484,
-        171485,
         171486,
         171487,
         171488,
@@ -3016,7 +3014,9 @@
         173356,
         173357,
         173358,
-        173359
+        173359,
+        173360,
+        173364
       ],
       "sent_count": 234,
       "failed": {}
@@ -3089,7 +3089,7 @@
       "failed": {}
     },
     "fars_today": {
-      "last_id": 132379,
+      "last_id": 132380,
       "processed_ids": [
         131975,
         131976,
@@ -3474,9 +3474,10 @@
         132370,
         132371,
         132372,
-        132379
+        132379,
+        132380
       ],
-      "sent_count": 191,
+      "sent_count": 192,
       "failed": {}
     },
     "behzistikomitenews": {
@@ -3543,13 +3544,8 @@
       "failed": {}
     },
     "drtel": {
-      "last_id": 72000,
+      "last_id": 72007,
       "processed_ids": [
-        66988,
-        66990,
-        66992,
-        66993,
-        66994,
         66995,
         66996,
         66997,
@@ -4544,9 +4540,14 @@
         71997,
         71998,
         71999,
-        72000
+        72000,
+        72002,
+        72003,
+        72005,
+        72006,
+        72007
       ],
-      "sent_count": 724,
+      "sent_count": 727,
       "failed": {}
     },
     "techtube": {
@@ -5858,7 +5859,7 @@
       "failed": {}
     },
     "roidbest": {
-      "last_id": 22027,
+      "last_id": 22028,
       "processed_ids": [
         21613,
         21614,
@@ -6239,7 +6240,8 @@
         22024,
         22025,
         22026,
-        22027
+        22027,
+        22028
       ],
       "sent_count": 214,
       "failed": {}
@@ -8050,7 +8052,7 @@
       "failed": {}
     },
     "majalepezeshki": {
-      "last_id": 38905,
+      "last_id": 38907,
       "processed_ids": [
         38432,
         38433,
@@ -8513,18 +8515,16 @@
         38902,
         38903,
         38904,
-        38905
+        38905,
+        38906,
+        38907
       ],
-      "sent_count": 266,
+      "sent_count": 267,
       "failed": {}
     },
     "gizmiztel": {
-      "last_id": 164120,
+      "last_id": 164124,
       "processed_ids": [
-        162834,
-        162835,
-        162836,
-        162837,
         162838,
         162839,
         162840,
@@ -9520,9 +9520,13 @@
         164117,
         164118,
         164119,
-        164120
+        164120,
+        164121,
+        164122,
+        164123,
+        164124
       ],
-      "sent_count": 1244,
+      "sent_count": 1246,
       "failed": {}
     },
     "dr_salamatx": {
@@ -9751,7 +9755,7 @@
       "failed": {}
     },
     "jaleb": {
-      "last_id": 53317,
+      "last_id": 53322,
       "processed_ids": [
         52261,
         52262,
@@ -10654,9 +10658,12 @@
         53314,
         53315,
         53316,
-        53317
+        53317,
+        53318,
+        53319,
+        53322
       ],
-      "sent_count": 441,
+      "sent_count": 443,
       "failed": {}
     },
     "ajayebe_jahann": {
@@ -18932,9 +18939,8 @@
       "failed": {}
     },
     "irwonders": {
-      "last_id": 59252,
+      "last_id": 59254,
       "processed_ids": [
-        58111,
         58112,
         58113,
         58114,
@@ -19933,9 +19939,10 @@
         59249,
         59250,
         59251,
-        59252
+        59252,
+        59254
       ],
-      "sent_count": 685,
+      "sent_count": 686,
       "failed": {}
     },
     "razcom": {
@@ -22913,7 +22920,7 @@
       "failed": {}
     },
     "yejoorayi": {
-      "last_id": 674,
+      "last_id": 675,
       "processed_ids": [
         426,
         427,
@@ -23145,9 +23152,10 @@
         671,
         672,
         673,
-        674
+        674,
+        675
       ],
-      "sent_count": 212,
+      "sent_count": 213,
       "failed": {}
     },
     "onlinecofe_ir": {
@@ -23464,7 +23472,7 @@
       "failed": {}
     },
     "peach_tweet": {
-      "last_id": 4848,
+      "last_id": 4860,
       "processed_ids": [
         2745,
         2749,
@@ -24243,7 +24251,8 @@
         4845,
         4846,
         4847,
-        4848
+        4848,
+        4860
       ],
       "sent_count": 392,
       "failed": {}
@@ -24728,10 +24737,8 @@
       "failed": {}
     },
     "persiana_pluss": {
-      "last_id": 7421,
+      "last_id": 7423,
       "processed_ids": [
-        6141,
-        6142,
         6143,
         6144,
         6146,
@@ -25729,13 +25736,15 @@
         7418,
         7419,
         7420,
-        7421
+        7421,
+        7422,
+        7423
       ],
       "sent_count": 25,
       "failed": {}
     },
     "ghandeharipoet": {
-      "last_id": 42887,
+      "last_id": 42888,
       "processed_ids": [
         42693,
         42694,
@@ -25922,13 +25931,14 @@
         42884,
         42885,
         42886,
-        42887
+        42887,
+        42888
       ],
       "sent_count": 151,
       "failed": {}
     },
     "dashagh": {
-      "last_id": 48912,
+      "last_id": 48914,
       "processed_ids": [
         48313,
         48314,
@@ -26320,9 +26330,11 @@
         48904,
         48906,
         48911,
-        48912
+        48912,
+        48913,
+        48914
       ],
-      "sent_count": 275,
+      "sent_count": 277,
       "failed": {}
     },
     "apkclub": {
@@ -27011,7 +27023,7 @@
       "failed": {}
     },
     "fucknewsi": {
-      "last_id": 14104,
+      "last_id": 14109,
       "processed_ids": [
         13561,
         13562,
@@ -27381,9 +27393,11 @@
         14101,
         14102,
         14103,
-        14104
+        14104,
+        14107,
+        14109
       ],
-      "sent_count": 161,
+      "sent_count": 162,
       "failed": {}
     },
     "https://t.me/+hhcepayguws1nti0": {
@@ -27714,7 +27728,7 @@
       "failed": {}
     },
     "media_aramesh": {
-      "last_id": 113111,
+      "last_id": 113112,
       "processed_ids": [
         113071,
         113072,
@@ -27751,242 +27765,15 @@
         113108,
         113109,
         113110,
-        113111
+        113111,
+        113112
       ],
-      "sent_count": 29,
+      "sent_count": 30,
       "failed": {}
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "d780f885fd8bd783b8765148517bdd2eb811449417ca918b6dede0de0b9d5823",
-        "media_fingerprint": "ee81d931f4d72e850e2442fdfb8fdb59b6e508025ebab4464c88c3d2a8a2cf1f",
-        "text": "📱\nاین زن ۳۱ ساله پس از اینکه با راهنمایی چت‌جی‌پی‌تی دوز مصرف داروشو تغییر داد، جان باخت\n🚀\n@Akhbar_Cafenet",
-        "original_username": "akhbar_cafenet",
-        "original_text": "📱\nاین زن ۳۱ ساله پس از اینکه با راهنمایی چت‌جی‌پی‌تی دوز مصرف داروشو تغییر داد، جان باخت\n🚀\n@Akhbar_Cafenet",
-        "original_link": "https://t.me/akhbar_cafenet/23797",
-        "post_id": 23797,
-        "message_id": 15119,
-        "message_kind": "caption",
-        "sources": [
-          "akhbar_cafenet",
-          "gizmiztel",
-          "jaleb"
-        ],
-        "created_at": "2026-10-28T21:09:36.003431+00:00"
-      },
-      {
-        "fingerprint": "e213838ccc8f8120bb3d04fe37ac03af3fdf8e9426bece7b5fe26c716bbfb38e",
-        "media_fingerprint": "dc7d9ea34e0b06878f435a2c86a4041a0433bc4ab6f9ac3713ad0e993408c1a9",
-        "text": "حالا میگن همه\nکس میگن همه\n⭐️\n#StarFish\n💎\nSpongebob | باب اسفنجی",
-        "original_username": "boob_sfangi",
-        "original_text": "حالا میگن همه\nکس میگن همه\n⭐️\n#StarFish\n💎\nSpongebob | باب اسفنجی",
-        "original_link": "https://t.me/boob_sfangi/2976",
-        "post_id": 2976,
-        "message_id": 15120,
-        "message_kind": "caption",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-28T21:09:40.156700+00:00"
-      },
-      {
-        "fingerprint": "6c6ccda01ab6a020ff24b4b25245c4e95adb9316b564b88413e23f2be8c842ce",
-        "media_fingerprint": "6f3327a990ca1b07da41907637df9641bd7e9670b862ea5a19852166eebde641",
-        "text": "بعد بازی گالاتاسرای و فنرباغچه رفتن با داوینسون سانچز مصاحبه کنن، که بخاطر نور کم این بدبخت دیده نمیشه\n😂\n😂\n😂\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "بعد بازی گالاتاسرای و فنرباغچه رفتن با داوینسون سانچز مصاحبه کنن، که بخاطر نور کم این بدبخت دیده نمیشه\n😂\n😂\n😂\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/53295",
-        "post_id": 53295,
-        "message_id": 15121,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-28T21:09:45.207622+00:00"
-      },
-      {
-        "fingerprint": "1d5aac5a64457efd33de74f0796608a7626aff34d1dac20ec4b61555e2dbda61",
-        "media_fingerprint": "0dbe3553b882affb9732669ede01825c263a05b57d5edf7cbff995095b4b7b94",
-        "text": "گوگل، مدل Gemini 4 Carbon را معرفی کرد، که پیشرفته‌ترین مدل هوش مصنوعی این شرکت تا به امروز است.\n@Jaleb",
-        "original_username": "jaleb",
-        "original_text": "گوگل، مدل Gemini 4 Carbon را معرفی کرد، که پیشرفته‌ترین مدل هوش مصنوعی این شرکت تا به امروز است.\n@Jaleb",
-        "original_link": "https://t.me/Jaleb/53296",
-        "post_id": 53296,
-        "message_id": 15122,
-        "message_kind": "caption",
-        "sources": [
-          "jaleb"
-        ],
-        "created_at": "2026-10-28T21:09:49.637895+00:00"
-      },
-      {
-        "fingerprint": "6d882511053bd64ed2f54e27200c941b67cea1eb1739fa9e682a56552b87bfb7",
-        "media_fingerprint": "d7be43bb18fab306e2715dfc63942ce8481e0966aae029bda9ff5897017907e2",
-        "text": "تا بحث هالووین داغه خواستم بگم من فوبیا ممه دخترا رو دارم\n@Dashagh",
-        "original_username": "dashagh",
-        "original_text": "تا بحث هالووین داغه خواستم بگم من فوبیا ممه دخترا رو دارم\n@Dashagh",
-        "original_link": "https://t.me/dashagh/48880",
-        "post_id": 48880,
-        "message_id": 15123,
-        "message_kind": "caption",
-        "sources": [
-          "dashagh"
-        ],
-        "created_at": "2026-10-28T21:10:03.767410+00:00"
-      },
-      {
-        "fingerprint": "d92a22f53ae8b271d65f24db8315d2996980918c0aca5b67bf5b55490dfc02dc",
-        "media_fingerprint": "30314fc8cfa821453759ec9eacf8fa437a835d207540cda565d12d0959047d5a",
-        "text": "چطور از سرطان پیشگیری کنیم؟\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_username": "majalepezeshki",
-        "original_text": "چطور از سرطان پیشگیری کنیم؟\n#سلامت\n#پزشکی\n@MajalePezeshki",
-        "original_link": "https://t.me/MajalePezeshki/38891",
-        "post_id": 38891,
-        "message_id": 15126,
-        "message_kind": "caption",
-        "sources": [
-          "majalepezeshki"
-        ],
-        "created_at": "2026-10-28T21:10:27.760628+00:00"
-      },
-      {
-        "fingerprint": "9391bdd6f0c56a20ce594820b42f98e4cf72b7abfd665a532069e59683fbf135",
-        "media_fingerprint": "6e56ed0e5cfd4c40eeb12ec5fa68f649fc97f560da5bceb37488a99b9b526208",
-        "text": "قبل انقلاب بازیگرای سینما اینطوری عکس میگرفتن.\n@Dashagh",
-        "original_username": "dashagh",
-        "original_text": "قبل انقلاب بازیگرای سینما اینطوری عکس میگرفتن.\n@Dashagh",
-        "original_link": "https://t.me/dashagh/48883",
-        "post_id": 48883,
-        "message_id": 15127,
-        "message_kind": "caption",
-        "sources": [
-          "dashagh"
-        ],
-        "created_at": "2026-10-28T21:10:37.553709+00:00"
-      },
-      {
-        "fingerprint": "0deb8c41038043e7b13f59ddb5cc81edb14fb4e2bc5151c3d74f39fe825ec69b",
-        "media_fingerprint": "a3583fce8bc2694c3191b5112d8e54c0e230bbdbd5d2a831aef175bafff29e41",
-        "text": "بعضیا این همه ممه رو از کجا میارن ؟!\nکاش میرفتم لیزر یاد میگرفتم کاششش\n@FuckNewsi",
-        "original_username": "fucknewsi",
-        "original_text": "بعضیا این همه ممه رو از کجا میارن ؟!\nکاش میرفتم لیزر یاد میگرفتم کاششش\n@FuckNewsi",
-        "original_link": "https://t.me/FuckNewsi/14062",
-        "post_id": 14062,
-        "message_id": 15129,
-        "message_kind": "caption",
-        "sources": [
-          "fucknewsi"
-        ],
-        "created_at": "2026-10-28T21:10:43.957695+00:00"
-      },
-      {
-        "fingerprint": "0c1f22574e9c7083a8c8d7c9d747b0ed9b94d10953c199caab01f888b8007671",
-        "media_fingerprint": "20907bc8ac39669ded1d8bae2040614ded2ece1cafcc0b7184c475739f7c8aad",
-        "text": "توییت وایرال شده در توئیتر:\n۵۰۰ میلیون اروپایی انتظار دارند ۳۰۰ میلیون آمریکایی از آن‌ها در برابر ۱۲۰ میلیون روس محافظت کنند؛ روس‌هایی که حتی نمی‌توانند ۴۰ میلیون اوکراینی را شکست دهند؛ درحالی‌که متوجه نیستند، خودشان مورد هجوم ۲ میلیارد مسلمان قرار گرفته‌اند؛ ۲ میلیارد مسلمانانی که می‌گویند ۹ میلیون اسرائیلی آن‌ها را مورد آزار و ستم قرار می‌دهند!\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "توییت وایرال شده در توئیتر:\n۵۰۰ میلیون اروپایی انتظار دارند ۳۰۰ میلیون آمریکایی از آن‌ها در برابر ۱۲۰ میلیون روس محافظت کنند؛ روس‌هایی که حتی نمی‌توانند ۴۰ میلیون اوکراینی را شکست دهند؛ درحالی‌که متوجه نیستند، خودشان مورد هجوم ۲ میلیارد مسلمان قرار گرفته‌اند؛ ۲ میلیارد مسلمانانی که می‌گویند ۹ میلیون اسرائیلی آن‌ها را مورد آزار و ستم قرار می‌دهند!\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/164070",
-        "post_id": 164070,
-        "message_id": 15130,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel",
-          "jaleb"
-        ],
-        "created_at": "2026-10-28T21:42:03.980406+00:00"
-      },
-      {
-        "fingerprint": "5c879008a94cc514845775f6296ca71f1d45093857a0617804dade7832187c2c",
-        "media_fingerprint": "164d21dca2106d4b698bb1a5d39ce07fe650de179f2929fdce11497ea4ead3a5",
-        "text": "🙂\nحق ترین توییتی که تاحالا خوندم :\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
-        "original_username": "boob_sfangi",
-        "original_text": "🙂\nحق ترین توییتی که تاحالا خوندم :\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
-        "original_link": "https://t.me/boob_sfangi/2979",
-        "post_id": 2979,
-        "message_id": 15131,
-        "message_kind": "caption",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-28T21:42:08.902553+00:00"
-      },
-      {
-        "fingerprint": "e875b327303bb976117c1ffa2398a81eabee9575bc3df6370a531e98cf35c306",
-        "media_fingerprint": "4b7b20581f9ea0fa74196e1b4dd5804ec2ee6963402e0ce1f41b847919a5b750",
-        "text": "آرایشگاه زنونه VS آرایشگاه مردونه\n🤣\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "آرایشگاه زنونه VS آرایشگاه مردونه\n🤣\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/164074",
-        "post_id": 164074,
-        "message_id": 15132,
-        "message_kind": "caption",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-28T21:42:14.941825+00:00"
-      },
-      {
-        "fingerprint": "2f0f183cbf0b8c93da3962e51110ee398aafd24c9c9c213f0ef8eb247f1a2555",
-        "media_fingerprint": "6b46ba9fbdcc2066a9bedf02dae093a9e57e5b119c0eb16c3d88a8419fb2dd89",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26819",
-        "post_id": 26819,
-        "message_id": 15133,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-28T21:42:19.645298+00:00"
-      },
-      {
-        "fingerprint": "f62c7fbf92ba15d76e07237c999132bd1e6b568e5dbd0f0c16efcae10e66197e",
-        "media_fingerprint": "7e3c3f6a3533fddf40bdc354600e6b16977767025825bcfc9eba8da422e521aa",
-        "text": "🔴\nنتانیاهو با انتشار این متن تو ایکس، مدعی شد که حزب اعراب تو انتخابات تقلب کردن:\nانتخابات توسط احزاب عربی که حامی تروریسم و ​​نابودی دولت یهود هستن، به سرقت رفته؛\nاین اقدام از طریق ارتکاب جرایم سنگینی مثل پرداخت رشوه، تهدید، اعمال خشونت، جعل اسناد و استفاده از نرم‌افزارهای ممنوعه برای بسیج رأی‌دهندگان صورت گرفته.\nحزب لیکود صدها مورد مدرک رو به کمیته مرکزی انتخابات ارائه داده؛\nاین موارد شامل هزاران پاکت حاوی پول نقد و برگه‌های رأی حزب، تهدید و خشونت علیه اعضای شعب اخذ رأی، رأی دادنِ چندباره در پشت پرده، استفاده از هویت‌های دوگانه برای رأی دادن، مغایرت میان تعداد پاکت‌ها و تعداد رأی‌دهندگان، استفاده از نرم‌افزارهای ممنوعه برای بسیج رأی‌دهندگان و موارد دیگه‌اس.\n‌\n@FuckNewsi",
-        "original_username": "fucknewsi",
-        "original_text": "🔴\nنتانیاهو با انتشار این متن تو ایکس، مدعی شد که حزب اعراب تو انتخابات تقلب کردن:\nانتخابات توسط احزاب عربی که حامی تروریسم و ​​نابودی دولت یهود هستن، به سرقت رفته؛\nاین اقدام از طریق ارتکاب جرایم سنگینی مثل پرداخت رشوه، تهدید، اعمال خشونت، جعل اسناد و استفاده از نرم‌افزارهای ممنوعه برای بسیج رأی‌دهندگان صورت گرفته.\nحزب لیکود صدها مورد مدرک رو به کمیته مرکزی انتخابات ارائه داده؛\nاین موارد شامل هزاران پاکت حاوی پول نقد و برگه‌های رأی حزب، تهدید و خشونت علیه اعضای شعب اخذ رأی، رأی دادنِ چندباره در پشت پرده، استفاده از هویت‌های دوگانه برای رأی دادن، مغایرت میان تعداد پاکت‌ها و تعداد رأی‌دهندگان، استفاده از نرم‌افزارهای ممنوعه برای بسیج رأی‌دهندگان و موارد دیگه‌اس.\n‌\n@FuckNewsi",
-        "original_link": "https://t.me/FuckNewsi/14063",
-        "post_id": 14063,
-        "message_id": 15134,
-        "message_kind": "caption",
-        "sources": [
-          "fucknewsi"
-        ],
-        "created_at": "2026-10-28T21:42:24.500402+00:00"
-      },
-      {
-        "fingerprint": "4ca225b5d5ed0dafa60256ea3261d58b3ae7d1cef2bdc71f1e5c1635ef13a821",
-        "media_fingerprint": "17aa9ce01f97730ae14fde5164dc6b700f3dee93ab28d9c919badce53b20c925",
-        "text": "دوبله امپراتور در افسانه جومونگ و موپالمو\n😂\n😂\n😂\n😂\n😂\n😂\n@Dashagh",
-        "original_username": "dashagh",
-        "original_text": "دوبله امپراتور در افسانه جومونگ و موپالمو\n😂\n😂\n😂\n😂\n😂\n😂\n@Dashagh",
-        "original_link": "https://t.me/dashagh/48886",
-        "post_id": 48886,
-        "message_id": 15135,
-        "message_kind": "caption",
-        "sources": [
-          "dashagh"
-        ],
-        "created_at": "2026-10-28T21:42:31.586503+00:00"
-      },
-      {
-        "fingerprint": "f6ab42548f69a9c2d211b92b6fdc79e618cf4c53ae168a3cc7ab8a11c4cb125f",
-        "media_fingerprint": "1c986265272d515594f52f0403794e55c81a033154533e4d19649931f71b72f5",
-        "text": "🔴\nآخر شبی این اومد جلو چشمم و تا ابد لعنت بر اولی (olly) و خاندانش...\n🎬\nGame Of Thrones\n📷\n|\n@ShakhMovie",
-        "original_username": "shakhmovie",
-        "original_text": "🔴\nآخر شبی این اومد جلو چشمم و تا ابد لعنت بر اولی (olly) و خاندانش...\n🎬\nGame Of Thrones\n📷\n|\n@ShakhMovie",
-        "original_link": "https://t.me/Shakhmovie/4300",
-        "post_id": 4300,
-        "message_id": 15136,
-        "message_kind": "caption",
-        "sources": [
-          "shakhmovie"
-        ],
-        "created_at": "2026-10-28T22:37:52.970280+00:00"
-      },
       {
         "fingerprint": "7e0ffba4f1140e7cdfc249d2385524fbe13778bfc09e82d192193cbe9b516770",
         "media_fingerprint": "",
@@ -32235,7 +32022,8 @@
         "message_id": 15450,
         "message_kind": "caption",
         "sources": [
-          "drtel"
+          "drtel",
+          "gizmiztel"
         ],
         "created_at": "2026-10-29T20:19:51.140809+00:00"
       },
@@ -32299,6 +32087,231 @@
           "peach_tweet"
         ],
         "created_at": "2026-10-29T20:20:20.649527+00:00"
+      },
+      {
+        "fingerprint": "49843949141d3342f96171ef9dc4ea39639ffe53f94708704876970475a579b0",
+        "media_fingerprint": "e15ec828588d5539286098d3141d032b5b78a4c12bc9457aa74f1410fed6af87",
+        "text": "​\nآیا میدونستید اسپرم موش تقریباً دو برابر اسپرم فیل آسیاییه\n😂\n😂\nطول اسپرم موش: حدود ۱۲۰ میکرومتر\nطول اسپرم فیل: حدود ۶۰ میکرومتر\nدلیلش اینه که توی بعضی گونه‌ها، تعداد اسپرم‌ها از اندازه‌شون مهم‌تره:))\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "​\nآیا میدونستید اسپرم موش تقریباً دو برابر اسپرم فیل آسیاییه\n😂\n😂\nطول اسپرم موش: حدود ۱۲۰ میکرومتر\nطول اسپرم فیل: حدود ۶۰ میکرومتر\nدلیلش اینه که توی بعضی گونه‌ها، تعداد اسپرم‌ها از اندازه‌شون مهم‌تره:))\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48913",
+        "post_id": 48913,
+        "message_id": 15457,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-29T21:12:48.789547+00:00"
+      },
+      {
+        "fingerprint": "cfaf8fec98a4445c69ad45df3cda7193ebe5f372f7e37ad9e435e35577206463",
+        "media_fingerprint": "879305e0d2faf2701374e745421d205a2f63cd6ecc68758baa7555ce73cf0741",
+        "text": "افزودن عصاره یا پودر رزماری هنگام سرخ کردن، اکسیداسیون روغن‌ها را به طور قابل‌توجهی کاهش می‌دهد و می‌تواند تشکیل ترکیبات مضر را تا ۷۴ درصد کم کند\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "افزودن عصاره یا پودر رزماری هنگام سرخ کردن، اکسیداسیون روغن‌ها را به طور قابل‌توجهی کاهش می‌دهد و می‌تواند تشکیل ترکیبات مضر را تا ۷۴ درصد کم کند\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/164122",
+        "post_id": 164122,
+        "message_id": 15458,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-29T21:12:54.342352+00:00"
+      },
+      {
+        "fingerprint": "30856aac625fd13326d894ae0c590b97e519dea22ea991ff516cb54d6e976653",
+        "media_fingerprint": "5128e9f76d6b4a333ab2327b697fb8933151e84179b4bafe5d59f1142ce46d83",
+        "text": "ویدئوی وابرال شده ازلحطه انفجار زودپز دریک مغازه\n‼️\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "ویدئوی وابرال شده ازلحطه انفجار زودپز دریک مغازه\n‼️\n@irWonders",
+        "original_link": "https://t.me/irwonders/59254",
+        "post_id": 59254,
+        "message_id": 15459,
+        "message_kind": "text",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-29T21:12:58.510180+00:00"
+      },
+      {
+        "fingerprint": "9703f0ef2602ac9769a0b220d83ca9cc8ba37dafc61ebbbd884ded7eb5256898",
+        "media_fingerprint": "a2cd53c4ce742a012431d14fcaad736160955c2be24762d1610ed9df63a584c5",
+        "text": "مهاجرت به آلمان به سبک نادیا\n🇩🇪\n⏳\nاقامت در کمتر از ۴ ماه\n✅\nبدون نیاز به مدرک زبان\n✅\nبدون نیاز به مدرک تحصیلی\nمسیرهای پیشنهادی:\n🔹\nبلوکارت آلمان - بدون شرط حضور\n🔹\nآوسبیلدونگ؛ مسیر آموزش حرفه‌ای و ورود به بازار کار\n🔹\nمهاجرت کاری با پیشنهاد شغلی\n🎁\nتخفیف ویژه رزرو وقت مشاوره:\n🔥\n۴۰٪ تخفیف برای ۱۰ نفر اول\n✅\n۱۰٪ تخفیف تا پایان سال میلادی\n📩\nبرای بررسی شرایطت:\n🌐\nnadiaglobal.co\nجهت تعیین وقت مشاوره\n👇\n@NadiaGlobalBot",
+        "original_username": "media_aramesh",
+        "original_text": "مهاجرت به آلمان به سبک نادیا\n🇩🇪\n⏳\nاقامت در کمتر از ۴ ماه\n✅\nبدون نیاز به مدرک زبان\n✅\nبدون نیاز به مدرک تحصیلی\nمسیرهای پیشنهادی:\n🔹\nبلوکارت آلمان - بدون شرط حضور\n🔹\nآوسبیلدونگ؛ مسیر آموزش حرفه‌ای و ورود به بازار کار\n🔹\nمهاجرت کاری با پیشنهاد شغلی\n🎁\nتخفیف ویژه رزرو وقت مشاوره:\n🔥\n۴۰٪ تخفیف برای ۱۰ نفر اول\n✅\n۱۰٪ تخفیف تا پایان سال میلادی\n📩\nبرای بررسی شرایطت:\n🌐\nnadiaglobal.co\nجهت تعیین وقت مشاوره\n👇\n@NadiaGlobalBot",
+        "original_link": "https://t.me/media_aramesh/113112",
+        "post_id": 113112,
+        "message_id": 15460,
+        "message_kind": "caption",
+        "sources": [
+          "media_aramesh"
+        ],
+        "created_at": "2026-10-29T21:13:03.160756+00:00"
+      },
+      {
+        "fingerprint": "d758156736d5ecfdccfdd572bae628d55adbedf26e88398f96b3aad89ca2c25f",
+        "media_fingerprint": "",
+        "text": "🔴\nطبق گزارشات؛\nچند دقیقه‌ای‌ هست که از\nقشم\nیسری صدای تَق و توق میاد.\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nطبق گزارشات؛\nچند دقیقه‌ای‌ هست که از\nقشم\nیسری صدای تَق و توق میاد.\n@DrTeL",
+        "original_link": "https://t.me/drtel/72002",
+        "post_id": 72002,
+        "message_id": 15461,
+        "message_kind": "text",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-29T21:13:06.584791+00:00"
+      },
+      {
+        "fingerprint": "ed51002178d2b40e46cc5951a2f4373b90fdc5c45f0868894db958417e2c27fc",
+        "media_fingerprint": "",
+        "text": "روزی خواهد رسید که تمام بدهی هایم را پرداخت کرده ام جز یکی من تا ابد بدهکار و مدیون تو خواهم ماند مادر\n🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "روزی خواهد رسید که تمام بدهی هایم را پرداخت کرده ام جز یکی من تا ابد بدهکار و مدیون تو خواهم ماند مادر\n🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/675",
+        "post_id": 675,
+        "message_id": 15462,
+        "message_kind": "text",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-29T21:13:10.098322+00:00"
+      },
+      {
+        "fingerprint": "fdaa5850db46035ab87da689682b19a153838c7d5cbb6e99427983ea4542a83f",
+        "media_fingerprint": "",
+        "text": "🔹\nشنیده شدن صدای انفجار حوالی تنگه هرمز\n---------------------‐------\n♦️\nآخرین خبر فارس و شیراز\n●  تلگرام:\nt.me/Fars_today\n●  بله:\nble.ir/fars_online",
+        "original_username": "fars_today",
+        "original_text": "🔹\nشنیده شدن صدای انفجار حوالی تنگه هرمز\n---------------------‐------\n♦️\nآخرین خبر فارس و شیراز\n●  تلگرام:\nt.me/Fars_today\n●  بله:\nble.ir/fars_online",
+        "original_link": "https://t.me/Fars_today/132380",
+        "post_id": 132380,
+        "message_id": 15463,
+        "message_kind": "text",
+        "sources": [
+          "fars_today"
+        ],
+        "created_at": "2026-10-29T21:13:13.639031+00:00"
+      },
+      {
+        "fingerprint": "5edc25a08ab03e7931fd83c65a63f31311b6f65efad93bf27738780462e7b155",
+        "media_fingerprint": "1895d3b464752f907e5b363e763b310454fed68bf203dbb8e573a2796a643b57",
+        "text": "فقط با صدای بابای بچه های مردم گریه نکرده بودم\n🥲\nقشنگتر از همه اینا دوستاشون بودن که بغل میکردن\n😍\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "فقط با صدای بابای بچه های مردم گریه نکرده بودم\n🥲\nقشنگتر از همه اینا دوستاشون بودن که بغل میکردن\n😍\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/164124",
+        "post_id": 164124,
+        "message_id": 15464,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-29T21:13:20.324820+00:00"
+      },
+      {
+        "fingerprint": "a36968537b8850c6a52f0017274d278a623e98ed590f8875dc7041e4847462d2",
+        "media_fingerprint": "f9328a4c15b58049679b70dfb5dfbd524fd6bcc603b6df7ad077434d9056a3d9",
+        "text": "تفاوت آنفولانزا و سرماخوردگی!\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "تفاوت آنفولانزا و سرماخوردگی!\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38907",
+        "post_id": 38907,
+        "message_id": 15465,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-29T21:13:25.354949+00:00"
+      },
+      {
+        "fingerprint": "1d8b1b6e8d269187d980a614df8ad96ae78204b325a899fef6042c1670c917c3",
+        "media_fingerprint": "ce817bdf2198e8af24741b038e178059b26965a38a6eb0fbfa49ff0440358fa9",
+        "text": "🔴\nگویا دقایقی قبل ایران\n🇮🇷\nیه موشک سمت یه کشتی تو تنگه شلیک کرده، بعد چند دقیقه آمریکا\n🇺🇸\nهمونجا رو با پهپاد زده و این سر و صداها تو جزیزه قشم بخاطر اینا بوده\n@FuckNewsi",
+        "original_username": "fucknewsi",
+        "original_text": "🔴\nگویا دقایقی قبل ایران\n🇮🇷\nیه موشک سمت یه کشتی تو تنگه شلیک کرده، بعد چند دقیقه آمریکا\n🇺🇸\nهمونجا رو با پهپاد زده و این سر و صداها تو جزیزه قشم بخاطر اینا بوده\n@FuckNewsi",
+        "original_link": "https://t.me/FuckNewsi/14107",
+        "post_id": 14107,
+        "message_id": 15466,
+        "message_kind": "caption",
+        "sources": [
+          "fucknewsi"
+        ],
+        "created_at": "2026-10-29T21:13:34.824511+00:00"
+      },
+      {
+        "fingerprint": "17c2ebc2fe1e63b07a29edc709bae9d74b21eeba1d944ae5de7b1e6058493876",
+        "media_fingerprint": "1293f45505a4a4b941629b7f896b1e48993385b041e361e0bda92dcc3fb66d5c",
+        "text": "🔴\nاینم در نوع خودش جالبه که اسپرم موش خانگی تقریباً دو برابر اسپرم فیل آسیاییه!\nطول اسپرم موش حدود ۱۲۰ میکرومتره، اما اسپرم فیل فقط حدود ۶۰ میکرومتره.\nچرا؟\nچون در بعضی گونه‌ها، تعداد اسپرم‌ها مهم‌تر از اندازه هر اسپرمه!\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "🔴\nاینم در نوع خودش جالبه که اسپرم موش خانگی تقریباً دو برابر اسپرم فیل آسیاییه!\nطول اسپرم موش حدود ۱۲۰ میکرومتره، اما اسپرم فیل فقط حدود ۶۰ میکرومتره.\nچرا؟\nچون در بعضی گونه‌ها، تعداد اسپرم‌ها مهم‌تر از اندازه هر اسپرمه!\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/53318",
+        "post_id": 53318,
+        "message_id": 15468,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-29T21:13:50.125583+00:00"
+      },
+      {
+        "fingerprint": "4731aabff410832bcdd34f2181523adfd973bbe336516e9240d2085cfa58cd3c",
+        "media_fingerprint": "92a24df744f4580a4cc542454143c0dbbcc855c4d66f216cdeb804da10ac0ae1",
+        "text": "🔴\nکامنت یک دانش آموز غیور ایرانی تو لایو امروز نتانیاهو :\nببین وضعیت به کجا رسیده که دانش‌آموزا هم منتظرن نتانیاهو بزنه تا تعطیل بشن\n😂\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "🔴\nکامنت یک دانش آموز غیور ایرانی تو لایو امروز نتانیاهو :\nببین وضعیت به کجا رسیده که دانش‌آموزا هم منتظرن نتانیاهو بزنه تا تعطیل بشن\n😂\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/53322",
+        "post_id": 53322,
+        "message_id": 15469,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-29T21:13:54.861114+00:00"
+      },
+      {
+        "fingerprint": "f255d749caa8c4f7235738ab7a937f120d89546d47aeb3925e2edaabdae953dd",
+        "media_fingerprint": "cb97559d58ef357ed905fa8cc797b6073a8a5055d6546a90b5638f607d8a974c",
+        "text": "بفرما شام اقا",
+        "original_username": "drtel",
+        "original_text": "بفرما شام اقا",
+        "original_link": "https://t.me/drtel/72006",
+        "post_id": 72006,
+        "message_id": 15470,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-29T21:13:59.736380+00:00"
+      },
+      {
+        "fingerprint": "f342a8ff7c24aa81b17c880c60c13b5c14741a38f9bbf69ea3b8a23a5d0557f2",
+        "media_fingerprint": "",
+        "text": "داداش حضرت عباسی قبل خوردن یه بسم الله بگو یه وقت سمتت نیام",
+        "original_username": "drtel",
+        "original_text": "داداش حضرت عباسی قبل خوردن یه بسم الله بگو یه وقت سمتت نیام",
+        "original_link": "https://t.me/drtel/72007",
+        "post_id": 72007,
+        "message_id": 15471,
+        "message_kind": "text",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-29T21:14:03.185140+00:00"
+      },
+      {
+        "fingerprint": "c378d7a19c40fbe2ef59e15c6b61f884b80b7172c2c6070aec90cd85864f3c81",
+        "media_fingerprint": "",
+        "text": "حق ترین ویدیو برای همسایه ای که پنج شنبه شب بیخوابمون میکنه(این مال کیهههههه)\n😂\n😂\n😂\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "حق ترین ویدیو برای همسایه ای که پنج شنبه شب بیخوابمون میکنه(این مال کیهههههه)\n😂\n😂\n😂\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48914",
+        "post_id": 48914,
+        "message_id": 15472,
+        "message_kind": "text",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-29T21:14:06.563045+00:00"
       }
     ]
   }
