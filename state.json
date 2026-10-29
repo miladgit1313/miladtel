@@ -1,13 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 144665,
+      "last_id": 144670,
       "processed_ids": [
-        143314,
-        143315,
-        143316,
-        143317,
-        143318,
         143320,
         143321,
         143322,
@@ -1002,16 +997,19 @@
         144662,
         144663,
         144664,
-        144665
+        144665,
+        144666,
+        144667,
+        144668,
+        144669,
+        144670
       ],
-      "sent_count": 1347,
+      "sent_count": 1350,
       "failed": {}
     },
     "total_fut": {
-      "last_id": 238910,
+      "last_id": 238912,
       "processed_ids": [
-        237665,
-        237666,
         237667,
         237668,
         237669,
@@ -2009,16 +2007,16 @@
         238907,
         238908,
         238909,
-        238910
+        238910,
+        238911,
+        238912
       ],
       "sent_count": 197,
       "failed": {}
     },
     "footballvision2": {
-      "last_id": 173295,
+      "last_id": 173297,
       "processed_ids": [
-        171353,
-        171354,
         171355,
         171356,
         171357,
@@ -3016,7 +3014,9 @@
         173292,
         173293,
         173294,
-        173295
+        173295,
+        173296,
+        173297
       ],
       "sent_count": 232,
       "failed": {}
@@ -5373,7 +5373,7 @@
       "failed": {}
     },
     "coffeenetmanager": {
-      "last_id": 52037,
+      "last_id": 52038,
       "processed_ids": [
         51537,
         51538,
@@ -5831,13 +5831,14 @@
         52034,
         52035,
         52036,
-        52037
+        52037,
+        52038
       ],
       "sent_count": 132,
       "failed": {}
     },
     "roidbest": {
-      "last_id": 22017,
+      "last_id": 22019,
       "processed_ids": [
         21613,
         21614,
@@ -6208,18 +6209,16 @@
         22013,
         22015,
         22016,
-        22017
+        22017,
+        22018,
+        22019
       ],
-      "sent_count": 209,
+      "sent_count": 210,
       "failed": {}
     },
     "akhbar_cafenet": {
-      "last_id": 23797,
+      "last_id": 23801,
       "processed_ids": [
-        22669,
-        22670,
-        22671,
-        22672,
         22673,
         22674,
         22675,
@@ -7215,9 +7214,13 @@
         23794,
         23795,
         23796,
-        23797
+        23797,
+        23798,
+        23799,
+        23800,
+        23801
       ],
-      "sent_count": 604,
+      "sent_count": 606,
       "failed": {}
     },
     "comentiat": {
@@ -8006,7 +8009,7 @@
       "failed": {}
     },
     "majalepezeshki": {
-      "last_id": 38891,
+      "last_id": 38892,
       "processed_ids": [
         38432,
         38433,
@@ -8455,20 +8458,15 @@
         38888,
         38889,
         38890,
-        38891
+        38891,
+        38892
       ],
-      "sent_count": 260,
+      "sent_count": 261,
       "failed": {}
     },
     "gizmiztel": {
-      "last_id": 164074,
+      "last_id": 164081,
       "processed_ids": [
-        162797,
-        162798,
-        162799,
-        162800,
-        162801,
-        162802,
         162803,
         162804,
         162805,
@@ -9462,13 +9460,19 @@
         164071,
         164072,
         164073,
-        164074
+        164074,
+        164075,
+        164076,
+        164077,
+        164078,
+        164080,
+        164081
       ],
-      "sent_count": 1225,
+      "sent_count": 1230,
       "failed": {}
     },
     "dr_salamatx": {
-      "last_id": 55486,
+      "last_id": 55488,
       "processed_ids": [
         55270,
         55271,
@@ -9681,13 +9685,15 @@
         55483,
         55484,
         55485,
-        55486
+        55486,
+        55487,
+        55488
       ],
-      "sent_count": 127,
+      "sent_count": 128,
       "failed": {}
     },
     "jaleb": {
-      "last_id": 53297,
+      "last_id": 53300,
       "processed_ids": [
         52261,
         52262,
@@ -10573,16 +10579,17 @@
         53294,
         53295,
         53296,
-        53297
+        53297,
+        53298,
+        53299,
+        53300
       ],
-      "sent_count": 436,
+      "sent_count": 437,
       "failed": {}
     },
     "ajayebe_jahann": {
-      "last_id": 160353,
+      "last_id": 160355,
       "processed_ids": [
-        159278,
-        159279,
         159280,
         159281,
         159282,
@@ -11580,9 +11587,11 @@
         160350,
         160351,
         160352,
-        160353
+        160353,
+        160354,
+        160355
       ],
-      "sent_count": 498,
+      "sent_count": 500,
       "failed": {}
     },
     "etelaate_omoomi": {
@@ -18683,7 +18692,7 @@
       "failed": {}
     },
     "cafenet_zarjooyi": {
-      "last_id": 2111,
+      "last_id": 2112,
       "processed_ids": [
         2082,
         2083,
@@ -18710,13 +18719,14 @@
         2108,
         2109,
         2110,
-        2111
+        2111,
+        2112
       ],
       "sent_count": 5,
       "failed": {}
     },
     "niazcom_ir": {
-      "last_id": 61656,
+      "last_id": 61657,
       "processed_ids": [
         61580,
         61581,
@@ -18791,7 +18801,8 @@
         61653,
         61654,
         61655,
-        61656
+        61656,
+        61657
       ],
       "sent_count": 32,
       "failed": {}
@@ -18843,10 +18854,8 @@
       "failed": {}
     },
     "irwonders": {
-      "last_id": 59216,
+      "last_id": 59219,
       "processed_ids": [
-        58078,
-        58079,
         58080,
         58081,
         58082,
@@ -19844,9 +19853,11 @@
         59212,
         59214,
         59215,
-        59216
+        59216,
+        59217,
+        59219
       ],
-      "sent_count": 658,
+      "sent_count": 659,
       "failed": {}
     },
     "razcom": {
@@ -21546,7 +21557,7 @@
       "failed": {}
     },
     "khandehabadd": {
-      "last_id": 307408,
+      "last_id": 307410,
       "processed_ids": [
         306563,
         306564,
@@ -22353,9 +22364,11 @@
         307405,
         307406,
         307407,
-        307408
+        307408,
+        307409,
+        307410
       ],
-      "sent_count": 352,
+      "sent_count": 354,
       "failed": {}
     },
     "ravan6enasii": {
@@ -22782,7 +22795,7 @@
       "failed": {}
     },
     "yejoorayi": {
-      "last_id": 669,
+      "last_id": 670,
       "processed_ids": [
         426,
         427,
@@ -23009,9 +23022,10 @@
         666,
         667,
         668,
-        669
+        669,
+        670
       ],
-      "sent_count": 208,
+      "sent_count": 209,
       "failed": {}
     },
     "onlinecofe_ir": {
@@ -24547,7 +24561,7 @@
       "failed": {}
     },
     "persiana_pluss": {
-      "last_id": 7371,
+      "last_id": 7375,
       "processed_ids": [
         6113,
         6114,
@@ -25536,7 +25550,11 @@
         7367,
         7368,
         7369,
-        7371
+        7371,
+        7372,
+        7373,
+        7374,
+        7375
       ],
       "sent_count": 24,
       "failed": {}
@@ -25729,7 +25747,7 @@
       "failed": {}
     },
     "dashagh": {
-      "last_id": 48887,
+      "last_id": 48888,
       "processed_ids": [
         48313,
         48314,
@@ -26104,9 +26122,10 @@
         48883,
         48885,
         48886,
-        48887
+        48887,
+        48888
       ],
-      "sent_count": 261,
+      "sent_count": 262,
       "failed": {}
     },
     "apkclub": {
@@ -26434,7 +26453,7 @@
       "failed": {}
     },
     "boob_sfangi": {
-      "last_id": 2979,
+      "last_id": 2980,
       "processed_ids": [
         2587,
         2590,
@@ -26744,9 +26763,10 @@
         2976,
         2977,
         2978,
-        2979
+        2979,
+        2980
       ],
-      "sent_count": 198,
+      "sent_count": 199,
       "failed": {}
     },
     "fucknewsi": {
@@ -27429,7 +27449,7 @@
       "failed": {}
     },
     "media_aramesh": {
-      "last_id": 113102,
+      "last_id": 113103,
       "processed_ids": [
         113071,
         113072,
@@ -27457,362 +27477,15 @@
         113099,
         113100,
         113101,
-        113102
+        113102,
+        113103
       ],
-      "sent_count": 20,
+      "sent_count": 21,
       "failed": {}
     }
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "3bc93e677609c872c0d989117a30983d8b5368314b5bd3a745da726c71187376",
-        "media_fingerprint": "090474870d30a9e9a2d5d2fdd7504ff01e19d386b3eac3392736bc6a0a146750",
-        "text": "✅\nالعین vs تراکتور:\nمجموع کمتر از ۳.۵ گل (زیر ۳.۵)\n➡️\nتیکت سبز شد\n✅\nالاهلی جده vs الغرافه:\nبرد الاهلی\n➡️\nنشست تو گل\n💎\nضریب کل:\n۱.۹۱۱\nنوش جون اونایی که دنبال کردن و زدن به جیب\n💸\nفرم‌های بعدی توی راهه… حواست به کانال باشه\n🚀\n#𝐓𝐈𝐏𝐒𝐓𝐄𝐑",
-        "original_username": "peach_tweet",
-        "original_text": "✅\nالعین vs تراکتور:\nمجموع کمتر از ۳.۵ گل (زیر ۳.۵)\n➡️\nتیکت سبز شد\n✅\nالاهلی جده vs الغرافه:\nبرد الاهلی\n➡️\nنشست تو گل\n💎\nضریب کل:\n۱.۹۱۱\nنوش جون اونایی که دنبال کردن و زدن به جیب\n💸\nفرم‌های بعدی توی راهه… حواست به کانال باشه\n🚀\n#𝐓𝐈𝐏𝐒𝐓𝐄𝐑",
-        "original_link": "https://t.me/peach_tweet/4726",
-        "post_id": 4726,
-        "message_id": 14836,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet",
-          "comentiat"
-        ],
-        "created_at": "2026-10-27T21:23:17.985740+00:00"
-      },
-      {
-        "fingerprint": "8be0587956e263d99d25b5b83f63b00c0289aca14112fc1c08e35d1512962b4c",
-        "media_fingerprint": "94808e3eeb172fea97b063bad55af2d48fa83786615f05fec8a18bfea5d5a100",
-        "text": "توپر پسندا این پست مخصوص شماس\n🤤\n🔥\n@peach_tweet",
-        "original_username": "peach_tweet",
-        "original_text": "توپر پسندا این پست مخصوص شماس\n🤤\n🔥\n@peach_tweet",
-        "original_link": "https://t.me/peach_tweet/4728",
-        "post_id": 4728,
-        "message_id": 14837,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-27T21:23:25.017248+00:00"
-      },
-      {
-        "fingerprint": "5cf7e8278d38ae6fba39fae90132de6ea50100246903e57ce91f05bfcdf3dcab",
-        "media_fingerprint": "a0aaa013851aead492f8d055a0ce9336fa45e3f210e00a408348de518c7d2cb2",
-        "text": "🔴\nمشارکت تو انتخابات اسرائیل به 74.3 درصد رسید!\nاز بین 7 میلیون و 331 هزار و 981 واجد، حدود 5 میلیون و 449 هزار نفر رأی دادن.\nاین میزان مشارکت، بالاترین آمار مشارکت طی 38 سال گذشته اسرائیله...\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nمشارکت تو انتخابات اسرائیل به 74.3 درصد رسید!\nاز بین 7 میلیون و 331 هزار و 981 واجد، حدود 5 میلیون و 449 هزار نفر رأی دادن.\nاین میزان مشارکت، بالاترین آمار مشارکت طی 38 سال گذشته اسرائیله...\n@DrTeL",
-        "original_link": "https://t.me/drtel/71932",
-        "post_id": 71932,
-        "message_id": 14838,
-        "message_kind": "caption",
-        "sources": [
-          "drtel",
-          "fucknewsi"
-        ],
-        "created_at": "2026-10-27T21:23:33.360442+00:00"
-      },
-      {
-        "fingerprint": "73fa17d60e08c6c2ab04b4afe8e7c525ba95eb8263b6957af2c91938d343ce78",
-        "media_fingerprint": "7378811fd4b7e07def50ea3a0ac25fbfd323242aee76c71c3d30d6456bafdcc3",
-        "text": "مثل اینکه یکی از کرسی هارو پزشکیان به دست آورده",
-        "original_username": "drtel",
-        "original_text": "مثل اینکه یکی از کرسی هارو پزشکیان به دست آورده",
-        "original_link": "https://t.me/drtel/71934",
-        "post_id": 71934,
-        "message_id": 14839,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-27T21:23:38.975780+00:00"
-      },
-      {
-        "fingerprint": "5f4352a38f41dcf4ab15d044ac4b9044165c3c3a43ea0a8fd63908acc97aecd8",
-        "media_fingerprint": "",
-        "text": "برگرفته از واقعیت\n😂\n😂\n😂\n@Dashagh",
-        "original_username": "dashagh",
-        "original_text": "برگرفته از واقعیت\n😂\n😂\n😂\n@Dashagh",
-        "original_link": "https://t.me/dashagh/48822",
-        "post_id": 48822,
-        "message_id": 14840,
-        "message_kind": "text",
-        "sources": [
-          "dashagh"
-        ],
-        "created_at": "2026-10-27T22:17:11.794388+00:00"
-      },
-      {
-        "fingerprint": "0cef7b0ad2e980eee5a9fdccd3e03ffec6e705a004cdcdff27bb5cd815061b63",
-        "media_fingerprint": "b73d7f3e75515b78aa6c0a3d1d65f26aec5046c1369d56e97e26e0ea269acc4b",
-        "text": "🔴\nگادی آیزنکوت، رهبر مخالفان نتانیاهو، بعد از انتشار نتایج اولیه انتخابات اسرائیل:\nمردم اسرائیل با رأی‌هاشون نشون دادن که دیگه نتانیاهو رو نمی‌خوان و به خودش و دولتی که زمان حمله 7 اکتبر سر کار بود، کاملاً بی‌اعتماد شدن.\nاگه این نتایج تأیید بشه، یه پیروزی برای اکثریت میانه‌رو و صهیونیست اسرائیله.\nما خیلی سریع دولت نتانیاهو رو کنار می‌زنیم و دولت جدید تشکیل می‌دیم.\n@FuckNewsi",
-        "original_username": "fucknewsi",
-        "original_text": "🔴\nگادی آیزنکوت، رهبر مخالفان نتانیاهو، بعد از انتشار نتایج اولیه انتخابات اسرائیل:\nمردم اسرائیل با رأی‌هاشون نشون دادن که دیگه نتانیاهو رو نمی‌خوان و به خودش و دولتی که زمان حمله 7 اکتبر سر کار بود، کاملاً بی‌اعتماد شدن.\nاگه این نتایج تأیید بشه، یه پیروزی برای اکثریت میانه‌رو و صهیونیست اسرائیله.\nما خیلی سریع دولت نتانیاهو رو کنار می‌زنیم و دولت جدید تشکیل می‌دیم.\n@FuckNewsi",
-        "original_link": "https://t.me/FuckNewsi/14029",
-        "post_id": 14029,
-        "message_id": 14841,
-        "message_kind": "caption",
-        "sources": [
-          "fucknewsi"
-        ],
-        "created_at": "2026-10-27T22:17:16.990394+00:00"
-      },
-      {
-        "fingerprint": "8054bbe50b816a2e6c21633baf23205b5bf3d5ab2d052109d4b1d9bca71a0536",
-        "media_fingerprint": "2d60341b763ae274d842e8715245af01bd894dff05e504628b61d582243693c5",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26798",
-        "post_id": 26798,
-        "message_id": 14842,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-27T22:17:21.632015+00:00"
-      },
-      {
-        "fingerprint": "48c83f1f2bb737e5b7c222588853f4e50717163d75ef43ad76cc1243005defd2",
-        "media_fingerprint": "4f6da343d9effafd326aa03ea8bef3a45963d30cf0559bc97da673b794ad5fc4",
-        "text": "🔴\nیه دختر خانوم رفته عکس امیرمحمد (خواننده آهنگ سنی نردن گوردوم) رو روی دستش تتو زده\n🔥\n😒\n#Patrick\n💎\nSpongebob | باب اسفنجی",
-        "original_username": "boob_sfangi",
-        "original_text": "🔴\nیه دختر خانوم رفته عکس امیرمحمد (خواننده آهنگ سنی نردن گوردوم) رو روی دستش تتو زده\n🔥\n😒\n#Patrick\n💎\nSpongebob | باب اسفنجی",
-        "original_link": "https://t.me/boob_sfangi/2944",
-        "post_id": 2944,
-        "message_id": 14843,
-        "message_kind": "caption",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-27T22:17:27.973753+00:00"
-      },
-      {
-        "fingerprint": "f9872908680c3ebb332af7125f6d10cb7b69d4482602ac52de5302afc85e715b",
-        "media_fingerprint": "4bc710c3fcf9748f9bc2b5f76be01861a2a8dfcd86d554684e49bd5516bff4cc",
-        "text": "😆\nاین زن و شوهر اهل فلوریدارو دستگیر کردن و جرمشون این بوده که پنجره خونه‌شون رو به باجه فروش مواد تبدیل کرده بودن!\nیعنی فکر کنید پنجره اتاقشو باز میکرده، ملت هم با ماشین میومدن جلو، موادشونو میگرفتن و میرفتن\n😂\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
-        "original_username": "boob_sfangi",
-        "original_text": "😆\nاین زن و شوهر اهل فلوریدارو دستگیر کردن و جرمشون این بوده که پنجره خونه‌شون رو به باجه فروش مواد تبدیل کرده بودن!\nیعنی فکر کنید پنجره اتاقشو باز میکرده، ملت هم با ماشین میومدن جلو، موادشونو میگرفتن و میرفتن\n😂\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
-        "original_link": "https://t.me/boob_sfangi/2948",
-        "post_id": 2948,
-        "message_id": 14844,
-        "message_kind": "caption",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-27T22:17:33.292756+00:00"
-      },
-      {
-        "fingerprint": "0c5a138d796b55be52e1e6352969a17888323508774d1c81414ea79dcd23ec4b",
-        "media_fingerprint": "445c645b0fbfad283544bad3f4d7ee865321c0d1771d2350ec439ee85c3e8d99",
-        "text": "سطح شوخی‌های پسرا\n😂\n😂\n@FuckNewsi",
-        "original_username": "fucknewsi",
-        "original_text": "سطح شوخی‌های پسرا\n😂\n😂\n@FuckNewsi",
-        "original_link": "https://t.me/FuckNewsi/14031",
-        "post_id": 14031,
-        "message_id": 14845,
-        "message_kind": "caption",
-        "sources": [
-          "fucknewsi"
-        ],
-        "created_at": "2026-10-27T22:17:39.332106+00:00"
-      },
-      {
-        "fingerprint": "e0779c112a07ca31090f1f0f05ee2c0111aa739955c900b94434cc6fd76db50d",
-        "media_fingerprint": "d1704cc8b0d41b72b06d4d753c77687115efe8e382efd788c2fc9ec441240587",
-        "text": "از سری پند های زندگی\n😂\n:\n@Dashagh",
-        "original_username": "dashagh",
-        "original_text": "از سری پند های زندگی\n😂\n:\n@Dashagh",
-        "original_link": "https://t.me/dashagh/48823",
-        "post_id": 48823,
-        "message_id": 14846,
-        "message_kind": "caption",
-        "sources": [
-          "dashagh"
-        ],
-        "created_at": "2026-10-27T22:17:44.805730+00:00"
-      },
-      {
-        "fingerprint": "6e4a31961bb18caf4908e5c12d4d915a2ac0daf4e602b748191a55e8fbe06731",
-        "media_fingerprint": "68eb5160ff7621524dec5cf9df564aa223d883219ae1d3ba29ea070fbeff3aee",
-        "text": "🔴\nاز لحظاتی پیش، شمارش آرای انتخابات پارلمان اسرائیل شروع شد..\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nاز لحظاتی پیش، شمارش آرای انتخابات پارلمان اسرائیل شروع شد..\n@DrTeL",
-        "original_link": "https://t.me/drtel/71935",
-        "post_id": 71935,
-        "message_id": 14847,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-27T22:57:36.216594+00:00"
-      },
-      {
-        "fingerprint": "1b9f68cd08763517b9b3205c9dcd6ecc25d08c87c3b0e8e76334e666d5972780",
-        "media_fingerprint": "3cc9c50a6a3a2923c2aae7854036cc7804f460fd96fd4a3b97935ca05c5043ac",
-        "text": "🔴\nجشن و شادی طرفداران حزب دموکرات‌های اسرائیل (از احزاب مخالف نتانیاهو) تو مقر این حزب بعد از اعلام نتایج اولیه انتخابات :  @DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nجشن و شادی طرفداران حزب دموکرات‌های اسرائیل (از احزاب مخالف نتانیاهو) تو مقر این حزب بعد از اعلام نتایج اولیه انتخابات :  @DrTeL",
-        "original_link": "https://t.me/drtel/71937",
-        "post_id": 71937,
-        "message_id": 14848,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-27T22:57:43.901219+00:00"
-      },
-      {
-        "fingerprint": "689a86b6f5097f1e60952b3c57a8f33e11f999313da760c8b0a7b24aa2fb6463",
-        "media_fingerprint": "",
-        "text": "داداش چرا کوردی میرقصن?",
-        "original_username": "drtel",
-        "original_text": "داداش چرا کوردی میرقصن?",
-        "original_link": "https://t.me/drtel/71938",
-        "post_id": 71938,
-        "message_id": 14849,
-        "message_kind": "text",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-27T22:57:47.441747+00:00"
-      },
-      {
-        "fingerprint": "a113fcd6a2269624d7a479f1a4125f11314f6e4ab2a770f2ede05dc23ada7a97",
-        "media_fingerprint": "48f9cccd5a204ed705427f7907ba8350ff9a9eff1853448a073a8c7a477f146c",
-        "text": "🔴\nآماری که شبکه 14 اسرائیل لحظاتی پیش از انتخابات منتشر کرد:\n✅\nحزب راست و ائتلاف نتانیاهو 62 کرسی\n❌\nحزب چپ و مخالفان نتانیاهو 40 کرسی\nحزب اعراب 18 کرسی\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nآماری که شبکه 14 اسرائیل لحظاتی پیش از انتخابات منتشر کرد:\n✅\nحزب راست و ائتلاف نتانیاهو 62 کرسی\n❌\nحزب چپ و مخالفان نتانیاهو 40 کرسی\nحزب اعراب 18 کرسی\n@DrTeL",
-        "original_link": "https://t.me/drtel/71939",
-        "post_id": 71939,
-        "message_id": 14850,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-27T22:57:53.072980+00:00"
-      },
-      {
-        "fingerprint": "02583dadff45020d21587b90b6653cbe277e14e59ca481113433eda2595e7707",
-        "media_fingerprint": "",
-        "text": "درحال حاضر برد هیچ‌کس قطعی نشده\nجفت طرف دارن میگن ما پیروز شدیم\nولی چیزی که معلومه اینه که هیچکدوم نتونستن به 61 کرسی برسن و این یعنی بن‌بست!\nنتایج قطعی تا فردا صبح کم کم میاد...",
-        "original_username": "drtel",
-        "original_text": "درحال حاضر برد هیچ‌کس قطعی نشده\nجفت طرف دارن میگن ما پیروز شدیم\nولی چیزی که معلومه اینه که هیچکدوم نتونستن به 61 کرسی برسن و این یعنی بن‌بست!\nنتایج قطعی تا فردا صبح کم کم میاد...",
-        "original_link": "https://t.me/drtel/71940",
-        "post_id": 71940,
-        "message_id": 14851,
-        "message_kind": "text",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-27T23:51:24.550870+00:00"
-      },
-      {
-        "fingerprint": "b216e6061fdf9e5d46593dfebf88be8ea13b59cf945559bedb953251fa20d03a",
-        "media_fingerprint": "64cdd6ade7ffd589e5ec0399c1eb112aed10e0eef1fadb85beaa4c552526470e",
-        "text": "منطق دختر :\n@comentiat",
-        "original_username": "comentiat",
-        "original_text": "منطق دختر :\n@comentiat",
-        "original_link": "https://t.me/Comentiat/26800",
-        "post_id": 26800,
-        "message_id": 14852,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-27T23:51:29.373713+00:00"
-      },
-      {
-        "fingerprint": "8185e7e89cd34d488c2256779f01164c2c893636db8ebb49acbfdbe504727f01",
-        "media_fingerprint": "6b127da13825fd542ab92a9c675697c6ba423fd678e707ea1065f47e5af89dbf",
-        "text": "🔴\nادعای شبکه 14 اسرائیل (نزدیک به نتانیاهو):\nنتانیاهو اکثریت کرسی‌ها رو تصاحب کرد!\n✅\nحزب راست و ائتلاف نتانیاهو: 62 کرسی\n❌\nحزب چپ و مخالفان نتانیاهو: 40 کرسی\n⭕️\nحزب اعراب: 18 کرسی\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nادعای شبکه 14 اسرائیل (نزدیک به نتانیاهو):\nنتانیاهو اکثریت کرسی‌ها رو تصاحب کرد!\n✅\nحزب راست و ائتلاف نتانیاهو: 62 کرسی\n❌\nحزب چپ و مخالفان نتانیاهو: 40 کرسی\n⭕️\nحزب اعراب: 18 کرسی\n@DrTeL",
-        "original_link": "https://t.me/drtel/71941",
-        "post_id": 71941,
-        "message_id": 14853,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-27T23:51:34.500590+00:00"
-      },
-      {
-        "fingerprint": "8ddac441cd085673d600e127c31fc17d7098458c1f6c905d6e99d26846cf49dd",
-        "media_fingerprint": "a590fd15e16b6ceaba5f45f9c22f9838e46431d2f4e178336fbe344bff681691",
-        "text": "@comentiat",
-        "original_username": "comentiat",
-        "original_text": "@comentiat",
-        "original_link": "https://t.me/Comentiat/26801",
-        "post_id": 26801,
-        "message_id": 14854,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-27T23:51:39.172862+00:00"
-      },
-      {
-        "fingerprint": "404b4d58d223fc077182fea77a9639cd76f759f84204130d086e6aa92864543e",
-        "media_fingerprint": "8d4ebe8ac812c9aa4a1dd647acb24aa8435ad485cf4c41e514c60840f889bf4e",
-        "text": "یه آپشن جدید اومده به تلگرام که شما لینکی میخواید دانلود کنید چه از اینستاگرام یا یوتیوب فقط کافیه آیدی ربات زیر رو ریپلای کنید روی لینک.\nچه در پیوی چه در گروه هرجا این آیدی رو ریپلای کنید رو لینکی براتون همونجا دانلود میکنه.\n@idownloadersBot\n@comentiat",
-        "original_username": "comentiat",
-        "original_text": "یه آپشن جدید اومده به تلگرام که شما لینکی میخواید دانلود کنید چه از اینستاگرام یا یوتیوب فقط کافیه آیدی ربات زیر رو ریپلای کنید روی لینک.\nچه در پیوی چه در گروه هرجا این آیدی رو ریپلای کنید رو لینکی براتون همونجا دانلود میکنه.\n@idownloadersBot\n@comentiat",
-        "original_link": "https://t.me/Comentiat/26802",
-        "post_id": 26802,
-        "message_id": 14855,
-        "message_kind": "caption",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-27T23:51:44.037851+00:00"
-      },
-      {
-        "fingerprint": "0e8116ff9f6015090aca758da87540999ec162b9b30db93636bb0179a965f107",
-        "media_fingerprint": "8bcea636e5837d80923c547d478e75fa15684dfef0c72de49a831a64fbb0d73f",
-        "text": "🔴\nنقی باز نکن که خیر نیست؛\nنیکا، دخترِ نقی تو سریال پایتخت، با یه هیولا وارد رابطه شده هیچ، تازه دستشم گرفته برده کلینیک زیبایی که پسره سینه‌هاش رو لیفت و شکمش رو کوچیک کنه!\n@DrTeL",
-        "original_username": "drtel",
-        "original_text": "🔴\nنقی باز نکن که خیر نیست؛\nنیکا، دخترِ نقی تو سریال پایتخت، با یه هیولا وارد رابطه شده هیچ، تازه دستشم گرفته برده کلینیک زیبایی که پسره سینه‌هاش رو لیفت و شکمش رو کوچیک کنه!\n@DrTeL",
-        "original_link": "https://t.me/drtel/71943",
-        "post_id": 71943,
-        "message_id": 14856,
-        "message_kind": "caption",
-        "sources": [
-          "drtel",
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-28T01:28:14.256930+00:00"
-      },
-      {
-        "fingerprint": "75d826001c2ab3cfe13b1899a8c3088cc40c0530f3595e41ab81d3caa305a9ef",
-        "media_fingerprint": "ec65df492cbf5dfa19ef7db70ef21e055d5ba55f7e30128ed12eeb035a8a1edf",
-        "text": "🔴\nامروز 28 October ، روزِ ابراز علاقه به حیوانات نرمه.\n@Dashagh",
-        "original_username": "dashagh",
-        "original_text": "🔴\nامروز 28 October ، روزِ ابراز علاقه به حیوانات نرمه.\n@Dashagh",
-        "original_link": "https://t.me/dashagh/48824",
-        "post_id": 48824,
-        "message_id": 14857,
-        "message_kind": "caption",
-        "sources": [
-          "dashagh"
-        ],
-        "created_at": "2026-10-28T05:57:35.455170+00:00"
-      },
-      {
-        "fingerprint": "2d8860a6b1643214792197912276019e3c281a6a6d4157805d64a1219d2eff6e",
-        "media_fingerprint": "",
-        "text": "از این‌ انتخابات شخمی‌ اسرائیل هم هرچی خبر میخونی ببینی نتیجه چی شد گیج تر میشی\n🆔\n@GizmizTel\n💯",
-        "original_username": "gizmiztel",
-        "original_text": "از این‌ انتخابات شخمی‌ اسرائیل هم هرچی خبر میخونی ببینی نتیجه چی شد گیج تر میشی\n🆔\n@GizmizTel\n💯",
-        "original_link": "https://t.me/gizmiztel/164032",
-        "post_id": 164032,
-        "message_id": 14858,
-        "message_kind": "text",
-        "sources": [
-          "gizmiztel"
-        ],
-        "created_at": "2026-10-28T05:57:39.002056+00:00"
-      },
       {
         "fingerprint": "5815c73ac3a202ef20f5efbc418cf2a4ed185a9867fdd65b57ba0c95fa15021f",
         "media_fingerprint": "1942b4abc24dda632608eb5d1562db290890ab085bb0d3ce348a79457b1a3c0f",
@@ -31674,7 +31347,8 @@
         "message_id": 15130,
         "message_kind": "caption",
         "sources": [
-          "gizmiztel"
+          "gizmiztel",
+          "jaleb"
         ],
         "created_at": "2026-10-28T21:42:03.980406+00:00"
       },
@@ -31992,6 +31666,352 @@
           "sabtnamkh0dro"
         ],
         "created_at": "2026-10-29T01:52:10.660613+00:00"
+      },
+      {
+        "fingerprint": "603df29ac2faf4f6e035fc496dbcf0e0e23a5c47559f650877eba96559340aaa",
+        "media_fingerprint": "c1e865b9f12d587fc6577f734d2dd7145ebcc423156c329e42f59aff157df34a",
+        "text": "جالبه بدونید که تو اپل استورهای ژاپن دستگاه‌ها با کابل ضد سرقت به میز وصل نیستن و خریدارها می‌تونن آیفون و بقیه محصولات رو کاملا آزاد دست بگیرن و تست کنن...\n@RoidBest",
+        "original_username": "roidbest",
+        "original_text": "جالبه بدونید که تو اپل استورهای ژاپن دستگاه‌ها با کابل ضد سرقت به میز وصل نیستن و خریدارها می‌تونن آیفون و بقیه محصولات رو کاملا آزاد دست بگیرن و تست کنن...\n@RoidBest",
+        "original_link": "https://t.me/RoidBest/22018",
+        "post_id": 22018,
+        "message_id": 15152,
+        "message_kind": "caption",
+        "sources": [
+          "roidbest"
+        ],
+        "created_at": "2026-10-29T06:03:54.467357+00:00"
+      },
+      {
+        "fingerprint": "1156f951b1bd2eb587cfe97e8b79446f46f8b017ff889476d190fe9cc27a898d",
+        "media_fingerprint": "",
+        "text": "🔻\nچند لحظه زیبا از جزیره هنگام\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "🔻\nچند لحظه زیبا از جزیره هنگام\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/160354",
+        "post_id": 160354,
+        "message_id": 15153,
+        "message_kind": "text",
+        "sources": [
+          "ajayebe_jahann",
+          "irwonders"
+        ],
+        "created_at": "2026-10-29T06:03:58.041645+00:00"
+      },
+      {
+        "fingerprint": "b14c2a5e39d839a526fe4bac2da6c80d8a36378e0a901754d77c7602ee84144e",
+        "media_fingerprint": "603c682de6bbf1eb001d25c72772b99f69fbacacc6719e3163f620e8003d2777",
+        "text": "صبحت بخیر\n🌷\n❤\nخوش قلب‌ترین آدما اونایین که نگرانِ تاثیر حرفاشون رویِ قلب بقیه‌ ن\n@media_aramesh",
+        "original_username": "media_aramesh",
+        "original_text": "صبحت بخیر\n🌷\n❤\nخوش قلب‌ترین آدما اونایین که نگرانِ تاثیر حرفاشون رویِ قلب بقیه‌ ن\n@media_aramesh",
+        "original_link": "https://t.me/media_aramesh/113103",
+        "post_id": 113103,
+        "message_id": 15154,
+        "message_kind": "caption",
+        "sources": [
+          "media_aramesh"
+        ],
+        "created_at": "2026-10-29T06:04:05.589940+00:00"
+      },
+      {
+        "fingerprint": "594b86377cd7c79a82ad188865f1cd163cd68e613686bbdc590fa476546e8ee6",
+        "media_fingerprint": "8ee3dac67d1f4e94fad46733e8fa52bb398af8f2287b0d7b4286b1a7256a22fd",
+        "text": "🆔\n@YeJoorayi",
+        "original_username": "yejoorayi",
+        "original_text": "🆔\n@YeJoorayi",
+        "original_link": "https://t.me/YeJoorayi/670",
+        "post_id": 670,
+        "message_id": 15155,
+        "message_kind": "caption",
+        "sources": [
+          "yejoorayi"
+        ],
+        "created_at": "2026-10-29T06:04:11.126420+00:00"
+      },
+      {
+        "fingerprint": "c701e16393d3b86055a44055917c2e79430528e5aa659c2c279ff8ec6fc00be0",
+        "media_fingerprint": "00cce69704f9dfbb77c993a32a6bff3deebfb9f3d09768c1c10799050402da47",
+        "text": "چرا صبحانه بهتر است تخم مرغ بخوریم؟\n🍳\n◽️\nوعده ی غذایی صبح باید پر از پروتئین باشد تا شما را تا ناهار راضی نگه دارد. از آن جایی که تخم مرغ سرشار از پروتئین است، خوردن آن در وعده ی صبحانه، به کاهش وزن کمک می کند.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "چرا صبحانه بهتر است تخم مرغ بخوریم؟\n🍳\n◽️\nوعده ی غذایی صبح باید پر از پروتئین باشد تا شما را تا ناهار راضی نگه دارد. از آن جایی که تخم مرغ سرشار از پروتئین است، خوردن آن در وعده ی صبحانه، به کاهش وزن کمک می کند.\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38892",
+        "post_id": 38892,
+        "message_id": 15156,
+        "message_kind": "caption",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-29T06:04:16.959701+00:00"
+      },
+      {
+        "fingerprint": "9ef8f8e940a847392cd5f5f04abea8c305f1d95dac42c1ecffad2ddb7936a811",
+        "media_fingerprint": "b692f12a2d710d733be3158b8b02596926743a50050744426ab51c98a4976329",
+        "text": "♦️\nهزاران سال تاریخ، یک نام آشنا؛ ایران\n🔹\nدر میان نام‌های ماندگار این سرزمین، کوروش بزرگ جایگاهی فراموش‌نشدنی دارد.\n🔹\n۷ آبان، روز بزرگداشت کوروش بزرگ؛ یادآور شکوه، تاریخ و هویت ایران\n#ایران_زیبا\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nهزاران سال تاریخ، یک نام آشنا؛ ایران\n🔹\nدر میان نام‌های ماندگار این سرزمین، کوروش بزرگ جایگاهی فراموش‌نشدنی دارد.\n🔹\n۷ آبان، روز بزرگداشت کوروش بزرگ؛ یادآور شکوه، تاریخ و هویت ایران\n#ایران_زیبا\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144667",
+        "post_id": 144667,
+        "message_id": 15157,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-29T06:04:23.943497+00:00"
+      },
+      {
+        "fingerprint": "a4634855dabcc322b477ca92d6044cfb8a9621e0ed357138c283938a73cb1dab",
+        "media_fingerprint": "8eb3976246de04e072f4dd9cbaaaf58068b467910ac3d8758832533bf34bdd58",
+        "text": "کارل فریش Karl Fritsch  معمار و شهرساز آلمانی مستخدم در وزارت داخله ایران در سال ۱۹۲۸ میلادی (۱۳۰۷) طرح ستاره‌ای شش‌پَر را برای میدان تازه‌بنیاد پهلوی همدان پیشنهاد می‌کند و این طرح چند سال بعد با نظارت مهندسان آلمانی و ایرانی اجرا می‌شود.\n@Jaleb",
+        "original_username": "jaleb",
+        "original_text": "کارل فریش Karl Fritsch  معمار و شهرساز آلمانی مستخدم در وزارت داخله ایران در سال ۱۹۲۸ میلادی (۱۳۰۷) طرح ستاره‌ای شش‌پَر را برای میدان تازه‌بنیاد پهلوی همدان پیشنهاد می‌کند و این طرح چند سال بعد با نظارت مهندسان آلمانی و ایرانی اجرا می‌شود.\n@Jaleb",
+        "original_link": "https://t.me/Jaleb/53298",
+        "post_id": 53298,
+        "message_id": 15158,
+        "message_kind": "caption",
+        "sources": [
+          "jaleb"
+        ],
+        "created_at": "2026-10-29T06:04:29.865732+00:00"
+      },
+      {
+        "fingerprint": "21ebfa81317552e640337ca17cda1c735cf93174cb0b1c0920f6dc46e90089bb",
+        "media_fingerprint": "acc82380b21988667c83ea5fa802c35f7593666845f6e7e7afabd1a84d319d89",
+        "text": "بگو این وطن، اگر خسته تن، از آنِ من است\n🌱\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "بگو این وطن، اگر خسته تن، از آنِ من است\n🌱\n@irWonders",
+        "original_link": "https://t.me/irwonders/59217",
+        "post_id": 59217,
+        "message_id": 15159,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-29T06:04:38.870910+00:00"
+      },
+      {
+        "fingerprint": "6c36333b392fc5c9e1140221122db1bfb0cc7506a2fdba0590a8b9990732c3ad",
+        "media_fingerprint": "4b045fb21bcce329f9fdc1aefe29183ae779ffb09cb7d4b9676e353c52740e55",
+        "text": "♦️\nهم اکنون وضعیت اب و هوای مرکز استان\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nهم اکنون وضعیت اب و هوای مرکز استان\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144668",
+        "post_id": 144668,
+        "message_id": 15160,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-29T06:04:44.293262+00:00"
+      },
+      {
+        "fingerprint": "1c4ea3f73cb42753fe15a0f25a7c99d724f75c92733e4a833c3591bc8105dc05",
+        "media_fingerprint": "258e599100024fd600e752500b44d5b3bd9f9d2d18f41ef4a4d68190179e58ad",
+        "text": "آره داداش\nدر این حد که هر وقت فامیلای بابام میخواستن بیان خونمون مامانم میگفت قوم مغول باز حمله کردن!\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "آره داداش\nدر این حد که هر وقت فامیلای بابام میخواستن بیان خونمون مامانم میگفت قوم مغول باز حمله کردن!\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/164076",
+        "post_id": 164076,
+        "message_id": 15161,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-29T06:04:49.788032+00:00"
+      },
+      {
+        "fingerprint": "7cf579c21d1fd4f30437d49bba7d5a1cdfb47ca64a1c6ed3a9f3671af9ddd412",
+        "media_fingerprint": "",
+        "text": "احزاب عرب در بیانیه ای اعلام کردند که آماده ائتلاف و همکاری با احزاب مخالف نتانیاهو برای تشکیل دولتی جایگزین هستند مشروط بر اینکه به مطالبات شهروندان عرب مورد توجه قرار گیرد.\nمعلوم نیست آیزنکوت قبول کنه یا نه!\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "احزاب عرب در بیانیه ای اعلام کردند که آماده ائتلاف و همکاری با احزاب مخالف نتانیاهو برای تشکیل دولتی جایگزین هستند مشروط بر اینکه به مطالبات شهروندان عرب مورد توجه قرار گیرد.\nمعلوم نیست آیزنکوت قبول کنه یا نه!\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/164077",
+        "post_id": 164077,
+        "message_id": 15162,
+        "message_kind": "text",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-29T06:04:53.340787+00:00"
+      },
+      {
+        "fingerprint": "7a41d343892ee967dcd9ae64420c276c35e01e8f7f30c0bb25110af5e0438916",
+        "media_fingerprint": "de27e7e44639f9e7581acb3639f8d18659d6f0f7510675feef9c7b7cd7e77870",
+        "text": "دختره اومد بخاطر اینکه دوس پسرش موی کوتاه دوس داره بخاطرش موهاشو کوتاه کنه که آرایشگر این بلارو سرش آورد :\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "دختره اومد بخاطر اینکه دوس پسرش موی کوتاه دوس داره بخاطرش موهاشو کوتاه کنه که آرایشگر این بلارو سرش آورد :\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/164078",
+        "post_id": 164078,
+        "message_id": 15163,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-29T06:05:04.244051+00:00"
+      },
+      {
+        "fingerprint": "b0f23d575b9f22d83b10b82a586cafe07d8e4c5ce0eb72eaa513787de142580c",
+        "media_fingerprint": "eeb989cafdd65f24c4052dfa12332594751dbdaba04b8ab883918a2f4ff82c08",
+        "text": "خیلی جالبه :))) بنده خداها فکر میکردن وزن روحه کم میشه از بدن رفتن تتوش کردن\nبعد فهمیدن باد روده است که بعد از مرگ تخلیه میشه و ۲۱ گرم وزن داره! :)))))))))))))\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "خیلی جالبه :))) بنده خداها فکر میکردن وزن روحه کم میشه از بدن رفتن تتوش کردن\nبعد فهمیدن باد روده است که بعد از مرگ تخلیه میشه و ۲۱ گرم وزن داره! :)))))))))))))\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/164080",
+        "post_id": 164080,
+        "message_id": 15165,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-29T06:05:09.713730+00:00"
+      },
+      {
+        "fingerprint": "987f5507a0e2130411dfed75cb0d1588c3c91c9e8d4a2f2f5ffb2aa6b1830594",
+        "media_fingerprint": "e430e7614c62128d5715bf37255485987250b3244727579e8bd5bcaaa0b7f1a1",
+        "text": "🔴\n۷ آبان، روز بزرگداشت کوروش کبیر\nیادآور پادشاهی است که نماد آزادی، عدالت و انسانیت بود. این روز ما را به ریشه‌های تاریخی و فرهنگی‌مان پیوند می‌دهد تا با وجود مشکلات، از هویت ایرانی خود دور نشویم.\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "🔴\n۷ آبان، روز بزرگداشت کوروش کبیر\nیادآور پادشاهی است که نماد آزادی، عدالت و انسانیت بود. این روز ما را به ریشه‌های تاریخی و فرهنگی‌مان پیوند می‌دهد تا با وجود مشکلات، از هویت ایرانی خود دور نشویم.\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48888",
+        "post_id": 48888,
+        "message_id": 15166,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-29T06:05:21.127501+00:00"
+      },
+      {
+        "fingerprint": "7bfa8aa8dc520aece9915c2bc1d58d3b7240023937a7b78f3e5f34db94d4add1",
+        "media_fingerprint": "35388cc5bdef8d3d72b87231a1d21bd7b2128a14e9f72b39bcb7e5c3d07c433b",
+        "text": "۷ آبان بزرگداشت کوروش بزرگ\nبر تمامی ایرانیان راستین خجسته باد\n💐\n‌\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "۷ آبان بزرگداشت کوروش بزرگ\nبر تمامی ایرانیان راستین خجسته باد\n💐\n‌\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/164081",
+        "post_id": 164081,
+        "message_id": 15168,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-29T06:05:28.029117+00:00"
+      },
+      {
+        "fingerprint": "1ab1700a35f5a5ea482151bcdcab759d1a1c373b3eee1b0903d084a4602b778a",
+        "media_fingerprint": "5746fb2fe51d2e06ee0a423d9f26599d51c09caaac4624a10ec15d41fd2b2b48",
+        "text": "📷\nنحوه بستن حساب های بانکی از طریق سامانه حسام بانک مرکزی\n🔗\nلینک سامانه حسام\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "📷\nنحوه بستن حساب های بانکی از طریق سامانه حسام بانک مرکزی\n🔗\nلینک سامانه حسام\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23799",
+        "post_id": 23799,
+        "message_id": 15169,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-29T06:05:33.467780+00:00"
+      },
+      {
+        "fingerprint": "8e9b6dd6a60c9d19145dc0c4e9cc959fd31734fb06b0a577ac446a6c7f04e85d",
+        "media_fingerprint": "1682d2bba73b31de20018fdc9f440a649665c2979003ad09f585e2755018a104",
+        "text": "❌\nصبحانه را فقط با نان و پنیر تمام نکن؛ سبزیجات را هم واردش کن\n✔️\nسبزیجات لازم نیست فقط برای ناهار و شام باشند. اضافه کردن گوجه، خیار، فلفل دلمه‌ای یا سبزی‌های برگ‌دار به صبحانه، راه ساده‌ای برای افزایش مصرف روزانه سبزیجات و دریافت فیبر و ریزمغذی‌های متنوع است.یک بشقاب صبحانه می‌تواند هم‌زمان شامل پروتئین، غلات کامل و سبزیجات باشد؛ بدون اینکه پیچیده یا زمان‌بر شود.\n🌐\nnutritionsource.hsph.harvard\n#صبحانه_سالم\n#سبزیجات\n#تغذیه_سالم\n🖥\n@Dr_SalamatX",
+        "original_username": "dr_salamatx",
+        "original_text": "❌\nصبحانه را فقط با نان و پنیر تمام نکن؛ سبزیجات را هم واردش کن\n✔️\nسبزیجات لازم نیست فقط برای ناهار و شام باشند. اضافه کردن گوجه، خیار، فلفل دلمه‌ای یا سبزی‌های برگ‌دار به صبحانه، راه ساده‌ای برای افزایش مصرف روزانه سبزیجات و دریافت فیبر و ریزمغذی‌های متنوع است.یک بشقاب صبحانه می‌تواند هم‌زمان شامل پروتئین، غلات کامل و سبزیجات باشد؛ بدون اینکه پیچیده یا زمان‌بر شود.\n🌐\nnutritionsource.hsph.harvard\n#صبحانه_سالم\n#سبزیجات\n#تغذیه_سالم\n🖥\n@Dr_SalamatX",
+        "original_link": "https://t.me/Dr_SalamatX/55488",
+        "post_id": 55488,
+        "message_id": 15170,
+        "message_kind": "caption",
+        "sources": [
+          "dr_salamatx"
+        ],
+        "created_at": "2026-10-29T06:05:39.087584+00:00"
+      },
+      {
+        "fingerprint": "b96f2e41a0ab7512f59ce27d8673c83004f1508a57b159e4660b0feecea752e0",
+        "media_fingerprint": "b04c43a4d82b4edaba2127a7afb021d0c2eeed2f2fab917cb0d6bdc5178dc470",
+        "text": "۷ آبان، روز بزرگداشت کوروش بزرگ یادآور شکوه، تاریخ و هویت ایران\n👑\n♥️\nدر میان نام‌های ماندگار این سرزمین، کوروش بزرگ جایگاهی فراموش‌نشدنی دارد.\nگفتار نیک، پندار نیک، کردار نیک...\nو همدلی، که همیشه زیباترین راهِ ایرانی بودن است.\n🆔\n@Ajayebe_jahann\n📸",
+        "original_username": "ajayebe_jahann",
+        "original_text": "۷ آبان، روز بزرگداشت کوروش بزرگ یادآور شکوه، تاریخ و هویت ایران\n👑\n♥️\nدر میان نام‌های ماندگار این سرزمین، کوروش بزرگ جایگاهی فراموش‌نشدنی دارد.\nگفتار نیک، پندار نیک، کردار نیک...\nو همدلی، که همیشه زیباترین راهِ ایرانی بودن است.\n🆔\n@Ajayebe_jahann\n📸",
+        "original_link": "https://t.me/Ajayebe_jahann/160355",
+        "post_id": 160355,
+        "message_id": 15171,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-29T06:05:45.735905+00:00"
+      },
+      {
+        "fingerprint": "a1bb753613f1d379bb19b4a1ffa9d76e239d9ec58368755256540493adec9a09",
+        "media_fingerprint": "f4e33bd44f14ddfa678c9df789f4d5d61fc7f8e1f52521215838154b7356618b",
+        "text": "👑\nامروز ۷ آبان ماه، روز\nبزرگداشت کوروش بزرگه\n.\nکوروش بزرگ؛ فراتر از یک پادشاه، نماد شکوهِ ایران و میراثی که قرن‌ها نتونستن خاموشش کنن.\nدر روزگاری که قانونِ جهان «شمشیر و خون» بود، او قانونِ انسانیت رو نوشت.\nکوروش بزرگ، ریشه‌دار ترین سندِ اصالت ایرانیان.\n😏\n#Squidward\n💎\nSpongebob | باب اسفنجی",
+        "original_username": "boob_sfangi",
+        "original_text": "👑\nامروز ۷ آبان ماه، روز\nبزرگداشت کوروش بزرگه\n.\nکوروش بزرگ؛ فراتر از یک پادشاه، نماد شکوهِ ایران و میراثی که قرن‌ها نتونستن خاموشش کنن.\nدر روزگاری که قانونِ جهان «شمشیر و خون» بود، او قانونِ انسانیت رو نوشت.\nکوروش بزرگ، ریشه‌دار ترین سندِ اصالت ایرانیان.\n😏\n#Squidward\n💎\nSpongebob | باب اسفنجی",
+        "original_link": "https://t.me/boob_sfangi/2980",
+        "post_id": 2980,
+        "message_id": 15172,
+        "message_kind": "caption",
+        "sources": [
+          "boob_sfangi"
+        ],
+        "created_at": "2026-10-29T06:06:00.586387+00:00"
+      },
+      {
+        "fingerprint": "f2e78cfbe22930631dc5fff50f7b0d2ba9cdfbbcd7ce4c97fab143d21eaa6060",
+        "media_fingerprint": "0064036d9091023bb0e97db2dc0b579a83ee2eb8061bd1f990e47ca3a5ab3f31",
+        "text": "📷\nعلت‌ افت کیفیت اینترنت در روزهای اخیر چیست؟\n🚀\n@Akhbar_Cafenet",
+        "original_username": "akhbar_cafenet",
+        "original_text": "📷\nعلت‌ افت کیفیت اینترنت در روزهای اخیر چیست؟\n🚀\n@Akhbar_Cafenet",
+        "original_link": "https://t.me/akhbar_cafenet/23801",
+        "post_id": 23801,
+        "message_id": 15174,
+        "message_kind": "caption",
+        "sources": [
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-29T06:06:06.150681+00:00"
+      },
+      {
+        "fingerprint": "e8d68bcc7bf5a97fbd820e87f2c65fd58addc74c092d8c87ee5d04b00ff5f7ff",
+        "media_fingerprint": "6f22e1ac981f10d55336a50556aeb5dd575ac29d07a658eec2aa35bf4eaa55aa",
+        "text": "♦️\nاگه نمی‌رسی بری باشگاه با این نوع تمرینات بدنت رو آماده نگه‌دار...\n#ورزش_صبحگاهی\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nاگه نمی‌رسی بری باشگاه با این نوع تمرینات بدنت رو آماده نگه‌دار...\n#ورزش_صبحگاهی\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144670",
+        "post_id": 144670,
+        "message_id": 15175,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-29T06:06:12.843482+00:00"
+      },
+      {
+        "fingerprint": "889453ac471aa5a20a709d220211918f60edca670683258e7c486c2c1e2e7c1c",
+        "media_fingerprint": "766d6c7d4fc565cca9d08ed194d0fc4ed5bdb6bc4d575c18efc465fe66f8c9da",
+        "text": "هر صبح خدا یک\nغزل از دفتر عشق است\nسرسبزترین مثنوی\nاز منظر عشـــق است...\nسلام؛ صبحتون بخیر و شادی\n☕️\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "هر صبح خدا یک\nغزل از دفتر عشق است\nسرسبزترین مثنوی\nاز منظر عشـــق است...\nسلام؛ صبحتون بخیر و شادی\n☕️\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/307409",
+        "post_id": 307409,
+        "message_id": 15176,
+        "message_kind": "caption",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-29T06:06:18.696747+00:00"
+      },
+      {
+        "fingerprint": "f6de37caf0b9f2fe85bf22336c2c000efe95f34d237b5bc52b33d9ad4530fdf7",
+        "media_fingerprint": "",
+        "text": "ببینو حالشو ببر داستان کوروش بزرگ\n😍\n👌🏻\n@khandehabadd",
+        "original_username": "khandehabadd",
+        "original_text": "ببینو حالشو ببر داستان کوروش بزرگ\n😍\n👌🏻\n@khandehabadd",
+        "original_link": "https://t.me/khandehabadd/307410",
+        "post_id": 307410,
+        "message_id": 15177,
+        "message_kind": "text",
+        "sources": [
+          "khandehabadd"
+        ],
+        "created_at": "2026-10-29T06:06:22.233707+00:00"
       }
     ]
   }
