@@ -5394,7 +5394,7 @@
       "failed": {}
     },
     "coffeenetmanager": {
-      "last_id": 52040,
+      "last_id": 52041,
       "processed_ids": [
         51537,
         51538,
@@ -5855,7 +5855,8 @@
         52037,
         52038,
         52039,
-        52040
+        52040,
+        52041
       ],
       "sent_count": 132,
       "failed": {}
@@ -7256,7 +7257,7 @@
       "failed": {}
     },
     "comentiat": {
-      "last_id": 26842,
+      "last_id": 26845,
       "processed_ids": [
         25844,
         25845,
@@ -8041,9 +8042,12 @@
         26839,
         26840,
         26841,
-        26842
+        26842,
+        26843,
+        26844,
+        26845
       ],
-      "sent_count": 587,
+      "sent_count": 589,
       "failed": {}
     },
     "boost/fndoni": {
@@ -27791,36 +27795,6 @@
   "global": {
     "history": [
       {
-        "fingerprint": "1a1785e1599eeb0cc84b28bcd2b73fea6685f3253530ba63da6a089a49094676",
-        "media_fingerprint": "3f3ca44fd0ee4a88cb294cca6cbf427586d227069828201d232b83c8adbed5d2",
-        "text": "روند بستن حساب های بانکی در سامانه حسام",
-        "original_username": "coffeenetmanager",
-        "original_text": "روند بستن حساب های بانکی در سامانه حسام",
-        "original_link": "https://t.me/CoffeenetManager/52035",
-        "post_id": 52035,
-        "message_id": 15147,
-        "message_kind": "caption",
-        "sources": [
-          "coffeenetmanager"
-        ],
-        "created_at": "2026-10-29T00:04:43.560637+00:00"
-      },
-      {
-        "fingerprint": "2bcba464c033eac6c8e56f3303884ad2c6763397aee387b8b9260ddf24ee171d",
-        "media_fingerprint": "",
-        "text": "من در برابر هر حرفی که پشت سرم میگن، چون حال توضیح ندارم:\n> نگار\n@comentiat",
-        "original_username": "comentiat",
-        "original_text": "من در برابر هر حرفی که پشت سرم میگن، چون حال توضیح ندارم:\n> نگار\n@comentiat",
-        "original_link": "https://t.me/Comentiat/26822",
-        "post_id": 26822,
-        "message_id": 15148,
-        "message_kind": "text",
-        "sources": [
-          "comentiat"
-        ],
-        "created_at": "2026-10-29T01:03:42.774207+00:00"
-      },
-      {
         "fingerprint": "bfd336e73e0d44b6d96e4a1972effcda6640c029fbfba9ea64311bdc7b4592dd",
         "media_fingerprint": "f50311e0e137f0cd763e319791c5d126eadd232148c170aa5d261b481a4f340c",
         "text": "🔴\nاین ویدئو از روند کاشت و ترمیم ناخن پسرها تو کمتر از یک روز، 5 میلیون ویو خورده؛\nفقط سوهانی که استفاده کرد...\n@DrTeL",
@@ -32328,6 +32302,36 @@
           "fucknewsi"
         ],
         "created_at": "2026-10-29T22:48:03.094589+00:00"
+      },
+      {
+        "fingerprint": "1a11259afcfd88f9ab86d8104301663488dea0f21530da230049f7b8c251c064",
+        "media_fingerprint": "10b97c374b70bf75ffa0d836fa52ff02205f1948a1eabd69f6d987f94e4cc94c",
+        "text": "اگه دنبال یه فیلم سراسر هیجان هستید که از جاتون تکون نخورید به شدت پیشنهاد میشه\n#پیشنهاد_فیلم\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "اگه دنبال یه فیلم سراسر هیجان هستید که از جاتون تکون نخورید به شدت پیشنهاد میشه\n#پیشنهاد_فیلم\n@comentiat",
+        "original_link": "https://t.me/Comentiat/26844",
+        "post_id": 26844,
+        "message_id": 15483,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-29T23:18:25.139987+00:00"
+      },
+      {
+        "fingerprint": "9aad2ec9968725678cc07399b4f27f58a3ed0dff9d8ac5b868c88e75cd67ead1",
+        "media_fingerprint": "d4a70f0e96f76e847d02ea6ec6bb239bb9f0f2a46d7d07a1b5bbdca2b86b1e0c",
+        "text": "قبل خواب وقتی یه دور کل زندگیتو مرور میکنی و دلت برای خودت میسوزه\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "قبل خواب وقتی یه دور کل زندگیتو مرور میکنی و دلت برای خودت میسوزه\n@comentiat",
+        "original_link": "https://t.me/Comentiat/26845",
+        "post_id": 26845,
+        "message_id": 15484,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-29T23:18:30.608839+00:00"
       }
     ]
   }
