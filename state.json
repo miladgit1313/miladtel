@@ -3532,10 +3532,8 @@
       "failed": {}
     },
     "drtel": {
-      "last_id": 71972,
+      "last_id": 71974,
       "processed_ids": [
-        66962,
-        66963,
         66964,
         66965,
         66966,
@@ -4533,9 +4531,11 @@
         71969,
         71970,
         71971,
-        71972
+        71972,
+        71973,
+        71974
       ],
-      "sent_count": 707,
+      "sent_count": 708,
       "failed": {}
     },
     "techtube": {
@@ -7220,7 +7220,7 @@
       "failed": {}
     },
     "comentiat": {
-      "last_id": 26821,
+      "last_id": 26823,
       "processed_ids": [
         25844,
         25845,
@@ -7989,9 +7989,11 @@
         26818,
         26819,
         26820,
-        26821
+        26821,
+        26822,
+        26823
       ],
-      "sent_count": 574,
+      "sent_count": 576,
       "failed": {}
     },
     "boost/fndoni": {
@@ -27463,51 +27465,6 @@
   "global": {
     "history": [
       {
-        "fingerprint": "e911a0c0dd68fcbe71f9e09548ba164e8628699f07dd548d1e79ff1d0238878b",
-        "media_fingerprint": "",
-        "text": "خدایا التیام بده قلبی رو که\nاز سختیاش جز تو با کسی حرف نمیزنه...\n@media_aramesh",
-        "original_username": "media_aramesh",
-        "original_text": "خدایا التیام بده قلبی رو که\nاز سختیاش جز تو با کسی حرف نمیزنه...\n@media_aramesh",
-        "original_link": "https://t.me/media_aramesh/113096",
-        "post_id": 113096,
-        "message_id": 14830,
-        "message_kind": "text",
-        "sources": [
-          "media_aramesh"
-        ],
-        "created_at": "2026-10-27T21:22:42.742784+00:00"
-      },
-      {
-        "fingerprint": "a22819012ddf8536744501f88d808b5813fa8029167bb678671931be1bc18145",
-        "media_fingerprint": "ce8089d2b4932ab36111b253ca477d9de4f31bf5199471d8b2d73442243fb1ae",
-        "text": "کاش میتونستیم یه جوری شناساییشون کنیم\n💩\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
-        "original_username": "boob_sfangi",
-        "original_text": "کاش میتونستیم یه جوری شناساییشون کنیم\n💩\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
-        "original_link": "https://t.me/boob_sfangi/2943",
-        "post_id": 2943,
-        "message_id": 14831,
-        "message_kind": "caption",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-27T21:22:47.760998+00:00"
-      },
-      {
-        "fingerprint": "4f9f1d0f18a1ecd4b30a23b31567a5a8db18f140d512d5b37554bfe34d34bfc8",
-        "media_fingerprint": "",
-        "text": "حالا اینا یعنی فعلا منتظر الی نباشیم؟",
-        "original_username": "drtel",
-        "original_text": "حالا اینا یعنی فعلا منتظر الی نباشیم؟",
-        "original_link": "https://t.me/drtel/71930",
-        "post_id": 71930,
-        "message_id": 14832,
-        "message_kind": "text",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-27T21:22:51.321714+00:00"
-      },
-      {
         "fingerprint": "84bdf2794deb771139f1560d5dc5877bd11a2697b018bd224976a9a122b5da57",
         "media_fingerprint": "4f1fe92299dba977e2b5cbc89ef01aee56488d78d370372c505c88ab2a06653c",
         "text": "بانو فورسام آتوسا لطیفی اکانت توییتر باز کرده؛ تو بیوگرافی‌اش حلقه گذاشته متاهله  عکس‌های جدیدی رو تو این اکانت به اشتراک گذاشته\n@Dashagh",
@@ -31989,6 +31946,51 @@
           "coffeenetmanager"
         ],
         "created_at": "2026-10-29T00:04:43.560637+00:00"
+      },
+      {
+        "fingerprint": "2bcba464c033eac6c8e56f3303884ad2c6763397aee387b8b9260ddf24ee171d",
+        "media_fingerprint": "",
+        "text": "من در برابر هر حرفی که پشت سرم میگن، چون حال توضیح ندارم:\n> نگار\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "من در برابر هر حرفی که پشت سرم میگن، چون حال توضیح ندارم:\n> نگار\n@comentiat",
+        "original_link": "https://t.me/Comentiat/26822",
+        "post_id": 26822,
+        "message_id": 15148,
+        "message_kind": "text",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-29T01:03:42.774207+00:00"
+      },
+      {
+        "fingerprint": "bfd336e73e0d44b6d96e4a1972effcda6640c029fbfba9ea64311bdc7b4592dd",
+        "media_fingerprint": "f50311e0e137f0cd763e319791c5d126eadd232148c170aa5d261b481a4f340c",
+        "text": "🔴\nاین ویدئو از روند کاشت و ترمیم ناخن پسرها تو کمتر از یک روز، 5 میلیون ویو خورده؛\nفقط سوهانی که استفاده کرد...\n@DrTeL",
+        "original_username": "drtel",
+        "original_text": "🔴\nاین ویدئو از روند کاشت و ترمیم ناخن پسرها تو کمتر از یک روز، 5 میلیون ویو خورده؛\nفقط سوهانی که استفاده کرد...\n@DrTeL",
+        "original_link": "https://t.me/drtel/71974",
+        "post_id": 71974,
+        "message_id": 15149,
+        "message_kind": "caption",
+        "sources": [
+          "drtel"
+        ],
+        "created_at": "2026-10-29T01:03:51.388145+00:00"
+      },
+      {
+        "fingerprint": "93493d65c93cae41f6062eba5f4b3bf6cf125b012b17e50a8684c02a3aa7ed11",
+        "media_fingerprint": "aae20fee45bc928c2268746240f1f9ae8860d2ed62a046d417bc21b71f8a97df",
+        "text": "بهترین فیلمی که درباره تک تیرانداز زن ساخته شده\nفیلم (battle for sevastopol 2015)\nبه شدت توصیه میکنم ببینید، جذابیت داستان 10 از 10\nمعرفی_فیلم\n@comentiat",
+        "original_username": "comentiat",
+        "original_text": "بهترین فیلمی که درباره تک تیرانداز زن ساخته شده\nفیلم (battle for sevastopol 2015)\nبه شدت توصیه میکنم ببینید، جذابیت داستان 10 از 10\nمعرفی_فیلم\n@comentiat",
+        "original_link": "https://t.me/Comentiat/26823",
+        "post_id": 26823,
+        "message_id": 15150,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-29T01:03:56.665635+00:00"
       }
     ]
   }
