@@ -1,13 +1,8 @@
 {
   "channels": {
     "akhbarfars": {
-      "last_id": 144716,
+      "last_id": 144721,
       "processed_ids": [
-        143349,
-        143350,
-        143351,
-        143352,
-        143353,
         143354,
         143355,
         143356,
@@ -1002,17 +997,19 @@
         144709,
         144711,
         144715,
-        144716
+        144716,
+        144717,
+        144718,
+        144719,
+        144720,
+        144721
       ],
-      "sent_count": 1370,
+      "sent_count": 1373,
       "failed": {}
     },
     "total_fut": {
-      "last_id": 238945,
+      "last_id": 238948,
       "processed_ids": [
-        237699,
-        237700,
-        237702,
         237704,
         237705,
         237706,
@@ -2009,17 +2006,17 @@
         238942,
         238943,
         238944,
-        238945
+        238945,
+        238946,
+        238947,
+        238948
       ],
       "sent_count": 198,
       "failed": {}
     },
     "footballvision2": {
-      "last_id": 173349,
+      "last_id": 173352,
       "processed_ids": [
-        171474,
-        171475,
-        171476,
         171477,
         171478,
         171479,
@@ -3016,7 +3013,10 @@
         173346,
         173347,
         173348,
-        173349
+        173349,
+        173350,
+        173351,
+        173352
       ],
       "sent_count": 234,
       "failed": {}
@@ -3089,7 +3089,7 @@
       "failed": {}
     },
     "fars_today": {
-      "last_id": 132370,
+      "last_id": 132371,
       "processed_ids": [
         131975,
         131976,
@@ -3471,7 +3471,8 @@
         132367,
         132368,
         132369,
-        132370
+        132370,
+        132371
       ],
       "sent_count": 189,
       "failed": {}
@@ -6241,10 +6242,8 @@
       "failed": {}
     },
     "akhbar_cafenet": {
-      "last_id": 23807,
+      "last_id": 23809,
       "processed_ids": [
-        22680,
-        22681,
         22682,
         22683,
         22686,
@@ -7242,13 +7241,15 @@
         23804,
         23805,
         23806,
-        23807
+        23807,
+        23808,
+        23809
       ],
       "sent_count": 608,
       "failed": {}
     },
     "comentiat": {
-      "last_id": 26838,
+      "last_id": 26840,
       "processed_ids": [
         25844,
         25845,
@@ -8029,9 +8030,11 @@
         26835,
         26836,
         26837,
-        26838
+        26838,
+        26839,
+        26840
       ],
-      "sent_count": 584,
+      "sent_count": 585,
       "failed": {}
     },
     "boost/fndoni": {
@@ -8043,7 +8046,7 @@
       "failed": {}
     },
     "majalepezeshki": {
-      "last_id": 38904,
+      "last_id": 38905,
       "processed_ids": [
         38432,
         38433,
@@ -8505,19 +8508,15 @@
         38901,
         38902,
         38903,
-        38904
+        38904,
+        38905
       ],
-      "sent_count": 265,
+      "sent_count": 266,
       "failed": {}
     },
     "gizmiztel": {
-      "last_id": 164115,
+      "last_id": 164120,
       "processed_ids": [
-        162829,
-        162830,
-        162831,
-        162832,
-        162833,
         162834,
         162835,
         162836,
@@ -9512,9 +9511,14 @@
         164111,
         164112,
         164114,
-        164115
+        164115,
+        164116,
+        164117,
+        164118,
+        164119,
+        164120
       ],
-      "sent_count": 1241,
+      "sent_count": 1244,
       "failed": {}
     },
     "dr_salamatx": {
@@ -10649,9 +10653,8 @@
       "failed": {}
     },
     "ajayebe_jahann": {
-      "last_id": 160385,
+      "last_id": 160386,
       "processed_ids": [
-        159310,
         159311,
         159312,
         159313,
@@ -11650,9 +11653,10 @@
         160382,
         160383,
         160384,
-        160385
+        160385,
+        160386
       ],
-      "sent_count": 512,
+      "sent_count": 513,
       "failed": {}
     },
     "etelaate_omoomi": {
@@ -18921,9 +18925,8 @@
       "failed": {}
     },
     "irwonders": {
-      "last_id": 59248,
+      "last_id": 59249,
       "processed_ids": [
-        58107,
         58108,
         58109,
         58110,
@@ -19922,9 +19925,10 @@
         59245,
         59246,
         59247,
-        59248
+        59248,
+        59249
       ],
-      "sent_count": 681,
+      "sent_count": 682,
       "failed": {}
     },
     "razcom": {
@@ -21628,7 +21632,7 @@
       "failed": {}
     },
     "khandehabadd": {
-      "last_id": 307426,
+      "last_id": 307427,
       "processed_ids": [
         306563,
         306564,
@@ -22453,7 +22457,8 @@
         307423,
         307424,
         307425,
-        307426
+        307426,
+        307427
       ],
       "sent_count": 362,
       "failed": {}
@@ -23445,7 +23450,7 @@
       "failed": {}
     },
     "peach_tweet": {
-      "last_id": 4769,
+      "last_id": 4790,
       "processed_ids": [
         2745,
         2749,
@@ -24197,9 +24202,15 @@
         4766,
         4767,
         4768,
-        4769
+        4769,
+        4775,
+        4781,
+        4786,
+        4788,
+        4789,
+        4790
       ],
-      "sent_count": 384,
+      "sent_count": 385,
       "failed": {}
     },
     "funy_khand": {
@@ -24682,9 +24693,8 @@
       "failed": {}
     },
     "persiana_pluss": {
-      "last_id": 7414,
+      "last_id": 7415,
       "processed_ids": [
-        6134,
         6135,
         6136,
         6137,
@@ -25683,7 +25693,8 @@
         7411,
         7412,
         7413,
-        7414
+        7414,
+        7415
       ],
       "sent_count": 25,
       "failed": {}
@@ -25882,7 +25893,7 @@
       "failed": {}
     },
     "dashagh": {
-      "last_id": 48906,
+      "last_id": 48911,
       "processed_ids": [
         48313,
         48314,
@@ -26272,13 +26283,14 @@
         48902,
         48903,
         48904,
-        48906
+        48906,
+        48911
       ],
-      "sent_count": 273,
+      "sent_count": 274,
       "failed": {}
     },
     "apkclub": {
-      "last_id": 73319,
+      "last_id": 73321,
       "processed_ids": [
         72962,
         72963,
@@ -26612,13 +26624,15 @@
         73316,
         73317,
         73318,
-        73319
+        73319,
+        73320,
+        73321
       ],
-      "sent_count": 138,
+      "sent_count": 139,
       "failed": {}
     },
     "boob_sfangi": {
-      "last_id": 3003,
+      "last_id": 3005,
       "processed_ids": [
         2587,
         2590,
@@ -26948,13 +26962,14 @@
         2999,
         3000,
         3001,
-        3003
+        3003,
+        3005
       ],
-      "sent_count": 206,
+      "sent_count": 207,
       "failed": {}
     },
     "fucknewsi": {
-      "last_id": 14098,
+      "last_id": 14100,
       "processed_ids": [
         13561,
         13562,
@@ -27319,9 +27334,10 @@
         14095,
         14096,
         14097,
-        14098
+        14098,
+        14100
       ],
-      "sent_count": 159,
+      "sent_count": 160,
       "failed": {}
     },
     "https://t.me/+hhcepayguws1nti0": {
@@ -27696,232 +27712,6 @@
   },
   "global": {
     "history": [
-      {
-        "fingerprint": "3d46db90f86375bea6db6986371f5fc1c4906c653a706baf4b8d1c98f41eacfb",
-        "media_fingerprint": "",
-        "text": "",
-        "original_username": "ajayebe_jahann",
-        "original_text": "",
-        "original_link": "https://t.me/Ajayebe_jahann/160345",
-        "post_id": 160345,
-        "message_id": 15074,
-        "message_kind": "text",
-        "sources": [
-          "ajayebe_jahann"
-        ],
-        "created_at": "2026-10-28T18:20:13.833094+00:00"
-      },
-      {
-        "fingerprint": "adc6f9a0bcfb6268c050eacd48007081d15cb62bfc02ef1389d410d500717100",
-        "media_fingerprint": "7458e1a2ed080978592341914b739c30bf139415214c6746aad99896fd4e7cff",
-        "text": "⏲️\nگزارش‌هایی از ساعت‌های Galaxy در رابطه با موارد سوختگی پوستی منتشر شده!\n📰\nیک خریدار ساعت Galaxy Watch 5 Pro با ساعتی که کاملاً شارژ شده بود به خواب رفت و وقتی صبح بیدار شد ، متوجه شد که ساعت خاموش شده و روی پوستش تاول زده. بقیه صاحبان و مالکان این ساعت هم عکس‌هایی از لکه‌های قرمز و تاول‌های پر از مایع زیر بخش سنسورهای پشتی منتشر کردند. در این گزارش‌ها به مدل‌های Galaxy Watch 7 و مدل‌های جدیدتر نیز اشاره شده.\n📰\nعلت این مشکل مشخص نیست. شرکت سامسونگ گفته که استفاده طولانی‌مدت میتونه باعث ناراحتی بشه ، به خصوص در صورت تعریق یا عدم تمیز کردن منظم. این شرکت توصیه میکنه که ساعت رو جدا کنید، دستگاه و پوست رو تمیز کنید و چند روز به پوست فرصت بدید تا بهبود پیدا کنه.\n@RoidBest",
-        "original_username": "roidbest",
-        "original_text": "⏲️\nگزارش‌هایی از ساعت‌های Galaxy در رابطه با موارد سوختگی پوستی منتشر شده!\n📰\nیک خریدار ساعت Galaxy Watch 5 Pro با ساعتی که کاملاً شارژ شده بود به خواب رفت و وقتی صبح بیدار شد ، متوجه شد که ساعت خاموش شده و روی پوستش تاول زده. بقیه صاحبان و مالکان این ساعت هم عکس‌هایی از لکه‌های قرمز و تاول‌های پر از مایع زیر بخش سنسورهای پشتی منتشر کردند. در این گزارش‌ها به مدل‌های Galaxy Watch 7 و مدل‌های جدیدتر نیز اشاره شده.\n📰\nعلت این مشکل مشخص نیست. شرکت سامسونگ گفته که استفاده طولانی‌مدت میتونه باعث ناراحتی بشه ، به خصوص در صورت تعریق یا عدم تمیز کردن منظم. این شرکت توصیه میکنه که ساعت رو جدا کنید، دستگاه و پوست رو تمیز کنید و چند روز به پوست فرصت بدید تا بهبود پیدا کنه.\n@RoidBest",
-        "original_link": "https://t.me/RoidBest/22017",
-        "post_id": 22017,
-        "message_id": 15075,
-        "message_kind": "caption",
-        "sources": [
-          "roidbest"
-        ],
-        "created_at": "2026-10-28T18:20:19.243307+00:00"
-      },
-      {
-        "fingerprint": "7c31f04aab3a9450283f237eb2c6a36bde4858173384c24826ff3cfe7ad5e078",
-        "media_fingerprint": "1f99627072c5c065ced4073705b5e39e99f1db75226adaf75f9f6325c271f93e",
-        "text": "♦️\nتوقیف پژو با ۶۰ کیلوگرم تریاک در \"شیراز\"\nفرمانده انتظامی شیراز :\n🔹\nماموران انتظامی کلانتری \"۱۵ قصرالدشت\" شيراز هنگام گشت زنی در سطح حوزه استحفاظي به يك سواری پژو ۲۰۷ مشکوک و برای بررسی بیشتر آن را متوقف کردند.\n🔹\nدر بازرسی از اين خودرو، ۶۰ کیلوگرم تریاک کشف شد و در اين خصوص ۲ نفر متهم دستگیر شدند.\n🔹\nمتهمین پس از تشکیل پرونده برای سیر\nمراحل قانونی تحويل مراجع قضایي شدند.\n@Akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nتوقیف پژو با ۶۰ کیلوگرم تریاک در \"شیراز\"\nفرمانده انتظامی شیراز :\n🔹\nماموران انتظامی کلانتری \"۱۵ قصرالدشت\" شيراز هنگام گشت زنی در سطح حوزه استحفاظي به يك سواری پژو ۲۰۷ مشکوک و برای بررسی بیشتر آن را متوقف کردند.\n🔹\nدر بازرسی از اين خودرو، ۶۰ کیلوگرم تریاک کشف شد و در اين خصوص ۲ نفر متهم دستگیر شدند.\n🔹\nمتهمین پس از تشکیل پرونده برای سیر\nمراحل قانونی تحويل مراجع قضایي شدند.\n@Akhbarfars",
-        "original_link": "https://t.me/akhbarfars/144655",
-        "post_id": 144655,
-        "message_id": 15076,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-28T18:20:24.101921+00:00"
-      },
-      {
-        "fingerprint": "4f5a320c35b37cd8f57184155d0356e20d77ec591f1aef718c1a72e3d0e9fea6",
-        "media_fingerprint": "",
-        "text": "#_همراه_اول  #_خروج_از_چرخه_سلب #_چرخه_عمر   مدیر محترم مرکز فروش و خدمات حضوری همراه اول  با سلام\n📌\nیه فرصت خوب برای فروش بیشتر! در زمان ارائه خدمات، مشترکینی که مدت‌هاست از سیم‌کارتشون استفاده نکردن رو در نمای 360 شناسایی کنین و با خدمت «خروج از چرخه سلب»…",
-        "original_username": "dafaterepishkhandpd",
-        "original_text": "#_همراه_اول  #_خروج_از_چرخه_سلب #_چرخه_عمر   مدیر محترم مرکز فروش و خدمات حضوری همراه اول  با سلام\n📌\nیه فرصت خوب برای فروش بیشتر! در زمان ارائه خدمات، مشترکینی که مدت‌هاست از سیم‌کارتشون استفاده نکردن رو در نمای 360 شناسایی کنین و با خدمت «خروج از چرخه سلب»…",
-        "original_link": "https://t.me/DafaterePishkhanDpd/16074",
-        "post_id": 16074,
-        "message_id": 15077,
-        "message_kind": "text",
-        "sources": [
-          "dafaterepishkhandpd"
-        ],
-        "created_at": "2026-10-28T18:20:27.567535+00:00"
-      },
-      {
-        "fingerprint": "4c8464a32f44c59900f3dbd26672fbe9c9e7e053a9a9c9a90745b24793b50441",
-        "media_fingerprint": "",
-        "text": "♦️\nدبیر کمیسیون امنیت ملی: طرح‌های مجلس برای خروج از NPT آماده است\n🔹\nهر زمانی‌که در کشور ارادۀ همه‌جانبه برای این اقدام باشد از نظر قانونگذاری آماده اقدام هستیم.\n@Akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nدبیر کمیسیون امنیت ملی: طرح‌های مجلس برای خروج از NPT آماده است\n🔹\nهر زمانی‌که در کشور ارادۀ همه‌جانبه برای این اقدام باشد از نظر قانونگذاری آماده اقدام هستیم.\n@Akhbarfars",
-        "original_link": "https://t.me/akhbarfars/144656",
-        "post_id": 144656,
-        "message_id": 15078,
-        "message_kind": "text",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-28T18:20:30.964912+00:00"
-      },
-      {
-        "fingerprint": "7696d01b50b1fd6f14a79b2f72675d33eef58f57c33171c2803166f28ade52b8",
-        "media_fingerprint": "5d14b8079c0983cab281b95c91748495794bdd5ff3183d45a921a463eb1c75bd",
-        "text": "یه دانشجوی نخبه اسپانیایی کل جزوه های درسشو روی ۱۱ خودکار حک کرد و به جلسه برد۱\n🍿\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
-        "original_username": "boob_sfangi",
-        "original_text": "یه دانشجوی نخبه اسپانیایی کل جزوه های درسشو روی ۱۱ خودکار حک کرد و به جلسه برد۱\n🍿\n🤪\n#Gary\n💎\nSpongebob | باب اسفنجی",
-        "original_link": "https://t.me/boob_sfangi/2970",
-        "post_id": 2970,
-        "message_id": 15079,
-        "message_kind": "caption",
-        "sources": [
-          "boob_sfangi"
-        ],
-        "created_at": "2026-10-28T18:20:39.641303+00:00"
-      },
-      {
-        "fingerprint": "33c6d5576dd0718bcdc7cd321b9127065421be3c38665fde4233434310a66591",
-        "media_fingerprint": "fc277a2ffe5915f38f884aa61744d64727edc2c3199e924ae4014397585a52b7",
-        "text": "سخت‌ترین شغل بعد از معدن قطعا شغل این داشمونه، قشنگ باید صبر ایوب داشته باشی یا\nکیر\nمعیوب\n@Dashagh",
-        "original_username": "dashagh",
-        "original_text": "سخت‌ترین شغل بعد از معدن قطعا شغل این داشمونه، قشنگ باید صبر ایوب داشته باشی یا\nکیر\nمعیوب\n@Dashagh",
-        "original_link": "https://t.me/dashagh/48875",
-        "post_id": 48875,
-        "message_id": 15081,
-        "message_kind": "caption",
-        "sources": [
-          "dashagh",
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-28T18:20:58.400017+00:00"
-      },
-      {
-        "fingerprint": "964ef019d6eb62c433e5077842c6b0b53907194892a30cd130ac8f1061ccb4e0",
-        "media_fingerprint": "02148e1ea208897e1c9cf92a86d6b0066043ee8b0da3dd2d2ea018d997d56ba7",
-        "text": "♦️\nلایه‌روبی پل جانبازان شرقی جهرم؛ خاک و لجن‌ها پس از چند هفته هنوز روی زمین مانده‌اند!\n🔹\nبه گزارش\n#اخبارفارس\n، عملیات لایه‌روبی پل خیابان جانبازان شرقی جهرم انجام شده، اما به گفته یکی از شهروندان، چند هفته است خاک و لجن‌های جمع‌آوری‌شده در حاشیه رودخانه رها شده‌اند؛ وضعیتی که موجب انتشار بوی تعفن و نارضایتی اهالی شده است.\n🔹\nاین شهروند در پیامی «چرا پل خیابان جانبازان شرقی خاک‌روبی شده، اما متأسفانه چند هفته است خاک‌ها را جمع نکرده‌اند و باعث بوی تعفن شده است؟ خواهشمندم پیگیری بفرمایید.»\n🔹\nانتظار شهروندان از شهرداری جهرم، انجام کار نیمه‌تمام نیست! وقتی برای لایه‌روبی هزینه و نیرو صرف می‌شود، طبیعی است که جمع‌آوری و انتقال اصولی رسوبات نیز بخشی از همان عملیات باشد؛ نه اینکه خاک و لجن‌ها هفته‌ها در حاشیه رودخانه باقی بمانند و مردم ناچار به تحمل بوی نامطبوع و پیامدهای آن شوند.\n🔹\nشهرداری جهرم باید هرچه سریع‌تر برای جمع‌آوری رسوبات باقی‌مانده اقدام کند و پاسخ دهد چرا پس از گذشت چند هفته، این وضعیت همچنان ادامه دارد.\n#مطالبه_مردمی\n@Akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nلایه‌روبی پل جانبازان شرقی جهرم؛ خاک و لجن‌ها پس از چند هفته هنوز روی زمین مانده‌اند!\n🔹\nبه گزارش\n#اخبارفارس\n، عملیات لایه‌روبی پل خیابان جانبازان شرقی جهرم انجام شده، اما به گفته یکی از شهروندان، چند هفته است خاک و لجن‌های جمع‌آوری‌شده در حاشیه رودخانه رها شده‌اند؛ وضعیتی که موجب انتشار بوی تعفن و نارضایتی اهالی شده است.\n🔹\nاین شهروند در پیامی «چرا پل خیابان جانبازان شرقی خاک‌روبی شده، اما متأسفانه چند هفته است خاک‌ها را جمع نکرده‌اند و باعث بوی تعفن شده است؟ خواهشمندم پیگیری بفرمایید.»\n🔹\nانتظار شهروندان از شهرداری جهرم، انجام کار نیمه‌تمام نیست! وقتی برای لایه‌روبی هزینه و نیرو صرف می‌شود، طبیعی است که جمع‌آوری و انتقال اصولی رسوبات نیز بخشی از همان عملیات باشد؛ نه اینکه خاک و لجن‌ها هفته‌ها در حاشیه رودخانه باقی بمانند و مردم ناچار به تحمل بوی نامطبوع و پیامدهای آن شوند.\n🔹\nشهرداری جهرم باید هرچه سریع‌تر برای جمع‌آوری رسوبات باقی‌مانده اقدام کند و پاسخ دهد چرا پس از گذشت چند هفته، این وضعیت همچنان ادامه دارد.\n#مطالبه_مردمی\n@Akhbarfars",
-        "original_link": "https://t.me/akhbarfars/144657",
-        "post_id": 144657,
-        "message_id": 15082,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-28T18:21:03.351224+00:00"
-      },
-      {
-        "fingerprint": "e7a3219d27becc7eeb8795ce27febc5bf470f767d57cf8fcea91cceb8c6f4e37",
-        "media_fingerprint": "e9b9da502dae85e176f69747a037533f7623310413dd4c7633728bf07b9cdab0",
-        "text": "این است خودرو ایرانی!\nسپر پراید با دوچرخه بچه از جا کنده شد در شهر قم\n@irWonders",
-        "original_username": "irwonders",
-        "original_text": "این است خودرو ایرانی!\nسپر پراید با دوچرخه بچه از جا کنده شد در شهر قم\n@irWonders",
-        "original_link": "https://t.me/irwonders/59210",
-        "post_id": 59210,
-        "message_id": 15083,
-        "message_kind": "caption",
-        "sources": [
-          "irwonders"
-        ],
-        "created_at": "2026-10-28T18:21:09.232375+00:00"
-      },
-      {
-        "fingerprint": "5d0721682f4c2c7adc72144b917c582b2c677424b63ff067fc483107ef14f0e4",
-        "media_fingerprint": "fcd998807e493a99cc3a3654a26075c7314461a4199c72dfdcf6d1552f283d89",
-        "text": "🔴\nانتخابات اسرائیل وارد بن‌‌بست شده! نتانیاهو پیش افتاده ولی به 61 کرسی نرسیده و نمی‌تونه دولت تشکیل بده.\n🔍\nحالا چی میشه؟ این بن‌بست سیاسی ممکنه تا برگزاری انتخابات مجدد تو آوریل 2027 (فروردین 1406) ادامه پیدا کنه. نتانیاهو احتمالاً فعلاً به‌عنوان نخست‌وزیر…",
-        "original_username": "drtel",
-        "original_text": "🔴\nانتخابات اسرائیل وارد بن‌‌بست شده! نتانیاهو پیش افتاده ولی به 61 کرسی نرسیده و نمی‌تونه دولت تشکیل بده.\n🔍\nحالا چی میشه؟ این بن‌بست سیاسی ممکنه تا برگزاری انتخابات مجدد تو آوریل 2027 (فروردین 1406) ادامه پیدا کنه. نتانیاهو احتمالاً فعلاً به‌عنوان نخست‌وزیر…",
-        "original_link": "https://t.me/drtel/71966",
-        "post_id": 71966,
-        "message_id": 15084,
-        "message_kind": "caption",
-        "sources": [
-          "drtel"
-        ],
-        "created_at": "2026-10-28T18:21:13.869074+00:00"
-      },
-      {
-        "fingerprint": "00b0f8256fafb924b617267ceaa1df26939b89d941527b181415904d3460896c",
-        "media_fingerprint": "fe22d3f81fb04a733390d2ea972e2444d66ea5ab9acc293516ca0803c9e50794",
-        "text": "چالش داریم چالش نود و خاطرات اولین ساک زدن دخترای دهه‌هشتادی بیاید کانال چالشامون\n😈\n👇🏻\n:\n• @Chalesh-sak",
-        "original_username": "peach_tweet",
-        "original_text": "چالش داریم چالش نود و خاطرات اولین ساک زدن دخترای دهه‌هشتادی بیاید کانال چالشامون\n😈\n👇🏻\n:\n• @Chalesh-sak",
-        "original_link": "https://t.me/peach_tweet/4745",
-        "post_id": 4745,
-        "message_id": 15085,
-        "message_kind": "caption",
-        "sources": [
-          "peach_tweet"
-        ],
-        "created_at": "2026-10-28T18:49:21.360111+00:00"
-      },
-      {
-        "fingerprint": "ad08d8d776916610ae702ec32dbf2d86ef425e5682973e33408991e0062825f0",
-        "media_fingerprint": "9d17353b37d9affef4f5662ad8edb19b7f44771a8ac5b98cd45fe7c4cbe5c27b",
-        "text": "تا حالا فوتبال ممه‌ای دیده بودین\n😂\n😂\n@FuckNewsi",
-        "original_username": "fucknewsi",
-        "original_text": "تا حالا فوتبال ممه‌ای دیده بودین\n😂\n😂\n@FuckNewsi",
-        "original_link": "https://t.me/FuckNewsi/14058",
-        "post_id": 14058,
-        "message_id": 15086,
-        "message_kind": "caption",
-        "sources": [
-          "fucknewsi"
-        ],
-        "created_at": "2026-10-28T18:49:28.097098+00:00"
-      },
-      {
-        "fingerprint": "8340ca05c3ef94370b662bd4825864ded463d2020a1226c6246c42d11408cf79",
-        "media_fingerprint": "67740a7a4e2a420a5b9a59b3bbdeed12dd57c269024ebef8f0bd6f79ad2a555e",
-        "text": "♦️\nبعضیا جشن ترس دارن، ولی ما وارث فرهنگی هستیم که قرن‌ها زنده مونده!\n🇮🇷\n#ایران_زیبا\n@akhbarfars",
-        "original_username": "akhbarfars",
-        "original_text": "♦️\nبعضیا جشن ترس دارن، ولی ما وارث فرهنگی هستیم که قرن‌ها زنده مونده!\n🇮🇷\n#ایران_زیبا\n@akhbarfars",
-        "original_link": "https://t.me/akhbarfars/144658",
-        "post_id": 144658,
-        "message_id": 15087,
-        "message_kind": "caption",
-        "sources": [
-          "akhbarfars"
-        ],
-        "created_at": "2026-10-28T18:49:34.683178+00:00"
-      },
-      {
-        "fingerprint": "2e1c90dad427a031add5c05e5acc7865fbff1064ad177288b8bc0f00b712add6",
-        "media_fingerprint": "",
-        "text": "",
-        "original_username": "apkclub",
-        "original_text": "",
-        "original_link": "https://t.me/apkclub/73299",
-        "post_id": 73299,
-        "message_id": 15088,
-        "message_kind": "text",
-        "sources": [
-          "apkclub"
-        ],
-        "created_at": "2026-10-28T18:49:38.116770+00:00"
-      },
-      {
-        "fingerprint": "69ba228768f6485d9f3fc729ca87a1a337386f6e72a6947913c2d32e63aa7732",
-        "media_fingerprint": "71c3d27bc99417339753c31d0afa0b5a0517c62256dcf97997627b9908f65924",
-        "text": "گام های هدفمند دولت در جهت مهار تورم\n😂\n:\n@khandehabadd",
-        "original_username": "khandehabadd",
-        "original_text": "گام های هدفمند دولت در جهت مهار تورم\n😂\n:\n@khandehabadd",
-        "original_link": "https://t.me/khandehabadd/307403",
-        "post_id": 307403,
-        "message_id": 15089,
-        "message_kind": "caption",
-        "sources": [
-          "khandehabadd"
-        ],
-        "created_at": "2026-10-28T18:49:45.904664+00:00"
-      },
       {
         "fingerprint": "2c90351959c940c48bf6efbb8130c17594a929efcd47eea586be4699fc94f398",
         "media_fingerprint": "b6b677562a57e8f91a75e690e2c713aa2d8ff214b98450dca690e70f2882910f",
@@ -31724,7 +31514,8 @@
         "message_id": 15365,
         "message_kind": "caption",
         "sources": [
-          "ajayebe_jahann"
+          "ajayebe_jahann",
+          "khandehabadd"
         ],
         "created_at": "2026-10-29T16:54:06.842914+00:00"
       },
@@ -31859,7 +31650,8 @@
         "message_id": 15375,
         "message_kind": "text",
         "sources": [
-          "irwonders"
+          "irwonders",
+          "gizmiztel"
         ],
         "created_at": "2026-10-29T17:25:26.054167+00:00"
       },
@@ -32160,7 +31952,8 @@
         "message_id": 15398,
         "message_kind": "caption",
         "sources": [
-          "dashagh"
+          "dashagh",
+          "peach_tweet"
         ],
         "created_at": "2026-10-29T18:27:21.733554+00:00"
       },
@@ -32223,6 +32016,232 @@
           "khandehabadd"
         ],
         "created_at": "2026-10-29T18:27:39.089388+00:00"
+      },
+      {
+        "fingerprint": "4061bfcc83f64c1de0a6d129c6b7099c57f077b8563ff9fbd1e8cf99a1c37109",
+        "media_fingerprint": "",
+        "text": "♦️\nشکست زاگرس جنوبی مقابل شهرداری گرگان در لیگ برتر بسکتبال\n🔹️\nدر هفته دوم لیگ برتر بسکتبال مردان ایران، زاگرس جنوبی جهرم ساعت ۱۶ امروز در سالن شهید فرجام جهرم به مصاف شهرداری گرگان رفت و ۷۸ بر ۶۷ شکست خورد\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nشکست زاگرس جنوبی مقابل شهرداری گرگان در لیگ برتر بسکتبال\n🔹️\nدر هفته دوم لیگ برتر بسکتبال مردان ایران، زاگرس جنوبی جهرم ساعت ۱۶ امروز در سالن شهید فرجام جهرم به مصاف شهرداری گرگان رفت و ۷۸ بر ۶۷ شکست خورد\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144717",
+        "post_id": 144717,
+        "message_id": 15406,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-29T18:56:26.322417+00:00"
+      },
+      {
+        "fingerprint": "83c7dd2d1528672d5f99d1d7fc24dfde4e918abe6577df547dddb457e7ef1421",
+        "media_fingerprint": "d9e9dd68ec3deee737977fb0b4e0f2acb41b5095aefc04948a3eae7756d29927",
+        "text": "تاریخ تکرار شد\n😆\nیه فرد خارجی اومد از صحنه‌های خنده‌دار داخل باشگاه میم درست کرد، که دوتا از صحنه‌ها\n(ثانیه 00:00 و 00:56) مربوط به ایرانیاست\nایرانیاهم گرفتن کامنت عربی گزاشتن تا کسی نفهمه\n💪\n#LarryLobster\n💎\nSpongebob | باب اسفنجی",
+        "original_username": "boob_sfangi",
+        "original_text": "تاریخ تکرار شد\n😆\nیه فرد خارجی اومد از صحنه‌های خنده‌دار داخل باشگاه میم درست کرد، که دوتا از صحنه‌ها\n(ثانیه 00:00 و 00:56) مربوط به ایرانیاست\nایرانیاهم گرفتن کامنت عربی گزاشتن تا کسی نفهمه\n💪\n#LarryLobster\n💎\nSpongebob | باب اسفنجی",
+        "original_link": "https://t.me/boob_sfangi/3005",
+        "post_id": 3005,
+        "message_id": 15407,
+        "message_kind": "caption",
+        "sources": [
+          "boob_sfangi"
+        ],
+        "created_at": "2026-10-29T18:56:30.703852+00:00"
+      },
+      {
+        "fingerprint": "16405a4eb4c374861ce8fb3d852ef7b911247003ceb48b8e826f73ce5d5935b4",
+        "media_fingerprint": "732120c37fc4ed3b699f26e55fa35d08ec2c9d0cce627c7216d195e06c660c9d",
+        "text": "@comentiat",
+        "original_username": "comentiat",
+        "original_text": "@comentiat",
+        "original_link": "https://t.me/Comentiat/26840",
+        "post_id": 26840,
+        "message_id": 15408,
+        "message_kind": "caption",
+        "sources": [
+          "comentiat"
+        ],
+        "created_at": "2026-10-29T18:56:34.990912+00:00"
+      },
+      {
+        "fingerprint": "ef65bb27d1930ce3bd25fe58ae3b304ab1e1492cb6b600743d89a53e417b4250",
+        "media_fingerprint": "159d07ccd00d1d0971d5a18a1d777dceb5324cbf9b4d95fb208066b76c8abcf8",
+        "text": "«ببخشید، سایز بزرگ‌تر از این رو دارین؟»\nاین لحظه برای خیلی‌هامون آشناست؛ وقتی دلمون می‌خواد لباس دقیقاً به تنمون بشینه! اما رسیدن به وزن مطلوب، لزوماً به معنی گرسنگی کشیدن نیست.\nما در\nکلینیک ویهان\n، از اصلاح سبک زندگی تا استفاده از داروهایی مثل\nآمپول لاغری زیکورپا\n، با تجویز پزشک متخصص، همراهتیم.\n✨\nوقتشه دوباره از پوشیدن لباس دلخواهت لذت ببری!\nمشاوره رایگان لاغری\nمشاوره رایگان لاغری\nمشاوره رایگان لاغری",
+        "original_username": "ajayebe_jahann",
+        "original_text": "«ببخشید، سایز بزرگ‌تر از این رو دارین؟»\nاین لحظه برای خیلی‌هامون آشناست؛ وقتی دلمون می‌خواد لباس دقیقاً به تنمون بشینه! اما رسیدن به وزن مطلوب، لزوماً به معنی گرسنگی کشیدن نیست.\nما در\nکلینیک ویهان\n، از اصلاح سبک زندگی تا استفاده از داروهایی مثل\nآمپول لاغری زیکورپا\n، با تجویز پزشک متخصص، همراهتیم.\n✨\nوقتشه دوباره از پوشیدن لباس دلخواهت لذت ببری!\nمشاوره رایگان لاغری\nمشاوره رایگان لاغری\nمشاوره رایگان لاغری",
+        "original_link": "https://t.me/Ajayebe_jahann/160386",
+        "post_id": 160386,
+        "message_id": 15409,
+        "message_kind": "caption",
+        "sources": [
+          "ajayebe_jahann"
+        ],
+        "created_at": "2026-10-29T18:56:39.621615+00:00"
+      },
+      {
+        "fingerprint": "4095adf64a36005ba94363c0ed814c2d47c5879e239c86fa89ce1fac76abd4b1",
+        "media_fingerprint": "1cba80b8b6f903a25d009d2879ff845ac62f166145dbe3b1779212286730247a",
+        "text": "دلبری های بانو نسیم الماسی\n🤤\n@peach_tweet\n🍑",
+        "original_username": "peach_tweet",
+        "original_text": "دلبری های بانو نسیم الماسی\n🤤\n@peach_tweet\n🍑",
+        "original_link": "https://t.me/peach_tweet/4775",
+        "post_id": 4775,
+        "message_id": 15410,
+        "message_kind": "caption",
+        "sources": [
+          "peach_tweet"
+        ],
+        "created_at": "2026-10-29T18:56:45.204461+00:00"
+      },
+      {
+        "fingerprint": "aec6ea551404821beeb74a97ddc1204922335756292a2b43885abc86c28e0fa4",
+        "media_fingerprint": "08331adfad1fcf67f0cae59ac47a326a82fd7e01bea82c96896af2eba710bcf6",
+        "text": "پری دریایی پاکستانی !\nینی حتی برای این اجرا هم نکردن یه آب تمیز بیارن\n*مامان‌ِ سوفی*\n@irWonders",
+        "original_username": "irwonders",
+        "original_text": "پری دریایی پاکستانی !\nینی حتی برای این اجرا هم نکردن یه آب تمیز بیارن\n*مامان‌ِ سوفی*\n@irWonders",
+        "original_link": "https://t.me/irwonders/59249",
+        "post_id": 59249,
+        "message_id": 15411,
+        "message_kind": "caption",
+        "sources": [
+          "irwonders"
+        ],
+        "created_at": "2026-10-29T18:56:51.065787+00:00"
+      },
+      {
+        "fingerprint": "cac11ab163c917a785fcc54913b66013b71fd8306a8ea8c7d07a669299449a96",
+        "media_fingerprint": "94f4c156613fcc9f63243146c234be1bd99c3c27c27a9f1e2fd9afa377995efe",
+        "text": "♦️\nجمعه کجا بریم؟ | ۳ پیشنهاد دیدنی برای یک جمعه متفاوت در شیراز\n🔹\nباغ ارم و باغ دلگشا؛ قدم‌زدن، عکاسی و آرامش میان درخت‌ها\n🔹\nارگ کریم‌خان و بازار وکیل؛ گشت‌وگذار در بافت تاریخی و خرید سوغاتی\n🔹\nنارنجستان قوام و خانه زینت‌الملک؛ تماشای معماری چشم‌نواز خانه‌های تاریخی\nشما کدوم مقصد رو برای جمعه انتخاب می‌کنید؟\n#جمعه_کجابریم\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nجمعه کجا بریم؟ | ۳ پیشنهاد دیدنی برای یک جمعه متفاوت در شیراز\n🔹\nباغ ارم و باغ دلگشا؛ قدم‌زدن، عکاسی و آرامش میان درخت‌ها\n🔹\nارگ کریم‌خان و بازار وکیل؛ گشت‌وگذار در بافت تاریخی و خرید سوغاتی\n🔹\nنارنجستان قوام و خانه زینت‌الملک؛ تماشای معماری چشم‌نواز خانه‌های تاریخی\nشما کدوم مقصد رو برای جمعه انتخاب می‌کنید؟\n#جمعه_کجابریم\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144719",
+        "post_id": 144719,
+        "message_id": 15412,
+        "message_kind": "caption",
+        "sources": [
+          "akhbarfars"
+        ],
+        "created_at": "2026-10-29T18:56:55.973222+00:00"
+      },
+      {
+        "fingerprint": "910810fa0a6cf4be44b0d7fa8ae9483beb349c7f4ce435d1ab045373e0e75f4c",
+        "media_fingerprint": "db67de01203c027d15c1af893e5e4817f359ca9f832927f3ab200c1ca2ba41f3",
+        "text": "دختره رفته پشت کمرش تتو زده دونت استاپ، الان اومده میگه معنیشو نمیدونستم الان که مادرم معنیشو بهم گفت اومدم پاک کنم :\n@FuckNewsi",
+        "original_username": "fucknewsi",
+        "original_text": "دختره رفته پشت کمرش تتو زده دونت استاپ، الان اومده میگه معنیشو نمیدونستم الان که مادرم معنیشو بهم گفت اومدم پاک کنم :\n@FuckNewsi",
+        "original_link": "https://t.me/FuckNewsi/14100",
+        "post_id": 14100,
+        "message_id": 15413,
+        "message_kind": "caption",
+        "sources": [
+          "fucknewsi"
+        ],
+        "created_at": "2026-10-29T18:57:01.983469+00:00"
+      },
+      {
+        "fingerprint": "e64cc6940ac577b912ea03f68d5bb7baf37fb24f0e8b2293d9d5555f81ae3090",
+        "media_fingerprint": "c2d8dce7603b497f0042bd6e8d5b0202486ece28ee367e008928cc9877a2df4a",
+        "text": "قبرستانی عجیب و کم نظیر\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "قبرستانی عجیب و کم نظیر\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/164117",
+        "post_id": 164117,
+        "message_id": 15414,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-29T18:57:07.988868+00:00"
+      },
+      {
+        "fingerprint": "f65dc899503f2109a6c22e3f5d82c94d79ddc9f567fe5779511a8c186446b28b",
+        "media_fingerprint": "5d9e5c6699bd8c1aec41f5361fe0ab8a58a701a0c57e982bf025276f4bebcbfc",
+        "text": "چرا همه کودکان چنین رفتاری نمی‌کنند؟\nکودکی که مرز مالکیت دیگران را نمی‌شناسد، پیامد رفتار خود را جدی نمی‌گیرد یا از آسیب‌زدن به دیگران احساس مسئولیت نمی‌ کند، نیازمند آموزش و اصلاح رفتار است.\nکم‌کاری والدین کجاست؟\nدر آموزش ‌ندادن احترام به اموالو حقوق مالکیت دیگران، نظارت ناکافی\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "چرا همه کودکان چنین رفتاری نمی‌کنند؟\nکودکی که مرز مالکیت دیگران را نمی‌شناسد، پیامد رفتار خود را جدی نمی‌گیرد یا از آسیب‌زدن به دیگران احساس مسئولیت نمی‌ کند، نیازمند آموزش و اصلاح رفتار است.\nکم‌کاری والدین کجاست؟\nدر آموزش ‌ندادن احترام به اموالو حقوق مالکیت دیگران، نظارت ناکافی\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/164119",
+        "post_id": 164119,
+        "message_id": 15415,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-29T18:57:28.390141+00:00"
+      },
+      {
+        "fingerprint": "c0195ff5fe73cb30b4d5bce8872c6c7d96731db20ba77bce74d4a983997fea9c",
+        "media_fingerprint": "fa330f7c4bb99a29c44b9b688c231fceebcfe99fec132de5d40355a7ff2e3703",
+        "text": "اصلا اهل تجملات نیستم اصلااا\n😌\n🆔\n@GizmizTel\n💯",
+        "original_username": "gizmiztel",
+        "original_text": "اصلا اهل تجملات نیستم اصلااا\n😌\n🆔\n@GizmizTel\n💯",
+        "original_link": "https://t.me/gizmiztel/164120",
+        "post_id": 164120,
+        "message_id": 15416,
+        "message_kind": "caption",
+        "sources": [
+          "gizmiztel"
+        ],
+        "created_at": "2026-10-29T18:57:34.327724+00:00"
+      },
+      {
+        "fingerprint": "a2cb7af7467d4ce868c03cb2f35eb667a208a71b68a0c0be7eb548a84dcc7b61",
+        "media_fingerprint": "",
+        "text": "♦️\nشرکت ملی پخش فرآورده‌های نفتی ایران: خبر غیرفعال شدن کارت سوخت خودروهای بالای ۲۵ سال و موتورسیکلت‌های بالای ۱۰ سال تکذیب می‌شود\n@akhbarfars",
+        "original_username": "akhbarfars",
+        "original_text": "♦️\nشرکت ملی پخش فرآورده‌های نفتی ایران: خبر غیرفعال شدن کارت سوخت خودروهای بالای ۲۵ سال و موتورسیکلت‌های بالای ۱۰ سال تکذیب می‌شود\n@akhbarfars",
+        "original_link": "https://t.me/akhbarfars/144720",
+        "post_id": 144720,
+        "message_id": 15417,
+        "message_kind": "text",
+        "sources": [
+          "akhbarfars",
+          "akhbar_cafenet"
+        ],
+        "created_at": "2026-10-29T18:57:37.763329+00:00"
+      },
+      {
+        "fingerprint": "10573351fa47c102932ebc12276490f70aeb0d413da6d980b311beb81120ecec",
+        "media_fingerprint": "",
+        "text": "",
+        "original_username": "apkclub",
+        "original_text": "",
+        "original_link": "https://t.me/apkclub/73320",
+        "post_id": 73320,
+        "message_id": 15418,
+        "message_kind": "text",
+        "sources": [
+          "apkclub"
+        ],
+        "created_at": "2026-10-29T18:57:41.611564+00:00"
+      },
+      {
+        "fingerprint": "62da0b82cc9bd921962af49b97692babfd4a16ce2ab6c421db4b3b3b81fe349e",
+        "media_fingerprint": "b1123c9248965174499c2a3be0347cdf857a6aa64fcc108415d775ab0f686cdf",
+        "text": "بدن ما به چند ساعت خواب نیاز دارد ؟\n😴\n◽️\nبرای عزیزانتون بفرستید تا با خواب و استراحت درست سلامتشون رو حفظ کنن ، چرا که کم خوابی باعث کوتاهی عمر میشود !\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_username": "majalepezeshki",
+        "original_text": "بدن ما به چند ساعت خواب نیاز دارد ؟\n😴\n◽️\nبرای عزیزانتون بفرستید تا با خواب و استراحت درست سلامتشون رو حفظ کنن ، چرا که کم خوابی باعث کوتاهی عمر میشود !\n#سلامت\n#پزشکی\n@MajalePezeshki",
+        "original_link": "https://t.me/MajalePezeshki/38905",
+        "post_id": 38905,
+        "message_id": 15419,
+        "message_kind": "text",
+        "sources": [
+          "majalepezeshki"
+        ],
+        "created_at": "2026-10-29T18:57:45.872622+00:00"
+      },
+      {
+        "fingerprint": "eb84949716bef2d726297c934d05ce82dadd9f8f88bf6002ff89784f43aa4d97",
+        "media_fingerprint": "43eb81067082545c94dfcdc7cbf5e4bd018e692b5a3308f080b1c2f42c44c90c",
+        "text": "آدم میمونه بخنده یا گریه کنه:))))))))\n@Dashagh",
+        "original_username": "dashagh",
+        "original_text": "آدم میمونه بخنده یا گریه کنه:))))))))\n@Dashagh",
+        "original_link": "https://t.me/dashagh/48911",
+        "post_id": 48911,
+        "message_id": 15420,
+        "message_kind": "caption",
+        "sources": [
+          "dashagh"
+        ],
+        "created_at": "2026-10-29T18:57:52.346806+00:00"
       }
     ]
   }
